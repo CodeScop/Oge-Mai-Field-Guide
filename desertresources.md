@@ -1,8 +1,10 @@
-LAST UPDATED 13 APR 2020
+LAST UPDATED 25 APR 2020
 
 Summary of everything available in the DESERT. (Yes, now including Shrine of Ages!) Abbreviations:
 
 - FOREST = see the Forest Resources, because this is info you can only use in the Forest Region
+- HuntS1 = Hunt for the Ancients Season 1
+- HuntS2 = Hunt for the Ancients Season 2
 - 3PC = Three Points Crossing
 - Gansu = Gansu Watering Hole
 - Dig = Dig Site
@@ -367,6 +369,12 @@ This actually isn't available yet, but a quest requiring it pops up as soon as R
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
 - **Used for:** HuntS2 Quest: All Who Wander (1)
 
+### Hunt Map Piece 5
+
+- **Source:** HuntS2 Quest: State of Rest (1)
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** HuntS2 Quest: Oh, Endless Possibilities! (1)
+
 ### Hunter Tokens
 
 - **Hunt Sources:** 
@@ -375,7 +383,8 @@ This actually isn't available yet, but a quest requiring it pops up as soon as R
 
   - FOREST
   - 3PC Battles: Czanus (700 words for 7)
-  - Hunt S2 Quests: A Season to Explore (100), Wandering We Go (10), Strengthening Your Loyalty (10)
+  - Gansu Battles: Pipit (900 words for 9)
+  - Hunt S2 Quests: A Season to Explore (100), Wandering We Go (10), Strengthening Your Loyalty (10), State of Rest (5), Seeing It Through (5), We Wander Together (10), Strengthening Your Viewpoint (10), Strengthening Your Friendship (10)
 
 - **Mar-Apr2020 Sources:**
 
@@ -581,7 +590,7 @@ FOREST ONLY
 - **Other sources:** 
   - FOREST
   - 3PC Battles: Czanus (700 words for 2-4), Bruja (900 words for 2-3), Yasri (1250 words for 2-3), Lombri (1500 words and 1 Wood Spear for 3)
-  - Gansu Battles: Ylly (720 words for 3), Sparfly (450 words for 1), Suulan (2000 words, 1 Steel Dagger for 2), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 3)
+  - Gansu Battles: Ylly (720 words for 3), Sparfly (450 words for 1), Pipit (900 words for 2-4), Suulan (2000 words, 1 Steel Dagger for 2), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 3)
   - ShrineMar Battles: Osemar (1000 words for 1-4), Balatrix (630 words for 1-2), Balatros (700 words for 1-2), Balatras (785 words for 1-2)
   - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
 - **Buy: **40 Coins in Item Bazaar/Zilya's Great Bazaar 
@@ -651,7 +660,7 @@ FOREST ONLY
 - **Other sources:** Buy,
   - MT & 3PC Battles: Tambo (2000 words, 4 Rope, and 10 Leaves for 1-2)
   - 3PC Battles: Rulo (550 words for 1), Lombri (1500 words and 1 Wood Spear for 2-3)
-  - Gansu Battles: Rulo (550 words for 1), Suulan (2000 words, 1 Steel Dagger for 1)
+  - Gansu Battles: Rulo (550 words for 1), Pipit (900 words for 1-2), Suulan (2000 words, 1 Steel Dagger for 1)
   - Dig Battles: Kapir (800 words for 0-1), Sakish (350 words for 1)
   - Ruins Battles: Griffe (450 words for 1), Ripos (1800 words for 1-3)
   - Ruins Quest: Excavating East (5)
@@ -669,7 +678,7 @@ FOREST ONLY
 
 - **Sources:** 
   - 3PC Battles: Bruja (900 words for 1-2), Czanus (700 words for 0-1), Yasri (1250 words for 1)
-  - Gansu Battles: Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 2), Wetu (1100 words for 1), Arenica (1350 words, 1 Steel Dagger for 1)
+  - Gansu Battles: Pipit (900 words for 0-1, usually 1 with Luck), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 2), Wetu (1100 words for 1), Arenica (1350 words, 1 Steel Dagger for 1)
   - Shrine GO Battles: Wavi Ooze (330 words for 0-1)
   - ShrineMar Battles: Zosimas (575 words for 0-1), Zosimaga (600 words for 0-1), Balatros (700 words for 0-1), Balatras (785 words for 0-1), Osemar (1000 words for 1)
   - 3PC Wooden Chest: 1
@@ -1047,6 +1056,7 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
   - Ruins Battles: Yantao (650 words for 1-2)
   - 3PC Battles: Czanus (700 words for 1-3), Tambo (2000 words, 4 Rope, 10 Leaves, min level 5 for 3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1-2)
   - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
+  - Gansu Battles: Pipit (900 words for 1-2)
   - Shrine TFA Battles: Untu Ship (500 words for 1-6), Fools' Lorsa (150 words for 1), Fools' Lorsa Halloween (100 words for 1)
   - Shrine GO Battles: Giant Ooze House (500 words for 2-4), Yawni Ooze (125 words for 0-2), Wavi Ooze (330 words for 1)
   - ShrinePoly Battles: Poly Mawt (900 words for 1-2)
