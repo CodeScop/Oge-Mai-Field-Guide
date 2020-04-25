@@ -1,0 +1,233 @@
+ (Table of Contents last updated 25 April 2020)
+
+- Intro & FAQ
+  - Master Table of Contents
+  - Intro To The Guide
+  - FAQ & Resources
+- Luciola Forest Intro
+  - Luciola Forest Intro
+  - Luciola Open: Side Quests
+  - Luciola Open: Monsters
+  - Luciola Main Quests
+- Hunt for the Ancients INTRO
+  - Intro to Hunt for the Ancients
+  - New This Month/SPOILERS
+    - New Quests
+    - New Hunt Monsters
+    - New Resources
+    - Hunter Token Sources
+    - New Wardrobe Items
+- Luciola Forest Summary
+  - Sidequests - Luciola Forest
+  - Monsters - Luciola Forest
+  - Resources - Luciola Forest
+  - Battle Gear - Luciola Forest
+  - List of Available Quests: Post Luciola Forest
+- Mama Tree Open
+  - Mama Tree Intro
+  - Mama Tree Open: Sidequests
+  - Mama Tree Open: Monsters
+  - Mama Tree Main Quests
+- Mama Tree Summary
+  - Sidequests: Mama Tree
+  - Monsters: Mama Tree
+  - Resources: Mama Tree
+  - List of Available Quests: Post Mama Tree
+- Expedition Forest Region: Base Camp, Forward Base, Stone City, Tall Trees, Guardian's Lair
+  - Base Camp/Forest Expedition Intro
+  - Monsters: Forest Expedition
+    - Everywhere Monsters
+    - Base Camp Monsters
+    - Forward Base Monsters
+    - Stone City Monsters
+    - Tall Trees Monsters
+    - Guardian's Lair Monsters
+  - Quests: Forest Expedition
+    - Base Camp Sidequests
+    - Forward Base Sidequests
+    - Stone City Sidequests
+    - Tall Trees Sidequests
+    - Guardian's Lair Sidequests
+  - Resources: Forest Expedition
+  - List of Available Quests: Forest Expedition
+- Hunt: Season 1 - Hope (FOREST)
+  - Season 1 Quests
+  - Phase One: Unlocking the Hunt
+  - A Side Path: Proving Your XXX Questline
+  - Deeper Into The Hunt
+  - Hunt-Specific Season 1 Monsters
+  - Hunt-Specific Resources - Season 1
+  - Hunt for the Ancients S1 Questline Summary
+- Forest Region Resources
+  - Resources: Forest Region
+  - Battle Gear: Forest
+    - Companion
+    - Head
+    - Chest
+    - Feet
+    - Weapon1
+    - Weapon2
+    - Accessory
+- Forest Region Bestiary
+- Three Points Crossing Open
+  - Three Points Crossing Intro
+  - 3PC Open: Sidequests
+  - 3PC Open: Monsters
+  - 3PC Main Quests
+- Three Points Crossing Summary
+  - Sidequests: Three Points Crossing
+  - Monsters: Three Points Crossing
+  - Resources: Three Points Crossing
+  - Battle Gear: Three Points Crossing
+  - List of Available Quests: Post Three Points Crossing
+- Gansu Watering Hole Open
+  - Gansu Intro
+  - Gansu Open: Sidequests
+  - Gansu Open: Monsters
+  - Gansu Main Quests
+- Gansu Watering Hole Summary
+  - Sidequests: Gansu
+  - Monsters: Gansu
+  - Resources: Gansu
+  - List of Available Quests: Post Gansu Watering Hole
+- Expedition Desert Region: Dig Site and Underground Ruins
+  - Desert Expedition Intro
+  - Desert Expedition Sidequests
+    - Dig Site Quests
+    - Ruins Quests
+  - Desert Expedition Monsters
+    - All Game Monsters
+    - Dig Site Monsters
+    - Ruins Monsters
+  - Desert Expedition Resources
+  - List of Available Quests: Desert Expedition
+- Shrine of Ages
+  - Shrine of Ages Intro
+  - Ducks
+    - Quests - Ducks
+    - Monsters - Ducks
+    - Resources - Ducks
+  - Green Ooze
+    - Quests - Green Ooze
+    - Monsters - Green Ooze
+    - Resources - Green Ooze
+  - Marionette
+    - Quests - Marionette
+    - Monsters - Marionette
+    - Resources - Marionette
+  - Polygon
+    - Quests - Polygon
+    - Monsters - Polygon
+    - Resources - Polygon
+  - Terror From Above
+    - Quests - Terror From Above
+    - Monsters - Terror From Above
+    - Resources - Terror From Above
+  - All Shrine Wardrobe
+- Hunt: Season 2 - Wandering (DESERT)
+  - Season 2 Quests - The Main Line
+  - Season 2 Quests - Strengthening Sideline
+  - Season 2 Quests - Miscellaneous
+  - Season 2 Monsters
+  - Season 2 Resources
+  - Hunt for the Ancients Season 2 Questline Summary
+- Desert Region Resources
+- Desert Region Bestiary
+- Riza Rivertown Open
+  - Riza Rivertown Intro
+  - Riza Open: Sidequests
+  - Riza Open: Monsters
+  - Riza Main Quests
+- Riza Rivertown Summary
+  - Sidequests: Riza
+  - Monsters: Riza Rivertown
+  - Resources: Riza
+  - Battle Gear: Riza
+  - List of Available Quests: Post Riza Rivertown
+- Expedition Water Region: Raina Surface Camp
+  - Under Construction Notice
+- Floating City of Balance Open
+  - Balance Intro
+  - Balance Open: Sidequests
+  - Balance Open: Monsters
+  - Balance Main Quests
+- Floating City of Balance Summary
+  - Sidequests: Balance
+  - Monsters: Floating City of Balance
+  - List of Available Quests: Post Floating City of Balance
+- Water Region Resources
+- Water Region Bestiary
+- Dark Forest Outpost Open
+  - Dark Forest Outpost Intro
+  - DFO Open: Sidequests
+  - DFO Open: Monsters
+  - DFO Main Quests
+- Dark Forest Outpost Summary
+  - Dark Forest Sidequests
+  - Dark Forest Monsters
+  - Dark Forest Resources
+  - Battle Gear: Dark Forest
+  - Dark Forest Wardrobe
+  - Dark Forest Questline
+- All Resources & Streak Rewards
+  - First, what does "All" mean?
+  - A-F
+  - G-O
+  - P-R
+  - S
+  - T-Z
+  - Streak Rewards
+  - Level Rewards
+- All Battle Gear & All Wardrobe
+  - All Battle Gear
+    - Companion
+    - Head
+    - Chest
+    - Feet
+    - Weapon1
+    - Weapon2
+    - Accessory
+  - Bonus Section: All Wardrobe
+    - Luciola Forest
+    - Hunt for the Ancients Quests
+    - Mama Tree
+    - Base Camp
+    - Guardian's Lair
+    - Three Points Crossing
+    - Dig Site
+    - Shrine of Ages: General
+    - Shrine of Ages: Ducks
+    - Shrine of Ages: Green Ooze
+    - Shrine of Ages: Marionette
+    - Shrine of Ages: Polygon
+    - Shrine of Ages: Terror From Above
+    - Riza Rivertown
+    - Raina Surface Camp
+    - Floating City of Balance
+    - Dark Forest Outpost
+- All Game Bestiary & All Quests
+  - Bestiary
+  - All Quests
+    - Global Quests
+    - Main Questline & Oge-Mai
+    - Questline - Forest Expedition
+    - Questline - Desert Expedition
+    - Questline - Water Expedition
+    - Questline - Hunt for the Ancients - Season 1
+    - Questline - Hunt for the Ancients - Season 2
+- Travel Directions
+  - Word Map of 4TW
+- Special Events
+  - Introduction: Raina River Festival
+    - Global Events
+  - New Info As Of (benchmark/date here)
+    - New Event Quests
+    - New Event Monsters
+  - All Quests: Raina River Festival
+  - All Monsters: Raina River Festival
+  - All Resources: Raina River Festival
+    - Festival-Specific Resources
+    - Regular Resources from Festival Sources
+  - The Last Note
+- State of the Guide
+  - (All update notices, ordered with most recent first)
