@@ -1,4 +1,4 @@
-LAST UPDATED 1 APR 2020
+LAST UPDATED 25 APR 2020
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
 
@@ -22,6 +22,9 @@ Because some people might be on the hunt for all the wardrobe items available in
   - Upper Buns Hair - 10 Hunter Tokens
   - Upward Spikes - 10 Hunter Tokens
   - Double Belt - 15 Hunter Tokens
+  - Facepaint Cross Lines - 15 Hunter Tokens
+  - Facepaint Dots Line - 15 Hunter Tokens
+  - Facepaint Dots Simple - 15 Hunter Tokens
   - Freckles - 20 Hunter Tokens
   - Simple Sandals - 20 Hunter Tokens
   - Triple Belt - 20 Hunter Tokens
@@ -48,7 +51,9 @@ Because some people might be on the hunt for all the wardrobe items available in
   - Hunt Bracers - 100 Hunter Tokens
   - Small Chestplate - 100 Hunter Tokens
   - Knee High Laced Boots - 125 Hunter Tokens
+  - Shield - 125 Hunter Tokens
   - Spear - 125 Hunter Tokens
+  - Sword - 125 Hunter Tokens
   - Lorsa Fur Scarf - 150 Hunter Tokens
   - Hunt Skirt - 175 Hunter Tokens
   - Hunt Altar - 500 Hunter Tokens
@@ -83,13 +88,28 @@ Because some people might be on the hunt for all the wardrobe items available in
 - **A Past Not Forgotten** returns **Pauldrons**: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;armor&#95;pauldrons.png
 - **The Curator of Elder Library** returns **Sassi Pet:** https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;sassi&#95;pet.png
 - **All Who Wander** returns **Tall Fur Boots**, which come in seven varieties:
-- black: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Fur&#95;Tall&#95;Black.png
+  - black: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Fur&#95;Tall&#95;Black.png
   - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Fur&#95;Tall&#95;Blue.png
   - brown: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Fur&#95;Tall&#95;Brown.png
   - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Fur&#95;Tall&#95;Green.png
   - purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Fur&#95;Tall&#95;Purple.png
   - red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Fur&#95;Tall&#95;Red.png
   - white: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Fur&#95;Tall&#95;White.png
+- **Oh, Endless Possibilities!** gives you the **Hunt Facepaint Star**, which has seven varieties per cheek, aka fourteen varieties:
+  - left white: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4092-76683.png
+  - left black: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4098-52195.png
+  - left purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4100-64276.png
+  - left blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4101-25742.png
+  - left gold: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4102-92017.png
+  - left red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4103-44487.png
+  - left green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4104-84348.png
+  - right black: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4540-14613.png
+  - right white: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4541-79385.png
+  - right purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4544-60617.png
+  - right red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4546-51442.png
+  - right gold: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4549-90477.png
+  - right green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4550-44483.png
+  - right blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4551-34424.png
 
 ###Mama Tree
 
