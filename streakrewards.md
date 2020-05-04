@@ -1,4 +1,4 @@
-LAST UPDATED 22 APR 2020
+LAST UPDATED 4 MAY 2020
 
 Streak rewards! The nice perks gained by maintaining your streak. **Feel free to skip straight down to the list that's all you care about, but note there's a reason I also list Wings separately at the end.**
 
@@ -258,9 +258,9 @@ Day 1010: 10 Congratz Reactions
 
 Day 1019: 5 Stempos
 
-Day 1029: ???
+Day 1029: 1 River Chest
 
-Day 1044: ???
+Day 1044: 3 Stone Blocks
 
 Day 1060: 3 Leafsung Ink
 
@@ -290,7 +290,27 @@ Day 1211: 10 Love Reactions
 
 Day 1222: 5 Nets
 
+Day 1244: 10 Keep Writing Reactions
+
 Day 1245: 2 Leafsung Keys
+
+Day 1250: 2 Golden Chests
+
+Day 1277: Wardrobe: Color Fire Wings
+
+Day 1290: 5 Spider Poison
+
+Day 1300: 10 Core Crystals
+
+Day 1314: 1 River Key
+
+Day 1315: 1 River Chest
+
+Day 1333: 10 Stempos
+
+Day 1345: 25 Rope
+
+Day 1350: 10 I Believe In You Reactions
 
 **GAP**
 
@@ -314,7 +334,7 @@ Day 1550: 10 Inspiring Reactions
 
 Day 1570: 3 River Keys
 
-Day 1588: 5 Steel Bars
+Day 1588: 5 Steel Bars (possibly 5 Stone Blocks)
 
 Day 1600: 10 Core Crystals
 
