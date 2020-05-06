@@ -1,4 +1,4 @@
-LAST UPDATED 13 APR 2020
+LAST UPDATED 6 MAY 2020
 
 Here we have everything from Three Points Crossing and Gansu Watering Hole, barring any Hunt info that doesn't apply to Hunter Tokens. Use wisely. :) Anything that says FOREST can be looked up in more detail under Forest Resources.
 
@@ -350,17 +350,16 @@ This actually isn't available yet, but a quest requiring it pops up as soon as R
 
   - FOREST
   - 3PC Battles: Czanus (700 words for 7)
+  - Gansu Battles: Pipit (900 words for 9)
   - Hunt S2 Quests: A Season to Explore (100), Wandering We Go (10), Strengthening Your Loyalty (10)
 
-- **Mar-Apr2020 Sources:**
+- **Early May 2020 Sources Outside the Hunt:**
 
-  March-April 2020 sources are Hunt monsters and monsters moving around on two legs.
+  Early May 2020 sources are Hunt monsters and monsters that camouflage with their environment (at least in theory; in practice, it can be hard to tell why some are considered camo and others not). This means mostly green monsters which exist in the Forest, brown monsters which exist in the Desert, blue monsters which exist in the Water, and purple monsters which exist in the Dust.
 
   - FOREST
-
-  - 3PC Battles: Xin (100 words for 1), Grult (400 words for 4), Desert Wignow (444 words for 4-5), Bruja (900 words for 9), Yasri (1250 words for 12-13), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
-
-  - Gansu Battles: Xin (100 words for 1), Desert Wignow (444 words for 4-5), Desert Rudakai (1800 words, 1 Leaf Boots, and 10 Leaves for 18)
+- 3PC Battles: Xin (100 words for 1), Frizi (150 words for 1-2), Kiru (250 words for 2-3), Grult (400 words for 4), Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, 10 Leaves, Min Level 5 for 20)
+  - Gansu Battles: Xin (100 words for 1), Frizi (150 words for 1-2), Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Wetu (1100 words for 11), Arenica (1350 words, 1 Steel Dagger for 13-14), Desert Rudakai (1800 words, 1 Leaf Boots, and 10 Leaves for 18), Ylly (720 words for 7)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

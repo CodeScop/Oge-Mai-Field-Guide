@@ -1,4 +1,4 @@
-LAST UPDATED 13 APR 2020
+LAST UPDATED 6 MAY 2020
 
 We're getting deep into Oge-Mai these days - don't want to have to travel too much. This is an exceptionally twisty region, so there are an exceptional number of possible spoilers/unable to get through bits in here. Leave me a message in the Forum thread if anything is too difficult to follow! https://4thewords.com/forum/thread-oge-mai-field-guide
 
@@ -396,17 +396,15 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 
   - FOREST, DESERT
 
-- **Mar-Apr2020 Sources:**
+- **Early May 2020 Sources Outside the Hunt:**
 
-  March-April 2020 sources are Hunt monsters and monsters moving around on two legs.
+  Early May 2020 sources are Hunt monsters and monsters that camouflage with their environment (at least in theory; in practice, it can be hard to tell why some are considered camo and others not). This means mostly green monsters which exist in the Forest, brown monsters which exist in the Desert, blue monsters which exist in the Water, and purple monsters which exist in the Dust.
 
   - FOREST
-
-  - DESERT
-
+- DESERT
   - WATER
-  - DFO Battles: Xin (100 words for 1), Dust Wignow (444 words for 4-5), Lycosta (1100 words, 1 Steel Chain, 1 Piece of Parchment, 1 Blue Essence Ink for 11), Chaensi  (1300 words, 1 Steel Chain, 1 Piece of Parchment, 1 Blue Essence Ink for 13), Burhar (1500 words for 15), Dust Rudakai (2000 words, 1 Fabric Boots, 15 Leaves for 20)
-
+- DFO Battles: Dust Wignow (444 words for 4-5), Xin (100 words for 1), Chu (100 words for 1), Ascre (150 words for 1-2), Belasi (200 words for 2), Pakkan (300 words for 3), Zanthei (400 words for 4), Takori (600 words for 6), Dust Rudakai (2000 words, 1 Fabric Boots, 15 Leaves for 20)
+  
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
 - **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices)

@@ -1,4 +1,4 @@
-LAST UPDATED 25 APR 2020
+LAST UPDATED 6 MAY 2020
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Water-only otherwise.
 
@@ -359,19 +359,17 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
   - FOREST
   - DESERT
 
-- **Mar-Apr2020 Sources:**
+- **Early May 2020 Sources Outside the Hunt:**
 
-  March-April 2020 sources are Hunt monsters and monsters moving around on two legs.
+  Early May 2020 sources are Hunt monsters and monsters that camouflage with their environment (at least in theory; in practice, it can be hard to tell why some are considered camo and others not). This means mostly green monsters which exist in the Forest, brown monsters which exist in the Desert, blue monsters which exist in the Water, and purple monsters which exist in the Dust.
 
   - FOREST
-
-  - DESERT
-
-  - Riza Battles: Xin (100 words for 1), Yala (520 words, 2 Rope and 2 River Grass for 5), Vota (800 words, 2 Rope and 2 River Grass for 8), Trainee (1000 words and 20 Coins for 10), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 12)
-  - WATER EXPEDITION: 
-    - Raina Battles: Xin (100 words for 1), Rea & Pira (150 words for 1-2), Begala (300 words for 3), Yala (520 words for 5), Vaktra (700 words for 7), Vota (800 words for 8), Knusha (1200 words for 12), Droxa (1800 words for 18)
-  - Balance Battles: Xin (100 words for 1), Castu (450 words and 1 Water Mask for 4-5), Spirit Castu (550 words for 5-6), Water Rudakai (1600 words and 3 Reinforced Rope for 16)
-
+- DESERT
+  - Riza Battles: Jaihri (485 words for 5), Xin (100 words for 1), Frizi (150 words for 1-2), Sparfly (450 words for 4-5), Patliadu (750 words, 1 Harpoon for 7-8)
+- WATER EXPEDITION:
+    - not available at this time
+  - Balance Battles: Xin (100 words for 1), Caricaco (300 words for 3), Castu (450 words and 1 Water Mask for 4-5), Nuig (850 words, 1 Water Mask for 8-9), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 13), Water Rudakai (1600 words and 3 Reinforced Rope for 16)
+  
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
 - **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices)

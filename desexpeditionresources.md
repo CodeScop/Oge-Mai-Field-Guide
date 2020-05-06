@@ -1,4 +1,4 @@
-LAST UPDATED 2 APR 2020
+LAST UPDATED 6 MAY 2020
 
 Note that again, I'm only including info for the Desert Expedition, and only for the Dig Site and Ruins at that. See the Desert Resources section for a somewhat more comprehensive list. The Shrine of Ages gets its own section entirely.
 
@@ -60,8 +60,8 @@ Note that again, I'm only including info for the Desert Expedition, and only for
   - outside game
   - DESERT EXPEDITION: 
 
-    - Dig Battles: Xin (100 words for 1)
-    - Ruins Battles: Xin (100 words for 1), Yantao (650 words for 6-7)
+    - Dig Battles: Xin (100 words for 1), Sakish (350 words for 3-4), Kapir (400 words for 4)
+    - Ruins Battles: Xin (100 words for 1), Griffe (450 words for 4-5), Yantao (650 words for 6-7)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

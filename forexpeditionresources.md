@@ -1,4 +1,4 @@
-LAST UPDATED 13 APR 2020
+LAST UPDATED 6 MAY 2020
 
 This section, unlike the previous resource section, *is* going to be Forest Expedition-specific, partly because the Expedition sections are a little off the beaten path, partly because I'm already collating All The Info for the Forest in the Forest Resources section.
 
@@ -125,21 +125,19 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
   
 - outside game
   
-- **Mar-Apr 2020 Sources:**
+- **Early May 2020 Sources Outside the Hunt:**
 
   - outside game
 
-  March-April 2020 sources are Hunt monsters and monsters moving around on two legs.
+  Early May 2020 sources are Hunt monsters and monsters that camouflage with their environment (at least in theory; in practice, it can be hard to tell why some are considered camo and others not). This means mostly green monsters which exist in the Forest.
 
   - FOREST EXPEDITION:
 
-    Note: Hunt Monsters (Alnu, Burocat, Clawadin, and Sassi) roam the Forest Expedition unpredictably. Below locations for them may not be accurate at any given time.
-
-    - BC Battles: Xin (100 words for 1), Alnu (400 words for 4), Clawadin (800 words for 8)
-    - FB Battles: Xin (100 words for 1), Alnu (400 words for 4), Clawadin (800 words for 8)
-    - SC Battles: Xin (100 words for 1), Sapiti (300 words and 1 Saliva Vial for 3), Sapira (350 words and 1 Saliva Vial for 3-4), Sapilo (450 words and 1 Saliva Vial for 4-5), Burocat (1000 words for 10)
-    - TT Battles: Xin (100 words for 1), Alnu (400 words for 4)
-    - GL Battles: Xin (100 words for 1), Gobkey (400 words for 4)
+    - BC Battles: Xin (100 words for 1), Xuso (450 words for 4-5), Sacer (120 words for 1)
+    - FB Battles: Xin (100 words for 1), Nezthai (600 words for 6), Dandeleon (220 words for 2)
+    - SC Battles: Xin (100 words for 1), Sapiti (300 words and 1 Saliva Vial for 3), Sapira (350 words and 1 Saliva Vial for 3-4), Sapilo (450 words and 1 Saliva Vial for 4-5)
+    - TT Battles: Xin (100 words for 1)
+    - GL Battles: Xin (100 words for 1)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

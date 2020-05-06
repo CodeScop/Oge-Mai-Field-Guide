@@ -1,4 +1,4 @@
-LAST UPDATED 13 APR 2020
+LAST UPDATED 6 MAY 2020
 
 Here are ALL THE THINGS available in the Forest. LF is Luciola Forest. MT is Mama Tree. HuntS1 is Hunt for the Ancients Season 1. And for the Expedition...
 
@@ -219,23 +219,19 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - later game
 
-- **Mar-Apr2020 Sources:**
+- **Early May 2020 Sources Outside the Hunt:**
 
-  March-April 2020 sources are Hunt monsters and monsters moving around on two legs.
+  Early May 2020 sources are Hunt monsters and monsters that camouflage with their environment (at least in theory; in practice, it can be hard to tell why some are considered camo and others not). This means mostly green monsters which exist in the Forest, brown monsters which exist in the Desert, blue monsters which exist in the Water, and purple monsters which exist in the Dust.
 
-  - LF Battles: Xin (100 words for 1), Wignow (250 words for 2-3), Spirit Wignow (450 words for 4-5), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 14)
-
-  - MT Battles: Xin (100 words for 1), Wignow (250 words for 2-3), Villager (1300 words for 13), Assassin (1400 words for 14)
-
+  - LF Battles: Xin (100 words for 1), Wignow (250 words for 2-3), Aracni (400 words for 4), Spirit Wignow (450 words for 4-5), Nitana (700 words for 7)
+  - MT Battles: Xin (100 words for 1), Wignow (250 words for 2-3), Kuay (400 words for 4), Illi (700 words for 7), Tambo (2000 words, 4 Rope, 10 Leaves, Min Level 5 for 20)
   - FOREST EXPEDITION:
 
-    Note: Hunt Monsters (Alnu, Burocat, Clawadin, and Sassi) roam the Forest Expedition unpredictably. Below locations for them may not be accurate at any given time.
-
-    - BC Battles: Xin (100 words for 1), Alnu (400 words for 4), Clawadin (800 words for 8)
-    - FB Battles: Xin (100 words for 1), Alnu (400 words for 4), Clawadin (800 words for 8)
-    - SC Battles: Xin (100 words for 1), Sapiti (300 words and 1 Saliva Vial for 3), Sapira (350 words and 1 Saliva Vial for 3-4), Sapilo (450 words and 1 Saliva Vial for 4-5), Burocat (1000 words for 10)
-    - TT Battles: Xin (100 words for 1), Alnu (400 words for 4)
-    - GL Battles: Xin (100 words for 1), Gobkey (400 words for 4)
+    - BC Battles: Xin (100 words for 1), Xuso (450 words for 4-5), Sacer (120 words for 1)
+    - FB Battles: Xin (100 words for 1), Nezthai (600 words for 6), Dandeleon (220 words for 2)
+    - SC Battles: Xin (100 words for 1), Sapiti (300 words and 1 Saliva Vial for 3), Sapira (350 words and 1 Saliva Vial for 3-4), Sapilo (450 words and 1 Saliva Vial for 4-5)
+    - TT Battles: Xin (100 words for 1)
+    - GL Battles: Xin (100 words for 1)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

@@ -1,4 +1,4 @@
-LAST UPDATE 22 APR 2020
+LAST UPDATE 5 MAY 2020
 
 Like with the Streak Rewards, I'm avoiding incorporating these into the general resources sections, because it's a ridiculous way to grind and it's too hard for me to keep tabs on whether it's accurate.
 
@@ -38,7 +38,7 @@ Here's how it goes:
 - Level 32: reach at 267174 XP; 1 Shrine Ticket, 3 Bones Chests, 3 Bone Keys
 - Level 33: reach at 291086 XP; 1 Shrine Ticket, 330 Coins
 - Level 34: reach at 316303 XP; 1 Shrine Ticket, 10 Stempos, 3 White Fur
-- Level 35: reach at 342855 XP; 1 Shrine Ticket, 1 Wooden Chest, 1 Golden Chest, 1 Stone Chest, 1 River Chest, 1 Bones Chest
+- Level 35: reach at 342854 XP; 1 Shrine Ticket, 1 Wooden Chest, 1 Golden Chest, 1 Stone Chest, 1 River Chest, 1 Bones Chest
 - Level 36: reach at 370767 XP; 1 Shrine Ticket, 1 Wooden Key, 1 Leafsung Key, 1 Stone Key, 1 River Key, 1 Bone Key
 - Level 37: reach at 400068 XP; 1 Shrine Ticket, 10 Spider Poison, 10 Red Dye, 5 Dí Bags, 5 Ardi Lamps
 - Level 38: reach at 430786 XP; 1 Shrine Ticket, 15 Stempos
