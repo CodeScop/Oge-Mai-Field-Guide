@@ -1,4 +1,4 @@
-LAST UPDATED 27 DEC 2019
+LAST UPDATED 12 MAY 2020
 
 ### * Arenica (Unlocked by Main Quest 3: Sacred Shrine)
 
@@ -104,7 +104,7 @@ I'm going to reiterate what I said in the Quest advice: if you haven't turned in
 
 - **Requirements:** 2000 words, 1 Steel Dagger
 - **Time allowed:** 240 minutes (4 hours)
-- **XP:** 360
+- **XP:** 220
 - **Drops:** 0-1 Golden Chest, 1 Raw Stone, 1 Glass Bar, 2-3 Glass Shards, 2 Raw Fabric, 1-2 Raw Gold, 1-2 Fine Fabric, 1-2 White Fur, 1 Desert Stone
 
 ### Vi

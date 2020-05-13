@@ -1,4 +1,4 @@
-LAST UPDATED 6 MAY 2020
+LAST UPDATED 12 MAY 2020
 
 We left off Season 1 (and you **must** complete The Curator of Elder Library to unlock Season 2, and the Season 1 quest list will help with that) back in the Forest. Now, in the Desert, we're on to Season 2: The Season of Wandering, watched over by the Shepherd.
 
@@ -123,7 +123,7 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 - **Unlocked by:** The Curator of Elder Library Quest
 - **Location:** 3PC
 - **Requirements:** 700 words
-- **Time allowed:** X minutes (X hours)
+- **Time allowed:** 90 minutes (1 hour 30 minutes)
 - **XP:** 70
 - **Drops:** 7 Hunter Tokens, 1-3 Raw Steel, 2-4 Raw Fabric, 0-1 Wood Swords, 0-1 Red Dye, 1-3 Wood
 - **Quests:** HuntS2: Guarding the Path (4)

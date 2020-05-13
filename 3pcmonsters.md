@@ -1,4 +1,4 @@
-LAST UPDATED 27 DEC 2019
+LAST UPDATED 12 MAY 2020
 
 Again, numbers assume a certain amount of Luck. Some of these numbers were obtained only after a Luck of 20 (there are some monsters I skipped on the first playthrough). However, I believe these numbers are accurate enough to be helpful with a Luck of 4 or more, based on the differences for monsters played with multiple Luck levels.
 
@@ -41,7 +41,7 @@ Again, numbers assume a certain amount of Luck. Some of these numbers were obtai
 
 - **Requirements:** 400 words
 - **Time allowed:** 150 minutes (2 hours 30 minutes)
-- **XP:** 165
+- **XP:** 80
 - **Drops:** 2 Fur, 1 Dust, 3 Raw Stone, 1 Desert Stone
 
 ### Kiru

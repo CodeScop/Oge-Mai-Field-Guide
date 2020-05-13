@@ -1,4 +1,4 @@
-LAST UPDATED 25 APR 2020
+LAST UPDATED 12 MAY 2020
 
 Once again! Here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -350,7 +350,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 
 - **Unlocked by:** The Curator of Elder Library Quest
 - **Requirements:** 700 words
-- **Time allowed:** X minutes (X hours)
+- **Time allowed:** 90 minutes (1 hour 30 minutes)
 - **XP:** 70
 - **Drops:** 7 Hunter Tokens, 1-3 Raw Steel, 2-4 Raw Fabric, 0-1 Wood Swords, 0-1 Red Dye, 1-3 Wood
 - **Quests:** HuntS2: Guarding the Path (4)
@@ -534,7 +534,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 
 - **Requirements:** 400 words
 - **Time allowed:** 150 minutes (2 hours 30 minutes)
-- **XP:** 165
+- **XP:** 80
 - **Drops:** 2 Fur, 1 Dust, 3 Raw Stone, 1 Desert Stone
 - **Quests:** HuntS2: Strengthening Your Loyalty (4), A Season to Explore (1)
 
@@ -1020,7 +1020,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Unlocked by:** Gansu Main Quest 2/ Lorsa Nest Network
 - **Requirements:** 2000 words, 1 Steel Dagger
 - **Time allowed:** 240 minutes (4 hours)
-- **XP:** 360
+- **XP:** 220
 - **Drops:** 0-1 Golden Chest, 1 Raw Stone, 1 Glass Bar, 2-3 Glass Shards, 2 Raw Fabric, 1-2 Raw Gold, 1-2 Fine Fabric, 1-2 White Fur, 1 Desert Stone
 - **Quests:**
   - Functionally, anything requiring White Fur will require a Suulan battle (see All Resources for list of quests requiring White Fur)
