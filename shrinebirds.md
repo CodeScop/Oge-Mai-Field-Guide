@@ -1,4 +1,4 @@
-LAST UPDATED 14 MAY 2020
+LAST UPDATED 15 MAY 2020
 
 Remember, to see the following, your avatar needs to be wearing the Birds Time Bracelet, which can be purchased for 3 Shrine Tickets in the Shrine Bracelets area.
 
@@ -17,7 +17,7 @@ NOTE: Once you complete a quest, it's removed from these offerings. So if you ha
   - Ralbone
   - Katock
 - **Rewards:** 25 Shrine Stones
-- **Recommendations:**
+- **Recommendations:** I love the pretty birds. I think they're all awesome. Basically, if you don't like this quest, it's probably a sign this isn't the Shrine Bracelet for you.
 
 ### Peppy Piñata Party
 
@@ -25,7 +25,7 @@ NOTE: Once you complete a quest, it's removed from these offerings. So if you ha
 - **Type:** Battle
 - **Requirements:** Defeat 10 Katock
 - **Rewards:** 50 Shrine Stones
-- **Recommendations:**
+- **Recommendations:** Punch the piñata, 500 words at a time, and get shinies. What's not to like?
 
 ### Prime Birb Time
 
@@ -33,7 +33,7 @@ NOTE: Once you complete a quest, it's removed from these offerings. So if you ha
 - **Type:** Battle
 - **Requirements:** Defeat 5 Gayol, 3 Peq, and 1 Ralbone
 - **Rewards:** 25 Shrine Stones
-- **Recommendations:**
+- **Recommendations:** The pride of defeating Ralbone should be the queen of this quest, but honestly, I think the Peq are more demanding. Still, 25 Shrine Stones is 25 Shrine Stones!
 
 # Monsters - Birds
 
@@ -81,72 +81,42 @@ NOTE: Once you complete a quest, it's removed from these offerings. So if you ha
 
 ### Coins
 
-- **Best sources:** 
+- **Sources:** 
   - Anywhere Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
-- **Other sources:**
+  - ShrineBird Battles: Katock (500 words for 2-5)
 - **Buy:** MT Item Shop/Edrie's Market: 1 Core Crystal for 100 Coins or 5 Core Crystals for 500 Coins
 - **Used for:** outside game
 
 ### Claws
 
-- **Source:** FOREST
+- **Source:** FOREST,
+  - ShrineBird Battles: Ralbone (1000 words for 1-2), Noasis (1500 words for 1-2)
 - **Sell price:** 4 Coins (don't sell unless you have >300)
 - **Used for:** FOREST, DESERT
 
-### Dust
-
-- **Best sources:** 
-  - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2)
-- **Other sources:** outside game
-- **Buy:** 
-  - FOREST:  MT Item Shop/Edrie's Market: 8 Coins (not worth it)
-  - DESERT: 12 Coins in Item Bazaar/Zilya's Great Bazaar (don't bother)
-- **Sell price:** 2 Coins (Don't sell, not worth it)
-- **Used for:** outside game
-
-### Essence
-
-- **Best sources:** 
-  - outside game
-- **Other sources:** 
-  - Anywhere Battles: Viyusa (25 minutes for 1-4)
-- **Buy:** FOREST: MT Item Shop/Edrie's Market: 32 Coins
-- **Sell price:** 8 Coins (don't sell unless you have >500)
-- **Used for:** outside game
-
 ### Feathers
 
-- **Best sources:** FOREST
-- **Other sources:** WATER
+- **Sources:** FOREST, WATER
+  - ShrineBird Battles: Peq (500 words for 0-1), Ralbone (1000 words for 1-2)
 - **Buy:** FOREST
 - **Sell price:** 8 Coins (Don't sell unless you have > 100)
 - **Used for:** FOREST, DESERT
 
-### Fur
-
-- **Best sources:** 
-  - Anywhere Battle: Awa (200 words for 1-2)
-- **Other sources:** outside game
-- **Buy:** FOREST: 8 Coins in LF Item Shop/Alex's Shop
-- **Sell price:** 2 Coins (Don't sell, not worth it)
-- **Used for:** outside game
-
 ### Leather Roll
 
-- **Sources:** WATER
+- **Sources:** outside game,
+  - ShrineBird Battles: Noasis (1500 words for 1-2)
 - **Sell price:** 60 Coins (probably best to keep 200 in stock, otherwise great source of Coins)
-- **Used for:** WATER, DUST
+- **Used for:** outside game
 
 ### Leaves
 
-- **Best sources:** 
-  - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2)
-  - FOREST
-- **Other sources:** 
-  - Anywhere Battles: Vi (5 minutes for 1-4)
+- **Sources:** outside game,
+  - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2), Vi (5 minutes for 1-4)
+  - ShrineBird Battles: Peq (500 words for 1-3)
 - **Buy:** FOREST: 8 Coins in LF Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
-- **Used for:** 
+- **Used for:** outside game
 
 ### Raw Fabric
 
@@ -154,6 +124,22 @@ NOTE: Once you complete a quest, it's removed from these offerings. So if you ha
 - **Other sources:** outside game
 - **Sell price:** 8 Coins (don't sell unless you have >100)
 - **Used for:** outside game
+
+### Raw Steel
+
+- **Sources:** FOREST, DESERT, WATER, DUST
+  - ShrineBird Battles: Katock (500 words for 0-2)
+- **Buy:** DESERT
+- **Sell price:** 8 Coins (DO NOT SELL. You will need this to craft SO MANY STEEL BARS.)
+- **Used for:** DESERT, WATER
+
+### Raw Sandstone
+
+- **Sources:** DESERT, WATER
+  - ShrineBird Battles: Gayol (150 words for 0-1)
+- **Buy:** DESERT
+- **Sell price:** 12 Coins (don't sell unless you have >100)
+- **Used for:** DESERT
 
 ### Raw Stone
 
@@ -164,30 +150,24 @@ NOTE: Once you complete a quest, it's removed from these offerings. So if you ha
 
 ### Red Dye
 
-- **Sources:** DESERT, WATER
+- **Sources:** DESERT, WATER,
+  - ShrineBird Battles: Noasis (1500 words for 1)
 - **Buy:** DESERT
 - **Sell price:** 15 Coins (don't sell unless you have >50, ideally >100; will usually be better to use to craft Fine Fabric and sell for more)
 - **Used for:** DESERT, WATER, DUST
 
-### River Grass
-
-- **Best sources:** Anywhere Battles: Xin (100 words for 0-1)
-- **Other sources:** outside game
-- **Sell price:** 40 Coins (best source of cash at this point, but don't sell unless coins badly needed)
-- **Used for:** outside game
-
 ### River Key
 
-- **Sources:** WATER
+- **Sources:** WATER,
+  - ShrineBird Battles: Noasis (1500 words for 0-1)
 - **Sell price:** 25 Coins (… I'm going to depart from my refrain and say "don't sell unless you have completed all side quests and reserve a key for every River Chest plus an additional 20 for buffer". I keep selling off extra River Keys and I still end up with 50 River Keys and no Chests. Hopefully this changes soon.)
 - **Used for:** WATER
 
 ### Rope
 
-- **Best sources:** 
-  - Anywhere Battles: Awa (200 words for 2)
-- **Other sources:** Buy,
-  - Anywhere Battles: Viyusa (25 minutes for 2-7)
+- **Sources:** 
+  - Anywhere Battles: Awa (200 words for 2), Viyusa (25 minutes for 2-7)
+  - ShrineBird Battles: Katock (500 words for 1-2), Ralbone (1000 words for 1-2)
 - **Buy:** 
   - FOREST, WATER 8 Coins in MT Item Shop/Edrie's Market OR Riza Item Shop/Luko's Inn
   - DESERT 12 Coins in 3PC Item Bazaar/Zilya's Great Bazaar
@@ -197,8 +177,8 @@ NOTE: Once you complete a quest, it's removed from these offerings. So if you ha
 ### Shrine Stone
 
 - **Sources:** 
-  - Shrine TFA Battles: Arir (100 words for 1), Fools' Lorsa Halloween (100 words for 1), Fools' Lorsa (150 words for 1-2), Lupo (450 words for 4-5), Witch's Memoirs (500 words for 5), Untu Ship (500 words for 5), Murciel (600 words for 6)
-  - Shrine TFA Quests: Shrine Creature Flyby (50), Those Nightly Terrors (25), Beware! Rock Shower (10)
+  - ShrineBird Battles: Katock (500 words for 5), Peq (500 words for 5), Ralbone (1000 words for 10), Noasis (1500 words for 15), Gayol (150 words for 1)
+  - ShrineBird Quests: Birb's the Word (25), Peppy Piñata Party (50), Prime Birb Times (25)
 - **Sell price:** 10 Coins (do not sell; much better to spend)
 - **Used for:** 
   - Chests & Keys in Shrine of Ages: Wooden Chest (25), Wooden Key (25), Golden Chest (50), Leafsung Key (50), Stone Chest (75), Stone Key (75), River Chest (100), River Key (100), Bones Chest (150), Bone Key (150)
@@ -216,8 +196,3 @@ NOTE: Once you complete a quest, it's removed from these offerings. So if you ha
   - DESERT: 12 Coins in 3PC Item Bazaar/Zilya's Great Bazaar
 - **Sell price:** 2 Coins (Don't sell, NOT WORTH IT)
 - **Used for:** outside game
-
-# Wardrobe Offerings - Birds
-
-NOTE: Once you own a Wardrobe item, it's removed from these offerings. So if you have a wardrobe item from a prior event or quest or whatever, it won't be available here.
-

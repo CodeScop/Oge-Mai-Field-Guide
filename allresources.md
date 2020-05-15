@@ -1,6 +1,6 @@
 # A-F
 
-LAST UPDATED 2 APR 2020
+LAST UPDATED 15 MAY 2020
 
 ### Core Crystals
 
@@ -49,6 +49,8 @@ ALL GAME
     - Balance Quests: Gone Fishing (100), River Landwalkers (250)
   - DESERT:
     - 3PC Battles: Villager (1300 words, 1 Spider Poison, and 5 Leaves for 3-7)
+    - ShrineBird Battles: Katock (500 words for 2-5)
+    - ShrineGiant Battles: Takra (500 words for 2-5)
   - FOREST:
     - GL Battle: Gobkey (400 words for 0-2)
     - MT Quest: A Family Tree (50), Written Accounts (100)
@@ -204,7 +206,9 @@ FOREST, some DESERT
     - LF Battles: Grey's Mawt (850 words for 2), Pester (500 words for 1), Mawt (1000 words for 2)
 - **Other sources:** Buy,
   - FOREST: MT Battles: Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 2)
-  - DESERT: ShrinePoly Battles: Poly Mawt (900 words for 2)
+  - DESERT: 
+    - ShrinePoly Battles: Poly Mawt (900 words for 2)
+    - ShrineBird Battles: Ralbone (1000 words for 1-2), Noasis (1500 words for 1-2)
 - **Buy:** MT Item Shop/Edrie's Market: 16 Coins
 - **Sell price:** 4 Coins (don't sell unless you have >300)
 - **Used for:** 
@@ -309,6 +313,7 @@ DESERT, some WATER
     - Gansu Battles: Wetu (1100 words for 1-2), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1-2), Arenica (1350 words, 1 Steel Dagger for 1), Suulan (2000 words, 1 Steel Dagger for 1)
     - Dig Battle: Okkorhi (1000 words for 1-2)
     - Ruins Battles: Ripos (1800 words for 1-2)
+    - ShrineGiant Battles: Caravan (5000 words for 2-5)
 - **Sell price:** 25 Coins (don't sell unless you have >200, ideally >500)
 - **Used for:** 
   - DESERT
@@ -389,6 +394,7 @@ ALL GAME
     -  3PC Battles: Kiru (250 words for 1), Desert Wignow (444 words for 1-2), Grult (400 words for 1), Villager (1300 words, 1 Spider Poison, 5 Leaves for 2-3), Tambo (2000 words, 4 Rope, 10 Leaves, min level 5 for 2)
     - Gansu Battles: Desert Wignow (444 words for 1-2)
     - Dig Battles: Okkorhi (1000 words for 2-6), Sakish (350 words for 1-2), Zera (550 words for 1-3)
+    - ShrineGiant Battles: Giant Dust Spirit (500 words for 1-4), Guardian (500 words for 1-3), Skuppa's Giant Marionette (500 words for 1-2)
   - WATER
     - Riza Battles: Wyvern (1300 words for 1-2), Vota (800 words, 2 Rope, 2 River Grass for 1)
     - Balance Battles: Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 2-8), Water Rudakai (1600 words, 3 Reinforced Rope for 1-3)
@@ -498,10 +504,9 @@ FOREST, some DESERT, some WATER
     - LF Battles: Nitana (700 words for 2-3)
     - MT Battles: Lorsa (450 words for 0-1, usually 1), Illi (700 words for 0-1, usually 1)
 - **Other sources:** Buy
-  - FOREST EXPEDITION
-    - TT Battles: Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 1), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-2)
-  - WATER
-    - Riza Battles: Osaril (300 words, 1 Vine Net for 1)
+  - FOREST EXPEDITION: TT Battles: Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 1), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-2)
+  - DESERT: ShrineBird Battles: Peq (500 words for 0-1), Ralbone (1000 words for 1-2)
+  - WATER: Riza Battles: Osaril (300 words, 1 Vine Net for 1)
 - **Buy:** FOREST: 32 Coins in LF Item Shop/Alex's Shop
 - **Sell price:** 8 Coins (Don't sell unless you have > 30)
 - **Used for:** 
@@ -550,6 +555,7 @@ ALL GAME
     - Dig Battle: Kapir (800 words for 1), Zera (550 words for 1)
     - Ruins Battle: Griffe (450 words for 1), Yantao (650 words for 1)
     - ShrinePoly Battles: Poly Mawt (900 words for 3-5)
+    - ShrineGiant Battles: Caravan (5000 words for 6-11)
   - DUST: DFO Battles: Takori (600 words for 1), Papple (1000 words for 2-4), Babu (3000 words, 3 Steel Chains, 2 Pieces of Parchment, 1 Blue Essence Ink for 3-5), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 5-7)
 - **Buy:** 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (don't sell unless you have >500)
@@ -561,7 +567,7 @@ ALL GAME
 
 # G-O
 
-LAST UPDATED 6 MAY 2020
+LAST UPDATED 15 MAY 2020
 
 ### Glass
 
@@ -965,7 +971,7 @@ FOREST, some DESERT
 
 ### Leather Roll
 
-WATER, DUST
+some DESERT,WATER, DUST
 
 - **Best sources:** 
   - WATER
@@ -973,7 +979,8 @@ WATER, DUST
     - Balance Battles: Castu (450 words, 1 Water Mask for 1)
     - Post-DFO Balance Battle: Spirit Castu (550 words for 2)
 - **Other sources:** Buy,
-  - WATER:
+  - DESERT: ShrineBird Battles: Noasis (1500 words for 1-2)
+  - WATER
     - Riza Battles: Vota (800 words, 2 Rope, 2 River Grass for 1-2), Yala (520 words, 2 Rope, 2 River Grass for 1)
     - Balance Battles: Isartu (720 words for 1), River Goddess (5000 words for 4-7), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 2-3)
 - **Buy:** 200 Coins in Item Shop/Luko's Inn
@@ -1007,6 +1014,7 @@ ALL GAME, especially FOREST
     - Shrine GO Battles: Wowtri Ooze (250 words for 0-2), Balli Ooze (250 words for 0-1)
     - ShrinePoly Battles: Poly Wignow (314 words for 3-4), Poly Reenu (200 words for 1), Poly Mawt (900 words for 2-3)
     - ShrineDucks Battles: Tian (100 words for 1), Idaa (400 words for 1-3), Natida (500 words for 1-3), Aita (125 words for 0-1)
+    - ShrineBird Battles: Peq (500 words for 1-3)
 - **Buy:** FOREST: 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
 - **Used for:** 
@@ -1106,7 +1114,7 @@ FOREST, DESERT
 
 # P-R
 
-LAST UPDATED 25 APR 2020
+LAST UPDATED 15 MAY 2020
 
 ### Pickaxe
 
@@ -1205,6 +1213,7 @@ ALL GAME
     - 3PC Battles: Bruja (900 words for 2-3), Czanus (700 words for 2-4),  Yasri (1250 words for 2-3), Lombri (1500 words and 1 Wood Spear for 3)
     - Gansu Battles:  Pipit (900 words for 2-4), Ylly (720 words for 3), Sparfly (450 words for 1), Suulan (2000 words, 1 Steel Dagger for 2),  Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 3)
     - ShrineMar Battles: Osemar (1000 words for 1-4), Balatrix (630 words for 1-2), Balatros (700 words for 1-2), Balatras (785 words for 1-2)
+    - ShrineGiant Battles: Giant Dust Spirit (500 words for 1-4), Caravan (5000 words for 5-13)
     - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
   - WATER
     - Riza Battles: Trainee (1000 words, 20 Coins for 2-3), Sparfly (450 words for 1)
@@ -1237,6 +1246,7 @@ DESERT, some FOREST, some WATER
     - 3PC Golden Chest: 3-6
     - Dig Battles: Okkorhi (1000 words for 1-2)
     - Ruins Quest: Searching South (5)
+    - ShrineGiant Battles: Takra (500 words for 0-3), Untu Golem (500 words for 0-2)
 - **Buy:** DESERT: 75 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 12 Coins (please don't sell this, you'll make so much more if you craft it into Gold Bars.)
 - **Used for:** DESERT: Craft: Gold Bar (3)
@@ -1257,6 +1267,8 @@ DESERT, some WATER
     - Dig Battles: Kapir (800 words for 0-1), Okkorhi (1000 words for 1-2), Sakish (350 words for 1), Zera (550 words for 1-2)
     - Ruins Battles: Griffe (450 words for 1-2), Ripos (1800 words for 1-2)
     - Ruins Quest: Withdrawing West (5)
+    - ShrineBird Battles: Gayol (150 words for 0-1)
+    - ShrineGiant Battles: Piachi (500 words for 0-1)
   - WATER: Riza Battles: Sparfly (450 words for 0-2, usually 1-2)
 - **Buy:** DESERT: 50 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 12 Coins (don't sell unless you have >100)
@@ -1283,6 +1295,8 @@ some FOREST, DESERT, some WATER, DUST
     - Shrine TFA Battles: Untu Ship (500 words for 0-3)
     - Shrine GO Battles: Giant Ooze House (500 words for 0-3)
     - ShrineMar Battles: Zosimos (400 words for 1-2), Balatras (785 words for 1-3)
+    - ShrineBird Battles: Katock (500 words for 0-2)
+    - ShrineGiant Battles: Skuppa's Giant Marionette (500 words for 1-3), Untu Golem (500 words for 0-2)
   - WATER
     - Riza Battles: Patliadu (750 words, 1 Harpoon for 1-2), Vota (800 words, 2 Rope, 2 River Grass for 1-2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1-2)
   - DUST
@@ -1319,6 +1333,7 @@ ALL GAME
     - Ruins Quest: Excavating East (5)
     - ShrineDucks Battles: Natida (500 words for 1-3), Dati (150 words for 0-2), Tian (100 words for 0-1)
     - ShrineMar Battles: Zosimaga (600 words for 1-3)
+    - ShrineGiant Battles: Piachi (500 words for 2-4), Giant Dust Spirit (500 words for 1-3), Mandias (500 words for 1-3), Untu Golem (500 words for 0-2), Guardian (500 words for 0-1)
   - WATER
     - Riza Battles: Trainee (1000 words, 20 Coins for 1-2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1-2)
     - Balance Battles: Caricaco (300 words for 0-1, usually 1 with enough Luck)
@@ -1338,6 +1353,7 @@ DESERT, some WATER, DUST
     - Gansu Battles: Pipit (900 words for 0-1, usually 1 with enough Luck), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 2), Wetu (1100 words for 1), Arenica (1350 words, 1 Steel Dagger for 1)
     - Shrine GO Battles: Wavi Ooze (330 words for 0-1)
     - ShrineMar Battles: Zosimas (575 words for 0-1), Zosimaga (600 words for 0-1), Balatros (700 words for 0-1), Balatras (785 words for 0-1), Osemar (1000 words for 1)
+    - ShrineBird Battles: Noasis (1500 words for 1)
     - 3PC Wooden Chest: 1
     - 3PC Golden Chest: 1
     - 3PC Quests: Luciola Materials (5)
@@ -1478,6 +1494,7 @@ ALL GAME
     - Riza Battles: Jaihri (485 words for 1-2)
     - Balance Battles: Caricaco (300 words for 1)
 - **Other sources:** Buy,
+  - DESERT: ShrineGiant Battles: Mandias (500 words for 1-3)
   - WATER
     - Riza Stone Chest: 7-12
     - Riza Battles: Wyvern (1300 words for 2-5), Osaril (300 words, 1 Vine Net for 1), Furoxi (400 words, 1 Steel Fishing Rod for 1), Patliadu (750 words, 1 Harpoon for 2), Vota (800 words, 2 Rope, 2 River Grass for 2), Yala (520 words, 2 Rope, 2 River Grass for 1), Trainee (1000 words, 20 Coins for 2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 2-3)
@@ -1499,9 +1516,10 @@ ALL GAME
 
 ### River Key
 
-WATER
+some DESERT, WATER
 
 - **Sources:** 
+  - DESERT: ShrineBird Battles: Noasis (1500 words for 0-1)
   - WATER
     - Balance Battles: River Goddess (5000 words for 1), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 0-1, usually 1 with enough Luck), Water Rudakai (1600 words, 3 Reinforced Rope for 0-1, usually 1 with enough Luck), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 0-1, usually 1 with enough Luck)
     - Balance Quests: Steel (Or Brace) Yourself (1), It's Electric! (3), Venomous Villains (1), The Abyss Stares Back (3), Curious Traveler Part 2 (1)
@@ -1583,6 +1601,8 @@ ALL GAME
     - ShrinePoly Battles: Poly Aracnu (600 words for 0-2), Poly Wignow (314 words for 0-1), Poly Mawt (900 words for 0-1)
     - ShrineDucks Battles: Dati (150 words for 1), Aita (125 words for 0-1)
     - ShrineMar Battles: Zosimalus (444 words for 1), Zosimas (575 words for 1-2)
+    - ShrineBird Battles: Katock (500 words for 1-2), Ralbone (1000 words for 1-2)
+    - ShrineGiant Battles: Mandias (500 words for 1-2)
   - WATER:
     - Riza Battles: Trainee (1000 words & 20 Coins for 2-4), Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 1-3), Vota (800 words, 2 Rope, and 2 River Grass for 2-3), Yala (520 words, 2 Rope, and 2 River Grass for 1)
     - Balance Battles: Isartu (720 words for 2-4)
@@ -1649,7 +1669,7 @@ FOREST, some DESERT
 
 # S
 
-LAST UPDATED 2 APR 2020
+LAST UPDATED 15 MAY 2020
 
 ### Sacred Feather
 
@@ -1720,6 +1740,10 @@ DESERT EXPEDITION
   - ShrineDucks Quests: Helping a Mother (25), Paint Battle (25)
   - ShrineMar Battles: Balatrix (630 words for 6-7), Zosimalus (444 words for 4-5), Zosimas (575 words for 5-6), Balatras (785 words for 7-8), Zosimos (400 words for 4), Zosimaga (600 words for 6), Balatros (700 words for 7), Osemar (1000 words for 10)
   - ShrineMar Quests: Calcium Vitamins (25), Spooky Scary Supernaturals (50), All Dressed Up (25), Bone White Canvas (25)
+  - ShrineBird Battles: Katock (500 words for 5), Peq (500 words for 5), Ralbone (1000 words for 10), Noasis (1500 words for 15), Gayol (150 words for 1)
+  - ShrineBird Quests: Birb's the Word (25), Peppy Piñata Party (50), Prime Birb Times (25)
+  - ShrineGiant Battles: Giant Dust Spirit (500 words for 5), Guardian (500 words for 5), Mandias (500 words for 5), Piachi (500 words for 5), Skuppa's Giant Marionette (500 words for 5), Takra (500 words for 5), Untu Golem (500 words for 5), Caravan (5000 words for 50)
+  - ShrineGiant Quests: Sticks & Stones (25), A Colossal Quest (75), Prime Party Piñata (25)
 - **Sell price:** 10 Coins (do not sell; much better to spend)
 - **Used for:** 
   - Chests & Keys in Shrine of Ages: Wooden Chest (25), Wooden Key (25), Golden Chest (50), Leafsung Key (50), Stone Chest (75), Stone Key (75), River Chest (100), River Key (100), Bones Chest (150), Bone Key (150)
@@ -2025,6 +2049,7 @@ The ability to craft Stempos in Gansu unlocks after a series of side quests. Reb
     - Gansu Stone Chest: 0-1 (usually 1)
     - 3PC Quests: Sands of Time (5), Tailor (1)
     - Gansu Quests: Main Quest 7/Red Witch of the Southern Coven (1), Main Quest 8/Dust to Dust (3-indefinite), Sacred Feathers (3), White Coat (3), Protect the Mind (5), Protect the Spirit (10), Rebuild the Watering Hole (1), Respark the Flame (1), Local Shrine (1), First Stempo (1)
+    - ShrineGiant Battles: Caravan (5000 words for 1-2)
   - WATER
     - Riza Stone Chest: 1
     - Riza Quests: Steel Weapons (3), Dí Production (1)
@@ -2070,6 +2095,7 @@ DESERT, WATER
   - DESERT: 
     - Gansu Quests: Main Quest 3/Sacred Shrine (1), Main Quest 4/The Welcoming Committee (1), Main Quest 6/Waters of History (1), Main Quest 8/Dust To Dust (1-indefinite), Desert Rudakai (1), Stone Collector (1), Tougher with Tambo (3), Gansu Watering Hole Puffs (1), Protect the Body (1)
     - Dig Quest: A Desert Exploration (1)
+    - ShrineGiant Battles: Caravan (5000 words for 1)
   - WATER: Riza Quests: Main Quest 2/Attack of Opportunity (1), Main Quest 3/Remedy for a Friend (1), Main Quest 5/This Might Sting (1), Spider Bows (1)
 - **Sell price:** 100 Coins (DON'T SELL CHESTS AND ESPECIALLY NEVER NEVER SELL STONE CHESTS)
 - **Used for:** 
@@ -2096,6 +2122,7 @@ some ALL GAME, DESERT, WATER
     - 3PC Quests: Tailor (3)
     - Gansu Quests: Desert Rudakai (1), Stone Collector (1), Tougher with Tambo (3), Watering Hole Puna (1), Protect the Body (1)
     - Dig Quests: From Beneath Me (1)
+    - ShrineGiant Battles: Caravan (5000 words for 1)
   - WATER: Riza Quests: Main Quest 4/Mucky, Murky, Muddy (1), Apprentice Fisherman (1), Battle Practice (3), Barge Weights (2), Spider Bows (1)
 - **Sell price:** 25 Coins (DON'T SELL KEYS WHY WOULD YOU)
 - **Used for:** 
@@ -2132,7 +2159,7 @@ DESERT
 
 # T-Z
 
-LAST UPDATED 25 APR 2020
+LAST UPDATED 15 MAY 2020
 
 ### Tambo Mane
 
@@ -2247,6 +2274,7 @@ ALL GAME
     - 3PC Battles: Czanus (700 words for 1-3), Tambo (2000 words, 4 Rope, 10 Leaves, min level 5 for 3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1-2)
     - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
     - Gansu Battles: Pipit (900 words for 1-2)
+    - ShrineGiant Battles: Skuppa's Giant Marionette (500 words for 2-4), Guardian (500 words for 1-4), Untu Golem (500 words for 0-7)
     - Shrine TFA Battles: Untu Ship (500 words for 1-6), Fools' Lorsa (150 words for 1), Fools' Lorsa Halloween (100 words for 1)
     - Shrine GO Battles: Giant Ooze House (500 words for 2-4), Yawni Ooze (125 words for 0-2), Wavi Ooze (330 words for 1)
     - ShrinePoly Battles: Poly Mawt (900 words for 1-2)

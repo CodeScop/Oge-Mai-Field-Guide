@@ -1,4 +1,4 @@
-LAST UPDATED 12 MAY 2020
+LAST UPDATED 15 MAY 2020
 
 Once again! Here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -48,15 +48,19 @@ Dig: Dig Site
 
 Ruins: Underground Ruins
 
-Shrine GO: Shrine of Ages, when equipped with Green Ooze Shrine Bracelet
-
-Shrine TFA: Shrine of Ages, when equipped with the Terror From Above Shrine Bracelet
-
-ShrinePoly: Shrine of Ages, when equipped with the Polygon Time Bracelet
+ShrineBird: Shrine of Ages, when equipped with the Birds Time Bracelet
 
 ShrineDucks: Shrine of Ages, when equipped with the Ducks Time Bracelet
 
+ShrineGiant: Shrine of Ages, when equipped with the Giants Time Bracelet
+
+Shrine GO: Shrine of Ages, when equipped with Green Ooze Shrine Bracelet
+
 ShrineMar: Shrine of Ages, when equipped with the Marionette Time Bracelet
+
+ShrinePoly: Shrine of Ages, when equipped with the Polygon Time Bracelet
+
+Shrine TFA: Shrine of Ages, when equipped with the Terror From Above Shrine Bracelet
 
 **Oge-Mai Water**
 
@@ -297,6 +301,15 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
 - **Drops:** 10 Hunter Tokens, 1-6 Coins, 0-1 Wooden Keys, 0-1 Fur, 1-3 Raw Fabric
 - **Quests:** none as of first half of March
 
+### Caravan (Exp: ShrineGiant)
+
+- **Unlocked by:** Wardrobe: Giants Time Bracelet
+- **Requirements:** 5000 words
+- **Time allowed:** 5000 minutes (3 days, 11 hours, 20 minutes)
+- **XP:** 550
+- **Drops:** 50 Shrine Stones, 6-11 Fur, 5-13 Raw Fabric, 1-2 Stempos, 1 Stone Chest, 1 Stone Key, 2-5 Desert Stones
+- **Quests:** ShrineGiant: A Colossal Quest (1), The Shrine-Stone Trail (5)
+
 ### Caricaco (Oge: Balance)
 
 - **Requirements:** 300 words
@@ -474,6 +487,28 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - Gansu: Watering Hole Puffs (5)
 
+### Gayol (Exp: ShrineBird)
+
+- **Unlocked by:** Wardrobe: Birds Time Bracelet
+- **Requirements:** 150 words
+- **Time allowed:** 20 minutes
+- **XP:** 12
+- **Drops:** 1 Shrine Stone, 0-1 Raw Sandstone
+- **Quests:** ShrineBird: Birb's the Word (1), Prime Birb Time (5)
+
+### Giant Dust Spirit (Exp: ShrineGiant)
+
+- **Unlocked by:** Wardrobe: Giants Time Bracelet
+- **Requirements:** 500 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 50
+- **Drops:** 1-4 Raw Fabric, 1-3 Raw Stone, 5 Shrine Stones, 1-4 Dust
+- **Quests:** ShrineGiant: A Colossal Quest (1)
+
+### Giant Marionnette
+
+see **Skuppa's Giant Marionette**
+
 ### Giant Ooze (Exp: Shrine GO)
 
 - **Unlocked by:** Wardrobe: Green Ooze Shrine Bracelet
@@ -537,6 +572,15 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 80
 - **Drops:** 2 Fur, 1 Dust, 3 Raw Stone, 1 Desert Stone
 - **Quests:** HuntS2: Strengthening Your Loyalty (4), A Season to Explore (1)
+
+### Guardian (Exp: ShrineGiant)
+
+- **Unlocked by:** Wardrobe: Giants Time Bracelet
+- **Requirements:** 500 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 50
+- **Drops:** 1-4 Wood, 1-3 Dust, 0-1 Raw Stone, 5 Shrine Stones
+- **Quests:** ShrineGiant: A Colossal Quest (1)
 
 ### Idaa (Exp: ShrineDucks)
 
@@ -602,6 +646,15 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - Functionally, anything requiring a Kapir Tuft requires a Kapir battle. (See All Resources for details.)
   - Dig: A Desert Exploration (5)
+
+### Katock (Exp: ShrineBird)
+
+- **Unlocked by:** Wardrobe: Birds Time Bracelet
+- **Requirements:** 500 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 50
+- **Drops:** 5 Shrine Stones, 2-5 Coins, 1-2 Rope, 0-2 Raw Steel
+- **Quests:** ShrineBird: Birb's the Word (1), Peppy Piñata Party (10)
 
 ### Kiru (Oge: 3PC, [Gansu], [Riza])
 
@@ -681,6 +734,15 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 0-2 Coins,1-3 Dust, 4-5 Shrine Stones
 - **Quests:** Shrine TFA Quests: Shrine Creature Flyby (1), Those Nightly Terrors (5)
 
+### Mandias (Exp: ShrineGiant)
+
+- **Unlocked by:** Wardrobe: Giants Time Bracelet
+- **Requirements:** 500 words
+- **Time allowed:** 45 minutes
+- **XP:** 50
+- **Drops:** 1-3 Raw Stone, 5 Shrine Stones, 1-2 Rope, 1-3 River Grass
+- **Quests:** ShrineGiant: A Colossal Quest (1)
+
 ### Mawt (Oge: LF)
 
 - **Requirements:** 1000 words
@@ -747,6 +809,15 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - GL: Bright Night Blossoms (5)
 
+### Noasis (Exp: ShrineBird)
+
+- **Unlocked by:** Wardrobe: Birds Time Bracelet
+- **Requirements:** 1500 words
+- **Time allowed:** 240 minutes (4 hours)
+- **XP:** 140
+- **Drops:** 15 Shrine Stones, 1-2 Leather Rolls, 1-2 Claws, 1 Red Dye, 0-1 River Keys
+- **Quests:** ShrineBird: Birb's the Word (1)
+
 ### Nuig (Oge: Balance*)
 
 - **Unlocked by:** Balance Main Quest 1/Help From A Master
@@ -792,6 +863,15 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
   - MT: Inking Of Dust 3/5 (5)
   - Riza: Amateur Fisherman (3), Apprentice Fisherman (8), Water Tribe Stripes (15)
 
+### Peq (Exp: ShrineBird)
+
+- **Unlocked by:** Wardrobe: Birds Time Bracelet
+- **Requirements:** 500 words
+- **Time allowed:** 45 minutes
+- **XP:** 50
+- **Drops:** 5 Shrine Stones, 0-1 Feathers, 1-3 Leaves
+- **Quests:** ShrineBird: Birb's the Word (1), Prime Birb Time (3)
+
 ### Pester (Oge: LF)
 
 - **Requirements:** 500 words
@@ -800,6 +880,15 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 1 Reenu Wings, 1-2 Fur, 1 Claws, 1 Wood
 - **Quests:**
   - LF: Forest Creatures (1)
+
+### Piachi (Exp: ShrineGiant)
+
+- **Unlocked by:** Wardrobe: Giants Time Bracelet
+- **Requirements:** 500 words
+- **Time allowed:** 50 minutes
+- **XP:** 50
+- **Drops:** 5 Shrine Stones, 2-4 Raw Stone, 0-1 Raw Sandstone
+- **Quests:** ShrineGiant: A Colossal Quest (1)
 
 ### Pipit (Oge: Gansu)
 
@@ -857,6 +946,15 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
   - MT: Inking of Dust 3/5 (15); Itsy, Bitsy, Teeny (25)
   - Gansu: Watering Hole Puna (10)
   - Balance: Main Quest 2/Underwater Training (5), Gone Fishing (25), Gone Fishing Part 2 (100), Gone Fishing Part 3 (250)
+
+### Ralbone (Exp: ShrineBird)
+
+- **Unlocked by:** Wardrobe: Birds Time Bracelet
+- **Requirements:** 1000 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 95
+- **Drops:** 10 Shrine Stones, 1-2 Claws, 1-2 Feathers, 1-2 Rope
+- **Quests:** ShrineBird: Birb's the Word (1), Prime Birb Time (1)
 
 ### Red Witch (Oge: [Gansu])
 
@@ -995,6 +1093,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 1-2 Raw Steel
 - **Quests:** none
 
+### Skuppa's Giant Marionette (Exp: ShrineGiant)
+
+- **Unlocked by:** Wardrobe: Giants Time Bracelet
+- **Requirements:** 500 words
+- **Time allowed:** 50 minutes
+- **XP:** 55
+- **Drops:** 5 Shrine Stones, 2-4 Wood, 1-2 Dust, 1-3 Raw Steel
+- **Quests:** ShrineGiant: A Colossal Quest (1), Sticks & Stones (5)
+
 ### Sliv (Oge: Balance*)
 
 - **Unlocked by:** Balance Main Quest 1/Help From A Master
@@ -1024,6 +1131,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 0-1 Golden Chest, 1 Raw Stone, 1 Glass Bar, 2-3 Glass Shards, 2 Raw Fabric, 1-2 Raw Gold, 1-2 Fine Fabric, 1-2 White Fur, 1 Desert Stone
 - **Quests:**
   - Functionally, anything requiring White Fur will require a Suulan battle (see All Resources for list of quests requiring White Fur)
+
+### Takra (Exp: ShrineGiant)
+
+- **Unlocked by:** Wardrobe: Giants Time Bracelet
+- **Requirements:** 500 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 50
+- **Drops:** 5 Shrine Stones, 2-5 Coins, 0-3 Raw Gold
+- **Quests:** ShrineGiant: A Colossal Quest (1), Prime Party Piñata (5)
 
 ### Tambo (Oge: MT, 3PC)
 
@@ -1070,6 +1186,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 3 Fur, 2-3 Claws, 1 Leaves, 1 Rope
 - **Quests:**
   - MT: A Famiy Tree (8); Fair, Standard, Middling (25); New Adventurous Horizons (1)
+
+### Untu Golem (Exp: ShrineGiant)
+
+- **Unlocked by:** Wardrobe: Giants Time Bracelet
+- **Requirements:** 500 words
+- **Time allowed:** 12 minutes
+- **XP:** 55
+- **Drops:** 0-7 Wood, 0-2 Raw Gold, 0-2 Raw Steel, 0-3 Raw Stone, 5 Shrine Stones
+- **Quests:** ShrineGiant: A Colossal Quest (1), Sticks & Stones (5)
 
 ### Untu Ship (Exp: Shrine TFA)
 

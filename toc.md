@@ -1,4 +1,4 @@
- (Table of Contents last updated 25 April 2020)
+ (Table of Contents last updated 15 May 2020)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -103,10 +103,18 @@
   - List of Available Quests: Desert Expedition
 - Shrine of Ages
   - Shrine of Ages Intro
+  - Birds
+    - Quests - Birds
+    - Monsters - Birds
+    - Resources - Birds
   - Ducks
     - Quests - Ducks
     - Monsters - Ducks
     - Resources - Ducks
+  - Giants
+    - Quests - Giants
+    - Monsters - Giants
+    - Resources - Giants
   - Green Ooze
     - Quests - Green Ooze
     - Monsters - Green Ooze
@@ -124,6 +132,13 @@
     - Monsters - Terror From Above
     - Resources - Terror From Above
   - All Shrine Wardrobe
+- Shrine of Ages Latest Only
+  - Birds
+    - Quests - Birds
+    - Monsters - Birds
+  - Giants
+    - Quests - Giants
+    - Monsters - Giants
 - Hunt: Season 2 - Wandering (DESERT)
   - Season 2 Quests - The Main Line
   - Season 2 Quests - Strengthening Sideline

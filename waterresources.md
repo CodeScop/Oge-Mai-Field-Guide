@@ -1,4 +1,4 @@
-LAST UPDATED 6 MAY 2020
+LAST UPDATED 15 MAY 2020
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Water-only otherwise.
 
@@ -181,7 +181,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 ### Feathers
 
 - **Best sources:** FOREST
-- **Other sources:** 
+- **Other sources:** some DESERT,
   - Riza Battles: Osaril (300 words, 1 Vine Net for 1)
 - **Buy:** FOREST
 - **Sell price:** 8 Coins (Don't sell unless you have > 30)
@@ -365,6 +365,7 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
 
   - FOREST
 - DESERT
+  
   - Riza Battles: Jaihri (485 words for 5), Xin (100 words for 1), Frizi (150 words for 1-2), Sparfly (450 words for 4-5), Patliadu (750 words, 1 Harpoon for 7-8)
 - WATER EXPEDITION:
     - not available at this time
@@ -696,6 +697,7 @@ FOREST ONLY
 ### River Key
 
 - **Sources:** 
+  - some DESERT
   - Balance Battles: River Goddess (5000 words for 1), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 0-1, usually 1 with enough Luck), Water Rudakai (1600 words, 3 Reinforced Rope for 0-1, usually 1 with enough Luck), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 0-1, usually 1 with enough Luck)
   - Balance Quests: Steel (Or Brace) Yourself (1), It's Electric! (3), Venomous Villains (1), The Abyss Stares Back (3), Curious Traveler Part 2 (1)
 - **Sell price:** 25 Coins (… I'm going to depart from my refrain and say "don't sell unless you have completed all side quests and reserve a key for every River Chest plus an additional 20 for buffer". I keep selling off extra River Keys and I still end up with 50 River Keys and no Chests. Hopefully this changes soon.)
@@ -945,7 +947,8 @@ I'm going to keep the DESERT info available here because it's nice to be able to
 
 - **Sources:**
   - Gansu Quests: Main Quest 3/Sacred Shrine (1), Main Quest 4/The Welcoming Committee (1), Main Quest 6/Waters of History (1), Main Quest 8/Dust To Dust (1-indefinite), Desert Rudakai (1), Stone Collector (1), Tougher with Tambo (3), Gansu Watering Hole Puffs (1), Protect the Body (1)
-  - Dig Quest: A Desert Exploration (1)
+  - Dig Quest: A Desert Exploration (1
+  - ShrineGiant Battles: Caravan (5000 words for 1)
   - Riza Quests: Main Quest 2/Attack of Opportunity (1), Main Quest 3/Remedy for a Friend (1), Main Quest 5/This Might Sting (1), Spider Bows (1)
 - **Sell price:** 100 Coins (DON'T SELL CHESTS AND ESPECIALLY NEVER NEVER SELL STONE CHESTS)
 - **Used for:** 
@@ -966,6 +969,7 @@ As with the Stone Chest, I'm going to keep the DESERT info available here becaus
   - Global Quests: Weekly Monster Hunter (1)
   - 3PC Quests: Tailor (3)
   - Gansu Quests: Desert Rudakai (1), Stone Collector (1), Tougher with Tambo (3), Watering Hole Puna (1), Protect the Body (1)
+  - ShrineGiant Battles: Caravan (5000 words for 1)
   - Riza Quests: Main Quest 4/Mucky, Murky, Muddy (1), Apprentice Fisherman (1), Battle Practice (3), Barge Weights (2), Spider Bows (1)
   - Dig Quests: From Beneath Me (1)
 - **Sell price:** 25 Coins (DON'T SELL KEYS WHY WOULD YOU)

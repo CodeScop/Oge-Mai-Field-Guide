@@ -1,6 +1,8 @@
-LAST UPDATED 14 MAY 2020
+LAST UPDATED 15 MAY 2020
 
 The SHRINE OF AGES! This is a weird and wonderful place where time shifts unpredictably. Which is a fancy way of saying that past events are alive here... *if* you know how to look.
+
+**Note: if you've already looked and you just want to know what's new, skip to the New section after this one.**
 
 It looks pretty empty at first glance. You'll need to take a beeline to Town to the **Shrine Bracelets: Stempos or Tickets** section to unlock the potential. Buy yourself a Bracelet for any event(s) that look interesting. You should have received a Shrine Ticket for every time you've leveled up in the game, and by now that should be enough to get you started here. (If you need to purchase Shrine Tickets with Stempos, well, I talk plenty about how to get Stempos in the Gansu recap.)
 
@@ -18,13 +20,13 @@ Have at it.
 
 There are currently 7 Bracelets available (listing alphabetically):
 
-- Birds Time Bracelet - 3 Shrine Tickets (released 14 May 2020, based on the Carnival NaNoWriMo event November 2018)
-- Ducks Time Bracelet - 3 Shrine Tickets (released 17 Mar 2020, based on the duck-themed Leap Day event around 29 Feb 2020)
-- Giants Time Bracelet - 10 Shrine Tickets (released 14 May 2020, based on multiple big-boss monsters from multiple previous events)
-- Green Ooze Shrine Bracelet - 5 Shrine Tickets  (released 4 Feb 2020, based on Green Ooze Camp Nano events from 2018)
-- Marionette Bracelet (called the "Skull & Clown Marionette Bracelet" in the store and nowhere else) - 5 Shrine Tickets (released 17 Mar 2020, based on various haunted carnival NaNo events)
-- Polygon Time Bracelet - 3 Shrine Tickets (released 17 Mar 2020, based on the geometry-themed Pi Day event 14 Mar-17 Mar 2020)
-- Terror From Above Shrine Bracelet - 3 Shrine Tickets (released 4 Feb 2020, based on haunting & tricks themed events)
+- Birds Time Bracelet - 3 Shrine Tickets (released 14 May 2020, based on the Carnival NaNoWriMo event November 2018). Fairly easy, colorful bird monsters, excellent wardrobe options.
+- Ducks Time Bracelet - 3 Shrine Tickets (released 17 Mar 2020, based on the duck-themed Leap Day event around 29 Feb 2020) Easy, playful ducks.
+- Giants Time Bracelet - 10 Shrine Tickets (released 14 May 2020, based on multiple big-boss monsters from multiple previous events) Challenging monsters & quests
+- Green Ooze Shrine Bracelet - 5 Shrine Tickets  (released 4 Feb 2020, based on Green Ooze Camp Nano events from 2018) Wide range of ooze monsters and quests and wardrobe.
+- Marionette Bracelet (called the "Skull & Clown Marionette Bracelet" in the store and nowhere else) - 5 Shrine Tickets (released 17 Mar 2020, based on various haunted carnival NaNo events) Largely spooky, somewhat challenging monsters & quests
+- Polygon Time Bracelet - 3 Shrine Tickets (released 17 Mar 2020, based on the geometry-themed Pi Day event 14 Mar-17 Mar 2020) Cute, colorful, generally easy monsters and a variety of simple quests
+- Terror From Above Shrine Bracelet - 3 Shrine Tickets (released 4 Feb 2020, based on haunting & tricks themed events) Haunted house hodgepodge; handful of different battle quests
 
 **But before we get to the divided notes, let's briefly note the open markets.**
 

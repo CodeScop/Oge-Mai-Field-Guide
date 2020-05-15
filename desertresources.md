@@ -1,4 +1,4 @@
-LAST UPDATED 6 MAY 2020
+LAST UPDATED 15 MAY 2020
 
 Summary of everything available in the DESERT. (Yes, now including Shrine of Ages!) Abbreviations:
 
@@ -10,8 +10,11 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
 - Dig = Dig Site
 - Ruins = Underground Ruins
 - Shrine = Shrine of Ages (general)
+- ShrineBird = Shrine of Ages Birds event
 - ShrineDucks = Shrine of Ages Ducks event
+- ShrineGiant = Shrine of Ages Giants event
 - Shrine GO = Shrine of Ages Green Ooze event
+- ShrineMar = Shrine of Ages Marionettes event
 - ShrinePoly = Shrine of Ages Polygon event
 - Shrine TFA = Shrine of Ages Terror From Above event
 
@@ -39,6 +42,8 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
   - sell items (River Grass and Gold Bars can be especially good for this; Raw Fabric can also be useful. Protective Mantles may also be sold.)
   - 3PC Battles: Villager (1300 words, 1 Spider Poison, and 5 Leaves for 3-7)
   - Shrine TFA Battles: Fools' Lorsa (150 words for 1-4), Witch's Memoirs (500 words for 0-8), Fools' Lorsa Halloween (100 words for 0-4), Lupo (450 words for 0-2)
+  - ShrineBird Battles: Katock (500 words for 2-5)
+  - ShrineGiant Battles: Takra (500 words for 2-5)
 - **Buy: **FOREST
 - **Used for:** Buy misc items;
   - FOREST
@@ -80,7 +85,9 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
 
 - **Best sources:** 
   - FOREST
-- **Other sources:** ShrinePoly Battles: Poly Mawt (900 words for 2)
+- **Other sources:** 
+  - ShrinePoly Battles: Poly Mawt (900 words for 2)
+  - ShrineBird Battles: Ralbone (1000 words for 1-2), Noasis (1500 words for 1-2)
 - **Buy: **FOREST
 - **Sell price:** 4 Coins (don't sell unless you have >300)
 - **Used for:** later game,
@@ -112,6 +119,7 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
   - Gansu Battles: Wetu (1100 words for 1-2), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1-2), Arenica (1350 words, 1 Steel Dagger for 1), Suulan (2000 words, 1 Steel Dagger for 1)
   - Dig Battle: Okkorhi (1000 words for 1-2)
   - Ruins Battles: Ripos (1800 words for 1-2)
+  - ShrineGiant Battles: Caravan (5000 words for 2-5)
 - **Sell price:** 25 Coins (don't sell unless you have >200, ideally >500)
 - **Used for:** later game,
   - Craft Gansu: Protective Mantle (2)
@@ -143,6 +151,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
   - Dig Battles: Okkorhi (1000 words for 2-6), Sakish (350 words for 1-2), Zera (550 words for 1-3)
   - Shrine TFA Battles: Witch's Memoirs (500 words for 1-4), Lupo (450 words for 1-3)
   - Shrine GO Battles: Balli Ooze (250 words for 0-2)
+  - ShrineGiant Battles: Giant Dust Spirit (500 words for 1-4), Guardian (500 words for 1-3), Skuppa's Giant Marionette (500 words for 1-2)
 - **Buy: **12 Coins in Item Bazaar/Zilya's Great Bazaar (don't bother)
 - **Sell price:** 2 Coins (don't sell unless you have >1000)
 - **Used for:** 
@@ -198,7 +207,8 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 ### Feathers
 
 - **Best sources:** FOREST
-- **Other sources:** none
+- **Other sources:** 
+  - ShrineBird Battles: Peq (500 words for 0-1), Ralbone (1000 words for 1-2)
 - **Buy: **FOREST
 - **Sell price:** 8 Coins (don't sell unless you have >100)
 - **Used for:** 
@@ -228,6 +238,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
   - 3PC Battles: Tambo (2000 words, 4 Rope, and 10 Leaves for 5)
   - Dig Battle: Kapir (800 words for 1), Zera (550 words for 1)
   - Ruins Battle: Griffe (450 words for 1), Yantao (650 words for 1)
+  - ShrineGiant Battles: Caravan (5000 words for 6-11)
 - **Buy: **FOREST
 - **Sell price:** 2 Coins (don't sell unless you have >500)
 - **Used for:** 
@@ -392,6 +403,7 @@ This actually isn't available yet, but a quest requiring it pops up as soon as R
 
   - FOREST
 - 3PC Battles: Xin (100 words for 1), Frizi (150 words for 1-2), Kiru (250 words for 2-3), Grult (400 words for 4), Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, 10 Leaves, Min Level 5 for 20)
+  
   - Gansu Battles: Xin (100 words for 1), Frizi (150 words for 1-2), Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Wetu (1100 words for 11), Arenica (1350 words, 1 Steel Dagger for 13-14), Desert Rudakai (1800 words, 1 Leaf Boots, and 10 Leaves for 18), Ylly (720 words for 7)
 - DESERT EXPEDITION: 
   
@@ -482,6 +494,14 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
   - 3PC Quests: Lighten the Load (15)
 - **Equip:** Weapon1: +3 Attack, +0 Defense, +1 Luck
 
+### Leather Roll
+
+- **Best sources:** later game
+- **Other sources:** Buy,
+  - ShrineBird Battles: Noasis (1500 words for 1-2)
+- **Sell price:** 60 Coins (probably best to keep 200 in stock, otherwise great source of Coins)
+- **Used for:** later game
+
 ### Leaves
 
 - **Best sources:** 
@@ -493,6 +513,7 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
 - **Other source:** 
   - Anywhere Battles: Vi (5 minutes for 1-4)
   - Shrine GO Battles: Wowtri Ooze (250 words for 0-2), Balli Ooze (250 words for 0-1)
+  - ShrineBird Battles: Peq (500 words for 1-3)
 - **Buy: **FOREST
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
 - **Used for:** 
@@ -590,6 +611,7 @@ FOREST ONLY
   - Gansu Battles: Ylly (720 words for 3), Sparfly (450 words for 1), Pipit (900 words for 2-4), Suulan (2000 words, 1 Steel Dagger for 2), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 3)
   - ShrineMar Battles: Osemar (1000 words for 1-4), Balatrix (630 words for 1-2), Balatros (700 words for 1-2), Balatras (785 words for 1-2)
   - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
+  - ShrineGiant Battles: Giant Dust Spirit (500 words for 1-4), Caravan (5000 words for 5-13)
 - **Buy: **40 Coins in Item Bazaar/Zilya's Great Bazaar 
 - **Sell price:** 8 Coins (don't sell unless you have >200; if you also have Red Dye and Essence, craft Fine Fabric for a better sell option)
 - **Used for:** 
@@ -608,6 +630,7 @@ FOREST ONLY
   - 3PC Golden Chest: 3-6
   - Dig Battles: Okkorhi (1000 words for 1-2)
   - Ruins Quest: Searching South (5)
+  - ShrineGiant Battles: Takra (500 words for 0-3), Untu Golem (500 words for 0-2)
 - **Buy: **75 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 12 Coins (please don't sell this, you'll make so much more if you craft it into Gold Bars.)
 - **Used for:** Craft: Gold Bar (3)
@@ -623,6 +646,8 @@ FOREST ONLY
   - Dig Battles: Kapir (800 words for 0-1), Okkorhi (1000 words for 1-2), Sakish (350 words for 1), Zera (550 words for 1-2)
   - Ruins Battles: Griffe (450 words for 1-2), Ripos (1800 words for 1-2)
   - Ruins Quest: Withdrawing West (5)
+  - ShrineBird Battles: Gayol (150 words for 0-1)
+  - ShrineGiant Battles: Piachi (500 words for 0-1)
 - **Buy: **50 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 12 Coins (don't sell unless you have >100)
 - **Used for:** Craft: Sandstone Block (3)
@@ -640,6 +665,8 @@ FOREST ONLY
   - FOREST
   - 3PC Battles: Czanus (700 words for 1-3)
   - Ruins Battles: Yantao (650 words for 1-2)
+  - ShrineBird Battles: Katock (500 words for 0-2)
+  - ShrineGiant Battles: Skuppa's Giant Marionette (500 words for 1-3), Untu Golem (500 words for 0-2)
   - Ruins Quest: Navigating North (5)
 - **Buy: **35 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 8 Coins (DO NOT SELL. You will need this to craft SO MANY STEEL BARS.)
@@ -665,6 +692,7 @@ FOREST ONLY
   - Shrine GO Battles: Tryi Ooze (150 words for 0-1), Giant Ooze (1000 words for 1-4)
   - ShrineDucks Battles: Natida (500 words for 1-3), Dati (150 words for 0-2), Tian (100 words for 0-1)
   - ShrineMar Battles: Zosimaga (600 words for 1-3)
+  - ShrineGiant Battles: Piachi (500 words for 2-4), Giant Dust Spirit (500 words for 1-3), Mandias (500 words for 1-3), Untu Golem (500 words for 0-2), Guardian (500 words for 0-1)
 - **Buy: **35 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 8 Coins (don't sell unless you have >100)
 - **Used for:** 
@@ -678,6 +706,7 @@ FOREST ONLY
   - Gansu Battles: Pipit (900 words for 0-1, usually 1 with Luck), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 2), Wetu (1100 words for 1), Arenica (1350 words, 1 Steel Dagger for 1)
   - Shrine GO Battles: Wavi Ooze (330 words for 0-1)
   - ShrineMar Battles: Zosimas (575 words for 0-1), Zosimaga (600 words for 0-1), Balatros (700 words for 0-1), Balatras (785 words for 0-1), Osemar (1000 words for 1)
+  - ShrineBird Battles: Noasis (1500 words for 1)
   - 3PC Wooden Chest: 1
   - 3PC Golden Chest: 1
   - 3PC Quests: Luciola Materials (5)
@@ -701,9 +730,19 @@ FOREST ONLY
 ### River Grass
 
 - **Best sources:** Anywhere Battles: Xin (100 words for 0-1)
-- **Other sources:** Furoxi (400 words & 1 Steel Fishing Rod for 1) 
+- **Other sources:** 
+  - Gansu Battles: Furoxi (400 words & 1 Steel Fishing Rod for 1) 
+  - ShrineGiant Battles: Mandias (500 words for 1-3)
 - **Sell price:** 40 Coins (starting to need it, don't sell unless you have >200)
 - **Used for:** Craft Gansu: Steel Fishing Rod (1)
+
+### River Key
+
+- **Sources:** 
+  - ShrineBird Battles: Noasis (1500 words for 0-1)
+- **Sell price:** 25 Coins (don't sell keys here, c'mon)
+- **Used for:** 
+  - later game
 
 ### River Stone
 
@@ -713,7 +752,7 @@ FOREST ONLY
 
 ### River Water 
 
-- **Sources:**Furoxi (400 words & 1 Steel Fishing Rod for 1) 
+- **Sources:** Furoxi (400 words & 1 Steel Fishing Rod for 1) 
 - **Sell price:** 30 Coins (don't sell right now)
 - **Used for:** later game
 
@@ -732,6 +771,8 @@ FOREST ONLY
   - Shrine GO Battles: Whaly Ooze (100 words for 0-1), Giant Ooze House (500 words for 1-2), Giant Ooze (1000 words for 1-2)
   - ShrinePoly Battles: Poly Aracnu (600 words for 0-2), Poly Wignow (314 words for 0-1), Poly Mawt (900 words for 0-1)
   - ShrineMar Battles: Zosimalus (444 words for 1), Zosimas (575 words for 1-2)
+  - ShrineBird Battles: Katock (500 words for 1-2), Ralbone (1000 words for 1-2)
+  - ShrineGiant Battles: Mandias (500 words for 1-2)
 - **Buy: **12 Coins in Item Bazaar/Zilya's Great Bazaar (cheaper in the FOREST)
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
 - **Used for:** 
@@ -819,6 +860,10 @@ The game usually simply calls this **Sa****ndstone**. Since I call the parallel 
   - ShrineDucks Quests: Helping a Mother (25), Paint Battle (25)
   - ShrineMar Battles: Balatrix (630 words for 6-7), Zosimalus (444 words for 4-5), Zosimas (575 words for 5-6), Balatras (785 words for 7-8), Zosimos (400 words for 4), Zosimaga (600 words for 6), Balatros (700 words for 7), Osemar (1000 words for 10)
   - ShrineMar Quests: Calcium Vitamins (25), Spooky Scary Supernaturals (50), All Dressed Up (25), Bone White Canvas (25)
+  - ShrineBird Battles: Katock (500 words for 5), Peq (500 words for 5), Ralbone (1000 words for 10), Noasis (1500 words for 15), Gayol (150 words for 1)
+  - ShrineBird Quests: Birb's the Word (25), Peppy Piñata Party (50), Prime Birb Times (25)
+  - ShrineGiant Battles: Giant Dust Spirit (500 words for 5), Guardian (500 words for 5), Mandias (500 words for 5), Piachi (500 words for 5), Skuppa's Giant Marionette (500 words for 5), Takra (500 words for 5), Untu Golem (500 words for 5), Caravan (5000 words for 50)
+  - ShrineGiant Quests: Sticks & Stones (25), A Colossal Quest (75), Prime Party Piñata (25)
 - **Sell price:** 10 Coins (do not sell; much better to spend)
 - **Used for:** 
   - Chests & Keys in Shrine of Ages: Wooden Chest (25), Wooden Key (25), Golden Chest (50), Leafsung Key (50), Stone Chest (75), Stone Key (75), River Chest (100), River Key (100), Bones Chest (150), Bone Key (150)
@@ -938,6 +983,7 @@ The ability to craft Stempos in Gansu unlocks after a series of side quests.The 
   - Gansu Stone Chest: 0-1 (usually 1)
   - 3PC Quests: Sands of Time (5), Tailor (1)
   - Gansu Quests: Main Quest 7/Red Witch of the Southern Coven (1), Main Quest 8/Dust to Dust (3-indefinite), Sacred Feathers (3), White Coat (3), Protect the Mind (5), Protect the Spirit (10), Rebuild the Watering Hole (1), Respark the Flame (1), Local Shrine (1), First Stempo (1)
+  - ShrineGiant Battles: Caravan (5000 words for 1-2)
 - **Craft:** Gansu Crafts & Trinkets/Wynfri of Water: 1 Sacred Feather, 1 White Fur, 10 Essence, 1 Glass Bar, 1 Gold Bar
 - **Sell Price:** Priceless. Sorry, 250 Coins, but DON'T SELL.
 - **Used for:** later game,
@@ -970,6 +1016,7 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 - **Sources:** 
   - Gansu Quests: Main Quest 3/Sacred Shrine (1), Main Quest 4/The Welcoming Committee (1), Main Quest 6/Waters of History (1), Main Quest 8/Dust To Dust (1-indefinite), Desert Rudakai (1), Stone Collector (1), Tougher with Tambo (3), Gansu Watering Hole Puffs (1), Protect the Body (1)
   - Dig Quest: A Desert Exploration (1)
+  - ShrineGiant Battles: Caravan (5000 words for 1)
 - **Sell price:** 100 Coins (DON'T SELL CHESTS AND ESPECIALLY NEVER NEVER SELL STONE CHESTS)
 - **Used for:** With Stone Key in Gansu, drops 100-170 Coins, 1-3 Gold Bars, 1-3 Red Dye, 1 Protective Mantle, 0-1 Stempo, 2-5 Fine Fabric, 1-2 Stone Ring, 1 Glass Necklace
 
@@ -988,6 +1035,7 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
   - 3PC Quests: Tailor (3)
   - Gansu Quests: Desert Rudakai (1), Stone Collector (1), Tougher with Tambo (3), Watering Hole Puna (1), Protect the Body (1)
   - Dig Quests: From Beneath Me (1)
+  - ShrineGiant Battles: Caravan (5000 words for 1)
 - **Sell price:** 25 Coins (DON'T SELL KEYS WHY WOULD YOU)
 - **Used for:** With Stone Chest in Gansu, drops 100-170 Coins, 1-3 Gold Bars, 1-3 Red Dye, 1 Protective Mantle, 0-1 Stempo, 2-5 Fine Fabric, 1-2 Stone Ring, 1 Glass Necklace
 
@@ -1055,6 +1103,7 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
   - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
   - Gansu Battles: Pipit (900 words for 1-2)
   - Shrine TFA Battles: Untu Ship (500 words for 1-6), Fools' Lorsa (150 words for 1), Fools' Lorsa Halloween (100 words for 1)
+  - ShrineGiant Battles: Skuppa's Giant Marionette (500 words for 2-4), Guardian (500 words for 1-4), Untu Golem (500 words for 0-7)
   - Shrine GO Battles: Giant Ooze House (500 words for 2-4), Yawni Ooze (125 words for 0-2), Wavi Ooze (330 words for 1)
   - ShrinePoly Battles: Poly Mawt (900 words for 1-2)
 - **Buy: **12 Coins in Item Bazaar/Zilya's Great Bazaar (cheaper in the FOREST)

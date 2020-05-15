@@ -1,8 +1,17 @@
-LAST UPDATED 23 MAR 2020
+LAST UPDATED 15 MAY 2020
 
 And here are all the wardrobe items available in the Shrine!
 
 NOTE: Once you own a Wardrobe item, it's removed from these offerings. So if you have a wardrobe item from a prior event or quest or whatever, it won't be available here.
+
+## Wardrobe Offerings - Birds
+
+- The **Wardrobe** section offers the following for sale:
+  - Bird Earrings - 50 Shrine Stones. X variants:
+  - Carnival Boots - 50 Shrine Stones. X variants:
+  - Carnival Headpiece - 100 Shrine Stones. X variants:
+  - Ralbone Top - 150 Shrine Stones
+  - Ralbone Pants - 150 Shrine Stones
 
 ## Wardrobe Offerings - Ducks
 
@@ -17,6 +26,15 @@ NOTE: Once you own a Wardrobe item, it's removed from these offerings. So if you
     - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;630-duck-hat-3659-76745.png
     - red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;630-duck-hat-3661-27179.png
     - yellow: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;630-duck-hat-3663-25563.png
+
+## Wardrobe Offerings: Giants
+
+- **The Shrine-Stone Trail** quest yields the **Tambo Mane:**  https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;644-tambo-mane-3765-86009.png
+- The **Wardrobe** section offers the following for sale:
+  - Arm Bandages - 150 Shrine Stones
+  - Guardian Rags - 100 Shrine Stones. Three variants: 
+  - Guardian Tattoos - 100 Shrine Stones. Three variants:
+  - Piachi Hat - 200 Shrine Stones
 
 ## Wardrobe Offerings: Green Ooze
 
