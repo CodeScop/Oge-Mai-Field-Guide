@@ -1,4 +1,4 @@
-LAST UPDATED 23 MAR 2020
+LAST UPDATED 14 MAY 2020
 
 The SHRINE OF AGES! This is a weird and wonderful place where time shifts unpredictably. Which is a fancy way of saying that past events are alive here... *if* you know how to look.
 
@@ -14,9 +14,13 @@ Have at it.
 
 **My Shrine Notes will be mostly divided by Bracelet.** That is to say, I'll discuss resources, monsters, and quests grouped by which Bracelet makes them appear. (It's worth noting that cheaper Bracelets seem to give fewer monsters and quests.) **I also have a Wardrobe section available after all the regular Bracelet sections** to summarize all the Wardrobe available, for anyone who wants to browse (but at the end so it's easy for anyone else to skip).
 
-There are currently 5 Bracelets available (listing alphabetically):
+**Want a preview?** Each Bracelet premiered with a banner listing images of all the monsters and wardrobe items it unlocks. I've saved those banners here: https://github.com/CodeScop/Oge-Mai-Field-Guide/tree/master/bannershrine
 
+There are currently 7 Bracelets available (listing alphabetically):
+
+- Birds Time Bracelet - 3 Shrine Tickets (released 14 May 2020, based on the Carnival NaNoWriMo event November 2018)
 - Ducks Time Bracelet - 3 Shrine Tickets (released 17 Mar 2020, based on the duck-themed Leap Day event around 29 Feb 2020)
+- Giants Time Bracelet - 10 Shrine Tickets (released 14 May 2020, based on multiple big-boss monsters from multiple previous events)
 - Green Ooze Shrine Bracelet - 5 Shrine Tickets  (released 4 Feb 2020, based on Green Ooze Camp Nano events from 2018)
 - Marionette Bracelet (called the "Skull & Clown Marionette Bracelet" in the store and nowhere else) - 5 Shrine Tickets (released 17 Mar 2020, based on various haunted carnival NaNo events)
 - Polygon Time Bracelet - 3 Shrine Tickets (released 17 Mar 2020, based on the geometry-themed Pi Day event 14 Mar-17 Mar 2020)
@@ -73,4 +77,4 @@ The Reaction Market sells Reactions for 1 Shrine Stone each. Here's what's avail
 - Hero
 - You Are Welcome
 
-**And now, on to the Bracelet-specific info! Listed in the order they're listed above: alphabetically**
+**And now, on to the Bracelet-specific info! Listed in the order they're listed above: alphabetically.**
