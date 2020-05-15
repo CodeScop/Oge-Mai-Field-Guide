@@ -7,11 +7,24 @@ NOTE: Once you own a Wardrobe item, it's removed from these offerings. So if you
 ## Wardrobe Offerings - Birds
 
 - The **Wardrobe** section offers the following for sale:
-  - Bird Earrings - 50 Shrine Stones. X variants:
-  - Carnival Boots - 50 Shrine Stones. X variants:
-  - Carnival Headpiece - 100 Shrine Stones. X variants:
-  - Ralbone Top - 150 Shrine Stones
-  - Ralbone Pants - 150 Shrine Stones
+  - Bird Earrings - 50 Shrine Stones. 7 variants:
+    - black: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;645-bird-earrings-3768-19821.png
+    - white: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;645-bird-earrings-3771-14097.png
+    - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;645-bird-earrings-3776-97193.png
+    - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;645-bird-earrings-3777-35680.png
+    - purple-pink: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;645-bird-earrings-3778-57247.png
+    - red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;645-bird-earrings-3779-16487.png
+    - gold: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;645-bird-earrings-3780-93671.png
+  - Carnival Boots - 50 Shrine Stones. 3 variants:
+    - blue/aqua: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;boots&#95;blue.png
+    - gold/red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;boots&#95;gold.png
+    - magenta/purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;boots&#95;purple.png
+  - Carnival Headpiece - 100 Shrine Stones. 3 variants:
+    - blue/white/purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;mask&#95;blue.png
+    - orange/pink/lime/blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;mask&#95;pride.png
+    - yellow/white/red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;mask&#95;gold.png
+  - Ralbone Top - 150 Shrine Stones https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;peacock&#95;top.png
+  - Ralbone Pants - 150 Shrine Stones https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;peacock&#95;pants.png
 
 ## Wardrobe Offerings - Ducks
 
@@ -31,12 +44,20 @@ NOTE: Once you own a Wardrobe item, it's removed from these offerings. So if you
 
 - **The Shrine-Stone Trail** quest yields the **Tambo Mane:**  https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;644-tambo-mane-3765-86009.png
 - The **Wardrobe** section offers the following for sale:
-  - Arm Bandages - 150 Shrine Stones
+  - Arm Bandages - 150 Shrine Stones. Two variants:
+    - black/pink: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;arm&#95;bandages&#95;black.png
+    - white/pink: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;arm&#95;bandages&#95;white.png
   - Guardian Rags - 100 Shrine Stones. Three variants: 
+    - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;jaguar&#95;rags&#95;blue.png
+    - brown: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;jaguar&#95;rags&#95;brown.png
+    - purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;jaguar&#95;rags&#95;purple.png
   - Guardian Tattoos - 100 Shrine Stones. Three variants:
-  - Piachi Hat - 200 Shrine Stones
+    - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;guardian&#95;tattoos&#95;blue.png
+    - pink-purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;guardian&#95;tattoos&#95;purple.png
+    - yellow: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;guardian&#95;tattoos&#95;yellow.png
+  - Piachi Hat - 200 Shrine Stones https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;639-piachi-hat-3754-86012.png
 
-## Wardrobe Offerings: Green Ooze
+## Wardrobe Offerings - Green Ooze
 
 - The **Mini OoOoOoOozes Quest** yields the **Mini Ooze Pet:** https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;ooze&#95;pet.png
 - The **Wardrobe** section offers the following for sale:
@@ -45,7 +66,7 @@ NOTE: Once you own a Wardrobe item, it's removed from these offerings. So if you
   - Ooze Hair - 150 Shrine Stones https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;ooze&#95;hair.png
   - Ooze Earrings - 50 Shrine Stones https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;ooze&#95;earrings.png
 
-##Wardrobe Offerings: Marionette
+##Wardrobe Offerings - Marionette
 
 - **Stop Clowning Around** yields **Clown Eyes**: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;clown&#95;eyes.png
 - The **Wardrobe** section offers the following for sale:
@@ -72,7 +93,7 @@ NOTE: Once you own a Wardrobe item, it's removed from these offerings. So if you
     - white: https://media.4thewords.com/s3/media/wardrobe/featured/female/wm&#95;featured&#95;clown&#95;hair&#95;white.png
     - yellow: https://media.4thewords.com/s3/media/wardrobe/featured/female/wm&#95;featured&#95;clown&#95;hair&#95;yellow.png
 
-## Wardrobe Offerings: Polygon
+## Wardrobe Offerings - Polygon
 
 - The **By the Pie!** quest gives us **Polygon Shirt** in **five varieties**: (these are multicolor so I'm being creative with names)
   - forest: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;688-polygon-shirt-4360-21642.png
@@ -99,7 +120,7 @@ NOTE: Once you own a Wardrobe item, it's removed from these offerings. So if you
     - silver: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;691-polygon-shoulder-pads-4406-16840.png
     - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;691-polygon-shoulder-pads-4407-60028.png
 
-### Wardrobe Offerings: Terror From Above
+### Wardrobe Offerings - Terror From Above
 
 - The **Beware! Rock Shower Quest** yields the **Alien Rock Shoulderpads** https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;alien&#95;rock&#95;shoulderpads.png
 - The **Wardrobe** section offers the following for sale:

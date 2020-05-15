@@ -132,6 +132,13 @@
     - Monsters - Terror From Above
     - Resources - Terror From Above
   - All Shrine Wardrobe
+    - Wardrobe Offerings - Birds
+    - Wardrobe Offerings - Ducks
+    - Wardrobe Offerings - Giants
+    - Wardrobe Offerings - Green Ooze
+    - Wardrobe Offerings - Marionette
+    - Wardrobe Offerings - Polygon
+    - Wardrobe Offerings - Terror From Above
 - Shrine of Ages Latest Only
   - Birds
     - Quests - Birds
@@ -211,7 +218,9 @@
     - Three Points Crossing
     - Dig Site
     - Shrine of Ages: General
+    - Shrine of Ages: Birds
     - Shrine of Ages: Ducks
+    - Shrine of Ages: Giants
     - Shrine of Ages: Green Ooze
     - Shrine of Ages: Marionette
     - Shrine of Ages: Polygon

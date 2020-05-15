@@ -1,4 +1,4 @@
-LAST UPDATED 25 APR 2020
+LAST UPDATED 15 MAY 2020
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
 
@@ -176,12 +176,37 @@ Because some people might be on the hunt for all the wardrobe items available in
 ### Shrine of Ages: General
 
 - The **Shrine Bracelets: Stempos or Tickets** section sells Shrine Bracelets, which you can put on your avatar to unlock different areas of the Shrine. They are sold for Shrine Tickets. As of this writing, there are 5 available:
+  - **Birds Time Bracelet** can be bought for 3 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;640-birds-time-bracelet-3756-76083.png
   - **Ducks Time Bracelet** can be bought for 3 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;695-ducks-time-bracelet-4437-80879.png
+  - **Giants Time Bracelet** can be bought for 10 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;642-giants-time-bracelet-3760-35652.png
   - **Green Ooze Shrine Bracelet** can be bought for 5 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;ooze&#95;time&#95;bracelet.png
   - **Marionette Time Bracelet** can be bought for 5 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;marionette&#95;time&#95;bracelet.png
   - **Polygons Time Bracelet** can be bought for 3 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;696-polygons-time-bracelet-4439-67141.png
   - **Terror From Above Shrine Bracelet** can be bought for 3 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;wing&#95;time&#95;bracelet.png
 - Other wardrobe items are best listed as if each Shrine of Ages event were a separate area, so that's what I'm doing below.
+
+### Shrine of Ages: Birds
+
+The **Wardrobe** section offers the following for sale:
+
+- Bird Earrings - 50 Shrine Stones. 7 variants:
+  - black: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;645-bird-earrings-3768-19821.png
+  - white: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;645-bird-earrings-3771-14097.png
+  - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;645-bird-earrings-3776-97193.png
+  - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;645-bird-earrings-3777-35680.png
+  - purple-pink: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;645-bird-earrings-3778-57247.png
+  - red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;645-bird-earrings-3779-16487.png
+  - gold: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;645-bird-earrings-3780-93671.png
+- Carnival Boots - 50 Shrine Stones. 3 variants:
+  - blue/aqua: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;boots&#95;blue.png
+  - gold/red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;boots&#95;gold.png
+  - magenta/purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;boots&#95;purple.png
+- Carnival Headpiece - 100 Shrine Stones. 3 variants:
+  - blue/white/purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;mask&#95;blue.png
+  - orange/pink/lime/blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;mask&#95;pride.png
+  - yellow/white/red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;mask&#95;gold.png
+- Ralbone Top - 150 Shrine Stones https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;peacock&#95;top.png
+- Ralbone Pants - 150 Shrine Stones https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;peacock&#95;pants.png
 
 ### Shrine of Ages: Ducks
 
@@ -196,6 +221,23 @@ Because some people might be on the hunt for all the wardrobe items available in
     - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;630-duck-hat-3659-76745.png
     - red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;630-duck-hat-3661-27179.png
     - yellow: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;630-duck-hat-3663-25563.png
+
+### Shrine of Ages: Giants
+
+- **The Shrine-Stone Trail** quest yields the **Tambo Mane:**  https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;644-tambo-mane-3765-86009.png
+- The **Wardrobe** section offers the following for sale:
+  - Arm Bandages - 150 Shrine Stones. Two variants:
+    - black/pink: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;arm&#95;bandages&#95;black.png
+    - white/pink: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;arm&#95;bandages&#95;white.png
+  - Guardian Rags - 100 Shrine Stones. Three variants: 
+    - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;jaguar&#95;rags&#95;blue.png
+    - brown: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;jaguar&#95;rags&#95;brown.png
+    - purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;jaguar&#95;rags&#95;purple.png
+  - Guardian Tattoos - 100 Shrine Stones. Three variants:
+    - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;guardian&#95;tattoos&#95;blue.png
+    - pink-purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;guardian&#95;tattoos&#95;purple.png
+    - yellow: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;guardian&#95;tattoos&#95;yellow.png
+  - Piachi Hat - 200 Shrine Stones https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;639-piachi-hat-3754-86012.png
 
 ### Shrine of Ages: Green Ooze
 
