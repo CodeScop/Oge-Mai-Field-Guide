@@ -1,4 +1,4 @@
-LAST UPDATED 15 MAY 2020
+LAST UPDATED 24 MAY 2020
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
 
@@ -9,6 +9,7 @@ Because some people might be on the hunt for all the wardrobe items available in
   - Classy Short Hair - 10 Hunter Tokens
   - Clean Front Hair - 10 Hunter Tokens
   - Hunt Braids Hair - 10 Hunter Tokens
+  - Hunt Headband - 10 Hunter Tokens
   - Lifted Front Hair - 10 Hunter Tokens
   - Lower Buns Hair - 10 Hunter Tokens
   - Messy Front Hair - 10 Hunter Tokens
@@ -27,6 +28,8 @@ Because some people might be on the hunt for all the wardrobe items available in
   - Facepaint Dots Simple - 15 Hunter Tokens
   - Freckles - 20 Hunter Tokens
   - Simple Sandals - 20 Hunter Tokens
+  - Slim Left Chest Belt - 20 Hunter Tokens
+  - Slim Right Chest Belt - 20 Hunter Tokens
   - Triple Belt - 20 Hunter Tokens
   - Dinti Sandals Complex - 30 Hunter Tokens
   - Earth Sandals - 30 Hunter Tokens
@@ -54,6 +57,7 @@ Because some people might be on the hunt for all the wardrobe items available in
   - Shield - 125 Hunter Tokens
   - Spear - 125 Hunter Tokens
   - Sword - 125 Hunter Tokens
+  - Bow and Quiver - 150 Hunter Tokens
   - Lorsa Fur Scarf - 150 Hunter Tokens
   - Hunt Skirt - 175 Hunter Tokens
   - Hunt Altar - 500 Hunter Tokens
@@ -110,6 +114,23 @@ Because some people might be on the hunt for all the wardrobe items available in
   - right gold: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4549-90477.png
   - right green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4550-44483.png
   - right blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;670-hunt-facepaint-star-4551-34424.png
+- The **Strengthening Your Adaptiveness 5/5** quest returns **Chest Side Belts**, which come in eight varieties:
+  - black: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;657-chest-side-belts-3904-39597.png
+  - white: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;657-chest-side-belts-3907-35212.png
+  - red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;657-chest-side-belts-3911-68448.png
+  - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;657-chest-side-belts-3914-64249.png
+  - orange: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;657-chest-side-belts-3915-23178.png
+  - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;657-chest-side-belts-3916-94073.png
+  - purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;657-chest-side-belts-3917-66812.png
+  - yellow: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;657-chest-side-belts-3918-70658.png
+- **No Wrong Path** returns **Hunt Facepaint Eye Shadow**, which comes in seven varieties:
+  - black: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;664-hunt-facepaint-eye-shadow-4008-74355.png
+  - red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;664-hunt-facepaint-eye-shadow-4011-24405.png
+  - white: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;664-hunt-facepaint-eye-shadow-4012-61033.png
+  - purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;664-hunt-facepaint-eye-shadow-4016-51506.png
+  - gold: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;664-hunt-facepaint-eye-shadow-4017-75455.png
+  - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;664-hunt-facepaint-eye-shadow-4019-78242.png
+  - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;664-hunt-facepaint-eye-shadow-4020-89564.png
 
 ###Mama Tree
 

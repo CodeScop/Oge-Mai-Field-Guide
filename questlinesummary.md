@@ -1,4 +1,4 @@
-LAST UPDATED 25 APR 2020
+LAST UPDATED 24 MAY 2020
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
@@ -314,6 +314,7 @@ NOTE: **ALL HUNT QUESTS are unlocked by the quest Joining the Hunt** (write 3K w
 - HuntS1 Time of Reflection - maintain 4-day Streak, get 10 Hunter Tokens
 - HuntS1 The Hunt Begins - finish A Clue to the Past, get 5-day streak, write 5K words for Wardrobe Scarred Eye
   - HuntS1 A Battle of Wills - defeat 1 Velts for 10 Hunter Tokens
+    - HuntS2 A Battle of Merit - defeat 1 Desert version of Velts, get 25 Hunter Tokens
   - HuntS1 Deeper Forest Hunting - finish Elder Library Assistants, get 7-day streak, write 10K words for Wardrobe Full Body Scars
     - HuntS1 A Past Not Forgotten - finish Elder Library's Security, get Wardrobe Pauldrons
       - HuntS1 The Curator of Elder Library - defeat Curator 4 times, get Wardrobe Sassi Pet
@@ -329,14 +330,21 @@ NOTE: **ALL HUNT QUESTS are unlocked by the quest Joining the Hunt** (write 3K w
 
 Season 2 is unlocked by completing The Curator of Elder Library quest, and you can see that questline in Season 1.
 
+- HuntS2 Battle of Merit - **(Note: This has as prerequisite the HuntS1 quest A Battle of Wills instead of The Curator of Elder Library.)** Defeat 1 Desert version of Velts, get 25 Hunter Tokens
 - HuntS2 A Season to Explore - defeat every non-global monster in 3PC, get 100 Hunter Tokens
 - HuntS2 Wandering We Go - maintain 7-day Streak, get 10 Hunter Tokens
 - HuntS2 Seeing It Through - Defeat 10 Frizi, get 5 Hunter Tokens
 - HuntS2 We Wander Together - Make 3 Forum Posts, get 10 Hunter Tokens
+- HuntS2 Dazzling Desert Diversity - Defeat 3 Loi, 2 Sakish, 2 Zera, and 1 Kapir, and get 10 Hunter Tokens
+- HuntS2 Our Waymark Stones - deliver 10 Raw Stone, 10 Raw Sandstone, and 10 Desert Stones, and get 10 Hunter Tokens
 - HuntS2 Strengthening Your Loyalty - defeat 4 Grult, get 10 Hunter Tokens
   - HuntS2 Strengthening Your Viewpoint 2/3 - defeat 1 each Rulo, Sparfly, Ylly, and Desert Wignow, get 10 Hunter Tokens
     - HuntS2 Strengthening Your Friendship 3/3 - defeat 3 Wetu, get 10 Hunter Tokens
-- HuntS2 Guarding the Path - defeat 4 Czanus, get Hunt Map Piece 4
-  - HuntS2 State of Rest - defeat 4 Pipit, get Hunt Map Piece 5
+      - HuntS2 Strengthening Your Timing 4/5 - defeat 1 Ripos, get 10 Hunter Tokens
+        - HuntS2 Strengthening Your Adaptiveness 5/5 - defeat 3 Kapir, get Wardrobe: Chest Side Belts
+- HuntS2 Guarding the Path - defeat 4 Czanus, get Hunt Map Piece 4 & 5 Hunter Tokens
+  - HuntS2 State of Rest - defeat 4 Pipit, get Hunt Map Piece 5 & 5 Hunter Tokens
+    - HuntS2 A Distant Figure - defeat 3 Lubu, get Hunt Map Piece 6 & 5 Hunter Tokens
 - HuntS2 All Who Wander - write 4K words & collect Hunt Map Piece 4, get Wardrobe: Tall Fur Boots
   - HuntS2 Oh, Endless Possibilities! - collect Hunt Map Piece 5, get Wardrobe: Hunt Facepaint Star
+    - HuntS2 No Wrong Path - collect Hunt Map Piece 6, get Wardrobe: Hunt Facepaint Eye Shadow

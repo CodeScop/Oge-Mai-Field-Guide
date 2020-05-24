@@ -1,4 +1,4 @@
-LAST UPDATED 15 MAY 2020
+LAST UPDATED 24 MAY 2020
 
 Beware! **Here be spoilers**. Every single quest requiring a given monster is listed, no matter how late in the game it appears. Don't say I didn't warn you. But maybe you'll be able to mix and match quests more efficiently.
 
@@ -728,6 +728,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - Functionally, anything requiring a Kapir Tuft requires a Kapir battle. (See All Resources for details.)
   - Dig: A Desert Exploration (5)
+  - HuntS2: Dazzling Desert Diversity (1), Strengthening Your Adaptiveness 5/5 (3)
 
 ### Katock (Exp: ShrineBird)
 
@@ -785,6 +786,7 @@ see **Skuppa's Giant Marionette**
 - **Time allowed:** 25 minutes 
 - **XP:** 15
 - **Drops:** 1 Raw Sandstone, 1 Raw Stone
+- **Quests:** HuntS2: Dazzling Desert Diversity (3)
 
 ### Lombri (Oge: 3PC, [Gansu])
 
@@ -806,6 +808,15 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 0-1 Feathers (usually 1), 2 Dust, 1-2 Lorsa Fur, 0-1 Reenu Wings (usually 1)
 - **Quests:**
   - MT: Main Quest 1/To Great Heights (1),  Tinkering With Leafsung 1/5 (5)
+
+### Lubu (Exp: Dig, Ruins)
+
+- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
+- **Requirements:** 450 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 45
+- **Drops:** 4-5 Hunter Tokens, 1-2 Raw Fabric, 0-1 Raw Steel, 1 Wood
+- **Quests:** HuntS2: A Distant Figure (3)
 
 ### Lupo (Exp: Shrine TFA)
 
@@ -1131,7 +1142,8 @@ see **Skuppa's Giant Marionette**
 - **XP:** 180
 - **Drops:** 1-2 Spider Poison, 1-3 Raw Stone, 1-2 Raw Sandstone, 1-2 Desert Stone
 - **Quests:**
-  - Ruins: Searching South (1)
+  - Ruins: Searching South (1
+  - HuntS2: Strengthening Your Timing 4/5 (1)
 
 ### River Goddess (Oge: Balance*)
 
@@ -1183,6 +1195,7 @@ see **Skuppa's Giant Marionette**
 - **Time allowed:** 45 minutes
 - **XP:** 35
 - **Drops:** 1 Raw Stone, 1-2 Dust, 1 Raw Sandstone
+- **Quests:** HuntS2: Dazzling Desert Diversity (2)
 
 ### Sapilo (Exp: SC)
 
@@ -1422,6 +1435,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 80
 - **Drops:** 8 Hunter Tokens, 3-6 Wood, 1-3 Rope, 0-1 Spider Poison, 0-3 Ardis Dust, 0-2 Raw Steel
 - **Quests:** HuntS1: A Battle of Wills (1)
+
+### Velts: Desert (Oge: 3PC)
+
+- **Unlocked by:** HuntS1 Quest: A Battle of Wills
+- **Requirements:** 1200 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 120
+- **Drops:** 12 Hunter Tokens, 4-8 Wood, 4-6 Rope, 1 Spider Poison, 2-4 Raw Steel, 1-3 Raw Sandstone
+- **Quests:** HuntS2: Battle of Merit (1)
 
 ### Vezi (Oge: Balance*)
 
@@ -1693,6 +1715,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Time allowed:** 120 minutes (2 hours)
 - **XP:** 50
 - **Drops:** 1-3 Dust, 1-2 Raw Sandstone, 1 Fur
+- **Quests:** HuntS2: Dazzling Desert Diversity (2)
 
 ### Zosimaga (Exp: ShrineMar)
 

@@ -1,6 +1,6 @@
 # A-F
 
-LAST UPDATED 15 MAY 2020
+LAST UPDATED 24 MAY 2020
 
 ### Core Crystals
 
@@ -320,6 +320,7 @@ DESERT, some WATER
     - Craft Gansu: Protective Mantle (2)
     - Gansu Quests: Main Quest 1/Circle of Protection (15), Main Quest 3/Sacred Shrine (5), Stone Collector (100), Protect the Body (50), Protect the Mind (100), Protect the Spirit (200), Respark the Flame (20)
     - Ruins Quest: Tunnel Locked On (3)
+    - HuntS2 Quest: Our Waymark Stones (10)
   - WATER
     - Riza Quests: Main Quest 3/Remedy for a Friend (3)
 
@@ -567,7 +568,7 @@ ALL GAME
 
 # G-O
 
-LAST UPDATED 15 MAY 2020
+LAST UPDATED 24 MAY 2020
 
 ### Glass
 
@@ -786,9 +787,15 @@ HUNT S2
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
 - **Used for:** HuntS2 Quest: Oh, Endless Possibilities! (1)
 
-### Hunter Tokens
+### Hunt Map Piece 6
 
-ALL GAME
+HUNT S2
+
+- **Source:** HuntS2 Quest: A Distant Figure (1)
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** HuntS2 Quest: No Wrong Path (1)
+
+### Hunter Tokens
 
 - **Hunt Sources:** 
 
@@ -796,36 +803,37 @@ ALL GAME
 
   - LF Battles: Sassi (600 words for 6)
   - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10)
-  - Forest Expedition Battles: (NOTE: Hunt monsters in the Forest Expedition roam freely; their exact location is not predictable, and so not listed here.) Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
-  - 3PC Battles: Czanus (700 words for 7)
+  - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
+  - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12)
   - Gansu Battles: Pipit (900 words for 9)
+  - DigS, Ruins Battles: Lubu (450 words for 4-5)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
-  - Hunt S2 Quests: A Season to Explore (100), Wandering We Go (10), Strengthening Your Loyalty (10), State of Rest (5), Seeing It Through (5), We Wander Together (10), Strengthening Your Viewpoint (10), Strengthening Your Friendship (10)
+  - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5 Hunter Tokens)
 
-- **Early May 2020 Sources Outside the Hunt:**
+- **Late May 2020 Sources Outside the Hunt:**
 
-  Early May 2020 sources are Hunt monsters and monsters that camouflage with their environment (at least in theory; in practice, it can be hard to tell why some are considered camo and others not). This means mostly green monsters which exist in the Forest, brown monsters which exist in the Desert, blue monsters which exist in the Water, and purple monsters which exist in the Dust.
+  Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included).
 
-  - LF Battles: Xin (100 words for 1), Wignow (250 words for 2-3), Aracni (400 words for 4), Spirit Wignow (450 words for 4-5), Nitana (700 words for 7)
-  - MT Battles: Xin (100 words for 1), Wignow (250 words for 2-3), Kuay (400 words for 4), Illi (700 words for 7), Tambo (2000 words, 4 Rope, 10 Leaves, Min Level 5 for 20)
+  - LF Battles: Reenu (200 words for 2), Spirit Wignow (450 words for 4-5), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 14)
+  - MT Battles: Tylu (600 words for 6), Illi (700 words for 7), Tambo (2000 words, 4 Rope, & 10 Leaves for 20)
   - FOREST EXPEDITION:
 
-    - BC Battles: Xin (100 words for 1), Xuso (450 words for 4-5), Sacer (120 words for 1)
-    - FB Battles: Xin (100 words for 1), Nezthai (600 words for 6), Dandeleon (220 words for 2)
-    - SC Battles: Xin (100 words for 1), Sapiti (300 words and 1 Saliva Vial for 3), Sapira (350 words and 1 Saliva Vial for 3-4), Sapilo (450 words and 1 Saliva Vial for 4-5)
-    - TT Battles: Xin (100 words for 1)
-    - GL Battles: Xin (100 words for 1)
-  - 3PC Battles: Xin (100 words for 1), Frizi (150 words for 1-2), Kiru (250 words for 2-3), Grult (400 words for 4), Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, 10 Leaves, Min Level 5 for 20)
-  - Gansu Battles: Xin (100 words for 1), Frizi (150 words for 1-2), Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Wetu (1100 words for 11), Arenica (1350 words, 1 Steel Dagger for 13-14), Desert Rudakai (1800 words, 1 Leaf Boots, and 10 Leaves for 18), Ylly (720 words for 7)
+    - BC Battles: Sacer (120 words for 1)
+    - FB Battles: Hunt monsters only
+    - SC Battles: Hunt monsters only
+    - TT Battles: Hunt monsters only
+    - GL Battles: Gobkey (400 words for 4)
+  - 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3), Grult (400 words for 4), Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, & 10 Leaves for 20)
+  - Gansu Battles: Frizi (150 words for 1-2), Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Ylly (720 words for 7), Wetu (1100 words for 11), Arenica (1350 words & 1 Steel Dagger for 13-14), Desert Rudakai (1800 words, 10 Leaves, & 1 Leaf Boots for 18)
   - DESERT EXPEDITION: 
 
-    - Dig Battles: Xin (100 words for 1), Sakish (350 words for 3-4), Kapir (400 words for 4)
-    - Ruins Battles: Xin (100 words for 1), Griffe (450 words for 4-5), Yantao (650 words for 6-7)
-  - Riza Battles: Jaihri (485 words for 5), Xin (100 words for 1), Frizi (150 words for 1-2), Sparfly (450 words for 4-5), Patliadu (750 words, 1 Harpoon for 7-8)
+    - Dig Battles: Sakish (350 words for 3-4), Kapir (800 words for 8)
+    - Ruins Battles: Ripos (1800 words for 18)
+  - Riza Battles: Frizi (150 words for 1-2), Sparfly (450 words for 4-5)
   - WATER EXPEDITION:
     - not available at this time
-  - Balance Battles: Xin (100 words for 1), Caricaco (300 words for 3), Castu (450 words and 1 Water Mask for 4-5), Spirit Castu (550 words for 5-6), Nuig (850 words, 1 Water Mask for 8-9), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 13), Water Rudakai (1600 words and 3 Reinforced Rope for 16)
-  - DFO Battles: Dust Wignow (444 words for 4-5), Xin (100 words for 1), Chu (100 words for 1), Ascre (150 words for 1-2), Belasi (200 words for 2), Pakkan (300 words for 3), Zanthei (400 words for 4), Takori (600 words for 6), Dust Rudakai (2000 words, 1 Fabric Boots, 15 Leaves for 20)
+  - Balance Battles: Caricaco (300 words for 3), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 20)
+  - DFO Battles: NONE
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -1114,7 +1122,7 @@ FOREST, DESERT
 
 # P-R
 
-LAST UPDATED 15 MAY 2020
+LAST UPDATED 24 MAY 2020
 
 ### Pickaxe
 
@@ -1212,6 +1220,7 @@ ALL GAME
   - DESERT
     - 3PC Battles: Bruja (900 words for 2-3), Czanus (700 words for 2-4),  Yasri (1250 words for 2-3), Lombri (1500 words and 1 Wood Spear for 3)
     - Gansu Battles:  Pipit (900 words for 2-4), Ylly (720 words for 3), Sparfly (450 words for 1), Suulan (2000 words, 1 Steel Dagger for 2),  Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 3)
+    - Dig, Ruins Battles: Lubu (450 words for 1-2)
     - ShrineMar Battles: Osemar (1000 words for 1-4), Balatrix (630 words for 1-2), Balatros (700 words for 1-2), Balatras (785 words for 1-2)
     - ShrineGiant Battles: Giant Dust Spirit (500 words for 1-4), Caravan (5000 words for 5-13)
     - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
@@ -1262,7 +1271,7 @@ DESERT, some WATER
     - Post-DFO Ruins Battles: Spirit Griffe (480 words for 1)
 - **Other sources:** 
   - DESERT
-    - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 1-2)
+    - 3PC Battles: Velts: Desert (1200 words for 1-3), Lombri (1500 words and 1 Wood Spear for 1-2)
     - Gansu Battles:  Wetu (1100 words for 3), Sparfly (450 words for 1-2, rarely 0), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1-2)
     - Dig Battles: Kapir (800 words for 0-1), Okkorhi (1000 words for 1-2), Sakish (350 words for 1), Zera (550 words for 1-2)
     - Ruins Battles: Griffe (450 words for 1-2), Ripos (1800 words for 1-2)
@@ -1272,7 +1281,9 @@ DESERT, some WATER
   - WATER: Riza Battles: Sparfly (450 words for 0-2, usually 1-2)
 - **Buy:** DESERT: 50 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 12 Coins (don't sell unless you have >100)
-- **Used for:** DESERT: Craft: Sandstone Block (3)
+- **Used for:** DESERT: 
+  - Craft: Sandstone Block (3)
+  - HuntS2 Quest: Our Waymark Stones (10)
 
 ### Raw Steel
 
@@ -1289,7 +1300,8 @@ some FOREST, DESERT, some WATER, DUST
 - **Other sources:** Buy,
   - FOREST: MT Battles: Clawadin (800 words for 1-2), Velts (800 words for 0-2)
   - DESERT
-    - 3PC Battles: Czanus (700 words for 1-3)
+    - 3PC Battles: Czanus (700 words for 1-3), Velts: Desert (1200 words for 2-4)
+    - Dig, Ruins Battles: Lubu (450 words for 0-1)
     - Ruins Battles: Yantao (650 words for 1-2)
     - Ruins Quest: Navigating North (5)
     - Shrine TFA Battles: Untu Ship (500 words for 0-3)
@@ -1340,7 +1352,9 @@ ALL GAME
 - **Buy:** DESERT: 35 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 8 Coins (don't sell unless you have >100)
 - **Used for:** 
-  - DESERT: Craft 3PC: Stone Block (3)
+  - DESERT: 
+    - Craft 3PC: Stone Block (3)
+    - HuntS2 Quest: Our Waymark Stones (10)
   - FOREST, DESERT, WATER: Craft LF, Gansu, Balance: Wooden Fishing Rod (1)
 
 ### Red Dye
@@ -1594,7 +1608,7 @@ ALL GAME
     - BC Battles: Xuso (450 words for 0-1)
     - FB Battles: Nezthai (600 words for 1)
   - DESERT: 
-    - 3PC Battles: Desert Wignow (444 words for 1-2), Bruja (900 words for 1-3), Yasri (1250 words for 2-3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1)
+    - 3PC Battles: Velts: Desert (1200 words for 4-6), Desert Wignow (444 words for 1-2), Bruja (900 words for 1-3), Yasri (1250 words for 2-3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1)
     - Gansu Battles: Desert Wignow (444 words for 1-2)
     - Shrine TFA Battles: Untu Ship (500 words for 1-3)
     - Shrine GO Battles: Whaly Ooze (100 words for 0-1), Giant Ooze House (500 words for 1-2), Giant Ooze (1000 words for 1-2)
@@ -1669,7 +1683,7 @@ FOREST, some DESERT
 
 # S
 
-LAST UPDATED 15 MAY 2020
+LAST UPDATED 24 MAY 2020
 
 ### Sacred Feather
 
@@ -1813,6 +1827,7 @@ FOREST, DESERT, some WATER, DUST
     - MT Battles: Illi (700 words for 0-1, usually 1), Velts (800 words for 0-1)
     - SC Battles: Sapilo (450 words, 1 Saliva Vial for 1), Sapira (350 words, 1 Saliva Vial for 1), Sapiti (300 words, 1 Saliva Vial for 0-1)
   - DESERT: 
+    - 3PC Battles: Velts: Desert (1200 words for 1)
     - Gansu Battles: Ylly (720 words for 1-2)
     - Ruins Battles: Ripos (1800 words for 1-2)
     - Shrine TFA Battle: Murciel (600 words for 1)
@@ -2159,7 +2174,7 @@ DESERT
 
 # T-Z
 
-LAST UPDATED 15 MAY 2020
+LAST UPDATED 24 MAY 2020
 
 ### Tambo Mane
 
@@ -2270,8 +2285,9 @@ ALL GAME
     - SC Battles: Sapilo (450 words, 1 Saliva Vial for 1), Sapira (350 words, 1 Saliva Vial for 1)
     - TT Battles: Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 1-3), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-3)
   - DESERT
+    - Dig, Ruins Battles: Lubu (450 words for 1)
     - Ruins Battles: Yantao (650 words for 1-2)
-    - 3PC Battles: Czanus (700 words for 1-3), Tambo (2000 words, 4 Rope, 10 Leaves, min level 5 for 3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1-2)
+    - 3PC Battles: Velts: Desert (1200 words for 4-8), Czanus (700 words for 1-3), Tambo (2000 words, 4 Rope, 10 Leaves, min level 5 for 3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1-2)
     - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
     - Gansu Battles: Pipit (900 words for 1-2)
     - ShrineGiant Battles: Skuppa's Giant Marionette (500 words for 2-4), Guardian (500 words for 1-4), Untu Golem (500 words for 0-7)

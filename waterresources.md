@@ -1,4 +1,4 @@
-LAST UPDATED 15 MAY 2020
+LAST UPDATED 24 MAY 2020
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Water-only otherwise.
 
@@ -345,6 +345,12 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
 - **Used for:** DESERT HUNT
 
 ### Hunt Map Piece 5
+
+- **Source:** DESERT HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** DESERT HUNT
+
+### Hunt Map Piece 6
 
 - **Source:** DESERT HUNT
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)

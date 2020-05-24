@@ -1,4 +1,4 @@
-LAST UPDATED 6 MAY 2020
+LAST UPDATED 24 MAY 2020
 
 So, we've gone through all of Season 1. Now let's take a look at what unlocked on March 26, when Season 2 became available.
 
@@ -20,7 +20,7 @@ So, we've gone through all of Season 1. Now let's take a look at what unlocked o
 
 - Hunt Map Piece 4
 
-### Hunt Token Sources: End Mar 2020
+### Hunter Token Sources: End Mar 2020
 
 March-April 2020 sources were Hunt monsters and monsters moving around on two legs.
 
@@ -85,7 +85,9 @@ This month: April-May is going to be a little different, it looks like, because 
 
 - Hunt Map Piece 5
 
-## Hunt Token Sources: Early May 2020
+## Hunter Token Sources: Early May 2020
+
+(This is listed as Early May because the Hunter Token sources waited until the end of the Raina River Festival, i.e. May 4, to change over)
 
 Early May 2020 sources are Hunt monsters and monsters that camouflage with their environment (at least in theory; in practice, it can be hard to tell why some are considered camo and others not). This means mostly green monsters which exist in the Forest, brown monsters which exist in the Desert, blue monsters which exist in the Water, and purple monsters which exist in the Dust.
 
@@ -117,3 +119,61 @@ Early May 2020 sources are Hunt monsters and monsters that camouflage with their
 - Facepaint Dots Simple - 15 Hunter Tokens
 - Shield - 125 Hunter Tokens
 - Sword - 125 Hunter Tokens
+
+# May 2020
+
+This is what was released 24 May 2020
+
+### New Quests: May 2020
+
+- Dazzling Desert Diversity
+- Strengthening Your Timing 4/5
+- Strengthening Your Adaptiveness 5/5
+- No Wrong Path
+- Our Waymark Stones
+- Battle of Merit
+- A Distant Figure
+
+### New Hunt Monsters: May 2020
+
+- Velts: Desert - Three Points Crossing
+- Lubu - Dig Site, Underground Ruins
+
+### New Resources: May 2020
+
+- Hunt Map Piece 6
+
+### Hunter Token Sources: (Late) May 2020
+
+Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included, and there's a couple wildcards that may be left over from last month).
+
+- LF Battles: Reenu (200 words for 2), Spirit Wignow (450 words for 4-5), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 14)
+- MT Battles: Tylu (600 words for 6), Illi (700 words for 7), Tambo (2000 words, 4 Rope, & 10 Leaves for 20)
+- FOREST EXPEDITION:
+
+  - BC Battles: Sacer (120 words for 1)
+  - FB Battles: Hunt monsters only
+  - SC Battles: Hunt monsters only
+  - TT Battles: Hunt monsters only
+  - GL Battles: Gobkey (400 words for 4)
+- 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3), Grult (400 words for 4), Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, & 10 Leaves for 20)
+- Gansu Battles: Frizi (150 words for 1-2), Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Ylly (720 words for 7), Wetu (1100 words for 11), Arenica (1350 words & 1 Steel Dagger for 13-14), Desert Rudakai (1800 words, 10 Leaves, & 1 Leaf Boots for 18)
+- DESERT EXPEDITION: 
+
+  - Dig Battles: Sakish (350 words for 3-4), Kapir (800 words for 8)
+  - Ruins Battles: Ripos (1800 words for 18)
+- Riza Battles: Frizi (150 words for 1-2), Sparfly (450 words for 4-5)
+- WATER EXPEDITION:
+  - not available at this time
+- Balance Battles: Caricaco (300 words for 3), Spirit Castu (550 words for 5-6), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 20)
+- DFO Battles: NONE
+
+### New Wardrobe Items: May 2020
+
+Hunt Headband - 10 Hunter Tokens
+
+Slim Left Chest Belt - 20 Hunter Tokens
+
+Slim Right Chest Belt - 20 Hunter Tokens
+
+Bow and Quiver - 150 Hunter Tokens

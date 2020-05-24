@@ -1,4 +1,4 @@
-LAST UPDATED 15 MAY 2020
+LAST UPDATED 24 MAY 2020
 
 Summary of everything available in the DESERT. (Yes, now including Shrine of Ages!) Abbreviations:
 
@@ -125,6 +125,7 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
   - Craft Gansu: Protective Mantle (2)
   - Gansu Quests: Main Quest 1/Circle of Protection (15), Main Quest 3/Sacred Shrine (5), Stone Collector (100), Protect the Body (50), Protect the Mind (100), Protect the Spirit (200), Respark the Flame (20)
   - Ruins Quest: Tunnel Locked On (3)
+  - HuntS2 Quest: Our Waymark Stones (10)
 
 ### Desert Wooden Chest
 
@@ -386,6 +387,12 @@ This actually isn't available yet, but a quest requiring it pops up as soon as R
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
 - **Used for:** HuntS2 Quest: Oh, Endless Possibilities! (1)
 
+### Hunt Map Piece 6
+
+- **Source:** HuntS2 Quest: A Distant Figure (1)
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** HuntS2 Quest: No Wrong Path (1)
+
 ### Hunter Tokens
 
 - **Hunt Sources:** 
@@ -609,6 +616,7 @@ FOREST ONLY
   - FOREST
   - 3PC Battles: Czanus (700 words for 2-4), Bruja (900 words for 2-3), Yasri (1250 words for 2-3), Lombri (1500 words and 1 Wood Spear for 3)
   - Gansu Battles: Ylly (720 words for 3), Sparfly (450 words for 1), Pipit (900 words for 2-4), Suulan (2000 words, 1 Steel Dagger for 2), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 3)
+  - Dig, Ruins Battles: Lubu (450 words for 1-2)
   - ShrineMar Battles: Osemar (1000 words for 1-4), Balatrix (630 words for 1-2), Balatros (700 words for 1-2), Balatras (785 words for 1-2)
   - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
   - ShrineGiant Battles: Giant Dust Spirit (500 words for 1-4), Caravan (5000 words for 5-13)
@@ -641,7 +649,7 @@ FOREST ONLY
   - 3PC & Gansu Battles: Rulo (550 words for 2-3)
   - Dig Battles: Loi (150 words for 1-2)
 - **Other sources:** Buy, 
-  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 1-2)
+  - 3PC Battles: Velts: Desert (1200 words for 1-3), Lombri (1500 words and 1 Wood Spear for 1-2)
   - Gansu Battles: Wetu (1100 words for 3), Sparfly (450 words for 1-2, rarely 0), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1-2)
   - Dig Battles: Kapir (800 words for 0-1), Okkorhi (1000 words for 1-2), Sakish (350 words for 1), Zera (550 words for 1-2)
   - Ruins Battles: Griffe (450 words for 1-2), Ripos (1800 words for 1-2)
@@ -650,7 +658,9 @@ FOREST ONLY
   - ShrineGiant Battles: Piachi (500 words for 0-1)
 - **Buy: **50 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 12 Coins (don't sell unless you have >100)
-- **Used for:** Craft: Sandstone Block (3)
+- **Used for:** 
+  - HuntS2 Quest: Our Waymark Stones (10)
+  - Craft: Sandstone Block (3)
 
 ### Raw Steel
 
@@ -663,7 +673,8 @@ FOREST ONLY
   - ShrineMar Battles: Zosimos (400 words for 1-2), Balatras (785 words for 1-3)
 - **Other sources:** Buy,
   - FOREST
-  - 3PC Battles: Czanus (700 words for 1-3)
+  - 3PC Battles: Czanus (700 words for 1-3), Velts: Desert (1200 words for 2-4)
+  - Dig, Ruins Battles: Lubu (450 words for 0-1)
   - Ruins Battles: Yantao (650 words for 1-2)
   - ShrineBird Battles: Katock (500 words for 0-2)
   - ShrineGiant Battles: Skuppa's Giant Marionette (500 words for 1-3), Untu Golem (500 words for 0-2)
@@ -698,6 +709,7 @@ FOREST ONLY
 - **Used for:** 
   - Craft 3PC: Stone Block (3)
   - Craft Gansu: Wooden Fishing Rod (1)
+  - HuntS2 Quest: Our Waymark Stones (10)
 
 ### Red Dye
 
@@ -764,7 +776,7 @@ FOREST ONLY
   - Gansu Battles: Ylly (720 words for 4)
   - ShrineDucks Battles: Dati (150 words for 1), Aita (125 words for 0-1)
 - **Other sources:** Buy,
-  - 3PC Battles: Desert Wignow (444 words for 1-2), Bruja (900 words for 1-3), Yasri (1250 words for 2-3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1)
+  - 3PC Battles: Velts: Desert (1200 words for 4-6), Desert Wignow (444 words for 1-2), Bruja (900 words for 1-3), Yasri (1250 words for 2-3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1)
   - Gansu Battles: Desert Wignow (444 words for 1-2)
   - Anywhere Battles: Viyusa (25 minutes for 2-7)
   - Shrine TFA Battles: Untu Ship (500 words for 1-3)
@@ -901,6 +913,7 @@ The game usually simply calls this **Sa****ndstone**. Since I call the parallel 
 
 - **Sources:** 
   - FOREST
+  - 3PC Battles: Velts: Desert (1200 words for 1)
   - Gansu Battles: Ylly (720 words for 1-2)
   - Ruins Battles: Ripos (1800 words for 1-2)
   - Shrine TFA Battle: Murciel (600 words for 1)
@@ -1094,10 +1107,12 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 
 - **Best sources:** 
   - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2)
+  - 3PC Battles: Velts: Desert (1200 words for 4-8)
   - ShrineMar Battles: Zosimas (575 words for 3-6), Balatrix (630 words for 3-7), Zosimalus (444 words for 2-4), Zosimos (400 words for 1-4), Zosimaga (600 words for 3-6), Balatros (700 words for 3-7), Osemar (1000 words for 3-8), Balatras (785 words for 3-5)
   - FOREST
 - **Other sources:** Buy,
   - Anywhere Battles: Viyu (15 minutes for 2-7)
+  - Dig, Ruins Battles: Lubu (450 words for 1)
   - Ruins Battles: Yantao (650 words for 1-2)
   - 3PC Battles: Czanus (700 words for 1-3), Tambo (2000 words, 4 Rope, 10 Leaves, min level 5 for 3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1-2)
   - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
