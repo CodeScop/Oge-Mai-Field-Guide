@@ -1,4 +1,4 @@
- (Table of Contents last updated 15 May 2020)
+ (Table of Contents last updated 29 May 2020)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -242,16 +242,13 @@
 - Travel Directions
   - Word Map of 4TW
 - Special Events
-  - Introduction: Raina River Festival
-    - Global Events
-  - New Info As Of (benchmark/date here)
-    - New Event Quests
-    - New Event Monsters
-  - All Quests: Raina River Festival
-  - All Monsters: Raina River Festival
-  - All Resources: Raina River Festival
-    - Festival-Specific Resources
-    - Regular Resources from Festival Sources
+  - Quests
+  - Monsters
+  - Event-Specific Resource
+  - Wardrobe
+    - Quest Wardrobe
+    - Token Store Offerings
+    - Wardrobe Store Offerings
   - The Last Note
 - State of the Guide
   - (All update notices, ordered with most recent first)

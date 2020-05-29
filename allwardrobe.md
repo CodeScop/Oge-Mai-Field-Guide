@@ -1,4 +1,4 @@
-LAST UPDATED 24 MAY 2020
+LAST UPDATED 29 MAY 2020
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
 
@@ -153,14 +153,15 @@ Because some people might be on the hunt for all the wardrobe items available in
 
 ###Base Camp
 
-- **Nabia's Exploration** quest returns the **Expedition Hat** (many hat band colors available: 14 Pride flag-based bands and 1 plain brown one). This quest requires travel/battles all over the Forest Expedition. Ready for the list?
+- **Nabia's Exploration** quest returns the **Expedition Hat** (many hat band colors available: 15 Pride flag-based bands and 1 plain brown one). This quest requires travel/battles all over the Forest Expedition. Ready for the list?
   - brown: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat.png
   - Agender Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;agender.png
   - Asexual Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;asexual.png
   - Bi Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;bisexual.png
+  - Genderfluid Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;genderfluid.png
   - Intersex Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;intersex.png
   - Pansexual Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;pansexual.png
-  - Philadelphia Flag (Intersextionality Flag): https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;philadelphia.png
+  - Philadelphia Flag (Intersectionality Flag): https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;philadelphia.png
   - Pride Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;pride.png
   - Straight Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;straight.png
   - Straight Ally Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;straightally.png
@@ -168,6 +169,7 @@ Because some people might be on the hunt for all the wardrobe items available in
   - Lesbian Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;lesbian.png
   - Nonbinary Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;nonbinary.png
   - Transgender Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;trans.png
+  - Polyamory Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;372-expedition-hat-5771-34305.png
 
 ### Guardian's Lair
 
