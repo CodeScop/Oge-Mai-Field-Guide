@@ -1,4 +1,4 @@
-LAST UPDATED 6 MAY 2020
+LAST UPDATED 30 MAY 2020
 
 This section, unlike the previous resource section, *is* going to be Forest Expedition-specific, partly because the Expedition sections are a little off the beaten path, partly because I'm already collating All The Info for the Forest in the Forest Resources section.
 
@@ -121,23 +121,25 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 
 ### Hunter Tokens
 
-- **Regular Hunt Sources:** 
-  
-- outside game
-  
-- **Early May 2020 Sources Outside the Hunt:**
+- **Hunt Sources:** 
 
+  Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
+
+  - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
+  - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - outside game
 
-  Early May 2020 sources are Hunt monsters and monsters that camouflage with their environment (at least in theory; in practice, it can be hard to tell why some are considered camo and others not). This means mostly green monsters which exist in the Forest.
+- **Late May 2020 Sources Outside the Hunt:**
 
-  - FOREST EXPEDITION:
+  Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included). I'm counting Pride Sassi as "outside the Hunt" because he's visible whether you've unlocked the Hunt or not.
 
-    - BC Battles: Xin (100 words for 1), Xuso (450 words for 4-5), Sacer (120 words for 1)
-    - FB Battles: Xin (100 words for 1), Nezthai (600 words for 6), Dandeleon (220 words for 2)
-    - SC Battles: Xin (100 words for 1), Sapiti (300 words and 1 Saliva Vial for 3), Sapira (350 words and 1 Saliva Vial for 3-4), Sapilo (450 words and 1 Saliva Vial for 4-5)
-    - TT Battles: Xin (100 words for 1)
-    - GL Battles: Xin (100 words for 1)
+  - BC Battles: Sacer (120 words for 1), Pride Sassi (600 words for 6)
+  - FB Battles: Pride Sassi (600 words for 6)
+  - SC Battles: Pride Sassi (600 words for 6)
+  - TT Battles: Pride Sassi (600 words for 6)
+  - GL Battles: Gobkey (400 words for 4), Pride Sassi (600 words for 6)
+
+  - outside game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

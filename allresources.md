@@ -568,7 +568,7 @@ ALL GAME
 
 # G-O
 
-LAST UPDATED 24 MAY 2020
+LAST UPDATED 30 MAY 2020
 
 ### Glass
 
@@ -812,28 +812,28 @@ HUNT S2
 
 - **Late May 2020 Sources Outside the Hunt:**
 
-  Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included).
+  Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included). I'm counting Pride Sassi as "outside the Hunt" because he's visible whether you've unlocked the Hunt or not.
 
-  - LF Battles: Reenu (200 words for 2), Spirit Wignow (450 words for 4-5), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 14)
-  - MT Battles: Tylu (600 words for 6), Illi (700 words for 7), Tambo (2000 words, 4 Rope, & 10 Leaves for 20)
+  - LF Battles: Reenu (200 words for 2), Spirit Wignow (450 words for 4-5), Pride Sassi (600 words for 6), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 14)
+  - MT Battles: Tylu (600 words for 6), Pride Sassi (600 words for 6),  Illi (700 words for 7), Tambo (2000 words, 4 Rope, & 10 Leaves for 20)
   - FOREST EXPEDITION:
 
-    - BC Battles: Sacer (120 words for 1)
-    - FB Battles: Hunt monsters only
-    - SC Battles: Hunt monsters only
-    - TT Battles: Hunt monsters only
-    - GL Battles: Gobkey (400 words for 4)
-  - 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3), Grult (400 words for 4), Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, & 10 Leaves for 20)
-  - Gansu Battles: Frizi (150 words for 1-2), Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Ylly (720 words for 7), Wetu (1100 words for 11), Arenica (1350 words & 1 Steel Dagger for 13-14), Desert Rudakai (1800 words, 10 Leaves, & 1 Leaf Boots for 18)
+    - BC Battles: Sacer (120 words for 1), Pride Sassi (600 words for 6)
+    - FB Battles: Pride Sassi (600 words for 6)
+    - SC Battles: Pride Sassi (600 words for 6)
+    - TT Battles: Pride Sassi (600 words for 6)
+    - GL Battles: Gobkey (400 words for 4), Pride Sassi (600 words for 6)
+  - 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3), Grult (400 words for 4), Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Pride Sassi (600 words for 6), Tambo (2000 words, 4 Rope, & 10 Leaves for 20)
+  - Gansu Battles: Frizi (150 words for 1-2), Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Pride Sassi (600 words for 6), Ylly (720 words for 7), Wetu (1100 words for 11), Arenica (1350 words & 1 Steel Dagger for 13-14), Desert Rudakai (1800 words, 10 Leaves, & 1 Leaf Boots for 18)
   - DESERT EXPEDITION: 
 
-    - Dig Battles: Sakish (350 words for 3-4), Kapir (800 words for 8)
-    - Ruins Battles: Ripos (1800 words for 18)
-  - Riza Battles: Frizi (150 words for 1-2), Sparfly (450 words for 4-5)
+    - Dig Battles: Sakish (350 words for 3-4), Pride Sassi (600 words for 6), Kapir (800 words for 8)
+    - Ruins Battles: Pride Sassi (600 words for 6), Ripos (1800 words for 18)
+  - Riza Battles: Frizi (150 words for 1-2), Sparfly (450 words for 4-5), Pride Sassi (600 words for 6)
   - WATER EXPEDITION:
     - not available at this time
-  - Balance Battles: Caricaco (300 words for 3), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 20)
-  - DFO Battles: NONE
+  - Balance Battles: Caricaco (300 words for 3), Spirit Castu (550 words for 5-6), Pride Sassi (600 words for 6), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 20)
+  - DFO Battles: Pride Sassi (600 words for 6)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

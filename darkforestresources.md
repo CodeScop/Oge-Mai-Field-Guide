@@ -1,4 +1,4 @@
-LAST UPDATED 6 MAY 2020
+LAST UPDATED 30 MAY 2020
 
 We're getting deep into Oge-Mai these days - don't want to have to travel too much. This is an exceptionally twisty region, so there are an exceptional number of possible spoilers/unable to get through bits in here. Leave me a message in the Forum thread if anything is too difficult to follow! https://4thewords.com/forum/thread-oge-mai-field-guide
 
@@ -390,21 +390,37 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
 - **Used for:** DESERT HUNT
 
+### Hunt Map Piece 5
+
+- **Source:** DESERT HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** DESERT HUNT
+
+### Hunt Map Piece 6
+
+- **Source:** DESERT HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** DESERT HUNT
+
 ### Hunter Tokens
 
 - **Hunt Sources:** 
 
-  - FOREST, DESERT
-
-- **Early May 2020 Sources Outside the Hunt:**
-
-  Early May 2020 sources are Hunt monsters and monsters that camouflage with their environment (at least in theory; in practice, it can be hard to tell why some are considered camo and others not). This means mostly green monsters which exist in the Forest, brown monsters which exist in the Desert, blue monsters which exist in the Water, and purple monsters which exist in the Dust.
+  Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
   - FOREST
-- DESERT
+  - DESERT
+
+- **Late May 2020 Sources Outside the Hunt:**
+
+  Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included). I'm counting Pride Sassi as "outside the Hunt" because he's visible whether you've unlocked the Hunt or not.
+
+  - FOREST
+  - DESERT
   - WATER
-- DFO Battles: Dust Wignow (444 words for 4-5), Xin (100 words for 1), Chu (100 words for 1), Ascre (150 words for 1-2), Belasi (200 words for 2), Pakkan (300 words for 3), Zanthei (400 words for 4), Takori (600 words for 6), Dust Rudakai (2000 words, 1 Fabric Boots, 15 Leaves for 20)
-  
+
+  - DFO Battles: Pride Sassi (600 words for 6)
+
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
 - **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices)

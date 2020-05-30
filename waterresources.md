@@ -1,4 +1,4 @@
-LAST UPDATED 24 MAY 2020
+LAST UPDATED 30 MAY 2020
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Water-only otherwise.
 
@@ -365,18 +365,17 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
   - FOREST
   - DESERT
 
-- **Early May 2020 Sources Outside the Hunt:**
+- **Late May 2020 Sources Outside the Hunt:**
 
-  Early May 2020 sources are Hunt monsters and monsters that camouflage with their environment (at least in theory; in practice, it can be hard to tell why some are considered camo and others not). This means mostly green monsters which exist in the Forest, brown monsters which exist in the Desert, blue monsters which exist in the Water, and purple monsters which exist in the Dust.
+  Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included). I'm counting Pride Sassi as "outside the Hunt" because he's visible whether you've unlocked the Hunt or not.
 
   - FOREST
-- DESERT
-  
-  - Riza Battles: Jaihri (485 words for 5), Xin (100 words for 1), Frizi (150 words for 1-2), Sparfly (450 words for 4-5), Patliadu (750 words, 1 Harpoon for 7-8)
-- WATER EXPEDITION:
-    - not available at this time
-  - Balance Battles: Xin (100 words for 1), Caricaco (300 words for 3), Castu (450 words and 1 Water Mask for 4-5), Nuig (850 words, 1 Water Mask for 8-9), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 13), Water Rudakai (1600 words and 3 Reinforced Rope for 16)
-  
+  - DESERT
+  - Riza Battles: Frizi (150 words for 1-2), Sparfly (450 words for 4-5), Pride Sassi (600 words for 6)
+  - Balance Battles: Caricaco (300 words for 3), Spirit Castu (550 words for 5-6), Pride Sassi (600 words for 6), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 20)
+
+  - later game
+
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
 - **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices)

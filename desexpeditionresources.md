@@ -1,4 +1,4 @@
-LAST UPDATED 6 MAY 2020
+LAST UPDATED 30 MAY 2020
 
 Note that again, I'm only including info for the Desert Expedition, and only for the Dig Site and Ruins at that. See the Desert Resources section for a somewhat more comprehensive list. The Shrine of Ages gets its own section entirely.
 
@@ -53,15 +53,25 @@ Note that again, I'm only including info for the Desert Expedition, and only for
 
 ### Hunter Tokens
 
-- **Regular Hunt Sources:** 
-  - FOREST
+- **Hunt Sources:** 
 
-- **Mar-Apr 2020 Sources:**
+  Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
+
+  - FOREST
+  - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12)
+  - Gansu Battles: Pipit (900 words for 9)
+  - Dig, Ruins Battles: Lubu (450 words for 4-5)
+  - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5 Hunter Tokens)
+
+- **Late May 2020 Sources Outside the Hunt:**
+
+  Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included). I'm counting Pride Sassi as "outside the Hunt" because he's visible whether you've unlocked the Hunt or not.
+
   - outside game
   - DESERT EXPEDITION: 
 
-    - Dig Battles: Xin (100 words for 1), Sakish (350 words for 3-4), Kapir (400 words for 4)
-    - Ruins Battles: Xin (100 words for 1), Griffe (450 words for 4-5), Yantao (650 words for 6-7)
+    - Dig Battles: Sakish (350 words for 3-4), Pride Sassi (600 words for 6), Kapir (800 words for 8)
+    - Ruins Battles: Pride Sassi (600 words for 6), Ripos (1800 words for 18)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
