@@ -1,14 +1,36 @@
-LAST UPDATED 30 MAY 2020
+LAST UPDATED 5 JUN 2020
 
-Welcome to Pride! This year's is all out, and I'm happy to see certain wardrobe items returning (some of which I'd somehow missed previously, this is as good as the Shrine dumping all previous Prides and then adding some). Do NOT miss the news event! https://4thewords.com/forum/details-263 I'm interested in the Pride parade.
+Welcome to Pride! This year's is all out, and I'm happy to see certain wardrobe items returning (some of which I'd somehow missed previously, this is as good as the Shrine dumping all previous Prides and then adding some). Do NOT miss the news event! https://4thewords.com/forum/details-263 
+
+I particularly love the Pride Parade this event: https://4thewords.com/community/parade We get to send our avatars on a Pride parade to make up for COVID-19 cancelling most in-person events.
 
 The event started on 29 May 2020 at 10 AM Costa Rica Time, for future reference. Updated 30 May when Steel the Rainbow got added.
 
-I particularly love the Pride Parade this event: https://4thewords.com/community/parade We get to send our avatars on a Pride parade to make up for COVID-19 cancelling most in-person events.
+## Global Community Challenge
+
+- Wednesday 3 Jun, evening Costa Rica time, we got introduced to the Paint the Rainbow Community Challenge, where the community had the following linked challenges:
+
+  - Defeat 100 Puna to unlock the Got Your Back Reaction
+  - Defeat 500 Reenu to unlock the Family Reaction
+  - Defeat 250 Sacer to unlock the Community Pride Reaction
+  - Defeat 500 Aracni to unlock the Celebrate Reaction
+  - Defeat 250 Lorsa to unlock the Here For You Reaction
+  - Defeat 750 Ardis to unlock the EVERYTHING Reaction
+  - Complete all of the above, and unlock a mystery monster
+
+  We unlocked Puna within 24 hours. We managed all of it within 48 hours, unlocking the Pride Unicorn and the Unicorn Magic & Friendship! quest.
 
 Happy Pride, everyone!
 
 ## Quests
+
+### Unicorn Magic & Friendship!
+
+- **Unlocked by:** Paint the Rainbow Community Challenge
+- **Type:** Battle
+- **Requirements:** Defeat 1 Pride Unicorn
+- **Rewards:** Wardrobe: Rainbow Lips https://4thewords.com/media/wardrobe/featured/male/wm&#95;751-rainbow-lips-4980-70022.png (six variants in pink and rainbow hues; see Wardrobe for details)
+- **Recommendations:** It's a UNICORN! It's SHINY! ... but if that's not enough, it's an easier way to get the same reward as Seriously Proud Assistants.
 
 ### Take Five, Nitana
 
@@ -113,6 +135,15 @@ Happy Pride, everyone!
 - **Drops:** 1-3 Raw Fabric, 1 Rope, 6 Mini Pride Flags, 6 Hunter Tokens, 0-3 Dust
 - **Quests:** All the Colors! 1/2 (1), Valley Pride Celebration! 2/2 (3), Seriously Proud Assistants (5)
 
+### Pride Unicorn
+
+- **Unlocked by:** Paint the Rainbow Community Challenge
+- **Requirements:** 1000 words
+- **Time allowed:** 120 minutes (2 hours)
+- **XP:** 100
+- **Drops:** 10 Mini Pride Flags, 5-10 Coins, 1 Reaction: Celebrate!, 1 Reaction: Everything, 1 Reaction: Community Pride, 1 Reaction: Family, 1 Reaction: Got Your Back, 1 Reaction: Here For You
+- **Quests:** Unicorn Magic & Friendship! (1)
+
 ### Pride Wignow
 
 - **Unlocked by:** Pride 2020 Opening
@@ -136,7 +167,7 @@ Happy Pride, everyone!
 ### Mini Pride Flag
 
 - **Sources:** 
-  - Pride Battles: Pride Xin (100 words for 1), Pride Awa (200 words for 2), Pride Wignow (300 words for 3), Sassi (600 words for 6), Pride Nitana (700 words for 7)
+  - Pride Battles: Pride Xin (100 words for 1), Pride Awa (200 words for 2), Pride Wignow (300 words for 3), Sassi (600 words for 6), Pride Nitana (700 words for 7), Pride Unicorn (1000 words for 10)
   - Pride Quests: Pride's Purple Prancers (20), All the Colors! 1/2 (20), Steel the Rainbow (20)
 - **Sell price:** 5 Coins (don't sell till after event ends)
 - **Used for:** Pride Rewards Token Store
@@ -193,7 +224,7 @@ Sound good? On to the wardrobe!
   - rainbow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;752-pride-scarf-4999-76223.png
   - gold: https://4thewords.com/media/wardrobe/featured/female/wf&#95;752-pride-scarf-5000-42240.png
   - magenta: https://4thewords.com/media/wardrobe/featured/female/wf&#95;752-pride-scarf-5001-37812.png
-- **Seriously Proud Assistants** unlocks **Rainbow Lips**, which come in 6 variants:
+- **Seriously Proud Assistants** and **Unicorn Magic & Friendship** each unlock **Rainbow Lips**, which come in 6 variants:
   - magenta: https://4thewords.com/media/wardrobe/featured/female/wf&#95;751-rainbow-lips-4986-76086.png
   - pink and white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;751-rainbow-lips-4987-29996.png
   - pastel rainbow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;751-rainbow-lips-4988-54320.png

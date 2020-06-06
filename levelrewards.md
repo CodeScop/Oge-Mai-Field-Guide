@@ -64,6 +64,7 @@ Here's how it goes:
 - Level 58: reach at 1383500 XP; 1 Shrine Ticket & 1500 Coins
 - Level 59: reach at 1450015 XP; 1 Shrine Ticket & 40 Stempos
 - Level 60: reach at 1518509 XP; 1 Shrine Ticket & 1 Month Subscription Time
-- Level 61: reach at 1589005 XP; 1 Shrine Ticket
+- Level 61: reach at 1589005 XP
+- Level 62: reach at 1661527 XP
 
 
