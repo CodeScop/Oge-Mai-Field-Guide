@@ -1,4 +1,4 @@
-LAST UPDATED 5 JUN 2020
+LAST UPDATED 6 JUN 2020
 
 Welcome to Pride! This year's is all out, and I'm happy to see certain wardrobe items returning (some of which I'd somehow missed previously, this is as good as the Shrine dumping all previous Prides and then adding some). Do NOT miss the news event! https://4thewords.com/forum/details-263 
 
@@ -29,8 +29,8 @@ Happy Pride, everyone!
 - **Unlocked by:** Paint the Rainbow Community Challenge
 - **Type:** Battle
 - **Requirements:** Defeat 1 Pride Unicorn
-- **Rewards:** Wardrobe: Rainbow Lips https://4thewords.com/media/wardrobe/featured/male/wm&#95;751-rainbow-lips-4980-70022.png (six variants in pink and rainbow hues; see Wardrobe for details)
-- **Recommendations:** It's a UNICORN! It's SHINY! ... but if that's not enough, it's an easier way to get the same reward as Seriously Proud Assistants.
+- **Rewards:** Wardrobe: Stars Makeup https://4thewords.com/media/wardrobe/featured/male/wm&#95;748-stars-makeup-4942-86530.png (6 variants of very different patterns; see Wardrobe for details)
+- **Recommendations:** It's a UNICORN! It's SHINY! I honestly don't see why you wouldn't.
 
 ### Take Five, Nitana
 
@@ -224,7 +224,14 @@ Sound good? On to the wardrobe!
   - rainbow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;752-pride-scarf-4999-76223.png
   - gold: https://4thewords.com/media/wardrobe/featured/female/wf&#95;752-pride-scarf-5000-42240.png
   - magenta: https://4thewords.com/media/wardrobe/featured/female/wf&#95;752-pride-scarf-5001-37812.png
-- **Seriously Proud Assistants** and **Unicorn Magic & Friendship** each unlock **Rainbow Lips**, which come in 6 variants:
+- **Unicorn Magic & Friendship!** gives us **Stars Makeup**, which has 6 variants:
+  - white star per cheek: https://4thewords.com/media/wardrobe/featured/female/wf&#95;748-stars-makeup-4943-67299.png
+  - diagonal white stars around eyes: https://4thewords.com/media/wardrobe/featured/female/wf&#95;748-stars-makeup-4944-21761.png
+  - vertical white stars near eyes: https://4thewords.com/media/wardrobe/featured/female/wf&#95;748-stars-makeup-4945-24329.png
+  - blue starry cheekbones: https://4thewords.com/media/wardrobe/featured/female/wf&#95;748-stars-makeup-4949-98830.png
+  - orange starry cheekbones: https://4thewords.com/media/wardrobe/featured/female/wf&#95;748-stars-makeup-4951-98446.png
+  - purple starry cheekbones: https://4thewords.com/media/wardrobe/featured/female/wf&#95;748-stars-makeup-4953-16303.png
+- **Seriously Proud Assistants** unlocks **Rainbow Lips**, which come in 6 variants:
   - magenta: https://4thewords.com/media/wardrobe/featured/female/wf&#95;751-rainbow-lips-4986-76086.png
   - pink and white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;751-rainbow-lips-4987-29996.png
   - pastel rainbow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;751-rainbow-lips-4988-54320.png
@@ -268,6 +275,18 @@ Sound good? On to the wardrobe!
 
 ### Token Store Offerings
 
+- Reaction: Celebrate - 1 Mini Pride Flag
+- Reaction: Community Pride - 1 Mini Pride Flag
+- Reaction: Everything - 1 Mini Pride Flag
+- Reaction: Family - 1 Mini Pride Flag
+- Reaction: Got Your Back - 1 Mini Pride Flag
+- Reaction: Here For You - 1 Mini Pride Flag
+- Short Bowl Hair - 1 Mini Pride Flag
+- Short Brushed Up Hair - 1 Mini Pride Flag
+- Short Extra Curly Hair - 1 Mini Pride Flag
+- Short Side Bang Hair - 1 Mini Pride Flag
+- Short Side Sweep Hair - 1 Mini Pride Flag
+- Short Wavy Hair - 1 Mini Pride Flag
 - Lashes/Eyelashes - 10 Mini Pride Flags
 - Pastel Makeup - 10 Mini Pride Flags
 - Sunset Makeup - 10 Mini Pride Flags
