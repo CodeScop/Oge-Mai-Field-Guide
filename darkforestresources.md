@@ -1,4 +1,4 @@
-LAST UPDATED 30 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 We're getting deep into Oge-Mai these days - don't want to have to travel too much. This is an exceptionally twisty region, so there are an exceptional number of possible spoilers/unable to get through bits in here. Leave me a message in the Forum thread if anything is too difficult to follow! https://4thewords.com/forum/thread-oge-mai-field-guide
 
@@ -77,6 +77,7 @@ We're getting deep into Oge-Mai these days - don't want to have to travel too mu
 - **Sources:** 
   - DFO Battles: Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 1), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 1)
   - DFO Quests: Main Quest 1/Ousting the Outpost (1), Main Quest 3/The Right Way? (1), Main Quest 5/ A Fox Untrusted (1), Main Quest 7/The True Reason, Main Quest 9/Detect, Chain, Bind (1), Main Quest 11/To Hound Babu (1), Main Quest 12/Well Of Lost Souls (1), A Shaman's Rope (1), Hounding the Dead 2/4 (3), Message in a Spirit 3/4 (1), Reinforced Ardi Lamp Station 1/4 (1)
+  - MT Quest: Cool Creature Highlights 2/3 (1)
 - **Sell price:** 50 Coins (DON'T SELL KEYS, WHY WOULD YOU)
 - **Used for:** 
   - With Bones Chest, drops 140-270 Coins, 2-6 Steel Chains, 2-6 Pieces of Parchment, 1-3 Blue Essence Ink, 1-8 Refined Dust, 1-7 Dried Pulp, 1-4 Spirit Dust, 0-1 Stempo, 0-1 Dark Forest Boots
@@ -100,6 +101,7 @@ We're getting deep into Oge-Mai these days - don't want to have to travel too mu
 - **Sources:** 
   - DFO Battles: Babu (3000 words, 3 Steel Chains, 2 Pieces of Parchment, 1 Blue Essence Ink for 1), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 1)
   - DFO Quests: Main Quest 2/Rats, Wrong Way! (1), Main Quest 4/Attacking The Darkness (1), Main Quest 6/ A Fox Untested (1), Main Quest 8/Bound Up In, Main Quest 10/A Dogged Search, Main Quest 11/To Hound Babu (1), Main Quest 12/Well Of Lost Souls (1); Nasty, Dust Air (1); Pieces for Peace (1), Hounding the Dead 2/4 (1), Message in a Spirit 3/4 (1), Reinforced Ardi Lamp Station 1/4 (1)
+  - MT Quests: Warm Creature Highlights 1/3 (2), Cool Creature Highlights 2/3 (1)
 - **Sell price:** 100 Coins (DON'T SELL CHESTS, WHY WOULD YOU)
 - **Used for:** 
   - With Bone Key, drops 140-270 Coins, 2-6 Steel Chains, 2-6 Pieces of Parchment, 1-3 Blue Essence Ink, 1-8 Refined Dust, 1-7 Dried Pulp, 1-4 Spirit Dust, 0-1 Stempo, 0-1 Dark Forest Boots
@@ -159,7 +161,7 @@ We're getting deep into Oge-Mai these days - don't want to have to travel too mu
   - DFO Battles: Papple (1000 words for 2-3), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 4-6), Papple Spirit (900 words for 1)
   - Post-DFO MT Battle: Spirit Lorsini (1000 words for 1-2)
 - **Sell price:** 8 Coins (... wait and see; it seems safe to sell now, but who knows)
-- **Used for:** ???
+- **Used for:** MT Quest: Cool Creature Highlights 2/3 (10)
 
 ### Dark Forest Sword
 
@@ -648,7 +650,7 @@ FOREST EXPEDITION ONLY
 - **Sources:** DESERT, WATER
 - **Buy:** DESERT
 - **Sell price:** 15 Coins (don't sell unless you have >100; will usually be better to use to craft Fine Fabric and sell for more)
-- **Used for:** DESERT, WATER,
+- **Used for:** FOREST, DESERT, WATER,
   - DFO Quests: Deliver With A Smile (15)
 
 ### Reenu Wings
@@ -784,7 +786,7 @@ Note: Must complete the DFO Quest Reinforced Ardi Lamp Station to unlock the abi
 
 - **Source:** DESERT: Gansu Battles: Arenica (1350 words, 1 Steel Dagger for 2)
 - **Sell price:** 25 Coins (don't sell unless you have >50)
-- **Used for:** DESERT,
+- **Used for:** FOREST, DESERT,
   - DFO Quest: Main Quest 8/Bound Up In (2)
 
 ### Saliva Vial
@@ -1056,7 +1058,7 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
   - DFO Battles: Papple (1000 words for 0-1)
   - Gansu Quest: Dark Watering Materials 4/5 (1)
 - **Sell price:** 30 Coins (don't sell unless you have >50)
-- **Used for:** DESERT
+- **Used for:** FOREST, DESERT
 
 ### Wood
 

@@ -1,4 +1,4 @@
-LAST UPDATED 30 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 This is getting longer and more unwieldy, so I'm going to abbreviate a bit: if there's something you'd need to go back to the Forest Region to get, I'm summarizing it as FOREST. What's the Craft price for a Vine Net? Go check the FOREST.
 
@@ -34,7 +34,7 @@ If you want an unabbreviated version and don't mind spoilers, go ahead and skip 
 
 - **Sources:** FOREST EXPEDITION 
 - **Sell price:** 25 Coins (don't sell unless you have >60)
-- **Used for:** FOREST EXPEDITION, later game
+- **Used for:** FOREST, later game
 
 ### Ardia Dust
 
@@ -430,6 +430,12 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
 - **Used for:** equipping, later game
 - **Equip:** Weapon2: +4 Attack, +0 Defense, +2 Luck
 
+### Nezthai Claws
+
+- **Source:** FOREST EXPEDITION
+- **Sell price:** 5 Coins (don't sell any if you like fighting Buh- monsters; sell all you like otherwise)
+- **Used for:** FOREST
+
 ### Old Staff
 
 - **Best sources:** 
@@ -519,6 +525,7 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
 - **Buy:** 65 Coins in Item Bazaar/Zilya's Great Bazaar 
 - **Sell price:** 15 Coins (don't sell unless you have >100; will usually be better to use to craft Fine Fabric and sell for more)
 - **Used for:** later game,
+  - FOREST
   - Craft 3PC: Fine Fabric (1)
   - 3PC Quests: Main Quest 3/Camouflage (4), Tailor (30)
 

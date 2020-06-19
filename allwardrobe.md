@@ -1,4 +1,4 @@
-LAST UPDATED 29 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
 
@@ -150,10 +150,30 @@ Because some people might be on the hunt for all the wardrobe items available in
   - neon purple: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;leafsung&#95;tattoo&#95;purple.png
   - red: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;leafsung&#95;tattoo&#95;red.png
   - white: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;leafsung&#95;tattoo&#95;white.png
+- The **Creature Colors & Highlights (3/3)** quest unlocks the **Pride River Dye Hair**. This is the third in a chained quest sequence that starts with Warm Creature Highlights (1/3) and, like the above, requires a lot of travel all over the game. 18 variants:
+
+  - Aromantic Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5634-64111.png
+  - Agender Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5636-53299.png
+  - Asexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5637-14075.png
+  - Straight Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5639-79014.png
+  - Nonbinary Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5641-19009.png
+  - Genderfluid Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5642-65001.png
+  - Lesbian Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5644-68019.png
+  - Transgender Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5648-74133.png
+  - Philadelphia Flag (Intersectionality Flag): https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5649-30245.png
+  - Pansexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5653-38975.png
+  - Bisexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5654-73978.png
+  - Straight Ally Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5655-74379.png
+  - Intersex Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5656-48090.png
+  - Polyamory Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5702-37547.png
+  - Pride Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5703-43277.png
+  - Demisexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-river-dye-hair-6247-12567.png
+  - Polyromantic/Polysexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-river-dye-hair-6249-52098.png
+  - Genderqueer Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-river-dye-hair-6251-50730.png
 
 ###Base Camp
 
-- **Nabia's Exploration** quest returns the **Expedition Hat** (many hat band colors available: 15 Pride flag-based bands and 1 plain brown one). This quest requires travel/battles all over the Forest Expedition. Ready for the list?
+- **Nabia's Exploration** quest returns the **Expedition Hat** (many hat band colors available: 18 Pride flag-based bands and 1 plain brown one). This quest requires travel/battles all over the Forest Expedition. Ready for the list?
   - brown: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat.png
   - Agender Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;agender.png
   - Asexual Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;asexual.png
@@ -170,6 +190,9 @@ Because some people might be on the hunt for all the wardrobe items available in
   - Nonbinary Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;nonbinary.png
   - Transgender Flag: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;explorers&#95;hat&#95;front&#95;trans.png
   - Polyamory Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;372-expedition-hat-5771-34305.png
+  - Genderqueer Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;372-expedition-hat-6240-84322.png
+  - Demisexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;372-expedition-hat-6241-98324.png
+  - Polyromantic/Polysexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;372-expedition-hat-6244-46036.png
 
 ### Guardian's Lair
 

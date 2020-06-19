@@ -1,4 +1,4 @@
-LAST UPDATED 30 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 Summary of everything available in the DESERT. (Yes, now including Shrine of Ages!) Abbreviations:
 
@@ -61,7 +61,7 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
 
 - **Sources:** FOREST EXPEDITION 
 - **Sell price:** 25 Coins (don't sell unless you have >60)
-- **Used for:** FOREST EXPEDITION, later game
+- **Used for:** FOREST, later game
 
 ### Ardia Dust
 
@@ -80,6 +80,20 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
 - **Sources:** FOREST
 - **Sell price:** 5 Coins (don't sell unless you have >300)
 - **Used for:** FOREST, later game
+
+### Bones Chest
+
+- **Sources:** later game,
+  - MT Quests: Warm Creature Highlights 1/3 (2), Cool Creature Highlights 2/3 (1)
+- **Sell price:** 100 Coins (DON'T SELL CHESTS, WHY WOULD YOU)
+- **Used for:** later game
+
+### Bone Key
+
+- **Sources:** later game,
+  - MT Quest: Cool Creature Highlights 2/3 (1)
+- **Sell price:** 100 Coins (DON'T SELL CHESTS, WHY WOULD YOU)
+- **Used for:** later game
 
 ### Claws
 
@@ -108,6 +122,11 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
 - **Sources:** FOREST
 - **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game;otherwise, as you please)
 - **Used for:** nothing so far
+
+### Dark Forest Leaves
+
+- **Sources:** Later game
+- **Used for:** FOREST
 
 ### Desert Stone
 
@@ -728,6 +747,7 @@ FOREST ONLY
 - **Buy: **45 Coins in Gansu Item Shop/Tepij Locals; 65 Coins in 3PC Item Bazaar/Zilya's Great Bazaar 
 - **Sell price:** 15 Coins (don't sell unless you have >100; will usually be better to use to craft Fine Fabric and sell for more)
 - **Used for:** later game,
+  - FOREST
   - Craft 3PC: Fine Fabric (1)
   - Craft Gansu: Protective Mantle (1)
   - 3PC Quests: Main Quest 3/Camouflage (4), Tailor (30)
@@ -1261,6 +1281,11 @@ As with the Wooden Chest, I'm going to keep the FOREST info available here becau
   DESERT
 
   - 2 Keys with 1 Wooden Chest in 3PC work as **Desert Wooden Chest**, which drops 31-59 Coins, 5-8 Raw Fabric, 1-2 Steel Bars, 1 Glass Bar, 1 Gold Bar, 1 Red Dye, 1 Steel Sword, 1-3 Raw Gold
+
+### Xyplos Ink
+
+- **Sources:** Later game
+- **Used for:** FOREST
 
 
 

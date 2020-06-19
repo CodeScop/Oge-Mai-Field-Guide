@@ -1,6 +1,6 @@
 # A-F
 
-LAST UPDATED 24 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 ### Core Crystals
 
@@ -91,7 +91,7 @@ some FOREST, some DESERT, WATER
 
 ### Ardi Lamp
 
-FOREST EXPEDITION, DUST
+FOREST, FOREST EXPEDITION, DUST
 
 Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability to craft these.
 
@@ -100,6 +100,7 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
 - **Craft:** FOREST EXPEDITION FB Crafts & Trinkets/Nabia's Forward Base Store: 2 Wood, 1 Rope, 1 Ardia Dust
 - **Sell price:** 25 Coins (you probably won't have spares of these, don't sell)
 - **Used for:** 
+  - FOREST: MT Quest: Warm Creature Highlights 1/3 (5)
   - FOREST EXPEDITION: FB Quests: Javelin Toss West (10), North: Homeward Bound (15), Stone's Throw East (10)
   - DUST: DFO Quests: Main Quest 3/The Right Way? (15), Main Quest 5/A Fox Untrusted (10)
 
@@ -124,7 +125,9 @@ FOREST, DUST
 - **Sources:** Forward Base, Mama Tree Battles: Ardii (60 words for 1)
 - **Sell price:** 5 Coins (don't sell unless you have >300)
 - **Used for:** 
-  - FOREST: LF Tailor: Ardi Flame Hair (25)
+  - FOREST: 
+    - LF Tailor: Ardi Flame Hair (25)
+    - MT Quest: Cool Creature Highlights 2/3 (25)
   - DUST: 
     - DFO Quest: Reinforced Ardi Lamp Station (50)
     - DFO Craft: Reinforced Ardi Lamp (3)
@@ -160,9 +163,10 @@ DUST
 
 ### Bone Key
 
-DUST
+slight FOREST, DUST
 
 - **Sources:** 
+  - MT Quest: Cool Creature Highlights 2/3 (1)
   - DFO Battles: Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 1), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 1)
   - DFO Quests: Main Quest 1/Ousting the Outpost (1), Main Quest 3/The Right Way? (1), Main Quest 5/ A Fox Untrusted (1), Main Quest 7/The True Reason, Main Quest 9/Detect, Chain, Bind (1), Main Quest 11/To Hound Babu (1), Main Quest 12/Well Of Lost Souls (1), A Shaman's Rope (1), Hounding the Dead 2/4 (3), Message in a Spirit 3/4 (1), Reinforced Ardi Lamp Station 1/4 (1)
 - **Sell price:** 50 Coins (DON'T SELL KEYS, WHY WOULD YOU)
@@ -187,9 +191,10 @@ DUST
 
 ### Bones Chest
 
-DUST
+slight FOREST, DUST
 
 - **Sources:** 
+  - MT Quests: Warm Creature Highlights 1/3 (2), Cool Creature Highlights 2/3 (1)
   - DFO Battles: Babu (3000 words, 3 Steel Chains, 2 Pieces of Parchment, 1 Blue Essence Ink for 1), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 1)
   - DFO Quests: Main Quest 2/Rats, Wrong Way! (1), Main Quest 4/Attacking The Darkness (1), Main Quest 6/ A Fox Untested (1), Main Quest 8/Bound Up In, Main Quest 10/A Dogged Search, Main Quest 11/To Hound Babu (1), Main Quest 12/Well Of Lost Souls (1); Nasty, Dust Air (1); Pieces for Peace (1), Hounding the Dead 2/4 (1), Message in a Spirit 3/4 (1), Reinforced Ardi Lamp Station 1/4 (1)
 - **Sell price:** 100 Coins (DON'T SELL CHESTS, WHY WOULD YOU)
@@ -233,7 +238,7 @@ DESERT
 
 ### Dandeleon Flower
 
-EXPEDITION FOREST
+FOREST, FOREST EXPEDITION
 
 - **Sources:** 
 
@@ -244,7 +249,7 @@ EXPEDITION FOREST
 
 - **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game;otherwise, as you please)
 
-- **Used for:** nothing right now
+- **Used for:** FOREST: MT Quest: Creature Colors & Highlights 3/3 (5)
 
 ### Dark Forest Amulet
 
@@ -279,7 +284,7 @@ DUST
 
 ### Dark Forest Leaves
 
-DUST
+slight FOREST, DUST
 
 - **Best sources:** 
   - DFO Battles: Ascre (150 words for 1), Dust Wignow (444 words for 3-4), Zanthei (400 words for 2)
@@ -288,7 +293,7 @@ DUST
   - DFO Battles: Papple (1000 words for 2-3), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 4-6), Papple Spirit (900 words for 1)
   - Post-DFO MT Battle: Spirit Lorsini (1000 words for 1-2)
 - **Sell price:** 8 Coins (... wait and see; it seems safe to sell now, but who knows)
-- **Used for:** ???
+- **Used for:** FOREST: MT Quest: Cool Creature Highlights 2/3 (10)
 
 ### Dark Forest Sword
 
@@ -454,7 +459,7 @@ ALL GAME, especially FOREST, DESERT, DUST
   - FOREST
     - Craft MT: Leafsung Ink (5), Rusty Pendant (2), Wood Spear (1)
     - LF Quest: Don't Regift Curses/Main Quest 4 (4), Save the Children (8), Make Ink Sing (10), Make Words Sing (20) Make Attacks Sing (30)
-    - MT Quests: Main Quest 2/A Secret Message (3), Shaman's Hideout (8)
+    - MT Quests: Main Quest 2/A Secret Message (3), Shaman's Hideout (8), Creature Colors & Highlights 3/3 (10)
   - DESERT
     - Craft 3PC: Fine Fabric (1)
     - Craft Gansu: Stempo (10)
@@ -514,7 +519,7 @@ FOREST, some DESERT, some WATER
   - FOREST
     - Craft MT: Leaf Breastplate (5), Leaf Helmet (3)
     - LF Quests: Make It Work (5), Style Is Eternal (10), New Style (5), Safety Hats (20)
-    - MT Quests: Main Quest 2/A Secret Message (5), Inking By Number 2/5 (15)
+    - MT Quests: Main Quest 2/A Secret Message (5), Inking By Number 2/5 (15), Warm Creature Highlights 1/3 (10)
   - DESERT
     - 3PC Quest: Luciola Materials (15)
 
@@ -568,7 +573,7 @@ ALL GAME
 
 # G-O
 
-LAST UPDATED 30 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 ### Glass
 
@@ -1052,6 +1057,7 @@ FOREST
   - FOREST
     - Craft MT: Protected Leaf Helmet (2)
     - LF Quests: Style Is Eternal (5)
+    - MT Quest: Cool Creature Highlights 2/3 (10)
   - DESERT: 3PC Quests: Luciola Materials (5)
 
 ### Lorsa Nests
@@ -1088,6 +1094,7 @@ FOREST EXPEDITION
 - **Source:** FB Battles: Nezthai (600 words for 1-2)
 - **Sell price:** 5 Coins (don't sell any if you like fighting Buh- monsters; sell all you like otherwise)
 - **Used for:** 
+  - MT Quest: Warm Creature Highlights 1/3 (10)
   - TT Battles: Buhini (need 1), Buholi (need 3), Buhovi (need 2)
 
 ### Nuig String
@@ -1099,7 +1106,7 @@ some FOREST, WATER
 - **Sell price:** 10 Coins (Can sell if you have >40)
 - **Used for:** 
   - WATER: Balance Quests: Main Quest 4/Potion For A Goddess (need 12), It's Electric! (need 10)
-  - FOREST: MT Quest: Thinking Like Ink 4/5 (15)
+  - FOREST: MT Quest: Thinking Like Ink 4/5 (15, Creature Colors & Highlights 3/3 (8)
 
 ### Old Staff
 
@@ -1122,7 +1129,7 @@ FOREST, DESERT
 
 # P-R
 
-LAST UPDATED 24 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 ### Pickaxe
 
@@ -1359,7 +1366,7 @@ ALL GAME
 
 ### Red Dye
 
-DESERT, some WATER, DUST
+DESERT, some FOREST, WATER, DUST
 
 - **Sources:** 
   - DESERT
@@ -1376,6 +1383,7 @@ DESERT, some WATER, DUST
 - **Buy:** DESERT: 45 Coins in Gansu Item Shop/Tepij Locals; 65 Coins in 3PC Item Bazaar/Zilya's Great Bazaar 
 - **Sell price:** 15 Coins (don't sell unless you have >100; will usually be better to use to craft Fine Fabric and sell for more)
 - **Used for:** 
+  - FOREST: MT Quest: Warm Creature Highlights 1/3 (3)
   - DESERT
     - Craft 3PC: Fine Fabric (1)
     - Craft Gansu: Protective Mantle (1)
@@ -1579,7 +1587,7 @@ some FOREST, WATER, DUST
 - **Sell price:** 40 Coins (don't sell unless you have >500)
 - **Used for:** 
   - FOREST
-    - MT Quests: River Water For…? (10)
+    - MT Quests: River Water For…? (10), Cool Creature Highlights 2/3 (10)
   - WATER
     - Craft Riza: Dí Bag (10)
     - Craft Balance: Reinforced Steel Breastplate (10), Reinforced Steel Helmet (8)
@@ -1683,7 +1691,7 @@ FOREST, some DESERT
 
 # S
 
-LAST UPDATED 24 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 ### Sacred Feather
 
@@ -1692,6 +1700,7 @@ DESERT, DUST
 - **Source:** DESERT: Gansu Battles: Arenica (1350 words, 1 Steel Dagger for 2)
 - **Sell price:** 25 Coins (don't sell unless you have >50)
 - **Used for:** 
+  - FOREST: MT Quest: Creature Colors & Highlights 3/3 (3)
   - DESERT
     - Craft Gansu: Protective Cloak (1), Stempo (1)
     - 3PC Quest: Double the Rarity (12)
@@ -1838,6 +1847,7 @@ FOREST, DESERT, some WATER, DUST
   - FOREST
     - Craft MT: Leafsung Ink (5)
     - LF Quests: Save the Children (10), Make Ink Sing (10), Make Words Sing (10), Make Attacks Sing (15)
+    - MT Quest: Warm Creature Highlights 1/3 (5)
   - DESERT: 
     - 3PC Battles: Villager (need 1)
     - Ruins Quest: Tunnel Locked On (3)
@@ -2174,7 +2184,7 @@ DESERT
 
 # T-Z
 
-LAST UPDATED 24 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 ### Tambo Mane
 
@@ -2251,7 +2261,7 @@ WATER
 
 ### White Fur
 
-DESERT, DUST
+slight FOREST, DESERT, DUST
 
 - **Source:** 
   - DESERT: 
@@ -2260,6 +2270,7 @@ DESERT, DUST
   - DUST: DFO Battles: Papple (1000 words for 0-1)
 - **Sell price:** 30 Coins (don't sell unless you have >50)
 - **Used for:**
+  - FOREST: MT Quest: Creature Colors & Highlights 3/3 (3)
   - DESERT
     - Craft Gansu: Protective Cloak (1), Stempo (1)
     - 3PC Quest: Double the Rarity (12)
@@ -2476,4 +2487,4 @@ some FOREST, WATER
 - **Sell price:** 10 Coins (don't sell unless you have >20)
 - **Used for:** 
   - WATER: Balance Quests: Colors To Die For (need 15)
-  - FOREST: MT Quest: Thinking Like Ink 4/5 (5)
+  - FOREST: MT Quests: Thinking Like Ink 4/5 (5), Cool Creature Highlights 2/3 (3)

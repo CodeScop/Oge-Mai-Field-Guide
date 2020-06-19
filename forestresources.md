@@ -1,4 +1,4 @@
-LAST UPDATED 30 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 Here are ALL THE THINGS available in the Forest. LF is Luciola Forest. MT is Mama Tree. HuntS1 is Hunt for the Ancients Season 1. And for the Expedition...
 
@@ -50,6 +50,7 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
 - **Craft:** FB Crafts & Trinkets/Nabia's Forward Base Store: 2 Wood, 1 Rope, 1 Ardia Dust
 - **Sell price:** 25 Coins (don't sell unless you have >60)
 - **Used for:** later game,
+  - MT Quest: Warm Creature Highlights 1/3 (5)
   - FB Quests: Javelin Toss West (10), North: Homeward Bound (15), Stone's Throw East (10)
 
 ### Ardia Dust
@@ -155,7 +156,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Used for:** 
   - Craft MT: Leaf Breastplate (5), Leaf Helmet (3)
   - LF Quests: Make It Work (5), Style Is Eternal (10), New Style (5), Safety Hats (20)
-  - MT Quests: Main Quest 2/A Secret Message (5), Inking By Number 2/5 (15)
+  - MT Quests: Main Quest 2/A Secret Message (5), Inking By Number 2/5 (15), Warm Creature Highlights 1/3 (10)
 
 ### Fur
 
@@ -370,6 +371,7 @@ For later game. DO NOT SELL.
 - **Source:** FB Battles: Nezthai (600 words for 1-2)
 - **Sell price:** 5 Coins (don't sell any if you like fighting Buh- monsters; sell all you like otherwise)
 - **Used for:** 
+  - MT Quest: Warm Creature Highlights 1/3 (10)
   - TT Battles: Buhini (need 1), Buholi (need 3), Buhovi (need 2)
 
 ### Old Staff
@@ -424,6 +426,11 @@ For later game. DO NOT SELL.
 - **Sell price:** 8 Coins (don't sell unless you have >100)
 - **Used for:** 
   - Craft LF: Wooden Fishing Rod (1)
+
+### Red Dye
+
+- **Sources:** Later game
+- **Used for:** MT Quest: Warm Creature Highlights 1/3 (3)
 
 ### Reenu Wings
 
@@ -551,6 +558,7 @@ For later game. DO NOT SELL.
 - **Used for:** 
   - Craft MT: Leafsung Ink (5)
   - LF Quests: Save the Children (10), Make Ink Sing (10), Make Words Sing (10), Make Attacks Sing (15)
+  - MT Quest: Warm Creature Highlights 1/3 (5)
 
 ### Steel Dagger
 

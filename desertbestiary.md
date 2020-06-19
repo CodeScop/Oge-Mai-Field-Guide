@@ -1,4 +1,4 @@
-LAST UPDATED 24 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 As with the Forest...
 
@@ -379,6 +379,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 210
 - **Drops:** 3 Raw Fabric, 1 Fine Fabric, 1 Raw Gold, 1-2 Raw Sandstone, 2 Red Dye, 0-1 Golden Chest, 1-2 Desert Stone, 1-2 Essence
 - **Quests:**
+  - MT: Warm Creature Highlights 1/3 (3)
   - Gansu: Desert Rudakai (15)
 
 ### Desert Wignow (Oge: 3PC, Gansu)
@@ -509,6 +510,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Gobkey Trinket, 0-1 Raw Gold, 0-2 Coins
 - **Quests:**
   - Functionally, anything requiring a Gobkey Trinket requires a Gobkey battle.
+  - MT: Cool Creature Highlights 2/3 (10)
   - GL: Shadows In Flux (5)
 
 ### Gordi (Exp: Ruins)
@@ -890,6 +892,7 @@ see **Skuppa's Giant Marionette**
 - **XP:** 180
 - **Drops:** 1-2 Spider Poison, 1-3 Raw Stone, 1-2 Raw Sandstone, 1-2 Desert Stone
 - **Quests:**
+  - MT: Warm Creature Highlights 1/3 (5)
   - Ruins: Searching South (1)
   - HuntS2: Strengthening Your Timing 4/5 (1)
 
@@ -959,6 +962,7 @@ see **Skuppa's Giant Marionette**
 - **XP:** 30
 - **Drops:** 1 Leaves, 1 Spider Poison
 - **Quests:**
+  - MT: Warm Creature Highlights 1/3 (5)
   - BC: Nabia's Exploration (1)
   - SC: Nothing But Trouble (2), Scouting the Land (1)
 
@@ -1061,7 +1065,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 183
 - **Drops:** 3 Fur, 2-3 Claws, 1 Leaves, 1 Rope
 - **Quests:**
-  - MT: A Famiy Tree (8); Fair, Standard, Middling (25); New Adventurous Horizons (1)
+  - MT: A Famiy Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); New Adventurous Horizons (1)
 
 ### Untu Golem (Exp: ShrineGiant)
 
@@ -1217,6 +1221,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 40
 - **Drops:** Wood, Rope, Leaves
 - **Quests:**
+  - MT: Cool Creature Highlights 2/3 (5)
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
 
 ### Yantao (Exp: Ruins)

@@ -1,10 +1,14 @@
-LAST UPDATED 6 JUN 2020
+LAST UPDATED 19 JUN 2020
+
+**Scroll to the bottom of the section for news about the new quest chain in Mama Tree.**
+
+**Three new Pride Flag options have been added to several Pride wardrobe items as of 15 Jun - everything which formerly had only 15 flags represented now also has Demisexual, Polyromantic, and Genderqueer versions.**
 
 Welcome to Pride! This year's is all out, and I'm happy to see certain wardrobe items returning (some of which I'd somehow missed previously, this is as good as the Shrine dumping all previous Prides and then adding some). Do NOT miss the news event! https://4thewords.com/forum/details-263 
 
 I particularly love the Pride Parade this event: https://4thewords.com/community/parade We get to send our avatars on a Pride parade to make up for COVID-19 cancelling most in-person events.
 
-The event started on 29 May 2020 at 10 AM Costa Rica Time, for future reference. Updated 30 May when Steel the Rainbow got added.
+The event started on 29 May 2020 at 10 AM Costa Rica Time, for future reference. Updated 30 May when Steel the Rainbow got added, and again 6 Jun after the Global Community Challenge. And then again on 15 Jun...
 
 ## Global Community Challenge
 
@@ -202,7 +206,10 @@ Sound good? On to the wardrobe!
   - Lesbian Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;prideshirt&#95;lesbian.png
   - Aromantic Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;prideshirt&#95;aromantic.png
   - Polyamory Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;229-pride-shirt-5769-54455.png
-- **Steel the Rainbow** unlocks **Pride Pants**, which also comes in the colors of 15 Pride flags:
+  - Demisexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;229-pride-shirt-6236-90323.png
+  - Genderqueer Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;229-pride-shirt-6238-18520.png
+  - Polyromantic/Polysexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;229-pride-shirt-6239-76345.png
+- **Steel the Rainbow** unlocks **Pride Pants**, which also comes in the colors of 18 Pride flags:
   - Pride Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-1436-11091.png
   - Asexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-5746-29521.png
   - Straight Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-5749-15520.png
@@ -210,7 +217,7 @@ Sound good? On to the wardrobe!
   - Philadelphia Flag (Intersectionality Flag): https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-5755-50535.png
   - Genderfluid Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-5756-63915.png
   - Aromantic Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-5757-27526.png
-  - Pansexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-5759-50737.png
+  - Polyamory Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-5759-50737.png
   - Bisexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-5760-95562.png
   - Nonbinary Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-5761-81378.png
   - Agender Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-5763-65268.png
@@ -218,6 +225,9 @@ Sound good? On to the wardrobe!
   - Pansexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-5765-73357.png
   - Transgender Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-5766-85900.png
   - Intersex Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-5767-80254.png
+  - Demisexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-6218-80030.png
+  - Genderqueer Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-6219-35661.png
+  - Polyromantic/Polysexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;390-pride-pants-6221-72150.png
 - **Valley Pride Celebration! (Part 2 of 2)** unlocks the **Pride Scarf**, which comes in 5 variants:
   - black and gray: https://4thewords.com/media/wardrobe/featured/female/wf&#95;752-pride-scarf-4993-49088.png
   - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;752-pride-scarf-4998-27145.png
@@ -319,3 +329,88 @@ Sound good? On to the wardrobe!
 - Pride Hat - 40 Crystals
 - Pride Transparent Jacket - 40 Crystals
 - Pride Bodypaint and Hands - 60 Crystals
+
+## New Quests
+
+On 15 Jun, we were introduced to a brand-new permanent quest chain in Mama Tree not for the faint of heart. The ultimate reward a lovely bit of Pride-related wardrobe, but the satisfaction of finishing it is pretty nice, too.
+
+### Warm Creature Highlights (1/3)
+
+- **Unlocked by:** Opening Mama Tree
+- **Type:** Battle, Collection
+- **Requirements:** 
+  - Deliver:
+    - 3 Red Dye
+    - 5 Spider Poison
+    - 5 Ardi Lamp
+    - 10 Feathers
+    - 10 Nezthai Claws
+  - Defeat:
+    - 5 Ripos
+    - 3 Desert Rudakai
+    - 5 Sapiti
+    - 5 Tylu
+- **Rewards:** 2 Bones Chests
+- **Recommendations:** The quest description aptly warns you: **Advanced Quest - Must have Desert Expedition Areas unlocked to Complete**. The reward is fairly useless until you get to the Dust Region (at which point it's quite nice). So this is a late-game thing in practice, and you absolutely shouldn't bother until far later, when you know what these things are.
+  That said, Ardi Lamps and Nezthai Claws are in Forward Base (see Travel Directions if you need help figuring out how to get there; it's in the Forest Expedition), Sapiti are in Stone City (ditto), and Ripos is in the Underground Ruins in the Desert Expedition. And if you can't figure out the rest, you probably haven't gone far enough in the game to worry about it.
+
+### Cool Creature Highlights (2/3)
+
+- **Unlocked by:** Warm Creature Highlights (1/3)
+- **Type:** Battle, Collection
+- **Requirements:** 
+  - Deliver:
+    - 10 River Water
+    - 25 Ardii Dust
+    - 10 Lorsa Fur
+    - 3 Xyplos Ink
+    - 10 Dark Forest Leaves
+  - Defeat:
+    - 10 Gobkey
+    - 5 Patliadu
+    - 5 Xuso
+    - 3 Vezi
+- **Rewards:** 3 Bones Chests, 1 Bones Key
+- **Recommendations:** You got past the first part - congrats! No mean feat. Now you'll get a key for your chests, and the Dark Forest Leaves have to come from the Dust. Good luck with the Xyplos Ink, too (remember Sliv can get it for you), and good luck fighting the Vezi and good luck remembering that Gobkeys are way back in the Forest Expedition in Guardian's Lair. Go forth and conquer!
+
+### Creature Colors & Highlights (3/3)
+
+- **Unlocked by:** Cool Creature Highlights (2/3)
+- **Type:** Battle, Collection
+- **Requirements:** 
+  - Deliver:
+    - 5 Dandeleon Flower
+    - 8 Nuig String
+    - 10 Essence
+    - 3 Sacred Feathers
+    - 3 White Fur
+  - Defeat:
+    - 3 Suulan
+    - 3 Arenica
+    - 10 Kaija
+    - 10 Scofin
+- **Rewards:** Wardrobe: Pride River Dye Hair https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5634-64111.png
+- **Recommendations:** Look at the lovely hair! Isn't it wonderful? I'd rec attacking the monsters first, because the Suulan and Arenica will drop some of what you need. Dandeleon Flowers only come from Dandeleons and Night Dandeleons in the Forest Expedition, though, so you may have to travel for those (get the Kaija and Scofin in Base Camp and Tall Trees respectively). For Nuig String, make sure you've fought all the Castu quests from Balance that you want to fight, because Castu are a great source of Nuig String and they're really popular in Balance quests.
+
+
+
+The **Creature Colors & Highlights (3/3)** quest unlocks the **Pride River Dye Hair** (18 variants):
+
+- Aromantic Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5634-64111.png
+- Agender Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5636-53299.png
+- Asexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5637-14075.png
+- Straight Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5639-79014.png
+- Nonbinary Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5641-19009.png
+- Genderfluid Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5642-65001.png
+- Lesbian Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5644-68019.png
+- Transgender Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5648-74133.png
+- Philadelphia Flag (Intersectionality Flag): https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5649-30245.png
+- Pansexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5653-38975.png
+- Bisexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5654-73978.png
+- Straight Ally Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5655-74379.png
+-  Intersex Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5656-48090.png
+- Polyamory Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5702-37547.png
+- Pride Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5703-43277.png
+- Demisexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-river-dye-hair-6247-12567.png
+- Polyromantic/Polysexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-river-dye-hair-6249-52098.png
+- Genderqueer Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-river-dye-hair-6251-50730.png

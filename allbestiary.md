@@ -1,4 +1,4 @@
-LAST UPDATED 24 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 Beware! **Here be spoilers**. Every single quest requiring a given monster is listed, no matter how late in the game it appears. Don't say I didn't warn you. But maybe you'll be able to mix and match quests more efficiently.
 
@@ -178,7 +178,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Drops:** 0-1 Golden Chest, 1-2 Glass Bar, 1 Glass Shards, 1 Raw Gold, 1 Red Dye, 1 Desert Stone, 2 Sacred Feather
 - **Quests:** 
   - Functionally, anything requiring a Sacred Feather requires an Arenica battle (see All Resources for list of quests)
-  - MT: Inking of Dust 3/5 (1)
+  - MT: Inking of Dust 3/5 (1), Creature Colors & Highlights 3/3 (3)
 
 ### Arir (Exp: Shrine TFA)
 
@@ -467,6 +467,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 210
 - **Drops:** 3 Raw Fabric, 1 Fine Fabric, 1 Raw Gold, 1-2 Raw Sandstone, 2 Red Dye, 0-1 Golden Chest, 1-2 Desert Stone, 1-2 Essence
 - **Quests:**
+  - MT: Warm Creature Highlights 1/3 (3)
   - Gansu: Desert Rudakai (15)
   - Balance: Rudakai Master (3)
 
@@ -616,7 +617,7 @@ see **Skuppa's Giant Marionette**
 - **XP:** 40
 - **Drops:** 1 Gobkey Trinket, 0-1 Raw Gold, 0-2 Coins
 - **Quests:**
-  - Functionally, anything requiring a Gobkey Trinket requires a Gobkey battle.
+  - MT: Cool Creature Highlights 2/3 (10)
   - GL: Shadows In Flux (5)
 
 ### Gordi (Exp: Ruins)
@@ -717,6 +718,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** Leaves, Saliva Vial
 - **Quests:**
   - Functionally, anything that requires Saliva Vial will require a Kaija battle — and any battle involving a monster starting with Sapi- requires a Saliva Vial. See Sapi- monsters for details.
+  - MT: Creature Colors & Highlights 3/3 (10)
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
 
 ### Kapir (Exp: Dig)
@@ -1017,7 +1019,7 @@ see **Skuppa's Giant Marionette**
 - **XP:** 70
 - **Drops:** 1-2 Raw Steel, 1 River Water, 1-2 Leather Roll, 2 River Grass, 1 River Stone
 - **Quests:**
-  - MT: Inking Of Dust 3/5 (5)
+  - MT: Inking Of Dust 3/5 (5), Cool Creature Highlights 2/3 (5)
   - Riza: Amateur Fisherman (3), Apprentice Fisherman (8), Water Tribe Stripes (15)
 
 ### Peq (Exp: ShrineBird)
@@ -1142,6 +1144,7 @@ see **Skuppa's Giant Marionette**
 - **XP:** 180
 - **Drops:** 1-2 Spider Poison, 1-3 Raw Stone, 1-2 Raw Sandstone, 1-2 Desert Stone
 - **Quests:**
+  - MT: Warm Creature Highlights 1/3 (5)
   - Ruins: Searching South (1
   - HuntS2: Strengthening Your Timing 4/5 (1)
 
@@ -1224,6 +1227,7 @@ see **Skuppa's Giant Marionette**
 - **XP:** 30
 - **Drops:** 1 Leaves, 1 Spider Poison
 - **Quests:**
+  - MT: Warm Creature Highlights 1/3 (5)
   - BC: Nabia's Exploration (1)
   - SC: Nothing But Trouble (2), Scouting the Land (1)
 
@@ -1253,7 +1257,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Time allowed:** 15 minutes
 - **XP:** 15
 - **Drops:** 1-2 Raw Steel
-- **Quests:** none
+- **Quests:** MT: Creature Colors & Highlights 3/3 (10)
 
 ### Skuppa's Giant Marionette (Exp: ShrineGiant)
 
@@ -1342,7 +1346,8 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 220
 - **Drops:** 0-1 Golden Chest, 1 Raw Stone, 1 Glass Bar, 2-3 Glass Shards, 2 Raw Fabric, 1-2 Raw Gold, 1-2 Fine Fabric, 1-2 White Fur, 1 Desert Stone
 - **Quests:**
-  - Functionally, anything requiring White Fur will require a Suulan battle (see All Resources for list of quests requiring White Fur)
+  - Functionally, most things requiring White Fur will require a Suulan battle (see All Resources for list of quests requiring White Fur)
+  - MT: Creature Colors & Highlights 3/3 (3)
 
 ### Takori (Oge: DFO*)
 
@@ -1406,7 +1411,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 183
 - **Drops:** 3 Fur, 2-3 Claws, 1 Leaves, 1 Rope
 - **Quests:**
-  - MT: A Family Tree (8); Fair, Standard, Middling (25); New Adventurous Horizons (1)
+  - MT: A Family Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); New Adventurous Horizons (1)
   - DFO: Reinforced Ardi Station 1/4 (1)
 
 ### Untu Golem (Exp: ShrineGiant)
@@ -1454,7 +1459,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 1-3 River Grass, 1-2 River Water, 3-6 Algae, 2-3 Vezi Shell, 0-1 River Key (usually 1 with enough Luck), 2-8 Dust, 0-1 Underwater Torch (usually 1 with enough Luck)
 - **Quests:**
   - Functionally, anything requiring Vezi Shell
-  - MT: Huge, Gigantic, Enormous (25)
+  - MT: Huge, Gigantic, Enormous (25), Cool Creature Highlights 2/3 (3)
   - Balance: Main Quest 3/The Deep Dark (2), , Curious Traveler Part 3 (20)
 
 ### Vi (EVERYWHERE*)
@@ -1626,6 +1631,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 40
 - **Drops:** Wood, Rope, Leaves
 - **Quests:**
+  - MT: Cool Creature Highlights 2/3 (5)
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
   - DFO: Reinforced Ardi Station 1/4 (1)
 

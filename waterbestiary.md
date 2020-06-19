@@ -1,4 +1,4 @@
-LAST UPDATED 24 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 Once again! Here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -404,6 +404,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 210
 - **Drops:** 3 Raw Fabric, 1 Fine Fabric, 1 Raw Gold, 1-2 Raw Sandstone, 2 Red Dye, 0-1 Golden Chest, 1-2 Desert Stone, 1-2 Essence
 - **Quests:**
+  - MT: Warm Creature Highlights 1/3 (3)
   - Gansu: Desert Rudakai (15)
   - Balance: Rudakai Master (3)
 
@@ -534,7 +535,7 @@ see **Skuppa's Giant Marionette**
 - **XP:** 40
 - **Drops:** 1 Gobkey Trinket, 0-1 Raw Gold, 0-2 Coins
 - **Quests:**
-  - Functionally, anything requiring a Gobkey Trinket requires a Gobkey battle.
+  - MT: Cool Creature Highlights 2/3 (10)
   - GL: Shadows In Flux (5)
 
 ### Gordi (Exp: Ruins)
@@ -871,7 +872,7 @@ see **Skuppa's Giant Marionette**
 - **XP:** 70
 - **Drops:** 1-2 Raw Steel, 1 River Water, 1-2 Leather Roll, 2 River Grass, 1 River Stone
 - **Quests:**
-  - MT: Inking Of Dust 3/5 (5)
+  - MT: Inking Of Dust 3/5 (5), Cool Creature Highlights 2/3 (5)
   - Riza: Amateur Fisherman (3), Apprentice Fisherman (8), Water Tribe Stripes (15)
 
 ### Peq (Exp: ShrineBird)
@@ -995,6 +996,7 @@ see **Skuppa's Giant Marionette**
 - **XP:** 180
 - **Drops:** 1-2 Spider Poison, 1-3 Raw Stone, 1-2 Raw Sandstone, 1-2 Desert Stone
 - **Quests:**
+  - MT: Warm Creature Highlights 1/3 (5)
   - Ruins: Searching South (1)
   - HuntS2: Strengthening Your Timing 4/5 (1)
 
@@ -1075,6 +1077,7 @@ see **Skuppa's Giant Marionette**
 - **XP:** 30
 - **Drops:** 1 Leaves, 1 Spider Poison
 - **Quests:**
+  - MT: Warm Creature Highlights 1/3 (5)
   - BC: Nabia's Exploration (1)
   - SC: Nothing But Trouble (2), Scouting the Land (1)
 
@@ -1198,7 +1201,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 183
 - **Drops:** 3 Fur, 2-3 Claws, 1 Leaves, 1 Rope
 - **Quests:**
-  - MT: A Famiy Tree (8); Fair, Standard, Middling (25); New Adventurous Horizons (1)
+  - MT: A Famiy Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); New Adventurous Horizons (1)
 
 ### Untu Golem (Exp: ShrineGiant)
 
@@ -1245,7 +1248,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 1-3 River Grass, 1-2 River Water, 3-6 Algae, 2-3 Vezi Shell, 0-1 River Key (usually 1 with enough Luck), 2-8 Dust, 0-1 Underwater Torch (usually 1 with enough Luck)
 - **Quests:**
   - Functionally, anything requiring Vezi Shell
-  - MT: Huge, Gigantic, Enormous (25)
+  - MT: Huge, Gigantic, Enormous (25), Cool Creature Highlights 2/3 (3)
   - Balance: Main Quest 3/The Deep Dark (2), , Curious Traveler Part 3 (20)
 
 ### Vi (EVERYWHERE*)
@@ -1416,6 +1419,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** Wood, Rope, Leaves
 - **Quests:**
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
+  - MT: Cool Creature Highlights 2/3 (5)
 
 ### Xyplos (Oge: Balance*)
 

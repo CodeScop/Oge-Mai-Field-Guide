@@ -1,4 +1,4 @@
-LAST UPDATED 30 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Riza-only otherwise.
 
@@ -44,7 +44,7 @@ Also, we are mostly ignoring the resources from Bruja, Kiru, and Yasri, as they 
 
 - **Sources:** FOREST EXPEDITION 
 - **Sell price:** 25 Coins (don't sell unless you have >60)
-- **Used for:** FOREST EXPEDITION, later game
+- **Used for:** FOREST, later game
 
 ### Ardia Dust
 
@@ -64,6 +64,12 @@ Also, we are mostly ignoring the resources from Bruja, Kiru, and Yasri, as they 
 - **Sell price:** 5 Coins (don't sell unless you have >300)
 - **Used for:** FOREST, later game
 
+### Bones Chest
+
+- **Sources:** later game, FOREST
+- **Sell price:** 100 Coins (DON'T SELL CHESTS, WHY WOULD YOU)
+- **Used for:** later game
+
 ### Claws
 
 - **Best sources:** FOREST
@@ -81,6 +87,11 @@ Also, we are mostly ignoring the resources from Bruja, Kiru, and Yasri, as they 
 - **Sell price:** 320 Coins (too expensive to sell)
 - **Used for:** equipping
 - **Equip:** Weapon2: +10 Attack, +0 Defense, +0 Luck
+
+### Dark Forest Leaves
+
+- **Sources:** Later game
+- **Used for:** later game, FOREST
 
 ### Desert Stone
 
@@ -549,7 +560,7 @@ ONLY USED FOR PRIOR GAME AND EQUIPPING
 - **Buy:** DESERT
 - **Sell price:** 15 Coins (don't sell unless you have >100; will usually be better to use to craft Fine Fabric and sell for more)
 - **Used for:** later game,
-  - DESERT
+  - FOREST, DESERT
 
 ### Reenu Wings
 
@@ -594,7 +605,7 @@ ONLY USED FOR PRIOR GAME AND EQUIPPING
 - **Other sources:** 
   - Riza Battles: Vota (800 words, 2 Rope, 2 River Grass for 1-2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1)
 - **Sell price:** 40 Coins (don't sell unless you have >500)
-- **Used for:** later game
+- **Used for:** later game, FOREST
   - Craft Riza: Dí Bag (10)
   - **NEW** MT Quest: River Water For…? (10)
 
@@ -684,7 +695,7 @@ DESERT ONLY
 
 - **Sources:** FOREST, DESERT
 - **Sell price:** 4 Coins (Don't sell; there is always a use lurking somewhere. As long as quests exists, there is always a use.)
-- **Used for:**
+- **Used for:** FOREST,
   - Riza Quests: Main Quest 3/Remedy for a Friend (6)
 
 ### Steel
@@ -946,3 +957,8 @@ As with the Wooden Chest, I'm going to keep the FOREST info available here becau
   - new Forest quest: MT: River Water For…?(1), Quench a Thirst (1)
 - **Sell price:** 25 Coins (DON'T SELL KEYS WHY WOULD YOU)
 - **Used for:** FOREST, DESERT
+
+### Xyplos Ink
+
+- **Sources:** Later game
+- **Used for:** FOREST

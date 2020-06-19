@@ -1,4 +1,4 @@
-LAST UPDATED 24 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
@@ -32,18 +32,14 @@ The **bolded bullet points** are supposed to mainly be the **Main Quests**. (The
   - LF One Of Us - create a Forum thread for 4 Core Crystals
   - LF Safety Hats - collect 20 Feathers for 1 Leaf Helmet
   - LF Save the Children - collect 10 Essence and 10 Spider Poison for 2 Wooden Keys
-
 - **LF Main Quest 1/Luciola Forest Caretaker** - fight 4 Wignows for 1 Wooden Chest
-
 - **LF Main Quest 2/Building, Not Burning** - craft Kyiat's Bridge out of Rope, Spider Legs, & Wood for 1 Wooden Chest
 
   - LF Make Ink Sing - collect 10 Essence & 10 Spider Poison for 1 Leafsung Ink
     - LF Make Words Sing - Write 5K words, collect lots of things for 3 Leafsung Ink
       - LF Make Attacks Sing - Collect Essence, Spider Poison, Claws, & Dust for 5 Leafsung Ink
         - (crafting Leafsung Ink in Mama Tree, any quest requiring Leafsung Ink)
-
 - **LF Main Quest 3/The Nitana** - defeat Nitana in exchange for Tesven's Amulet and 25 Coins
-
 - **LF Main Quest 4/Don't Regift Curses** - trade in Tesven's Amulet & other items to open Mama Tree
 
   - MT A Family Tree - defeat 8 Tylu for 50 Coins, 1 Wood Spear, 1 Wooden Chest
@@ -55,19 +51,17 @@ The **bolded bullet points** are supposed to mainly be the **Main Quests**. (The
   - MT Shaman's Hideout - collect several items for 5 Leaf Boots
   - MT Tribe Member - make 5 Forum posts for 8 Core Crystals
   - MT Watering Hole - defeat 44 Wignow for 4 Wooden Keys + 1 Steel Dagger
+  - MT Warm Creature Highlights (1/3) - defeat a lot and deliver a lot from across the game to get 2 Bones Chests
+    - Cool Creature Highlights (2/3) - defeat a lot and deliver a lot from across the game to get 1 Bones Chest and 1 Bone Key
+      - Creature Colors & Highlights (3/3) - defeat a lot and deliver a lot from across the game to get Wardrobe: Pride River Dye Hair
   - MT Written Accounts - write 25K words for 100 coins + 1 Wooden Chest
-
 - **MT Main Quest 1/To Great Heights** - defeat 1 Lorsa, craft 1 Lorsa Nest, receive 1 Wooden Chest
-
-- - LF Luciola Lorsa Nests - deliver 3 Lorsa Nests for 1 Wooden Chest
-  - MT Edrie's Informative Lorsa - deliver 10 Lorsa Nests for 1 Wooden Chest
-
+   - LF Luciola Lorsa Nests - deliver 3 Lorsa Nests for 1 Wooden Chest
+   - MT Edrie's Informative Lorsa - deliver 10 Lorsa Nests for 1 Wooden Chest
 - **MT Main Quest 2/ A Secret Message** - collect 3 Essence, 5 Feathers, and 8 Dust in exchange for 1 Steel Dagger
 
   - LF Tinkering With Trinkets - deliver 5 Rusty Amulets and 5 Rusty Pendants for 50 Coins
-
 - **MT Main Quest 3/ Elder Library** - defeat Search Party in exchange for 1 Wooden Chest
-
 - **MT Main Quest 4/Aid To An Elder** - defeat 3 Assassins for Suwö as Companion, 3PC access, Stone of the Forest
    - MT Bridge of Sighs - collect 100 Wood and 50 Rope for 1 Wooden Chest
    - MT Keep In Quarantine - defeat 10 Villagers in exchange for 1 Wooden Chest
@@ -88,18 +82,13 @@ The **bolded bullet points** are supposed to mainly be the **Main Quests**. (The
      - 3PC Written Accounts: Attack on 3 Points - write 50K words, get 2 Golden Chests
    - 3PC We Lucky Few - collect 8 Rusty Amulet, 8 Rusty Pendants, get 3 Leafsung Keys
    - 3PC Zilya's Defensive Lorsa - deliver 10 Lorsa Nests, get 1 Golden Chest
-
 - **3PC Main Quest 1/Earthquakes** - fight a lot of monsters, get 1 Golden Chest
-
 - **3PC Main Quest 2/Just Another Brick** - collect a lot of building items, get 1 Golden Chest
 
   - MT Iron On Sand - collect 25 Steel Bars, get 1 Wooden Chest + 1 Wooden Key + 1 Leafsung Ink
   - LF It's Bigger Inside - collect a lot of building materials, get 3 Wooden Keys
-
 - **3PC Main Quest 3/Camouflage** - collect Fine Fabric, Raw Fabric, Red Dye, get Desert Facemask
-
 - **3PC Main Quest 4/A Desert Army** - defeat 5 Assassins, get 1 Golden Chest
-
 - **3PC Main Quest 5/A Way South** - collect a ton of materials, get Azadi as a companion, unlock Gansu Watering Hole
 
   - LF Enter Pan's Labyrinth - collect a lot of Rope, Steel Bars, & Wood Hammers, get 1 Wooden Chest and 1 Wooden Key
@@ -115,21 +104,13 @@ The **bolded bullet points** are supposed to mainly be the **Main Quests**. (The
   - Gansu Watering Hole Puna - defeat 10 Puna, get 1 Stone Key
     - Gansu Watering Hole Puffs - defeat 5 Furoxi, get 1 Stone Chest
   - Gansu White Coat - collect 10 White Fur, get 3 Stempos (indirectly requires Gansu Main Quest 2/ Lorsa Nest Network to be complete)
-
 - **Gansu Main Quest 1/Circle of Protection** - defeat monsters, collect Desert Stones, get Golden Chest
-
 - **Gansu Main Quest 2/ Lorsa Nest Network** - deliver 1 Lorsa Nest, get 100 Coins
-
 - **Gansu Main Quest 3/ Sacred Shrine** - collect a lot of materials incl. Sacred Feather & White Fur, get 1 Stone Chest
-
 - **Gansu Main Quest 4/ The Welcoming Committee** - fight a bunch of 3PC monsters, get 1 Stone Chest
-
 - **Gansu Main Quest 5/ White Stars' Light** - collect 3 White Fur, get 100 Coins
-
 - **Gansu Main Quest 6/ Waters of History** - defeat 5 Kiru and 3 Bruja, get 1 Stone Chest
-
 - **Gansu Main Quest 7/ Red Witch of the Southern Coven** - defeat the Red Witch, get a Stempo
-
 - **Gansu Main Quest 8/ Dust To Dust** - defeat the Dust Witch, unlock Riza Rivertown, get Stone of Air
 
   - 3PC Double the Rarity - get 12 Sacred Feathers and 12 White Fur, get 1 Golden Chest
@@ -153,19 +134,13 @@ The **bolded bullet points** are supposed to mainly be the **Main Quests**. (The
   - Riza River Dams - defeat 15 Jaihri, get 100 Coins
   - Riza River Grass Supply - deliver 50 River Grass, get 1 Steel Boots
   - Riza Water Tribe Member - make 100 posts in the Forums, get 15 Core Crystals
-
 - **Riza Main Quest 1/ Jaihri Dam** - defeat 6 Jaihri, get 100 Coins
-
 - **Riza Main Quest 2/ Attack of Opportunity** - defeat 2 Yasri, 1 Bruja, and 2 Kiru, get 1 Stone Chest
-
 - **Riza Main Quest 3/ Remedy for a Friend** - collect a bunch of random materials, get 1 Stone Chest
 
   - Riza Steel Weapons - deliver 5 Steel Maces and 10 Steel Shields, get 3 Stempos
-
 - **Riza Main Quest 4/ Mucky, Murky, Muddy** - defeat a bunch of monsters, get 1 Stone Key
-
 - **Riza Main Quest 5/ This Might Sting -** defeat 1 Wyvern, get 1 Stone Chest
-
 - **Riza Main Quest 6/ Journey Upriver** - collect a bunch of materials, unlock the Floating City of Balance
 
   - LF Little Forest Lake - deliver 20 River Grass and 10 River Stones for 1 Wooden Chest
@@ -184,7 +159,6 @@ The **bolded bullet points** are supposed to mainly be the **Main Quests**. (The
   - Balance Scouting Lorsa - deliver 5 Lorsa Nests, get 1 River Chest
   - Balance Steel (Or Brace) Yourself - deliver 5 each Reinforced Steel Helmets & Re. St. Breastplates, get 1 River Chest and 1 River Key
   - Balance Tambo Snacks - defeat 100 Caricaco, get 5 River Keys
-
 - **Balance Main Quest 1/ Help From a Master** - deliver 3 Dí Bags, get 1 Water Mask
 
   - Balance Cast Out Castu - defeat 25 Castu, deliver a ton of materials, get 1 River Chest
@@ -192,17 +166,13 @@ The **bolded bullet points** are supposed to mainly be the **Main Quests**. (The
   - Balance It's Electric! - deliver 10 Nuig String and 25 Algae, get 3 River Keys
   - Balance Stingy Surprise - defeat 30 Nuig, get Wardrobe: River Grass Skirt
   - Balance Venomous Villains - defeat 7 each Nuig, Aracnu, Ylly, and Sparfly, get 1 River Chest and 1 River Key
-
 - **Balance Main Quest 2/ Underwater Training** - defeat 5 Puna, 4 Sliv, and 3 Isartu, get 3 Water Masks & 1 Underwater Torch
 
   - Balance The Abyss Stares Back - defeat 5 Xyplos, get 1 River Chest & 3 River Keys
   - Balance Biodome Blossoms - deliver 15 Vezi Shells, get 1 Reinforced Steel Helmet
   - Balance Colors to Die For - deliver 15 Xyplos Ink, 25 Red Dye, and 20 Leafsung Ink, get Wardrobe: River Dye Hair
-
 - **Balance Main Quest 3/ The Deep Dark** - defeat 8 Nuig, 2 Xyplos, and 2 Vezi, and get 1 River Chest
-
 - **Balance Main Quest 4/ Potion For A Goddess** - deliver a bunch of materials, get 1 River Chest
-
 - **Balance Main Quest 5/ The Water Calls** - defeat the River Goddess, get 1 River Chest, unlock Lodo as Companion, unlock Dark Forest Outpost
   - Balance Curious Traveler - defeat 20 each Castu, Awa, and Xin, get 1 River Chest
     - Balance Curious Traveler Part 2 - defeat 20 each Sliv and Isartu, get 1 River Chest & 1 River Key

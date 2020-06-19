@@ -32,7 +32,7 @@ LAST UPDATED 19 MAR 2019
 
 ## Mama Tree Sidequests
 
-LAST UPDATED 11 FEB 2020
+LAST UPDATED 19 JUN 2020
 
 A lot of these are available from the beginning. If there's an asterisk, it unlocked in the process of going through this region.
 
@@ -187,6 +187,64 @@ Monsters and Resources listed here will not be linked with this quest outside th
 - **Requirements:** Defeat 44 Wignow
 - **Rewards:** 4 Wooden Keys, 1 Steel Dagger
 - **Recommendation:** Those Wignow are good munching, you'll get a valuable stockpile of Leaves and Essence out of it, go ahead and pick it up unless you hate Wignow.
+
+### Warm Creature Highlights (1/3) - NOT POSSIBLE till Desert fully unlocked
+
+- **Unlocked by:** Opening Mama Tree
+- **Type:** Battle, Collection
+- **Requirements:** 
+  - Deliver:
+    - 3 Red Dye
+    - 5 Spider Poison
+    - 5 Ardi Lamp
+    - 10 Feathers
+    - 10 Nezthai Claws
+  - Defeat:
+    - 5 Ripos
+    - 3 Desert Rudakai
+    - 5 Sapiti
+    - 5 Tylu
+- **Rewards:** 2 Bones Chests
+- **Recommendations:** The quest description aptly warns you: **Advanced Quest - Must have Desert Expedition Areas unlocked to Complete**. The reward is fairly useless until you get to the Dust Region (at which point it's quite nice). So this is a late-game thing in practice, and you absolutely shouldn't bother until far later, when you know what these things are.
+  That said, Ardi Lamps and Nezthai Claws are in Forward Base (see Travel Directions if you need help figuring out how to get there; it's in the Forest Expedition), Sapiti are in Stone City (ditto), and Ripos is in the Underground Ruins in the Desert Expedition. And if you can't figure out the rest, you probably haven't gone far enough in the game to worry about it.
+
+### * Cool Creature Highlights (2/3) - NOT POSSIBLE till Dark Forest Outpost unlocked
+
+- **Unlocked by:** Warm Creature Highlights (1/3)
+- **Type:** Battle, Collection
+- **Requirements:** 
+  - Deliver:
+    - 10 River Water
+    - 25 Ardii Dust
+    - 10 Lorsa Fur
+    - 3 Xyplos Ink
+    - 10 Dark Forest Leaves
+  - Defeat:
+    - 10 Gobkey
+    - 5 Patliadu
+    - 5 Xuso
+    - 3 Vezi
+- **Rewards:** 3 Bones Chests, 1 Bones Key
+- **Recommendations:** You got past the first part - congrats! No mean feat. Now you'll get a key for your chests, and the Dark Forest Leaves have to come from the Dust. Good luck with the Xyplos Ink, too (remember Sliv can get it for you), and good luck fighting the Vezi and good luck remembering that Gobkeys are way back in the Forest Expedition in Guardian's Lair. Go forth and conquer!
+
+### * Creature Colors & Highlights (3/3)
+
+- **Unlocked by:** Cool Creature Highlights (2/3)
+- **Type:** Battle, Collection
+- **Requirements:** 
+  - Deliver:
+    - 5 Dandeleon Flower
+    - 8 Nuig String
+    - 10 Essence
+    - 3 Sacred Feathers
+    - 3 White Fur
+  - Defeat:
+    - 3 Suulan
+    - 3 Arenica
+    - 10 Kaija
+    - 10 Scofin
+- **Rewards:** Wardrobe: Pride River Dye Hair https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5634-64111.png
+- **Recommendations:** Look at the lovely hair! Isn't it wonderful? I'd rec attacking the monsters first, because the Suulan and Arenica will drop some of what you need. Dandeleon Flowers only come from Dandeleons and Night Dandeleons in the Forest Expedition, though, so you may have to travel for those (get the Kaija and Scofin in Base Camp and Tall Trees respectively). For Nuig String, make sure you've fought all the Castu quests from Balance that you want to fight, because Castu are a great source of Nuig String and they're really popular in Balance quests.
 
 ### Written Accounts
 

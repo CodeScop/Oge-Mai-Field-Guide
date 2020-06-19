@@ -1,6 +1,6 @@
-LAST UPDATED 30 MAY 2020
+LAST UPDATED 19 JUN 2020
 
-Here we have everything from Three Points Crossing and Gansu Watering Hole, barring any Hunt info that doesn't apply to Hunter Tokens. Use wisely. :) Anything that says FOREST can be looked up in more detail under Forest Resources.
+Here we have everything from Three Points Crossing and Gansu Watering Hole, barring any Hunt info that doesn't apply to Hunter Tokens. Use wisely. :) Anything that says FOREST or FOREST EXPEDITION can be looked up in more detail under Forest Resources.
 
 ###Core Crystals
 
@@ -41,7 +41,7 @@ Here we have everything from Three Points Crossing and Gansu Watering Hole, barr
 
 - **Sources:** FOREST EXPEDITION 
 - **Sell price:** 25 Coins (don't sell unless you have >60)
-- **Used for:** FOREST EXPEDITION, later game
+- **Used for:** FOREST, later game
 
 ### Ardia Dust
 
@@ -614,6 +614,7 @@ FOREST ONLY
 - **Buy: **45 Coins in Gansu Item Shop/Tepij Locals; 65 Coins in 3PC Item Bazaar/Zilya's Great Bazaar 
 - **Sell price:** 15 Coins (don't sell unless you have >100; will usually be better to use to craft Fine Fabric and sell for more)
 - **Used for:** later game,
+  - FOREST
   - Craft 3PC: Fine Fabric (1)
   - Craft Gansu: Protective Mantle (1)
   - 3PC Quests: Main Quest 3/Camouflage (4), Tailor (30)

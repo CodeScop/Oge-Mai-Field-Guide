@@ -1,4 +1,4 @@
-LAST UPDATED 6 APR 2020
+LAST UPDATED 19 JUN 2020
 
 So, here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -234,6 +234,8 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 
   - FB: Blossom with Flowers! 1/2 (5)
 
+###Desert Rudakai (LATER GAME)
+
 ### Fin (Exp: TT)
 
 - **Requirements:** 250 words
@@ -379,6 +381,8 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
   - LF: Forest Creatures (1)
   - MT: Itsy, Bitsy, Teeny (25)
 
+###Ripos (LATER GAME)
+
 ### Rudakai (Oge: LF*)
 
 - **Unlocked by:** LF Main Quest 2/Building, Not Burning
@@ -428,6 +432,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 30
 - **Drops:** 1 Leaves, 1 Spider Poison
 - **Quests:**
+  - MT: Warm Creature Highlights 1/3 (5)
   - BC: Nabia's Exploration (1)
   - SC: Nothing But Trouble (2), Scouting the Land (1)
 
@@ -475,7 +480,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 183
 - **Drops:** 3 Fur, 2-3 Claws, 1 Leaves, 1 Rope
 - **Quests:**
-  - MT: A Famiy Tree (8); Fair, Standard, Middling (25); New Adventurous Horizons (1)
+  - MT: A Family Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); New Adventurous Horizons (1)
 
 ### Velts (Oge: MT*)
 

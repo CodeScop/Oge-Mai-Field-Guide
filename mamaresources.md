@@ -1,4 +1,4 @@
-LAST UPDATED 30 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 I could make this list Mama Tree-only, but why bother when Luciola Forest is a quick hop away? LF is for Luciola Forest, MT for Mama Tree, HuntS1 is for Luciola Forest Hunt for the Ancients, and hopefully all else will be self-explanatory.
 
@@ -39,6 +39,11 @@ These are special resources. They can be bought with actual real-world currency 
   - LF Battles: Puna (150 words, 1 Wooden Fishing Rod for 1)
 - **Sell price:** 10 Coins (Can sell if you have >25)  
 - **Used for:** later game
+
+### Ardi Lamp
+
+- **Sources:** Later game
+- **Used for:** MT Quest: Warm Creature Highlights 1/3 (5)
 
 ### Ardia Dust
 
@@ -136,7 +141,7 @@ These are special resources. They can be bought with actual real-world currency 
 - **Used for:** 
   - Craft MT: Leaf Breastplate (5), Leaf Helmet (3)
   - LF Quests: Make It Work (5), Style Is Eternal (10), New Style (5), Safety Hats (20)
-  - MT Quests: Main Quest 2/A Secret Message (5), Inking By Number 2/5 (15)
+  - MT Quests: Main Quest 2/A Secret Message (5), Inking By Number 2/5 (15), Warm Creature Highlights 1/3 (10)
 
 ### Fur
 
@@ -317,6 +322,11 @@ For later game. DO NOT SELL.
   - LF Quests: Luciola Lorsa Nests (3)
   - MT Quests: Main Quest 1/To Great Heights (1), Edrie's Informative Lorsa (10)
 
+### Nezthai Claws
+
+- **Sources:** Later game
+- **Used for:** MT Quest: Warm Creature Highlights 1/3 (10)
+
 ### Old Staff
 
 - **Best sources:** 
@@ -353,6 +363,11 @@ For later game. DO NOT SELL.
 - **Sell price:** 8 Coins (don't sell unless you have >100)
 - **Used for:** later game,
   - Craft LF: Wooden Fishing Rod (1)
+
+### Red Dye
+
+- **Sources:** Later game
+- **Used for:** MT Quest: Warm Creature Highlights 1/3 (3)
 
 ### Reenu Wings
 
@@ -464,6 +479,7 @@ For later game. DO NOT SELL.
 - **Used for:** 
   - Craft MT: Leafsung Ink (5)
   - LF Quests: Save the Children (10), Make Ink Sing (10), Make Words Sing (10), Make Attacks Sing (15)
+  - MT Quest: Warm Creature HIghlights 1/3 (5)
 
 ### Steel Dagger
 

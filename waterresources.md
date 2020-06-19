@@ -1,4 +1,4 @@
-LAST UPDATED 30 MAY 2020
+LAST UPDATED 19 JUN 2020
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Water-only otherwise.
 
@@ -71,6 +71,17 @@ Also, we are mostly ignoring the resources from Bruja, Kiru, and Yasri, as they 
 - **Sell price:** 5 Coins (don't sell unless you have >300)
 - **Used for:** FOREST, later game
 
+### Bones Chest
+
+- **Sources:** later game, FOREST
+- **Sell price:** 100 Coins (DON'T SELL CHESTS, WHY WOULD YOU)
+- **Used for:** later game
+
+### Bone Key
+
+- **Sources:** later game, FOREST
+- **Used for:** later game
+
 ### Claws
 
 - **Best sources:** FOREST
@@ -92,6 +103,11 @@ Also, we are mostly ignoring the resources from Bruja, Kiru, and Yasri, as they 
 ### Dandeleon Flower
 
 FOREST ONLY
+
+### Dark Forest Leaves
+
+- **Sources:** Later game
+- **Used for:** later game, FOREST
 
 ### Desert Stone
 
@@ -1144,4 +1160,4 @@ also called "Wood Fishing Rod"
 - **Sell price:** 10 Coins (don't sell unless you have >20)
 - **Used for:** 
   - Balance Quests: Colors To Die For (need 15)
-  - FOREST: MT Quest: Thinking Like Ink 4/5 (5)
+  - FOREST: MT Quest: Thinking Like Ink 4/5 (5), MT Quest: Cool Creature Highlights 2/3 (3)
