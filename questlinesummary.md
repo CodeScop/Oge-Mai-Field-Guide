@@ -1,4 +1,4 @@
-LAST UPDATED 19 JUN 2020
+LAST UPDATED 26 JUN 2020
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
@@ -300,7 +300,7 @@ NOTE: **ALL HUNT QUESTS are unlocked by the quest Joining the Hunt** (write 3K w
 
 Season 2 is unlocked by completing The Curator of Elder Library quest, and you can see that questline in Season 1.
 
-- HuntS2 Battle of Merit - **(Note: This has as prerequisite the HuntS1 quest A Battle of Wills instead of The Curator of Elder Library.)** Defeat 1 Desert version of Velts, get 25 Hunter Tokens
+- HuntS2 Battle of Merit - **(Note: This has as prerequisite the HuntS1 quest A Battle of Wills.)** Defeat 1 Desert version of Velts, get 25 Hunter Tokens
 - HuntS2 A Season to Explore - defeat every non-global monster in 3PC, get 100 Hunter Tokens
 - HuntS2 Wandering We Go - maintain 7-day Streak, get 10 Hunter Tokens
 - HuntS2 Seeing It Through - Defeat 10 Frizi, get 5 Hunter Tokens
@@ -318,3 +318,15 @@ Season 2 is unlocked by completing The Curator of Elder Library quest, and you c
 - HuntS2 All Who Wander - write 4K words & collect Hunt Map Piece 4, get Wardrobe: Tall Fur Boots
   - HuntS2 Oh, Endless Possibilities! - collect Hunt Map Piece 5, get Wardrobe: Hunt Facepaint Star
     - HuntS2 No Wrong Path - collect Hunt Map Piece 6, get Wardrobe: Hunt Facepaint Eye Shadow
+      - HuntS2 Stumbling Upon Sheep - defeat the Shepherd 4 times, get Wardrobe: Dog Mentor Pet
+      - HuntS2 Herding the Herders - Defeat 1 each Lubu, Czanus, Pipit; get 25 Hunter Tokens
+
+##Questline - Hunt for the Ancients - Season 3
+
+Season 3 is unlocked by completing Stumbling Upon Sheep quest, and you can see that questline in Season 2.
+
+- HuntS3 Moving Flora - maintain 5-day streak, get Hunt Map Piece 7 and 10 Hunter Tokens
+- HuntS3 To Grow & Change - defeat 10 monsters and get Hunt Map Piece 7, get Wardrobe: Hunt Facepaint Side
+- HuntS3 Helping Those In Need Grow - give a bunch of Rusty Amulets, Pendants, and Gold, get 25 Hunter Tokens
+- HuntS3 Growing Improvement - beat 10 Jaihri, get 25 Hunter Tokens
+- HuntS3 Growth Pains - defeat 3 Osaril, 2 Trainees, and 1 Furoxi, get 25 Hunter Tokens

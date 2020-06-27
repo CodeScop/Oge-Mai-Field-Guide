@@ -1,4 +1,4 @@
-LAST UPDATED 6 MAY 2020
+LAST UPDATED 26 JUN 2020
 
 If you haven't yet, check out my Hunt Intro a couple chapters ago to get a grounding in the Hunt for the Ancients. The "seasons" are important only in that they're released a month at a time, grouped by seasons; once released, the quests can be worked through at any pace you prefer.
 
@@ -312,32 +312,35 @@ Note that monsters average 1 Hunter Token per 100 words, but monsters that do no
 - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
 - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10)
 
-#### All Monsters Dropping Hunter Tokens May 2020
+#### All Monsters Dropping Hunter Tokens Jun 2020
 
-**Early May 2020 Sources Outside the Hunt:**
+**Late June-July 2020 Sources Outside the Hunt:**
 
-Early May 2020 sources are Hunt monsters and monsters that camouflage with their environment (at least in theory; in practice, it can be hard to tell why some are considered camo and others not). This means mostly green monsters which exist in the Forest, brown monsters which exist in the Desert, blue monsters which exist in the Water, and purple monsters which exist in the Dust.
+Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
 
-- LF Battles: Xin (100 words for 1), Wignow (250 words for 2-3), Aracni (400 words for 4), Spirit Wignow (450 words for 4-5), Nitana (700 words for 7)
-- MT Battles: Xin (100 words for 1), Wignow (250 words for 2-3), Kuay (400 words for 4), Illi (700 words for 7), Tambo (2000 words, 4 Rope, 10 Leaves, Min Level 5 for 20)
+- LF Battles: Spirit Wignow (450 words for 4-5)
+- MT Battles: Vanstra (3 minutes for 1-4)
 - FOREST EXPEDITION:
 
-  - BC Battles: Xin (100 words for 1), Xuso (450 words for 4-5), Sacer (120 words for 1)
-  - FB Battles: Xin (100 words for 1), Nezthai (600 words for 6), Dandeleon (220 words for 2)
-  - SC Battles: Xin (100 words for 1), Sapiti (300 words and 1 Saliva Vial for 3), Sapira (350 words and 1 Saliva Vial for 3-4), Sapilo (450 words and 1 Saliva Vial for 4-5)
-  - TT Battles: Xin (100 words for 1)
-  - GL Battles: Xin (100 words for 1)
-- 3PC Battles: Xin (100 words for 1), Frizi (150 words for 1-2), Kiru (250 words for 2-3), Grult (400 words for 4), Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, 10 Leaves, Min Level 5 for 20)
-- Gansu Battles: Xin (100 words for 1), Frizi (150 words for 1-2), Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Wetu (1100 words for 11), Arenica (1350 words, 1 Steel Dagger for 13-14), Desert Rudakai (1800 words, 1 Leaf Boots, and 10 Leaves for 18), Ylly (720 words for 7)
+  - BC Battles: Hunt monsters only
+  - FB Battles: Hunt monsters only
+  - SC Battles: Hunt monsters only
+  - TT Battles: Scofin (150 words for 1-2), Fin (250 words for 2-3), Finoir (500 words for 5)
+  - GL Battles: Hunt monsters only
+- 3PC Battles: Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Yasri (1250 words for 12-13)
+- Gansu Battles: Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Wetu (1100 words for 11)
 - DESERT EXPEDITION: 
 
-  - Dig Battles: Xin (100 words for 1), Sakish (350 words for 3-4), Kapir (400 words for 4)
-  - Ruins Battles: Xin (100 words for 1), Griffe (450 words for 4-5), Yantao (650 words for 6-7)
-- Riza Battles: Jaihri (485 words for 5), Xin (100 words for 1), Frizi (150 words for 1-2), Sparfly (450 words for 4-5), Patliadu (750 words, 1 Harpoon for 7-8)
+  - Dig Battles: Hunt monsters only
+  - Ruins Battles: Hunt monsters only
+- Riza Battles: Jaihri (485 words for 5), Sparfly (450 words for 4-5), Vota (800 words for 8), Trainee (1000 words for 10)
 - WATER EXPEDITION:
   - not available at this time
-- Balance Battles: Xin (100 words for 1), Caricaco (300 words for 3), Castu (450 words and 1 Water Mask for 4-5), Spirit Castu (550 words for 5-6), Nuig (850 words, 1 Water Mask for 8-9), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 13), Water Rudakai (1600 words and 3 Reinforced Rope for 16)
-- DFO Battles: Dust Wignow (444 words for 4-5), Xin (100 words for 1), Chu (100 words for 1), Ascre (150 words for 1-2), Belasi (200 words for 2), Pakkan (300 words for 3), Zanthei (400 words for 4), Takori (600 words for 6) Dust Rudakai (2000 words, 1 Fabric Boots, 15 Leaves for 20)
+- Balance Battles: Caricaco (300 words for 3), Spirit Castu (550 words for 4-5, yes, that's 4-5, not 5-6)
+- DFO Battles: Burhar (1500 words for 15), Molox (666 words and 1 Steel Chain for 6-7), Miclan (5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 50)
+
+- **Sell price:** 10 Coins (don't sell, much better to spend)
+- **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices)
 
 ## Hunt for the Ancients Season 1 Questline Summary
 

@@ -141,19 +141,15 @@ https://4thewords.com/read-oge-mai-historical-survey-by-kirala
 
 # Water Expedition
 
-LAST UPDATED 25 JUN 2019
+LAST UPDATED 19 JUN 2020
 
-So, you're done with Riza Rivertown's Main Quests. Maybe you've opened Raina Surface Camp, maybe you're headed straight to Balance. If you're headed straight to Balance, go ahead and skip ahead! This is the region of convoluted sidequests, and that might not be your cup of tea. (Remember, you have to complete the Special Mini-Area Quest: Raina Surface Camp in Riza Rivertown before you can unlock this region.)
+The Water Expedition is a little different than the others. It's the only one that (theoretically) dates back to the beta version of the game. Because it's older than the Floating City of Balance, it's the only Expedition that unlocks partway through a Region's Main Quests.
 
-But you, dear reader, are still reading. So I assume you're willing to stick with it. Bravo! May I strongly recommend looking up a grinding resource assistant of some kind. I've mentioned these at the start, but you may need a reminder now.
+And it's the only one currently out of service. The April 2020 Camp NaNo event explored the new Water Expedition thoroughly, and now we're waiting for it to get back in service.
 
-@mbrennan (https://4thewords.com/about-mbrennan) has an excellent resource calculation spreadsheet here: https://docs.google.com/spreadsheets/d/13ys7Dm3RcsRdYwOTqT0H5HzPTHEBBIIpFhXwwfSWcQM/edit?usp=sharing and a forum thread to discuss it here: https://4thewords.com/forum/thread-return-of-the-resource-calculation-spreadsheet
+I removed all my Raina Surface Camp info once the new version opened in April. However, by popular demand, the old Raina Surface Camp quests and shop are reinstated—in Riza Rivertown, if you complete the Raina Surface Camp quest. The old Raina quests and shop are available under Kedanus's tabs **once you complete Special Mini-Area Quest: Infected Raina Camp.**
 
-I've got a Grinding Resource Assistant here: https://docs.google.com/spreadsheets/d/1SLw9tWHg8S445-vpFRE4t-21fha6qgPsZtBoco0zV9I/edit?usp=drive&#95;web&ouid=110256490236397847938
-
-Both these are public Google Docs where you can download a copy and figure out what you need when .
-
-**A nice bonus of Raina Surface Camp:** Knusha and Yala are cheaper to battle here than in Riza. Yala are, in fact, free here. I think it's the only point in the game where a monster in a later area has *easier* requirements than the same monster in an earlier area.
+So now that it looks like we might be in this limbo for a few months, I'm pasting in the old Quests and Resources info here for reference until we see what's next.
 
 # Floating City of Balance
 

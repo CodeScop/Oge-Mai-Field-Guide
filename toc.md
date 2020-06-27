@@ -1,4 +1,4 @@
- (Table of Contents last updated 29 May 2020)
+ (Table of Contents last updated 26 Jun 2020)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -107,10 +107,22 @@
     - Quests - Birds
     - Monsters - Birds
     - Resources - Birds
+  - Carnival
+    - Quests - Carnival
+    - Monsters - Carnival
+    - Resources - Carnival
+  - Colorful Ooze
+    - Quests - Colorful Ooze
+    - Monsters - Colorful Ooze
+    - Resource - Colorful Ooze
   - Ducks
     - Quests - Ducks
     - Monsters - Ducks
     - Resources - Ducks
+  - Fools
+    - Quests - Fools
+    - Monsters - Fools
+    - Resources - Fools
   - Giants
     - Quests - Giants
     - Monsters - Giants
@@ -133,19 +145,29 @@
     - Resources - Terror From Above
   - All Shrine Wardrobe
     - Wardrobe Offerings - Birds
+    - Wardrobe Offerings - Carnival
+    - Wardrobe Offerings - Colorful Ooze
     - Wardrobe Offerings - Ducks
+    - Wardrobe Offerings - Fools
     - Wardrobe Offerings - Giants
     - Wardrobe Offerings - Green Ooze
     - Wardrobe Offerings - Marionette
     - Wardrobe Offerings - Polygon
     - Wardrobe Offerings - Terror From Above
 - Shrine of Ages Latest Only
-  - Birds
-    - Quests - Birds
-    - Monsters - Birds
-  - Giants
-    - Quests - Giants
-    - Monsters - Giants
+  - Carnival
+    - Quests - Carnival
+    - Monsters - Carnival
+  - Colorful Ooze
+    - Quests - Colorful Ooze
+    - Monsters - Colorful Ooze
+  - Fools
+    - Quests - Fools
+    - Monsters - Fools
+  - All New Wardrobe Items
+    - Wardrobe Offerings - Carnival
+    - Wardrobe Offerings - Colorful Ooze
+    - Wardrobe Offerings - Monsters
 - Hunt: Season 2 - Wandering (DESERT)
   - Season 2 Quests - The Main Line
   - Season 2 Quests - Strengthening Sideline
@@ -168,6 +190,9 @@
   - List of Available Quests: Post Riza Rivertown
 - Expedition Water Region: Raina Surface Camp
   - Under Construction Notice
+  - Monsters: Water Expedition
+  - Quests: Water Expedition
+  - Resources: Water Expedition
 - Floating City of Balance Open
   - Balance Intro
   - Balance Open: Sidequests
@@ -177,6 +202,11 @@
   - Sidequests: Balance
   - Monsters: Floating City of Balance
   - List of Available Quests: Post Floating City of Balance
+- Hunt: Season 3 - Growth (WATER)
+  - Season 3 Quests
+  - Season 3 Monsters
+  - Season 3 Resources
+  - Hunt for the Ancients Season 3 Summary
 - Water Region Resources
 - Water Region Bestiary
 - Dark Forest Outpost Open
@@ -239,16 +269,10 @@
     - Questline - Water Expedition
     - Questline - Hunt for the Ancients - Season 1
     - Questline - Hunt for the Ancients - Season 2
+    - Questline - Hunt for the Ancients - Season 3
 - Travel Directions
   - Word Map of 4TW
 - Special Events
-  - Quests
-  - Monsters
-  - Event-Specific Resource
-  - Wardrobe
-    - Quest Wardrobe
-    - Token Store Offerings
-    - Wardrobe Store Offerings
   - The Last Note
 - State of the Guide
   - (All update notices, ordered with most recent first)

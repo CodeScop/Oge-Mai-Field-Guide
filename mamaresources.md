@@ -1,4 +1,4 @@
-LAST UPDATED 19 JUN 2020
+LAST UPDATED 27 JUN 2020
 
 I could make this list Mama Tree-only, but why bother when Luciola Forest is a quick hop away? LF is for Luciola Forest, MT for Mama Tree, HuntS1 is for Luciola Forest Hunt for the Ancients, and hopefully all else will be self-explanatory.
 
@@ -22,7 +22,7 @@ These are special resources. They can be bought with actual real-world currency 
   - Anywhere Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
   - LF Wooden Chest: 9-18 per chest/key
   - MT Wooden Chest: 15-46 per chest/key
-  - MT Battles: Villager (1300 words for 3-7)
+  - MT Battles: Vanstra (3 minutes for 2-8), Villager (1300 words for 3-7)
   - MT Quest: A Family Tree (50), Written Accounts (100)
   - LF Quest: Learn to Fight (50), The Nitana/Main Quest 3 (25), Lead The Way/First Steps (50), Make It Work (25)
 - **Other sources:** Sell River Grass, Raw Fabric if necessary (don't sell anything if possible)
@@ -187,18 +187,18 @@ Appears in the Forest, but in a context that doesn't really apply until the Wate
 
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
+  - Global Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4)
   - LF Battles: Sassi (600 words for 6)
   - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - later game
 
-- **Late May 2020 Sources Outside the Hunt:**
+- **Late June-July 2020 Sources Outside the Hunt:**
 
-  Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included). I'm counting Pride Sassi as "outside the Hunt" because he's visible whether you've unlocked the Hunt or not.
+  Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
 
-  - LF Battles: Reenu (200 words for 2), Spirit Wignow (450 words for 4-5), Pride Sassi (600 words for 6), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 14)
-  - MT Battles: Tylu (600 words for 6), Pride Sassi (600 words for 6),  Illi (700 words for 7), Tambo (2000 words, 4 Rope, & 10 Leaves for 20)
-
+  - LF Battles: Spirit Wignow (450 words for 4-5)
+  - MT Battles: Vanstra (3 minutes for 1-4)
   - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)

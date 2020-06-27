@@ -1,4 +1,4 @@
-LAST UPDATED 24 MAY 2020
+LAST UPDATED 26 JUN 2020
 
 So, we've gone through all of Season 1. Now let's take a look at what unlocked on March 26, when Season 2 became available.
 
@@ -177,3 +177,47 @@ Slim Left Chest Belt - 20 Hunter Tokens
 Slim Right Chest Belt - 20 Hunter Tokens
 
 Bow and Quiver - 150 Hunter Tokens
+
+# June 2020
+
+June 24 brought about the close of Season 2, plus a global event to unlock the ability to unlock Season 2.
+
+###Ancient Shepherd of Oge-Mai Valley (Special Event)
+
+> We’ve tracked one of the Ancient Shepherd’s sheep roaming in the Valley, which means our Ancient is close! Velts is calling all able Dust Warriors to write, and together, we will locate the Shepherd’s three sheep and with them, track down the Ancient Shepherd.  Help the Ancient Shepherd chase down their lost sheep. When all three sheep are found the Ancient will return to the Valley of Oge-Mai!
+
+Simulataneously, the individual quest **Valley of the Sheep** was released in the Global section (available to ALL players).
+
+This event had three stages:
+
+Write 1 Million Words To Unlock First Sheep (completed 24 Jun 2020, releasing Attleas)
+
+Write 1 Million Words To Unlock Second Sheep  (completed early 25 Jun 2020, releasing Shashi)
+
+Write 1 Million Words To Unlock Third Sheep (completed late 25 Jun 2020, releasing Imali)
+
+### New S2 Quests: Jun 2020
+
+- Stumbling Upon Sheep
+- Herding the Herders
+
+### New S2 Hunt Monsters: Jun 2020
+
+- Shepherd
+
+### New Global Hunt Monsters: Jun 2020
+
+These monsters may yet be restricted to a particular area, but for now, they're global and freely available.
+
+- Attleas
+- Imali
+- Shashi
+
+### Hunter Token Sources: Jun 2020
+
+I'm counting this as S3.
+
+### New Wardrobe Items: Jun 2020
+
+Ditto.
+

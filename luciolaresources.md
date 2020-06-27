@@ -1,4 +1,4 @@
-LAST UPDATED 30 MAY 2020
+LAST UPDATED 27 JUN 2020
 
 Disclaimer: The numbers for drops assume a minimum Luck of 2; less Luck may mean less in the way of drops. Also, any Hunt monsters/resources (apart from Hunter Tokens) are omitted here; see the Forest Resources for a more complete list.
 
@@ -97,16 +97,16 @@ These are special resources. They can be bought with actual real-world currency 
 
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
+  - Global Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4)
   - LF Battles: Sassi (600 words for 6)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - later game
 
-- **Late May 2020 Sources Outside the Hunt:**
+- **Late June-July 2020 Sources Outside the Hunt:**
 
-  Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included). I'm counting Pride Sassi as "outside the Hunt" because he's visible whether you've unlocked the Hunt or not.
+  Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
 
-  - LF Battles: Reenu (200 words for 2), Spirit Wignow (450 words for 4-5), Pride Sassi (600 words for 6), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 14)
-
+  - LF Battles: Spirit Wignow (450 words for 4-5)
   - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)

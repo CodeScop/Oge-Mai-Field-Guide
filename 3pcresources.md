@@ -1,4 +1,4 @@
-LAST UPDATED 19 JUN 2020
+LAST UPDATED 27 JUN 2020
 
 This is getting longer and more unwieldy, so I'm going to abbreviate a bit: if there's something you'd need to go back to the Forest Region to get, I'm summarizing it as FOREST. What's the Craft price for a Vine Net? Go check the FOREST.
 
@@ -300,17 +300,18 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
+  - Global Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4)
   - FOREST
   - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12)
-  - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5 Hunter Tokens)
+  - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25), Valley of the Sheep (25)
+  - later game
 
-- **Late May 2020 Sources Outside the Hunt:**
+- **Late June-July 2020 Sources Outside the Hunt:**
 
-  Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included). I'm counting Pride Sassi as "outside the Hunt" because he's visible whether you've unlocked the Hunt or not.
+  Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
 
   - FOREST
-  - 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3), Grult (400 words for 4), Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Pride Sassi (600 words for 6), Tambo (2000 words, 4 Rope, & 10 Leaves for 20)
-
+  - 3PC Battles: Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Yasri (1250 words for 12-13)
   - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)

@@ -1,4 +1,4 @@
-LAST UPDATED 15 MAY 2020
+LAST UPDATED 25 JUN 2020
 
 The SHRINE OF AGES! This is a weird and wonderful place where time shifts unpredictably. Which is a fancy way of saying that past events are alive here... *if* you know how to look.
 
@@ -18,10 +18,13 @@ Have at it.
 
 **Want a preview?** Each Bracelet premiered with a banner listing images of all the monsters and wardrobe items it unlocks. I've saved those banners here: https://github.com/CodeScop/Oge-Mai-Field-Guide/tree/master/bannershrine
 
-There are currently 7 Bracelets available (listing alphabetically):
+There are currently 10 Bracelets available (listing alphabetically):
 
 - Birds Time Bracelet - 3 Shrine Tickets (released 14 May 2020, based on the Carnival NaNoWriMo event November 2018). Fairly easy, colorful bird monsters, excellent wardrobe options.
+- Carnival Time Bracelet - 3 Shrine Tickets (released 22 Jun 2020, also based on the Carnival NaNoWriMo event from Nov 2018) Easy to challenging colorful monsters with colorful wardrobe.
+- Colorful Ooze Bracelet - 3 Shrine Tickets (released 22 Jun 2020, based on the July 2018 Camp NaNo Ooze event and the Nov 2018 NaNo Carnival event) A little sparse on quests, but very generous with easy, colorful monsters
 - Ducks Time Bracelet - 3 Shrine Tickets (released 17 Mar 2020, based on the duck-themed Leap Day event around 29 Feb 2020) Easy, playful ducks.
+- Fools' Time Bracelet - 3 Shrine Tickets (released 22 Jun 2020, based on the Camp NaNo in April 2017 and the Halloween event in 2017) Very Halloweeny; small monsters with very small timers, for the most part, and small-scale generally
 - Giants Time Bracelet - 10 Shrine Tickets (released 14 May 2020, based on multiple big-boss monsters from multiple previous events) Challenging monsters & quests
 - Green Ooze Shrine Bracelet - 5 Shrine Tickets  (released 4 Feb 2020, based on Green Ooze Camp Nano events from 2018) Wide range of ooze monsters and quests and wardrobe.
 - Marionette Bracelet (called the "Skull & Clown Marionette Bracelet" in the store and nowhere else) - 5 Shrine Tickets (released 17 Mar 2020, based on various haunted carnival NaNo events) Largely spooky, somewhat challenging monsters & quests

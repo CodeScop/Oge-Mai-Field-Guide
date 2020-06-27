@@ -1,4 +1,4 @@
-LAST UPDATED 30 MAY 2020
+LAST UPDATED 27 JUN 2020
 
 Note that again, I'm only including info for the Desert Expedition, and only for the Dig Site and Ruins at that. See the Desert Resources section for a somewhat more comprehensive list. The Shrine of Ages gets its own section entirely.
 
@@ -57,21 +57,26 @@ Note that again, I'm only including info for the Desert Expedition, and only for
 
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
+  - Global Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4)
   - FOREST
   - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12)
   - Gansu Battles: Pipit (900 words for 9)
-  - Dig, Ruins Battles: Lubu (450 words for 4-5)
-  - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5 Hunter Tokens)
+  - DigS, Ruins Battles: Lubu (450 words for 4-5)
+  - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25), Valley of the Sheep (25)
+  - Hunt S3 Quests: Moving Flora (10)
 
-- **Late May 2020 Sources Outside the Hunt:**
+- **Late June-July 2020 Sources Outside the Hunt:**
 
-  Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included). I'm counting Pride Sassi as "outside the Hunt" because he's visible whether you've unlocked the Hunt or not.
+  Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
 
-  - outside game
+  - FOREST
+  - 3PC Battles: Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Yasri (1250 words for 12-13)
+  - Gansu Battles: Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Wetu (1100 words for 11)
   - DESERT EXPEDITION: 
 
-    - Dig Battles: Sakish (350 words for 3-4), Pride Sassi (600 words for 6), Kapir (800 words for 8)
-    - Ruins Battles: Pride Sassi (600 words for 6), Ripos (1800 words for 18)
+    - Dig Battles: Hunt monsters only
+    - Ruins Battles: Hunt monsters only
+  - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

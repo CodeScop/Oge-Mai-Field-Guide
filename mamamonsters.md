@@ -1,4 +1,4 @@
-LAST UPDATED 1 APR 2020
+LAST UPDATED 26 JUN 2020
 
 Again, I'm not including Hunt monsters here. And again, numbers assume a certain amount of Luck. Some of these numbers were obtained only after a Luck of 20 (there are some monsters I skipped on the first playthrough). However, I believe these numbers are accurate enough to be helpful with a Luck of 4 or more, based on the differences for monsters played with multiple Luck levels.
 
@@ -61,6 +61,13 @@ Notice that despite everything else being identical to the Luciola Forest monste
 - **Time Allowed:** 210 minutes
 - **XP:** 183
 - **Drops:** 3 Fur, 2-3 Claws, 1 Leaves, 1 Rope
+
+### Vanstra
+
+- **Requirements:** Endurance: Battle 3 Minutes Continuously
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Baseline XP:** 8
+- **Baseline Drops:** 2 Coins, 1 Hunter Token
 
 ### Vi
 

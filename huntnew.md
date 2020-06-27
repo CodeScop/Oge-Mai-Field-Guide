@@ -1,130 +1,175 @@
-LAST UPDATED 24 MAY 2020
+LAST UPDATED 26 JUN 2020
 
 Hey! Loading up the info for the Hunt. It takes a while to incorporate everything properly throughout the Guide, but it doesn't take long to gather the new info. So! Here is New Info Only for the Hunt for the Ancients. (Please, please just look at the regular sections if you aren't up to the latest point; there's nothing here that will be likely to serve you before then.)
 
 #FAIR WARNING: SPOILERS AHEAD.
 
-This month: May-June is bringing Season 2 to a near-close; if we imitate Season 1, June 24 will bring a boss battle and a collective goal to unlock Season 3 a couple days later. Or not! It remains to be seen...
+This month: We have something unusual: new monsters and a quest released globally, to people outside the Hunt, and NO new monsters in the new Hunt area. I'll be including the End Of S2 quests/monsters as well as the Start Of S3 quests.
 
-## New Quests: May 2020
+## New Quests: Jun 2020
 
-### Dazzling Desert Diversity
+### Stumbling Upon Sheep
 
-- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
+- **Unlocked by:** Hunt S2 Quest: No Wrong Path
+- **Type:** Battle
+- **Requirements:** Defeat 4 Shepherd
+- **Rewards:** Wardrobe: Dog Mentor Pet https://4thewords.com/media/wardrobe/featured/male/wm&#95;862-dog-mentor-pet-6004-63771.png
+- **Recommendations:** This is the end of the Season 2 quests! And the Pipit pet is ADORABLE. Beat that Shepherd down!
+
+### Moving Flora
+
+- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
+- **Type:** Streak
+- **Requirements:** Reach 5 Streak days in a row
+- **Rewards:** Hunt Map Piece 7, 10 Hunter Tokens
+- **Recommendations:** Pick up, hang on, beat out! We're in the rhythm now, and ready to keep going!
+
+### To Grow & Change
+
+- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
+- **Type:** Collection, Battle
+- **Requirements:** Defeat 10 of any monster, collect Hunt Map Piece 7
+- **Rewards:** Wardrobe: Hunt Facepaint Side https://4thewords.com/media/wardrobe/featured/male/wm&#95;667-hunt-facepaint-side-4049-28215.png
+- **Recommendations:** Make sure you've got the Moving Flora quest, and this will mostly handle themselves!
+
+### Valley Of The Sheep
+
+- **Unlocked by:** Opening the Game
+- **Type:** Battle
+- **Requirements:** Defeat 1 each: Attleas, Shashi, Imali
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** This is unusual in that it's offered **in the Global Quests instead of the Hunt Quests**. (At least, as of this writing on 26 Jun 2020; I suspect that it will eventually subside to the Hunt somehow.)
+
+### Herding the Herders
+
+- **Unlocked by:** HuntS2 Quest: No Wrong Path (?)
+- **Type:** Battle
+- **Requirements:** Defeat 1 each: Lubu, Czanus, Pipit
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** This is entirely voluntary and unlocks nothing, but it's fun. Not 100% positive which of the major quests unlocks it (it might also be unlocked a little sooner, by A Distant Figure), but you get the gist.
+
+### Helping Those In Need Grow
+
+- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
+- **Type:** Collection
+- **Requirements:** Deliver:
+  - 10 Rusty Amulets
+  - 5 Rusty Pendants
+  - 1 Gold Bar
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** Unless you have 10 Rusty Amulets just lying around, I wouldn't hurry on this. (Ditto on Rusty Pendants and Gold, but you're more likely to actually have them lying around.) The Hunter Tokens just aren't worth as much in and of themselves. Still, fun little thing to do!
+
+### Growing Improvement
+
+- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
+- **Type:** Battle
+- **Requirements:** Defeat 10 Jaihri
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** Check out the list of quests Jaihri have to their name - there's quite a few! This will dovetail with a lot of quests in the regular game.
+
+### Growth Pains
+
+- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
 - **Type:** Battle
 - **Requirements:** Defeat:
-  - 3 Loi
-  - 2 Sakish
-  - 2 Zera
-  - 1 Kapir
-- **Rewards:** 10 Hunter Tokens
-- **Recommendations:** The Strengthening quest chain involves Kapir in Part 5, so if you're planning on doing both, try to overlap those. There's no rush on this quest; you can take it at whatever pace you please.
-
-### Strengthening Your Timing 4/5
-
-- **Unlocked by:** HuntS2 Quest: Strengthening Your Friendship 3/5
-- **Type:** Battle
-- **Requirements:** Defeat 1 Ripos
-- **Rewards:** 10 Hunter Tokens
-- **Recommendations:** Pretty self-evident. If you manage to knock this out this month (before 24 June 2020), Ripos will be dropping Hunter Tokens, too, so it'll get you 28. Good time to tackle it.
-
-### Strengthening Your Adaptiveness 5/5
-
-- **Unlocked by:** HuntS2 Quest: Strengthening Your Timing 4/5
-- **Type:** Battle
-- **Requirements:** Defeat 3 Kapir
-- **Rewards:** Wardrobe: Chest Side Belts https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;657-chest-side-belts-3903-85263.png
-- **Recommendations:** Note that Kapir are also required for Dazzling Desert Diversity, so consider having that at the ready. Otherwise... you're good!
-
-### No Wrong Path
-
-- **Unlocked by:** HuntS2 Quest: Oh, Endless Possibilities!
-- **Type:** Collection
-- **Requirements:** Collect Hunt Map Piece 6
-- **Rewards:** Wardrobe: Hunt Facepaint Eye Shadow https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;664-hunt-facepaint-eye-shadow-4007-92291.png
-- **Recommendations:** Yet another quest-that's-really-an-extra-reward-for-another-one. A Distant Figure quest will net you this. Go for it.
-
-### Our Waymark Stones
-
-- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
-- **Type:** Collection
-- **Requirements:** Deliver 10 Raw Stone, 10 Raw Sandstone, and 10 Desert Stones
-- **Rewards:** 10 Hunter Tokens
-- **Recommendations:** If you haven't completed the regular Desert Region quests, think carefully about this. These resources are fairly easy and quick to collect, but also required in maddening quantities in Oge-Mai Valley. However, they're mostly required in side quests, so as long as you're not giving away the last 10 of these items, you should be good to prioritize as you please.
-
-### Battle of Merit
-
-- **Unlocked by:** HuntS1 Quest: A Battle of Wills
-- **Type:** Battle
-- **Requirements:** Defeat 1 Velts: Desert
+  - 3 Osaril
+  - 2 Trainees
+  - 1 Furoxi
 - **Rewards:** 25 Hunter Tokens
-- **Recommendations:** This is the only S2 quest that requires an S1 quest other than Curator of Elder Library (and the only S2 quest that can be completed without completing S1, for that matter). Make sure you're fighting the 3PC version of Velts if you want to tackle this. She's tougher than the Mama Tree version, but doable enough.
+- **Recommendations:** This can dovetail with a few Riza Rivertown quests, but otherwise, no hurries. Take at your own pace.
 
-### A Distant Figure
+## New Hunt Monsters: Jun 2020
 
-- **Unlocked by:** HuntS2 Quest: State of Rest
-- **Type:** Battle
-- **Requirements:** Defeat 3 Lubu
-- **Rewards:** Hunt Map Piece 6, 5 Hunter Tokens
-- **Recommendations:** You know the drill by now. Defeat the Ancient's assistant, get the Hunt Map Piece. Don't forget to pick up and turn in No Wrong Path after you're done with this.
+### Shepherd
 
-## New Hunt Monsters: Apr 2020
+- **Unlocked by:** Hunt S2 Quest: No Wrong Path
+- **Location:** Dig Site
+- **Requirements:** 1000 words
+- **Time allowed:** 240 minutes (4 hours)
+- **XP:** 100
+- **Drops:** 10 Hunter Tokens, 2-6 Raw Fabric, 1-2 Red Dye, 1-4 Wood, 1-3 Rope, 1-3 Raw Sandstone
+- **Quests:** HuntS2: Stumbling Upon Sheep (4)
 
-### Velts: Desert
+### Attleas
 
-- **Unlocked by:** HuntS1 Quest: A Battle of Wills
-- **Requirements:** 1200 words
-- **Time allowed:** 180 minutes (3 hours)
-- **XP:** 120
-- **Drops:** 12 Hunter Tokens, 4-8 Wood, 4-6 Rope, 1 Spider Poison, 2-4 Raw Steel, 1-3 Raw Sandstone
-- **Quests:** HuntS2: Battle of Merit (1)
+- **Unlocked by:** Community Quest: Ancient Shepherd of Oge-Mai Valley (to unlock First Sheep)
+- **Location:** Global
+- **Requirements:** 350 words
+- **Time allowed:** 30 minutes
+- **XP:** 35
+- **Drops:** 3-4 Hunter Tokens, 2-3 Raw Fabric, 1 Rope, 0-1 Red Dye
+- **Quests:** Global: Valley Of The Sheep (1)
 
-### Lubu
+### Imali
 
-- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
-- **Requirements:** 450 words
-- **Time allowed:** 60 minutes (1 hour)
-- **XP:** 45
-- **Drops:** 4-5 Hunter Tokens, 1-2 Raw Fabric, 0-1 Raw Steel, 1 Wood
-- **Quests:** HuntS2: A Distant Figure (3)
+- **Unlocked by:** Community Quest: Ancient Shepherd of Oge-Mai Valley (to unlock Third Sheep)
+- **Location:** Global
+- **Requirements:** 150 words
+- **Time allowed:** 15 minutes
+- **XP:** 15
+- **Drops:** 1-2 Hunter Tokens, 1 Raw Fabric
+- **Quests:** Global: Valley Of The Sheep (1)
 
-## New Resources: Apr 2020
+### Shashi
 
-### Hunt Map Piece 5
+- **Unlocked by:** Community Quest: Ancient Shepherd of Oge-Mai Valley (to unlock Second Sheep)
+- **Location:** Global
+- **Requirements:** 250 words
+- **Time allowed:** 25 minutes
+- **XP:** 25
+- **Drops:** 2-3 Hunter Tokens, 1-2 Raw Fabric, 0-1 Raw Gold
+- **Quests:** Global: Valley Of The Sheep (1)
 
-- **Source:** HuntS2 Quest: State of Rest (1)
+## New Resources: Jun 2020
+
+### Hunt Map Piece 7
+
+HUNT S3
+
+- **Source:** HuntS3 Quest: Moving Flora (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS2 Quest: Oh, Endless Possibilities! (1)
+- **Used for:** HuntS3 Quest: To Grow & Change (1)
 
-## Hunt Token Sources: May-June 2020
+## Hunt Token Sources: June 2020
 
-Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included).
+**Late June-July 2020 Sources Outside the Hunt:**
 
-- LF Battles: Reenu (200 words for 2), Spirit Wignow (450 words for 4-5), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 14)
-- MT Battles: Tylu (600 words for 6), Illi (700 words for 7), Tambo (2000 words, 4 Rope, & 10 Leaves for 20)
+Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
+
+- LF Battles: Spirit Wignow (450 words for 4-5)
+- MT Battles: Vanstra (3 minutes for 1-4)
 - FOREST EXPEDITION:
 
-  - BC Battles: Sacer (120 words for 1)
+  - BC Battles: Hunt monsters only
   - FB Battles: Hunt monsters only
   - SC Battles: Hunt monsters only
-  - TT Battles: Hunt monsters only
-  - GL Battles: Gobkey (400 words for 4)
-- 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3), Grult (400 words for 4), Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, & 10 Leaves for 20)
-- Gansu Battles: Frizi (150 words for 1-2), Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Ylly (720 words for 7), Wetu (1100 words for 11), Arenica (1350 words & 1 Steel Dagger for 13-14), Desert Rudakai (1800 words, 10 Leaves, & 1 Leaf Boots for 18)
+  - TT Battles: Scofin (150 words for 1-2), Fin (250 words for 2-3), Finoir (500 words for 5)
+  - GL Battles: Hunt monsters only
+- 3PC Battles: Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Yasri (1250 words for 12-13)
+- Gansu Battles: Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Wetu (1100 words for 11)
 - DESERT EXPEDITION: 
 
-  - Dig Battles: Sakish (350 words for 3-4), Kapir (800 words for 8)
-  - Ruins Battles: Ripos (1800 words for 18)
-- Riza Battles: Frizi (150 words for 1-2), Sparfly (450 words for 4-5)
+  - Dig Battles: Hunt monsters only
+  - Ruins Battles: Hunt monsters only
+- Riza Battles: Jaihri (485 words for 5), Sparfly (450 words for 4-5), Vota (800 words for 8), Trainee (1000 words for 10)
 - WATER EXPEDITION:
   - not available at this time
-- Balance Battles: Caricaco (300 words for 3), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 20)
-- DFO Battles: NONE
+- Balance Battles: Caricaco (300 words for 3), Spirit Castu (550 words for 4-5, yes, that's 4-5, not 5-6)
+- DFO Battles: Burhar (1500 words for 15), Molox (666 words and 1 Steel Chain for 6-7), Miclan (5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 50)
 
-## New Wardrobe Items: Apr 2020
+- **Sell price:** 10 Coins (don't sell, much better to spend)
+- **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices)
 
-- Facepaint Cross Lines - 15 Hunter Tokens
-- Facepaint Dots Line - 15 Hunter Tokens
-- Facepaint Dots Simple - 15 Hunter Tokens
-- Shield - 125 Hunter Tokens
-- Sword - 125 Hunter Tokens
+## New Wardrobe Items: Jun 2020
+
+- Reaction: Allies In Arms - 1 Hunter Token
+- Reaction: Good Eye - 1 Hunter Token
+- Reaction: Growing - 1 Hunter Token
+- Reaction: Hope - 1 Hunter Token
+- Reaction: Wanderlust - 1 Hunter Token
+- Paint Double Strokes - 15 Hunter Tokens
+- Paint Sharp Lines - 15 Hunter Tokens
+- Paint Under Lines - 15 Hunter Tokens
+- Paint Vertical Line - 15 Hunter Tokens
+- Ankle Boots - 80 Hunter Tokens
+- Travel Trench Coat - 150 Hunter Tokens

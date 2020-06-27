@@ -1,4 +1,4 @@
-LAST UPDATED 15 MAY 2020
+LAST UPDATED 23 JUN 2020
 
 And here are all the wardrobe items available in the Shrine!
 
@@ -26,6 +26,45 @@ NOTE: Once you own a Wardrobe item, it's removed from these offerings. So if you
   - Ralbone Top - 150 Shrine Stones https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;peacock&#95;top.png
   - Ralbone Pants - 150 Shrine Stones https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;peacock&#95;pants.png
 
+## Wardrobe Offerings - Carnival
+
+NOTE: Once you own a Wardrobe item, it's removed from these offerings. So if you have a wardrobe item from a prior event or quest or whatever, it won't be available here.
+
+- The **Wardrobe** section offers the following for sale:
+  - Marionette Hands - 250 Shrine Stones. Seven variants on wrist color:
+    - black: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;648-marionette-hands-3787-53863.png
+    - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;648-marionette-hands-3793-31199.png
+    - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;648-marionette-hands-3794-14403.png
+    - red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;648-marionette-hands-3795-67170.png
+    - gold: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;648-marionette-hands-3796-68024.png
+    - purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;648-marionette-hands-3797-30662.png
+    - white: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;648-marionette-hands-3798-98007.png
+  - Carnival Bodypaint - 75 Shrine Stones. 3 variants:
+    - blue and green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;makeup&#95;blue.png
+    - orange and purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;makeup&#95;gold.png
+    - hot pink and blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;makeup&#95;red.png
+  - Carnival Wristguards - 25 Shrine Stones. 3 variants:
+    - blue and violet: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;wrist&#95;blue.png
+    - orange and green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;wrist&#95;gold.png
+    - red and green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;wrist&#95;red.png
+- The quest **Tears and Feathers** returns the **Carnival Mask**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;646-carnival-mask-3781-45288.png
+
+## Wardrobe Offerings - Colorful Ooze
+
+NOTE: Once you own a Wardrobe item, it's removed from these offerings. So if you have a wardrobe item from a prior event or quest or whatever, it won't be available here.
+
+- The **Wardrobe** section offers the following for sale:
+  - Zulasta Shoes - 50 Shrine Stones: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;mushroom&#95;shoes.png
+  - Leopard Skirt - 25 Shrine Stones: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;leopard&#95;skirt.png
+  - Dalmatian Skirt - 25 Shrine Stones: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;dalmata&#95;skirt.png
+  - Candle Shoulders - 125 Shrine Stones. 6 variants:
+    - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;649-candle-shoulderpads-3800-83403.png
+    - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;649-candle-shoulderpads-3802-73607.png
+    - brown: https://4thewords.com/media/wardrobe/featured/female/wf&#95;649-candle-shoulderpads-3804-57433.png
+    - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;649-candle-shoulderpads-3805-97904.png
+    - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;649-candle-shoulderpads-3808-61152.png
+    - ivory: https://4thewords.com/media/wardrobe/featured/female/wf&#95;649-candle-shoulderpads-3810-49053.png
+
 ## Wardrobe Offerings - Ducks
 
 - The **Lining Up Ducks** quest returns **Duck Face Mask**: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;629-duck-face-mask-3651-62159.png
@@ -39,6 +78,25 @@ NOTE: Once you own a Wardrobe item, it's removed from these offerings. So if you
     - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;630-duck-hat-3659-76745.png
     - red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;630-duck-hat-3661-27179.png
     - yellow: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;630-duck-hat-3663-25563.png
+
+## Wardrobe Offerings - Fools
+
+NOTE: Once you own a Wardrobe item, it's removed from these offerings. So if you have a wardrobe item from a prior event or quest or whatever, it won't be available here.
+
+- The **Wardrobe** section offers the following for sale:
+  - Candycorn Earrings - 15 Shrine Stones: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;candycorn.png
+  - Pumpkin Earrings - 15 Shrine Stones. Seven variants:
+    - lit zigzag grin: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;pumpking&#95;lit&#95;evil.png
+    - lit happy grin: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;pumpking&#95;lit&#95;happy.png
+    - lit sad face: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;pumpking&#95;lit&#95;sad.png
+    - plain pumpkin: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;pumpking&#95;unlit.png
+    - dark zigzag grin: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;pumpking&#95;unlit&#95;evil.png
+    - dark happy grin: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;pumpking&#95;unlit&#95;happy.png
+    - dark sad face: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;pumpking&#95;unlit&#95;sad.png
+  - Fools' Eyes - 100 Shrine Stones. Two variants:
+    - left eye oversize: https://4thewords.com/media/wardrobe/featured/female/wf&#95;643-fools-eyes-3764-52957.png
+    - right eye oversize: https://4thewords.com/media/wardrobe/featured/female/wf&#95;643-fools-eyes-3763-88989.png
+  - Star Earrings - 15 Shrine Stones: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;star&#95;earrings.png
 
 ## Wardrobe Offerings: Giants
 

@@ -1,11 +1,16 @@
-LAST UPDATED 19 JUN 2020
+LAST UPDATED 26 JUN 2020
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
 
 ### Luciola Forest
 
 - **Hunter Lodge sells**
+  - Reaction: Allies In Arms - 1 Hunter Token
   - Reaction: For The Valley! - 1 Hunter Token
+  - Reaction: Good Eye - 1 Hunter Token
+  - Reaction: Growing - 1 Hunter Token
+  - Reaction: Hope - 1 Hunter Token
+  - Reaction: Wanderlust - 1 Hunter Token
   - Classy Short Hair - 10 Hunter Tokens
   - Clean Front Hair - 10 Hunter Tokens
   - Hunt Braids Hair - 10 Hunter Tokens
@@ -26,6 +31,10 @@ Because some people might be on the hunt for all the wardrobe items available in
   - Facepaint Cross Lines - 15 Hunter Tokens
   - Facepaint Dots Line - 15 Hunter Tokens
   - Facepaint Dots Simple - 15 Hunter Tokens
+  - Paint Double Strokes - 15 Hunter Tokens
+  - Paint Sharp Lines - 15 Hunter Tokens
+  - Paint Under Lines - 15 Hunter Tokens
+  - Paint Vertical Line - 15 Hunter Tokens
   - Freckles - 20 Hunter Tokens
   - Simple Sandals - 20 Hunter Tokens
   - Slim Left Chest Belt - 20 Hunter Tokens
@@ -45,11 +54,13 @@ Because some people might be on the hunt for all the wardrobe items available in
   - Large Left Chest Belt - 50 Hunter Tokens
   - Simple Crop Top - 50 Hunter Tokens
   - Turban - 50 Hunter Tokens
+  - Ankle Boots - 80 Hunter Tokens
   - Fur Vest - 80 Hunter Tokens
   - Hunt Fur Crop Top - 80 Hunter Tokens
   - Hunt Simple Brooch - 80 Hunter Tokens
   - Hunt Tattoos - 80 Hunter Tokens
   - Short Fur Boots - 80 Hunter Tokens
+  - Travel Trench Coat - 150 Hunter Tokens
   - Hunt Boots - 100 Hunter Tokens
   - Hunt Bracers - 100 Hunter Tokens
   - Small Chestplate - 100 Hunter Tokens
@@ -131,6 +142,7 @@ Because some people might be on the hunt for all the wardrobe items available in
   - gold: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;664-hunt-facepaint-eye-shadow-4017-75455.png
   - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;664-hunt-facepaint-eye-shadow-4019-78242.png
   - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;664-hunt-facepaint-eye-shadow-4020-89564.png
+- **Stumbling Upon Sheep** unlocks **Dog Mentor Pet**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;862-dog-mentor-pet-6004-63771.png
 
 ###Mama Tree
 

@@ -1,4 +1,4 @@
-LAST UPDATED 19 JUN 2020
+LAST UPDATED 26 JUN 2020
 
 As with the Forest...
 
@@ -56,7 +56,13 @@ Ruins: Underground Ruins
 
 ShrineBird: Shrine of Ages, when equipped with the Birds Time Bracelet
 
+ShrineCar: Shrine of Ages, when equipped with the Carnival Time Bracelet
+
+ShrineCO: Shrine of Ages, when equipped with the Colorful Ooze Bracelet
+
 ShrineDucks: Shrine of Ages, when equipped with the Ducks Time Bracelet
+
+ShrineFools: Shrine of Ages, when equipped with the Fools' Time Bracelet
 
 ShrineGiant: Shrine of Ages, when equipped with the Giants Time Bracelet
 
@@ -78,6 +84,15 @@ Shrine TFA: Shrine of Ages, when equipped with the Terror From Above Shrine Brac
 - **XP:** 12
 - **Drops:** 0-1 Leaves, 0-1 Rope, 1 Shrine Stone
 - **Quests:** Lining Up Ducks (1), Paint Battle (5)
+
+### Afeppti (Exp: ShrineCO)
+
+- **Unlocked by:** Wardrobe: Colorful Ooze Bracelet
+- **Requirements:** 444 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 40
+- **Drops:** 1-2 Raw Gold, 2-6 Coins, 4-5 Shrine Stones
+- **Quests:** ShrineCO: Green Be Gone! (1), Cute Confetti Cannons! (4)
 
 ### Alnu (Exp: BC, FB, SC, TT)
 
@@ -230,6 +245,15 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Drops:** 2-3 Shrine Stones, 0-2 Dust, 0-1 Leaves
 - **Quests:** Shrine GO Quest: Green Ooze Invasion (1)
 
+### Biironk (Exp: ShrineCar)
+
+- **Unlocked by:** Wardrobe: Carnival Time Bracelet
+- **Requirements:** 420 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 40
+- **Drops:** 1-2 Raw Steel, 4-5 Shrine Stones, 2-4 Wood
+- **Quests:** ShrineCar: A Carnival Festival (1), Cut the Strings (2)
+
 ### Bruja (Oge: 3PC, [Gansu])
 
 - **Requirements:** 900 words
@@ -316,6 +340,15 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 8 Hunter Tokens, 1-4 Wood, 1-2 Raw Steel, 0-1 Fur
 - **Quests:** HuntS1 Quest: Elder Library's Security (4)
 
+### Crilum (Exp: ShrineCO)
+
+- **Unlocked by:** Wardrobe: Colorful Ooze Bracelet
+- **Requirements:** 280 words
+- **Time allowed:** 30 minutes
+- **XP:** 25
+- **Drops:** 1 Feather, 2-3 Shrine Stones
+- **Quests:** ShrineCO: Green Be Gone! (1)
+
 ### Cubed Frizi (Exp: ShrinePoly)
 
 - **Unlocked by:** Wardrobe: Polygon Time Bracelet
@@ -400,6 +433,33 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - Gansu: Main Quest 7/ Red Witch of the Southern Coven (1) (THEN KEEP GOING! DON'T TURN IN ON JUST ONE!)
 
+### Eguley (Exp: ShrineCO)
+
+- **Unlocked by:** Wardrobe: Colorful Ooze Bracelet
+- **Requirements:** 400 words
+- **Time allowed:** 25 minutes
+- **XP:** 40
+- **Drops:** 1 Wood, 1-2 Leaves, 4 Shrine Stones
+- **Quests:** ShrineCO: Green Be Gone! (1)
+
+### Elobre (Exp: ShrineCO)
+
+- **Unlocked by:** Wardrobe: Colorful Ooze Bracelet
+- **Requirements:** 200 words
+- **Time allowed:** 30 minutes
+- **XP:** 25
+- **Drops:** 2 Shrine Stones, 1-2 Glass Shards
+- **Quests:** ShrineCO: Green Be Gone! (1)
+
+### Fetezira (Exp: ShrineCar)
+
+- **Unlocked by:** Wardrobe: Carnival Time Bracelet
+- **Requirements:** 1000 words
+- **Time allowed:** 1440 minutes (24 hours)
+- **XP:** 300
+- **Drops:** 10 Shrine Stones, 2-3 Feathers, 3-7 Coins
+- **Quests:** ShrineCar: A Carnival Festival (1); Fighters, Friends, Foes (2)
+
 ### Fin (Exp: TT)
 
 - **Requirements:** 250 words
@@ -433,6 +493,78 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 11
 - **Drops:** 0-4 Coins, 1 Shrine Stone, 1 Wood
 - **Quests:** Shrine TFA Quest: Shrine Creature Flyby (1)
+
+###  Fools' Mawt (Exp: ShrineFools)
+
+- **Unlocked by:** Wardrobe: Fools' Time Bracelet
+- **Requirements:** 180 words
+- **Time allowed:** 6 minutes
+- **XP:** 16
+- **Drops:** 1-5 Coins, 0-1 Fur, 1-2 Shrine Stones
+- **Quests:** ShrineFools: Fool Me Once (1)
+
+### Fools' Mawt (Halloween) (Exp: ShrineFools)
+
+- **Unlocked by:** Wardrobe: Fools' Time Bracelet
+- **Requirements:** 200 words
+- **Time allowed:** 20 minutes
+- **XP:** 28
+- **Drops:** 1-2 Leaves, 1-5 Coins, 2 Shrine Stones
+- **Quests:** ShrineFools: Fool Me Once (1)
+
+###  Fools' Tylu (Exp: ShrineFools)
+
+- **Unlocked by:** Wardrobe: Fools' Time Bracelet
+- **Requirements:** 200 words
+- **Time allowed:** 10 minutes
+- **XP:** 21
+- **Drops:** 3-5 Coins, 0-1 Claws, 2 Shrine Stones
+- **Quests:** ShrineFools: Fool Me Once (1), When Tylus Portal (5)
+
+###  Fools' Tylu (Halloween) (Exp: ShrineFools)
+
+- **Unlocked by:** Wardrobe: Fools' Time Bracelet
+- **Requirements:** 250 words
+- **Time allowed:** 30 minutes
+- **XP:** 15
+- **Drops:** 0-1 Claws, 2-5 Coins, 2-3 Shrine Stones
+- **Quests:** ShrineFools: Fool Me Once (1), When Tylus Portal (5)
+
+### Fools' Wignow (Exp: ShrineFools)
+
+- **Unlocked by:** Wardrobe: Fools' Time Bracelet
+- **Requirements:** 100 words
+- **Time allowed:** 5 minutes
+- **XP:** 10
+- **Drops:** 1-5 Coins, 1 Shrine Stone, 0-1 Leaves
+- **Quests:** ShrineFools: Fool Me Once (1)
+
+### Fools' Wignow (Halloween) (Exp: ShrineFools)
+
+- **Unlocked by:** Wardrobe: Fools' Time Bracelet
+- **Requirements:** 100 words
+- **Time allowed:** 10 minutes
+- **XP:** 8
+- **Drops:**  0-4 Coins, 0-1 Leaves, 1 Shrine Stone
+- **Quests:** ShrineFools: Fool Me Once (1)
+
+### Fools' Wrimo (Exp: ShrineFools)
+
+- **Unlocked by:** Wardrobe: Fools' Time Bracelet
+- **Requirements:** 100 words
+- **Time allowed:** 6 minutes
+- **XP:** 11
+- **Drops:** 1 Shrine Stone, 1-4 Coins 
+- **Quests:** ShrineFools: Fool Me Once (1); Write, You Fool (10)
+
+### Fraite (Exp: ShrineCO)
+
+- **Unlocked by:** Wardrobe: Colorful Ooze Bracelet
+- **Requirements:** 220 words
+- **Time allowed:** 40 minutes
+- **XP:** 20
+- **Drops:** 2-3 Wood, 2 Shrine Stones
+- **Quests:** ShrineCO: Green Be Gone! (1)
 
 ### Frizi (Oge: 3PC, Gansu)
 
@@ -558,6 +690,15 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1-4 Wood, 1-3 Dust, 0-1 Raw Stone, 5 Shrine Stones
 - **Quests:** ShrineGiant: A Colossal Quest (1)
 
+### Halores (Exp: ShrineCar)
+
+- **Unlocked by:** Wardrobe: Carnival Time Bracelet
+- **Requirements:** 900 words
+- **Time allowed:** 300 minutes (5 hours)
+- **XP:** 90
+- **Drops:** 1 Feather, 1-3 Raw Steel, 9 Shrine Stones, 3-5 Wood
+- **Quests:** ShrineCar: A Carnival Festival (1), Tears and Feathers (5)
+
 ### Idaa (Exp: ShrineDucks)
 
 - **Unlocked by:** Wardrobe: Ducks Time Bracelet
@@ -606,6 +747,15 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 5 Shrine Stones, 2-5 Coins, 1-2 Rope, 0-2 Raw Steel
 - **Quests:** ShrineBird: Birb's the Word (1), Peppy Piñata Party (10)
 
+### Kenkom (Exp: ShrineCO)
+
+- **Unlocked by:** Wardrobe: Colorful Ooze Bracelet
+- **Requirements:** 360 words
+- **Time allowed:** 45 minutes
+- **XP:** 35
+- **Drops:** 1-3 Raw Stone, 1-3 Coins, 3-4 Shrine Stones
+- **Quests:** ShrineCO: Green Be Gone! (1)
+
 ### Kiru (Oge: 3PC, [Gansu])
 
 - **Requirements:** 250 words
@@ -623,6 +773,15 @@ see **Skuppa's Giant Marionette**
 - **Time Allowed:** 80 minutes
 - **XP:** 94
 - **Drops:** 1 Spider Legs, 4 Wood, 2 Leaves
+
+### Lekhop (Exp: ShrineCO)
+
+- **Unlocked by:** Wardrobe: Colorful Ooze Bracelet
+- **Requirements:** 320 words
+- **Time allowed:** 35 minutes
+- **XP:** 30
+- **Drops:** 3-4 Shrine Stones, 1-3 Wood, 0-1 Raw Fabric
+- **Quests:** ShrineCO: Green Be Gone! (1)
 
 ### Loi (Exp: Dig)
 
@@ -679,6 +838,15 @@ see **Skuppa's Giant Marionette**
 - **XP:** 50
 - **Drops:** 1-3 Raw Stone, 5 Shrine Stones, 1-2 Rope, 1-3 River Grass
 - **Quests:** ShrineGiant: A Colossal Quest (1)
+
+### Mahor (Exp: ShrineCar)
+
+- **Unlocked by:** Wardrobe: Carnival Time Bracelet
+- **Requirements:** 1667 words
+- **Time allowed:** 600 minutes (10 hours)
+- **XP:** 160
+- **Drops:** 17 Shrine Stones, 1-3 Fur, 2-5 Raw Sandstone, 0-6 Raw Gold, 1-3 Raw Fabric
+- **Quests:** ShrineCar: A Carnival Festival (1), Peace and Sunflowers (2)
 
 ### Mawt (Oge: LF)
 
@@ -770,6 +938,15 @@ see **Skuppa's Giant Marionette**
 - **XP:** 90
 - **Drops:** 1-4 Raw Fabric, 1 Red Dye, 0-3 Raw Gold, 10 Shrine Stones, 3-8 Wood
 - **Quests:** ShrineMar: Spooky Scary Supernaturals (1), All Dressed Up (3)
+
+### Otpar (Exp: ShrineCO)
+
+- **Unlocked by:** Wardrobe: Colorful Ooze Bracelet
+- **Requirements:** 180 words
+- **Time allowed:** 25 minutes
+- **XP:** 18
+- **Drops:** 1 Raw Fabric, 1-2 Shrine Stones, 0-1 Fur
+- **Quests:** ShrineCO: Green Be Gone! (1)
 
 ###Patliadu (LATER GAME)
 
@@ -896,6 +1073,24 @@ see **Skuppa's Giant Marionette**
   - Ruins: Searching South (1)
   - HuntS2: Strengthening Your Timing 4/5 (1)
 
+### Roaki (Exp: ShrineCO)
+
+- **Unlocked by:** Wardrobe: Colorful Ooze Bracelet
+- **Requirements:** 500 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 45
+- **Drops:** 1-4 Coins, 5 Shrine Stones, 1 Red Dye
+- **Quests:** ShrineCO: Green Be Gone! (1)
+
+### Roica (Exp: ShrineCar)
+
+- **Unlocked by:** Wardrobe: Carnival Time Bracelet
+- **Requirements:** 150 words
+- **Time allowed:** 20 minutes
+- **XP:** 15
+- **Drops:** 1-2 Shrine Stones, 1-2 Wood
+- **Quests:** ShrineCar: A Carnival Festival (1), Cut the Strings (3)
+
 ### Rudakai (Oge: LF*)
 
 - **Unlocked by:** LF Main Quest 2/Building, Not Burning
@@ -994,6 +1189,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 1-2 Raw Steel
 - **Quests:** none
 
+### Shepherd (Exp: DigS)
+
+- **Unlocked by:** Hunt S2 Quest: No Wrong Path
+- **Requirements:** 1000 words
+- **Time allowed:** 240 minutes (4 hours)
+- **XP:** 100
+- **Drops:** 10 Hunter Tokens, 2-6 Raw Fabric, 1-2 Red Dye, 1-4 Wood, 1-3 Rope, 1-3 Raw Sandstone
+- **Quests:** HuntS2: Stumbling Upon Sheep (4)
+
 ### Skuppa's Giant Marionette (Exp: ShrineGiant)
 
 - **Unlocked by:** Wardrobe: Giants Time Bracelet
@@ -1003,6 +1207,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 5 Shrine Stones, 2-4 Wood, 1-2 Dust, 1-3 Raw Steel
 - **Quests:** ShrineGiant: A Colossal Quest (1), Sticks & Stones (5)
 
+### Sothai (Exp: ShrineCO)
+
+- **Unlocked by:** Wardrobe: Colorful Ooze Bracelet
+- **Requirements:** 300 words
+- **Time allowed:** 30 minutes
+- **XP:** 30
+- **Drops:** 1-2 Dust, 3 Shrine Stones, 1-2 Glass Shards
+- **Quests:** ShrineCO: Green Be Gone! (1), Gather Lucky Stars (5)
+
 ### Sparfly (Oge: Gansu)
 
 - **Requirements:** 450 words
@@ -1010,6 +1223,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 51
 - **Drops:** 1-2 Glass Shards, 1 Raw Fabric, 0-2 Raw Sandstone (rarely 0), 1-2 Raw Steel
 - **Quests:** HuntS2: Strengthening Your Viewpoint 2/3 (1)
+
+### Spodo (Exp: ShrineCO)
+
+- **Unlocked by:** Wardrobe: Colorful Ooze Bracelet
+- **Requirements:** 135 words
+- **Time allowed:** 30 minutes
+- **XP:** 13
+- **Drops:** 0-1 Fur, 1 Raw Fabric, 1-2 Shrine Stones
+- **Quests:** ShrineCO: Green Be Gone! (1)
 
 ### Suulan (Oge: Gansu*)
 
@@ -1039,6 +1261,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Quests:**
   - MT: Huge, Gigantic, Enormous (25); The Invisible Ink 5/5 (1); Sand Mountain Caravan (5)
   - HuntS2: A Season to Explore (1)
+
+### Thapiolo (Exp: ShrineCar)
+
+- **Unlocked by:** Wardrobe: Carnival Time Bracelet
+- **Requirements:** 1100 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 110
+- **Drops:** 2-5 Raw Fabric, 11 Shrine Stones, 1-2 Red Dye, 1-4 Raw Gold
+- **Quests:** ShrineCar: A Carnival Festival (1)
 
 ### Tian (Exp: ShrineDucks)
 
@@ -1084,6 +1315,24 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 52
 - **Drops:** 1-3 Rope, 0-3 Raw Steel, 1-6 Wood, 5 Shrine Stones
 - **Quests:** Shrine TFA Quest: Shrine Creature Flyby (1)
+
+### Upuchu (Exp: ShrineCar)
+
+- **Unlocked by:** Wardrobe: Carnival Time Bracelet
+- **Requirements:** 1400 words
+- **Time allowed:** 300 minutes (5 hours)
+- **XP:** 130
+- **Drops:** 14 Shrine Stones, 3-6 Raw Fabric, 2-4 Rope, 1-3 Raw Steel, 3-7 Coins
+- **Quests:** ShrineCar: A Carnival Festival (1)
+
+### Vanstra (Oge: MT)
+
+- **Unlocked by:** Opening Mama Tree
+- **Requirements:** Endurance: Battle 3 Minutes Continuously
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Baseline XP:** 8
+- **Baseline Drops:** 2 Coins, 1 Hunter Token
+- **Quests:** none
 
 ### Velts (Oge: MT*)
 
@@ -1262,6 +1511,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Quests:**
   - Gansu: Snake Pit (25)
   - HuntS2: Strengthening Your Viewpoint 2/3 (1)
+
+### Zainga (Exp: ShrineCO)
+
+- **Unlocked by:** Wardrobe: Colorful Ooze Bracelet
+- **Requirements:** 250 words
+- **Time allowed:** 25 minutes
+- **XP:** 25
+- **Drops:** 2-4 Coins, 2-3 Shrine Stones, 1-3 Raw Stones
+- **Quests:** ShrineCO: Green Be Gone! (1)
 
 ### Zera (Exp: Dig)
 

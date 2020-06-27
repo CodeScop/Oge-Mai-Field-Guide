@@ -1,4 +1,4 @@
-LAST UPDATED 19 JUN 2020
+LAST UPDATED 26 JUN 2020
 
 We're getting deep into Oge-Mai these days - don't want to have to travel too much. This is an exceptionally twisty region, so there are an exceptional number of possible spoilers/unable to get through bits in here. Leave me a message in the Forum thread if anything is too difficult to follow! https://4thewords.com/forum/thread-oge-mai-field-guide
 
@@ -404,24 +404,29 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
 - **Used for:** DESERT HUNT
 
+### Hunt Map Piece 7
+
+- **Source:** WATER HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** WATER HUNT
+
 ### Hunter Tokens
+
+ALL GAME
 
 - **Hunt Sources:** 
 
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
-  - FOREST
-  - DESERT
+  - Global Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4)
+  - FOREST, DESERT
 
-- **Late May 2020 Sources Outside the Hunt:**
+- **Late June-July 2020 Sources Outside the Hunt:**
 
-  Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included). I'm counting Pride Sassi as "outside the Hunt" because he's visible whether you've unlocked the Hunt or not.
+  Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
 
-  - FOREST
-  - DESERT
-  - WATER
-
-  - DFO Battles: Pride Sassi (600 words for 6)
+  - FOREST, DESERT, WATER
+  - DFO Battles: Burhar (1500 words for 15), Molox (666 words and 1 Steel Chain for 6-7), Miclan (5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 50)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

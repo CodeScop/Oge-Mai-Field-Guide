@@ -1,4 +1,4 @@
-LAST UPDATED 13 APR 2020
+LAST UPDATED 19 JUN 2020
 
 I'm doing something a little fancier here. In the title for each weapon. I'm going to summarize its properties with (Attack, Defense, Luck) and =Total. So Suwö the Companion is (3,7,2) =12. Don't worry, I'm keeping the long form in the Equip line, just wanted to provide a quick browse option. For more serious number crunching, try my Google Sheet here: https://docs.google.com/spreadsheets/d/1GokSi8qYqVszBipQi6&#95;Hgs7UZ04UkHyQYRj5a8HTISA/edit?usp=sharing
 
@@ -28,7 +28,7 @@ Anyway, hopefully this will give you a quick feel for how to max any given stat 
 
 ## Weapon 1
 
-### † Dark Forest Sword: (15,0,2) =17
+### Ω† Dark Forest Sword: (15,0,2) =17
 
 DUST
 
@@ -134,7 +134,7 @@ WATER
 DESERT, some WATER
 
 - **Sources:** DESERT Craft
-- **Craft:** DESERT: 3PC City's Armory: 3 Vine Nets, 1 Steel Bar, 1 Stone Block, 25 Coins
+- **Craft:** DESERT: 3PC City's Armory: 1 Vine Net, 1 Steel Bar, 1 Stone Block, 25 Coins
 - **Equip:** Weapon2: +4 Attack, +0 Defense, +2 Luck
 
 ### Old Staff: (3,0,0) =3

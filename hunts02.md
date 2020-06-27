@@ -1,8 +1,6 @@
-LAST UPDATED 24 MAY 2020
+LAST UPDATED 26 JUN 2020
 
 We left off Season 1 (and you **must** complete The Curator of Elder Library to unlock Season 2, and the Season 1 quest list will help with that) back in the Forest. Now, in the Desert, we're on to Season 2: The Season of Wandering, watched over by the Shepherd.
-
-For now, I'm going to keep this pretty simple, because there's only a few new things released...
 
 ## Season 2 Quests - The Main Line
 
@@ -56,6 +54,22 @@ Unlocking various stages of the Hunt is still progressing with pairs of quests a
 - **Rewards:** Wardrobe: Hunt Facepaint Eye Shadow https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;664-hunt-facepaint-eye-shadow-4007-92291.png
 - **Recommendations:** Yet another quest-that's-really-an-extra-reward-for-another-one. A Distant Figure quest will net you this. Go for it.
 
+### Stumbling Upon Sheep
+
+- **Unlocked by:** Hunt S2 Quest: No Wrong Path
+- **Type:** Battle
+- **Requirements:** Defeat 4 Shepherd
+- **Rewards:** Wardrobe: Dog Mentor Pet https://4thewords.com/media/wardrobe/featured/male/wm&#95;862-dog-mentor-pet-6004-63771.png
+- **Recommendations:** This is the end of the Season 2 quests! And the Pipit pet is ADORABLE. Beat that Shepherd down!
+
+### Herding the Herders
+
+- **Unlocked by:** HuntS2 Quest: No Wrong Path (?)
+- **Type:** Battle
+- **Requirements:** Defeat 1 each: Lubu, Czanus, Pipit
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** This isn't actually in the main line itself, but it unlocks at the same time as the last main line quest. 
+
 ## Season 2 Quests - Strengthening Sideline
 
 The first Season of the hunt had the Proving Your... questline; this seems to be the equivalent for S2. Waiting to see if this ends with an awesome wardrobe reward, too!
@@ -105,6 +119,14 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 - **Recommendations:** Note that Kapir are also required for Dazzling Desert Diversity, so consider having that at the ready. Otherwise... you're good!
 
 ## Season 2 Quests: Miscellaneous
+
+### Valley Of The Sheep
+
+- **Unlocked by:** Opening the Game
+- **Type:** Battle
+- **Requirements:** Defeat 1 each: Attleas, Shashi, Imali
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** This is unusual in that it's offered **in the Global Quests instead of the Hunt Quests**. (At least, as of this writing on 26 Jun 2020; I suspect that it will eventually subside to the Hunt somehow.)
 
 ### Wandering We Go
 
@@ -188,6 +210,16 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 - **Drops:** 7 Hunter Tokens, 1-3 Raw Steel, 2-4 Raw Fabric, 0-1 Wood Swords, 0-1 Red Dye, 1-3 Wood
 - **Quests:** HuntS2: Guarding the Path (4)
 
+### Lubu
+
+- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
+- **Location:** Dig Site, Underground Ruins
+- **Requirements:** 450 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 45
+- **Drops:** 4-5 Hunter Tokens, 1-2 Raw Fabric, 0-1 Raw Steel, 1 Wood
+- **Quests:** HuntS2: A Distant Figure (3)
+
 ###  Pipit
 
 - **Unlocked by:** The Curator of Elder Library Quest
@@ -197,6 +229,15 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 - **XP:** 90
 - **Drops:** 9 Hunter Tokens, 2-4 Raw Fabric, 0-1 Red Dye, 1-2 Raw Stone, 1-2 Wood
 - **Quests:** HuntS2: State of Rest (4)
+
+### Velts: Desert
+
+- **Unlocked by:** HuntS1 Quest: A Battle of Wills
+- **Requirements:** 1200 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 120
+- **Drops:** 12 Hunter Tokens, 4-8 Wood, 4-6 Rope, 1 Spider Poison, 2-4 Raw Steel, 1-3 Raw Sandstone
+- **Quests:** HuntS2: Battle of Merit (1)
 
 ## Season 2 Resources
 
@@ -284,3 +325,6 @@ Season 2 is unlocked by completing The Curator of Elder Library quest, and you c
 - HuntS2 All Who Wander - write 4K words & collect Hunt Map Piece 4, get Wardrobe: Tall Fur Boots
   - HuntS2 Oh, Endless Possibilities! - collect Hunt Map Piece 5, get Wardrobe: Hunt Facepaint Star
     - HuntS2 No Wrong Path - collect Hunt Map Piece 6, get Wardrobe: Hunt Facepaint Eye Shadow
+      - HuntS2 Stumbling Upon Sheep - defeat the Shepherd 4 times, get Wardrobe: Dog Mentor Pet
+      - HuntS2 Herding the Herders - Defeat 1 each Lubu, Czanus, Pipit; get 25 Hunter Tokens
+

@@ -1,3 +1,7 @@
+LAST UPDATED: 19 JUN 2020
+
+This is a comprehensive guide to *all* Battle Gear available as of Three Points Crossing.
+
 ## Companion
 
 ### Suwö
@@ -154,7 +158,7 @@
   - Craft 3PC: Steel Sword (3)
 - **Equip:** Weapon1: +1 Attack, +0 Defense, +0 Luck
 
-### ~~Weapon2~~
+## Weapon2
 
 ### Stone Hammer
 
@@ -205,7 +209,7 @@
 ### Net
 
 - **Sources:** Craft
-- **Craft:** 3PC City's Armory: 3 Vine Nets, 1 Steel Bar, 1 Stone Block, 25 Coins
+- **Craft:** 3PC City's Armory: 1 Vine Nets, 1 Steel Bar, 1 Stone Block, 25 Coins
 - **Sell Price:** 180 Coins (don't sell; too expensive)
 - **Used for:** equipping, later game
 - **Equip:** Weapon2: +4 Attack, +0 Defense, +2 Luck

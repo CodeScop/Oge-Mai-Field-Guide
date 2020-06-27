@@ -1,10 +1,10 @@
-LAST UPDATED 26 MAR 2020
+LAST UPDATED 27 JUN 2020
 
 So! The game has just updated with the Expedition bonus sections. And lovely as they are, it's changed the game from a more-or-less predetermined Main Quest track to a multiple pathway system.
 
 So sad if someone is on the wrong branch of the path.
 
-**This is only for people who are willing to be spoiled about chains of Expedition quests/ number of Main Quests.** If not, happy hunting! It's fun to explore!
+**This is only for people who are willing to be spoiled about number of Main Quests/chains of Expedition Quests/chains of Hunt Quests.** If not, happy hunting! It's fun to explore!
 
 So I'm going to try to give directions to people who want to know how to get to things requiring unlocking quests in multiple directions. 
 
@@ -15,6 +15,8 @@ First, an outline of the game:
 **The regions are divided into areas,** subsections that unlock as you progress through the game.
 
 **The areas are grouped into two kinds: Oge-Mai and Expedition.** Oge-Mai areas contain the Main Quests and driving plot of the game; Expedition is designed to be a playground and area to explore for the fun of it. Each Main Quest gets you farther down a main road of the game; each side quest (and all Expedition quests are sidequests) gets you closer to a dead end, although often a scenic and profitable dead end.
+
+**The Hunt for the Ancients distributes quests in Luciola Forest, but completing them requires ranging all over the game.** The Hunt progresses through multiple "Seasons" based on completing a few crucial Hunt quests.
 
 So, the basics:
 
@@ -93,5 +95,49 @@ Tada! That's all the Forest Expedition.
 
 ### Path Through Water Expedition
 
-1. In **Riza Rivertown** in Oge-Mai, complete all Main Quests so you can then take the **Special Mini-Area Quest: Infected Raina Camp** quest. This will unlock **Raina Surface Camp** when you finish it. Go ahead and travel there.
-2. That's it. **Raina Surface Camp** is currently the only part of Water Expedition. I recommend the **Infected Raina** quest path if you want to unlock more quests, but there are no more areas.
+1. In **Riza Rivertown** in Oge-Mai, complete all Main Quests so you can then take the **Special Mini-Area Quest: Infected Raina Camp** quest. This will unlock **Raina Surface Camp** when you finish it. At present, there is no Raina Surface Camp; however, you will unlock its old quests in **Kedanus's Shop** in Riza once you complete the quest.
+2. That's it. The quests/shop from **Raina Surface Camp** are currently the only part of Water Expedition. I recommend the **Infected Raina** quest path if you want to unlock more quests, but there are no more areas.
+
+# Hunt for the Ancients
+
+To unlock the Hunt for the Ancients, you must take and complete the quest **Joining the Hunt** in Luciola Forest (in the **Hunt for the Ancients Quests** section of town).
+
+Once you've completed that, you'll have a wealth of Hunt quests open to you in that same section.
+
+To unlock more of the Hunt, you must complete a series of quests that **require Hunt Map Pieces**. These quests unlock each other in a series.
+
+To **get the Hunt Map Pieces**, you must complete another series of quests which unlock each other in a series.
+
+... It's usually easiest to focus on one Hunt Map Piece at a time, but if you're waiting out a streak quest on the require side, you might start working your way through the Hunt-Map-Piece giving series to get ahead.
+
+## Progression Path through the Hunt
+
+**Joining the Hunt** unlocks the Hunt.
+
+### Season 1 - based in the Forest Region
+
+**A Clue to the Past** gives the first Hunt Map Piece and **The Hunt Begins** uses it.
+
+**Elder Library Assistants** gives Hunt Map Piece 2 and **Deeper Forest Hunting** uses it.
+
+**Elder Library's Security** gives Hunt Map Piece 3 and **A Past Not Forgotten** uses it.
+
+A Past Not Forgotten unlocks the Curator and the capstone quest: **The Curator of Elder Library**, which unlocks Season 2.
+
+###Season 2 - based in the Desert Region
+
+Quests are still obtained in Luciola Forest, but the monsters and goals are primarily in the Desert.
+
+**Guarding the Path** gives Hunt Map Piece 4 and **All Who Wander** uses it.
+
+**State of Rest** gives Hunt Map Piece 5 and **Oh, Endless Possibilities!** uses it.
+
+**A Distant Figure** gives Hunt Map Piece 6 and **No Wrong Path** uses it.
+
+No Wrong Path unlocks the Shepherd and the capstone quest: **Stumbling Upon Sheep**, which unlocks Season 3.
+
+###Season 3 - based in the Water Region
+
+Quests are still obtained in Luciola Forest, but the monsters and goals are primarily in the Water.
+
+**Moving Flora** gives Hunt Map Piece 7 and **To Grow & Change** uses it.

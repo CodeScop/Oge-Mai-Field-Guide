@@ -1,4 +1,4 @@
-LAST UPDATED 19 JUN 2020
+LAST UPDATED 26 JUN 2020
 
 So, here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -481,6 +481,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 3 Fur, 2-3 Claws, 1 Leaves, 1 Rope
 - **Quests:**
   - MT: A Family Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); New Adventurous Horizons (1)
+
+### Vanstra (Oge: MT)
+
+- **Unlocked by:** Opening Mama Tree
+- **Requirements:** Endurance: Battle 3 Minutes Continuously
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Baseline XP:** 8
+- **Baseline Drops:** 2 Coins, 1 Hunter Token
+- **Quests:** none
 
 ### Velts (Oge: MT*)
 
