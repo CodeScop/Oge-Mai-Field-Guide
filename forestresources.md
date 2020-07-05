@@ -1,4 +1,4 @@
-LAST UPDATED 27 JUN 2020
+LAST UPDATED 5 JUL 2020
 
 Here are ALL THE THINGS available in the Forest. LF is Luciola Forest. MT is Mama Tree. HuntS1 is Hunt for the Ancients Season 1. And for the Expedition...
 
@@ -214,7 +214,6 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
-  - Global Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4)
   - LF Battles: Sassi (600 words for 6)
   - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10)
   - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
@@ -225,7 +224,11 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 
   Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
 
-  - LF Battles: Spirit Wignow (450 words for 4-5)
+  - ALIEN METEOROID:
+    - IC Battles: Arir (100 words for 1), Rhan (150 words for 1-2), Maesc (250 words for 2-3), Nartha (350 words for 3-4), Erbor (400 words for 4), Rosarin (500 words for 5), Brachi (600 words for 6)
+    - MS Battles: Arir (100 words for 1), Halix (250 words for 2-3), Ipo (300 words for 3), Galatre (450 words for 4-5), Krang (500 words for 5)
+    - Spaceship Battles: Captain Piak (1667 words for 17), Oxie (100 words for 1), Kolbs (200 words for 2), Kovar (350 words for 3-4), Ledd (500 words for 5), Szalin (700 words for 7), Noit (800 words for 8), Zals (900 words for 9), Skarn (1100 words for 11)
+  - LF Battles: none at this point
   - MT Battles: Vanstra (3 minutes for 1-4)
   - FOREST EXPEDITION:
 

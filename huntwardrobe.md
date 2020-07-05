@@ -1,6 +1,29 @@
-LAST UPDATED 24 APR 2020
+LAST UPDATED 5 JUL 2020
 
 This is fast and sloppy, but at least it's a complete list. And it's mixed by price/alphabet instead of being randomly on display, so it might be a LITTLE easier to navigate?
+
+NEW IN JUNE
+
+- Reaction: Allies In Arms - 1 Hunter Token
+- Reaction: Good Eye - 1 Hunter Token
+- Reaction: Growing - 1 Hunter Token
+- Reaction: Hope - 1 Hunter Token
+- Reaction: Wanderlust - 1 Hunter Token
+- Paint Double Strokes - 15 Hunter Tokens
+- Paint Sharp Lines - 15 Hunter Tokens
+- Paint Under Lines - 15 Hunter Tokens
+- Paint Vertical Line - 15 Hunter Tokens
+- Ankle Boots - 80 Hunter Tokens
+- Travel Trench Coat - 150 Hunter Tokens
+
+NEW IN MAY
+
+- Hunt Headband - 10 Hunter Tokens
+- Slim Left Chest Belt - 20 Hunter Tokens
+
+- Slim Right Chest Belt - 20 Hunter Tokens
+
+- Bow and Quiver - 150 Hunter Tokens
 
 NEW IN APRIL
 

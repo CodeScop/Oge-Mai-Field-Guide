@@ -1,4 +1,4 @@
- (Table of Contents last updated 26 Jun 2020)
+ (Table of Contents last updated 5 Jul 2020)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -273,6 +273,28 @@
 - Travel Directions
   - Word Map of 4TW
 - Special Events
+  - Intro to Alien Meteoroid Event
+    - Quick Quests To Pick Up ASAP List
+      - Impact Crater
+      - Mining Site
+      - Spaceship
+  - New This Phase
+    - New Quests (Phase)
+    - Pick Up ASAP
+    - New Monsters (Phase)
+    - Resources (Phase)
+  - All Meteoroid Quests
+    - All Quests: Impact Crater
+    - All Quests: Mining Site
+    - All Quests: Spaceship
+  - All Meteoroid Monsters
+    - All Monsters: Impact Crater
+    - All Monsters: Mining Site
+    - All Monsters: Spaceship
+  - All Meteoroid Resources
+    - Event Special Resources
+    - Regular Resources, NaNo Sources
+  - All Meteoroid Wardrobe
   - The Last Note
 - State of the Guide
   - (All update notices, ordered with most recent first)

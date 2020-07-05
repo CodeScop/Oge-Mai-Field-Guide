@@ -1,4 +1,4 @@
-LAST UPDATED 26 JUN 2020
+LAST UPDATED 5 JUL 2020
 
 As with the Forest...
 
@@ -199,6 +199,15 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - MT: Main Quest 4/Aid to an Elder (3)
   - 3PC: Main Quest 4/A Desert Army (5)
+
+### Attleas (Exp: Dig)
+
+- **Unlocked by:** HuntS2 Quest: No Wrong Path
+- **Requirements:** 350 words
+- **Time allowed:** 30 minutes
+- **XP:** 35
+- **Drops:** 3-4 Hunter Tokens, 2-3 Raw Fabric, 1 Rope, 0-1 Red Dye
+- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
 
 ### Awa (EVERYWHERE)
 
@@ -717,6 +726,15 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - MT: Fair, Standard, Middling (25)
 
+### Imali (Exp: Dig)
+
+- **Unlocked by:** HuntS2 Quest: No Wrong Path
+- **Requirements:** 150 words
+- **Time allowed:** 15 minutes
+- **XP:** 15
+- **Drops:** 1-2 Hunter Tokens, 1 Raw Fabric
+- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
+
 ### Kaija (Exp: BC)
 
 - **Requirements:** 240 words
@@ -1188,6 +1206,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 15
 - **Drops:** 1-2 Raw Steel
 - **Quests:** none
+
+### Shashi (Exp: Dig)
+
+- **Unlocked by:** HuntS2 Quest: No Wrong Path
+- **Requirements:** 250 words
+- **Time allowed:** 25 minutes
+- **XP:** 25
+- **Drops:** 2-3 Hunter Tokens, 1-2 Raw Fabric, 0-1 Raw Gold
+- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
 
 ### Shepherd (Exp: DigS)
 

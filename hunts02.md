@@ -1,4 +1,4 @@
-LAST UPDATED 26 JUN 2020
+LAST UPDATED 5 JUL 2020
 
 We left off Season 1 (and you **must** complete The Curator of Elder Library to unlock Season 2, and the Season 1 quest list will help with that) back in the Forest. Now, in the Desert, we're on to Season 2: The Season of Wandering, watched over by the Shepherd.
 
@@ -64,7 +64,7 @@ Unlocking various stages of the Hunt is still progressing with pairs of quests a
 
 ### Herding the Herders
 
-- **Unlocked by:** HuntS2 Quest: No Wrong Path (?)
+- **Unlocked by:** HuntS2 Quest: No Wrong Path
 - **Type:** Battle
 - **Requirements:** Defeat 1 each: Lubu, Czanus, Pipit
 - **Rewards:** 25 Hunter Tokens
@@ -200,6 +200,15 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 
 ## Season 2 Monsters
 
+### Attleas
+
+- **Unlocked by:** HuntS2 Quest: No Wrong Path
+- **Requirements:** 350 words
+- **Time allowed:** 30 minutes
+- **XP:** 35
+- **Drops:** 3-4 Hunter Tokens, 2-3 Raw Fabric, 1 Rope, 0-1 Red Dye
+- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
+
 ### Czanus
 
 - **Unlocked by:** The Curator of Elder Library Quest
@@ -209,6 +218,15 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 - **XP:** 70
 - **Drops:** 7 Hunter Tokens, 1-3 Raw Steel, 2-4 Raw Fabric, 0-1 Wood Swords, 0-1 Red Dye, 1-3 Wood
 - **Quests:** HuntS2: Guarding the Path (4)
+
+### Imali (Exp: Dig)
+
+- **Unlocked by:** HuntS2 Quest: No Wrong Path
+- **Requirements:** 150 words
+- **Time allowed:** 15 minutes
+- **XP:** 15
+- **Drops:** 1-2 Hunter Tokens, 1 Raw Fabric
+- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
 
 ### Lubu
 
@@ -229,6 +247,15 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 - **XP:** 90
 - **Drops:** 9 Hunter Tokens, 2-4 Raw Fabric, 0-1 Red Dye, 1-2 Raw Stone, 1-2 Wood
 - **Quests:** HuntS2: State of Rest (4)
+
+### Shashi (Exp: Dig)
+
+- **Unlocked by:** HuntS2 Quest: No Wrong Path
+- **Requirements:** 250 words
+- **Time allowed:** 25 minutes
+- **XP:** 25
+- **Drops:** 2-3 Hunter Tokens, 1-2 Raw Fabric, 0-1 Raw Gold
+- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
 
 ### Velts: Desert
 
@@ -270,34 +297,44 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
   - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
   - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12)
   - Gansu Battles: Pipit (900 words for 9)
-  - DigS, Ruins Battles: Lubu (450 words for 4-5)
+  - DigS Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4), Lubu (450 words for 4-5), Shepherd (1000 words for 10)
+  - Ruins Battles: Lubu (450 words for 4-5)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
-  - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5 Hunter Tokens)
+  - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
+  - Hunt S3 Quests: Moving Flora (10)
 
-- **Late May 2020 Sources Outside the Hunt:**
+- **Late June-July 2020 Sources Outside the Hunt:**
 
-  Late May 2020 sources are Hunt monsters and orange monsters (though often even orangey shades of brown are included).
+  Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
 
-  - LF Battles: Reenu (200 words for 2), Spirit Wignow (450 words for 4-5), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 14)
-  - MT Battles: Tylu (600 words for 6), Illi (700 words for 7), Tambo (2000 words, 4 Rope, & 10 Leaves for 20)
+  - ALIEN METEOROID:
+    - IC Battles: Arir (100 words for 1), Rhan (150 words for 1-2), Maesc (250 words for 2-3), Nartha (350 words for 3-4), Erbor (400 words for 4), Rosarin (500 words for 5), Brachi (600 words for 6)
+    - MS Battles: Arir (100 words for 1), Halix (250 words for 2-3), Ipo (300 words for 3), Galatre (450 words for 4-5), Krang (500 words for 5)
+    - Spaceship Battles: Captain Piak (1667 words for 17), Oxie (100 words for 1), Kolbs (200 words for 2), Kovar (350 words for 3-4), Ledd (500 words for 5), Szalin (700 words for 7), Noit (800 words for 8), Zals (900 words for 9), Skarn (1100 words for 11)
+  - LF Battles: Spirit Wignow (450 words for 4-5)
+  - MT Battles: Vanstra (3 minutes for 1-4)
   - FOREST EXPEDITION:
 
-    - BC Battles: Sacer (120 words for 1)
+    - BC Battles: Hunt monsters only
     - FB Battles: Hunt monsters only
     - SC Battles: Hunt monsters only
-    - TT Battles: Hunt monsters only
-    - GL Battles: Gobkey (400 words for 4)
-  - 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3), Grult (400 words for 4), Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, & 10 Leaves for 20)
-  - Gansu Battles: Frizi (150 words for 1-2), Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Ylly (720 words for 7), Wetu (1100 words for 11), Arenica (1350 words & 1 Steel Dagger for 13-14), Desert Rudakai (1800 words, 10 Leaves, & 1 Leaf Boots for 18)
+    - TT Battles: Scofin (150 words for 1-2), Fin (250 words for 2-3), Finoir (500 words for 5)
+    - GL Battles: Hunt monsters only
+  - 3PC Battles: Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Yasri (1250 words for 12-13)
+  - Gansu Battles: Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Wetu (1100 words for 11)
   - DESERT EXPEDITION: 
 
-    - Dig Battles: Sakish (350 words for 3-4), Kapir (800 words for 8)
-    - Ruins Battles: Ripos (1800 words for 18)
-  - Riza Battles: Frizi (150 words for 1-2), Sparfly (450 words for 4-5)
+    - Dig Battles: Hunt monsters only
+    - Ruins Battles: Hunt monsters only
+  - Riza Battles: Jaihri (485 words for 5), Sparfly (450 words for 4-5), Vota (800 words for 8), Trainee (1000 words for 10)
   - WATER EXPEDITION:
     - not available at this time
-  - Balance Battles: Caricaco (300 words for 3), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 20)
-  - DFO Battles: NONE
+  - Balance Battles: Caricaco (300 words for 3), Spirit Castu (550 words for 4-5, yes, that's 4-5, not 5-6)
+  - DFO Battles: Burhar (1500 words for 15), Molox (666 words and 1 Steel Chain for 6-7), Miclan (5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 50)
+
+- **Sell price:** 10 Coins (don't sell, much better to spend)
+
+- **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

@@ -1,4 +1,4 @@
-LAST UPDATED 26 JUN 2020
+LAST UPDATED 5 JUL 2020
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Water-only otherwise.
 
@@ -384,7 +384,6 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
 
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
-  - Global Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4)
   - FOREST, DESERT
   - Hunt S3 Quests: Moving Flora (10)
 
@@ -392,7 +391,7 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
 
   Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
 
-  - FOREST, DESERT
+  - ALIEN METEOROID, FOREST, DESERT
   - Riza Battles: Jaihri (485 words for 5), Sparfly (450 words for 4-5), Vota (800 words for 8), Trainee (1000 words for 10)
   - WATER EXPEDITION:
     - not available at this time

@@ -1,4 +1,4 @@
-LAST UPDATED 26 JUN 2020
+LAST UPDATED 5 JUL 2020
 
 If you haven't yet, check out my Hunt Intro a couple chapters ago to get a grounding in the Hunt for the Ancients. The "seasons" are important only in that they're released a month at a time, grouped by seasons; once released, the quests can be worked through at any pace you prefer.
 
@@ -318,6 +318,10 @@ Note that monsters average 1 Hunter Token per 100 words, but monsters that do no
 
 Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
 
+- ALIEN METEOROID:
+  - IC Battles: Arir (100 words for 1), Rhan (150 words for 1-2), Maesc (250 words for 2-3), Nartha (350 words for 3-4), Erbor (400 words for 4), Rosarin (500 words for 5), Brachi (600 words for 6)
+  - MS Battles: Arir (100 words for 1), Halix (250 words for 2-3), Ipo (300 words for 3), Galatre (450 words for 4-5), Krang (500 words for 5)
+  - Spaceship Battles: Captain Piak (1667 words for 17), Oxie (100 words for 1), Kolbs (200 words for 2), Kovar (350 words for 3-4), Ledd (500 words for 5), Szalin (700 words for 7), Noit (800 words for 8), Zals (900 words for 9), Skarn (1100 words for 11)
 - LF Battles: Spirit Wignow (450 words for 4-5)
 - MT Battles: Vanstra (3 minutes for 1-4)
 - FOREST EXPEDITION:
@@ -338,7 +342,6 @@ Late June/July 2020 sources are Hunt monsters and monsters with metal and/or roc
   - not available at this time
 - Balance Battles: Caricaco (300 words for 3), Spirit Castu (550 words for 4-5, yes, that's 4-5, not 5-6)
 - DFO Battles: Burhar (1500 words for 15), Molox (666 words and 1 Steel Chain for 6-7), Miclan (5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 50)
-
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 - **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices)
 

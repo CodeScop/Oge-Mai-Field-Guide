@@ -639,7 +639,7 @@ ALL GAME
 
 # G-O
 
-LAST UPDATED 26 JUN 2020
+LAST UPDATED 5 JUL 2020
 
 ### Glass
 
@@ -883,21 +883,25 @@ ALL GAME
 
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
-  - Global Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4)
   - LF Battles: Sassi (600 words for 6)
   - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10)
   - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
   - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12)
   - Gansu Battles: Pipit (900 words for 9)
-  - DigS, Ruins Battles: Lubu (450 words for 4-5)
+  - Dig Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4), Lubu (450 words for 4-5), Shepherd (1000 words for 10)
+  - Ruins Battles: Lubu (450 words for 4-5)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
-  - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25), Valley of the Sheep (25)
+  - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - Hunt S3 Quests: Moving Flora (10)
 
 - **Late June-July 2020 Sources Outside the Hunt:**
 
   Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
 
+  - ALIEN METEOROID:
+    - IC Battles: Arir (100 words for 1), Rhan (150 words for 1-2), Maesc (250 words for 2-3), Nartha (350 words for 3-4), Erbor (400 words for 4), Rosarin (500 words for 5), Brachi (600 words for 6)
+    - MS Battles: Arir (100 words for 1), Halix (250 words for 2-3), Ipo (300 words for 3), Galatre (450 words for 4-5), Krang (500 words for 5)
+    - Spaceship Battles: Captain Piak (1667 words for 17), Oxie (100 words for 1), Kolbs (200 words for 2), Kovar (350 words for 3-4), Ledd (500 words for 5), Szalin (700 words for 7), Noit (800 words for 8), Zals (900 words for 9), Skarn (1100 words for 11)
   - LF Battles: Spirit Wignow (450 words for 4-5)
   - MT Battles: Vanstra (3 minutes for 1-4)
   - FOREST EXPEDITION:
@@ -1210,7 +1214,7 @@ FOREST, DESERT
 
 # P-R
 
-LAST UPDATED 26 JUN 2020
+LAST UPDATED 5 JUL 2020
 
 ### Pickaxe
 
@@ -1308,7 +1312,7 @@ ALL GAME
   - DESERT
     - 3PC Battles: Bruja (900 words for 2-3), Czanus (700 words for 2-4),  Yasri (1250 words for 2-3), Lombri (1500 words and 1 Wood Spear for 3)
     - Gansu Battles:  Pipit (900 words for 2-4), Ylly (720 words for 3), Sparfly (450 words for 1), Suulan (2000 words, 1 Steel Dagger for 2),  Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 3)
-    - DigS Battles: Shepherd (1000 words for 2-6)
+    - Dig Battles: Imali (150 words for 1), Shashi (250 words for 1-2), Attleas (350 words for 2-3), Shepherd (1000 words for 2-6)
     - Dig, Ruins Battles: Lubu (450 words for 1-2)
     - ShrineMar Battles: Osemar (1000 words for 1-4), Balatrix (630 words for 1-2), Balatros (700 words for 1-2), Balatras (785 words for 1-2)
     - ShrineGiant Battles: Giant Dust Spirit (500 words for 1-4), Caravan (5000 words for 5-13)
@@ -1344,7 +1348,7 @@ DESERT, some FOREST, some WATER
   - DESERT
     - Gansu Battles: Suulan (2000 words, 1 Steel Dagger for 1-2), Arenica (1350 words, 1 Steel Dagger for 1), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1)
     - 3PC Golden Chest: 3-6
-    - Dig Battles: Okkorhi (1000 words for 1-2)
+    - Dig Battles: Dig Battles: Shashi (250 words for 0-1), Okkorhi (1000 words for 1-2)
     - Ruins Quest: Searching South (5)
     - ShrineGiant Battles: Takra (500 words for 0-3), Untu Golem (500 words for 0-2)
 - **Buy:** DESERT: 75 Coins at 3PC Blacksmith/Blacksmith Barliar
@@ -1459,7 +1463,7 @@ DESERT, some FOREST, WATER, DUST
   - DESERT
     - 3PC Battles: Bruja (900 words for 1-2), Czanus (700 words for 0-1), Yasri (1250 words for 1)
     - Gansu Battles: Pipit (900 words for 0-1, usually 1 with enough Luck), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 2), Wetu (1100 words for 1), Arenica (1350 words, 1 Steel Dagger for 1)
-    - DigS Battles: Shepherd (1000 words for 1-2)
+    - Dig Battles: Dig Battles: Attleas (350 words for 0-1), Shepherd (1000 words for 1-2)
     - ShrineCar Battles: Thapiolo (1100 words for 1-2)
     - ShrineCO Battles: Roaki (500 words for 1)
     - Shrine GO Battles: Wavi Ooze (330 words for 0-1)
@@ -1708,7 +1712,7 @@ ALL GAME
   - DESERT: 
     - 3PC Battles: Velts: Desert (1200 words for 4-6), Desert Wignow (444 words for 1-2), Bruja (900 words for 1-3), Yasri (1250 words for 2-3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1)
     - Gansu Battles: Desert Wignow (444 words for 1-2)
-    - DigS Battles: Shepherd (1000 words for 1-3)
+    - Dig Battles: Attleas (350 words for 1), Shepherd (1000 words for 1-3)
     - ShrineCar Battles: Upuchu (1400 words for 2-4)
     - Shrine TFA Battles: Untu Ship (500 words for 1-3)
     - Shrine GO Battles: Whaly Ooze (100 words for 0-1), Giant Ooze House (500 words for 1-2), Giant Ooze (1000 words for 1-2)
@@ -2399,7 +2403,7 @@ ALL GAME
     - 3PC Battles: Velts: Desert (1200 words for 4-8), Czanus (700 words for 1-3), Tambo (2000 words, 4 Rope, 10 Leaves, min level 5 for 3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1-2)
     - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
     - Gansu Battles: Pipit (900 words for 1-2)
-    - DigS Battles: Shepherd (1000 words for 1-4)
+    - Dig Battles: Shepherd (1000 words for 1-4)
     - ShrineCar Battles: Roica (150 words for 1-2), Biironk (420 words for 2-4), Halores (900 words for 3-5)
     - ShrineCO Battles: Fraite (220 words for 2-3), Lekhop (320 words for 1-3)
     - ShrineGiant Battles: Skuppa's Giant Marionette (500 words for 2-4), Guardian (500 words for 1-4), Untu Golem (500 words for 0-7)
