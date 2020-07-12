@@ -1,4 +1,4 @@
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 12 JUL 2020
 
 ## All Monsters: Impact Crater
 
@@ -60,7 +60,7 @@ LAST UPDATED 5 JUL 2020
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 80
 - **Drops:** 8 Fleet Lab Tokens, 2-5 Raw Fabric, 2-3 Dinti, 2-4 Rope,  1-3 Glass Shards
-- **Quests:** Spaceship: An Alien Exam 1/2 (1)
+- **Quests:** Spaceship: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2)
 
 ### Rhan
 
@@ -80,7 +80,7 @@ LAST UPDATED 5 JUL 2020
 - **Time allowed:** 120 minutes (2 hours)
 - **XP:** 50
 - **Drops:** 5 Fleet Lab Tokens, 5 Hunter Tokens, 3-6 Raw Stone, 2-3 Dinti, 0-1 Stone Blocks
-- **Quests:** Spaceship: An Alien Exam 1/2 (1)
+- **Quests:** Spaceship: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2)
 
 ## All Monsters: Mining Site
 
@@ -158,7 +158,7 @@ LAST UPDATED 5 JUL 2020
 - **Drops:** 11 Fleet Lab Tokens, 11 Hunter Tokens, 3-5 Dinti, 3-6 Raw Stone, 1 Stone Block, 2-4 Raw Gold, 1-5 Raw Sandstone, 1-2 Glass Shards
 - **Quests:** 
   - MS: Hard Core Focus (1)
-  - Spaceship: An Alien Exam 1/2 (1)
+  - Spaceship: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2)
 
 ### Zals
 
@@ -168,7 +168,111 @@ LAST UPDATED 5 JUL 2020
 - **Time allowed:** 240 minutes (4 hours)
 - **XP:** 90
 - **Drops:** 9 Fleet Lab Tokens, 3-5 Dinti, 1 Stone Block, 1 Glass Bar, 1-4 Raw Gold, 9 Hunter Tokens
+- **Quests:** Spaceship: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2)
+
+## All Monsters: Research Lab
+
+### Ame
+
+- **Location:** Research Lab
+- **Unlocked by:** Community Challenge: Build Research Lab
+- **Requirements:** 100 words
+- **Time allowed:** 10 minutes
+- **XP:** 10
+- **Drops:** 1 Fleet Lab Token, 1-2 Raw Fabric, 0-1 Glass Shards 
+- **Quests:** 
+  - Spaceship: An Alien Exam 1/2 (1)
+  - RL: Of Dangerous Liquids (25)
+
+### Arenica Hologram
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Experiment: Arenica v Suulan
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
+- **Quests:** none so far
+
+### Doctor Hogglevoss
+
+- **Location:** Research Lab
+- **Unlocked by:** Community Challenge: Build Research Lab
+- **Requirements:** 1200 words
+- **Time allowed:** 770 minutes (12 hours, 50 minutes)
+- **XP:** 120
+- **Drops:** 1-3 Pieces of Parchment, 0-2 Fine Fabric, 12 Fleet Lab Tokens, 4 Dinti, 1 Glass Bar, 12 Hunter Tokens
 - **Quests:** Spaceship: An Alien Exam 1/2 (1)
+
+### Ferenti
+
+- **Location:** Research Lab
+- **Unlocked by:** Community Challenge: Build Research Lab
+- **Requirements:** 750 words
+- **Time allowed:** 300 minutes (5 hours)
+- **XP:** 75
+- **Drops:** 7-8 Fleet Lab Tokens, 1-3 Dinti, 2-5 Raw Steel, 0-1 Steel Bars, 1-4 Rope, 7-8 Hunter Tokens
+- **Quests:** none so far
+
+### Gwynos
+
+- **Location:** Research Lab
+- **Unlocked by:** Community Challenge: Build Research Lab
+- **Requirements:** 450 words
+- **Time allowed:** 60 minutes (1 hours)
+- **XP:** 45
+- **Drops:** 0-2 Raw Stone, 4-5 Fleet Lab Tokens, 0-2 Rope
+- **Quests:** none so far
+
+### Maesc Hologram
+
+- **Location:** Research Lab
+- **Unlocked by:** Community Challenge: Build Research Lab
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
+- **Quests:** RL: Mirage of Creatures (5)
+
+### Mowow
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Experiment: Arenica v Suulan
+- **Requirements:** 450 words
+- **Time allowed:** 45 minutes
+- **XP:** 45
+- **Drops:** 4-5 Fleet Lab Tokens, 4-5 Hunter Tokens, 1-2 Dinti, 1-4 Raw Stone, 1-3 Leaves
+- **Quests:** none yet
+
+### Suulan Hologram
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Experiment: Arenica v Suulan
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
+- **Quests:** none so far
+
+### Wignow Hologram
+
+- **Location:** Research Lab
+- **Unlocked by:** Community Challenge: Build Research Lab
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
+- **Quests:** RL: Mirage of Creatures (5)
+
+### Zoomga!
+
+- **Location:** Research Lab
+- **Unlocked by:** Community Challenge: Build Research Lab
+- **Requirements:** 300 words
+- **Time allowed:** 30 minutes
+- **XP:** 30
+- **Drops:** 3 Fleet Lab Tokens, 3 Hunter Tokens, 3-5 Raw Steel, 2-4 Glass Shards
+- **Quests:** none so far
 
 ## All Monsters: Spaceship
 
@@ -240,4 +344,4 @@ LAST UPDATED 5 JUL 2020
 - **Time allowed:** 90 minutes (1 1/2 hours)
 - **XP:** 70
 - **Drops:** 7 Fleet Lab Tokens, 7 Hunter Tokens, 3-6 Raw Steel, 1-2 Hardwood, 0-1 Steel Bars
-- **Quests:** Spaceship: An Alien Exam 1/2 (1), Dinti Me Up (1)
+- **Quests:** Spaceship: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2), Dinti Me Up (1)

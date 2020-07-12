@@ -1,4 +1,4 @@
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 12 JUL 2020
 
 ## All Quests: Impact Crater
 
@@ -156,6 +156,26 @@ LAST UPDATED 5 JUL 2020
 
 - **Recommendations:** Sure, Skarn can be a bit difficult, but there's some nice rewards in the offing. Up to you!
 
+## All Quests: Research Lab
+
+### Of Dangerous Liquids
+
+- **Location:** Research Lab
+- **Unlocked by:** Community Challenge: Build Research Lab
+- **Type:** Battle
+- **Requirements:** Defeat 25 Ame
+- **Rewards:** Wardrobe: Poison Flask https://4thewords.com/media/wardrobe/featured/male/wm&#95;971-poison-flask-7045-77070.png
+- **Recommendations:** Ame is pretty easy to battle, despite the manic appearance. Low stakes!
+
+### Mirage of Creatures
+
+- **Location:** Research Lab
+- **Unlocked by:** Community Challenge: Build Research Lab
+- **Type:** Battle
+- **Requirements:** Defeat 5 Wignow Holograms and 5 Maesc Holograms
+- **Rewards:** 25 Fleet Lab Tokens
+- **Recommendations:** At your own pace! A nice, easy way to get 25 Fleet Lab Tokens (and another 10 from the battles).
+
 ## All Quests: Spaceship
 
 ### Dinti Me Up
@@ -181,7 +201,23 @@ LAST UPDATED 5 JUL 2020
   - Dr. Hogglevoss
   - Zals
 - **Rewards:** Wardrobe: Lab Coat https://4thewords.com/media/wardrobe/featured/male/wm&#95;904-lab-coat-6386-88941.png
-- **Recommendations:** Pick up as soon as you have space. Be aware that Dr Hogglevoss and Ame are not yet with us (should be available after the Research Lab is built; construction starts Monday 6 Jul) but if you're planning on fighting any of the others anyway, it's nice to have it doubled up.
+- **Recommendations:** Pick up as soon as you have space. If you're planning on fighting any of these anyway, it's nice to have it doubled up.
+
+### Studying Space Scientists (Part 2 of 2)
+
+- **Location:** Spaceship
+- **Unlocked by:** An Alien Exam (Part 1 of 2)
+- **Type:** Battle
+- **Requirements:** Defeat 2 each: 
+  - Nedi
+  - Skarn
+  - Szalin
+  - Rosarin
+  - Ame
+  - Dr. Hogglevoss
+  - Zals
+- **Rewards:** Wardrobe: Graffiti Lab Coat https://4thewords.com/media/wardrobe/featured/female/wf&#95;944-grafitti-lab-coat-6855-53845.png
+- **Recommendations:** No rush at the moment! Take when you like, finish what you like.
 
 ### Security Level Up
 

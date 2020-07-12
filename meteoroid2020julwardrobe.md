@@ -1,4 +1,4 @@
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 9 JUL 2020
 
 This event is unusually full of wardrobe in an unusual number of places! There are two wardrobe stores, multiple quest rewards, and even one monster drop. So I'll go through area by area. Links for previews of all wardrobe variations for things outside the store—for things inside the stores, there are sneak peeks there.
 
@@ -46,20 +46,49 @@ This event is unusually full of wardrobe in an unusual number of places! There a
   - Dinti Swirl Earrings - 30 Dinti and 5 Fleet Lab Tokens
   - Dinti Swirls Necklace - 30 Dinti and 5 Fleet Lab Tokens
 
+### Wardrobe: Research Lab
+
+- The quest **Of Dangerous Liquids** yields the **Poison Flask**, which has seven variants:
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;971-poison-flask-7047-69018.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;971-poison-flask-7048-41068.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;971-poison-flask-7054-15572.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;971-poison-flask-7055-27725.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;971-poison-flask-7056-99193.png
+  - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;971-poison-flask-7057-28195.png
+  - orange: https://4thewords.com/media/wardrobe/featured/female/wf&#95;971-poison-flask-7058-44507.png
+
 ### Wardrobe: Spaceship
 
 - Fighting **Captain Piak** gets you **Piak's Earrings** (first battle unlocks all three variants):
   - dark blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;alien&#95;crystal&#95;earings&#95;blue.png
   - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;alien&#95;crystal&#95;earings&#95;green.png
   - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;alien&#95;crystal&#95;earings&#95;red.png
-- **Dinti Me Up** gives you the **Szalin Eye Patch** (writing this 2 days into the required 3-day streak, so unknown number of variants; sample: https://4thewords.com/media/wardrobe/featured/male/wm&#95;910-engineer-eye-patch-6478-67711.png)
-- **An Alien Exam (Part 1 of 2)** gives us the **Lab Coat**. It is not yet possible to complete, but the news announcement has let us know that there will be six variants:
-  - white: 
-  - red: 
-  - black: https://4thewords.com/media/wardrobe/featured/male/wm&#95;904-lab-coat-6386-88941.png
-  - yellow: 
-  - blue: 
-  - green: 
+- **Dinti Me Up** gives you the **Szalin Eye Patch**, which has 14 variants:
+  - left eye black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;910-engineer-eye-patch-6482-57801.png
+  - right eye dark blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;910-engineer-eye-patch-6488-89161.png
+  - left eye white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;910-engineer-eye-patch-6489-90411.png
+  - right eye black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;910-engineer-eye-patch-6490-92920.png
+  - right eye white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;910-engineer-eye-patch-6491-55914.png
+  - right eye green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;910-engineer-eye-patch-6494-88844.png
+  - left eye dark blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;910-engineer-eye-patch-6495-77828.png
+  - right eye red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;910-engineer-eye-patch-6496-90978.png
+  - left eye green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;910-engineer-eye-patch-6498-31181.png
+  - left eye red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;910-engineer-eye-patch-6499-98524.png
+  - left eye dark purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;910-engineer-eye-patch-6500-35026.png
+  - left eye yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;910-engineer-eye-patch-6501-56807.png
+  - right eye yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;910-engineer-eye-patch-6502-92684.png
+  - right eye dark purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;910-engineer-eye-patch-6503-46627.png
+- **An Alien Exam (Part 1 of 2)** gives us the **Lab Coat**, with seven variants:
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;904-lab-coat-6387-34488.png
+  - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;904-lab-coat-6388-24183.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;904-lab-coat-6389-96839.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;904-lab-coat-6390-70868.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;904-lab-coat-6391-74749.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;904-lab-coat-6392-16868.png
+  - white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;904-lab-coat-6398-82581.png
+- **Studying Space Scientists (Part 2 of 2)** gives us the **Graffiti Lab Coat**, with two variants:
+  - black and neon rainbow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;944-grafitti-lab-coat-6855-53845.png
+  - white and neon rainbow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;944-grafitti-lab-coat-6857-11749.png
 - **Security Level Up** gives us the **Security Hat**, with five variants:
   - pink: https://4thewords.com/media/wardrobe/featured/female/wf&#95;903-security-hat-6377-61648.png
   - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;903-security-hat-6379-96729.png

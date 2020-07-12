@@ -1,4 +1,4 @@
- (Table of Contents last updated 5 Jul 2020)
+ (Table of Contents last updated 9 Jul 2020)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -286,10 +286,12 @@
   - All Meteoroid Quests
     - All Quests: Impact Crater
     - All Quests: Mining Site
+    - All Quests: Research Lab
     - All Quests: Spaceship
   - All Meteoroid Monsters
     - All Monsters: Impact Crater
     - All Monsters: Mining Site
+    - All Monsters: Research Lab
     - All Monsters: Spaceship
   - All Meteoroid Resources
     - Event Special Resources

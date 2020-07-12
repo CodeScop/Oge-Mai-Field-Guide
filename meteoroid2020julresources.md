@@ -1,4 +1,4 @@
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 12 JUL 2020
 
 So, this area has something in common with the Expedition areas: namely, I'm not going to bother naming a single resource that isn't found in this context. If it isn't dropped by an event Monster, or from an event Quest, I'm not including it. 
 
@@ -22,6 +22,7 @@ AREA ABBREVIATIONS:
 - **Other sources:**
   - IC Battles: Rosarin (500 words for 2-3), Maesc (250 words for 1), Nartha (350 words for 1-2), Erbor (400 words for 1-2), Nedi (800 words for 2-3), Brachi (600 words for 2-3)
   - MS Battles: Zals (900 words for 3-5), Galatre (450 words for 2), Krang (500 words for 2), Halix (250 words for 1), Skarn (1100 words for 3-5), Ipo (300 words for 1), Pach (200 words for 1)
+  - RL Battles: Ferenti (750 words for 1-3), Mowow (450 words for 1-2), Doctor Hogglevoss (1200 words for 4)
   - Spaceship Battles: Oxie (100 words for 0-1)
 - **Sell price:** 5 Coins (don't sell till event is over)
 - **Used for:** 
@@ -33,9 +34,11 @@ AREA ABBREVIATIONS:
 - **Sources:** 
   - IC Battles: Arir (100 words for 1), Rhan (150 words for 1-2), Maesc (250 words for 2-3), Nartha (350 words for 3-4), Erbor (400 words for 4), Rosarin (500 words for 5), Brachi (600 words for 6), Nedi (800 words for 8)
   - MS Battles: Arir (100 words for 1), Pach (200 words for 2), Halix (250 words for 2-3), Ipo (300 words for 3), Galatre (450 words for 4-5), Krang (500 words for 5), Zals (900 words for 9), Skarn (1100 words for 11)
+  - RL Battles: Ame (100 words for 1), Arenica Hologram (100 words for 1), Maesc Hologram (100 words for 1), Suulan Hologram (100 words for 1), Wignow Hologram (100 words for 1), Zoomga! (300 words for 3), Mowow (450 words for 4-5), Gwynos (450 words for 4-5), Ferenti (750 words for 7-8), Doctor Hogglevoss (1200 words for 12)
   - Spaceship Battles: Captain Piak (1667 words for 17), Oxie (100 words for 1), Kolbs (200 words for 2), Kovar (350 words for 3-4), Ledd (500 words for 5), Szalin (700 words for 7), Noit (800 words for 8)
   - IC Quests: A Happy Prickle (25), Rock To Dust (25), 
   - MS Quests: Blocked Paths (25)
+  - RL Quests: Mirage of Creatures (25)
   - Spaceship Quests: Security Level Up (25), Top Chef's Assistant (25)
 - **Sell price:** 10 Coins (don't sell until event is over)
 - **Used for:** 
@@ -60,6 +63,7 @@ AREA ABBREVIATIONS:
 ### Fine Fabric
 
 - **Sources:** DESERT, WATER
+  - RL Battles: Doctor Hogglevoss (1200 words for 0-2)
   - Spaceship Battles: Captain Piak (1667 words for 1-4)
 - **Craft:** DESERT
 - **Sell price:** 75 Coins (don't sell unless you have >50)
@@ -75,6 +79,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 
 - **Sources:** DESERT,
   - MS Battles: Zals (900 words for 1)
+  - RL Battles: Doctor Hogglevoss (1200 words for 1)
   - Spaceship Battles: Captain Piak (1667 words for 1-3)
 - **Sell price:** 85 Coins (Don't sell unless you have >50.)
 - **Used for:** FOREST, DESERT, WATER, DUST
@@ -84,6 +89,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 - **Sources:** DESERT, WATER, DUST,
   - IC Battles: Nedi (800 words for 1-3)
   - MS Battles: Skarn (1100 words for 1-2)
+  - RL Battles: Zoomga! (300 words for 2-4), Ame (100 words for 0-1)
   - Spaceship Battles: Ledd (500 words for 1-2), Captain Piak (1667 words for 3-7)
 - **Buy:** DESERT
 - **Sell price:** 12 Coins (make sure you have >100 Glass Shards in stock first, and try to make Glass Bars to sell instead if possible for max profit)
@@ -110,6 +116,7 @@ ALL GAME
 
   - outside game;
   - IC Battles: Arir (100 words for 1), Rhan (150 words for 1-2), Maesc (250 words for 2-3), Nartha (350 words for 3-4), Erbor (400 words for 4), Rosarin (500 words for 5), Brachi (600 words for 6)
+  - RL Battles: Arenica Hologram (100 words for 1), Maesc Hologram (100 words for 1), Suulan Hologram (100 words for 1), Wignow Hologram (100 words for 1), Zoomga! (300 words for 3), Mowow (450 words for 4-5), Ferenti (750 words for 7-8), Doctor Hogglevoss (1200 words for 12)
   - MS Battles: Arir (100 words for 1), Halix (250 words for 2-3), Ipo (300 words for 3), Galatre (450 words for 4-5), Krang (500 words for 5)
   - Spaceship Battles: Captain Piak (1667 words for 17), Oxie (100 words for 1), Kolbs (200 words for 2), Kovar (350 words for 3-4), Ledd (500 words for 5), Szalin (700 words for 7), Noit (800 words for 8), Zals (900 words for 9), Skarn (1100 words for 11)
 
@@ -117,11 +124,28 @@ ALL GAME
 
 - **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices)
 
+### Leaves
+
+- **Sources:** 
+  - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2), Vi (5 minutes for 1-4)
+  - RL Battles: Mowow (450 words for 1-3)
+- **Buy:** 8 Coins in Item Shop/Alex's Shop
+- **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
+- **Used for:** outside game
+
+### Piece of Parchment
+
+- **Sources:** outside game,
+  - RL Battles: Doctor Hogglevoss (1200 words for 1-3)
+- **Sell price:** 10 Coins (don't sell, not worth it)
+- **Used for:** outside game
+
 ### Raw Fabric
 
 - **Best sources:** DESERT, WATER,
   - Anywhere Battles: Xin (100 words for 0-1)
   - IC Battles: Nedi (800 words for 2-5)
+  - RL Battles: Ame (100 words for 1-2)
   - Spaceship Battles: Kovar (350 words for 1-2), Noit (800 words for 2-5)
 - **Other sources:** FOREST, DUST
 - **Buy:** DESERT
@@ -149,6 +173,7 @@ ALL GAME
 
 - **Sources:** DESERT, WATER, DUST
   - IC Battles: Brachi (600 words for 2-5)
+  - RL Battles: Zoomga! (300 words for 3-5), Arenica Hologram (100 words for 1), Maesc Hologram (100 words for 1), Suulan Hologram (100 words for 1), Wignow Hologram (100 words for 1), Ferenti (750 words for 2-5)
   - Spaceship Battles: Szalin (700 words for 3-6), Kovar (350 words for 1-3), Noit (800 words for 2-4)
 - **Buy:** DESERT
 - **Sell price:** 8 Coins (DO NOT SELL. You will need this to craft SO MANY STEEL BARS.)
@@ -160,6 +185,7 @@ ALL GAME
   - Anywhere Battles: Xin (100 words for 0-1)
   - IC Battles: Arir (100 words for 1-2), Rhan (150 words for 1-2), Maesc (250 words for 1-3), Rosarin (500 words for 3-6), Nartha (350 words for 1-3), Erbor (400 words for 1-4), Brachi (600 words for 2-5)
   - MS Battles: Arir (100 words for 1-2), Galatre (450 words for 2-5), Pach (200 words for 1-2), Halix (250 words for 1-3), Ipo (300 words for 1-3), Krang (500 words for 1-5), Skarn (1100 words for 3-6)
+  - RL Battles: Mowow (450 words for 1-4), Gwynos (450 words for 0-2)
   - Spaceship Battles: Oxie (100 words for 1-2), Kolbs (200 words for 1-2)
 - **Sell price:** 8 Coins (don't sell unless you have >100)
 - **Used for:** FOREST, DESERT, WATER
@@ -171,6 +197,7 @@ ALL GAME
 - **Other sources:** WATER, DUST
   - Anywhere Battles: Viyusa (25 minutes for 2-7)
   - IC Battles: Nedi (800 words for 2-4)
+  - RL Battles: Ferenti (750 words for 1-4), Gwynos (450 words for 0-2)
   - Spaceship Battles: Noit (800 words for 1-4)
 - **Buy:** FOREST, WATER, DESERT
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
@@ -185,6 +212,7 @@ See **Steel Bar**.
 The game usually simply calls this **Steel**. I like to make sure I'm distinguishing between this and the dozen other Steel things, so I call 'em Steel Bars.
 
 - **Sources:** DESERT, DUST
+  - RL Battle: Ferenti (750 words for 0-1)
   - Spaceship Battles: Ledd (500 words for 1), Szalin (700 words for 0-1)
 - **Sell price:** 35 Coins (NEVER SELL. YOU CANNOT HAVE ENOUGH.)
 - **Used for:** FOREST, DESERT, WATER, DUST
