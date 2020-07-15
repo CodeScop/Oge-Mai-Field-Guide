@@ -1,4 +1,4 @@
-LAST UPDATED 12 JUL 2020
+LAST UPDATED 14 JUL 2020
 
 ## All Monsters: Impact Crater
 
@@ -224,6 +224,16 @@ LAST UPDATED 12 JUL 2020
 - **Drops:** 0-2 Raw Stone, 4-5 Fleet Lab Tokens, 0-2 Rope
 - **Quests:** none so far
 
+### Lombri Hologram
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Experiment: Lombri v Xin
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
+- **Quests:** none so far
+
 ### Maesc Hologram
 
 - **Location:** Research Lab
@@ -242,6 +252,16 @@ LAST UPDATED 12 JUL 2020
 - **Time allowed:** 45 minutes
 - **XP:** 45
 - **Drops:** 4-5 Fleet Lab Tokens, 4-5 Hunter Tokens, 1-2 Dinti, 1-4 Raw Stone, 1-3 Leaves
+- **Quests:** none yet
+
+### Sulanica
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Experiment: Lombri v Xin
+- **Requirements:** 1000 words
+- **Time allowed:** 240 minutes (4 hours)
+- **XP:** 100
+- **Drops:** 10 Fleet Lab Tokens, 0-1 White Fur, 0-1 Sacred Feathers, 1 Raw Gold, 2-3 Raw Fabric, 1-3 Glass Shards, 1-2 Fine Fabric
 - **Quests:** none yet
 
 ### Suulan Hologram
@@ -263,6 +283,16 @@ LAST UPDATED 12 JUL 2020
 - **XP:** 10
 - **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
 - **Quests:** RL: Mirage of Creatures (5)
+
+### Xin Hologram
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Experiment: Lombri v Xin
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
+- **Quests:** none so far
 
 ### Zoomga!
 
