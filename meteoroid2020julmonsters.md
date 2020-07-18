@@ -1,4 +1,4 @@
-LAST UPDATED 14 JUL 2020
+LAST UPDATED 18 JUL 2020
 
 ## All Monsters: Impact Crater
 
@@ -234,6 +234,16 @@ LAST UPDATED 14 JUL 2020
 - **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
 - **Quests:** none so far
 
+### Lubu Hologram
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Experiment: Sassi v Lubu
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
+- **Quests:** none so far
+
 ### Maesc Hologram
 
 - **Location:** Research Lab
@@ -253,6 +263,16 @@ LAST UPDATED 14 JUL 2020
 - **XP:** 45
 - **Drops:** 4-5 Fleet Lab Tokens, 4-5 Hunter Tokens, 1-2 Dinti, 1-4 Raw Stone, 1-3 Leaves
 - **Quests:** none yet
+
+### Sassi Hologram
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Experiment: Sassi v Lubu
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
+- **Quests:** none so far
 
 ### Sulanica
 
@@ -293,6 +313,16 @@ LAST UPDATED 14 JUL 2020
 - **XP:** 10
 - **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
 - **Quests:** none so far
+
+### Xomri
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Experiment: Sassi v Lubu
+- **Requirements:** 300 words
+- **Time allowed:** 30 minutes
+- **XP:** 30
+- **Drops:** 3 Fleet Lab Tokens, 1 Raw Fabric, 1-2 Leaves, 1 Raw Stone, 1 Wood
+- **Quests:** none yet
 
 ### Zoomga!
 

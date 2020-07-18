@@ -1,4 +1,4 @@
-LAST UPDATED 14 JUL 2020
+LAST UPDATED 18 JUL 2020
 
 It's Camp NaNo time! Welcome to the **Alien Meteoroid Expedition**!
 
@@ -13,6 +13,7 @@ I'll be trying to keep up with this space (although I have times when I'm Very B
 
 ###List of Kirala-Defined Phases For This Event:
 
+- Experiment: Sassi v Lubu: Jul 17-20: I find Xomri a little disturbing, but hey. Next experiment is cats and dogs and WHAT'S NEXT, because this is the last Experiment of its kind...
 - Experiment: Lombri v Xin: Jul 14-17: Sulanica is AMAZING. Let's see what happens with Lombri and Xin. (ClouDragon has an excellent artist's rendering of a possible result halfway down this page: https://4thewords.com/forum/thread/guessing-the-next-match-up)
 - Experiment: Arenica v Suulan: Jul 11-14: Voting by battle again! Mowow is the result of Maesc & Wignow, and now the Arenica Hologram and Suulan Hologram are dropping the same as other holograms
 - Experiment: Wignow v Maesc: Jul 8-11: We're voting by battle! There are holograms of the Wignow and Maesc in the Research Lab for us to fight. Drops are identical; the only difference is which you want more of in the hybrid result!
