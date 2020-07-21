@@ -1,4 +1,4 @@
-LAST UPDATED 12 JUL 2020
+LAST UPDATED 21 JUL 2020
 
 ## All Quests: Impact Crater
 
@@ -158,6 +158,27 @@ LAST UPDATED 12 JUL 2020
 
 ## All Quests: Research Lab
 
+### Projecting Light
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Large Experiment
+- **Type:** Battle
+- **Requirements:** Defeat 10 each:
+  - Wignow Hologram/V0.44
+  - Suulan Hologram/V0.44
+  - Sassi Hologram/V0.44
+  - Lombri Hologram/V0.44
+  - Maesc Hologram/V0.44
+  - Lubu Hologram/V0.44
+  - Xin Hologram/V0.44
+  - Arenica Hologram/V0.44
+  - Tambo Hologram/V0.44
+  - Nuig Hologram/V0.44
+  - Kiru Hologram/V0.44
+  - Zanthei Hologram/V0.44
+- **Rewards:** Wardrobe: Monster Hologram Pet https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7226-90927.png
+- **Recommendations:** PICK THIS UP SOON. We have been promised that we have indefinite time to complete this; we have not been promised indefinite time to pick up. And this is a cutie of a hologram pet!
+
 ### Of Dangerous Liquids
 
 - **Location:** Research Lab
@@ -166,6 +187,19 @@ LAST UPDATED 12 JUL 2020
 - **Requirements:** Defeat 25 Ame
 - **Rewards:** Wardrobe: Poison Flask https://4thewords.com/media/wardrobe/featured/male/wm&#95;971-poison-flask-7045-77070.png
 - **Recommendations:** Ame is pretty easy to battle, despite the manic appearance. Low stakes!
+
+### Life's an Experiment
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Preparing For Large Experiment
+- **Type:** Battle
+- **Requirements:** Defeat 3 each:
+  - Sulanica
+  - Mowow
+  - Xomri
+  - Sabu
+- **Rewards:** Wardrobe: Toothless Smile https://4thewords.com/media/wardrobe/featured/male/wm&#95;969-toothless-smile-7039-23134.png
+- **Recommendations:** No hurries, but... why not? This is a fun one.
 
 ### Mirage of Creatures
 

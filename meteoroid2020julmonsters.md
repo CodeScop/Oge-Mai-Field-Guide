@@ -1,4 +1,4 @@
-LAST UPDATED 18 JUL 2020
+LAST UPDATED 21 JUL 2020
 
 ## All Monsters: Impact Crater
 
@@ -192,7 +192,7 @@ LAST UPDATED 18 JUL 2020
 - **Time allowed:** 15 minutes
 - **XP:** 10
 - **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
-- **Quests:** none so far
+- **Quests:** RL: Projecting Light (10)
 
 ### Doctor Hogglevoss
 
@@ -224,6 +224,16 @@ LAST UPDATED 18 JUL 2020
 - **Drops:** 0-2 Raw Stone, 4-5 Fleet Lab Tokens, 0-2 Rope
 - **Quests:** none so far
 
+### Kiru Hologram
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Large Experiment
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
+- **Quests:** RL: Projecting Light (10)
+
 ### Lombri Hologram
 
 - **Location:** Research Lab
@@ -232,7 +242,7 @@ LAST UPDATED 18 JUL 2020
 - **Time allowed:** 15 minutes
 - **XP:** 10
 - **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
-- **Quests:** none so far
+- **Quests:** RL: Projecting Light (10)
 
 ### Lubu Hologram
 
@@ -242,7 +252,7 @@ LAST UPDATED 18 JUL 2020
 - **Time allowed:** 15 minutes
 - **XP:** 10
 - **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
-- **Quests:** none so far
+- **Quests:** RL: Projecting Light (10)
 
 ### Maesc Hologram
 
@@ -252,7 +262,7 @@ LAST UPDATED 18 JUL 2020
 - **Time allowed:** 15 minutes
 - **XP:** 10
 - **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
-- **Quests:** RL: Mirage of Creatures (5)
+- **Quests:** RL: Mirage of Creatures (5), Projecting Light (10)
 
 ### Mowow
 
@@ -262,7 +272,27 @@ LAST UPDATED 18 JUL 2020
 - **Time allowed:** 45 minutes
 - **XP:** 45
 - **Drops:** 4-5 Fleet Lab Tokens, 4-5 Hunter Tokens, 1-2 Dinti, 1-4 Raw Stone, 1-3 Leaves
-- **Quests:** none yet
+- **Quests:** RL: Life's an Experiment (3)
+
+### Nuig Hologram
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Large Experiment
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
+- **Quests:** RL: Projecting Light (10)
+
+### Sabu
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Preparing For Large Experiment
+- **Requirements:** 500 words
+- **Time allowed:** 30 minutes
+- **XP:** 50
+- **Drops:** 5 Fleet Lab Tokens, 1-2 Raw Fabric, 1 Rope, 1 Wood, 0-1 Raw Steel
+- **Quests:** RL: Life's an Experiment (3)
 
 ### Sassi Hologram
 
@@ -272,7 +302,7 @@ LAST UPDATED 18 JUL 2020
 - **Time allowed:** 15 minutes
 - **XP:** 10
 - **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
-- **Quests:** none so far
+- **Quests:** RL: Projecting Light (10)
 
 ### Sulanica
 
@@ -282,7 +312,7 @@ LAST UPDATED 18 JUL 2020
 - **Time allowed:** 240 minutes (4 hours)
 - **XP:** 100
 - **Drops:** 10 Fleet Lab Tokens, 0-1 White Fur, 0-1 Sacred Feathers, 1 Raw Gold, 2-3 Raw Fabric, 1-3 Glass Shards, 1-2 Fine Fabric
-- **Quests:** none yet
+- **Quests:** RL: Life's an Experiment (3)
 
 ### Suulan Hologram
 
@@ -292,7 +322,17 @@ LAST UPDATED 18 JUL 2020
 - **Time allowed:** 15 minutes
 - **XP:** 10
 - **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
-- **Quests:** none so far
+- **Quests:** RL: Projecting Light (10)
+
+### Tambo Hologram
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Large Experiment
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
+- **Quests:** RL: Projecting Light (10)
 
 ### Wignow Hologram
 
@@ -302,7 +342,7 @@ LAST UPDATED 18 JUL 2020
 - **Time allowed:** 15 minutes
 - **XP:** 10
 - **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
-- **Quests:** RL: Mirage of Creatures (5)
+- **Quests:** RL: Mirage of Creatures (5), Projecting Light (10)
 
 ### Xin Hologram
 
@@ -312,7 +352,7 @@ LAST UPDATED 18 JUL 2020
 - **Time allowed:** 15 minutes
 - **XP:** 10
 - **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
-- **Quests:** none so far
+- **Quests:** RL: Projecting Light (10)
 
 ### Xomri
 
@@ -322,7 +362,17 @@ LAST UPDATED 18 JUL 2020
 - **Time allowed:** 30 minutes
 - **XP:** 30
 - **Drops:** 3 Fleet Lab Tokens, 1 Raw Fabric, 1-2 Leaves, 1 Raw Stone, 1 Wood
-- **Quests:** none yet
+- **Quests:** RL: Life's an Experiment (3)
+
+### Zanthei Hologram
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Large Experiment
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
+- **Quests:** RL: Projecting Light (10)
 
 ### Zoomga!
 

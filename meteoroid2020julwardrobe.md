@@ -1,4 +1,4 @@
-LAST UPDATED 9 JUL 2020
+LAST UPDATED 21 JUL 2020
 
 This event is unusually full of wardrobe in an unusual number of places! There are two wardrobe stores, multiple quest rewards, and even one monster drop. So I'll go through area by area. Links for previews of all wardrobe variations for things outside the store—for things inside the stores, there are sneak peeks there.
 
@@ -48,6 +48,7 @@ This event is unusually full of wardrobe in an unusual number of places! There a
 
 ### Wardrobe: Research Lab
 
+- The quest **Life's An Experiment** gives us the **Toothless Smile**:  https://4thewords.com/media/wardrobe/featured/male/wm&#95;969-toothless-smile-7039-23134.png
 - The quest **Of Dangerous Liquids** yields the **Poison Flask**, which has seven variants:
   - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;971-poison-flask-7047-69018.png
   - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;971-poison-flask-7048-41068.png
@@ -56,6 +57,20 @@ This event is unusually full of wardrobe in an unusual number of places! There a
   - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;971-poison-flask-7056-99193.png
   - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;971-poison-flask-7057-28195.png
   - orange: https://4thewords.com/media/wardrobe/featured/female/wf&#95;971-poison-flask-7058-44507.png
+- The quest **Projecting Light** gives us the **Monster Hologram Pet** in twelve (!!) distinct variants:
+  - Lombri: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7226-90927.png
+  - Suulan: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7228-18901.png
+  - Tambo: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7231-77886.png
+  - Sassi: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7233-18804.png
+  - Kiru: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7234-43256.png
+  - Nuig: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7239-90986.png
+  - Arenica: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7240-17338.png
+  - Zanthei: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7244-56745.png
+  - Lubu: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7246-42512.png
+  - Kiru again (probably to be deleted, is 13th): https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7234-43256.png
+  - Xin: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7248-46866.png
+  - Maesc: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7249-49785.png
+  - Wignow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7250-97222.png
 
 ### Wardrobe: Spaceship
 
