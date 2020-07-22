@@ -13,7 +13,7 @@ I'll be trying to keep up with this space (although I have times when I'm Very B
 
 ###List of Kirala-Defined Phases For This Event:
 
-- Large Experiment: Jul 21-?: I see nothing good coming from mixing Tambo, Kiru, Nuig, and Zanthei. We'll see what happens.
+- Large Experiment: Jul 21- Jul 24: I see nothing good coming from mixing Tambo, Kiru, Nuig, and Zanthei. We'll see what happens.
 - Preparing For Large Experiment: Jul 20-21: This is going to be very short, and it's mostly a chance to play around with the new quest involving the matchup results.
 - Experiment: Sassi v Lubu: Jul 17-20: I find Xomri a little disturbing, but hey. Next experiment is cats and dogs and WHAT'S NEXT, because this is the last Experiment of its kind...
 - Experiment: Lombri v Xin: Jul 14-17: Sulanica is AMAZING. Let's see what happens with Lombri and Xin. (ClouDragon has an excellent artist's rendering of a possible result halfway down this page: https://4thewords.com/forum/thread/guessing-the-next-match-up)

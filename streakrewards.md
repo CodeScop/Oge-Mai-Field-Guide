@@ -1,4 +1,4 @@
-LAST UPDATED 4 MAY 2020
+LAST UPDATED 21 JUL 2020
 
 Streak rewards! The nice perks gained by maintaining your streak. **Feel free to skip straight down to the list that's all you care about, but note there's a reason I also list Wings separately at the end.**
 
@@ -345,6 +345,28 @@ Day 1622: 2 Bones Chests
 Day 1642: Color Gold Wings
 
 Day 1666: 50 Rope
+
+Day 1680: 10 Love Reactions
+
+Day 1700: 10 Core Crystals
+
+Day 1711: 5 Leafsung Ink
+
+Day 1744: 10 Nets
+
+Day 1750: 10 On Fire Reactions
+
+Day 1770: 10 Stempos
+
+Day 1785: 3 Golden Chests
+
+Day 1800: 10 Core Crystals
+
+Day 1825: Wardrobe: Crystal Wings
+
+Day 1850: 10 Stempos
+
+Day 1860: 10 Hero Reactions
 
 ### Wings
 
