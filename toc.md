@@ -1,4 +1,4 @@
- (Table of Contents last updated 9 Jul 2020)
+ (Table of Contents last updated 25 Jul 2020)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -203,7 +203,9 @@
   - Monsters: Floating City of Balance
   - List of Available Quests: Post Floating City of Balance
 - Hunt: Season 3 - Growth (WATER)
-  - Season 3 Quests
+  - Season 3 Quests - The Main Line
+  - Season 3 Quests - Growing Sideline
+  - Season 3 Quests - Miscellaneous
   - Season 3 Monsters
   - Season 3 Resources
   - Hunt for the Ancients Season 3 Summary
@@ -279,6 +281,7 @@
       - Mining Site
       - Spaceship
   - New This Phase
+    - The Only Thing That's New With Giant Zanutaki
     - New Quests (Phase)
     - Pick Up ASAP
     - New Monsters (Phase)

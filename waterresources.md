@@ -1,4 +1,4 @@
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 25 JUL 2020
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Water-only otherwise.
 
@@ -301,6 +301,7 @@ The game usually simply calls this **Gold**. Since I call the parallel things fo
 - **Used for:** 
   - DESERT
   - Craft Balance: Reinforced Steel Breastplate (2), Reinforced Steel Helmet (1)
+  - HuntS3 Quest: Helping Those In Need Grow (1)
 
 ### Golden Chest
 
@@ -378,14 +379,22 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
 - **Used for:** HuntS3 Quest: To Grow & Change (1)
 
+### Hunt Map Piece 8
+
+- **Source:** HuntS3 Quest: Flying Past Sparks (1)
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** HuntS3 Quest: Bettering Ourselves (1)
+
 ### Hunter Tokens
 
 - **Hunt Sources:** 
 
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
-  - FOREST, DESERT
-  - Hunt S3 Quests: Moving Flora (10)
+  - HUNTS1, HUNTS2, FOREST, DESERT
+  - Ruins Battles: Lubu (450 words for 4-5)
+  - Balance Battles: Velts: Water (1600 words for 16)
+  - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25)
 
 - **Late June-July 2020 Sources Outside the Hunt:**
 
@@ -584,6 +593,7 @@ FOREST ONLY
   - FOREST
   - Limited-availability battles in Riza Main Quest sequence
   - Riza Battles: Trainee (1000 words, 20 Coins for 2-3), Sparfly (450 words for 1)
+  - Balance Battles: Velts: Water (1600 words for 1-4)
 - **Buy:** DESERT
 - **Sell price:** 8 Coins (don't sell unless you have >200; if you also have Red Dye and Essence, craft Fine Fabric for a better sell option)
 - **Used for:** 
@@ -616,6 +626,7 @@ FOREST ONLY
 - **Best sources:** 
   - DESERT, FOREST EXPEDITION
   - Riza Battles: Sparfly (450 words for 1-2)
+  - Balance Battles: Velts: Water (1600 words for 3-6)
 - **Other sources:** 
   - Limited-availability battles in Riza Main Quest sequence
   - Riza Battles: Patliadu (750 words, 1 Harpoon for 1-2), Vota (800 words, 2 Rope, 2 River Grass for 1-2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1-2)
@@ -709,7 +720,7 @@ FOREST ONLY
 - **Other sources:** Buy,
   - Riza Stone Chest: 7-12
   - Riza Battles: Wyvern (1300 words for 2-5), Osaril (300 words, 1 Vine Net for 1), Furoxi (400 words, 1 Steel Fishing Rod for 1), Patliadu (750 words, 1 Harpoon for 2), Vota (800 words, 2 Rope, 2 River Grass for 2), Yala (520 words, 2 Rope, 2 River Grass for 1), Trainee (1000 words, 20 Coins for 2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 2-3)
-  - Balance Battles: Furoxi (400 words, 1 Steel Fishing Rod for 1), River Goddess (5000 words for 5), Sliv (550 words, 1 Water Mask for 1), Isartu (720 words for 1), Nuig (850 words, 1 Water Mask for 1), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 1-3), Water Rudakai (1600 words, 3 Reinforced Rope for 1-2), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 1-3)
+  - Balance Battles: Velts: Water (1600 words for 2-4), Furoxi (400 words, 1 Steel Fishing Rod for 1), River Goddess (5000 words for 5), Sliv (550 words, 1 Water Mask for 1), Isartu (720 words for 1), Nuig (850 words, 1 Water Mask for 1), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 1-3), Water Rudakai (1600 words, 3 Reinforced Rope for 1-2), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 1-3)
 - **Buy:** 100 Coins in Item Shop/Luko's Inn
 - **Sell price:** 30 Coins (Don't sell unless you have >500)
 - **Used for:** DESERT,
@@ -771,7 +782,7 @@ FOREST ONLY
 - **Other sources:** Buy,
   - Anywhere Battles: Viyusa (25 minutes for 2-7)
   - Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 1-3), Vota (800 words, 2 Rope, and 2 River Grass for 2-3), Yala (520 words, 2 Rope, and 2 River Grass for 1)
-  - Balance Battles: Isartu (720 words for 2-4)
+  - Balance Battles: Velts: Water (1600 words for 4-9), Isartu (720 words for 2-4)
 - **Buy:** 8 Coins in Item Shop/Luko's Inn, FOREST, DESERT
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
 - **Used for:** 
@@ -782,18 +793,18 @@ FOREST ONLY
 
 ### Rusty Amulet
 
-​	ONLY USED FOR PRIOR GAME AND EQUIPPING
-
-- FOREST, DESERT
+- **Sources:** FOREST
 - **Sell price:** 11 Coins (Don't sell, not worth it)
+- **Used for:** DESERT,
+  - HuntS3 Quest: Helping Those In Need Grow (10)
 - **Equip:** Accessory: +0 Attack, +0 Defense, +1 Luck
 
 ### Rusty Pendant
 
-​	ONLY USED FOR PRIOR GAME AND EQUIPPING
-
-- FOREST, DESERT
+- **Sources:** FOREST
 - **Sell price:** 24 Coins (Don't sell unless you have >25)
+- **Used for:** DESERT,
+  - HuntS3 Quest: Helping Those In Need Grow (5)
 - **Equip:** Accessory: +0 Attack, +1 Defense, +2 Luck
 
 ### Sacred Feather
@@ -1080,6 +1091,7 @@ As with the Stone Chest, I'm going to keep the DESERT info available here becaus
 
 - **Best sources:** 
   - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2)
+  - Balance Battles: Velts: Water (1600 words for 5-10)
   - FOREST
 - **Other sources:** DESERT,
   - Riza Battles: Jaihri (485 words for 1)

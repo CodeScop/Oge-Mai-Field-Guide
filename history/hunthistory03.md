@@ -1,4 +1,4 @@
-LAST UPDATED 26 JUN 2020
+LAST UPDATED 25 JUL 2020
 
 Halfway through the year, we're opening the third Season!
 
@@ -59,3 +59,37 @@ Late June/July 2020 sources are Hunt monsters and monsters with metal and/or roc
 - Ankle Boots - 80 Hunter Tokens
 - Travel Trench Coat - 150 Hunter Tokens
 
+# Late July 2020
+
+### New Quests: Late Jul 2020
+
+- Flying Past Sparks
+- Problems Feed Solutions
+- Of Vibrant Growth
+- Battle of Constitution (3/4)
+- Bettering Ourselves
+- Growing Your Perception 2/3
+- Growing Your Tenacity 3/3
+
+### New Hunt Monsters: Late Jul 2020
+
+I'm rethinking the statement that last month had no new S3 monsters. Vanstra emerged last month in MT, and this month Vanspi has shown up in 3PC. Still, they're available without unlocking the Hunt; I'll still refrain from listing them as Hunt monsters for now.
+
+- Velts: Water
+
+### New Resources: Late Jul 2020
+
+- Hunt Map Piece 8
+
+### Hunter Token Sources: Late Jul 2020
+
+Same as the rest of the month; we're waiting to switch the token drops till the Meteoroid event ends Aug 4. I'll update with the August tokens then.
+
+### New Wardrobe Items: Late Jul 2020
+
+- Arms Geometric Tattoo - 25 Hunter Tokens
+- Bulky Arrow Tattoo - 25 Hunter Tokens
+- Geometric Labyrinth Tattoo - 25 Hunter Tokens
+- Geometric Lines Tattoo - 25 Hunter Tokens
+- Limb Lines Tattoo - 25 Hunter Tokens
+- Valknut Tattoo - 25 Hunter Tokens

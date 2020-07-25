@@ -1,4 +1,4 @@
-LAST UPDATED 27 JUN 2020
+LAST UPDATED 25 JUL 2020
 
 Here we have everything from Three Points Crossing and Gansu Watering Hole, barring any Hunt info that doesn't apply to Hunter Tokens. Use wisely. :) Anything that says FOREST or FOREST EXPEDITION can be looked up in more detail under Forest Resources.
 
@@ -23,7 +23,7 @@ Here we have everything from Three Points Crossing and Gansu Watering Hole, barr
   - Anywhere Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
 - **Other sources:** FOREST, 
   - sell items (River Grass and Gold Bars can be especially good for this; Raw Fabric can also be useful. Protective Mantles may also be sold.)
-  - 3PC Battles: Villager (1300 words, 1 Spider Poison, and 5 Leaves for 3-7)
+  - 3PC Battles: Vanspi (10 minutes for 10-40), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 3-7)
 - **Buy: **FOREST
 - **Used for:** Buy misc items;
   - FOREST
@@ -360,18 +360,18 @@ This actually isn't available yet, but a quest requiring it pops up as soon as R
 
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
-  - Global Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4)
   - FOREST
-  - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12)
+  - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12), Vanspi (10 minutes for 2-8)
   - Gansu Battles: Pipit (900 words for 9)
-  - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25), Valley of the Sheep (25)
+  - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
+  - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - later game
 
 - **Late June-July 2020 Sources Outside the Hunt:**
 
   Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
 
-  - FOREST
+  - ALIEN METEOROID, FOREST
   - 3PC Battles: Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Yasri (1250 words for 12-13)
   - Gansu Battles: Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Wetu (1100 words for 11)
   - later game
@@ -567,10 +567,10 @@ FOREST ONLY
 
 ### Raw Sandstone
 
-- **Best source:**Buy,
+- **Best source:** Buy,
   - 3PC & Gansu Battles: Rulo (550 words for 2-3)
 - **Other sources:** Buy, 
-  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 1-2)
+  - 3PC Battles: Vanspi (10 minutes for 1-5), Lombri (1500 words and 1 Wood Spear for 1-2)
   - Gansu Battles: Wetu (1100 words for 3), Sparfly (450 words for 1-2, rarely 0), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1-2)
 - **Buy: **50 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 12 Coins (don't sell unless you have >100)

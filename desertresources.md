@@ -1,4 +1,4 @@
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 25 JUL 2020
 
 Summary of everything available in the DESERT. (Yes, now including Shrine of Ages!) Abbreviations:
 
@@ -43,7 +43,7 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
   - Anywhere Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
 - **Other sources:** FOREST, 
   - sell items (River Grass and Gold Bars can be especially good for this; Raw Fabric can also be useful. Protective Mantles may also be sold.)
-  - 3PC Battles: Villager (1300 words, 1 Spider Poison, and 5 Leaves for 3-7)
+  - 3PC Battles: Vanspi (10 minutes for 10-40),  (1300 words, 1 Spider Poison, and 5 Leaves for 3-7)
   - Shrine TFA Battles: Fools' Lorsa (150 words for 1-4), Witch's Memoirs (500 words for 0-8), Fools' Lorsa Halloween (100 words for 0-4), Lupo (450 words for 0-2)
   - ShrineBird Battles: Katock (500 words for 2-5)
   - ShrineGiant Battles: Takra (500 words for 2-5)
@@ -439,19 +439,19 @@ This actually isn't available yet, but a quest requiring it pops up as soon as R
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
   - FOREST
-  - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12)
+  - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12), Vanspi (10 minutes for 2-8)
   - Gansu Battles: Pipit (900 words for 9)
   - Dig Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4), Lubu (450 words for 4-5), Shepherd (1000 words for 10)
   - Ruins Battles: Lubu (450 words for 4-5)
+  - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
-  - Hunt S3 Quests: Moving Flora (10)
+  - later game
 
 - **Late June-July 2020 Sources Outside the Hunt:**
 
   Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
 
-  - ALIEN METEOROID
-  - FOREST
+  - ALIEN METEOROID, FOREST
   - 3PC Battles: Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Yasri (1250 words for 12-13)
   - Gansu Battles: Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Wetu (1100 words for 11)
   - DESERT EXPEDITION: 
@@ -693,11 +693,11 @@ FOREST ONLY
 
 ### Raw Sandstone
 
-- **Best source:**Buy,
+- **Best source:** Buy,
   - 3PC & Gansu Battles: Rulo (550 words for 2-3)
   - Dig Battles: Loi (150 words for 1-2)
 - **Other sources:** Buy, 
-  - 3PC Battles: Velts: Desert (1200 words for 1-3), Lombri (1500 words and 1 Wood Spear for 1-2)
+  - 3PC Battles: Vanspi (10 minutes for 1-5), Velts: Desert (1200 words for 1-3), Lombri (1500 words and 1 Wood Spear for 1-2)
   - Gansu Battles: Wetu (1100 words for 3), Sparfly (450 words for 1-2, rarely 0), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1-2)
   - Dig Battles: Shepherd (1000 words for 1-3), Kapir (800 words for 0-1), Okkorhi (1000 words for 1-2), Sakish (350 words for 1), Zera (550 words for 1-2)
   - Ruins Battles: Griffe (450 words for 1-2), Ripos (1800 words for 1-2)

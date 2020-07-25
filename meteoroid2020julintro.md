@@ -1,4 +1,4 @@
-LAST UPDATED 21 JUL 2020
+LAST UPDATED 24 JUL 2020
 
 It's Camp NaNo time! Welcome to the **Alien Meteoroid Expedition**!
 
@@ -6,6 +6,7 @@ I'll be trying to keep up with this space (although I have times when I'm Very B
 
 ### Global Challenges:
 
+- Starting Jul 24: Defeat Giant Zanutaki: 3,000 Battles: IN PROGRESS
 - Starting Jul 8: Lab Power Up: 1 Million Words: COMPLETE after approx. 10 hours
 - Starting Jul 7: Lab Exterior: 2 Million Words: COMPLETE after approx 20 hours
 - Starting Jul 6: Lab Metal Frame: 2 Million Words: COMPLETE after approx 20 hours
@@ -13,6 +14,7 @@ I'll be trying to keep up with this space (although I have times when I'm Very B
 
 ###List of Kirala-Defined Phases For This Event:
 
+- Giant Zanutaki: Jul 24 - ???: Nothing good came of mixing Zanthei, Nuig, Tambo, and Kiru. Now we need to defeat an Abomination of Science.
 - Large Experiment: Jul 21- Jul 24: I see nothing good coming from mixing Tambo, Kiru, Nuig, and Zanthei. We'll see what happens.
 - Preparing For Large Experiment: Jul 20-21: This is going to be very short, and it's mostly a chance to play around with the new quest involving the matchup results.
 - Experiment: Sassi v Lubu: Jul 17-20: I find Xomri a little disturbing, but hey. Next experiment is cats and dogs and WHAT'S NEXT, because this is the last Experiment of its kind...

@@ -1,4 +1,4 @@
-LAST UPDATED 12 MAY 2020
+LAST UPDATED 25 JUL 2020
 
 Again, numbers assume a certain amount of Luck. Some of these numbers were obtained only after a Luck of 20 (there are some monsters I skipped on the first playthrough). However, I believe these numbers are accurate enough to be helpful with a Luck of 4 or more, based on the differences for monsters played with multiple Luck levels.
 
@@ -72,6 +72,15 @@ Again, numbers assume a certain amount of Luck. Some of these numbers were obtai
 - **XP:** 209
 - **Drops:** 1 Essence, 3 Wood, 5 Fur, 2 Tambo Mane, 2-3 Leaves, 1 Wooden Chest, 1-2 Raw Stone, 2 Dust, 1 Old Staff
 
+### Vanspi
+
+- **Requirements:** Battle 10 Minutes Continuously
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Baseline XP:** 30
+- **Drops:** 
+  - Baseline: 10 Coins, 2 Hunter Tokens
+  - Other: 1-5 Raw Sandstone
+
 ### Vi
 
 - **Requirements:** Endurance: Battle 5 Minutes Continuously
@@ -121,3 +130,4 @@ Like Grey's Mawt, Villager starts costing resources per battle in a new region w
 - **Drops:** 2-3 Rope, 1 Glass Shards, 1 Red Dye, 2-3 Raw Fabric, 1 Raw Gold, 2-3 Raw Steel, 1 Steel Bar, 1 Fine Fabric
 
  
+

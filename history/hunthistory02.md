@@ -1,4 +1,4 @@
-LAST UPDATED 26 JUN 2020
+LAST UPDATED 25 JUL 2020
 
 So, we've gone through all of Season 1. Now let's take a look at what unlocked on March 26, when Season 2 became available.
 
@@ -186,7 +186,15 @@ June 24 brought about the close of Season 2, plus a global event to unlock the a
 
 > We’ve tracked one of the Ancient Shepherd’s sheep roaming in the Valley, which means our Ancient is close! Velts is calling all able Dust Warriors to write, and together, we will locate the Shepherd’s three sheep and with them, track down the Ancient Shepherd.  Help the Ancient Shepherd chase down their lost sheep. When all three sheep are found the Ancient will return to the Valley of Oge-Mai!
 
-Simulataneously, the individual quest **Valley of the Sheep** was released in the Global section (available to ALL players).
+Simulataneously, the individual quest **Valley of the Sheep** was released in the Global section (available to ALL players). It seems to have disappeared as of July 1 2020, so I'm adding it here for posterity:
+
+### Valley Of The Sheep
+
+- **Unlocked by:** Opening the Game
+- **Type:** Battle
+- **Requirements:** Defeat 1 each: Attleas, Shashi, Imali
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** This is unusual in that it's offered **in the Global Quests instead of the Hunt Quests**. (At least, as of this writing on 26 Jun 2020; I suspect that it will eventually subside to the Hunt somehow.)
 
 This event had three stages:
 
@@ -196,6 +204,8 @@ Write 1 Million Words To Unlock Second Sheep  (completed early 25 Jun 2020, rele
 
 Write 1 Million Words To Unlock Third Sheep (completed late 25 Jun 2020, releasing Imali)
 
+The sheep and the quest were globally available until July 1 and the opening of the Camp Nano Meteoroid event.
+
 ### New S2 Quests: Jun 2020
 
 - Stumbling Upon Sheep
@@ -203,15 +213,10 @@ Write 1 Million Words To Unlock Third Sheep (completed late 25 Jun 2020, releasi
 
 ### New S2 Hunt Monsters: Jun 2020
 
-- Shepherd
-
-### New Global Hunt Monsters: Jun 2020
-
-These monsters may yet be restricted to a particular area, but for now, they're global and freely available.
-
 - Attleas
 - Imali
 - Shashi
+- Shepherd
 
 ### Hunter Token Sources: Jun 2020
 

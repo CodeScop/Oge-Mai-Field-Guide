@@ -1,4 +1,4 @@
-LAST UPDATED 21 JUL 2020
+LAST UPDATED 24 JUL 2020
 
 ## All Monsters: Impact Crater
 
@@ -81,6 +81,16 @@ LAST UPDATED 21 JUL 2020
 - **XP:** 50
 - **Drops:** 5 Fleet Lab Tokens, 5 Hunter Tokens, 3-6 Raw Stone, 2-3 Dinti, 0-1 Stone Blocks
 - **Quests:** Spaceship: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2)
+
+### Zanutaki
+
+- **Location:** Global
+- **Unlocked by:** Phase: Giant Zanutaki
+- **Requirements:** 500 words
+- **Time allowed:** 45 minutes
+- **XP:** 50
+- **Drops:** 5 Fleet Lab Tokens, 1-2 Fur, 1 Glass Shard, 1-3 Dust, 1-2 Wood
+- **Quests:** Community Challenge: Defeat Giant Zanutaki
 
 ## All Monsters: Mining Site
 
@@ -169,6 +179,16 @@ LAST UPDATED 21 JUL 2020
 - **XP:** 90
 - **Drops:** 9 Fleet Lab Tokens, 3-5 Dinti, 1 Stone Block, 1 Glass Bar, 1-4 Raw Gold, 9 Hunter Tokens
 - **Quests:** Spaceship: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2)
+
+### Zanutaki
+
+- **Location:** Global
+- **Unlocked by:** Phase: Giant Zanutaki
+- **Requirements:** 500 words
+- **Time allowed:** 45 minutes
+- **XP:** 50
+- **Drops:** 5 Fleet Lab Tokens, 1-2 Fur, 1 Glass Shard, 1-3 Dust, 1-2 Wood
+- **Quests:** Community Challenge: Defeat Giant Zanutaki
 
 ## All Monsters: Research Lab
 
@@ -374,6 +394,16 @@ LAST UPDATED 21 JUL 2020
 - **Drops:** 1 Fleet Lab Token, 1 Hunter Token, 1 Raw Steel
 - **Quests:** RL: Projecting Light (10)
 
+### Zanutaki
+
+- **Location:** Global
+- **Unlocked by:** Phase: Giant Zanutaki
+- **Requirements:** 500 words
+- **Time allowed:** 45 minutes
+- **XP:** 50
+- **Drops:** 5 Fleet Lab Tokens, 1-2 Fur, 1 Glass Shard, 1-3 Dust, 1-2 Wood
+- **Quests:** Community Challenge: Defeat Giant Zanutaki
+
 ### Zoomga!
 
 - **Location:** Research Lab
@@ -455,3 +485,13 @@ LAST UPDATED 21 JUL 2020
 - **XP:** 70
 - **Drops:** 7 Fleet Lab Tokens, 7 Hunter Tokens, 3-6 Raw Steel, 1-2 Hardwood, 0-1 Steel Bars
 - **Quests:** Spaceship: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2), Dinti Me Up (1)
+
+### Zanutaki
+
+- **Location:** Global
+- **Unlocked by:** Phase: Giant Zanutaki
+- **Requirements:** 500 words
+- **Time allowed:** 45 minutes
+- **XP:** 50
+- **Drops:** 5 Fleet Lab Tokens, 1-2 Fur, 1 Glass Shard, 1-3 Dust, 1-2 Wood
+- **Quests:** Community Challenge: Defeat Giant Zanutaki

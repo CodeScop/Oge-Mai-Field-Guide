@@ -1,136 +1,104 @@
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 25 JUL 2020
 
 Hey! Loading up the info for the Hunt. It takes a while to incorporate everything properly throughout the Guide, but it doesn't take long to gather the new info. So! Here is New Info Only for the Hunt for the Ancients. (Please, please just look at the regular sections if you aren't up to the latest point; there's nothing here that will be likely to serve you before then.)
 
 #FAIR WARNING: SPOILERS AHEAD.
 
-This month: We have something unusual: new monsters and a quest released globally, to people outside the Hunt, and NO new monsters in the new Hunt area. I'll be including the End Of S2 quests/monsters as well as the Start Of S3 quests.
+This month: we have a new monster in 3PC that seems related to the Hunt, or maybe not! For the time being, I'm going to assume Vanspi belongs in the regular game (since you don't need the Hunt to access them)
 
-## New Quests: Jun 2020
+## New Quests: Jul 2020
 
-### Stumbling Upon Sheep
-
-- **Unlocked by:** Hunt S2 Quest: No Wrong Path
-- **Type:** Battle
-- **Requirements:** Defeat 4 Shepherd
-- **Rewards:** Wardrobe: Dog Mentor Pet https://4thewords.com/media/wardrobe/featured/male/wm&#95;862-dog-mentor-pet-6004-63771.png
-- **Recommendations:** This is the end of the Season 2 quests! And the Pipit pet is ADORABLE. Beat that Shepherd down!
-
-### Moving Flora
-
-- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
-- **Type:** Streak
-- **Requirements:** Reach 5 Streak days in a row
-- **Rewards:** Hunt Map Piece 7, 10 Hunter Tokens
-- **Recommendations:** Pick up, hang on, beat out! We're in the rhythm now, and ready to keep going!
-
-### To Grow & Change
-
-- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
-- **Type:** Collection, Battle
-- **Requirements:** Defeat 10 of any monster, collect Hunt Map Piece 7
-- **Rewards:** Wardrobe: Hunt Facepaint Side https://4thewords.com/media/wardrobe/featured/male/wm&#95;667-hunt-facepaint-side-4049-28215.png
-- **Recommendations:** Make sure you've got the Moving Flora quest, and this will mostly handle themselves!
-
-### Valley Of The Sheep (NOTE: Now Missing!)
-
-- **Unlocked by:** Opening the Game
-- **Type:** Battle
-- **Requirements:** Defeat 1 each: Attleas, Shashi, Imali
-- **Rewards:** 25 Hunter Tokens
-- **Recommendations:** This is unusual in that it's offered **in the Global Quests instead of the Hunt Quests**. (At least, as of this writing on 26 Jun 2020; it disappeared on 1 Jul 2020 and I haven't been able to spot it since. We'll see if it reappears.)
-
-### Herding the Herders
-
-- **Unlocked by:** HuntS2 Quest: No Wrong Path (?)
-- **Type:** Battle
-- **Requirements:** Defeat 1 each: Lubu, Czanus, Pipit
-- **Rewards:** 25 Hunter Tokens
-- **Recommendations:** This is entirely voluntary and unlocks nothing, but it's fun. Not 100% positive which of the major quests unlocks it (it might also be unlocked a little sooner, by A Distant Figure), but you get the gist.
-
-### Helping Those In Need Grow
-
-- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
-- **Type:** Collection
-- **Requirements:** Deliver:
-  - 10 Rusty Amulets
-  - 5 Rusty Pendants
-  - 1 Gold Bar
-- **Rewards:** 25 Hunter Tokens
-- **Recommendations:** Unless you have 10 Rusty Amulets just lying around, I wouldn't hurry on this. (Ditto on Rusty Pendants and Gold, but you're more likely to actually have them lying around.) The Hunter Tokens just aren't worth as much in and of themselves. Still, fun little thing to do!
-
-### Growing Improvement
+### Flying Past Sparks
 
 - **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
 - **Type:** Battle
-- **Requirements:** Defeat 10 Jaihri
-- **Rewards:** 25 Hunter Tokens
-- **Recommendations:** Check out the list of quests Jaihri have to their name - there's quite a few! This will dovetail with a lot of quests in the regular game.
+- **Requirements:** Defeat 5 Nuig
+- **Rewards:** Hunt Map Piece 8, 10 Hunter Tokens
+- **Recommendations:** The Season of Growth seems to be favoring us with a gentler way to obtain Hunt Map Pieces so far - we do NOT need to complete Moving Flora to unlock this quest. Still, we do need to complete this one to continue on the Hunt Map Pieces chain, so let's dig in.
 
-### Growth Pains
+### Problems Feed Solutions
 
 - **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
 - **Type:** Battle
-- **Requirements:** Defeat:
-  - 3 Osaril
-  - 2 Trainees
-  - 1 Furoxi
+- **Requirements:** Defeat 20 Caricaco
 - **Rewards:** 25 Hunter Tokens
-- **Recommendations:** This can dovetail with a few Riza Rivertown quests, but otherwise, no hurries. Take at your own pace.
+- **Recommendations:** Check out other Caricaco quests in Balance before completing this. There's a reason the info for this quest references "Tambo Snacks". "River Walkers" is also worth doubling up with this.
 
-## New Hunt Monsters: Jun 2020
+### Of Vibrant Growth
 
-### Shepherd
+- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
+- **Type:** Wordcount
+- **Requirements:** Write 10K Words
+- **Rewards:** 15 Hunter Tokens
+- **Recommendations:** I will always recommend wordcount quests, because they will always fill themselves without you having to think about it. Win/win.
 
-- **Unlocked by:** Hunt S2 Quest: No Wrong Path
-- **Location:** Dig Site
-- **Requirements:** 1000 words
-- **Time allowed:** 240 minutes (4 hours)
-- **XP:** 100
-- **Drops:** 10 Hunter Tokens, 2-6 Raw Fabric, 1-2 Red Dye, 1-4 Wood, 1-3 Rope, 1-3 Raw Sandstone
-- **Quests:** HuntS2: Stumbling Upon Sheep (4)
+### Battle of Constitution (3/4)
 
-### Attleas
+- **Unlocked by:** HuntS2 Quest: A Battle of Merit
+- **Type:** Battle
+- **Requirements:** Defeat 1 Velts: Water
+- **Rewards:** 15 Hunter Tokens
+- **Recommendations:** Once again, this seems to actually be a chain independent of the Seasons. This is the first time the Battle chain has explicitly acknowledged being a chain. Presumably, the last Season will have its own Velts to battle. But it probably won't be visible till you complete this one, so take into consideration.
 
-- **Unlocked by:** HuntS2 Quest: No Wrong Path
-- **Location:** Dig Site
-- **Requirements:** 350 words
-- **Time allowed:** 30 minutes
-- **XP:** 35
-- **Drops:** 3-4 Hunter Tokens, 2-3 Raw Fabric, 1 Rope, 0-1 Red Dye
-- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
+### Bettering Ourselves
 
-### Imali
+- **Unlocked by:** HuntS3 Quest: To Grow & Change
+- **Type:** Collection, Streak
+- **Requirements:** Collect Hunt Map Piece 8 & reach a 5-day Streak
+- **Rewards:** Wardrobe: Hunt Complex Brooch https://4thewords.com/media/wardrobe/featured/male/wm&#95;651-hunt-complex-brooch-3813-44800.png
+- **Recommendations:** The Season of Growth is certainly encouraging us to build our Streaks!
 
-- **Unlocked by:** HuntS2 Quest: No Wrong Path
-- **Location:** Dig Site
-- **Requirements:** 150 words
-- **Time allowed:** 15 minutes
-- **XP:** 15
-- **Drops:** 1-2 Hunter Tokens, 1 Raw Fabric
-- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
+### Growing Your Perception 2/3
 
-### Shashi
+- **Unlocked by:** HuntS3 Quest: Growing Improvement
+- **Type:** Battle
+- **Requirements:** Defeat 5 Castu, 3 Isartu, and 1 Water Rudakai
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** A lot here rides on how much you like the monsters, and how much you like the rewards. You'll probably want to see whether, as in previous Seasons, this questline culminates in a fifth quest with a nifty wardrobe reward. (I'm writing this just as this quest released and the chain is only three quests long; hopefully I remember to update when the answer drops next month.) In the meantime, you may want to keep up just to save time later, or you may want to take your time.
 
-- **Unlocked by:** HuntS2 Quest: No Wrong Path
-- **Location:** Dig Site
-- **Requirements:** 250 words
-- **Time allowed:** 25 minutes
-- **XP:** 25
-- **Drops:** 2-3 Hunter Tokens, 1-2 Raw Fabric, 0-1 Raw Gold
-- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
+### Growing Your Tenacity 3/3
 
-## New Resources: Jun 2020
+- **Unlocked by:** HuntS3 Quest: Growing Your Perception 2/3
+- **Type:** Battle 
+- **Requirements:** Defeat 2 Xyplos
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** Same as the previous quest: depends whether it appeals and whether you like the prospect of the end of the questline.
 
-### Hunt Map Piece 7
+## New Hunt Monsters: Jul 2020
 
-HUNT S3
+I'm counting Vanspi as a Hunt monster here, and only here, because there's no indication that it's actually a Hunt monster apart from the fact that it was released at the same time as the Hunt.
 
-- **Source:** HuntS3 Quest: Moving Flora (1)
+### Vanspi (Oge: 3PC)
+
+- **Unlocked by:** Opening Three Points Crossing
+- **Requirements:** Battle 10 Minutes Continuously
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Baseline XP:** 30
+- **Drops:** 
+  - Baseline: 10 Coins, 2 Hunter Tokens
+  - Other: 1-5 Raw Sandstone
+- **Quests:** none
+
+### Velts: Water
+
+- **Unlocked by:** HuntS2 Quest: A Battle of Merit
+- **Requirements:** 1600 words
+- **Time allowed:** 600 minutes (10 hours)
+- **XP:** 160
+- **Drops:** 16 Hunter Tokens, 5-10 Wood, 4-9 Rope, 2-3 Spider Poison, 3-6 Raw Steel, 2-4 River Grass, 1-4 Raw Fabric
+- **Quests:** HuntS3: Battle of Constitution 3/4 (1)
+
+## New Resources: Jul 2020
+
+### Hunt Map Piece 8
+
+- **Source:** HuntS3 Quest: Flying Past Sparks (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS3 Quest: To Grow & Change (1)
+- **Used for:** HuntS3 Quest: Bettering Ourselves (1)
 
 ## Hunt Token Sources: June 2020
+
+No, that's not a typo; the June sources are hanging around until August 4, so as to let the event sources stay consistent.
 
 **Late June-July 2020 Sources Outside the Hunt:**
 
@@ -138,10 +106,10 @@ Late June/July 2020 sources are Hunt monsters and monsters with metal and/or roc
 
 - ALIEN METEOROID:
   - IC Battles: Arir (100 words for 1), Rhan (150 words for 1-2), Maesc (250 words for 2-3), Nartha (350 words for 3-4), Erbor (400 words for 4), Rosarin (500 words for 5), Brachi (600 words for 6)
+  - RL Battles: Arenica Hologram (100 words for 1), Kiru Hologram (100 words for 1), Lombri Hologram (100 words for 1), Lubu Hologram (100 words for 1), Maesc Hologram (100 words for 1), Nuig Hologram (100 words for 1), Sassi Hologram (100 words for 1), Suulan Hologram (100 words for 1), Tambo Hologram (100 words for 1), Wignow Hologram (100 words for 1), Xin Hologram (100 words for 1), Zanthei Hologram (100 words for 1), Zoomga! (300 words for 3), Mowow (450 words for 4-5), Ferenti (750 words for 7-8), Doctor Hogglevoss (1200 words for 12)
   - MS Battles: Arir (100 words for 1), Halix (250 words for 2-3), Ipo (300 words for 3), Galatre (450 words for 4-5), Krang (500 words for 5)
   - Spaceship Battles: Captain Piak (1667 words for 17), Oxie (100 words for 1), Kolbs (200 words for 2), Kovar (350 words for 3-4), Ledd (500 words for 5), Szalin (700 words for 7), Noit (800 words for 8), Zals (900 words for 9), Skarn (1100 words for 11)
 - LF Battles: Spirit Wignow (450 words for 4-5)
-- MT Battles: Vanstra (3 minutes for 1-4)
 - FOREST EXPEDITION:
 
   - BC Battles: Hunt monsters only
@@ -163,16 +131,11 @@ Late June/July 2020 sources are Hunt monsters and monsters with metal and/or roc
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 - **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices)
 
-## New Wardrobe Items: Jun 2020
+## New Wardrobe Items: Jul 2020
 
-- Reaction: Allies In Arms - 1 Hunter Token
-- Reaction: Good Eye - 1 Hunter Token
-- Reaction: Growing - 1 Hunter Token
-- Reaction: Hope - 1 Hunter Token
-- Reaction: Wanderlust - 1 Hunter Token
-- Paint Double Strokes - 15 Hunter Tokens
-- Paint Sharp Lines - 15 Hunter Tokens
-- Paint Under Lines - 15 Hunter Tokens
-- Paint Vertical Line - 15 Hunter Tokens
-- Ankle Boots - 80 Hunter Tokens
-- Travel Trench Coat - 150 Hunter Tokens
+- Arms Geometric Tattoo - 25 Hunter Tokens
+- Bulky Arrow Tattoo - 25 Hunter Tokens
+- Geometric Labyrinth Tattoo - 25 Hunter Tokens
+- Geometric Lines Tattoo - 25 Hunter Tokens
+- Limb Lines Tattoo - 25 Hunter Tokens
+- Valknut Tattoo - 25 Hunter Tokens

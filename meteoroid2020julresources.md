@@ -1,4 +1,4 @@
-LAST UPDATED 21 JUL 2020
+LAST UPDATED 24 JUL 2020
 
 So, this area has something in common with the Expedition areas: namely, I'm not going to bother naming a single resource that isn't found in this context. If it isn't dropped by an event Monster, or from an event Quest, I'm not including it. 
 
@@ -33,6 +33,7 @@ AREA ABBREVIATIONS:
 ### Fleet Lab Token
 
 - **Sources:** 
+  - Anywhere Battles: Zanutaki (500 words for 5)
   - IC Battles: Arir (100 words for 1), Rhan (150 words for 1-2), Maesc (250 words for 2-3), Nartha (350 words for 3-4), Erbor (400 words for 4), Rosarin (500 words for 5), Brachi (600 words for 6), Nedi (800 words for 8)
   - MS Battles: Arir (100 words for 1), Pach (200 words for 2), Halix (250 words for 2-3), Ipo (300 words for 3), Galatre (450 words for 4-5), Krang (500 words for 5), Zals (900 words for 9), Skarn (1100 words for 11)
   - RL Battles: Ame (100 words for 1), Arenica Hologram (100 words for 1), Kiru Hologram (100 words for 1), Lombri Hologram (100 words for 1), Lubu Hologram (100 words for 1), Maesc Hologram (100 words for 1), Nuig Hologram (100 words for 1), Sassi Hologram (100 words for 1), Suulan Hologram (100 words for 1), Tambo Hologram (100 words for 1), Wignow Hologram (100 words for 1), Xin Hologram (100 words for 1), Zanthei Hologram (100 words for 1), Xomri (300 words for 3), Zoomga! (300 words for 3), Mowow (450 words for 4-5), Gwynos (450 words for 4-5), Sabu (500 words for 5), Ferenti (750 words for 7-8), Sulanica (1000 words for 10), Doctor Hogglevoss (1200 words for 12)
@@ -61,6 +62,15 @@ AREA ABBREVIATIONS:
 
 - **Used for:** Buy misc items; FOREST, DESERT, WATER
 
+### Dust
+
+- **Best sources:** FOREST, DESERT, WATER
+  - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2), Zanutaki (500 words for 1-3)
+- **Other sources:** DUST
+- **Buy:** FOREST, DESERT
+- **Sell price:** 2 Coins (don't sell unless you have >1000)
+- **Used for:** FOREST, DESERT, WATER, DUST
+
 ### Fine Fabric
 
 - **Sources:** DESERT, WATER
@@ -69,6 +79,14 @@ AREA ABBREVIATIONS:
 - **Craft:** DESERT
 - **Sell price:** 75 Coins (don't sell unless you have >50)
 - **Used for:** DESERT
+
+### Fur
+
+- **Best sources:** FOREST, DESERT, DUST
+  - Anywhere Battle: Awa (200 words for 1-2), Zanutaki (500 words for 1-2)
+- **Buy:** FOREST
+- **Sell price:** 2 Coins (don't sell unless you have >500)
+- **Used for:** FOREST
 
 ### Glass
 
@@ -88,6 +106,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 ### Glass Shards
 
 - **Sources:** DESERT, WATER, DUST,
+  - Anywhere Battles: Zanutaki (500 words for 1)
   - IC Battles: Nedi (800 words for 1-3)
   - MS Battles: Skarn (1100 words for 1-2)
   - RL Battles: Zoomga! (300 words for 2-4), Ame (100 words for 0-1), Sulanica (1000 words for 1-3)
@@ -250,7 +269,7 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 ### Wood
 
 - **Sources:** outside game,
-  - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2), Viyu (15 minutes for 2-7)
+  - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2), Viyu (15 minutes for 2-7), Zanutaki (500 words for 1-2)
   - RL Battles: Xomri (300 words for 1), Sabu (500 words for 1)
 - **Buy:** outside game
 - **Sell price:** 2 Coins (Don't sell, NOT WORTH IT)

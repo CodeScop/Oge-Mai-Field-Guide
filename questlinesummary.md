@@ -1,4 +1,4 @@
-LAST UPDATED 26 JUN 2020
+LAST UPDATED 25 JUL 2020
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
@@ -325,8 +325,15 @@ Season 2 is unlocked by completing The Curator of Elder Library quest, and you c
 
 Season 3 is unlocked by completing Stumbling Upon Sheep quest, and you can see that questline in Season 2.
 
-- HuntS3 Moving Flora - maintain 5-day streak, get Hunt Map Piece 7 and 10 Hunter Tokens
-- HuntS3 To Grow & Change - defeat 10 monsters and get Hunt Map Piece 7, get Wardrobe: Hunt Facepaint Side
+- HuntS3 Battle of Constitution 3/4 - **(Note: This has as prerequisite the HuntS2 quest Battle of Merit.)** Defeat 1 Water version of Velts, get 25 Hunter Tokens
 - HuntS3 Helping Those In Need Grow - give a bunch of Rusty Amulets, Pendants, and Gold, get 25 Hunter Tokens
-- HuntS3 Growing Improvement - beat 10 Jaihri, get 25 Hunter Tokens
 - HuntS3 Growth Pains - defeat 3 Osaril, 2 Trainees, and 1 Furoxi, get 25 Hunter Tokens
+- HuntS3 Problems Feed Solutions - defeat 20 Caricaco, get 25 Hunter Tokens
+- HuntS3 Of Vibrant Growth - write 10K words, get 15 Hunter Tokens
+- HuntS3 To Grow & Change - defeat 10 monsters and get Hunt Map Piece 7, get Wardrobe: Hunt Facepaint Side
+  - HuntS3 Bettering Ourselves - collect Hunt Map Piece 8 & get 5-day streak, get Wardrobe: Hunt Complex Brooch
+- HuntS3 Moving Flora - maintain 5-day streak, get Hunt Map Piece 7 and 10 Hunter Tokens
+- HuntS3 Flying Past Sparks - defeat 5 Nuig, get Hunt Map Piece 8 and 10 Hunter Tokens
+- HuntS3 Growing Improvement - beat 10 Jaihri, get 25 Hunter Tokens
+  - HuntS3 - Growing Your Perception 2/3 - defeat 5 Castu, 3 Isartu, and 1 Water Rudakai, get 25 Hunter Tokens
+    - HuntS3 - Growing Your Tenacity - defeat 2 Xyplos, get 25 Hunter Tokens

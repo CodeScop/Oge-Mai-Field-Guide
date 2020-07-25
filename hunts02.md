@@ -1,4 +1,4 @@
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 25 JUL 2020
 
 We left off Season 1 (and you **must** complete The Curator of Elder Library to unlock Season 2, and the Season 1 quest list will help with that) back in the Forest. Now, in the Desert, we're on to Season 2: The Season of Wandering, watched over by the Shepherd.
 
@@ -120,14 +120,6 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 
 ## Season 2 Quests: Miscellaneous
 
-### Valley Of The Sheep
-
-- **Unlocked by:** Opening the Game
-- **Type:** Battle
-- **Requirements:** Defeat 1 each: Attleas, Shashi, Imali
-- **Rewards:** 25 Hunter Tokens
-- **Recommendations:** This is unusual in that it's offered **in the Global Quests instead of the Hunt Quests**. (At least, as of this writing on 26 Jun 2020; I suspect that it will eventually subside to the Hunt somehow.)
-
 ### Wandering We Go
 
 - **Unlocked by:** The Curator of Elder Library Quest
@@ -203,6 +195,7 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 ### Attleas
 
 - **Unlocked by:** HuntS2 Quest: No Wrong Path
+- **Location:** Dig Site
 - **Requirements:** 350 words
 - **Time allowed:** 30 minutes
 - **XP:** 35
@@ -222,6 +215,7 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 ### Imali (Exp: Dig)
 
 - **Unlocked by:** HuntS2 Quest: No Wrong Path
+- **Location:** Dig Site
 - **Requirements:** 150 words
 - **Time allowed:** 15 minutes
 - **XP:** 15
@@ -251,6 +245,7 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 ### Shashi (Exp: Dig)
 
 - **Unlocked by:** HuntS2 Quest: No Wrong Path
+- **Location:** Dig Site
 - **Requirements:** 250 words
 - **Time allowed:** 25 minutes
 - **XP:** 25
@@ -260,6 +255,7 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 ### Velts: Desert
 
 - **Unlocked by:** HuntS1 Quest: A Battle of Wills
+- **Location:** 3PC
 - **Requirements:** 1200 words
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 120

@@ -1,4 +1,4 @@
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 25 JUL 2020
 
 Once again! Here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -351,6 +351,7 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
 - **Drops:** 1 River Grass, 1 Algae, 0-1 Raw Stone (usually 1 with enough Luck)
 - **Quests:**
   - Balance: River Landwalkers (25), Tambo Snacks (100)
+  - HuntS3: Problems Feed Solutions (20)
 
 ### Castu (Oge: Balance*)
 
@@ -362,6 +363,7 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
 - **Quests:**
   - MT: Fair, Standard, Middling (25)
   - Balance: Cast Out Castu (25), Curious Traveler (20)
+  - HuntS3: Growing Your Perception 2/3 (5)
 
 ### Clawadin (Oge: MT; Exp: BC, FB)
 
@@ -408,7 +410,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Time allowed:** 90 minutes (1 hour 30 minutes)
 - **XP:** 70
 - **Drops:** 7 Hunter Tokens, 1-3 Raw Steel, 2-4 Raw Fabric, 0-1 Wood Swords, 0-1 Red Dye, 1-3 Wood
-- **Quests:** HuntS2: Guarding the Path (4)
+- **Quests:** HuntS2: Guarding the Path (4), Herding the Herders (1)
 
 ### Dandeleon (Exp: FB)
 
@@ -628,6 +630,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 1 Algae, 1 River Grass, 0-1 River Stone (usually 1 with enough Luck), 0-1 River Water (usually 1 with enough Luck)
 - **Quests:**
   - Gansu: Watering Hole Puffs (5)
+  - HuntS3: Growth Pains (1)
 
 ### Gayol (Exp: ShrineBird)
 
@@ -769,6 +772,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 River Stone, 1 River Grass, 1 Leather Roll, 1 Rope
 - **Quests:**
   - Balance: Main Quest 2/Underwater Training (3), Curious Traveler Part 2 (20), River Landwalkers (10)
+  - HuntS3: Growing Your Perception 2/3 (3)
 
 ### Jaihri (Oge: Riza)
 
@@ -784,7 +788,8 @@ see **Skuppa's Giant Marionette**
 
   OGE-MAI
 
-  - Riza: Main Quest 1/ Jaihri Dam (6), Main Quest 4/ Mucky, Murky, Muddy (2), River Dams (15)
+  - Riza: Main Quest 1/ Jaihri Dam (6), Main Quest 4/ Mucky, Murky, Muddy (2), River Dams (15
+  - HuntS3: Growing Improvement (10)
 
 
 ### Kaija (Exp: BC)
@@ -912,7 +917,7 @@ see **Skuppa's Giant Marionette**
 - **Time allowed:** 60 minutes (1 hour)
 - **XP:** 45
 - **Drops:** 4-5 Hunter Tokens, 1-2 Raw Fabric, 0-1 Raw Steel, 1 Wood
-- **Quests:** HuntS2: A Distant Figure (3)
+- **Quests:** HuntS2: A Distant Figure (3), Herding the Herders (1)
 
 ### Lupo (Exp: Shrine TFA)
 
@@ -1025,6 +1030,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 River Stone, 1 River Grass, 1-2 River Water, 1-2 Algae, 1-2 Nuig String
 - **Quests:**
   - Balance: Main Quest 3/The Deep Dark (8), Elemental Power (5), Stingy Surprise (30), Venomous Villains (7)
+  - HuntS3: Flying Past Sparks (5)
 
 ### Okkorhi (Exp: Dig)
 
@@ -1041,6 +1047,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Feather, 1 River Water, 1 River Grass
 - **Quests:**
   - Riza: Osaril Nests (10)
+  - HuntS3: Growth Pains (3)
 
 ### Osemar (Exp: ShrineMar)
 
@@ -1104,7 +1111,7 @@ see **Skuppa's Giant Marionette**
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 90
 - **Drops:** 9 Hunter Tokens, 2-4 Raw Fabric, 0-1 Red Dye, 1-2 Raw Stone, 1-2 Wood
-- **Quests:** HuntS2: State of Rest (4)
+- **Quests:** HuntS2: State of Rest (4), Herding the Herders (1)
 
 ###  Poly Aracnu (Exp: ShrinePoly)
 
@@ -1442,6 +1449,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 2-4 Rope, 2-3 Raw Fabric, 2 River Grass, 1-2 Raw Stone, 0-1 Hardwood (usually 1 with enough Luck), 0-1 River Stones (usually 1 with enough Luck)
 - **Quests:**
   - Riza: Battle Practice (10)
+  - HuntS3: Growth Pains (2)
 
 ### Tryi Ooze (Exp: Shrine GO)
 
@@ -1488,6 +1496,17 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 14 Shrine Stones, 3-6 Raw Fabric, 2-4 Rope, 1-3 Raw Steel, 3-7 Coins
 - **Quests:** ShrineCar: A Carnival Festival (1)
 
+### Vanspi (Oge: 3PC)
+
+- **Unlocked by:** Opening Three Points Crossing
+- **Requirements:** Battle 10 Minutes Continuously
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Baseline XP:** 30
+- **Drops:** 
+  - Baseline: 10 Coins, 2 Hunter Tokens
+  - Other: 1-5 Raw Sandstone
+- **Quests:** none
+
 ### Vanstra (Oge: MT)
 
 - **Unlocked by:** Opening Mama Tree
@@ -1514,6 +1533,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 120
 - **Drops:** 12 Hunter Tokens, 4-8 Wood, 4-6 Rope, 1 Spider Poison, 2-4 Raw Steel, 1-3 Raw Sandstone
 - **Quests:** HuntS2: Battle of Merit (1)
+
+### Velts: Water (Oge: Balance)
+
+- **Unlocked by:** HuntS2 Quest: A Battle of Merit
+- **Requirements:** 1600 words
+- **Time allowed:** 600 minutes (10 hours)
+- **XP:** 160
+- **Drops:** 16 Hunter Tokens, 5-10 Wood, 4-9 Rope, 2-3 Spider Poison, 3-6 Raw Steel, 2-4 River Grass, 1-4 Raw Fabric
+- **Quests:** HuntS3: Battle of Constitution 3/4 (1)
 
 ### Vezi (Oge: Balance*)
 
@@ -1600,6 +1628,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 1-3 River Water, 1-2 River Grass, 1-5 Algae, 1-3 Dust, 0-3 Hardwood, 0-1 River Key
 - **Quests:**
   - Balance: Rudakai Master (3)
+  - HuntS3: Growing Your Perception 2/3 (1)
 
 ### Wavi Ooze (Exp: Shrine GO)
 
@@ -1706,6 +1735,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 1-3 River Grass, 1 River Water, 2-3 Leather Roll, 1-4 Algae, 2 Xyplos Ink, 1-2 Red Dye, 0-1 River Key (usually 1 with enough Luck), 0-1 Underwater Torch (usually 1 with enough Luck)
 - **Quests:**
   - Balance: Main Quest 3/The Deep Dark (2), The Abyss Stares Back (5), Curious Traveler Part 3 (20)
+  - HuntS3: Growing Your Tenacity 3/3 (2)
 
 ### Yala (Oge: Riza*; Exp: Raina)
 

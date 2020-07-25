@@ -1,6 +1,20 @@
-LAST UPDATED 21 JUL 2020
+LAST UPDATED 24 JUL 2020
 
 This section is solely for info that's changed during this phase (as best I can tell) and, this time, for the last phase. Skip down to ALL to see the comprehensive list of everything.
+
+## The Only Thing That's New With Giant Zanutaki
+
+We need to knock out these suckers.
+
+### Zanutaki
+
+- **Location:** Global
+- **Unlocked by:** Phase: Giant Zanutaki
+- **Requirements:** 500 words
+- **Time allowed:** 45 minutes
+- **XP:** 50
+- **Drops:** 5 Fleet Lab Tokens, 1-2 Fur, 1 Glass Shard, 1-3 Dust, 1-2 Wood
+- **Quests:** Community Challenge: Defeat Giant Zanutaki
 
 ## New Quests: Large Experiment - Jul 21 (and Jul 20 prep)
 

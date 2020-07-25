@@ -1,10 +1,10 @@
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 25 JUL 2020
 
 Season 2 is back in the Desert; now, we're in the Water Region, to Season 3: The Season of Growth, watched over by the Caretaker.
 
-We're starting with simple quests, because there's only 5 right now...
+## Season 3 Quests - The Main Line
 
-## Season 3 Quests
+This is a tad different from previous Seasons, in that the Hunt Map Piece comes from sources *other* than Assistant-battling-quests, but otherwise it's similar: gather the Hunt Map Pieces in quests, and complete the forward progression by completing the quests that require those Hunt Map Pieces.
 
 ### Moving Flora
 
@@ -20,7 +20,53 @@ We're starting with simple quests, because there's only 5 right now...
 - **Type:** Collection, Battle
 - **Requirements:** Defeat 10 of any monster, collect Hunt Map Piece 7
 - **Rewards:** Wardrobe: Hunt Facepaint Side https://4thewords.com/media/wardrobe/featured/male/wm&#95;667-hunt-facepaint-side-4049-28215.png
-- **Recommendations:** Make sure you've got the Moving Flora quest, and this will mostly handle themselves!
+- **Recommendations:** Make sure you've got the Moving Flora quest, and this will mostly handle itself!
+
+### Flying Past Sparks
+
+- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
+- **Type:** Battle
+- **Requirements:** Defeat 5 Nuig
+- **Rewards:** Hunt Map Piece 8, 10 Hunter Tokens
+- **Recommendations:** The Season of Growth seems to be favoring us with a gentler way to obtain Hunt Map Pieces so far - we do NOT need to complete Moving Flora to unlock this quest. Still, we do need to complete this one to continue on the Hunt Map Pieces chain, so let's dig in.
+
+### Bettering Ourselves
+
+- **Unlocked by:** HuntS3 Quest: To Grow & Change
+- **Type:** Collection, Streak
+- **Requirements:** Collect Hunt Map Piece 8 & reach a 5-day Streak
+- **Rewards:** Wardrobe: Hunt Complex Brooch https://4thewords.com/media/wardrobe/featured/male/wm&#95;651-hunt-complex-brooch-3813-44800.png
+- **Recommendations:** The Season of Growth is certainly encouraging us to build our Streaks!
+
+## Season 3 Quests - Growing Sideline
+
+NOTE: As of this writing (25 Jul 2020), several of these are entitled "Growing (X)" in Town, and "Proving (X)" when you pick it up. I'm sticking with "Growing" here because it seems to be the intended version.
+
+### Growing Improvement
+
+- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
+- **Type:** Battle
+- **Requirements:** Defeat 10 Jaihri
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** Check out the list of quests Jaihri have to their name - there's quite a few! This will dovetail with a lot of quests in the regular game.
+
+### Growing Your Perception 2/3
+
+- **Unlocked by:** HuntS3 Quest: Growing Improvement
+- **Type:** Battle
+- **Requirements:** Defeat 5 Castu, 3 Isartu, and 1 Water Rudakai
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** A lot here rides on how much you like the monsters, and how much you like the rewards. You'll probably want to see whether, as in previous Seasons, this questline culminates in a fifth quest with a nifty wardrobe reward. (I'm writing this just as this quest released and the chain is only three quests long; hopefully I remember to update when the answer drops next month.) In the meantime, you may want to keep up just to save time later, or you may want to take your time.
+
+### Growing Your Tenacity 3/3
+
+- **Unlocked by:** HuntS3 Quest: Growing Your Perception 2/3
+- **Type:** Battle 
+- **Requirements:** Defeat 2 Xyplos
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** Same as the previous quest: depends whether it appeals and whether you like the prospect of the end of the questline.
+
+## Season 3 Quests - Miscellaneous
 
 ### Helping Those In Need Grow
 
@@ -33,14 +79,6 @@ We're starting with simple quests, because there's only 5 right now...
 - **Rewards:** 25 Hunter Tokens
 - **Recommendations:** Unless you have 10 Rusty Amulets just lying around, I wouldn't hurry on this. (Ditto on Rusty Pendants and Gold, but you're more likely to actually have them lying around.) The Hunter Tokens just aren't worth as much in and of themselves. Still, fun little thing to do!
 
-### Growing Improvement
-
-- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
-- **Type:** Battle
-- **Requirements:** Defeat 10 Jaihri
-- **Rewards:** 25 Hunter Tokens
-- **Recommendations:** Check out the list of quests Jaihri have to their name - there's quite a few! This will dovetail with a lot of quests in the regular game.
-
 ### Growth Pains
 
 - **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
@@ -52,9 +90,42 @@ We're starting with simple quests, because there's only 5 right now...
 - **Rewards:** 25 Hunter Tokens
 - **Recommendations:** This can dovetail with a few Riza Rivertown quests, but otherwise, no hurries. Take at your own pace.
 
+### Problems Feed Solutions
+
+- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
+- **Type:** Battle
+- **Requirements:** Defeat 20 Caricaco
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** Check out other Caricaco quests in Balance before completing this. There's a reason the info for this quest references "Tambo Snacks". "River Walkers" is also worth doubling up with this.
+
+### Of Vibrant Growth
+
+- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
+- **Type:** Wordcount
+- **Requirements:** Write 10K Words
+- **Rewards:** 15 Hunter Tokens
+- **Recommendations:** I will always recommend wordcount quests, because they will always fill themselves without you having to think about it. Win/win.
+
+### Battle of Constitution (3/4)
+
+- **Unlocked by:** HuntS2 Quest: A Battle of Merit
+- **Type:** Battle
+- **Requirements:** Defeat 1 Velts: Water
+- **Rewards:** 15 Hunter Tokens
+- **Recommendations:** Once again, this seems to actually be a chain independent of the Seasons. This is the first time the Battle chain has explicitly acknowledged being a chain. Presumably, the last Season will have its own Velts to battle. But it probably won't be visible till you complete this one, so take into consideration
+
 ## Season 3 Monsters
 
-None yet! Season 2 released a bunch right before the S3 release, but we haven't found any S3 Monsters yet.
+Season 3 has been scarce on Assistants and seems to be scarce on new monsters. Seems. Is it a coincidence that Vanstra was introduced to Mama Tree along with the first month of Season 3? That Vanspi was introduced to 3PC along with the second month? Hmm. I'm counting them as non-Hunt monsters, because they're visible without the Hunt being unlocked, but we'll see if that holds.
+
+### Velts: Water
+
+- **Unlocked by:** HuntS2 Quest: A Battle of Merit
+- **Requirements:** 1600 words
+- **Time allowed:** 600 minutes (10 hours)
+- **XP:** 160
+- **Drops:** 16 Hunter Tokens, 5-10 Wood, 4-9 Rope, 2-3 Spider Poison, 3-6 Raw Steel, 2-4 River Grass, 1-4 Raw Fabric
+- **Quests:** HuntS3: Battle of Constitution 3/4 (1)
 
 ## Season 3 Resources
 
@@ -120,8 +191,15 @@ ALL GAME
 
 Season 3 is unlocked by completing Stumbling Upon Sheep quest, and you can see that questline in Season 2.
 
-- HuntS3 Moving Flora - maintain 5-day streak, get Hunt Map Piece 7 and 10 Hunter Tokens
-- HuntS3 To Grow & Change - defeat 10 monsters and get Hunt Map Piece 7, get Wardrobe: Hunt Facepaint Side
+- HuntS3 Battle of Constitution 3/4 - **(Note: This has as prerequisite the HuntS2 quest Battle of Merit.)** Defeat 1 Water version of Velts, get 25 Hunter Tokens
 - HuntS3 Helping Those In Need Grow - give a bunch of Rusty Amulets, Pendants, and Gold, get 25 Hunter Tokens
-- HuntS3 Growing Improvement - beat 10 Jaihri, get 25 Hunter Tokens
 - HuntS3 Growth Pains - defeat 3 Osaril, 2 Trainees, and 1 Furoxi, get 25 Hunter Tokens
+- HuntS3 Problems Feed Solutions - defeat 20 Caricaco, get 25 Hunter Tokens
+- HuntS3 Of Vibrant Growth - write 10K words, get 15 Hunter Tokens
+- HuntS3 To Grow & Change - defeat 10 monsters and get Hunt Map Piece 7, get Wardrobe: Hunt Facepaint Side
+  - HuntS3 Bettering Ourselves - collect Hunt Map Piece 8 & get 5-day streak, get Wardrobe: Hunt Complex Brooch
+- HuntS3 Moving Flora - maintain 5-day streak, get Hunt Map Piece 7 and 10 Hunter Tokens
+- HuntS3 Flying Past Sparks - defeat 5 Nuig, get Hunt Map Piece 8 and 10 Hunter Tokens
+- HuntS3 Growing Improvement - beat 10 Jaihri, get 25 Hunter Tokens
+  - HuntS3 - Growing Your Perception 2/3 - defeat 5 Castu, 3 Isartu, and 1 Water Rudakai, get 25 Hunter Tokens
+    - HuntS3 - Growing Your Tenacity - defeat 2 Xyplos, get 25 Hunter Tokens

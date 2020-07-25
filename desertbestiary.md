@@ -1,4 +1,4 @@
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 25 JUL 2020
 
 As with the Forest...
 
@@ -383,7 +383,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Time allowed:** 90 minutes (1 hour 30 minutes)
 - **XP:** 70
 - **Drops:** 7 Hunter Tokens, 1-3 Raw Steel, 2-4 Raw Fabric, 0-1 Wood Swords, 0-1 Red Dye, 1-3 Wood
-- **Quests:** HuntS2: Guarding the Path (4)
+- **Quests:** HuntS2: Guarding the Path (4), Herding the Herders (1)
 
 ### Dandeleon (Exp: FB)
 
@@ -837,7 +837,7 @@ see **Skuppa's Giant Marionette**
 - **Time allowed:** 60 minutes (1 hour)
 - **XP:** 45
 - **Drops:** 4-5 Hunter Tokens, 1-2 Raw Fabric, 0-1 Raw Steel, 1 Wood
-- **Quests:** HuntS2: A Distant Figure (3)
+- **Quests:** HuntS2: A Distant Figure (3), Herding the Herders (1)
 
 ### Lupo (Exp: Shrine TFA)
 
@@ -1002,7 +1002,7 @@ see **Skuppa's Giant Marionette**
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 90
 - **Drops:** 9 Hunter Tokens, 2-4 Raw Fabric, 0-1 Red Dye, 1-2 Raw Stone, 1-2 Wood
-- **Quests:** HuntS2: State of Rest (4)
+- **Quests:** HuntS2: State of Rest (4), Herding the Herders (1)
 
 ###  Poly Aracnu (Exp: ShrinePoly)
 
@@ -1351,6 +1351,17 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 130
 - **Drops:** 14 Shrine Stones, 3-6 Raw Fabric, 2-4 Rope, 1-3 Raw Steel, 3-7 Coins
 - **Quests:** ShrineCar: A Carnival Festival (1)
+
+### Vanspi (Oge: 3PC)
+
+- **Unlocked by:** Opening Three Points Crossing
+- **Requirements:** Battle 10 Minutes Continuously
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Baseline XP:** 30
+- **Drops:** 
+  - Baseline: 10 Coins, 2 Hunter Tokens
+  - Other: 1-5 Raw Sandstone
+- **Quests:** none
 
 ### Vanstra (Oge: MT)
 

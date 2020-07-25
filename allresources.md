@@ -1,6 +1,6 @@
 # A-F
 
-LAST UPDATED 26 JUN 2020
+LAST UPDATED 25 JUL 2020
 
 ##Abbreviations Used:
 
@@ -103,7 +103,7 @@ ALL GAME
     - Riza Quests: Main Quest 1/Jaihri Dam (100), Amateur Fisherman (25), River Dams (100)
     - Balance Quests: Gone Fishing (100), River Landwalkers (250)
   - DESERT:
-    - 3PC Battles: Villager (1300 words, 1 Spider Poison, and 5 Leaves for 3-7)
+    - 3PC Battles: Vanspi (10 minutes for 10-40), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 3-7)
     - ShrineBird Battles: Katock (500 words for 2-5)
     - ShrineGiant Battles: Takra (500 words for 2-5)
     - ShrineCar Battles: Fetezira (1000 words for 3-7), Upuchu (1400 words for 3-7)
@@ -639,7 +639,7 @@ ALL GAME
 
 # G-O
 
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 25 JUL 2020
 
 ### Glass
 
@@ -759,6 +759,7 @@ The game usually simply calls this **Gold**. Since I call the parallel things fo
     - Gansu Quest: First Stempo (1)
   - WATER
     - Craft Balance: Reinforced Steel Breastplate (2), Reinforced Steel Helmet (1)
+    - HuntS3 Quest: Helping Those In Need Grow (1)
 
 ### Golden Chest
 
@@ -875,6 +876,14 @@ HUNT S3
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
 - **Used for:** HuntS3 Quest: To Grow & Change (1)
 
+### Hunt Map Piece 8
+
+HUNT S3
+
+- **Source:** HuntS3 Quest: Flying Past Sparks (1)
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** HuntS3 Quest: Bettering Ourselves (1)
+
 ### Hunter Tokens
 
 ALL GAME
@@ -884,15 +893,16 @@ ALL GAME
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
   - LF Battles: Sassi (600 words for 6)
-  - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10)
+  - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10), Vanstra (3 minutes for 1-4)
   - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
-  - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12)
+  - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12), Vanspi (10 minutes for 2-8)
   - Gansu Battles: Pipit (900 words for 9)
   - Dig Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4), Lubu (450 words for 4-5), Shepherd (1000 words for 10)
   - Ruins Battles: Lubu (450 words for 4-5)
+  - Balance Battles: Velts: Water (1600 words for 16)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
-  - Hunt S3 Quests: Moving Flora (10)
+  - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25)
 
 - **Late June-July 2020 Sources Outside the Hunt:**
 
@@ -900,10 +910,10 @@ ALL GAME
 
   - ALIEN METEOROID:
     - IC Battles: Arir (100 words for 1), Rhan (150 words for 1-2), Maesc (250 words for 2-3), Nartha (350 words for 3-4), Erbor (400 words for 4), Rosarin (500 words for 5), Brachi (600 words for 6)
+    - RL Battles: Arenica Hologram (100 words for 1), Kiru Hologram (100 words for 1), Lombri Hologram (100 words for 1), Lubu Hologram (100 words for 1), Maesc Hologram (100 words for 1), Nuig Hologram (100 words for 1), Sassi Hologram (100 words for 1), Suulan Hologram (100 words for 1), Tambo Hologram (100 words for 1), Wignow Hologram (100 words for 1), Xin Hologram (100 words for 1), Zanthei Hologram (100 words for 1), Zoomga! (300 words for 3), Mowow (450 words for 4-5), Ferenti (750 words for 7-8), Doctor Hogglevoss (1200 words for 12)
     - MS Battles: Arir (100 words for 1), Halix (250 words for 2-3), Ipo (300 words for 3), Galatre (450 words for 4-5), Krang (500 words for 5)
     - Spaceship Battles: Captain Piak (1667 words for 17), Oxie (100 words for 1), Kolbs (200 words for 2), Kovar (350 words for 3-4), Ledd (500 words for 5), Szalin (700 words for 7), Noit (800 words for 8), Zals (900 words for 9), Skarn (1100 words for 11)
   - LF Battles: Spirit Wignow (450 words for 4-5)
-  - MT Battles: Vanstra (3 minutes for 1-4)
   - FOREST EXPEDITION:
 
     - BC Battles: Hunt monsters only
@@ -1214,7 +1224,7 @@ FOREST, DESERT
 
 # P-R
 
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 25 JUL 2020
 
 ### Pickaxe
 
@@ -1321,6 +1331,7 @@ ALL GAME
     - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
   - WATER
     - Riza Battles: Trainee (1000 words, 20 Coins for 2-3), Sparfly (450 words for 1)
+    - Balance Battles: Velts: Water (1600 words for 1-4)
   - DUST: DFO Battles: Burhar (1500 words for 2-4), Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 2), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 2)
 - **Buy:** DESERT: 40 Coins in Item Bazaar/Zilya's Great Bazaar 
 - **Sell price:** 8 Coins (don't sell unless you have >200; if you also have Red Dye and Essence, craft Fine Fabric for a better sell option)
@@ -1366,7 +1377,7 @@ DESERT, some WATER
     - Post-DFO Ruins Battles: Spirit Griffe (480 words for 1)
 - **Other sources:** 
   - DESERT
-    - 3PC Battles: Velts: Desert (1200 words for 1-3), Lombri (1500 words and 1 Wood Spear for 1-2)
+    - 3PC Battles: Vanspi (10 minutes for 1-5), Velts: Desert (1200 words for 1-3), Lombri (1500 words and 1 Wood Spear for 1-2)
     - Gansu Battles:  Wetu (1100 words for 3), Sparfly (450 words for 1-2, rarely 0), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1-2)
     - Dig Battles: Shepherd (1000 words for 1-3), Kapir (800 words for 0-1), Okkorhi (1000 words for 1-2), Sakish (350 words for 1), Zera (550 words for 1-2)
     - Ruins Battles: Griffe (450 words for 1-2), Ripos (1800 words for 1-2)
@@ -1391,7 +1402,9 @@ some FOREST, DESERT, some WATER, DUST
     - Ruins Battles: Gordi (80 words for 1)
     - 3PC Battles: Rulo (550 words for 1-3), Yasri (1250 words for 2-3)
     - Gansu Battles: Rulo (550 words for 1-3),  Sparfly (450 words for 1-2), Wetu (1100 words for 2)
-  - WATER: Riza Battles: Sparfly (450 words for 1-2)
+  - WATER: 
+    - Riza Battles: Sparfly (450 words for 1-2)
+    - Balance Battles: Velts: Water (1600 words for 3-6)
   - DUST: DFO Battles: Burhar (1500 words for 4-6)
 - **Other sources:** Buy,
   - FOREST: MT Battles: Clawadin (800 words for 1-2), Velts (800 words for 0-2)
@@ -1614,7 +1627,7 @@ ALL GAME
   - WATER
     - Riza Stone Chest: 7-12
     - Riza Battles: Wyvern (1300 words for 2-5), Osaril (300 words, 1 Vine Net for 1), Furoxi (400 words, 1 Steel Fishing Rod for 1), Patliadu (750 words, 1 Harpoon for 2), Vota (800 words, 2 Rope, 2 River Grass for 2), Yala (520 words, 2 Rope, 2 River Grass for 1), Trainee (1000 words, 20 Coins for 2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 2-3)
-    - Balance Battles: Furoxi (400 words, 1 Steel Fishing Rod for 1), River Goddess (5000 words for 5), Sliv (550 words, 1 Water Mask for 1), Isartu (720 words for 1), Nuig (850 words, 1 Water Mask for 1), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 1-3), Water Rudakai (1600 words, 3 Reinforced Rope for 1-2), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 1-3)
+    - Balance Battles: Velts: Water (1600 words for 2-4), Furoxi (400 words, 1 Steel Fishing Rod for 1), River Goddess (5000 words for 5), Sliv (550 words, 1 Water Mask for 1), Isartu (720 words for 1), Nuig (850 words, 1 Water Mask for 1), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 1-3), Water Rudakai (1600 words, 3 Reinforced Rope for 1-2), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 1-3)
 - **Buy:** 100 Coins in Item Shop/Luko's Inn
 - **Sell price:** 30 Coins (Don't sell unless you have >500)
 - **Used for:** 
@@ -1699,8 +1712,8 @@ ALL GAME
     - LF Wooden Chest: 1-6
     - MT Battles: Illi (700 words for 3-4) 
     - MT Wooden Chest: 3-9
-  - DESERT
-    - Gansu Battles: Ylly (720 words for 4)
+  - DESERT: Gansu Battles: Ylly (720 words for 4)
+  - WATER: Balance Battles: Velts: Water (1600 words for 4-9)
 - **Other sources:** Buy,
   - Anywhere Battles: Viyusa (25 minutes for 2-7)
   - FOREST
@@ -1766,6 +1779,7 @@ FOREST, some DESERT
     - LF Quests: Tinkering With Trinkets (5)
     - HuntS1 Quest: Protecting the Past (10)
   - DESERT: 3PC Quests: We Lucky Few (8)
+  - WATER: HuntS3 Quest: Helping Those In Need Grow (10)
 - **Equip:** Accessory: +0 Attack, +0 Defense, +1 Luck
 
 ### Rusty Pendant
@@ -1783,6 +1797,7 @@ FOREST, some DESERT
   - DESERT
     - Craft 3PC: Glass Necklace (2)
     - 3PC Quests: We Lucky Few (8)
+  - WATER: HuntS3 Quest: Helping Those In Need Grow (5)
 - **Equip:** Accessory: +0 Attack, +1 Defense, +2 Luck
 
 # S
@@ -2286,7 +2301,7 @@ DESERT
 
 # T-Z
 
-LAST UPDATED 19 JUN 2020
+LAST UPDATED 25 JUL 2020
 
 ### Tambo Mane
 
@@ -2411,7 +2426,9 @@ ALL GAME
     - Shrine GO Battles: Giant Ooze House (500 words for 2-4), Yawni Ooze (125 words for 0-2), Wavi Ooze (330 words for 1)
     - ShrinePoly Battles: Poly Mawt (900 words for 1-2)
     - ShrineMar Battles: Zosimas (575 words for 3-6), Balatrix (630 words for 3-7), Zosimalus (444 words for 2-4), Zosimos (400 words for 1-4), Zosimaga (600 words for 3-6), Balatros (700 words for 3-7), Osemar (1000 words for 3-8), Balatras (785 words for 3-5)
-  - WATER: Riza Battles: Jaihri (485 words for 1)
+  - WATER: 
+    - Riza Battles: Jaihri (485 words for 1)
+    - Balance Battles: Velts: Water (1600 words for 5-10)
   - DUST: DFO Battles: Zanthei (400 words for 1-2)
 - **Buy:** FOREST: 8 Coins in LF Item Shop/Alex's Shop DESERT: 12 Coins in 3PC Item Bazaar/Zilya's Great Bazaar
 - **Sell price:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)
