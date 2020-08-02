@@ -111,7 +111,7 @@ LAST UPDATED 24 JUL 2020
 - **Requirements:** 450 words
 - **Time allowed:** 30 minutes
 - **XP:** 45
-- **Drops:** 4-5 Fleet Tokens, 2-5 Raw Stone, 2 Dinti, 4-5 Hunter Tokens
+- **Drops:** 4-5 Fleet Lab Tokens, 2-5 Raw Stone, 2 Dinti, 4-5 Hunter Tokens
 - **Quests:** IC: One Rocky Start (1)
 
 ### Halix
@@ -423,7 +423,7 @@ LAST UPDATED 24 JUL 2020
 - **Requirements:** 1667 words
 - **Time allowed:** 1440 minutes (24 hours)
 - **XP:** 170
-- **Drops:** Wardrobe: Piak's Earrings https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;alien&#95;crystal&#95;earings&#95;blue.png, 2-11 Coins, 17 Fleet Lab Tokens, 3-7 Glass Shards, 1-3 Glass Bars, 17 Hunter Tokens, 5-6 Dinti, 1-4 Fine Fabric
+- **Drops:** Wardrobe: Piak's Earrings https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;alien&#95;crystal&#95;earings&#95;blue.png, 2-11 Coins, 17 Fleet Lab Tokens, 3-7 Glass Shards, 1-3 Glass Bars, 17 Hunter Tokens, 5-7 Dinti, 1-4 Fine Fabric
 - **Quests:** none so far
 
 ### Kolbs
@@ -463,7 +463,7 @@ LAST UPDATED 24 JUL 2020
 - **Requirements:** 800 words
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 80
-- **Drops:** 8 Fleet Lab Tokens, 2-5 Raw Fabric, 1-4 Rope, 2-4 Raw Steel, 8 Hunter Tokens, 3-8 Coins
+- **Drops:** 8 Fleet Lab Tokens, 2-5 Raw Fabric, 1-4 Rope, 2-4 Raw Steel, 8 Hunter Tokens, 2-8 Coins
 - **Quests:** Spaceship: Security Level Up (3)
 
 ### Oxie

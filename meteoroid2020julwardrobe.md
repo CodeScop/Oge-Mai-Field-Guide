@@ -1,6 +1,15 @@
-LAST UPDATED 21 JUL 2020
+LAST UPDATED 31 JUL 2020
 
 This event is unusually full of wardrobe in an unusual number of places! There are two wardrobe stores, multiple quest rewards, and even one monster drop. So I'll go through area by area. Links for previews of all wardrobe variations for things outside the store—for things inside the stores, there are sneak peeks there.
+
+### Participation Trophy In The Wardrobe Store
+
+There's something being "sold" for free in the Accessories section fo the Wardrobe Store ( https://4thewords.com/game/hero/wardrobe-store ) as of the end of this event: **Zanutaki Earrings**. These come in four varieties:
+
+- Zanthei Claw: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1074-xanthei-claw-earrings-7686-92138.png
+- Tambo Tuft: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1074-xanthei-claw-earrings-7689-94699.png
+- Kiru Flame: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1074-xanthei-claw-earrings-7691-45954.png
+- Nuig String: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1074-xanthei-claw-earrings-7693-97211.png
 
 ### Wardrobe: Impact Crater
 

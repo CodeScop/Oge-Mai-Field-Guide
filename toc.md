@@ -1,4 +1,4 @@
- (Table of Contents last updated 25 Jul 2020)
+ (Table of Contents last updated 31 Jul 2020)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -279,13 +279,7 @@
     - Quick Quests To Pick Up ASAP List
       - Impact Crater
       - Mining Site
-      - Spaceship
-  - New This Phase
-    - The Only Thing That's New With Giant Zanutaki
-    - New Quests (Phase)
-    - Pick Up ASAP
-    - New Monsters (Phase)
-    - Resources (Phase)
+      - Research Lab
   - All Meteoroid Quests
     - All Quests: Impact Crater
     - All Quests: Mining Site

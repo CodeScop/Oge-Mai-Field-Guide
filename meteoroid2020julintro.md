@@ -1,12 +1,21 @@
-LAST UPDATED 24 JUL 2020
+LAST UPDATED 31 JUL 2020
 
 It's Camp NaNo time! Welcome to the **Alien Meteoroid Expedition**!
 
-I'll be trying to keep up with this space (although I have times when I'm Very Busy this month, and the wiki may be better at keeping up)
+We're wrapping up now, entering the mop-up phase.
+
+Don't miss the **free item in the Wardrobe Store**!
+
+There's something being "sold" for free in the Accessories section fo the Wardrobe Store ( https://4thewords.com/game/hero/wardrobe-store ) as of the end of this event: **Zanutaki Earrings**. These come in four varieties:
+
+- Zanthei Claw: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1074-xanthei-claw-earrings-7686-92138.png
+- Tambo Tuft: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1074-xanthei-claw-earrings-7689-94699.png
+- Kiru Flame: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1074-xanthei-claw-earrings-7691-45954.png
+- Nuig String: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1074-xanthei-claw-earrings-7693-97211.png
 
 ### Global Challenges:
 
-- Starting Jul 24: Defeat Giant Zanutaki: 3,000 Battles: IN PROGRESS
+- Starting Jul 24: Defeat Giant Zanutaki: 3,000 Battles: COMPLETE after approx. 164 hours
 - Starting Jul 8: Lab Power Up: 1 Million Words: COMPLETE after approx. 10 hours
 - Starting Jul 7: Lab Exterior: 2 Million Words: COMPLETE after approx 20 hours
 - Starting Jul 6: Lab Metal Frame: 2 Million Words: COMPLETE after approx 20 hours
@@ -14,7 +23,8 @@ I'll be trying to keep up with this space (although I have times when I'm Very B
 
 ###List of Kirala-Defined Phases For This Event:
 
-- Giant Zanutaki: Jul 24 - ???: Nothing good came of mixing Zanthei, Nuig, Tambo, and Kiru. Now we need to defeat an Abomination of Science.
+- Endgame: Jul 31-Aug 3: I'm anticipating and writing this on July 31, that we're entering the final phase of the game. I think it's a pretty safe bet. Enjoy cleaning up the last of the remains!
+- Giant Zanutaki: Jul 24 - 31: Nothing good came of mixing Zanthei, Nuig, Tambo, and Kiru. Now we need to defeat an Abomination of Science.
 - Large Experiment: Jul 21- Jul 24: I see nothing good coming from mixing Tambo, Kiru, Nuig, and Zanthei. We'll see what happens.
 - Preparing For Large Experiment: Jul 20-21: This is going to be very short, and it's mostly a chance to play around with the new quest involving the matchup results.
 - Experiment: Sassi v Lubu: Jul 17-20: I find Xomri a little disturbing, but hey. Next experiment is cats and dogs and WHAT'S NEXT, because this is the last Experiment of its kind...
@@ -26,10 +36,11 @@ I'll be trying to keep up with this space (although I have times when I'm Very B
 
 ## Quick Quests To Pick Up ASAP List:
 
+I'm adjusting this on the basis of "it's the last weekend, what do you NOT want to miss?"
+
 ### Impact Crater
 
-- **Aid the Wordsmith**: A series which depends on wordcount; best to keep up with this as much as possible!
-- **One Rocky Start**: All these gotta-catch-'em-all quests are good to pick up immediately and have in the background.
+- **Aid the Wordsmith**: A series which depends on wordcount; might as well have it going on in the background!
 
 ### Mining Site
 
@@ -37,9 +48,9 @@ I'll be trying to keep up with this space (although I have times when I'm Very B
 
 ### Research Lab
 
-- **Projecting Light:** May not be strictly "urgent", and if it's too daunting to finish now, no worries - but we are guaranteed time to finish it, if we don't mind hauling the quest around until we unlock the Meteoroid again, and we are NOT guaranteed that we'll be able to start it later.
+- **Projecting Light:** HOLOGRAM. PET. We have been promised that we will have the opportunity to finish this quest and fight these monsters at some point after the event ends. That doesn't stop me from wanting it NOW.
 
-### Spaceship
+# New This Phase:
 
-- **An Alien Exam**: Same as One Rocky Start, it's good to have this kind of broad quest in the background.
+Nothing but the shiny new Wardrobe item, so I'm retiring the "new this phase" section as we wrap up the event. :)
 
