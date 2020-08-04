@@ -1,4 +1,4 @@
-LAST UPDATED 25 JUL 2020
+LAST UPDATED 4 AUG 2020
 
 Halfway through the year, we're opening the third Season!
 
@@ -93,3 +93,33 @@ Same as the rest of the month; we're waiting to switch the token drops till the 
 - Geometric Lines Tattoo - 25 Hunter Tokens
 - Limb Lines Tattoo - 25 Hunter Tokens
 - Valknut Tattoo - 25 Hunter Tokens
+
+# Early August 2020
+
+The Hunter Token monsters finally switched on August 4. 
+
+**Early Aug 2020 Sources Outside the Hunt:**
+
+August 2020 sources are Hunt monsters and monsters with wings/flight. **NOTE FOR DOUBLE TOKEN WEEK:** **Some of these do not double.** I suspect that fractional math is involved for some that are already generous without being doubled. So far, Spirit Wignow, Spirit Castu, and Ardia are the undoubled ones. Also, Buholi in Tall Trees is being weird as of this writing.
+
+- Global Battles: Vi (1-4 for 5 minutes), Viyu (3-14 for 15 minutes), Viyusa (5-20 for 25 minutes), Xin (100 words for 1)
+- LF Battles: Reenu (200 words for 2), Spirit Wignow (450 words for 4-5), Pester (500 words for 5), Nitana (700 words for 7)
+- MT Battles: Ardia (50 words for 1), Ardii (60 words for 1), Ardis (70 words for 1), Lorsa (450 words for 4-5), Spirit Lorsini (1000 words for 10)
+- FOREST EXPEDITION:
+
+  - BC Battles: Sacer (120 words for 1)
+  - FB Battles: Ardia (50 words for 1), Ardii (60 words for 1), Ardis (70 words for 1), Spirit Ardia (80 words for 1)
+  - SC Battles: Hunt monsters only
+  - TT Battles: Scofin (150 words for 1-2), Buhini (150 words, 1 Nezthai Claw, and 2-day Streak for 1-2), Fin (250 words for 2-3), Finoir (500 words for 5), Buhovi (650 words, 2 Nezthai Claws, and 4-day Streak for 6-7), Buholi (800 words, 3 Nezthai Claws, 6-day streak for ??? - dropping 4-8 Double Token Weekend, seems in error as of this writing)
+  - GL Battles: Hunt monsters only
+- 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3), Desert Wignow (444 words for 4-5)
+- Gansu Battles: Frizi (150 words for 1-2), Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Wetu (1100 words for 11), Arenica (1350 words and 1 Steel Dagger for 13-14)
+- DESERT EXPEDITION: 
+
+  - Dig Battles: Hunt monsters only
+  - Ruins Battles: Spirit Gordiliana (800 words for 8)
+- Riza Battles: Frizi (150 words for 1-2), Osaril (300 words and 1 Vine Net for 3), Sparfly (450 words for 4-5), Wyvern (1300 words for 13)
+- WATER EXPEDITION:
+  - not available at this time
+- Balance Battles: Spirit Castu (550 words for 4-5, yes, that's 4-5, not 5-6)
+- DFO Battles: Spirit Ardia (80 words for 1), Ascre (150 words for 1-2), Belasi (200 words for 2), Osalyu (750 words for 7-8), Papple Spirit (900 words for 9), Papple (1000 words for 10), Miclan (5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 50)
