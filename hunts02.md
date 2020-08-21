@@ -212,7 +212,7 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 - **Drops:** 7 Hunter Tokens, 1-3 Raw Steel, 2-4 Raw Fabric, 0-1 Wood Swords, 0-1 Red Dye, 1-3 Wood
 - **Quests:** HuntS2: Guarding the Path (4)
 
-### Imali (Exp: Dig)
+### Imali
 
 - **Unlocked by:** HuntS2 Quest: No Wrong Path
 - **Location:** Dig Site
@@ -242,7 +242,7 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 - **Drops:** 9 Hunter Tokens, 2-4 Raw Fabric, 0-1 Red Dye, 1-2 Raw Stone, 1-2 Wood
 - **Quests:** HuntS2: State of Rest (4)
 
-### Shashi (Exp: Dig)
+### Shashi
 
 - **Unlocked by:** HuntS2 Quest: No Wrong Path
 - **Location:** Dig Site
@@ -251,6 +251,15 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 - **XP:** 25
 - **Drops:** 2-3 Hunter Tokens, 1-2 Raw Fabric, 0-1 Raw Gold
 - **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
+
+### Shepherd
+
+- **Unlocked by:** Hunt S2 Quest: No Wrong Path
+- **Requirements:** 1000 words
+- **Time allowed:** 240 minutes (4 hours)
+- **XP:** 100
+- **Drops:** 10 Hunter Tokens, 2-6 Raw Fabric, 1-2 Red Dye, 1-4 Wood, 1-3 Rope, 1-3 Raw Sandstone
+- **Quests:** HuntS2: Stumbling Upon Sheep (4)
 
 ### Velts: Desert
 

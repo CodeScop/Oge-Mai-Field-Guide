@@ -88,6 +88,14 @@ In practice, if you're fighting a monster which exists both in your original are
 
 I hope you brought plenty of Wood Spears, and that you have plenty of Wood and Rope with you; these resources are useful and relatively scarce here.
 
+# Meteoroid Expedition
+
+LAST UPDATED 20 AUG 2020
+
+Working on getting this info, but while I'm working, I'll put in the notes from the Meteoroid Expedition events that seem to apply.
+
+I also may be restructuring the Guide a bit...
+
 # Gansu Watering Hole
 
 LAST UPDATED 31 MARCH 2019
@@ -141,15 +149,13 @@ https://4thewords.com/read-oge-mai-historical-survey-by-kirala
 
 # Water Expedition
 
-LAST UPDATED 19 JUN 2020
+LAST UPDATED 20 AUG 2020
 
-The Water Expedition is a little different than the others. It's the only one that (theoretically) dates back to the beta version of the game. Because it's older than the Floating City of Balance, it's the only Expedition that unlocks partway through a Region's Main Quests.
+Well, that just happened!
 
-And it's the only one currently out of service. The April 2020 Camp NaNo event explored the new Water Expedition thoroughly, and now we're waiting for it to get back in service.
+We've got a bunch of new areas and quests here, and it will take me a while to integrate them.
 
-I removed all my Raina Surface Camp info once the new version opened in April. However, by popular demand, the old Raina Surface Camp quests and shop are reinstated—in Riza Rivertown, if you complete the Raina Surface Camp quest. The old Raina quests and shop are available under Kedanus's tabs **once you complete Special Mini-Area Quest: Infected Raina Camp.**
-
-So now that it looks like we might be in this limbo for a few months, I'm pasting in the old Quests and Resources info here for reference until we see what's next.
+So for now, I'm slapping together all my notes from old Raina and the Raina River Festival and removing the things that obviously don't apply anymore, and I'll update this intro when I've actually got current information.
 
 # Floating City of Balance
 

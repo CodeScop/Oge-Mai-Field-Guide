@@ -77,7 +77,7 @@ I'm going to reiterate what I said in the Quest advice: if you haven't turned in
 - **Requirements:** 150 words, 1 Wood Fishing Rod  
 - **Time Allowed:** 15 minutes  
 - **XP:** 15  
-- **Drops:** 1 River Grass, 1 Algea  
+- **Drops:** 1 River Grass, 1 Algae
 
 ### * Red Witch (Available ONLY during Main Quest 7)
 

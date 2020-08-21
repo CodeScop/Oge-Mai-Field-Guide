@@ -144,7 +144,7 @@ LAST UPDATED 11 FEB 2020
 
 - **Unlocked by:** Opening Guardian's Lair
 - **Type:** Battle
-- **Requirements:** Defeat 5 Night Dandeleons (and already have Bright Night Blossoms from Forward Base completed)
+- **Requirements:** Defeat 5 Night Dandeleons (and already have Blossom With Flowers from Forward Base completed)
 - **Rewards:** Wardrobe: Dandeleon Crown
 - **Recommendations:** It's a cute crown and they're cute monsters! Who only come out at night. ("Night" apparently starts at 18:00 where I am; I'm not sure how much of that calculates Daylight Savings or not. From others, I suspect it's 19:00 without Daylight Savings.)
 

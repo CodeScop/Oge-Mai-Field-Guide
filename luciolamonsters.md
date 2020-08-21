@@ -1,4 +1,4 @@
-LAST UPDATED 1 APR 2020 
+LAST UPDATED 14 AUG 2020 
 
 Adding in all the numbers this time, but be aware: I'm assuming you have at least some Luck.
 
@@ -41,7 +41,7 @@ Adding in all the numbers this time, but be aware: I'm assuming you have at leas
 
 - **Requirements**: 700 words
 - **Time Allowed:** 130 minutes (2 hours 10 minutes)
-- **XP:** 115
+- **XP:** 70
 - **Drops:** 2-3 Feathers, 1-2 Reenu Wings, 2-3 Leaves
 
 ###Pester

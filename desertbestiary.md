@@ -1,4 +1,4 @@
-LAST UPDATED 25 JUL 2020
+LAST UPDATED 14 AUG 2020
 
 As with the Forest...
 
@@ -103,7 +103,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Time allowed:** 40 minutes
 - **XP:** 40
 - **Drops:** 1-2 Leaves, 4 Hunter Tokens, 1-2 Rope, 1-2 Raw Fabric
-- **Quests:** HuntS1: Elder Library Assistants (4)
+- **Quests:** HuntS1: Elder Library Assistants (4),Curator's Family (1)
 
 ### Aracni (Oge: LF)
 
@@ -325,7 +325,7 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
 - **Time allowed:** 120 minutes (2 hours)
 - **XP:** 100
 - **Drops:** 10 Hunter Tokens, 1-6 Coins, 0-1 Wooden Keys, 0-1 Fur, 1-3 Raw Fabric
-- **Quests:** none as of first half of March
+- **Quests:** HuntS1: Curator's Family (1)
 
 ### Caravan (Exp: ShrineGiant)
 
@@ -347,7 +347,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Time allowed:** 90 minutes (1 hour 30 minutes)
 - **XP:** 80
 - **Drops:** 8 Hunter Tokens, 1-4 Wood, 1-2 Raw Steel, 0-1 Fur
-- **Quests:** HuntS1 Quest: Elder Library's Security (4)
+- **Quests:** HuntS1 Quest: Elder Library's Security (4), Curator's Family (1)
 
 ### Crilum (Exp: ShrineCO)
 
@@ -917,7 +917,7 @@ see **Skuppa's Giant Marionette**
 
 - **Requirements**: 700 words
 - **Time Allowed:** 130 minutes (2 hours 10 minutes)
-- **XP:** 115
+- **XP:** 70
 - **Drops:** 2-3 Feathers, 1-2 Reenu Wings, 2-3 Leaves
 - **Quests:**
   - LF: Main Quest 3/The Nitana (1), Forest Creatures (1)
@@ -1188,7 +1188,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Time allowed:** 60 minutes (1 hour)
 - **XP:** 60
 - **Drops:** 6 Hunter Tokens, 1-3 Raw Fabric, 1 Rope, 0-3 Dust
-- **Quests:** HuntS1: A Clue to the Past (3)
+- **Quests:** HuntS1: A Clue to the Past (3),Curator's Family (1)
 
 ### Search Party (Oge: [MT])
 

@@ -227,7 +227,7 @@ Note that you must complete the **Joining the Hunt** quest for these to appear; 
 - **Time allowed:** 40 minutes
 - **XP:** 40
 - **Drops:** 1-2 Leaves, 4 Hunter Tokens, 1-2 Rope, 1-2 Raw Fabric
-- **Quests:** HuntS1: Elder Library Assistants (4)
+- **Quests:** HuntS1: Elder Library Assistants (4), Curator's Family (1)
 
 ### Burocat
 
@@ -237,7 +237,7 @@ Note that you must complete the **Joining the Hunt** quest for these to appear; 
 - **Time allowed:** 120 minutes (2 hours)
 - **XP:** 100
 - **Drops:** 10 Hunter Tokens, 1-6 Coins, 0-1 Wooden Keys, 0-1 Fur, 1-3 Raw Fabric
-- **Quests:** none as of first half of March
+- **Quests:**  HuntS1: Curator's Family (1)
 
 ### Clawadin
 
@@ -247,7 +247,7 @@ Note that you must complete the **Joining the Hunt** quest for these to appear; 
 - **Time allowed:** 90 minutes (1 hour 30 minutes)
 - **XP:** 80
 - **Drops:** 8 Hunter Tokens, 1-4 Wood, 1-2 Raw Steel, 0-1 Fur
-- **Quests:** HuntS1 Quest: Elder Library's Security (4)
+- **Quests:** HuntS1: Elder Library's Security (4), Curator's Family (1)
 
 ### Curator of Elder Library
 
@@ -257,7 +257,7 @@ Note that you must complete the **Joining the Hunt** quest for these to appear; 
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 100
 - **Drops:** 10 Hunter Tokens, 2-6 Raw Fabric, 1-3 Raw Gold, 0-3 Glass Shards, 0-1 Piece of Parchment, 1-2 Rope
-- **Quests:** The Curator of Elder Library (4)
+- **Quests:** HuntS1: The Curator of Elder Library (4)
 
 ### Sassi
 
@@ -267,11 +267,11 @@ Note that you must complete the **Joining the Hunt** quest for these to appear; 
 - **Time allowed:** 60 minutes (1 hour)
 - **XP:** 60
 - **Drops:** 6 Hunter Tokens, 1-3 Raw Fabric, 1 Rope, 0-3 Dust
-- **Quests:** HuntS1: A Clue to the Past (3)
+- **Quests:** HuntS1: A Clue to the Past (3), Curator's Family (1)
 
 ### Velts
 
-- **Unlocked by:** The Hunt Begin
+- **Unlocked by:** The Hunt Begins
 - **Location:** Mama Tree
 - **Requirements:** 800 words
 - **Time allowed:** 40 minutes
