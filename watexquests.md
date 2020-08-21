@@ -1,4 +1,38 @@
-LAST UPDATED with outdated info 20 AUG 2020
+LAST UPDATED 21 AUG 2020
+
+#Raina Surface Camp
+
+### Energy Now, Tired Later
+
+- **Unlocked by:** Opening Raina Surface Camp
+- **Type:** Battle
+- **Requirements:** Defeat 10 Begala and 10 Rea &Pira
+- **Rewards:** Unlock Swamplands, Wardrobe: Golden Nose Piercing https://4thewords.com/media/wardrobe/featured/male/wm_780-golden-nose-piercing-5300-55800.png
+- **Recommendations:**
+
+### Sans the Bone
+
+- **Unlocked by:** Opening Raina Surface Camp
+- **Type:** Battle
+- **Requirements:** Defeat 5 Auwi
+- **Rewards:** 3 River Water and Wardrobe: Bone Nose Piercing https://4thewords.com/media/wardrobe/featured/male/wm_719-bone-nose-piercing-4712-76828.png
+- **Recommendations:**
+
+### Defeating a Droxa Drove
+
+- **Unlocked by:** **Unlocked by:** Opening Raina Surface Camp
+- **Type:** Battle
+- **Requirements:** Defeat 3 Droxa
+- **Rewards:** 1 River Chest, Wardrobe: Raina Gold Necklace https://4thewords.com/media/wardrobe/featured/male/wm_722-raina-gold-necklace-4742-87811.png
+- **Recommendations:**
+
+### Stamina Level Up!
+
+- **Unlocked by:** **Unlocked by:** Opening Raina Surface Camp
+- **Type:** Battle
+- **Requirements:** Defeat 15 Vaktra
+- **Rewards:** 1 River Chest & Wardrobe: Moss Hat https://4thewords.com/media/wardrobe/featured/male/wm_727-moss-hat-4772-99897.png
+- **Recommendations:**
 
 ### Golden Tooth Monsters
 
@@ -21,7 +55,7 @@ LAST UPDATED with outdated info 20 AUG 2020
 - **Unlocked by:** Infected Raina Part 1
 - **Type:** Battle, Collection
 - **Requirements:** Pay 30 Net and 30 Leaves, and defeat 10 Vota, 10 Knusha, 10 Yala
-- **Rewards:** 2 Dust Water, unlock Infected Raina 3
+- **Rewards:** 2 Dust Water, 1 River Chest, unlock Infected Raina 3
 - **Recommendations:** Again, I'd do the battles first and then roam to the Forest and Desert to collect the rest. The resource calculators are almost required at this point.
 
 ### ** Infected Raina Part 3 **
@@ -29,7 +63,7 @@ LAST UPDATED with outdated info 20 AUG 2020
 - **Unlocked by:** Infected Raina Part 2
 - **Type:** Battle
 - **Requirements:** Defeat 10 Wyverns
-- **Rewards:** 3 Dust Water, Wardrobe: Raina Mask, ability to craft Raina Sword and Raina Bracelet
+- **Rewards:** 3 Dust Water, Wardrobe: Raina Mask https://4thewords.com/media/wardrobe/featured/female/wm_featured_raina_mask.png , ability to craft Raina Sword and Raina Bracelet
 - **Recommendations:** Almost there! You got FORTY NETS, this is a piece of cake in comparison! (Start collecting River Stones; you'll need 1000 of them to get both your shiny new beauties in the store.)
 
 ### ** 4 the Infected **
@@ -37,7 +71,7 @@ LAST UPDATED with outdated info 20 AUG 2020
 - **Unlocked by:** Infected Raina Part 3
 - **Type:** Battle, Collection
 - **Requirements:** Defeat 15 Knusha, 15 Vota, and 15 Yala, and pay 45 Nets and 45 Leaves
-- **Rewards:** Wardrobe: Ardi Raina Mask
+- **Rewards:** Wardrobe: Ardi Raina Mask https://4thewords.com/media/wardrobe/featured/female/wf_featured_ardi_raina_mask_yellow.png
 - **Recommedations:** This just popped up when Expedition reopened and I thought Infected Raina Part 2 was the hardest quest I'd ever done in one go. I got Muisje to do it for me and find out that there is absolutely no reward, nor unlocking, beyond the stated reward. I have zero intention of doing it myself till I run out of other things to do. That should tell you my recommendation.
 
 ### Steel Boots
@@ -47,7 +81,7 @@ LAST UPDATED with outdated info 20 AUG 2020
 - **Unlocked by:** Opening Raina Surface Camp
 - **Type:** Collection
 - **Requirements:** Pay 25 Steel Boots
-- **Rewards:** 1 Dust Water (what's this good for? Who knows? Nothing yet.)
+- **Rewards:** 1 Dust Water (what's this good for? Who knows? Nothing yet.) and 3 Stempos
 - **Recommendations:** THE EVIL QUEST OF EVIL. This is OBSCENELY expensive. 
   - Each Steel Boot needs 3 Steel Bars and 1 Fabric Boot (among other items) to build. Each Fabric Boot needs 100 Coins, 3 Leafsung Boots, some Fine Fabric, Raw Fabric, and a Steel Bar to build. Each Leafsung Boot requires 2 Leaf Boots and 1 Leafsung Ink to build. Each Leafsung Ink requires 5 Essence, 5 Spider Poison, 3 Claws, and 3 Dust. 
   - So in short, if you drill down, each Steel Boot requires that you build one Fabric Boot, from Leafsung Boots, from Leaf Boots and Leafsung Ink, and Steel Bars, which means each Steel Boot needs 100 Coins, 9 Claws, 9 Dust, 15 Essence, 1 Fine Fabric, 6 Leaf Boots, 45 Leaves, 4 Raw Fabric, 2 River Grass, 15 Spider Poison, and 4 Steel Bars, which very likely will need to be made from 12 Raw Steel and 12 Wood.
