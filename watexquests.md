@@ -1,38 +1,49 @@
-LAST UPDATED 21 AUG 2020
+LAST UPDATED 22 AUG 2020
 
-#Raina Surface Camp
+#RAINA SURFACE CAMP SIDEQUESTS
 
 ### Energy Now, Tired Later
 
 - **Unlocked by:** Opening Raina Surface Camp
 - **Type:** Battle
 - **Requirements:** Defeat 10 Begala and 10 Rea &Pira
-- **Rewards:** Unlock Swamplands, Wardrobe: Golden Nose Piercing https://4thewords.com/media/wardrobe/featured/male/wm_780-golden-nose-piercing-5300-55800.png
-- **Recommendations:**
+- **Rewards:** Unlock Swamplands, Wardrobe: Golden Nose Piercing https://4thewords.com/media/wardrobe/featured/male/wm&#95;780-golden-nose-piercing-5300-55800.png
+- **Recommendations:** This is what unlocks the next area in Raina Expedition; I'd go for it.
 
 ### Sans the Bone
 
 - **Unlocked by:** Opening Raina Surface Camp
 - **Type:** Battle
 - **Requirements:** Defeat 5 Auwi
-- **Rewards:** 3 River Water and Wardrobe: Bone Nose Piercing https://4thewords.com/media/wardrobe/featured/male/wm_719-bone-nose-piercing-4712-76828.png
-- **Recommendations:**
+- **Rewards:** 3 River Water and Wardrobe: Bone Nose Piercing https://4thewords.com/media/wardrobe/featured/male/wm&#95;719-bone-nose-piercing-4712-76828.png
+- **Recommendations:** This is great if you're trying to make some more Dí Bags, since you get not only the reward River Water but also the River Water dropped by the Auwi on the way. Otherwise, up to you.
 
 ### Defeating a Droxa Drove
 
-- **Unlocked by:** **Unlocked by:** Opening Raina Surface Camp
+- **Unlocked by:** Opening Raina Surface Camp
 - **Type:** Battle
 - **Requirements:** Defeat 3 Droxa
-- **Rewards:** 1 River Chest, Wardrobe: Raina Gold Necklace https://4thewords.com/media/wardrobe/featured/male/wm_722-raina-gold-necklace-4742-87811.png
-- **Recommendations:**
+- **Rewards:** 1 River Chest, Wardrobe: Raina Gold Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;722-raina-gold-necklace-4742-87811.png
+- **Recommendations:** I like the Raina Gold Necklace, personally, and a River Chest is always nice, and the Droxa make me feel rich. Go for it!
 
 ### Stamina Level Up!
 
-- **Unlocked by:** **Unlocked by:** Opening Raina Surface Camp
+- **Unlocked by:** Opening Raina Surface Camp
 - **Type:** Battle
 - **Requirements:** Defeat 15 Vaktra
-- **Rewards:** 1 River Chest & Wardrobe: Moss Hat https://4thewords.com/media/wardrobe/featured/male/wm_727-moss-hat-4772-99897.png
-- **Recommendations:**
+- **Rewards:** 1 River Chest & Wardrobe: Moss Hat https://4thewords.com/media/wardrobe/featured/male/wm&#95;727-moss-hat-4772-99897.png
+- **Recommendations:** Up to you! No secret ins or outs here.
+
+### New Family of Friends
+
+NOTE: This exact quest was offered during the Raina Festival in April 2020; if you completed it then, it will not be available now.
+
+- **Unlocked by:** Opening Raina Surface Camp
+- **Location:** Raina Surface Camp
+- **Type:** Wordcount, Streak
+- **Requirements:** Attain 5-day streak 
+- **Rewards:** 1 River Chest & Wardrobe: Algae Shirt https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;704-algae-top-4588-11016.png
+- **Recommendations:** Pick this up immediately as you have nothing to lose.
 
 ### Golden Tooth Monsters
 
@@ -40,7 +51,7 @@ LAST UPDATED 21 AUG 2020
 - **Type:** Battle
 - **Requirements:** Defeat 15 Jaihri
 - **Rewards:** 3 Harpoons
-- **Recommendations:** Go for it! Those Harpoons are always nice to have on hand, and Jaihri get you lots of valuable Hardwood (which at this point, you may be wanting to think about selling for Coins).
+- **Recommendations:** You'll have to go back to Riza to fight Jaihri, but... go ahead and go for it! Those Harpoons are always nice to have on hand, and Jaihri get you lots of valuable Hardwood (which at this point, you may be wanting to think about selling for Coins).
 
 ### Infected Raina Part 1
 
@@ -48,7 +59,7 @@ LAST UPDATED 21 AUG 2020
 - **Type:** Battle, Collection
 - **Requirements:** Defeat 5 Vota, 5 Knusha, & Pay 10 Nets, and 10 Leaves
 - **Rewards:** 1 Dust Water, unlock Infected Raina 2
-- **Recommendations:** We mentioned that this is the region of convoluted sidequests, yes? Infected Raina 3 has some nice benefits. So for this, go ahead and fight your battles for Vota and Knusha, then go to the Forest to farm Vine Nets and Leaves as needed. (And I'd *strongly recommend* getting a jump on Infected Raina Part 2 before turning this in, for morale. That means 30 MORE Rope, 30 MORE Leaves, and 30 MORE Nets, plus all the Rope and River Grass to fight more Vota and Knusha, which means you'll probably need to farm 120 Vine Nets in Mama Tree, have 80 Rope, 40 Leaves, 40 River Grass, then head over to the Desert and get 40 Steel and 40 Stone and craft your Nets)
+- **Recommendations:** We mentioned that this is the region of convoluted sidequests, yes? Infected Raina 3 has some nice benefits. So for this, go ahead and fight your battles for Vota and Knusha, then go to the Forest to farm Vine Nets and Leaves as needed. (And I'd *strongly recommend* getting a jump on Infected Raina Part 2 before turning this in, for morale. That means 30 MORE Rope, 30 MORE Leaves, and 30 MORE Nets, plus all the Rope and River Grass to fight more Vota and Knusha, which means you'll probably need to farm 40 Vine Nets in Mama Tree, have 40 Leaves, then head over to the Desert and get 40 Steel and 40 Stone and craft your Nets). (And if you want to go all the way through to Part 4, that's up by 45 more for each of the above.) If you do the battles last, you might be able to pick up the next quest immediately and enjoy the benefits of overlap.
 
 ### ** Infected Raina Part 2 **
 
@@ -63,7 +74,7 @@ LAST UPDATED 21 AUG 2020
 - **Unlocked by:** Infected Raina Part 2
 - **Type:** Battle
 - **Requirements:** Defeat 10 Wyverns
-- **Rewards:** 3 Dust Water, Wardrobe: Raina Mask https://4thewords.com/media/wardrobe/featured/female/wm_featured_raina_mask.png , ability to craft Raina Sword and Raina Bracelet
+- **Rewards:** 3 Dust Water, Wardrobe: Raina Mask https://4thewords.com/media/wardrobe/featured/female/wm&#95;featured&#95;raina&#95;mask.png , ability to craft Raina Sword and Raina Bracelet
 - **Recommendations:** Almost there! You got FORTY NETS, this is a piece of cake in comparison! (Start collecting River Stones; you'll need 1000 of them to get both your shiny new beauties in the store.)
 
 ### ** 4 the Infected **
@@ -71,8 +82,8 @@ LAST UPDATED 21 AUG 2020
 - **Unlocked by:** Infected Raina Part 3
 - **Type:** Battle, Collection
 - **Requirements:** Defeat 15 Knusha, 15 Vota, and 15 Yala, and pay 45 Nets and 45 Leaves
-- **Rewards:** Wardrobe: Ardi Raina Mask https://4thewords.com/media/wardrobe/featured/female/wf_featured_ardi_raina_mask_yellow.png
-- **Recommedations:** This just popped up when Expedition reopened and I thought Infected Raina Part 2 was the hardest quest I'd ever done in one go. I got Muisje to do it for me and find out that there is absolutely no reward, nor unlocking, beyond the stated reward. I have zero intention of doing it myself till I run out of other things to do. That should tell you my recommendation.
+- **Rewards:** Wardrobe: Ardi Raina Mask https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;ardi&#95;raina&#95;mask&#95;yellow.png
+- **Recommedations:** You're a pro by now. Decide whether you want to top it off.
 
 ### Steel Boots
 
@@ -99,3 +110,127 @@ LAST UPDATED 21 AUG 2020
   - Seventh: So, the Steel Bars. Yasri in 3PC drop them directly, and also drop Fine Fabric that you'll need, and extra Raw Steel to help polish off. If you get tired of them, Rulo drop Raw Steel in nice quantities.
   - Eighth: Essence and Leaves can come from Desert Wignow, which conveniently also drop the Desert Stones that are in such high demand for Gansu sidequests.
   - Good luck, and may the Force be with you.
+
+# SWAMPLANDS SIDEQUESTS
+
+### Wading Through & Onwards (1/2)
+
+NOTE: This exact quest was offered during the Raina Festival in April 2020; if you completed it then, it will not be available now.
+
+- **Unlocked by:** Opening Swamplands
+- **Type:** Battle
+- **Requirements:** Defeat 1 each:
+  - Heliodae
+  - Rhamp
+  - Quishi
+  - Tritus
+  - Copei
+  - Larida
+  - Galai
+  - Swamp Wignow
+- **Rewards:** Wardrobe: Ghillie Suit Head https://4thewords.com/media/wardrobe/featured/female/wf&#95;705-ghillie-suit-top-4590-12257.png, progress on questline
+- **Recommendations:** Gotta get through this to get on. Good luck! (Maaaybe save Larida for last, so as to get maximum overlap between turning in this quest and picking up the next.)
+
+### Twisted Treacherous Trails (2/2)
+
+- **Unlocked by:** Wading Through & Onwards (1/2)
+- **Type:** Battle
+- **Requirements:** Defeat 5 each:
+  - Heliodae
+  - Rhamp
+  - Quishi
+  - Tritus
+  - Copei
+  - Larida
+  - Galai
+  - Swamp Wignow
+- **Rewards:** Unlock Raina Sacred Site, Wardrobe: Quishi Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;786-beaver-necklace-5336-27752.png
+- **Recommendations:** You've got this! Think of all the lovely River things you're accruing! Once you have a safe 200-500 stash of River Grass and River Water, they become a great source of emergency Coins.
+
+### Wrestlin' Swamp Larida
+
+- **Unlocked by:** Opening Swamplands
+- **Type:** Battle
+- **Requirements:** Defeat 15 Larida
+- **Rewards:** Wardrobe: Larida Necklace
+- **Recommendations:** Self-evident. Either that necklace is perfect or not.
+
+### No Safe Feet
+
+- **Unlocked by:** Opening Swamplands
+- **Type:** Battle
+- **Requirements:** Defeat 10 Swamp Wignow
+- **Rewards:** 50 Coins & Wardrobe: Bone Shoulder Pads https://4thewords.com/media/wardrobe/featured/male/wm&#95;717-bone-shoulder-pads-4704-43502.png
+- **Recommendations:** Up to you. I find Swamp Wignow lovely opponents, but the rewards are unspectacular.
+
+# RAINA SACRED SITE SIDEQUESTS
+
+### A Worthy Offering
+
+- **Unlocked by:** Opening Raina Sacred Site
+- **Type:** Streak, Wordcount, Collection
+- **Requirements:** Attain 10-day Streak, 10000 Words, deliver 10 Hardwood, 10 Rope, and 10 Steel Bars
+- **Rewards:** Unlock Rebel Raina Hideout, Wardrobe: Golden Earrings https://4thewords.com/media/wardrobe/featured/male/wm&#95;778-golden-earrings-5292-58135.png
+- **Recommendations:** You'll want this one. Seeing as how it unlocks the last Raina area. Plenty of time to look around while you're waiting for those 10 days to pass.
+
+### Au-some Frog Race
+
+####NOTE: Important Info in Recommendations
+
+- **Unlocked by:** Opening Raina Sacred Site
+
+- **Type:** Battle
+
+- **Requirements:** Defeat 1000 Kuldoro
+
+- **Rewards:** Wardrobe: Kuldoro Pet https://4thewords.com/media/wardrobe/featured/male/wm&#95;772-golden-frog-pet-5280-13978.png
+
+- **Recommendations:** That's a lot of Kuldoro. Good thing you can work on the quest without picking it up.
+
+  Repeat: as of this writing when the site opens up, this quest counts every Kuldoro you've ever battled, whether you were carrying the quest or not.
+
+  So you are 100% free to pick this up and put it down at your convenience, same as a Collection quest.
+
+  And congrats to Jess Mountifield for inspiring this quest with her ambitious self-challenge during the special event! https://4thewords.com/forum/thread-1000-gold-froggies/1
+
+### Growth & Restoration
+
+- **Unlocked by:** Opening Raina Sacred Site
+- **Type:** Battle, Collection
+- **Requirements:** Defeat 5 Ognimaf and deliver 50 Swamp Moss
+- **Rewards:** 1 River Chest and Wardrobe: Small Gold Crown https://4thewords.com/media/wardrobe/featured/male/wm&#95;733-raina-gold-crown-small-4796-18014.png
+- **Recommendations:** It's small, it's cheap, it gets you a River Chest. Go for it!
+
+### Seeding New Beginnings (1/3)
+
+- **Unlocked by:** Opening Raina Sacred Site
+- **Type:** Battle
+- **Requirements:** Defeat 1 each:
+  - Bashta
+  - Minko
+  - Toccal
+- **Rewards:** 2 River Chests
+- **Recommendations:** This makes all the other battling through worth it. River Chests ahoy! And the prospect of future things.
+
+### Seeding New Beginnings (2/3)
+
+- **Unlocked by:** Seeding New Beginnings (1/3)
+- **Type:** Battle
+- **Requirements:** Defeat 5 each:
+  - Bashta
+  - Minko
+  - Toccal
+- **Rewards:** Wardrobe: Seed Earrings https://4thewords.com/media/wardrobe/featured/male/wm&#95;939-seed-earrings-6785-28324.png
+- **Recommendations:** I quite like the earrings, and I like being thorough. I wouldn't prioritize this quest chain from here on out, though.
+
+### Seeding New Beginnings (3/3)
+
+- **Unlocked by:** Seeding New Beginnings (2/3)
+- **Type:** Battle
+- **Requirements:** Defeat 10 each:
+  - Bashta
+  - Minko
+  - Toccal
+- **Rewards:** Wardrobe: Gardener Hat https://4thewords.com/media/wardrobe/featured/male/wm&#95;911-plant-hat-6506-66225.png
+- **Recommendations:** Very fashionable, that hat, no? Worth 18,000 words?
+  :) Now you'll know what everyone's been up to.
