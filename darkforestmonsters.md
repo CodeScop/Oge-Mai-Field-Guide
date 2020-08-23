@@ -92,7 +92,7 @@ LAST UPDATED 27 DEC 2019
 
 ## (All)
 
-LAST UPDATED 27 DEC 2019
+LAST UPDATED 23 AUG 2020
 
 ### Ascre
 
@@ -133,7 +133,7 @@ LAST UPDATED 27 DEC 2019
 - **Requirements:** 1500 words
 - **Time allowed:** 240 minutes (4 hours)
 - **XP:** 150
-- **Drops:** 1-2 Hardwood, 2-4 Raw Fabric, 3-5 Rope, 3-5 Bones, 1 Refined Dust, 2-4 Bones, 1 Steel Chains, 4-6 Raw Steel
+- **Drops:** 1-2 Hardwood, 2-4 Raw Fabric, 3-5 Rope, 1 Refined Dust, 2-4 Bones, 1 Steel Chains, 4-6 Raw Steel
 - **Quests:** DFO: Bone To Pick (40), Reinforced Ardi Lamp Station 1/4 (1)
 
 ### * Chaensi

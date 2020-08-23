@@ -1,4 +1,4 @@
-LAST UPDATED 14 AUG 2020
+LAST UPDATED 23 AUG 2020
 
 Beware! **Here be spoilers**. Every single quest requiring a given monster is listed, no matter how late in the game it appears. Don't say I didn't warn you. But maybe you'll be able to mix and match quests more efficiently.
 
@@ -1098,7 +1098,7 @@ see **Skuppa's Giant Marionette**
 - **Requirements:** 600 words
 - **Time allowed:** 90 minutes (1 hour 30 minutes)
 - **XP:** 60
-- **Drops:** 1 Rope, 1 Nezthai Claws, 1-2 Wood
+- **Drops:** 1 Rope, 1-2 Nezthai Claws, 1-2 Wood
 - **Quests:**
   - Functionally, anything that requires Nezthai Claws will require a Nezthai battle — and any battle involving a monster starting with Buh- requires Nezthai Claws. See Buh- monsters and All Resources for further info.
   - BC: Nabia's Exploration (1)
