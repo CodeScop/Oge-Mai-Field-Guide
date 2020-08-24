@@ -1,6 +1,4 @@
-LAST UPDATED 23 AUG 2020 - STILL SPECULATIVE
-
-There's a lot I want to test with an account that DIDN'T clear out the Meteor events. Some of this may be unreliable for now, because I'm making assumptions and cribbing from old event material.
+LAST UPDATED 24 AUG 2020 - STILL IN PROGRESS
 
 # IMPACT CRATER QUESTS
 
@@ -12,6 +10,17 @@ There's a lot I want to test with an account that DIDN'T clear out the Meteor ev
 - **Requirements:** Defeat 1 Rosarin, 3 Nartha; write 5K words
 - **Rewards:** Unlock Spaceship area
 - **Recommendations:** This is a priority bc it opens the route to the rest of the Meteoroid.
+
+### A Happy Prickle
+
+NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
+
+- **Location:** Impact Crater
+- **Unlocked by:** Opening Impact Crater
+- **Type:** Battle
+- **Requirements:** Defeat 20 Maesc
+- **Rewards:** Wardrobe: Crystal Eyebrows https://4thewords.com/media/wardrobe/featured/male/wm&#95;898-crystal-eyebrows-6270-64179.png 
+- **Recommendations:** Up to you! Not something I'd necessarily prioritize, but it's a nice little quest.
 
 ### Loving Rocky Roads
 
@@ -40,7 +49,9 @@ There's a lot I want to test with an account that DIDN'T clear out the Meteor ev
 - **Rewards:** 3 Stempos & Wardrobe: Rock Skirt https://4thewords.com/media/wardrobe/featured/female/wf&#95;885-rock-skirt-6154-61176.png
 - **Recommendations:** tbd
 
-### One Rocky Start
+### One Rocky Start (1/2)
+
+NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
 
 - **Location:** Impact Crater
 - **Unlocked by:** Opening Impact Crater
@@ -80,6 +91,105 @@ There's a lot I want to test with an account that DIDN'T clear out the Meteor ev
   - Galatre
 - **Rewards:** Wardrobe: Rock Crown https://4thewords.com/media/wardrobe/featured/male/wm&#95;1090-beetle-crown-7904-84955.png
 
+### Aid the Wordsmith (Fleet Cadet 1/5)
+
+NOTE: This exact quest was offered during the Alien Meteoroid event in November 2019 and the Alien Meteoroid Expedition in July 2020; if you completed it either time, it will not be available now.
+
+- **Location:** Impact Crater
+- **Unlocked by:** Opening Phase
+- **Type:** Wordcount
+- **Requirements:** Write 10K words
+- **Rewards:** Wardrobe: Space Bodysuit Purple https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;purple.png
+- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. And remember, any words you've already written that day count for the quest you pick up - which is to say, Muisje had 25K words written in one day, and then kept picking up and turning in these quests in succession. People writing at a sane pace won't have so many words to count twice, but every little bit helps.
+
+### Aid the Wordsmith (Fleet Cadet 2/5)
+
+NOTE: This exact quest was offered during the Alien Meteoroid event in November 2019 and the Alien Meteoroid Expedition in July 2020; if you completed it either time, it will not be available now.
+
+- **Location:** Impact Crater
+- **Unlocked by:** Aid the Wordsmith (Fleet Cadet 1/5)
+- **Type:** Wordcount
+- **Requirements:** Write 15K words
+- **Rewards:** Wardrobe: Space Bodysuit Blue https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;blue.png
+- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+
+### Aid the Wordsmith (Fleet Cadet 3/5)
+
+NOTE: This exact quest was offered during the Alien Meteoroid event in November 2019 and the Alien Meteoroid Expedition in July 2020; if you completed it either time, it will not be available now.
+
+- **Location:** Impact Crater
+- **Unlocked by:** Aid the Wordsmith (Fleet Cadet 2/5)
+- **Type:** Wordcount
+- **Requirements:** Write 25K words
+- **Rewards:** Wardrobe: Space Bodysuit Red https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;red.png
+- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+
+### Aid the Wordsmith (Fleet Cadet 4/5)
+
+NOTE: This exact quest was offered during the Alien Meteoroid event in November 2019 and the Alien Meteoroid Expedition in July 2020; if you completed it either time, it will not be available now.
+
+- **Location:** Impact Crater
+- **Unlocked by:** Aid the Wordsmith (Fleet Cadet 3/5)
+- **Type:** Wordcount
+- **Requirements:** Write 25K words
+- **Rewards:** Wardrobe: Space Bodysuit Orange https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;yellow.png
+- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+
+### Aid the Wordsmith (Fleet Cadet 5/5)
+
+NOTE: This exact quest was offered during the Alien Meteoroid event in November 2019 and the Alien Meteoroid Expedition in July 2020; if you completed it either time, it will not be available now.
+
+- **Location:** Impact Crater
+- **Unlocked by:** Aid the Wordsmith (Fleet Cadet 4/5)
+- **Type:** Wordcount
+- **Requirements:** Write 25K words
+- **Rewards:** Wardrobe: Space Bodysuit Black https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;black.png
+- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+
+### Aid the Wordsmith (Fleet Officer 1/4)
+
+NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
+
+- **Location:** Impact Crater
+- **Unlocked by:** Aid the Wordsmith (Fleet Cadet 5/5) (may have been completed last November)
+- **Type:** Wordcount
+- **Requirements:** Write 25K words
+- **Rewards:** Wardrobe: Space Bodysuit White https://4thewords.com/media/wardrobe/featured/male/wm&#95;952-white-spacesuit-6881-99572.png
+- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+
+### Aid the Wordsmith (Fleet Officer 2/4)
+
+NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
+
+- **Location:** Impact Crater
+- **Unlocked by:** Aid the Wordsmith (Fleet Officer 1/4)
+- **Type:** Wordcount
+- **Requirements:** Write 25K words
+- **Rewards:** Wardrobe: Space Bodysuit Black https://4thewords.com/media/wardrobe/featured/male/wm&#95;949-black-spacesuit-6875-43619.png
+- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+
+### Aid the Wordsmith (Fleet Officer 3/4)
+
+NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
+
+- **Location:** Impact Crater
+- **Unlocked by:** Aid the Wordsmith (Fleet Officer 2/4)
+- **Type:** Wordcount
+- **Requirements:** Write 50K words
+- **Rewards:** Wardrobe: Space Bodysuit Dinti https://4thewords.com/media/wardrobe/featured/male/wm&#95;950-green-spacesuit-6877-83939.png
+- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+
+### Aid the Wordsmith (Fleet Officer 4/4)
+
+NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
+
+- **Location:** Impact Crater
+- **Unlocked by:** Aid the Wordsmith (Fleet Officer 3/4)
+- **Type:** Wordcount
+- **Requirements:** Write 50K words
+- **Rewards:** Wardrobe: Space Bodysuit Glowing Dinti https://4thewords.com/media/wardrobe/featured/male/wm&#95;951-supreme-green-spacesuit-6879-61481.png
+- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+
 # Spaceship
 
 ### Technology & Dinti
@@ -102,6 +212,8 @@ There's a lot I want to test with an account that DIDN'T clear out the Meteor ev
 
  ### An Alien Exam (Part 1 of 2)
 
+NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
+
 - **Location:** Spaceship
 - **Unlocked by:** Opening Spaceship
 - **Type:** Battle
@@ -117,6 +229,8 @@ There's a lot I want to test with an account that DIDN'T clear out the Meteor ev
 - **Recommendations:** Pick up as soon as you have space. If you're planning on fighting any of these anyway, it's nice to have it doubled up.
 
 ### Studying Space Scientists (Part 2 of 2)
+
+NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
 
 - **Location:** Spaceship
 - **Unlocked by:** An Alien Exam (Part 1 of 2)
@@ -137,7 +251,7 @@ There's a lot I want to test with an account that DIDN'T clear out the Meteor ev
 - **Location:** Spaceship
 - **Unlocked by:** Studying Space Scientists (2/2)
 - **Type:** Battle
-- **Requirements:** Defeat 20 each:
+- **Requirements:** Defeat 10 each:
   - Szalin
   - Nedi
   - Skarn
@@ -180,16 +294,6 @@ There's a lot I want to test with an account that DIDN'T clear out the Meteor ev
 - **Recommendations:** Pick it up and win easy.
 
 # Mining Site
-
-Note:
-
-Um, this section...
-
-... this section will be even LESS reliable than the rest.
-
-Because I kinda got excited and started stacking quests and lost track.
-
-I'll be catching it up soon.
 
 ### Recovering Stolen Goods
 
@@ -262,3 +366,41 @@ I'll be catching it up soon.
 - **Requirements:** 3-day Streak, and deliver 15 Steel Bars, 15 Glass Bars, and 15 Stone Blocks
 - **Rewards:** 5 Stempos
 - **Recommendations:** tbd
+
+### Projecting Light
+
+NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Large Experiment
+- **Type:** Battle
+- **Requirements:** Defeat 10 each:
+  - Wignow Hologram/V0.44
+  - Suulan Hologram/V0.44
+  - Sassi Hologram/V0.44
+  - Lombri Hologram/V0.44
+  - Maesc Hologram/V0.44
+  - Lubu Hologram/V0.44
+  - Xin Hologram/V0.44
+  - Arenica Hologram/V0.44
+  - Tambo Hologram/V0.44
+  - Nuig Hologram/V0.44
+  - Kiru Hologram/V0.44
+  - Zanthei Hologram/V0.44
+- **Rewards:** Wardrobe: Monster Hologram Pet https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7226-90927.png (available in 12 varieties, 1 for each hologram)
+- **Recommendations:** PICK THIS UP. SO CUTE.
+
+### Life's an Experiment
+
+NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Preparing For Large Experiment
+- **Type:** Battle
+- **Requirements:** Defeat 3 each:
+  - Sulanica
+  - Mowow
+  - Xomri
+  - Sabu
+- **Rewards:** Wardrobe: Toothless Smile https://4thewords.com/media/wardrobe/featured/male/wm&#95;969-toothless-smile-7039-23134.png
+- **Recommendations:** No hurries, but... why not? This is a fun one.

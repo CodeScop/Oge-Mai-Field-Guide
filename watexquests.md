@@ -1,4 +1,4 @@
-LAST UPDATED 23 AUG 2020
+LAST UPDATED 24 AUG 2020
 
 #RAINA SURFACE CAMP SIDEQUESTS
 
@@ -41,7 +41,7 @@ NOTE: This exact quest was offered during the Raina Festival in April 2020; if y
 - **Unlocked by:** Opening Raina Surface Camp
 - **Location:** Raina Surface Camp
 - **Type:** Wordcount, Streak
-- **Requirements:** Attain 5-day streak 
+- **Requirements:** Attain 5-day streak, write 5000 words
 - **Rewards:** 1 River Chest & Wardrobe: Algae Shirt https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;704-algae-top-4588-11016.png
 - **Recommendations:** Pick this up immediately as you have nothing to lose.
 
@@ -151,7 +151,7 @@ NOTE: This exact quest was offered during the Raina Festival in April 2020; if y
 - **Unlocked by:** Opening Swamplands
 - **Type:** Battle
 - **Requirements:** Defeat 15 Larida
-- **Rewards:** Wardrobe: Larida Necklace
+- **Rewards:** Wardrobe: Larida Necklace https://4thewords.com/media/wardrobe/featured/female/wf&#95;777-crocodile-necklace-5291-45454.png
 - **Recommendations:** Self-evident. Either that necklace is perfect or not.
 
 ### No Safe Feet

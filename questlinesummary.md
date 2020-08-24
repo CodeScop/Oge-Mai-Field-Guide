@@ -1,8 +1,10 @@
-LAST UPDATED 25 JUL 2020
+LAST UPDATED 24 AUG 2020
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
 The **bolded bullet points** are supposed to mainly be the **Main Quests**. (The formatting laughs at me occasionally.) If something is indented inside that, it means it's unlocked by completing the Main Quest it's indented under. Further indentations mean a chain of quests successively unlocking each other.
+
+I do cheat and also use bolded bullet points to mark the "path" to progress in areas like Expedition and the Hunt.
 
 (Other quests are not the only things unlocked by certain questlines, so parantheticals might mention newly-craftable items or newly-unlocked areas.)
 
@@ -66,7 +68,7 @@ The **bolded bullet points** are supposed to mainly be the **Main Quests**. (The
    - MT Bridge of Sighs - collect 100 Wood and 50 Rope for 1 Wooden Chest
    - MT Keep In Quarantine - defeat 10 Villagers in exchange for 1 Wooden Chest
    - MT New Adventurous Horizons - defeat 1 Tylu to unlock the Forest Expedition
-   - **FOREST EXPEDITION** (see below)
+      - **FOREST EXPEDITION** (see below)
    - MT Sand Mountain Caravan - defeat 5 Tambo for 1 Wooden Chest, 1 Wooden Key, 1 Leafsung Boots
    - MT Tinkering With Leafsung(1/5) - defeat a bunch of monsters for 1 Wooden Chest (Indirectly requires that Forest Expedition be unlocked up to Tall Trees)
       - MT Inking By Number (2/5) - collect a bunch of things for 3 Wooden Keys
@@ -92,6 +94,8 @@ The **bolded bullet points** are supposed to mainly be the **Main Quests**. (The
 - **3PC Main Quest 5/A Way South** - collect a ton of materials, get Azadi as a companion, unlock Gansu Watering Hole
 
   - LF Enter Pan's Labyrinth - collect a lot of Rope, Steel Bars, & Wood Hammers, get 1 Wooden Chest and 1 Wooden Key
+  - 3PC A Way North: Up the Mountain - battle a bunch of monsters & get a 5-day streak to unlock the Alien Meteoroid
+    - **ALIEN METEOROID EXPEDITION** (see below)
   - 3PC Lighten the Load - collect 15 EACH Leafsung Wooden Swords & Leafsung Boots, get 1 Golden Chest
     - 3PC Guard Your Feet - craft Steel Boots & Steel Axes in Riza, get 1 Golden Chest (indirectly requires that Riza Rivertown be unlocked in Main Quest sequence)
   - 3PC Luciola Materials - Trade Feathers, Spider Legs, and Lorsa Fur in for Red Dye
@@ -149,8 +153,8 @@ The **bolded bullet points** are supposed to mainly be the **Main Quests**. (The
   - Riza Barge Weights - deliver 35 River Stones, get 2 Stone Keys
   - Riza Dí Production - deliver 10 Dí Bags, get 1 Stempo
   - Riza New River Barge - get a WHOLE LOT of materials, get 5 Stone Keys
-  - Riza Special Mini-Area Quest: Infected Raina Camp - defeat 10 Yala and 5 Vota, unlock Water Expedition
-    - **WATER EXPEDITION** (see below)
+  - Riza Raina Surface Camp - defeat 10 Yala and 5 Vota, unlock Raina Expedition
+    - **RAINA EXPEDITION** (see below)
   - Riza Spider Bows - deliver 25 Spider Bows, get 1 Stone Key & 1 Stone Chest
   - Balance Gone Fishing - defeat 25 Puna, get 100 Coins
     - Balance Gone Fishing Part 2 - defeat 100 Puna, get 1 Wooden Chest, 1 Wooden Key, and Wardrobe: Puna Earrings
@@ -228,26 +232,80 @@ The **bolded bullet points** are supposed to mainly be the **Main Quests**. (The
   - (Base Camp)
   - BC A Darkened Forest - collect 25 Dust, 3 Leaf Boots, and 5 Rope, get 1 Wooden Chest 7 & Wooden Key
   - BC Nabia's Exploration - fight (almost) everything in Forest Expedition in exchange for Wardrobe: Expedition Hat (indirectly requires that 4 Forest Expedition areas be unlocked; is the ONLY Expedition quest which existed prior to the Expedition reopening)
+  - BC One Hundred Creatures - beat 100 monsters of any kind, get 5 Stempos
+  - BC Just a Mean Green - defeat 25 Xuso to get Xuso Necklace
 - **BC Hard Day's Walk** - defeat 1 each Kaija, Xuso, and Sacer; have a minimum 3-day accumulated streak; 
   - (Forward Base)
   - FB Blossom with Flowers! (1/2) - defeat 5 Dandeleon in exchange for 1 Wooden Key
   - FB Lighting the Way - deliver 25 Dust, 10 Wood, defeat 5 Ardia in exchange for 1 Wooden Key & Ardi-monsters in Mama Tree
   - FB Sturdy Wooden Fence - deliver 25 Wood and 15 Rope in exchange for 1 Wooden Chest
+  - FB Lovely Flower Crown - deliver 15 Dandeleon Flowers & 10 Saliva Vials for 3 Wooden Chests & 3 Wooden Keys
+  - FB To Collect Memories - write 10K words, attain 10-day Streak in exchange for 5 Stempos
 - **FB Feeding the Lighthouse** - Defeat 25 each Ardia, Ardii, and Ardis; get 1 Wooden Chest and 1 Ardi Lamp
   - **FB Javelin Toss West** - Give 10 Ardi Lamps to get Tall Trees unlocked
     - (Tall Trees)
     - TT Boots Made For Climbing - fight owls, deliver Leaves & Leafsung Boots, get 1 Wooden Chest, 1 Wooden Key, & 1 Stempo
     - TT Scouting the Trees - fight owls, deliver Vine Nets & Rope, get 1 Golden Chest
+    - TT Buholi in the Sky - defeat 10 Buholi, get 4 Stempos
     - TT Trying Your Patience - maintain a streak for 10 days, get 3 Wooden Keys
+    - TT Swing, Sway, Summon - trade 25 Feathers for 1 Wooden Chest & 1 Wooden Key
   - **FB North: Homeward Bound** - Give 15 Ardi Lamps to get Guardian's Lair unlocked
     - (Guardian's Lair)
     - GL Shadows In Flux - defeat 5 Gobkeys, get 3 Stempos
     - GL Bright Night Blossoms (2/2) - defeat 5 Night Dandeleons, get Wardrobe: Dandeleon Crown (also requires Blossom with Flowers! (1/2) from FB)
+    - GL Eat the Leaves? - Defeat 10 Maikile & 10 Wignow for Wardrobe: Leaf Necklace
   - **FB Stone's Throw East** - Give 10 Ardi Lamps to get Stone City unlocked
     - (Stone City)
     - SC A Forest Riddle - defeat 50 monsters in exchange for 3 Stempos
     - SC Scouting the Land - write 3K words, maintain a streak 3 days, defeat 1 each Sapi-monsters for 1 Golden Chest
     - SC Nothing But Trouble - defeat 2 each Sapi-monster, deliver 6 Vine Nets & 15 Rope, get 1 Wooden Chest and 1 Wooden Key
+    - SC Slowest Tortoise Wins - defeat 12 Reudod for 2 Wooden Chests & 2 Stempos
+    - SC Sleepless in Stone City - defeat 8 Sapilo & 8 Oncaii for Wardrobe: Sapiemon Necklace
+    - SC Stone City Chaos - defeat 4 each Sapilo, Sapira, Sapiti, and Reudod in exchange for 4 Stempos
+
+## Questline - Alien Expedition
+
+(AFTER COMPLETING THE THREE POINTS CROSSING MAIN QUESTS)
+
+- **A Way North: Up the Mountain (as above)**
+  - IC A Happy Prickle - Defeat 20 Maesc for Wardrobe: Crystal Eyebrows
+  - IC Loving Rocky Roads - Defeat 10 Brachi & 5 Rhan for 2 Stempos & Wardrobe: Brachi Hat 
+  - IC Mighty Teraleo Hunter - Defeat 50 Teraleo for Wardrobe: Teraleo Necklace
+  - IC Stabbing Dinti Spikes - Defeat 5 Krang, 3 Erbor, 10 Halix, and 4 Galatre for 3 Stempos & Wardrobe: Rock Skirt
+  - IC One Rocky Start (1/2) - Defeat 1 each of a ton of rock monsters, get Wardrobe: Halix Hat & Wardrobe: Golden Shield
+    - IC Crown of Rocks (2/2) - Defeat 4 each of those rock monsters, get Wardrobe: Rock Crown
+  - IC Aid the Wordsmith (Fleet Cadet 1/5) - write 10K words, get Wardrobe: Space Bodysuit Purple
+    - IC Aid the Wordsmith (Fleet Cadet 2/5) - write 15K words, get Wardrobe: Space Bodysuit Blue
+      - IC Aid the Wordsmith (Fleet Cadet 3/5) - write 25K words, get Wardrobe: Space Bodysuit Red
+        - IC Aid the Wordsmith (Fleet Cadet 4/5) - write 25K words, get Wardrobe: Space Bodysuit Orange
+          - IC Aid the Wordsmith (Fleet Cadet 5/5) - write 25K words, get Wardrobe: Space Bodysuit Black
+            - IC Aid the Wordsmith (Fleet Officer 1/4) - write 25K words, get Wardrobe: Space Bodysuit White
+              - IC Aid the Wordsmith (Fleet Officer 2/4) - write 25K words, get Wardrobe: Space Bodysuit Black (different from previous Space Bodysuit Black)
+                - IC Aid the Wordsmith (Fleet Officer 3/4) - write 50K words, get Wardrobe: Space Bodysuit Dinti
+                  - IC Aid the Wordsmith (Fleet Officer 4/4) - write 50K words, get Wardrobe: Space Bodysuit Glowing Dinti
+- **IC Learning to Breathe** - defeat 1 Rosarin and 3 Nartha and write 5000 words to unlock the Spaceship area
+  - (Spaceship)
+  - SpaceS An Alien Exam (Part 1 of 2) - Defeat a bunch of scientist monsters (you'll need to unlock Mining Site and Research Lab) & earn Wardrobe: Lab Coat
+    - SpaceS Studying Space Scientists (Part 2 of 2) - defeat 2 each of the previous quest's monsters, earn Wardrobe: Graffiti Lab Coat
+      - SpaceS Sparks to Ignite (3/3) - defeat 10 each of even more scientist monsters, earn OnFire Lab Coat
+  - SpaceS Aid the Aliens - defeat 10 each Kolbs & Oxie, deliver 10 each Steel Bars & Stone Blocks, get Wardrobe: Drill Necklace
+  - SpaceS Train the Guards - defeat 10 Ledd & 10 Noit, get Wardrobe: Security Boots
+  - SpaceS Tracking Shooting Stars - add 15 consecutive Streak days, get 3 Stempos & Wardrobe: Speed Visor
+- **(A fork: you can open Mining Site and Research Lab simultaneously, as Technology & Dinti and Orders To Repair are both unlocked with Spaceship. I'm listing the Mining Site line first because it's simplest.)**
+- **SpaceS Technology & Dinti** - Deliver 20 Wood, 5 Steel Bars, 20 Rope, & 5 Stone Blocks to unlock Mining Site
+  - (Mining Site)
+  - MS Recovering Stolen Goods - defeat 1 Ityf & deliver 50 Dinti, 10 Raw Steel, and 15 Raw Stone to get Wardrobe: Thief Hood
+  - MS Thieving Glowing Rocks - defeat 10 Ityf, get Wardrobe: Exoskeleton
+  - MS Drilling Too Deep - defeat 3 Arren & 2 Deepo, get 3 Stempos & Wardrobe: Miner Hat
+- **SpaceS Orders to Repair** - defeat 3 Szalin, deliver 5 Steel Bars & 5 Stone Blocks to unlock Research Lab
+  - (Research Lab)
+  - RL Testing the Valley - collect a ton of stuff from ALL OVER & fight Dr Enoe 3 times to get Wardrobe: Drill Bracelet
+  - RL Projecting Light - fight 10 each of the holograms, get them as a pet with Wardrobe: Monster Hologram Pet
+  - RL Life's an Experiment - fight 3 each of the monster hybrids (must continue this quest chain to unlock their area), get Wardrobe: Toothless Smile
+- **RL Set Creatures Free! (1/4)** - Defeat 1 Captain Piak, 1 Dr. Enoe, 1 Dr. Hogglevoss, and 1 Rosarin, get 5 Stempos
+- **RL Create a Clearing (2/4)** - Defeat 7 Kolbs, 7 Oxie, 7 Erbor, and 4 Teraleo, get Wardrobe: Rock Hair Earring
+- **RL Build a Biodome (3/4)** - 3-day Streak, and deliver 15 Steel Bars, 15 Glass Bars, and 15 Stone Blocks, get 5 Stempos
+- ???
 
 ## Questline - Desert Expedition
 
@@ -257,16 +315,55 @@ The **bolded bullet points** are supposed to mainly be the **Main Quests**. (The
   - (Dig Site)
   - DigS A Desert Exploration - defeat 5 Kapir, get Wardrobe: Tiny Boots
   - DigS From Beneath Me - maintain a streak 3 days, deliver 15 Rope, and get 1 Stone Key
+  - DigS Birbs of a Feather - defeat 15 Rif for 1 Stone Chest
+  - DigS Bounding Over Dunes - defeat 6 Bevrex for 1 Stone Chest & 1 Stone Key
+  - DigS A Squirming Nest - defeat 100 Loi for Wardrobe: Lombri Hat
+  - DigS Khaki Twisting Beige - defeat 5 Sakish & 3 Okkorhi for 1 Stone Chest & 1 Stone Key
+  - DigS Dazzling Desert Colors - defeat 10 Zera, 1 Suulan, and 1 Arenica for Wardrobe: Zera Fur Necklace
 - **DigS Question To Axe** - deliver 3 Pickaxe to unlock Underground Ruins area
   - (Underground Ruins)
+  - Ruins Gordi & Griffe Gather - defeat 25 Gordi & 5 Griffe for 5 Stone Blocks, 5 Sandstone Blocks, and 3 Raw Gold
+  - Ruins Full of Surprises! - defeat 4 Ripos, get 1 Stone Chest & 1 Stone Key
+  - Ruins Feathers & Fur - defeat 5 Bevrex & 5 Rif, win 3 Stempos
+  - Ruins Every Tunnel Connects - get 10-day Streak, win 4 Stempos
 - **Ruins: Searching South • Ruins: Navigating North • Ruins: Withdrawing West • Ruins: Excavating East** - four quests which may be completed in any order, all of which must be completed to progress on; collectively, write 2700 words, fight 1 each unique Ruins monsters, get 5 each Raw Gold, Raw Sandstone, Raw Steel, and Raw Stone
 - **Ruins: Tunnel Locked On** - other Ruins quests, 1 Kapir Tuft, 1 Dandeleon Flower, 1 Gobkey Trinket, and 3 Desert Stones to unlock the Shrine of Ages (requires materials from Forest Expedition Guardian's Lair)
   - (Shrine of Ages)
   - Shrine of Ages - variable; see Shrine of Ages section for full list
 
-## Questline - Water Expedition
+## Questline - Raina Expedition
 
-THIS IS IN LIMBO UNTIL WATER EXPEDITION RESETTLES AFTER OUR APRIL EVENT.
+(AFTER COMPLETING THE RIZA RIVERTOWN MAIN QUESTS)
+
+- **Raina Surface Camp (as above)**
+  - (Raina Surface Camp)
+  - SurfaceC Sans the Bone - Defeat 5 Auwi, get 3 River Water & Wardrobe: Bone Nose Piercing
+  - SurfaceC Defeating a Droxa Drove - Defeat 3 Droxa, get 1 River Chest & Wardrobe: Raina Gold Necklace
+  - SurfaceC Stamina Level Up! - defeat 15 Vaktra, get 1 River Chest & Wardrobe: Moss Hat
+  - SurfaceC New Family of Friends - write 5K words & get 5-day Streak, get 1 River Chest & Wardrobe: Algae Shirt
+  - SurfaceC Golden Tooth Monsters - defeat 15 Jaihri, get 3 Harpoons
+  - SurfaceC Steel Boots - deliver 25 Steel Boots, get 1 Dust Water & 3 Stempos
+  - SurfaceC Infected Raina Part 1 - defeat 5 Vota, 5 Knusha, & Pay 10 Nets, and 10 Leaves, get 1 Dust Water
+    - SurfaceC Infected Raina Part 2 - Pay 30 Net and 30 Leaves, and defeat 10 Vota, 10 Knusha, 10 Yala, get 2 Dust Water & 1 River Chest
+      - SurfaceC Infected Raina Part 3 - defeat 10 Wyverns, get 3 Dust Water & Wardrobe: Raina Mask
+        - (ability to craft Raina Sword and Raina Bracelet in Kedanus's Goods in Raina Surface Camp)
+        - SurfaceC 4 the Infected - defeat 15 Knusha, 15 Vota, and 15 Yala, and pay 45 Nets and 45 Leaves, get Wardrobe: Ardi Raina Mask
+- **SurfaceC Energy Now, Tired Later** - defeat 10 Begala & 10 Rea & Pira, get Swamplands unlocked & Wardrobe: Golden Nose Piercing
+  - (Swamplands)
+  - SwampL Wrestlin' Swamp Larida - defeat 15 Larida, get Wardrobe: Larida Necklace
+  - SwampL No Safe Feet - defeat 10 Swamp Wignow, get 50 Coins & Wardrobe: Bone Shoulder Pads
+- **SwampL Wading Through & Onwards (1/2)** - defeat 1 of each of the unique Swamplands monsters, get Wardrobe: Ghillie Suit Head
+- **SwampL Twisted Treacherous Trails (2/2)** - defeat 5 each of the previous monsters, get Wardrobe: Quishi Necklace
+  - (Raina Sacred Site)
+  - SacredS Au-some Frog Race - defeat 1000 Kuldoro, get Wardrobe: Kuldoro Pet
+  - SacredS Growth & Restoration - defeat 5 Ognimaf and deliver 50 Swamp Moss, get 1 River Chest & Wardrobe: Small Gold Crown
+  - SacredS Seeding New Beginnings (1/3) - defeat 1 each Bashta, Minko, and Toccal, get 2 River Chests
+    - SacredS Seeding New Beginnings (2/3) - defeat 5 each Bashta, Minko, and Toccal, get Wardrobe: Seed Earrings 
+      - SacredS Seeding New Beginnings (3/3) - defeat 10 each Bashta, Minko, and Toccal, get Wardrobe: Gardener Hat
+- **SacredS A Worthy Offering** - Attain 10-day Streak, 10000 Words, deliver 10 Hardwood, 10 Rope, and 10 Steel Bars, get Wardrobe: Golden Earrings & progress on questline
+- ???
+
+
 
 ## Questline - Hunt for the Ancients - Season 1
 
