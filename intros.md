@@ -90,11 +90,9 @@ I hope you brought plenty of Wood Spears, and that you have plenty of Wood and R
 
 # Meteoroid Expedition
 
-LAST UPDATED 20 AUG 2020
+LAST UPDATED 23 AUG 2020
 
-Working on getting this info, but while I'm working, I'll put in the notes from the Meteoroid Expedition events that seem to apply.
-
-I also may be restructuring the Guide a bit...
+Working on getting this info, but while I'm working, I'll put in the notes I'm pulling up.
 
 # Gansu Watering Hole
 

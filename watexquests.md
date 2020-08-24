@@ -1,4 +1,4 @@
-LAST UPDATED 22 AUG 2020
+LAST UPDATED 23 AUG 2020
 
 #RAINA SURFACE CAMP SIDEQUESTS
 
@@ -141,7 +141,6 @@ NOTE: This exact quest was offered during the Raina Festival in April 2020; if y
   - Quishi
   - Tritus
   - Copei
-  - Larida
   - Galai
   - Swamp Wignow
 - **Rewards:** Unlock Raina Sacred Site, Wardrobe: Quishi Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;786-beaver-necklace-5336-27752.png

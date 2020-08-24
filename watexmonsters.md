@@ -1,4 +1,4 @@
-LAST UPDATED 22 AUG 2020
+LAST UPDATED 23 AUG 2020
 
 ## Raina Surface Camp
 
@@ -114,7 +114,7 @@ LAST UPDATED 22 AUG 2020
 - **Time allowed:** 240 minutes (4 hours)
 - **XP:** 100
 - **Drops:** 2-4 Swamp Moss, 2-4 River Grass, 1 River Water, 2-5 Dust, 1-4 Wood,1-2 Rope
-- **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5), Wrestlin' Swamp Larida (15)
+- **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Wrestlin' Swamp Larida (15)
 
 ### Quishi
 
