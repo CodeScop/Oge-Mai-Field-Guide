@@ -1,4 +1,4 @@
-LAST UPDATED 27 JUN 2020
+LAST UPDATED 24 AUG 2020
 
 This section, unlike the previous resource section, *is* going to be Forest Expedition-specific, partly because the Expedition sections are a little off the beaten path, partly because I'm already collating All The Info for the Forest in the Forest Resources section.
 
@@ -47,7 +47,7 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
   - FB Battles: Dandeleon (220 words for 1)
   - GL Battles: Night Dandeleon (330 words for 1)
 - **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game;otherwise, as you please)
-- **Used for:** nothing so far
+- **Used for:** FB Quest: Lovely Flower Crown (15)
 
 ### Dinti
 
@@ -74,7 +74,9 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 
 ### Essence
 
-- **Source:** Anywhere Battles: Viyusa (25 minutes for 1-4)
+- **Source:** outside game,
+  - Anywhere Battles: Viyusa (25 minutes for 1-4)
+  - GL Battles: Maikile (750 words for 1)
 - **Buy:** MT Item Shop/Edrie's Market: 32 Coins
 - **Sell price:** 8 Coins (don't sell unless you have >500)
 - **Used for:** outside game
@@ -86,13 +88,15 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
   - TT Battles: Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 1), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-2)
 - **Buy:** 32 Coins in LF Item Shop/Alex's Shop 
 - **Sell price:** 8 Coins (don't sell unless you have >100)
-- **Used for:** outside game
+- **Used for:** outside game,
+  - TT Quest: Swing Sway Summon (25)
 
 ### Fur
 
-- **Best sources:** 
+- **Sources:** outside game,
   - Anywhere Battle: Awa (200 words for 1-2)
-- **Other sources:** 
+  - SC Battles: Oncaiii (800 words & 1 Saliva Vial for 2-3)
+  - GL Battles: Maikile (750 words for 2-3)
 - **Buy:** 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (don't sell unless you have >500)
 - **Used for:** outside game
@@ -180,9 +184,9 @@ For later game. DO NOT SELL.
 - **Other sources:** 
   - BC Battles: Kaija (240 words for 1), Sacer (120 words for 1), BC Battles: Xuso (450 words for 1-3)
   - FB Battles:  Dandeleon (220 words for 1-2)
-  - SC Battles: Sapilo (450 words, 1 Saliva Vial for 1-2), Sapiti (300 words, 1 Saliva Vial for 1)
+  - SC Battles: Reudod (600 words for 3-5), Sapilo (450 words, 1 Saliva Vial for 1-2), Sapiti (300 words, 1 Saliva Vial for 1), Oncaiii (800 words & 1 Saliva Vial for 2-4)
   - TT Battles: Buhini (150 Words, 1 Nezthai Claw, 2-day Streak for 1-2), Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 3), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-3)
-  - GL Battles: Night Dandeleon (330 words for 1-2)
+  - GL Battles: Night Dandeleon (330 words for 1-2), Maikile (750 words for 4-7)
   - Anywhere Battles: Vi (5 minutes for 1-4)
 - **Buy:** 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
@@ -217,7 +221,9 @@ For later game. DO NOT SELL.
 
 ### Raw Stone
 
-- **Source:** Anywhere Battles: Xin (100 words for 0-1) 
+- **Source:** outside game,
+  - Anywhere Battles: Xin (100 words for 0-1) 
+  - SC Battles: Reudod (600 words for 1-2)
 - **Sell price:** 8 Coins (don't sell unless you have >100)
 - **Used for:** later game
 
@@ -234,6 +240,7 @@ For later game. DO NOT SELL.
 - **Other sources:** Buy,
   - BC Battles: Xuso (450 words for 0-1)
   - FB Battles: Nezthai (600 words for 1)
+  - SC Battles: Reudod (600 words for 2-3)
   - Anywhere Battles: Viyusa (25 minutes for 2-7)
 - **Buy:** 8 Coins in MT Item Shop/Edrie's Market OR Riza Item Shop/Luko's Inn
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
@@ -249,7 +256,8 @@ For later game. DO NOT SELL.
 - **Source:** BC Battles: Kaija (240 words for 1)
 - **Sell price:** 5 Coins (don't sell any if you like fighting Sapi- monsters; sell any over 30 otherwise)
 - **Used for:** 
-  - SC Battles: Sapilo (need 1), Sapira (need 1), Sapiti (need 1)
+  - FB Quest: Lovely Flower Crown (10)
+  - SC Battles: Sapilo (need 1), Sapira (need 1), Sapiti (need 1), Oncaiii (need 1)
 
 ### Shrine Ticket
 
@@ -263,15 +271,17 @@ For later game. DO NOT SELL.
 
 - **Sources:** 
   - FOREST OGE-MAI
-  - SC Battles: Sapilo (450 words, 1 Saliva Vial for 1), Sapira (350 words, 1 Saliva Vial for 1), Sapiti (300 words, 1 Saliva Vial for 0-1)
+  - SC Battles: Oncaiii (800 words & 1 Saliva Vial for 1-2), Sapilo (450 words, 1 Saliva Vial for 1), Sapira (350 words, 1 Saliva Vial for 1), Sapiti (300 words, 1 Saliva Vial for 0-1)
 - **Sell price:** 4 Coins (Don't sell; there is always a use lurking somewhere. As long as quests exists, there is always a use.)
 - **Used for:** outside game
 
 ### Stempo
 
 - **Sources:** 
-  - SC Quest: A Forest Riddle (3)
-  - TT Quest: Boots Made for Climbing (1)
+  - BC Quest: One Hundred Creatures (5)
+  - FB Quest: To Collect Memories (5)
+  - SC Quest: A Forest Riddle (3), Slowest Tortoise Wins (2), Stone City Chaos (4)
+  - TT Quest: Boots Made for Climbing (1), Buholi in the Sky (4)
   - GL Quest: Shadows In Flux (3)
 - **Sell Price:** Priceless. Sorry, 250 Coins, but DON'T SELL.
 - **Used for:** later game,
@@ -305,8 +315,9 @@ For later game. DO NOT SELL.
 - **Other sources:** 
   - BC Battles: Xuso (450 words for 1-2)
   - FB Battles: Nezthai (600 words for 1-2)
-  - SC Battles: Sapilo (450 words, 1 Saliva Vial for 1), Sapira (350 words, 1 Saliva Vial for 1)
+  - SC Battles: Reudod (600 words for 2-3), Oncaiii (800 words & 1 Saliva Vial for 2-4), Sapilo (450 words, 1 Saliva Vial for 1), Sapira (350 words, 1 Saliva Vial for 1)
   - TT Battles: Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 1-3), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-3)
+  - GL Battles: Maikile (750 words for 2)
   - Anywhere Battles: Viyu (15 minutes for 2-7)
 - **Buy:** 8 Coins in LF Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)
@@ -318,9 +329,9 @@ For later game. DO NOT SELL.
 
 - **Sources:** 
   - BC Quest: A Darkened Forest (1)
-  - FB Quest: Feeding the Lighthouse (1), Sturdy Wooden Fence (1)
-  - SC Quest: Nothing But Trouble (1)
-  - TT Quest: Boots Made for Climbing (1)
+  - FB Quest: Feeding the Lighthouse (1), Sturdy Wooden Fence (1), Lovely Flower Crown (3)
+  - SC Quest: Nothing But Trouble (1), Slowest Tortoise Wins (2)
+  - TT Quest: Boots Made for Climbing (1), Swing Sway Summon (1)
 - **Sell price:** 10 Coins (DON'T SELL CHESTS WHY WOULD YOU)
 - **Used for:** outside game
 
@@ -328,8 +339,8 @@ For later game. DO NOT SELL.
 
 - **Sources:** 
   - BC Quest: A Darkened Forest (1)
-  - FB Quest: Blossom with Flowers!1/2 (1), Lighting the Way (1)
+  - FB Quest: Blossom with Flowers!1/2 (1), Lighting the Way (1), Lovely Flower Crown (3)
   - SC Quest: Nothing But Trouble (1)
-  - TT Quests: Boots Made for Climbing (1), Trying Your Patience (3)
+  - TT Quests: Boots Made for Climbing (1), Trying Your Patience (3), Swing Sway Summon (1)
 - **Sell price:** 25 Coins (DON'T SELL KEYS WHY WOULD YOU)
 - **Used for:** outside game

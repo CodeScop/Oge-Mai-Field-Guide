@@ -42,7 +42,7 @@
 
 ## Three Points Crossing Sidequests
 
-LAST UPDATED 11 FEB 2020
+LAST UPDATED 24 AUG 2020
 
 ### Explore the City
 
@@ -115,6 +115,14 @@ LAST UPDATED 11 FEB 2020
 - **Requirements:** Collect/Craft 10 Lorsa nests
 - **Rewards:** 1 Golden Chest
 - **Recommendations:** You have SO MANY other uses for Wood (and Leaves, for that matter) besides building Lorsa Nests right now. Go ahead, if it makes you happy; you'll have more opportunities to build Lorsa Nests later, too. I wouldn't prioritize this.
+
+### * A Way North: Up the Mountain
+
+- **Unlocked by:** 3PC Main Quest 5/A Way South
+- **Type:** Battle, Collection, Streak
+- **Requirements:** Attain a 5-day Streak, deliver 30 Rope, defeat 30 Puna, 2 Bruja, 1 Yasri, 1 Lombri, and 1 Tambo
+- **Rewards:** Unlock Impact Crater
+- **Recommendations:** This is a fairly massive undertaking, but you're in the Desert: there's very little that isn't a massive undertaking. And the Alien Meteoroid area is a lot of fun, with a lot of diverse options as you get deep in it.
 
 ### * Lighten the Load
 

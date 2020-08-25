@@ -1,4 +1,4 @@
-LAST UPDATED 14 AUG 2020
+LAST UPDATED 24 AUG 2020
 
 So, here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -169,7 +169,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Drops:** 1-3 Wood, 2 Dust, 1-3 Leaves, 1-2 Feathers
 - **Quests:**
   - BC: Nabia's Exploration (1)
-  - TT: Boots Made For Climbing (1), Scouting the Trees (1)
+  - TT: Boots Made For Climbing (1), Scouting the Trees (1), TT: Buholi in the Sky (10)
 
 ### Buhovi (Exp: TT)
 
@@ -311,6 +311,14 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - MT: Main Quest 1/To Great Heights (1),  Tinkering With Leafsung 1/5 (5)
 
+### Maikile (Exp: GL)
+
+- **Requirements:** 750 words
+- **Time allowed:** 1 minutes (1 hour and 40 minutes)
+- **XP:** 75
+- **Drops:** 4-7 Leaves, 2-3 Fur, 2 Wood, 1 Essence
+- **Quests:** GL: Eat the Leaves? (10)
+
 ### Mawt (Oge: LF)
 
 - **Requirements:** 1000 words
@@ -326,7 +334,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Requirements:** 600 words
 - **Time allowed:** 90 minutes (1 hour 30 minutes)
 - **XP:** 60
-- **Drops:** 1 Rope, 1 Nezthai Claws, 1-2 Wood
+- **Drops:** 1 Rope, 1-2 Nezthai Claws, 1-2 Wood
 - **Quests:**
   - Functionally, anything that requires Nezthai Claws will require a Nezthai battle — and any battle involving a monster starting with Buh- requires Nezthai Claws. See Buh- monsters and All Resources for further info.
   - BC: Nabia's Exploration (1)
@@ -349,6 +357,14 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 1 Dandeleon Flower, 1 Dust, 1-2 Leaves
 - **Quests:**
   - GL: Bright Night Blossoms (5)
+
+### Oncaiii (Exp: SC)
+
+- **Requirements:** 800 words, 1 Saliva Vial
+- **Time allowed:** 120 minutes (2 hours)
+- **XP:** 80
+- **Drops:** 1-2 Spider Poison, 2-4 Wood, 2-3 Fur, 2-4 Leaves
+- **Quests:** SC: Sleepless in Stone City (8)
 
 ###Patliadu (LATER GAME)
 
@@ -380,6 +396,14 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - LF: Forest Creatures (1)
   - MT: Itsy, Bitsy, Teeny (25)
+
+### Reudod (Exp: SC)
+
+- **Requirements:** 600 words
+- **Time allowed:** 90 minutes (1 hour 30 minutes)
+- **XP:** 60
+- **Drops:** 3-5 Leaves, 2-3 Rope, 1-2 Raw Stone, 2-3 Wood
+- **Quests:** SC: Slowest Tortoise Wins (12), Stone City Chaos (4)
 
 ###Ripos (LATER GAME)
 
@@ -413,7 +437,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 1 Leaves, 1 Spider Poison, 1 Wood
 - **Quests:**
   - BC: Nabia's Exploration (1)
-  - SC: Nothing But Trouble (2), Scouting the Land (1)
+  - SC: Nothing But Trouble (2), Scouting the Land (1), Sleepless in Stone City (8), Stone City Chaos (4)
 
 ### Sapira (Exp: SC)
 
@@ -423,7 +447,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 1 Spider Poison, 1 Wood
 - **Quests:**
   - BC: Nabia's Exploration (1)
-  - SC: Nothing But Trouble (2), Scouting the Land (1)
+  - SC: Nothing But Trouble (2), Scouting the Land (1), Stone City Chaos (4)
 
 ### Sapiti (Exp: SC)
 
@@ -434,7 +458,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - MT: Warm Creature Highlights 1/3 (5)
   - BC: Nabia's Exploration (1)
-  - SC: Nothing But Trouble (2), Scouting the Land (1)
+  - SC: Nothing But Trouble (2), Scouting the Land (1), Stone City Chaos (4)
 
 ### Sassi (Oge: LF*; Exp: unpredictable)
 
@@ -554,6 +578,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Quests:**
   - LF: Main Quest 1/Luciola Forest Caretaker (4), Forest Creatures (1)
   - MT: Tinkering With Leafsung 1/5 (5), Watering Hole (44)
+  - GL: Eat the Leaves? (10)
 
 ### Xin (EVERYWHERE)
 
@@ -571,4 +596,4 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 40
 - **Drops:** Wood, Rope, Leaves
 - **Quests:**
-  - BC: Hard Day's Walk (1), Nabia's Exploration (1)
+  - BC: Hard Day's Walk (1), Nabia's Exploration (1), Just a Mean Green (25)

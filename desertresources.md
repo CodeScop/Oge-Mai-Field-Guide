@@ -1,4 +1,4 @@
-LAST UPDATED 25 JUL 2020
+LAST UPDATED 24 AUG 2020
 
 Summary of everything available in the DESERT. (Yes, now including Shrine of Ages!) Abbreviations:
 
@@ -7,7 +7,7 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
 - HuntS2 = Hunt for the Ancients Season 2
 - 3PC = Three Points Crossing
 - Gansu = Gansu Watering Hole
-- Dig = Dig Site
+- Dig or DigS = Dig Site
 - Ruins = Underground Ruins
 - Shrine = Shrine of Ages (general)
 - ShrineBird = Shrine of Ages Birds event
@@ -140,6 +140,7 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
 - **Best sources:** 
   - 3PC Battles: Grult (400 words for 1), Desert Wignow (444 words for 1)
   - Gansu Battles: Desert Wignow (444 words for 1)
+  - DigS Battles: Bevrex (300 words for 0-1, usually 1)
 - **Other sources:** 
   - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 1-2)
   - Gansu Battles: Wetu (1100 words for 1-2), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1-2), Arenica (1350 words, 1 Steel Dagger for 1), Suulan (2000 words, 1 Steel Dagger for 1)
@@ -176,6 +177,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
   - 3PC Battles: Desert Wignow (444 words for 1-2), Grult (400 words for 1), Villager (1300 words, 1 Spider Poison, 5 Leaves for 2-3), Tambo (2000 words, 4 Rope, 10 Leaves, min level 5 for 2)
   - Gansu Battles: Desert Wignow (444 words for 1-2)
   - Dig Battles: Okkorhi (1000 words for 2-6), Sakish (350 words for 1-2), Zera (550 words for 1-3)
+  - DigS, Ruins Battles: Rif (300 words for 1)
   - ShrineCO Battles: Sothai (300 words for 1-2)
   - Shrine TFA Battles: Witch's Memoirs (500 words for 1-4), Lupo (450 words for 1-3)
   - Shrine GO Battles: Balli Ooze (250 words for 0-2)
@@ -236,6 +238,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 
 - **Best sources:** FOREST
 - **Other sources:** 
+  - DigS, Ruins Battles: Rif (300 words for 1)
   - ShrineBird Battles: Peq (500 words for 0-1), Ralbone (1000 words for 1-2)
   - ShrineCar Battles: Fetezira (1000 words for 2-3), Halores (900 words for 1)
   - ShrineCO: Crilum (280 words for 1)
@@ -262,6 +265,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Best sources:** 
   - Anywhere Battle: Awa (200 words for 1-2)
   - 3PC Battle: Grult (400 words for 2)
+  - DigS Battles: Bevrex (300 words for 1-2)
   - ShrinePoly Battles: Poly Mawt (900 words for 3-5)
 - **Other sources:** 
   - FOREST
@@ -661,8 +665,9 @@ FOREST ONLY
   - FOREST
   - 3PC Battles: Czanus (700 words for 2-4), Bruja (900 words for 2-3), Yasri (1250 words for 2-3), Lombri (1500 words and 1 Wood Spear for 3)
   - Gansu Battles: Ylly (720 words for 3), Sparfly (450 words for 1), Pipit (900 words for 2-4), Suulan (2000 words, 1 Steel Dagger for 2), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 3)
-  - Dig, Ruins Battles: Lubu (450 words for 1-2)
-  - Dig Battles: Dig Battles: Imali (150 words for 1), Shashi (250 words for 1-2), Attleas (350 words for 2-3), Shepherd (1000 words for 2-6)
+  - DigS Battles: Okkorhi (1000 words for 1-3)
+  - HuntS2/Dig, Ruins Battles: Lubu (450 words for 1-2)
+  - HuntS2/Dig Battles: Imali (150 words for 1), Shashi (250 words for 1-2), Attleas (350 words for 2-3), Shepherd (1000 words for 2-6)
   - ShrineCar Battles: Thapiolo (1100 words for 2-5), Upuchu (1400 words for 3-6), Mahor (1667 words for 1-3)
   - ShrineCO Battles: Spodo (135 words for 1), Otpar (180 words for 1), Lekhop (320 words for 0-1)
   - ShrineMar Battles: Osemar (1000 words for 1-4), Balatrix (630 words for 1-2), Balatros (700 words for 1-2), Balatras (785 words for 1-2)
@@ -684,8 +689,8 @@ FOREST ONLY
 - **Other sources:** FOREST, Buy
   - Gansu Battles: Suulan (2000 words, 1 Steel Dagger for 1-2), Arenica (1350 words, 1 Steel Dagger for 1), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1)
   - 3PC Golden Chest: 3-6
-  - Dig Battles: Shashi (250 words for 0-1), Okkorhi (1000 words for 1-2)
-  - Ruins Quest: Searching South (5)
+  - Dig Battles: Shashi (250 words for 0-1), Okkorhi (1000 words for 1-4)
+  - Ruins Quest: Searching South (5), Gordi & Griffe Gather (3)
   - ShrineGiant Battles: Takra (500 words for 0-3), Untu Golem (500 words for 0-2)
 - **Buy: **75 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 12 Coins (please don't sell this, you'll make so much more if you craft it into Gold Bars.)
@@ -699,8 +704,8 @@ FOREST ONLY
 - **Other sources:** Buy, 
   - 3PC Battles: Vanspi (10 minutes for 1-5), Velts: Desert (1200 words for 1-3), Lombri (1500 words and 1 Wood Spear for 1-2)
   - Gansu Battles: Wetu (1100 words for 3), Sparfly (450 words for 1-2, rarely 0), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1-2)
-  - Dig Battles: Shepherd (1000 words for 1-3), Kapir (800 words for 0-1), Okkorhi (1000 words for 1-2), Sakish (350 words for 1), Zera (550 words for 1-2)
-  - Ruins Battles: Griffe (450 words for 1-2), Ripos (1800 words for 1-2)
+  - Dig Battles: Rif (300 words for 1-2), Bevrex (300 words for 1), Shepherd (1000 words for 1-3), Kapir (800 words for 0-1), Okkorhi (1000 words for 0-2), Sakish (350 words for 1), Zera (550 words for 1-2)
+  - Ruins Battles: Rif (300 words for 1-2), Griffe (450 words for 1-2), Ripos (1800 words for 1-2)
   - Ruins Quest: Withdrawing West (5)
   - ShrineCar Battles: Mahor (1667 words for 2-5)
   - ShrineBird Battles: Gayol (150 words for 0-1)
@@ -723,6 +728,7 @@ FOREST ONLY
 - **Other sources:** Buy,
   - FOREST
   - 3PC Battles: Czanus (700 words for 1-3), Velts: Desert (1200 words for 2-4)
+  - Dig Battles: Okkorhi (1000 words for 0-3)
   - Dig, Ruins Battles: Lubu (450 words for 0-1)
   - Ruins Battles: Yantao (650 words for 1-2)
   - ShrineBird Battles: Katock (500 words for 0-2)
@@ -828,7 +834,7 @@ FOREST ONLY
 - **Best sources:** 
   - Anywhere Battles: Awa (200 words for 2)
   - FOREST
-  - Gansu Battles: Ylly (720 words for 4)
+  - Gansu Battles: Ylly (720 words for 4-6)
   - ShrineDucks Battles: Dati (150 words for 1), Aita (125 words for 0-1)
 - **Other sources:** Buy,
   - Anywhere Battles: Viyusa (25 minutes for 2-7)
@@ -849,7 +855,7 @@ FOREST ONLY
   - Craft 3PC: Lorsa Nest (5), Sandstone Block (1), Stone Block (1)
   - Craft Gansu: Lorsa Nest (5), Wooden Fishing Rod (1)
   - 3PC Battles: Tambo (4)
-  - 3PC Quests: Main Quest 2/Just Another Brick (10), Main Quest 5/A Way South (10), Sand in Places (3)
+  - 3PC Quests: Main Quest 2/Just Another Brick (10), Main Quest 5/A Way South (10), Sand in Places (3), A Way North: Up the Mountain (30)
   - Gansu Quests: Tougher with Tambo (100), Rebuild the Watering Hole (15)
   - Dig Quests: From Beneath Me (15)
 
@@ -905,10 +911,11 @@ See **Sandstone Block**.
 
 ### Sandstone Block
 
-The game usually simply calls this **Sa****ndstone**. Since I call the parallel Stone items "Stone Blocks", I call this "Sandstone Block" for consistency.
+The game usually simply calls this **Sandstone**. Since I call the parallel Stone items "Stone Blocks", I call this "Sandstone Block" for consistency.
 
 - **Source:** Craft
   - 3PC Golden Chest: 1
+  - Ruins Quests: Gordi & Griffe Gather (5)
 - **Craft:** 3PC Blacksmith/Blacksmith Barliar: 3 Raw Sandstone, 1 Rope, and 5 Coins
 - **Sell price:** 12 Coins (don't sell, not worth it)
 - **Used for:** later game,
@@ -1054,11 +1061,12 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
 
 The ability to craft Stempos in Gansu unlocks after a series of side quests.The ability is unlocked by the First Stempo quest, which in turn is unlocked by the Local Shrine quest, which is unlocked by the Respark the Flame quest, which is unlocked by the Rebuild the Watering Hole quest, which is unlocked by Gansu 8/unlocking Riza Rivertown. These quests all have Stempos as rewards, so working toward the ultimate goal is rewarding on the way.
 
-- **Source:** Craft Gansu
+- **Sources:** Craft Gansu
   - rare drop from 3PC Golden Chest (have recorded 3 drops in 13 Chests, not enough to conside reliable statistics)
   - Gansu Stone Chest: 0-1 (usually 1)
   - 3PC Quests: Sands of Time (5), Tailor (1)
   - Gansu Quests: Main Quest 7/Red Witch of the Southern Coven (1), Main Quest 8/Dust to Dust (3-indefinite), Sacred Feathers (3), White Coat (3), Protect the Mind (5), Protect the Spirit (10), Rebuild the Watering Hole (1), Respark the Flame (1), Local Shrine (1), First Stempo (1)
+  - Ruins Quest: Feathers & Fur (3), Every Tunnel Connects (4)
   - ShrineGiant Battles: Caravan (5000 words for 1-2)
 - **Craft:** Gansu Crafts & Trinkets/Wynfri of Water: 1 Sacred Feather, 1 White Fur, 10 Essence, 1 Glass Bar, 1 Gold Bar
 - **Sell Price:** Priceless. Sorry, 250 Coins, but DON'T SELL.
@@ -1077,8 +1085,9 @@ See **Stone Block**.
 
 The game usually simply calls this **Stone**. I like to make sure I'm distinguishing between this and the dozen other Stone things, so I call 'em Stone Blocks.
 
-- **Source:** Craft
+- **Source:** Craft,
   - 3PC & Gansu Battles: Rulo (550 words for 1)
+  - Ruins Quest: Gordi & Griffe Gather (5)
 - **Craft:** 3PC Blacksmith/Blacksmith Barliar: 3 Raw Stone, 1 Rope, and 5 Coins
 - **Sell price:** 8 Coins (don't sell, not worth it)
 - **Used for:** later game
@@ -1091,7 +1100,8 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 
 - **Sources:** 
   - Gansu Quests: Main Quest 3/Sacred Shrine (1), Main Quest 4/The Welcoming Committee (1), Main Quest 6/Waters of History (1), Main Quest 8/Dust To Dust (1-indefinite), Desert Rudakai (1), Stone Collector (1), Tougher with Tambo (3), Gansu Watering Hole Puffs (1), Protect the Body (1)
-  - Dig Quest: A Desert Exploration (1)
+  - Dig Quest: A Desert Exploration (1), Birbs of a Feather (1), Bounding Over Dunes (1), Khaki Twisting Beige (1)
+  - Ruins Quest: Full of Surprises! (1)
   - ShrineGiant Battles: Caravan (5000 words for 1)
 - **Sell price:** 100 Coins (DON'T SELL CHESTS AND ESPECIALLY NEVER NEVER SELL STONE CHESTS)
 - **Used for:** With Stone Key in Gansu, drops 100-170 Coins, 1-3 Gold Bars, 1-3 Red Dye, 1 Protective Mantle, 0-1 Stempo, 2-5 Fine Fabric, 1-2 Stone Ring, 1 Glass Necklace
@@ -1106,11 +1116,12 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 
 ### Stone Key
 
-- **Best sources:** 
+- **Sources:** 
   - Global Quests: Weekly Monster Hunter (1)
   - 3PC Quests: Tailor (3)
   - Gansu Quests: Desert Rudakai (1), Stone Collector (1), Tougher with Tambo (3), Watering Hole Puna (1), Protect the Body (1)
-  - Dig Quests: From Beneath Me (1)
+  - Dig Quests: From Beneath Me (1), Bounding Over Dunes (1), Khaki Twisting Beige (1)
+  - Ruins Quest: Full of Surprises! (1)
   - ShrineGiant Battles: Caravan (5000 words for 1)
 - **Sell price:** 25 Coins (DON'T SELL KEYS WHY WOULD YOU)
 - **Used for:** With Stone Chest in Gansu, drops 100-170 Coins, 1-3 Gold Bars, 1-3 Red Dye, 1 Protective Mantle, 0-1 Stempo, 2-5 Fine Fabric, 1-2 Stone Ring, 1 Glass Necklace

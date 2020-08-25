@@ -1,4 +1,4 @@
-LAST UPDATED 14 AUG 2020
+LAST UPDATED 24 AUG 2020
 
 As with the Forest...
 
@@ -177,8 +177,8 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **XP:** 260
 - **Drops:** 0-1 Golden Chest, 1-2 Glass Bar, 1 Glass Shards, 1 Raw Gold, 1 Red Dye, 1 Desert Stone, 2 Sacred Feather
 - **Quests:** 
-  - Functionally, anything requiring a Sacred Feather requires an Arenica battle (see All Resources for list of quests)
   - MT: Inking of Dust 3/5 (1)
+  - DigS: Dazzling Desert Colors (1)
 
 ### Arir (Exp: Shrine TFA)
 
@@ -254,6 +254,16 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Drops:** 2-3 Shrine Stones, 0-2 Dust, 0-1 Leaves
 - **Quests:** Shrine GO Quest: Green Ooze Invasion (1)
 
+### Bevrex (Exp: DigS)
+
+- **Requirements:** 300 words
+- **Time allowed:** 35 minutes
+- **XP:** 30
+- **Drops:** 1-2 Fur, 0-1 Desert Stones (usually 1), 1 Raw Sandstone
+- **Quests:** 
+  - Digs: Bounding Over Dunes (6)
+  - Ruins: Feathers & Fur (5)
+
 ### Biironk (Exp: ShrineCar)
 
 - **Unlocked by:** Wardrobe: Carnival Time Bracelet
@@ -271,7 +281,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Drops:** 1-3 Rope, 1 Glass Bar, 1-2 Red Dye, 1-2 Glass Shards, 2-3 Raw Fabric, 1 Raw Gold
 - **Quests:**
   - MT: The Invisible Ink 5/5 (3)
-  - 3PC: Main Quest 1/Earthquakes (1)
+  - 3PC: Main Quest 1/Earthquakes (1), A Way North: Up the Mountain (2)
   - Gansu: Main Quest 4/ The Welcoming Committee (2), Main Quest 6/ Waters of History (3)
   - HuntS2: A Season to Explore (1)
 
@@ -304,7 +314,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Drops:** 1-3 Wood, 2 Dust, 1-3 Leaves, 1-2 Feathers
 - **Quests:**
   - BC: Nabia's Exploration (1)
-  - TT: Boots Made For Climbing (1), Scouting the Trees (1)
+  - TT: Boots Made For Climbing (1), Scouting the Trees (1), Buholi in the Sky (10)
 
 ### Buhovi (Exp: TT)
 
@@ -661,7 +671,7 @@ see **Skuppa's Giant Marionette**
 - **XP:** 10
 - **Drops:** 1 Raw Stone, 1 Raw Steel
 - **Quests:**
-  - Ruins: Excavating East (1)
+  - Ruins: Excavating East (1), Gordi & Griffe Gather (25)
 
 ### Grey's Mawt (Oge: LF∆, MT∆)
 
@@ -680,7 +690,7 @@ see **Skuppa's Giant Marionette**
 - **XP:** 45
 - **Drops:** 1-2 Raw Sandstone, 1 Fur, 1 Raw Stone
 - **Quests:**
-  - Ruins: Withdrawing West (1)
+  - Ruins: Withdrawing West (1), Gordi & Griffe Gather (5)
 
 ### Grult (Oge: 3PC)
 
@@ -807,7 +817,9 @@ see **Skuppa's Giant Marionette**
 - **Time allowed:** 25 minutes 
 - **XP:** 15
 - **Drops:** 1 Raw Sandstone, 1 Raw Stone
-- **Quests:** HuntS2: Dazzling Desert Diversity (3)
+- **Quests:** 
+  - DigS: A Squirming Nest (100)
+  - HuntS2: Dazzling Desert Diversity (3)
 
 ### Lombri (Oge: 3PC, [Gansu])
 
@@ -817,7 +829,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Wooden Chest, 1-2 Glass Shards, 1-2 Raw Gold, 1-2 Raw Sandstone, 3 Raw Fabric, 2-3 Raw Stone, 1-2 Desert Stone
 - **Quests:**
   - MT: Huge, Gigantic, Enormous (25)
-  - 3PC: Main Quest 1/Earthquakes (1)
+  - 3PC: Main Quest 1/Earthquakes (1), A Way North: Up the Mountain (1)
   - Gansu: Main Quest 4/ The Welcoming Committee (1)
   - HuntS2: A Season to Explore (1)
 
@@ -866,6 +878,14 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 17 Shrine Stones, 1-3 Fur, 2-5 Raw Sandstone, 0-6 Raw Gold, 1-3 Raw Fabric
 - **Quests:** ShrineCar: A Carnival Festival (1), Peace and Sunflowers (2)
 
+### Maikile (Exp: GL)
+
+- **Requirements:** 750 words
+- **Time allowed:** 1 minutes (1 hour and 40 minutes)
+- **XP:** 75
+- **Drops:** 4-7 Leaves, 2-3 Fur, 2 Wood, 1 Essence
+- **Quests:** GL: Eat the Leaves? (10)
+
 ### Mawt (Oge: LF)
 
 - **Requirements:** 1000 words
@@ -908,7 +928,7 @@ see **Skuppa's Giant Marionette**
 - **Requirements:** 600 words
 - **Time allowed:** 90 minutes (1 hour 30 minutes)
 - **XP:** 60
-- **Drops:** 1 Rope, 1 Nezthai Claws, 1-2 Wood
+- **Drops:** 1 Rope, 1-2 Nezthai Claws, 1-2 Wood
 - **Quests:**
   - Functionally, anything that requires Nezthai Claws will require a Nezthai battle — and any battle involving a monster starting with Buh- requires Nezthai Claws. See Buh- monsters and All Resources for further info.
   - BC: Nabia's Exploration (1)
@@ -946,7 +966,8 @@ see **Skuppa's Giant Marionette**
 - **Requirements:** 1000 words
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 100
-- **Drops:** 2-6 Dust, 1-2 Raw Gold, 1-2 Raw Sandstone, 1-2 Desert Stone
+- **Drops:** 2-6 Dust, 1-4 Raw Gold, 0-2 Raw Sandstone, 1-3 Raw Fabric, 0-3 Raw Steel, 1-2 Desert Stone
+- **Quests:** DigS: Khaki Twisting Beige (3)
 
 ### Osemar (Exp: ShrineMar)
 
@@ -1049,6 +1070,7 @@ see **Skuppa's Giant Marionette**
 - **Quests**: 
   - LF: Luciola Puna (10), Forest Creatures (1)
   - MT: Inking of Dust 3/5 (15); Itsy, Bitsy, Teeny (25)
+  - 3PC: A Way North: Up the Mountain (30)
   - Gansu: Watering Hole Puna (10)
 
 ### Ralbone (Exp: ShrineBird)
@@ -1080,6 +1102,24 @@ see **Skuppa's Giant Marionette**
   - LF: Forest Creatures (1)
   - MT: Itsy, Bitsy, Teeny (25)
 
+### Reudod (Exp: SC)
+
+- **Requirements:** 600 words
+- **Time allowed:** 90 minutes (1 hour 30 minutes)
+- **XP:** 60
+- **Drops:** 3-5 Leaves, 2-3 Rope, 1-2 Raw Stone, 2-3 Wood
+- **Quests:** SC: Slowest Tortoise Wins (12), Stone City Chaos (4)
+
+### Rif (Exp: DigS, Ruins)
+
+- **Requirements:** 300 words
+- **Time allowed:** 25 minutes
+- **XP:** 30
+- **Drops:** 1 Feather, 1-2 Raw Sandstone, 1 Dust
+- **Quests:** 
+  - DigS: Birbs of a Feather (15)
+  - Ruins: Feathers & Fur (5)
+
 ### Ripos (Exp: Ruins)
 
 - **Requirements:** 1800 words
@@ -1088,7 +1128,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1-2 Spider Poison, 1-3 Raw Stone, 1-2 Raw Sandstone, 1-2 Desert Stone
 - **Quests:**
   - MT: Warm Creature Highlights 1/3 (5)
-  - Ruins: Searching South (1)
+  - Ruins: Searching South (1), Full of Surprises! (4)
   - HuntS2: Strengthening Your Timing 4/5 (1)
 
 ### Roaki (Exp: ShrineCO)
@@ -1146,7 +1186,9 @@ see **Skuppa's Giant Marionette**
 - **Time allowed:** 45 minutes
 - **XP:** 35
 - **Drops:** 1 Raw Stone, 1-2 Dust, 1 Raw Sandstone
-- **Quests:** HuntS2: Dazzling Desert Diversity (2)
+- **Quests:** 
+  - DigS: Khaki Twisting Beige (5)
+  - HuntS2: Dazzling Desert Diversity (2)
 
 ### Sapilo (Exp: SC)
 
@@ -1156,7 +1198,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Leaves, 1 Spider Poison, 1 Wood
 - **Quests:**
   - BC: Nabia's Exploration (1)
-  - SC: Nothing But Trouble (2), Scouting the Land (1)
+  - SC: Nothing But Trouble (2), Scouting the Land (1), Sleepless in Stone City (8), Stone City Chaos (4)
 
 ### Sapira (Exp: SC)
 
@@ -1166,7 +1208,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Spider Poison, 1 Wood
 - **Quests:**
   - BC: Nabia's Exploration (1)
-  - SC: Nothing But Trouble (2), Scouting the Land (1)
+  - SC: Nothing But Trouble (2), Scouting the Land (1), Stone City Chaos (4)
 
 ### Sapiti (Exp: SC)
 
@@ -1177,7 +1219,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - MT: Warm Creature Highlights 1/3 (5)
   - BC: Nabia's Exploration (1)
-  - SC: Nothing But Trouble (2), Scouting the Land (1)
+  - SC: Nothing But Trouble (2), Scouting the Land (1), Stone City Chaos (4)
 
 ### Sassi (Oge: LF*; Exp: unpredictable)
 
@@ -1268,7 +1310,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 220
 - **Drops:** 0-1 Golden Chest, 1 Raw Stone, 1 Glass Bar, 2-3 Glass Shards, 2 Raw Fabric, 1-2 Raw Gold, 1-2 Fine Fabric, 1-2 White Fur, 1 Desert Stone
 - **Quests:**
-  - Functionally, anything requiring White Fur will require a Suulan battle (see All Resources for list of quests requiring White Fur)
+  - DigS: Dazzling Desert Colors (1)
 
 ### Takra (Exp: ShrineGiant)
 
@@ -1287,6 +1329,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 1 Essence, 3 Wood, 5 Fur, 2 Tambo Mane, 2-3 Leaves, 1 Wooden Chest, 1-2 Raw Stone, 2 Dust, 1 Old Staff
 - **Quests:**
   - MT: Huge, Gigantic, Enormous (25); The Invisible Ink 5/5 (1); Sand Mountain Caravan (5)
+  - 3PC: A Way North: Up the Mountain (1)
   - HuntS2: A Season to Explore (1)
 
 ### Thapiolo (Exp: ShrineCar)
@@ -1473,6 +1516,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Quests:**
   - LF: Main Quest 1/Luciola Forest Caretaker (4), Forest Creatures (1)
   - MT: Tinkering With Leafsung 1/5 (5), Watering Hole (44)
+  - GL: Eat the Leaves? (10)
 
 ### Witch's Memoirs (Exp: Shrine TFA)
 
@@ -1509,7 +1553,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** Wood, Rope, Leaves
 - **Quests:**
   - MT: Cool Creature Highlights 2/3 (5)
-  - BC: Hard Day's Walk (1), Nabia's Exploration (1)
+  - BC: Hard Day's Walk (1), Nabia's Exploration (1), Just a Mean Green (25)
 
 ### Yantao (Exp: Ruins)
 
@@ -1527,7 +1571,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 186
 - **Drops:** 2-3 Rope, 1 Glass Shards, 1 Red Dye, 2-3 Raw Fabric, 1 Raw Gold, 2-3 Raw Steel, 1 Steel Bar, 1 Fine Fabric
 - **Quests:**
-  - 3PC: Main Quest 1/Earthquakes(1)
+  - 3PC: Main Quest 1/Earthquakes(1), A Way North: Up the Mountain (1)
   - Gansu: Main Quest 4/ The Welcoming Committee (2)
   - HuntS2: A Season to Explore (1)
 
@@ -1545,7 +1589,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Requirements:** 720 words
 - **Time allowed:** 90 minutes (1 hour 30 minutes)
 - **XP:** 95
-- **Drops:** 1-2 Spider Poison, 4 Rope, 2 Glass Shards, 3 Raw Fabric 
+- **Drops:** 1-2 Spider Poison, 4-6 Rope, 2 Glass Shards, 3 Raw Fabric 
 - **Quests:**
   - Gansu: Snake Pit (25)
   - HuntS2: Strengthening Your Viewpoint 2/3 (1)
@@ -1565,7 +1609,9 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Time allowed:** 120 minutes (2 hours)
 - **XP:** 50
 - **Drops:** 1-3 Dust, 1-2 Raw Sandstone, 1 Fur
-- **Quests:** HuntS2: Dazzling Desert Diversity (2)
+- **Quests:** 
+  - DigS: Dazzling Desert Colors (10)
+  - HuntS2: Dazzling Desert Diversity (2)
 
 ### Zosimaga (Exp: ShrineMar)
 

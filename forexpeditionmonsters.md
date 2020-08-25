@@ -1,4 +1,4 @@
-LAST UPDATED 1 APR 2020
+LAST UPDATED 24 AUG 2020
 
 # EVERYWHERE MONSTERS
 
@@ -105,6 +105,20 @@ As of this writing, these monsters are everywhere. No need to repeat them every 
 
 # STONE CITY MONSTERS
 
+### Oncaiii
+
+- **Requirements:** 800 words, 1 Saliva Vial
+- **Time allowed:** 120 minutes (2 hours)
+- **XP:** 80
+- **Drops:** 1-2 Spider Poison, 2-4 Wood, 2-3 Fur, 2-4 Leaves
+
+### Reudod
+
+- **Requirements:** 600 words
+- **Time allowed:** 90 minutes (1 hour 30 minutes)
+- **XP:** 60
+- **Drops:** 3-5 Leaves, 2-3 Rope, 1-2 Raw Stone, 2-3 Wood
+
 ### Sapilo
 
 - **Requirements:** 450 words, 1 Saliva Vial
@@ -187,3 +201,10 @@ NOTE: True to its name, the Night Dandeleon only comes out at night. "Night" app
 - **Time allowed:** 40 minutes
 - **XP:** 30
 - **Drops:** 1 Dandeleon Flower, 1 Dust, 1-2 Leaves
+
+### Maikile
+
+- **Requirements:** 750 words
+- **Time allowed:** 1 minutes (1 hour and 40 minutes)
+- **XP:** 75
+- **Drops:** 4-7 Leaves, 2-3 Fur, 2 Wood, 1 Essence

@@ -1,4 +1,4 @@
-LAST UPDATED 27 DEC 2019
+LAST UPDATED 24 AUG 2020
 
 # ALL GAME MONSTERS
 
@@ -43,6 +43,13 @@ LAST UPDATED 27 DEC 2019
 
 # DIG SITE MONSTERS
 
+### Bevrex
+
+- **Requirements:** 300 words
+- **Time allowed:** 35 minutes
+- **XP:** 30
+- **Drops:** 1-2 Fur, 0-1 Desert Stones (usually 1), 1 Raw Sandstone
+
 ### Kapir
 
 - **Requirements:** 800 words
@@ -63,6 +70,13 @@ LAST UPDATED 27 DEC 2019
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 100
 - **Drops:** 2-6 Dust, 1-2 Raw Gold, 1-2 Raw Sandstone, 1-2 Desert Stone
+
+### Rif
+
+- **Requirements:** 300 words
+- **Time allowed:** 25 minutes
+- **XP:** 30
+- **Drops:** 1 Feather, 1-2 Raw Sandstone, 1 Dust
 
 ### Sakish
 
@@ -93,6 +107,13 @@ LAST UPDATED 27 DEC 2019
 - **Time allowed:** 120 minutes (2 hours)
 - **XP:** 45
 - **Drops:** 1-2 Raw Sandstone, 1 Fur, 1 Raw Stone
+
+### Rif
+
+- **Requirements:** 300 words
+- **Time allowed:** 25 minutes
+- **XP:** 30
+- **Drops:** 1 Feather, 1-2 Raw Sandstone, 1 Dust
 
 ### Ripos
 

@@ -1,4 +1,4 @@
-LAST UPDATED 12 MAY 2020
+LAST UPDATED 24 AUG 2020
 
 ### * Arenica (Unlocked by Main Quest 3: Sacred Shrine)
 
@@ -158,4 +158,4 @@ I'm going to reiterate what I said in the Quest advice: if you haven't turned in
 - **Requirements:** 720 words
 - **Time allowed:** 90 minutes (1 hour 30 minutes)
 - **XP:** 95
-- **Drops:** 1-2 Spider Poison, 4 Rope, 2 Glass Shards, 3 Raw Fabric 
+- **Drops:** 1-2 Spider Poison, 4-6 Rope, 2 Glass Shards, 3 Raw Fabric 

@@ -1,4 +1,4 @@
-LAST UPDATED 25 JUL 2020
+LAST UPDATED 24 AUG 2020
 
 This is getting longer and more unwieldy, so I'm going to abbreviate a bit: if there's something you'd need to go back to the Forest Region to get, I'm summarizing it as FOREST. What's the Craft price for a Vine Net? Go check the FOREST.
 
@@ -561,7 +561,7 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
   - FOREST (including New LF Quest: Enter Pan's Labyrinth (10))
   - Craft 3PC: Lorsa Nest (5), Sandstone Block (1), Stone Block (1)
   - 3PC Battles: Tambo (4)
-  - 3PC Quests: Main Quest 2/Just Another Brick (10), Main Quest 5/A Way South (10),  Sand in Places (3)
+  - 3PC Quests: Main Quest 2/Just Another Brick (10), Main Quest 5/A Way South (10),  Sand in Places (3), A Way North: Up the Mountain (30)
 
 ### Rusty Amulet
 

@@ -1,4 +1,4 @@
-LAST UPDATED 23 AUG 2020
+LAST UPDATED 24 AUG 2020
 
 ## Raina Surface Camp
 
@@ -8,7 +8,7 @@ LAST UPDATED 23 AUG 2020
 - **Time allowed:** 60 minutes (1 hour)
 - **XP:** 50
 - **Drops:** 1 River Water, 1-2 River Grass, 1-2 Raw Stone
-- **Quests:** Surface: Sans the Bone (5)
+- **Quests:** SurfaceC: Sans the Bone (5)
 
 ### Begala
 
@@ -16,7 +16,7 @@ LAST UPDATED 23 AUG 2020
 - **Time allowed:** 40 minutes
 - **XP:** 30
 - **Drops:** 0-1 River Grass, 1 Raw Fabric
-- **Quests:** Surface: Energy Now, Tired Later (10)
+- **Quests:** SurfaceC: Energy Now, Tired Later (10)
 
 ### Droxa
 
@@ -24,7 +24,7 @@ LAST UPDATED 23 AUG 2020
 - **Time allowed:** 720 minutes (12 hours)
 - **XP:** 180
 - **Drops:** 4-5 River Grass, 2-3 River Water, 3-5 Raw Steel, 0-1 River Keys, 4-5 Leather Rolls, 1-4 Rope, 1-3 River Stones
-- **Quests:** Surface: Defeating a Droxa Drove (3)
+- **Quests:** SurfaceC: Defeating a Droxa Drove (3)
 
 ### Knusha
 
@@ -32,7 +32,7 @@ LAST UPDATED 23 AUG 2020
 - **Time allowed:** 600 minutes (10 hours)
 - **XP:** 120
 - **Drops:** 1-3 Rope, 0-2 Raw Steel, 1-2 Raw Stone, 1 River Water, 1 Hardwood, 3 Leather Roll, 0-3 River Grass, 1 River Stone
-- **Quests:** Surface: Infected Raina Part 1 (5), Infected Raina Part 2 (10), 4 the Infected (15)
+- **Quests:** SurfaceC: Infected Raina Part 1 (5), Infected Raina Part 2 (10), 4 the Infected (15)
 
 ### Olea
 
@@ -48,7 +48,7 @@ LAST UPDATED 23 AUG 2020
 - **Time allowed:** 25 minutes
 - **XP:** 15
 - **Drops:** 1 Raw Fabric, 1 Wood
-- **Quests:** Surface: Energy Now, Tired Later (10)
+- **Quests:** SurfaceC: Energy Now, Tired Later (10)
 
 ### Vaktra
 
@@ -56,7 +56,7 @@ LAST UPDATED 23 AUG 2020
 - **Time allowed:** 120 minutes (2 hours)
 - **XP:** 70
 - **Drops:** 1-2 Leather Rolls, 2-3 River Grass, 1-3 Rope
-- **Quests:** Surface: Stamina Level Up! (15)
+- **Quests:** SurfaceC: Stamina Level Up! (15)
 
 ### Vota
 
@@ -64,7 +64,7 @@ LAST UPDATED 23 AUG 2020
 - **Time allowed:** 300 minutes (5 hours)
 - **XP:** 80
 - **Drops:** 1-3 Rope, 1 Dust, 2 Raw Steel, 1-2 River Water, 1-2 Leather Roll, 2 River Grass
-- **Quests:** Surface: Infected Raina Part 1 (5), Infected Raina Part 2 (10), 4 the Infected (15)
+- **Quests:** SurfaceC: Infected Raina Part 1 (5), Infected Raina Part 2 (10), 4 the Infected (15)
 
 ### Wyvern
 
@@ -72,7 +72,7 @@ LAST UPDATED 23 AUG 2020
 - **Time allowed:** 1440 minutes (24 hours)
 - **XP:** 120
 - **Drops:** 0-2 Dust, 2-4 River Water, 0-1 Hardwood, 2-3 Leather Roll, 2-5 River Grass, 1-3 River Stone
-- **Quests:** Surface: Infected Raina Part 3 (10)
+- **Quests:** SurfaceC: Infected Raina Part 3 (10)
 
 ### Yala
 
@@ -80,7 +80,7 @@ LAST UPDATED 23 AUG 2020
 - **Time allowed:** 45 minutes
 - **XP:** 50
 - **Drops:** 1 Rope, 1-2 River Water, 0-1 Leather Roll, 1 River Grass, 1 River Stone
-- **Quests:** Surface: Infected Raina Part 2 (10), 4 the Infected (15)
+- **Quests:** SurfaceC: Infected Raina Part 2 (10), 4 the Infected (15)
 
 ## Swamplands
 

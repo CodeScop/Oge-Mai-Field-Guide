@@ -1,4 +1,4 @@
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 24 AUG 2020
 
 Here are ALL THE THINGS available in the Forest. LF is Luciola Forest. MT is Mama Tree. HuntS1 is Hunt for the Ancients Season 1. And for the Expedition...
 
@@ -98,7 +98,7 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
   - FB Battles: Dandeleon (220 words for 1)
   - GL Battles: Night Dandeleon (330 words for 1)
 - **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game; otherwise, as you please)
-- **Used for:** nothing so far
+- **Used for:** FB Quest: Lovely Flower Crown (15)
 
 ### Dinti
 
@@ -137,6 +137,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Other sources:** Buy,
   - LF Battles: Grey's Mawt (850 words for 1-2), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 2)
   - MT Battles: Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 1-2), Tambo (2000 words, 4 Rope, 10 Leaves and min level 5 for 1)
+  - GL Battles: Maikile (750 words for 1)
   - Anywhere Battles: Viyusa (25 minutes for 1-4)
 - **Buy:** MT Item Shop/Edrie's Market: 32 Coins
 - **Sell price:** 8 Coins (don't sell unless you have >500)
@@ -157,6 +158,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
   - Craft MT: Leaf Breastplate (5), Leaf Helmet (3)
   - LF Quests: Make It Work (5), Style Is Eternal (10), New Style (5), Safety Hats (20)
   - MT Quests: Main Quest 2/A Secret Message (5), Inking By Number 2/5 (15), Warm Creature Highlights 1/3 (10)
+  - TT Quest: Swing Sway Summon (25)
 
 ### Fur
 
@@ -167,6 +169,8 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Other sources:** 
   - LF Battles: Pester (500 words for 1-2), Grey's Mawt (850 words for 2-3), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 1-2), Buy
   - MT Battles: Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 2-3), Tambo (2000 words, 4 Rope, and 10 Leaves for 5), Clawadin (800 words for 0-1), Burocat (1000 words for 0-1)
+  - SC Battles: Oncaiii (800 words & 1 Saliva Vial for 2-3)
+  - GL Battles: Maikile (750 words for 2-3)
 - **Buy:** 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (don't sell unless you have >500)
 - **Used for:** 
@@ -336,9 +340,9 @@ For later game. DO NOT SELL.
   - BC, FB, SC, TT Battles: Alnu (400 words for 1-2)
   - BC Battles: Kaija (240 words for 1), Sacer (120 words for 1), BC Battles: Xuso (450 words for 1-3)
   - FB Battles:  Dandeleon (220 words for 1-2)
-  - SC Battles: Sapilo (450 words, 1 Saliva Vial for 1-2), Sapiti (300 words, 1 Saliva Vial for 1)
+  - SC Battles: Reudod (600 words for 3-5), Sapilo (450 words, 1 Saliva Vial for 1-2), Sapiti (300 words, 1 Saliva Vial for 1), Oncaiii (800 words & 1 Saliva Vial for 2-4)
   - TT Battles: Buhini (150 Words, 1 Nezthai Claw, 2-day Streak for 1-2), Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 3), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-3)
-  - GL Battles: Night Dandeleon (330 words for 1-2)
+  - GL Battles: Night Dandeleon (330 words for 1-2), Maikile (750 words for 4-7)
   - Anywhere Battles: Vi (5 minutes for 1-4)
 - **Buy:** 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
@@ -425,7 +429,9 @@ For later game. DO NOT SELL.
 ### Raw Stone
 
 - **Best sources:** Anywhere Battles: Xin (100 words for 0-1) 
-- **Other sources:** MT Battles: Tambo (2000 words, 4 Rope, and 10 Leaves for 1-2)
+- **Other sources:** 
+  - SC Battles: Reudod (600 words for 1-2)
+  - MT Battles: Tambo (2000 words, 4 Rope, and 10 Leaves for 1-2)
 - **Sell price:** 8 Coins (don't sell unless you have >100)
 - **Used for:** 
   - Craft LF: Wooden Fishing Rod (1)
@@ -465,6 +471,7 @@ For later game. DO NOT SELL.
   - MT Battles: Illi (700 words for 3-4)
   - MT Wooden Chest: 3-9
 - **Other sources:** Buy
+  - SC Battles: Reudod (600 words for 2-3)
   - LF Battles: Aracnu (800 words for 1), Mawt (1000 words for 1), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 1-2), Sassi (600 words, min level 3 for 1)
   - MT Battles: Tylu (600 words for 1), Villager (1300 words for 1), Velts (800 words for 1-3)
   - BC, FB, SC, TT Battles: Alnu (400 words for 1-2)
@@ -513,7 +520,8 @@ For later game. DO NOT SELL.
 - **Source:** BC Battles: Kaija (240 words for 1)
 - **Sell price:** 5 Coins (don't sell any if you like fighting Sapi- monsters; sell any over 30 otherwise)
 - **Used for:** 
-  - SC Battles: Sapilo (need 1), Sapira (need 1), Sapiti (need 1)
+  - FB Quest: Lovely Flower Crown (10)
+  - SC Battles: Sapilo (need 1), Sapira (need 1), Sapiti (need 1), Oncaiii (need 1)
 
 ### Shrine Ticket
 
@@ -556,7 +564,7 @@ For later game. DO NOT SELL.
 - **Other sources:** 
   - LF Battles: Aracnu (800 words for 1-2)
   - MT Battles: Illi (700 words for 0-1, usually 1)
-  - SC Battles: Sapilo (450 words, 1 Saliva Vial for 1), Sapira (350 words, 1 Saliva Vial for 1), Sapiti (300 words, 1 Saliva Vial for 0-1)
+  - SC Battles: Oncaiii (800 words & 1 Saliva Vial for 1-2), Sapilo (450 words, 1 Saliva Vial for 1), Sapira (350 words, 1 Saliva Vial for 1), Sapiti (300 words, 1 Saliva Vial for 0-1)
 - **Sell price:** 4 Coins (Don't sell; there is always a use lurking somewhere. As long as quests exists, there is always a use.)
 - **Used for:** 
   - Craft MT: Leafsung Ink (5)
@@ -576,8 +584,10 @@ For later game. DO NOT SELL.
 ### Stempo
 
 - **Sources:** 
-  - SC Quest: A Forest Riddle (3)
-  - TT Quest: Boots Made for Climbing (1)
+  - BC Quest: One Hundred Creatures (5)
+  - FB Quest: To Collect Memories (5)
+  - SC Quest: A Forest Riddle (3), Slowest Tortoise Wins (2), Stone City Chaos (4)
+  - TT Quest: Boots Made for Climbing (1), Buholi in the Sky (4)
   - GL Quest: Shadows In Flux (3)
 - **Sell Price:** Priceless. Sorry, 250 Coins, but DON'T SELL.
 - **Used for:** later game,
@@ -633,8 +643,9 @@ For later game. DO NOT SELL.
   - MT Wooden Chest: 2-7
   - BC Battles: Xuso (450 words for 1-2)
   - FB Battles: Nezthai (600 words for 1-2)
-  - SC Battles: Sapilo (450 words, 1 Saliva Vial for 1), Sapira (350 words, 1 Saliva Vial for 1)
+  - SC Battles: Reudod (600 words for 2-3), Sapilo (450 words, 1 Saliva Vial for 1), Sapira (350 words, 1 Saliva Vial for 1), Oncaiii (800 words & 1 Saliva Vial for 2-4)
   - TT Battles: Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 1-3), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-3)
+  - GL Battles: Maikile (750 words for 2)
   - Anywhere Battles: Viyu (15 minutes for 2-7)
 - **Buy:** 8 Coins in Item Shop/Alex's Shop 
 - **Sell price:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)
@@ -710,9 +721,9 @@ See **Wooden Fishing Rod**.
   - LF Quests: Luciola Lorsa Nests (1)
   - MT Quests: Main Quest 1/To Great Heights (1), Main Quest 3/Elder Library (1), Leafsung Vial Creation (1), Written Accounts (1), Bridge of Sighs (1), Keep In Quarantine (1), Sand Mountain Caravan (1), Tinkering With Leafsung 1/5 (1)
   - BC Quest: A Darkened Forest (1)
-  - FB Quest: Feeding the Lighthouse (1), Sturdy Wooden Fence (1)
-  - SC Quest: Nothing But Trouble (1)
-  - TT Quest: Boots Made for Climbing (1)
+  - FB Quest: Feeding the Lighthouse (1), Sturdy Wooden Fence (1), Lovely Flower Crown (3)
+  - SC Quest: Nothing But Trouble (1), Slowest Tortoise Wins (2)
+  - TT Quest: Boots Made for Climbing (1), Swing Sway Summon (1)
 
 - **Sell price:** 10 Coins (DON'T SELL CHESTS WHY WOULD YOU)
 
@@ -742,8 +753,8 @@ also called "Wood Fishing Rod"
   - MT Quests: Watering Hole (4), Sand Mountain Caravan (1), Inking By Number 2/5 (3)
   - BC Quest: A Darkened Forest (1)
   - FB Quest: Blossom with Flowers!1/2 (1), Lighting the Way (1)
-  - SC Quest: Nothing But Trouble (1)
-  - TT Quests: Boots Made for Climbing (1), Trying Your Patience (3)
+  - SC Quest: Nothing But Trouble (1), Lovely Flower Crown (3)
+  - TT Quests: Boots Made for Climbing (1), Trying Your Patience (3), Swing Sway Summon (1)
 - **Sell price:** 25 Coins (DON'T SELL KEYS WHY WOULD YOU)
 - **Used for:** 
   - With Wooden Chest in LF, drops 1-6 Rope, 1-3 Leaves, 1-3 Wood Sword, 9-18 Coins, 0-2 Leaf Boots, 1 Leaf Helmet, 0-1 Leaf Breastplate, 1-3 Spider Poison

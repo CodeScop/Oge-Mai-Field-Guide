@@ -1,5 +1,3 @@
-
-
 If there's an asterisk, it unlocked in the process of going through this region.
 
 ## Riza Rivertown Main Quests
@@ -54,7 +52,7 @@ If there's an asterisk, it unlocked in the process of going through this region.
 
 ## Riza Rivertown Sidequests
 
-LAST UPDATED: 22 JAN 2020
+LAST UPDATED: 24 AUG 2020
 
 If there's an asterisk, it unlocked in the process of going through this region.
 
@@ -137,6 +135,14 @@ If there's an asterisk, it unlocked in the process of going through this region.
 - **Requirements:** Craft & turn in 5 Steel Maces and 10 Steel Shields
 - **Rewards:** 3 Stempos
 - **Recommendations:** Biggest resource suck up to this point in the game. Even for completionists, I'd wait until all Main Quests were finished before tackling this one. Probably most of the sidequests, too. Much better to craft a Steel Mace to use yourself.
+
+### * Raina Surface Camp
+
+- **Unlocked by:** Main Quest 6/Journey Upriver
+- **Type:** Battle
+- **Requirements:** Defeat 10 Yala and 5 Vota
+- **Rewards:** Unlock Raina Surface Camp
+- **Recommendations:** Do it! This area is a lot of fun, and a lot of water resources are marginally easier to grind in the Raina Expedition.
 
 ### * Barge Weights
 

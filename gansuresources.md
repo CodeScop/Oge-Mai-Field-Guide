@@ -1,4 +1,4 @@
-LAST UPDATED 25 JUL 2020
+LAST UPDATED 24 AUG 2020
 
 Here we have everything from Three Points Crossing and Gansu Watering Hole, barring any Hunt info that doesn't apply to Hunter Tokens. Use wisely. :) Anything that says FOREST or FOREST EXPEDITION can be looked up in more detail under Forest Resources.
 
@@ -651,7 +651,7 @@ FOREST ONLY
 - **Best sources:** 
   - Anywhere Battles: Awa (200 words for 2)
   - FOREST
-  - Gansu Battles: Ylly (720 words for 4)
+  - Gansu Battles: Ylly (720 words for 4-6)
 - **Other sources:** Buy,
   - 3PC Battles: Desert Wignow (444 words for 1-2), Bruja (900 words for 1-3), Yasri (1250 words for 2-3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1)
   - Gansu Battles: Desert Wignow (444 words for 1-2)
@@ -663,7 +663,7 @@ FOREST ONLY
   - Craft 3PC: Lorsa Nest (5), Sandstone Block (1), Stone Block (1)
   - Craft Gansu: Lorsa Nest (5), Wooden Fishing Rod (1)
   - 3PC Battles: Tambo (4)
-  - 3PC Quests: Main Quest 2/Just Another Brick (10), Main Quest 5/A Way South (10), Sand in Places (3)
+  - 3PC Quests: Main Quest 2/Just Another Brick (10), Main Quest 5/A Way South (10), Sand in Places (3), A Way North: Up the Mountain (30)
   - Gansu Quests: Tougher with Tambo (100), Rebuild the Watering Hole (15)
 
 ### Rusty Amulet
@@ -718,7 +718,7 @@ See **Sandstone Block**.
 
 ### Sandstone Block
 
-The game usually simply calls this **Sa****ndstone**. Since I call the parallel Stone items "Stone Blocks", I call this "Sandstone Block" for consistency.
+The game usually simply calls this **Sandstone**. Since I call the parallel Stone items "Stone Blocks", I call this "Sandstone Block" for consistency.
 
 - **Source:** Craft
   - 3PC Golden Chest: 1
