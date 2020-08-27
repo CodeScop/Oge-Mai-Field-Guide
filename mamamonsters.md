@@ -65,14 +65,14 @@ Notice that despite everything else being identical to the Luciola Forest monste
 ### Vanstra
 
 - **Requirements:** Endurance: Battle 3 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 8
 - **Baseline Drops:** 2 Coins, 1 Hunter Token
 
 ### Vi
 
 - **Requirements:** Endurance: Battle 5 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 10 XP
 - **Baseline Drops:** 1 Leaf, 3 Coins 
 
@@ -87,7 +87,7 @@ Notice that despite everything else being identical to the Luciola Forest monste
 ### Viyu
 
 - **Requirements:** Battle 15 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 40 XP
 - **Drops:** 
   - Baseline: 15 Coins
@@ -96,7 +96,7 @@ Notice that despite everything else being identical to the Luciola Forest monste
 ### Viyusa
 
 - **Requirements:** Battle 25 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 80 XP
 - **Drops:** 
   - Baseline: 1 Essence, 25 Coins

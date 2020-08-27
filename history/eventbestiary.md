@@ -792,7 +792,7 @@ And to further help, I'm including which number slot they fill on the bestiary.
 - **Introduced by:** Event Benchmark: Crash Landing
 - **Location:** All Event (everywhere in the game)
 - **Requirements:** Endurance: Battle 5 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **XP:** Baseline: 10 XP
 - **Drops:** Baseline: 1 Fleet Token, 3 Coins
 
@@ -802,7 +802,7 @@ And to further help, I'm including which number slot they fill on the bestiary.
 - **Introduced by:** Event Benchmark: Crash Landing
 - **Location:** All Event (everywhere in the game)
 - **Requirements:** Battle 15 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **XP:** Baseline: 40 XP
 - **Drops:** Baseline: 3 Fleet Tokens, 15 Coins
 
@@ -812,7 +812,7 @@ And to further help, I'm including which number slot they fill on the bestiary.
 - **Introduced by:** Event Benchmark: Crash Landing
 - **Location:** All Event (everywhere in the game)
 - **Requirements:** Battle 25 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **XP:** Baseline: 80 XP
 - **Drops:** Baseline: 6 Fleet Token, 25 Coins
 

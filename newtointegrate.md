@@ -4,9 +4,37 @@ FILES UPDATED IN NOTES ONLY, need to update on site:
 
 -HuntS1?
 
+-Hunt History S3
+
+-Hunt Wardrobe
+
+-Luciola Monsters
+
+-Mama Monsters
+
+-ForExpedition Monsters
+
+-3PC Monsters
+
+-Gansu Monsters
+
+-DesExpedition Monsters
+
 -Riza Quests
 
+-Riza Monsters
+
+-Balance Monsters
+
+-DarkForest Monsters
+
+-Forest Bestiary
+
+-Desert Bestiary
+
 -Water Bestiary
+
+-All Bestiary
 
 
 

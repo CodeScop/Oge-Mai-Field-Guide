@@ -1,4 +1,4 @@
-LAST UPDATED 24 AUG 2020 - STILL IN PROGRESS
+LAST UPDATED 25 AUG 2020 - STILL IN PROGRESS
 
 # IMPACT CRATER QUESTS
 
@@ -366,6 +366,27 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Requirements:** 3-day Streak, and deliver 15 Steel Bars, 15 Glass Bars, and 15 Stone Blocks
 - **Rewards:** 5 Stempos
 - **Recommendations:** tbd
+
+### Encourage an Ecosystem (4/4)
+
+- **Location:** Research Lab
+- **Unlocked by:** Build a Biodome (3/4)
+- **Type:** Collection, Streak
+- **Requirements:** 15-day Streak, and deliver: 
+  - 5 Lorsa Fur - found in Mama Tree
+  - 15 Raw Fabric
+  - 10 Rope
+  - 20 River Grass
+  - 10 Wood
+  - 15 River Water - Water Region, especially Raina Expedition
+  - 30 Leaves
+  - 3 Vezi Shell - Floating City of Balance, midway through Main Quests
+  - 18 Ardii Dust - easiest to find in Forward Base
+  - 5 Dinti
+  - 5 Saliva Vials - Base Camp
+  - 5 Feathers - easiest to find in the Forest Region
+- **Rewards:** 5 Stempos
+- **Recommendations:** That is a long shopping list. I hope you can find Dinti without my labeling it (you're IN the Alien Meteoroid Expedition after all), and many of the items are very common, but I've added locations to find the more obscure resources.
 
 ### Projecting Light
 

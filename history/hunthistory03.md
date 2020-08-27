@@ -1,4 +1,4 @@
-LAST UPDATED 4 AUG 2020
+LAST UPDATED 24 AUG 2020
 
 Halfway through the year, we're opening the third Season!
 
@@ -123,3 +123,54 @@ August 2020 sources are Hunt monsters and monsters with wings/flight. **NOTE FOR
   - not available at this time
 - Balance Battles: Spirit Castu (550 words for 4-5, yes, that's 4-5, not 5-6)
 - DFO Battles: Spirit Ardia (80 words for 1), Ascre (150 words for 1-2), Belasi (200 words for 2), Osalyu (750 words for 7-8), Papple Spirit (900 words for 9), Papple (1000 words for 10), Miclan (5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 50)
+
+# Late August 2020
+
+### New Quests: Late Aug 2020
+
+
+
+### New Hunt Monsters: Late Aug 2020
+
+Technically none. Still eyeing the brand-new Vanvri in Balance with a side-eye as it drops Hunter Tokens without fitting this month's theme.
+
+### New Resources: Late Aug 2020
+
+- Hunt Map Piece 9
+
+### Hunter Token Sources: Late Aug 2020
+
+**Late Aug 2020 Sources Outside the Hunt:**
+
+Late August 2020 sources are - wait for it - BLUE. 
+
+... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
+
+- Global Battles: Vi, Viyusa, Awa
+- LF Battles: Spirit Wignow
+- MT Battles: Ardii, Lorsa, Spirit Lorsini
+- FOREST EXPEDITION:
+  - BC Battles: Sacer (may be a leftover from wings last month, may be removed)
+  - FB Battles: Ardii, Spirit Ardia
+  - SC, TT, GL Battles: Global, Hunt Only (was Gobkey overlooked?)
+- 3PC Battles: Bruja, Yasri
+- ALIEN EXPEDITION:
+  - IC, MS Battles: Global only
+  - SpaceS Battles: Kovar, Noit
+  - RL Battles: ALL THE HOLOGRAMS
+- Gansu Battles: Furoxi, Sparfly (may be a leftover from wings last month, may be removed)
+- DESERT EXPEDITION:
+  - DigS Battles: Zera
+  - Ruins Battles: Gordi, Spirit Griffe, Spirit Gordiliana
+- Riza Battles: Furoxi, Osaril, Sparfly (may be a leftover from wings last month, may be removed)
+- RAINA EXPEDITION:
+  - SurfaceC, SacredS Battles: Global and Hunt only
+  - SwampL Battle: Rhamp
+- Balance Battles: Furoxi, Castu, Nuig, Water Rudakai
+- DFO Battles: Spirit Ardia, Molox, Osalyu, Spirit Papple, Lycosta,  Chaensi, Babu, Miclan
+
+### New Wardrobe Items: Late Aug 2020
+
+- Rib Wings Tattoo - 25 Hunter Tokens
+- Torso Wings Tattoo - 25 Hunter Tokens
+- Hunt Cloak - 150 Hunter Tokens

@@ -110,14 +110,14 @@ I'm going to reiterate what I said in the Quest advice: if you haven't turned in
 ### Vi
 
 - **Requirements:** Endurance: Battle 5 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 10 XP
 - **Baseline Drops:** 1 Leaf, 3 Coins 
 
 ### Viyu
 
 - **Requirements:** Battle 15 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 40 XP
 - **Drops:** 
   - Baseline: 15 Coins
@@ -126,7 +126,7 @@ I'm going to reiterate what I said in the Quest advice: if you haven't turned in
 ### Viyusa
 
 - **Requirements:** Battle 25 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 80 XP
 - **Drops:** 
   - Baseline: 1 Essence, 25 Coins

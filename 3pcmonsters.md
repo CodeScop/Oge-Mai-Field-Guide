@@ -75,7 +75,7 @@ Again, numbers assume a certain amount of Luck. Some of these numbers were obtai
 ### Vanspi
 
 - **Requirements:** Battle 10 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 30
 - **Drops:** 
   - Baseline: 10 Coins, 2 Hunter Tokens
@@ -84,7 +84,7 @@ Again, numbers assume a certain amount of Luck. Some of these numbers were obtai
 ### Vi
 
 - **Requirements:** Endurance: Battle 5 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 10 XP
 - **Baseline Drops:** 1 Leaf, 3 Coins 
 
@@ -100,7 +100,7 @@ Like Grey's Mawt, Villager starts costing resources per battle in a new region w
 ### Viyu
 
 - **Requirements:** Battle 15 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 40 XP
 - **Drops:** 
   - Baseline: 15 Coins
@@ -109,7 +109,7 @@ Like Grey's Mawt, Villager starts costing resources per battle in a new region w
 ### Viyusa
 
 - **Requirements:** Battle 25 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 80 XP
 - **Drops:** 
   - Baseline: 1 Essence, 25 Coins

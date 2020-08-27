@@ -54,14 +54,14 @@ LAST UPDATED 27 DEC 2019
 ### Vi
 
 - **Requirements:** Endurance: Battle 5 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 10 XP
 - **Baseline Drops:** 1 Leaf, 3 Coins 
 
 ### Viyu
 
 - **Requirements:** Battle 15 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 40 XP
 - **Drops:** 
   - Baseline: 15 Coins
@@ -70,7 +70,7 @@ LAST UPDATED 27 DEC 2019
 ### Viyusa
 
 - **Requirements:** Battle 25 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 80 XP
 - **Drops:** 
   - Baseline: 1 Essence, 25 Coins
@@ -257,14 +257,14 @@ If it's not a Spirit Ardia or a Papple Spirit, it's not a Dark Forest Outpost mo
 ### Vi
 
 - **Requirements:** Endurance: Battle 5 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 10 XP
 - **Baseline Drops:** 1 Leaf, 3 Coins 
 
 ### Viyu
 
 - **Requirements:** Battle 15 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 40 XP
 - **Drops:** 
   - Baseline: 15 Coins
@@ -273,7 +273,7 @@ If it's not a Spirit Ardia or a Papple Spirit, it's not a Dark Forest Outpost mo
 ### Viyusa
 
 - **Requirements:** Battle 25 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 80 XP
 - **Drops:** 
   - Baseline: 1 Essence, 25 Coins

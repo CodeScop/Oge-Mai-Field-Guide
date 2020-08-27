@@ -1540,7 +1540,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 
 - **Unlocked by:** Opening Three Points Crossing
 - **Requirements:** Battle 10 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 30
 - **Drops:** 
   - Baseline: 10 Coins, 2 Hunter Tokens
@@ -1551,7 +1551,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 
 - **Unlocked by:** Opening Mama Tree
 - **Requirements:** Endurance: Battle 3 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 8
 - **Baseline Drops:** 2 Coins, 1 Hunter Token
 - **Quests:** none
@@ -1599,7 +1599,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 
 - **Unlocked by:** LF Main Quest 2: Building, Not Burning
 - **Requirements:** Endurance: Battle 5 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 10 XP
 - **Baseline Drops:** 1 Leaf, 3 Coins 
 - **Quests:** Global: Procrastination's A Thief (1)
@@ -1620,7 +1620,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 
 - **Unlocked by:** LF Main Quest 2: Building, Not Burning
 - **Requirements:** Battle 15 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 40 XP
 - **Drops:** 
   - Baseline: 15 Coins
@@ -1631,7 +1631,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 
 - **Unlocked by:** LF Main Quest 2: Building, Not Burning
 - **Requirements:** Battle 25 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on number of words written
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 80 XP
 - **Drops:** 
   - Baseline: 1 Essence, 25 Coins

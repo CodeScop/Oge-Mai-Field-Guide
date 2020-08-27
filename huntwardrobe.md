@@ -1,6 +1,21 @@
-LAST UPDATED 5 JUL 2020
+LAST UPDATED 25 AUG 2020
 
 This is fast and sloppy, but at least it's a complete list. And it's mixed by price/alphabet instead of being randomly on display, so it might be a LITTLE easier to navigate?
+
+NEW IN AUGUST
+
+- Rib Wings Tattoo - 25 Hunter Tokens
+- Torso Wings Tattoo - 25 Hunter Tokens
+- Hunt Cloak - 150 Hunter Tokens
+
+NEW IN JULY
+
+- Arms Geometric Tattoo - 25 Hunter Tokens
+- Bulky Arrow Tattoo - 25 Hunter Tokens
+- Geometric Labyrinth Tattoo - 25 Hunter Tokens
+- Geometric Lines Tattoo - 25 Hunter Tokens
+- Limb Lines Tattoo - 25 Hunter Tokens
+- Valknut Tattoo - 25 Hunter Tokens
 
 NEW IN JUNE
 
