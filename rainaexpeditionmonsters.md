@@ -1,4 +1,4 @@
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 31 AUG 2020
 
 ## Raina Surface Camp
 
@@ -16,7 +16,9 @@ LAST UPDATED 24 AUG 2020
 - **Time allowed:** 40 minutes
 - **XP:** 30
 - **Drops:** 0-1 River Grass, 1 Raw Fabric
-- **Quests:** SurfaceC: Energy Now, Tired Later (10)
+- **Quests:** 
+  - SurfaceC: Energy Now, Tired Later (10)
+  - Hunt S3: Growth in Friendship (1)
 
 ### Droxa
 
@@ -24,7 +26,9 @@ LAST UPDATED 24 AUG 2020
 - **Time allowed:** 720 minutes (12 hours)
 - **XP:** 180
 - **Drops:** 4-5 River Grass, 2-3 River Water, 3-5 Raw Steel, 0-1 River Keys, 4-5 Leather Rolls, 1-4 Rope, 1-3 River Stones
-- **Quests:** SurfaceC: Defeating a Droxa Drove (3)
+- **Quests:** 
+  - SurfaceC: Defeating a Droxa Drove (3)
+  - Hunt S3: Growth in Friendship (1)
 
 ### Knusha
 
@@ -32,7 +36,9 @@ LAST UPDATED 24 AUG 2020
 - **Time allowed:** 600 minutes (10 hours)
 - **XP:** 120
 - **Drops:** 1-3 Rope, 0-2 Raw Steel, 1-2 Raw Stone, 1 River Water, 1 Hardwood, 3 Leather Roll, 0-3 River Grass, 1 River Stone
-- **Quests:** SurfaceC: Infected Raina Part 1 (5), Infected Raina Part 2 (10), 4 the Infected (15)
+- **Quests:** 
+  - SurfaceC: Infected Raina Part 1 (5), Infected Raina Part 2 (10), 4 the Infected (15)
+  - Hunt S3: Growth in Friendship (1)
 
 ### Olea
 
@@ -48,7 +54,9 @@ LAST UPDATED 24 AUG 2020
 - **Time allowed:** 25 minutes
 - **XP:** 15
 - **Drops:** 1 Raw Fabric, 1 Wood
-- **Quests:** SurfaceC: Energy Now, Tired Later (10)
+- **Quests:** 
+  - SurfaceC: Energy Now, Tired Later (10)
+  - Hunt S3: Growth in Friendship (1)
 
 ### Vaktra
 
@@ -56,7 +64,9 @@ LAST UPDATED 24 AUG 2020
 - **Time allowed:** 120 minutes (2 hours)
 - **XP:** 70
 - **Drops:** 1-2 Leather Rolls, 2-3 River Grass, 1-3 Rope
-- **Quests:** SurfaceC: Stamina Level Up! (15)
+- **Quests:** 
+  - SurfaceC: Stamina Level Up! (15)
+  - Hunt S3: Growth in Friendship (1)
 
 ### Vota
 
@@ -64,7 +74,9 @@ LAST UPDATED 24 AUG 2020
 - **Time allowed:** 300 minutes (5 hours)
 - **XP:** 80
 - **Drops:** 1-3 Rope, 1 Dust, 2 Raw Steel, 1-2 River Water, 1-2 Leather Roll, 2 River Grass
-- **Quests:** SurfaceC: Infected Raina Part 1 (5), Infected Raina Part 2 (10), 4 the Infected (15)
+- **Quests:** 
+  - SurfaceC: Infected Raina Part 1 (5), Infected Raina Part 2 (10), 4 the Infected (15)
+  - Hunt S3: Growth in Friendship (1)
 
 ### Wyvern
 
@@ -72,7 +84,9 @@ LAST UPDATED 24 AUG 2020
 - **Time allowed:** 1440 minutes (24 hours)
 - **XP:** 120
 - **Drops:** 0-2 Dust, 2-4 River Water, 0-1 Hardwood, 2-3 Leather Roll, 2-5 River Grass, 1-3 River Stone
-- **Quests:** SurfaceC: Infected Raina Part 3 (10)
+- **Quests:** 
+  - SurfaceC: Infected Raina Part 3 (10)
+  - HuntS3: Growing Your Valor 4/4 (1)
 
 ### Yala
 
@@ -80,7 +94,9 @@ LAST UPDATED 24 AUG 2020
 - **Time allowed:** 45 minutes
 - **XP:** 50
 - **Drops:** 1 Rope, 1-2 River Water, 0-1 Leather Roll, 1 River Grass, 1 River Stone
-- **Quests:** SurfaceC: Infected Raina Part 2 (10), 4 the Infected (15)
+- **Quests:** 
+  - SurfaceC: Infected Raina Part 2 (10), 4 the Infected (15)
+  - Hunt S3: Growth in Friendship (1)
 
 ## Swamplands
 
@@ -105,7 +121,7 @@ LAST UPDATED 24 AUG 2020
 - **Requirements:** 120 words
 - **Time allowed:** 20 minutes
 - **XP:** 12
-- **Drops:** 1 Swamp Moss, 1 Dust
+- **Drops:** 1 Swamp Moss, 1-2 Dust
 - **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5)
 
 ### Larida
@@ -145,7 +161,7 @@ LAST UPDATED 24 AUG 2020
 - **Requirements:** 750 words
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 75
-- **Drops:** 5-9 Wood, 1-3 Swamp Moss, 2-5 Dust
+- **Drops:** 5-9 Wood, 1-3 Swamp Moss, 1-5 Dust
 - **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5)
 
 ## Raina Sacred Site
@@ -205,3 +221,59 @@ LAST UPDATED 24 AUG 2020
 - **XP:** 80
 - **Drops:** 6-8 Raw Stone, 1-2 Swamp Moss, 3-5 Leaves, 1-2 Rope, 1-2 Wood
 - **Quests:** Sacred: Seeding New Beginnings 1/3 (1), Seeding New Beginnings 2/3 (5), Seeding New Beginnings 3/3 (10)
+
+## Rebel Raina Hideout
+
+### Cafodu
+
+- **Unlocked by:** opening Rebel Raina Hideout
+- **Requirements:** 600 words
+- **Time allowed:** 90 minutes (1 hour 30 minutes)
+- **XP:** 60
+- **Drops:** 2-6 Wood, 1-2 Leather Roll, 2-4 River Grass
+- **Quests:** Hideout: Knocking Down Rebels (1), Pushing Back Rebels 1/3 (1), Pushing Back Rebels 2/3 (3), Pushing Back Rebels 3/3 (5)
+
+### Drau
+
+- **Unlocked by:** opening Rebel Raina Hideout
+- **Requirements:** 1000 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 100
+- **Drops:** 2-4 River Grass, 2-5 Raw Stone, 1 River Water, 1-3 Rope
+- **Quests:** Hideout: Knocking Down Rebels (1), Pushing Back Rebels 1/3 (1), Pushing Back Rebels 2/3 (3), Pushing Back Rebels 3/3 (5)
+
+### Grongu
+
+- **Unlocked by:** opening Rebel Raina Hideout
+- **Requirements:** 2000 words
+- **Time allowed:** 1667 minutes (1 day, 3 hours, and 47 minutes)
+- **XP:** 200
+- **Drops:** 1-2 Steel Bars, 2-5 Raw Steel, 1-2 Reinforced Rope, 2-6 River Grass, 2-4 Wood, 1 Red Dye, 0-1 River Keys, 3-5 Leather Rolls
+- **Quests:** Hideout: Knocking Down Rebels (1), Pushing Back Rebels 1/3 (1), Pushing Back Rebels 2/3 (3), Pushing Back Rebels 3/3 (5)
+
+### Kivi
+
+- **Unlocked by:** opening Rebel Raina Hideout
+- **Requirements:** 100 words
+- **Time allowed:** 10 minutes
+- **XP:** 10
+- **Drops:** 1 Dust, 0-1 Swamp Moss
+- **Quests:** Hideout: Catching Glints of Sunrise (25)
+
+### Necog
+
+- **Unlocked by:** opening Rebel Raina Hideout
+- **Requirements:** 450 words
+- **Time allowed:** 45 minutes
+- **XP:** 45
+- **Drops:** 2-4 Fur, 2-3 Swamp Moss, 1 River Grass
+- **Quests:** none so far
+
+### Wisthu
+
+- **Unlocked by:** opening Rebel Raina Hideout
+- **Requirements:** 800 words
+- **Time allowed:** 180 minutes
+- **XP:** 80
+- **Drops:** 1-3 Rope, 1-3 Raw Fabric, 1-4 Raw Steel, 2-6 Dust, 1-4 Glass Shards
+- **Quests:** Hideout: Knocking Down Rebels (1), Uncanny Swamp Wisthu (6),Pushing Back Rebels 1/3 (1), Pushing Back Rebels 2/3 (3), Pushing Back Rebels 3/3 (5)

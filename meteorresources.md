@@ -1,4 +1,4 @@
-LAST UPDATED 26 AUG 2020
+LAST UPDATED 30 AUG 2020
 
 This includes ONLY info for the Alien Meteoroid areas. Yes, you have access to 3PC and the Forest! Please consult those sections 
 
@@ -17,11 +17,23 @@ Abbreviations:
 - **Sources:** FOREST, WATER, DESERT, DUST,
 
   - Anywhere Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
-  - sell items (River Grass and Gold Bars can be especially good for this; Raw Fabric can also be useful. Protective Mantles & Cloaks may also be sold.)
+  - sell iteMSite (River Grass and Gold Bars can be especially good for this; Raw Fabric can also be useful. Protective Mantles & Cloaks may also be sold.)
 
 - **Buy:** MT Item Shop/Edrie's Market: 1 Core Crystal for 100 Coins or 5 Core Crystals for 500 Coins
 
 - **Used for:** Buy misc items; FOREST, DESERT, WATER
+
+### Ardii Dust
+
+- **Sources:** outside game
+- **Sell price:** 5 Coins (don't sell unless you have >300)
+- **Used for:** outside game, RLab Quest: Encourage an Ecosystem 4/4 (5)
+
+### Bones
+
+- **Sources:** Dark Forest Outpost
+- **Sell price:** 12 Coins (don't sell unless you have >150)
+- **Used for:** outside game, RLab Quest: Testing the Valley (10)
 
 ### Dinti
 
@@ -29,7 +41,8 @@ Abbreviations:
 - **Other sources:**
 - **Sell price:** 5 Coins (don't sell till event is over)
 - **Used for:** 
-  - Spaceship Quest: Dinti Me Up (5)
+  - MSite Quest: Recovering Stolen Goods (50)
+  - RLab Quest: Encourage an Ecosystem 4/4 (5)
   - Wardrobe purchases at Mining Site
 
 ### Dust
@@ -48,6 +61,27 @@ Abbreviations:
 - **Sell price:** 75 Coins (don't sell unless you have >50)
 - **Used for:** DESERT
 
+### Feathers
+
+FOREST, some DESERT, some WATER
+
+- **Best sources:** 
+  - FOREST
+    - LF Battles: Nitana (700 words for 2-3)
+    - MT Battles: Lorsa (450 words for 0-1, usually 1), Illi (700 words for 0-1, usually 1)
+  - DESERT
+    - DigS, Ruins Battles: Rif (300 words for 1)
+- **Other sources:** Buy
+  - FOREST EXPEDITION: TT Battles: Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 1), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-2)
+  - DESERT: 
+    - ShrineBird Battles: Peq (500 words for 0-1), Ralbone (1000 words for 1-2)
+    - ShrineCar Battles: Fetezira (1000 words for 2-3), Halores (900 words for 1)
+    - ShrineCO: Crilum (280 words for 1)
+  - WATER: Riza Battles: Osaril (300 words, 1 Vine Net for 1)
+- **Buy:** FOREST: 32 Coins in LF Item Shop/Alex's Shop
+- **Sell price:** 8 Coins (Don't sell unless you have > 30)
+- **Used for:** outside game, RLab Quest: Encourage an Ecosystem 4/4 (5)
+
 ### Fur
 
 - **Best sources:** FOREST, DESERT, DUST
@@ -64,9 +98,10 @@ See **Glass Bar**.
 
 The game usually simply calls this **Glass**. I like to make sure I'm distinguishing between this and the dozen other Glass things, so I call 'em Glass Bars.
 
-- **Sources:** DESERT,
+- **Sources:** outside game
 - **Sell price:** 85 Coins (Don't sell unless you have >50.)
-- **Used for:** FOREST, DESERT, WATER, DUST
+- **Used for:** outside game,
+  - RLab Quest: Build a Biodome 3/4 (15)
 
 ### Glass Shards
 
@@ -81,13 +116,31 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 - **Sell price:** 100 Coins (don't sell unless you have >200)
 - **Used for:** DESERT, WATER, DUST
 
+### Kapir Tuft
+
+- **Source:** DESERT EXPEDITION
+- **Sell price:** 25 Coins (don't sell unless you have >15)
+- **Used for:** outside game, RLab Quest: Testing the Valley (2)
+
 ### Leaves
 
 - **Sources:** 
   - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2), Vi (5 minutes for 1-4)
 - **Buy:** 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
-- **Used for:** outside game
+- **Used for:** outside game, RLab Quest: Encourage an Ecosystem 4/4 (30)
+
+### Lorsa Fur
+
+- **Sources:** outside game
+- **Sell price:** 8 Coins (don't sell unless you have >30)
+- **Used for:** outside game, RLab Quest: Encourage an Ecosystem 4/4 (5)
+
+### Nuig String
+
+- **Sources:** Floating City of Balance
+- **Sell price:** 10 Coins (Can sell if you have >40)
+- **Used for:** outside game, RLab Quest: Testing the Valley (3)
 
 ### Piece of Parchment
 
@@ -102,7 +155,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 - **Other sources:** FOREST, DUST
 - **Buy:** DESERT
 - **Sell price:** 8 Coins  (don't sell unless you have >200; if you also have Red Dye and Essence, craft Fine Fabric for a better sell option)
-- **Used for:** DESERT, WATER, DUST
+- **Used for:** outside game, RLab Quest: Encourage an Ecosystem 4/4 (15)
 
 ### Raw Gold
 
@@ -125,14 +178,43 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
   - RL Battles: Arenica Hologram (100 words for 1), Kiru Hologram (100 words for 1), Lombri Hologram (100 words for 1), Lubu Hologram (100 words for 1), Maesc Hologram (100 words for 1), Nuig Hologram (100 words for 1), Sassi Hologram (100 words for 1), Suulan Hologram (100 words for 1), Tambo Hologram (100 words for 1), Wignow Hologram (100 words for 1), Xin Hologram (100 words for 1), Zanthei Hologram (100 words for 1)
 - **Buy:** DESERT
 - **Sell price:** 8 Coins (DO NOT SELL. You will need this to craft SO MANY STEEL BARS.)
-- **Used for:** DESERT, WATER
+- **Used for:** DESERT, WATER,
+  - MSite Quest: Recovering Stolen Goods (10)
 
 ### Raw Stone
 
 - **Sources:** outside game,
   - Anywhere Battles: Xin (100 words for 0-1)
 - **Sell price:** 8 Coins (don't sell unless you have >100)
-- **Used for:** FOREST, DESERT, WATER
+- **Used for:** FOREST, DESERT, WATER,
+  - MSite Quest: Recovering Stolen Goods (15)
+
+### Reenu Wings
+
+- **Sources:** outside game
+- **Sell price:** 8 Coins (only sell if you have >100)
+- **Used for:** outside game, RLab Quest: Testing the Valley (3)
+
+### Refined Dust
+
+- **Sources:** Dark Forest Outpost
+- **Sell price:** 4 Coins (don't sell unless you have >400)
+- **Used for:** outside game, RLab Quest: Testing the Valley (2)
+
+### River Grass
+
+- **Sources:** outside game,
+  - Anywhere Battles: Xin (100 words for 0-1)
+- **Buy:** WATER 25 River Stones in Kedanus' Surface Goods
+- **Sell price:** 40 Coins (don't sell unless you have >500)
+- **Used for:** outside game, RLab Quest: Encourage an Ecosystem 4/4 (20)
+
+### River Water
+
+- **Sources:** WATER
+- **Buy:** WATER 25 River Stones in Kedanus' Surface Goods
+- **Sell price:** 40 Coins (don't sell unless you have >500)
+- **Used for:** outside game, RLab Quest: Encourage an Ecosystem 4/4 (15)
 
 ### Rope
 
@@ -142,13 +224,27 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
   - Anywhere Battles: Viyusa (25 minutes for 2-7)
 - **Buy:** FOREST, WATER, DESERT
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
-- **Used for:** FOREST, DESERT, WATER, DUST
+- **Used for:** outside game,
+  - SpaceS Quest: Technology & Dinti (20)
+  - RLab Quest: Encourage an Ecosystem 4/4 (10)
 
 ### Sacred Feather
 
 - **Source:** outside game,
 - **Sell price:** 25 Coins (don't sell, too valuable)
 - **Used for:** outside game
+
+### Saliva Vial
+
+- **Source:** outside game
+- **Sell price:** 5 Coins (don't sell any if you like fighting Sapi- monsters; sell any over 30 otherwise)
+- **Used for:** outside game, RLab Quest: Encourage an Ecosystem 4/4 (5)
+
+### Spider Poison
+
+- **Sources:** outside game
+- **Sell price:** 4 Coins (Don't sell; there is always a use lurking somewhere. As long as quests exists, there is always a use.)
+- **Used for:** outside game, RLab Quest: Testing the Valley (2)
 
 ### Steel
 
@@ -160,7 +256,22 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
 
 - **Sources:** DESERT, DUST
 - **Sell price:** 35 Coins (NEVER SELL. YOU CANNOT HAVE ENOUGH.)
-- **Used for:** FOREST, DESERT, WATER, DUST
+- **Used for:** FOREST, DESERT, WATER, DUST,
+  - SpaceS Quest: Technology & Dinti (5), Orders to Repair (5), Aid the Aliens (10)
+  - RLab Quest: Build a Biodome 3/4 (15)
+
+### Stempo
+
+- **Sources:** outside game,
+  - IC Quest: Loving Rocky Roads (2), Stabbing Dinti Spikes (3)
+  - SpaceS Quest: Tracking Shooting Stars (3)
+  - MSite Quest: Drilling Too Deep (3)
+  - RLab Quest: Set Creatures Free! 1/4 (5), Build a Biodome 3/4 (5), Encourage an Ecosystem 4/4 (5)
+- **Craft:** DESERT
+- **Sell Price:** Priceless. Sorry, 250 Coins, but DON'T SELL.
+- **Used for:** FOREST, DESERT
+  - Preserving streak days. 1 Stempo can give you credit for your Streak, regardless of whether you write, on 1 future day, up to 4 weeks out; 2 Stempos can repair your Streak for 1 past day (once your current day's Streak is reached) up to 4 weeks back. Go to your Dashboard menu, then to Stats, to see how the Streak Calendar works.
+  - Erasing lost and fled battles from your record. 
 
 ### Stone
 
@@ -172,7 +283,16 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 
 - **Sources:** DESERT,
 - **Sell price:** 8 Coins (don't sell, not worth it)
-- **Used for:** FOREST, DESERT, DUST
+- **Used for:** FOREST, DESERT, DUST,
+  - SpaceS Quest: Technology & Dinti (5), Orders to Repair (5), Aid the Aliens (10)
+  - RLab Quest: Build a Biodome 3/4 (15)
+
+### Vezi Shell
+
+- **Sources:** Floating City of Balance
+- **Sell price:** 10 Coins (Feel free to sell any over 30)
+- **Used for:** outside game,
+  - RLab Quest: Testing the Valley (1), Encourage an Ecosystem 4/4 (3)
 
 ### White Fur
 
@@ -186,261 +306,7 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
   - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2), Viyu (15 minutes for 2-7)
 - **Buy:** outside game
 - **Sell price:** 2 Coins (Don't sell, NOT WORTH IT)
-- **Used for:** outside game
+- **Used for:** outside game,
+  - SpaceS Quest: Technology & Dinti (20
+  - RLab Quest: Encourage an Ecosystem 4/4 (10)
 
-# November 2019 Event Resources
-
-LAST UPDATED 30 NOV 2019
-
-AREA ABBREVIATIONS:
-
-- FOREST, DESERT, WATER, DUST = refer to main regions of the regular game; can be ignored for the event unless you want to cross-reference the relevant Resources elsewhere
-- All Event = monsters available globally in all regions
-- IC = Alien Meteoroid: Impact Crater
-- Spaceship = Alien Meteoroid: Spaceship
-- MS = Alien Meteoroid: Mining Site
-
-## Regular Resources, NaNo Sources
-
-### Coins
-
-- **Best sources:** FOREST, WATER, DESERT, DUST
-  - All Event Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
-- **Other sources:** 
-  - sell items 
-  - Spaceship Battles: Captain Piak (1667 words for 2-11)
-- **Buy:** FOREST
-- **Used for:** Buy misc items; FOREST, DESERT, WATER, DUST
-
-### Claws
-
-- **Source:** FOREST
-- **Sell price:** 4 Coins (Don't sell, not worth it)
-- **Used for:** FOREST, DESERT
-  - Spaceship Quests: For Science! (3)
-
-### Dinti
-
-- **Best sources:** 
-  - All Event Battles: Oxie (100 words for 1), Rhan (150 words for 1)
-  - MS Battles: Rist (500 words for 3), Sergeant Jenkins (1300 words for 6-8)
-- **Other sources:**
-  - All Event Battles: Kolbs (200 words for 1), Krang (500 words for 2), Erebor (400 words for 1-2), Ipo (300 words for 1), Piachi (500 words for 1)
-  - IC Battles: Commander Niftra (1400 words for 4-5), Tamor (800 words for 2-3), Bomboo (1000 words for 2-3)
-  - Spaceship Battles: Jeso (1667 words for 6-9), Zals (900 words for 3-5), Finoir (500 words for 2), Captain Piak (1667 words for 5-7), Dr. Hogglevoss (1200 words for 4), Navigator Raysi (750 words for 2)
-  - MS Battles: Pach (200 words for 1), Deepo (1667 words for 6-9), Arren (800 words for 3-4), Fin (250 words for 1), Ferenti (1100 words for 3-5)
-  - MS Quest: Seeing The Unseen (5)
-- **Sell price:** 5 Coins (don't sell till event is over)
-- **Used for:** 
-  - Global Quest: Protector of the Valley (10)
-  - IC Quest: Collecting Kids' Crystals (10), Ooh, Crystal Shinies! (100)
-  - MS Quest: An Explosive Personality! (10), Dinti Arts & Crafts (50)
-
-### Dust
-
-- **Best sources:** FOREST, DESERT, WATER
-  - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2)
-- **Other sources:** 
-- **Buy:** FOREST, DESERT
-- **Sell price:** 2 Coins (Don't sell, not worth it)
-- **Used for:** FOREST, DESERT, WATER, DUST
-  - Spaceship Quest: Bam! New Ingredients (10)
-
-### Essence
-
-- **Best sources:** DESERT
-- **Other sources:** FOREST, DUST
-- **Buy:** FOREST
-- **Sell price:** 8 Coins (Don't sell, too valuable)
-- **Used for:** FOREST, DESERT, DUST
-  - Spaceship Quests: For Science! (5)
-
-### Feathers
-
-- **Best sources:** FOREST
-- **Other sources:** WATER
-- **Buy:** FOREST
-- **Sell price:** 8 Coins (Don't sell unless you have > 30)
-- **Used for:** FOREST, DESERT,
-  - Spaceship Quests: For Science! (3)
-
-### Fine Fabric
-
-- **Sources:** DESERT, WATER,
-  - Spaceship Battles: Yalarr (500 words for 1), Dr. Hogglevoss (1200 words for 1-2), Captain Piak (1667 words for 1-3), Navigator Raysi (750 words for 0-1)
-- **Craft:** DESERT
-- **Sell price:** 75 Coins (don't sell unless you have >40)
-- **Used for:** DESERT
-
-### Fur
-
-- **Best sources:** FOREST, DESERT, DUST
-  - Anywhere Battle: Awa (200 words for 1-2)
-- **Other sources:** FOREST, DESERT, DUST
-- **Buy:** FOREST
-- **Sell price:** 2 Coins (Don't sell, not worth it)
-- **Used for:** FOREST
-  - Spaceship Quest: Bam! New Ingredients (1)
-
-### Glass
-
-See **Glass Bar**.
-
-### Glass Bar
-
-The game usually simply calls this **Glass**. I like to make sure I'm distinguishing between this and the dozen other Glass things, so I call 'em Glass Bars.
-
-- **Sources:** DESERT,
-  - Spaceship Battles: Captain Piak (1667 words for 1-3), Zals (900 words for 1), Dr. Hogglevoss (1200 words for 1)
-- **Sell price:** 85 Coins (Don't sell unless you have >50.)
-- **Used for:** FOREST, DESERT. WATER, DUST
-
-### Glass Shards
-
-- **Sources:** DESERT, WATER, DUST
-  - IC Battles: Bomboo (1000 words for 2-3)
-  - Spaceship Battles: Navigator Raysi (750 words for 2-4), Captain Piak (1667 words for 4-7)
-  - MS Battles: Rist (500 words for 1-2), Sergeant Jenkins (1300 words for 3-7)
-- **Buy:** DESERT
-- **Sell price:** 12 Coins (make sure you have >100 Glass Shards in stock first, and try to make Glass Bars to sell instead if possible for max profit)
-- **Used for:** DESERT, WATER
-
-### Gold
-
-See **Gold Bar**.
-
-### Gold Bar
-
-The game usually simply calls this **Gold**. Since I call the parallel things for Glass and Steel "Glass Bars" and "Steel Bars" respectively, I call these "Gold Bars" to be consistent.
-
-- **Sources:** DESERT
-  - Spaceship Battles: Jeso (1667 words for 1)
-- **Sell price:** 100 Coins (Don't sell unless you have >10; ideally, have at least 50. Good source of Coins after that.)
-- **Used for:** DESERT, WATER
-
-### Leaves
-
-- **Sources:** FOREST, DESERT
-  - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2)
-- **Buy:** FOREST
-- **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
-- **Used for:** FOREST, DESERT, WATER, DUST
-  - Spaceship Quest: Bam! New Ingredients (10)
-
-### Lorsa Fur
-
-- **Source:** FOREST
-- **Sell price:** 8 Coins (don't sell unless you have >50)
-- **Used for:** FOREST, DESERT,
-  - Spaceship Quest: For Science! (1)
-
-### Piece of Parchment
-
-- **Sources:** DUST,
-  - Spaceship Battles: Dr. Hogglevoss (1200 words for 1-3)
-- **Craft:** DUST
-- **Sell price:** 10 Coins (don't sell, not worth it)
-- **Used for:** DUST
-
-### Raw Fabric
-
-- **Best sources:** DESERT, WATER,
-  - Anywhere Battles: Xin (100 words for 0-1)
-  - IC Battles: Fremo (600 words for 1-3)
-- **Other sources:** FOREST, DUST
-- **Buy:** DESERT
-- **Sell price:** 8 Coins (don't sell unless you have >200)
-- **Used for:** DESERT, WATER, DUST
-
-### Raw Gold
-
-- **Sources:** DESERT, WATER, FOREST
-  - IC Battles: Fremo (600 words for 1)
-  - Spaceship Battles: Zals (900 words for 1-4), Jeso (1667 words for 2-5)
-- **Buy:** DESERT
-- **Sell price:** 12 Coins (please don't sell this, you'll make so much more if you craft it into Gold Bars.)
-- **Used for:** DESERT
-
-### Raw Sandstone
-
-- **Best source:** DESERT,
-  - All Event Battles: Krang (500 words for 1-2)
-- **Other sources:** WATER
-- **Buy:** DESERT
-- **Sell price:** 12 Coins (don't sell unless you have >100)
-- **Used for:** DESERT
-
-### Raw Steel
-
-- **Sources:** DESERT, WATER, DUST
-  - Spaceship Battles: Scofin (150 words for 1), Kovar (350 words for 1-3), Finoir (500 words for 2-3), Jeso (1667 words for 2-7)
-  - MS Battles: Ferenti (1100 words for 3-7), Deepo (1667 words for 3-7), Arren (800 words for 1-3)
-- **Buy:** DESERT
-- **Sell price:** 8 Coins (DO NOT SELL. You will need this to craft SO MANY STEEL BARS.)
-- **Used for:** DESERT, WATER
-
-### Raw Stone
-
-- **Best sources:** DESERT,
-  - Anywhere Battles: Xin (100 words for 0-1)
-  - All Event Battles: Oxie (100 words for 1-2), Rhan (150 words for 1-2), Kolbs (200 words for 1-2), Ipo (300 words for 1-3), Erebor (400 words for 1-4), Krang (500 words for 1-5)
-- **Other sources:** FOREST, WATER,
-  - All Event Battles: Piachi (500 words for 1-3)
-  - IC Battles: Tamor (800 words for 1-4), Gwynos (450 words for 1-2), Commander Niftra (1400 words for 1-4)
-  - MS Battles: Arren (800 words for 2-6), Sergeant Jenkins (1300 words for 3-8), Deepo (1667 words for 3-9)
-- **Sell price:** 8 Coins (don't sell unless you have >100)
-- **Used for:** FOREST, DESERT, WATER
-
-### Reenu Wings
-
-- **Sources:** FOREST, DUST
-- **Sell price:** 8 Coins (only sell when you're done with Riza Main Quests)
-- **Used for:** FOREST, DESERT, WATER, DUST
-  - Spaceship Quest: Bam! New Ingredients (1)
-
-### Rope
-
-- **Best sources:** FOREST, DESERT
-  - Anywhere Battles: Awa (200 words for 2)
-- **Other sources:** WATER, DUST
-  - IC Battles: Nium (250 words for 1), Gwynos (450 words for 1-2), Commander Niftra (1400 words for 1-4)
-  - MS Battles: Ferenti (1100 words for 2-4), Arren (800 words for 1)
-- **Buy:** FOREST, WATER, DESERT
-- **Sell price:** 2 Coins (Don't sell, not worth it)
-- **Used for:** FOREST, DESERT, WATER, DUST
-
-### Spider Poison
-
-- **Sources:** FOREST, DESERT
-  - IC Battles: Bomboo (1000 for 1-2)
-- **Sell price:** 4 Coins (Don't sell; there is always a use lurking somewhere. As long as quests exists, there is always a use.)
-- **Used for:** FOREST, DESERT, WATER, DUST
-
-### Steel
-
-See **Steel Bar**. 
-
-### Steel Bar
-
-The game usually simply calls this **Steel**. I like to make sure I'm distinguishing between this and the dozen other Steel things, so I call 'em Steel Bars.
-
-- **Sources:** DESERT, DUST
-  - IC Battles: Commander Niftra (1400 words for 1)
-  - Spaceship Battles: Jeso (1667 words for 1-3)
-  - MS Battles: Ferenti (1100 words for 1-2), Sergeant Jenkins (1300 words for 1-2), Deepo (1667 words for 1-2)
-- **Sell price:** 35 Coins (NEVER SELL. YOU CANNOT HAVE ENOUGH.)
-- **Used for:** FOREST, DESERT, WATER, DUST
-
-### Stone
-
-See **Stone Block**.
-
-### Stone Block
-
-The game usually simply calls this **Stone**. I like to make sure I'm distinguishing between this and the dozen other Stone things, so I call 'em Stone Blocks.
-
-- **Sources:** DESERT
-  - Spaceship Battles: Zals (900 words for 1)
-  - MS Battles: Deepo (1667 words for 1)
-- **Sell price:** 8 Coins (don't sell, not worth it)
-- **Used for:** FOREST, DESERT, DUST

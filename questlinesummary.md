@@ -1,4 +1,4 @@
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 30 AUG 2020
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
@@ -222,8 +222,6 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
   - MT Bite My Boots! - deliver 10 Dark Forest Boots for 25 Leafsung Ink
 - **Purple Gate Main Quest 1/??? (to be discovered!)**
 
-
-
 ## Questline - Forest Expedition
 
 (AFTER COMPLETING MAMA TREE MAIN QUESTS)
@@ -305,7 +303,7 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
 - **RL Set Creatures Free! (1/4)** - Defeat 1 Captain Piak, 1 Dr. Enoe, 1 Dr. Hogglevoss, and 1 Rosarin, get 5 Stempos
 - **RL Create a Clearing (2/4)** - Defeat 7 Kolbs, 7 Oxie, 7 Erbor, and 4 Teraleo, get Wardrobe: Rock Hair Earring
 - **RL Build a Biodome (3/4)** - 3-day Streak, and deliver 15 Steel Bars, 15 Glass Bars, and 15 Stone Blocks, get 5 Stempos
-- ???
+- **RL Encourage an Ecosystem (4/4)** - collect a ton of stuff from all over the game & maintain 15-day Streak, get ??? (Rewards not listed; presumably Biodome)
 
 ## Questline - Desert Expedition
 
@@ -361,13 +359,19 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
     - SacredS Seeding New Beginnings (2/3) - defeat 5 each Bashta, Minko, and Toccal, get Wardrobe: Seed Earrings 
       - SacredS Seeding New Beginnings (3/3) - defeat 10 each Bashta, Minko, and Toccal, get Wardrobe: Gardener Hat
 - **SacredS A Worthy Offering** - Attain 10-day Streak, 10000 Words, deliver 10 Hardwood, 10 Rope, and 10 Steel Bars, get Wardrobe: Golden Earrings & progress on questline
-- ???
+  - (Rebel Raina Hideout)
+  - Hideout Catching Glints of Sunrise - Defeat 25 Kivi, get 100 Coins
+  - Hideout Uncanny Swamp Wisthu - defeat 6 Wisthu, get 3 Stempos & Wardrobe: Black Feather Scarf
+  - Hideout Knocking Down Rebels - defeat 1 each Cafodu, Drau, Wisthu, and Grongu, get Wardrobe: Wisthu's Flask
+  - Hideout Pushing Back Rebels 1/3 - defeat 1 each Cafodu, Drau, Wisthu, and Grongu, get 5 Reinforced Rope and Wardrobe: Large Gold Crown
+    - Hideout Pushing Back Rebels 2/3 - defeat 3 each Cafodu, Drau, Wisthu, and Grongu, get 1 River Chest & 1 River Key
+      - Hideout Pushing Back Rebels 3/3 - defeat 5 each Cafodu, Drau, Wisthu, and Grongu, get Wardrobe: Raina Golden Warrior Mask
 
 
 
 ## Questline - Hunt for the Ancients - Season 1
 
-NOTE: **ALL HUNT QUESTS are unlocked by the quest Joining the Hunt** (write 3K words, get 10 Hunter Tokens and unlock the Hunt). I'm not formatting this accordingly because the indents would become even worse a mess than they already are near the bottom.
+NOTE: **ALL HUNT QUESTS are unlocked by the Luciola Hunt quest Joining the Hunt** (write 3K words, get 10 Hunter Tokens and unlock the Hunt). I'm not formatting this accordingly because the indents would become even worse a mess than they already are near the bottom.
 
 - HuntS1 A Clue to the Past - defeat 3 Sassi & get 5 Hunter Tokens & Hunt Map Piece
   - HuntS1 Elder Library Assistants - defeat 4 Alnu, get Hunt Map Piece 2 and 5 Hunter Tokens
@@ -422,15 +426,21 @@ Season 2 is unlocked by completing The Curator of Elder Library quest, and you c
 
 Season 3 is unlocked by completing Stumbling Upon Sheep quest, and you can see that questline in Season 2.
 
-- HuntS3 Battle of Constitution 3/4 - **(Note: This has as prerequisite the HuntS2 quest Battle of Merit.)** Defeat 1 Water version of Velts, get 25 Hunter Tokens
+- HuntS3 Battle of Constitution 3/4 - **(Note: This has as prerequisite the HuntS2 quest Battle of Merit. Stumbling Upon Sheep is not necessary, but since this was released with S3, I'm including it in S3.)** Defeat 1 Water version of Velts, get 25 Hunter Tokens
 - HuntS3 Helping Those In Need Grow - give a bunch of Rusty Amulets, Pendants, and Gold, get 25 Hunter Tokens
+- HuntS3 Change To See - defeat 1 Yala, get 25 Hunter Tokens
+- HuntS3 Growth in Friendship - defeat 1 each Raina in SurfaceC, get 50 Hunter Tokens
 - HuntS3 Growth Pains - defeat 3 Osaril, 2 Trainees, and 1 Furoxi, get 25 Hunter Tokens
 - HuntS3 Problems Feed Solutions - defeat 20 Caricaco, get 25 Hunter Tokens
 - HuntS3 Of Vibrant Growth - write 10K words, get 15 Hunter Tokens
+- HuntS3 Where Life Flows - deliver 50 Swamp Moss, get 15 Hunter Tokens
 - HuntS3 To Grow & Change - defeat 10 monsters and get Hunt Map Piece 7, get Wardrobe: Hunt Facepaint Side
   - HuntS3 Bettering Ourselves - collect Hunt Map Piece 8 & get 5-day streak, get Wardrobe: Hunt Complex Brooch
+    - HuntS3 Bigger & Brighter - collect Hunt Map Piece 9 & get 5-day streak, get Wardrobe: Hunt Facepaint Trident
 - HuntS3 Moving Flora - maintain 5-day streak, get Hunt Map Piece 7 and 10 Hunter Tokens
 - HuntS3 Flying Past Sparks - defeat 5 Nuig, get Hunt Map Piece 8 and 10 Hunter Tokens
+- HuntS3 Insight Grows - defeat 20 Puna, get 15 Hunter Tokens & Hunt Map Piece 9
 - HuntS3 Growing Improvement - beat 10 Jaihri, get 25 Hunter Tokens
   - HuntS3 - Growing Your Perception 2/3 - defeat 5 Castu, 3 Isartu, and 1 Water Rudakai, get 25 Hunter Tokens
-    - HuntS3 - Growing Your Tenacity - defeat 2 Xyplos, get 25 Hunter Tokens
+    - HuntS3 - Growing Your Tenacity 3/3 - defeat 2 Xyplos, get 25 Hunter Tokens
+      - HuntS3 - Growing Your Valor 4/4 - defeat 1 Wyvern, get Wardrobe: Fur Ankle Boots

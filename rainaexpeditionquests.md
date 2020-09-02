@@ -1,4 +1,4 @@
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 30 AUG 2020
 
 #RAINA SURFACE CAMP SIDEQUESTS
 
@@ -233,3 +233,62 @@ NOTE: This exact quest was offered during the Raina Festival in April 2020; if y
 - **Rewards:** Wardrobe: Gardener Hat https://4thewords.com/media/wardrobe/featured/male/wm&#95;911-plant-hat-6506-66225.png
 - **Recommendations:** Very fashionable, that hat, no? Worth 18,000 words?
   :) Now you'll know what everyone's been up to.
+
+# REBEL RAINA HIDEOUT SIDEQUESTS
+
+### Catching Glints of Sunrise
+
+- **Location:** Rebel Raina Hideout
+- **Unlocked by:** Opening Rebel Raina Hideout
+- **Type:** Battle
+- **Requirements:** Defeat 25 Kivi
+- **Rewards:** 100 Coins
+- **Recommendations:** Exactly what it looks like, no special recommendation info needed. :)
+
+### Knocking Down Rebels
+
+NOTE: This exact quest was offered during the Raina Festival in April 2020; if you completed it then, it will not be available now.
+
+- **Location:** Rebel Raina Hideout
+- **Unlocked by:** Opening Rebel Raina Hideout
+- **Type:** Battle
+- **Requirements:** Defeat 1 each: Cafodu, Wisthu, Grongu, Drau
+- **Rewards:** Wardrobe: Wisthu's Flask https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;708-magic-ingridient-4628-49777.png (7 colors - black, white, blue, purple, yellow, red, green)
+- **Recommendations:** This is identical to the Pushing Back Rebels 1/3, so pick them up at the same time and get double results!
+
+### Uncanny Swamp Wisthu
+
+- **Location:** Rebel Raina Hideout
+- **Unlocked by:** Opening Rebel Raina Hideout
+- **Type:** Battle
+- **Requirements:** Defeat 6 Wisthu
+- **Rewards:** 3 Stempos & Wardrobe: Black Feather Scarf https://4thewords.com/media/wardrobe/featured/male/wm&#95;711-black-feather-scarf-4662-30189.png
+- **Recommendations:** Fairly straightforward; just remember to keep an eye on the Pushing Back Rebels questline to avoid fighting more Wisthu than necessary.
+
+### Pushing Back Rebels (1/3)
+
+- **Location:** Rebel Raina Hideout
+- **Unlocked by:** Opening Rebel Raina Hideout
+- **Type:** Battle
+- **Requirements:** Defeat 1 each: Cafodu, Drau, Wisthu, Grongu
+- **Rewards:** 5 Reinforced Rope and Wardrobe: Large Gold Crown https://4thewords.com/media/wardrobe/featured/male/wm&#95;732-raina-gold-crown-large-4794-33911.png
+- **Recommendations:** I like the challenge of this line, but admittedly some might find it less than incredibly useful. It is, however, an excellent excuse to battle several monsters with excellent drops. (And for this one, an excellent crown.) This particular quest doubles with Knocking Down Rebels, as they have the same requirements.
+
+### Pushing Back Rebels (2/3)
+
+- **Location:** Rebel Raina Hideout
+- **Unlocked by:** Pushing Back Rebels (1/3)
+- **Type:** Battle
+- **Requirements:** Defeat 3 each: Cafodu, Drau, Wisthu, Grongu
+- **Rewards:** 1 River Chest & 1 River Key
+- **Recommendations:** Again, the reward of fighting the monsters is greater than the result, unless you're particularly fond of the final bit of the chain.
+
+### Pushing Back Rebels (3/3)
+
+- **Location:** Rebel Raina Hideout
+- **Unlocked by:** Pushing Back Rebels (2/3)
+- **Type:** Battle
+- **Requirements:** Defeat 5 each: Cafodu, Drau, Wisthu, Grongu
+- **Rewards:** Wardrobe: Raina Golden Warrior Mask https://4thewords.com/media/wardrobe/featured/male/wm&#95;779-golden-facemask-5298-53682.png
+- **Recommendations:** Why are you looking at this? Like you were going to complete the first two parts and not the final one? Ha. Nah, just go ahead and finish it out.
+

@@ -32,8 +32,8 @@ LAST UPDATED 24 AUG 2020
 
 - IC = Impact Crater
 - SpaceS = Spaceship
-- MS = Mining Site
-- RL = Research Lab
+- MSite = Mining Site
+- RLab = Research Lab
 
 **Expedition Desert**
 
@@ -61,6 +61,7 @@ LAST UPDATED 24 AUG 2020
 - SurfaceC: Raina Surface Camp
 - SwampL: Swamplands
 - SacredS: Raina Sacred Site
+- Hideout: Rebel Raina Hideout
 
 **Oge-Mai Dust**
 

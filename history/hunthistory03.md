@@ -1,4 +1,4 @@
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 29 AUG 2020
 
 Halfway through the year, we're opening the third Season!
 
@@ -128,7 +128,12 @@ August 2020 sources are Hunt monsters and monsters with wings/flight. **NOTE FOR
 
 ### New Quests: Late Aug 2020
 
-
+- Bigger and Brighter
+- Change to See
+- Growing Your Valor 4/4
+- Growth in Friendship
+- Insight Grows
+- Where Life Flows
 
 ### New Hunt Monsters: Late Aug 2020
 

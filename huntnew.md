@@ -1,4 +1,4 @@
-LAST UPDATED 27 AUG 2020
+LAST UPDATED 29 AUG 2020
 
 Hey! Loading up the info for the Hunt. It takes a while to incorporate everything properly throughout the Guide, but it doesn't take long to gather the new info. So! Here is New Info Only for the Hunt for the Ancients. (Please, please just look at the regular sections if you aren't up to the latest point; there's nothing here that will be likely to serve you before then.)
 
@@ -8,61 +8,53 @@ This month: a wild Vanvri appears in Balance! As with our previous two months, t
 
 ## New Quests: Aug 2020
 
-### Quest
+### Insight Grows
 
 - **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
-- **Type:** 
-- **Requirements:** 
-- **Rewards:** 
-- **Recommendations:** The trend continues! Once again, the quest to get Hunt Map Piece 9 does not depend on the quest to get Hunt Map Piece 8. (One of my test accounts is in the interesting position of possessing Hunt Map Piece 9 and not 8.) Still, you'll need this to 
-
-### Quest
-
-- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
-- **Type:** 
-- **Requirements:** 
-- **Rewards:** 
-- **Recommendations:** 
-
-### Of Vibrant Growth
-
-- **Unlocked by:** 
-- **Type:** 
-- **Requirements:** 
-- **Rewards:** 
-- **Recommendations:** 
-
-### Battle of Constitution (3/4)
-
-- **Unlocked by:** HuntS2 Quest: A Battle of Merit
 - **Type:** Battle
-- **Requirements:** Defeat 1 Velts: Water
-- **Rewards:** 15 Hunter Tokens
-- **Recommendations:** Once again, this seems to actually be a chain independent of the Seasons. This is the first time the Battle chain has explicitly acknowledged being a chain. Presumably, the last Season will have its own Velts to battle. But it probably won't be visible till you complete this one, so take into consideration.
+- **Requirements:** Defeat 20 Puna
+- **Rewards:** 15 Hunter Tokens & Hunt Map Piece 9
+- **Recommendations:** The trend continues! Once again, the quest to get Hunt Map Piece 9 does not depend on the quest to get Hunt Map Piece 8. (One of my test accounts is in the interesting position of possessing Hunt Map Piece 9 and not 8.) Still, you'll need this to keep the main Hunt line going, so I suppose it's worth the Puna. (There are approximately 423,293,478 Puna quests in the game, and after completing all of them, I'm rather tired of the fishies. For those who have not completed them, I recommend checking out what quests overlap, especially in Balance.)
 
-### MQ3
+### Bigger and Brighter
 
 - **Unlocked by:** HuntS3 Quest: Bettering Ourselves
 - **Type:** Collection, Streak
 - **Requirements:** Collect Hunt Map Piece 9 & reach a 5-day Streak
-- **Rewards:** 
-- **Recommendations:** Still streaking! (Sorry, couldn't resist.)
+- **Rewards:** Wardrobe: Hunt Facepaint Trident https://4thewords.com/media/wardrobe/featured/male/wm&#95;665-hunt-facepaint-trident-4021-27616.png
+- **Recommendations:** Still streaking! (Sorry, couldn't resist.) And as of this writing, still waiting to see what gets unlocked next by this one! But the Caretaker will almost certainly require this quest to unlock.
 
-### Growing Your Perception 2/3
+### Change To See
 
-- **Unlocked by:** HuntS3 Quest: Growing Improvement
+- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
 - **Type:** Battle
-- **Requirements:** Defeat 5 Castu, 3 Isartu, and 1 Water Rudakai
+- **Requirements:** Defeat 1 Yala
 - **Rewards:** 25 Hunter Tokens
-- **Recommendations:** A lot here rides on how much you like the monsters, and how much you like the rewards. You'll probably want to see whether, as in previous Seasons, this questline culminates in a fifth quest with a nifty wardrobe reward. (I'm writing this just as this quest released and the chain is only three quests long; hopefully I remember to update when the answer drops next month.) In the meantime, you may want to keep up just to save time later, or you may want to take your time.
+- **Recommendations:** ... you'll complete this anyway if you complete Growth in Friendship, so it overlaps well. If you can't do Growth in Friendship because you haven't unlocked Raina, this is a nice consolation prize.
 
-### Growing Your
+### Growth in Friendship
+
+- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
+- **Type:** Battle
+- **Requirements:** Defeat 1 each: Rea & Pira, Yala, Knusha, Vota, Vaktra, Droxa, Begala
+- **Rewards:** 50 Hunter Tokens
+- **Recommendations:** This pairs really well with at least one Surface Camp quest, so keep an eye out for that. Just.... don't fight any of these monsters in Riza, because you'll be paying more Resources than you would fighting them in Raina.
+
+### Where Life Flows
+
+- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
+- **Type:** Collection
+- **Requirements:** Deliver 50 Swamp Moss
+- **Rewards:** 15 Hunter Tokens
+- **Recommendations:** Swamp Moss is available in the deeper parts of Raina, if you have trouble finding it. And while I wouldn't belabor myself to fill this up, it's a nice use for the Swamp Moss one tends to accumulate in Raina.
+
+### Growing Your Valor 4/4
 
 - **Unlocked by:** HuntS3 Quest: Growing Your Tenacity 3/3
 - **Type:** Battle 
-- **Requirements:** 
-- **Rewards:** 
-- **Recommendations:** 
+- **Requirements:** Defeat 1 Wyvern
+- **Rewards:** Wardrobe: Fur Ankle Boots https://4thewords.com/media/wardrobe/featured/male/wm&#95;featured&#95;Boots&#95;Ankle&#95;Fur&#95;Black.png
+- **Recommendations:** I'm personally quite fond of Wyverns, so for me this is a no-brainer. Given that it's unlocked. I don't think I'd rush through the "Growing" line for this.
 
 ## New Hunt Monsters: Jul 2020
 

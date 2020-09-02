@@ -1,4 +1,4 @@
-LAST UPDATED 4 AUG 2020
+LAST UPDATED 29 AUG 2020
 
 If you haven't yet, check out my Hunt Intro a couple chapters ago to get a grounding in the Hunt for the Ancients. The "seasons" are important only in that they're released a month at a time, grouped by seasons; once released, the quests can be worked through at any pace you prefer.
 
@@ -311,31 +311,20 @@ Note that you must complete the **Joining the Hunt** quest for these to appear; 
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - later Hunt
 
-- **Early Aug 2020 Sources Outside the Hunt:**
+- **Late Aug 2020 Sources Outside the Hunt:**
 
-  August 2020 sources are Hunt monsters and monsters with wings/flight. **NOTE FOR DOUBLE TOKEN WEEK:** **Some of these do not double.** I suspect that fractional math is involved for some that are already generous without being doubled. So far, Spirit Wignow, Spirit Castu, and Ardia are the undoubled ones. Also, Buholi in Tall Trees is being weird as of this writing.
+  Late August 2020 sources are - wait for it - BLUE. 
 
-  - Global Battles: Vi (1-4 for 5 minutes), Viyu (3-14 for 15 minutes), Viyusa (5-20 for 25 minutes), Xin (100 words for 1)
-  - LF Battles: Reenu (200 words for 2), Spirit Wignow (450 words for 4-5), Pester (500 words for 5), Nitana (700 words for 7)
-  - MT Battles: Ardia (50 words for 1), Ardii (60 words for 1), Ardis (70 words for 1), Lorsa (450 words for 4-5), Spirit Lorsini (1000 words for 10)
+  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
+
+  - Global Battles: Vi, Viyusa, Awa
+  - LF Battles: Spirit Wignow
+  - MT Battles: Ardii, Lorsa, Spirit Lorsini
   - FOREST EXPEDITION:
-
-    - BC Battles: Sacer (120 words for 1)
-    - FB Battles: Ardia (50 words for 1), Ardii (60 words for 1), Ardis (70 words for 1), Spirit Ardia (80 words for 1)
-    - SC Battles: Hunt monsters only
-    - TT Battles: Scofin (150 words for 1-2), Buhini (150 words, 1 Nezthai Claw, and 2-day Streak for 1-2), Fin (250 words for 2-3), Finoir (500 words for 5), Buhovi (650 words, 2 Nezthai Claws, and 4-day Streak for 6-7), Buholi (800 words, 3 Nezthai Claws, 6-day streak for ??? - dropping 4-8 Double Token Weekend, seems in error as of this writing)
-    - GL Battles: Hunt monsters only
-  - 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3), Desert Wignow (444 words for 4-5)
-  - Gansu Battles: Frizi (150 words for 1-2), Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Wetu (1100 words for 11), Arenica (1350 words and 1 Steel Dagger for 13-14)
-  - DESERT EXPEDITION: 
-
-    - Dig Battles: Hunt monsters only
-    - Ruins Battles: Spirit Gordiliana (800 words for 8)
-  - Riza Battles: Frizi (150 words for 1-2), Osaril (300 words and 1 Vine Net for 3), Sparfly (450 words for 4-5), Wyvern (1300 words for 13)
-  - WATER EXPEDITION:
-    - not available at this time
-  - Balance Battles: Spirit Castu (550 words for 4-5, yes, that's 4-5, not 5-6)
-  - DFO Battles: Spirit Ardia (80 words for 1), Ascre (150 words for 1-2), Belasi (200 words for 2), Osalyu (750 words for 7-8), Papple Spirit (900 words for 9), Papple (1000 words for 10), Miclan (5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 50)
+    - BC Battles: Sacer (may be a leftover from wings last month, may be removed)
+    - FB Battles: Ardii, Spirit Ardia
+    - SC, TT, GL Battles: Global, Hunt Only (was Gobkey overlooked?)
+  - LATER GAME
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

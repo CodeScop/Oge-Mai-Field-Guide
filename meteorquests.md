@@ -1,4 +1,4 @@
-LAST UPDATED 25 AUG 2020 - STILL IN PROGRESS
+LAST UPDATED 30 AUG 2020
 
 # IMPACT CRATER QUESTS
 
@@ -9,7 +9,7 @@ LAST UPDATED 25 AUG 2020 - STILL IN PROGRESS
 - **Type:** Battle, Wordcount
 - **Requirements:** Defeat 1 Rosarin, 3 Nartha; write 5K words
 - **Rewards:** Unlock Spaceship area
-- **Recommendations:** This is a priority bc it opens the route to the rest of the Meteoroid.
+- **Recommendations:** This is a priority bc it opens the route to the rest of the Meteoroid. Otherwise, straightforward!
 
 ### A Happy Prickle
 
@@ -29,7 +29,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Battle
 - **Requirements:** Defeat 10 Brachi & 5 Rhan
 - **Rewards:** 2 Stempos & Wardrobe: Brachi Hat https://4thewords.com/media/wardrobe/featured/female/wf&#95;886-spiky-rock-hat-6156-94723.png
-- **Recommendations:** tbd
+- **Recommendations:** There are a lot of quests here that need no extra recommendations, so here's a boilerplate to say this is one of them. :)
 
 ### Mighty Teraleo Hunter
 
@@ -38,7 +38,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Battle
 - **Requirements:** Defeat 50 Teraleo
 - **Rewards:** Wardrobe: Teraleo Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1091-beetle-necklace-7906-81552.png
-- **Recommendations:** tbd
+- **Recommendations:** Look, we know it's all about the necklace and whether you like it or not. And we know you want it. Why not?
 
 ### Stabbing Dinti Spikes
 
@@ -47,7 +47,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Battle
 - **Requirements:** Defeat 5 Krang, 3 Erbor, 10 Halix, and 4 Galatre
 - **Rewards:** 3 Stempos & Wardrobe: Rock Skirt https://4thewords.com/media/wardrobe/featured/female/wf&#95;885-rock-skirt-6154-61176.png
-- **Recommendations:** tbd
+- **Recommendations:** This quest involves 3 monsters from much deeper in the Alien Meteoroid, but it could be nice to get all the Erbor stuff out of the way together.
 
 ### One Rocky Start (1/2)
 
@@ -70,6 +70,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
   - Brachi
   - Galatre
 - **Rewards:** Wardrobe x2: Halix Hat https://4thewords.com/media/wardrobe/featured/male/wm&#95;883-snail-hat-6150-16248.png and Golden Shield https://4thewords.com/media/wardrobe/featured/male/wm&#95;featured&#95;gold&#95;shield&#95;4thewords.png
+- **Recommendations:** This involves monsters from three of the Alien Meteoroid Expedition areas, so be prepared to travel a bit.
 
 ### Crown of Rocks (2/2)
 
@@ -90,6 +91,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
   - Brachi
   - Galatre
 - **Rewards:** Wardrobe: Rock Crown https://4thewords.com/media/wardrobe/featured/male/wm&#95;1090-beetle-crown-7904-84955.png
+- **Recommendations:** There are a lot of quests here that need no extra recommendations, so here's a boilerplate to say this is one of them. :)
 
 ### Aid the Wordsmith (Fleet Cadet 1/5)
 
@@ -100,7 +102,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid event in November 
 - **Type:** Wordcount
 - **Requirements:** Write 10K words
 - **Rewards:** Wardrobe: Space Bodysuit Purple https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;purple.png
-- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. And remember, any words you've already written that day count for the quest you pick up - which is to say, Muisje had 25K words written in one day, and then kept picking up and turning in these quests in succession. People writing at a sane pace won't have so many words to count twice, but every little bit helps.
+- **Recommendations:** This quest chain is a legacy of two monthlong events, and it was designed to keep hyper-fast writers busy for those two monthlong events. Keep that in mind, and try to just enjoy having these in your Questbook and occasionally earning a new shiny spacesuit.
 
 ### Aid the Wordsmith (Fleet Cadet 2/5)
 
@@ -111,7 +113,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid event in November 
 - **Type:** Wordcount
 - **Requirements:** Write 15K words
 - **Rewards:** Wardrobe: Space Bodysuit Blue https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;blue.png
-- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+- **Recommendations:** This quest chain is a legacy of two monthlong events, and it was designed to keep hyper-fast writers busy for those two monthlong events. Keep that in mind, and try to just enjoy having these in your Questbook and occasionally earning a new shiny spacesuit.
 
 ### Aid the Wordsmith (Fleet Cadet 3/5)
 
@@ -122,7 +124,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid event in November 
 - **Type:** Wordcount
 - **Requirements:** Write 25K words
 - **Rewards:** Wardrobe: Space Bodysuit Red https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;red.png
-- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+- **Recommendations:** This quest chain is a legacy of two monthlong events, and it was designed to keep hyper-fast writers busy for those two monthlong events. Keep that in mind, and try to just enjoy having these in your Questbook and occasionally earning a new shiny spacesuit.
 
 ### Aid the Wordsmith (Fleet Cadet 4/5)
 
@@ -133,7 +135,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid event in November 
 - **Type:** Wordcount
 - **Requirements:** Write 25K words
 - **Rewards:** Wardrobe: Space Bodysuit Orange https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;yellow.png
-- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+- **Recommendations:** This quest chain is a legacy of two monthlong events, and it was designed to keep hyper-fast writers busy for those two monthlong events. Keep that in mind, and try to just enjoy having these in your Questbook and occasionally earning a new shiny spacesuit.
 
 ### Aid the Wordsmith (Fleet Cadet 5/5)
 
@@ -144,7 +146,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid event in November 
 - **Type:** Wordcount
 - **Requirements:** Write 25K words
 - **Rewards:** Wardrobe: Space Bodysuit Black https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;black.png
-- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+- **Recommendations:** This quest chain is a legacy of two monthlong events, and it was designed to keep hyper-fast writers busy for those two monthlong events. Keep that in mind, and try to just enjoy having these in your Questbook and occasionally earning a new shiny spacesuit.
 
 ### Aid the Wordsmith (Fleet Officer 1/4)
 
@@ -155,7 +157,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Wordcount
 - **Requirements:** Write 25K words
 - **Rewards:** Wardrobe: Space Bodysuit White https://4thewords.com/media/wardrobe/featured/male/wm&#95;952-white-spacesuit-6881-99572.png
-- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+- **Recommendations:** This quest chain is a legacy of two monthlong events, and it was designed to keep hyper-fast writers busy for those two monthlong events. Keep that in mind, and try to just enjoy having these in your Questbook and occasionally earning a new shiny spacesuit.
 
 ### Aid the Wordsmith (Fleet Officer 2/4)
 
@@ -166,7 +168,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Wordcount
 - **Requirements:** Write 25K words
 - **Rewards:** Wardrobe: Space Bodysuit Black https://4thewords.com/media/wardrobe/featured/male/wm&#95;949-black-spacesuit-6875-43619.png
-- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+- **Recommendations:** This quest chain is a legacy of two monthlong events, and it was designed to keep hyper-fast writers busy for those two monthlong events. Keep that in mind, and try to just enjoy having these in your Questbook and occasionally earning a new shiny spacesuit.
 
 ### Aid the Wordsmith (Fleet Officer 3/4)
 
@@ -177,7 +179,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Wordcount
 - **Requirements:** Write 50K words
 - **Rewards:** Wardrobe: Space Bodysuit Dinti https://4thewords.com/media/wardrobe/featured/male/wm&#95;950-green-spacesuit-6877-83939.png
-- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+- **Recommendations:** This quest chain is a legacy of two monthlong events, and it was designed to keep hyper-fast writers busy for those two monthlong events. Keep that in mind, and try to just enjoy having these in your Questbook and occasionally earning a new shiny spacesuit.
 
 ### Aid the Wordsmith (Fleet Officer 4/4)
 
@@ -188,7 +190,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Wordcount
 - **Requirements:** Write 50K words
 - **Rewards:** Wardrobe: Space Bodysuit Glowing Dinti https://4thewords.com/media/wardrobe/featured/male/wm&#95;951-supreme-green-spacesuit-6879-61481.png
-- **Recommendations:** This quest chain ultimately adds up to 250K words (with the bulk of the rewards on the regular NaNo end of things). Try to keep on top of this chain, picking up the next and turning it in as quickly as possible. 
+- **Recommendations:** This is it. The last one. The final Aid the Wordsmith. Finish it, and wear your Glowing Dinti Space Bodysuit with pride, noting the four rank stripes with pride.
 
 # Spaceship
 
@@ -264,7 +266,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
   - Tessen
   - Minica
 - **Rewards:** Wardrobe: OnFire Lab Coat https://4thewords.com/media/wardrobe/featured/male/wm&#95;1105-onfire-lab-coat-7962-37242.png
-- **Recommendations:** tbd
+- **Recommendations:** You've come this far! ... who am I kidding, at 84K battle words, this is one of the most demanding quests in the game. Still, it provides a nice long-term thing to have in the background when the frenzied rush of short-term quests has subsided.
 
 ### Aid the Aliens
 
@@ -273,7 +275,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Battle, Collection
 - **Requirements:** Defeat 10 Kolbs and 10 Oxie, deliver 10 Steel Bars & 10 Stone Blocks
 - **Rewards:** Wardrobe: Drill Necklace https://4thewords.com/media/wardrobe/featured/female/wf&#95;1098-drill-necklace-7944-31482.png
-- **Recommendations:** tbd
+- **Recommendations:** For those of us who are completionists, and who want to get ALL THE NECKLACES from these Expedition sidequests.
 
 ### Train the Guards
 
@@ -282,7 +284,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Battle
 - **Requirements:** Defeat 10 each Ledd and Noit
 - **Rewards:** Wardrobe: Security Boots https://4thewords.com/media/wardrobe/featured/male/wm&#95;1103-police-shoes-7956-67847.png
-- **Recommendations:** tbd
+- **Recommendations:** I LIKE me the boots, and Ledd and Noit have excellent drops. Recommend.
 
 ### Tracking Shooting Stars
 
@@ -311,7 +313,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Battle
 - **Requirements:** Defeat 10 Ityf
 - **Rewards:** Wardrobe: Exoskeleton https://4thewords.com/media/wardrobe/featured/male/wm&#95;1093-exoeskeleton-7914-33237.png
-- **Recommendations:** tbd
+- **Recommendations:** There are a lot of quests here that need no extra recommendations, so here's a boilerplate to say this is one of them. :)
 
 ### Drilling Too Deep
 
@@ -320,7 +322,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Battle
 - **Requirements:** Defeat 3 Arren & 2 Deepo
 - **Rewards:** 3 Stempos & Wardrobe: Miner Hat https://4thewords.com/media/wardrobe/featured/male/wm&#95;featured&#95;miner&#95;helmet&#95;light&#95;off.png
-- **Recommendations:** tbd
+- **Recommendations:** There are a lot of quests here that need no extra recommendations, so here's a boilerplate to say this is one of them. :)
 
 # Research Lab
 
@@ -338,7 +340,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
   - 2 Refined Dust
   - 2 Kapir Tuft
 - **Rewards:** Wardrobe: Drill Bracelet https://4thewords.com/media/wardrobe/featured/female/wf&#95;1092-drill-bracelet-7908-26970.png
-- **Recommendations:** tbd
+- **Recommendations:** This is A Lot for a relatively small reward.  The items range from Luciola Forest (Reenu Wings) to Dark Forest Outpost (Bones) with a sidestep into Desert Expedition (Kapir Tuft). So it's mostly a matter of pride to deliver, and a use for items you might happen to accumulate as you close out the main quest sequence. (At least the Drill Bracelet comes in Left, Right, and Both Wrists?)
 
 ### Set Creatures Free! (1/4)
 
@@ -347,7 +349,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Battle
 - **Requirements:** Defeat 1 Captain Piak, 1 Dr. Enoe, 1 Dr. Hogglevoss, and 1 Rosarin
 - **Rewards:** 5 Stempos
-- **Recommendations:** tbd
+- **Recommendations:** This quest can't really be evaluated on its own, because it's all about the whole sequence. And I find the whole sequence rewarding, if challenging. It isn't possible to complete and get the ultimate reward until you're halfway through the Floating City of Balance in Oge-Mai, but why not give it a whirl?
 
 ### Create a Clearing (2/4)
 
@@ -356,7 +358,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Battle
 - **Requirements:** Defeat 7 Kolbs, 7 Oxie, 7 Erbor, and 4 Teraleo
 - **Rewards:** Wardrobe: Rock Hair Earring https://4thewords.com/media/wardrobe/featured/male/wm&#95;1085-rock-hair-earring-7804-71278.png
-- **Recommendations:** tbd
+- **Recommendations:** There are a lot of quests here that need no extra recommendations, so here's a boilerplate to say this is one of them. :)
 
 ### Build a Biodome (3/4)
 
@@ -365,7 +367,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Collection, Streak
 - **Requirements:** 3-day Streak, and deliver 15 Steel Bars, 15 Glass Bars, and 15 Stone Blocks
 - **Rewards:** 5 Stempos
-- **Recommendations:** tbd
+- **Recommendations:** There are a lot of quests here that need no extra recommendations, so here's a boilerplate to say this is one of them. :)
 
 ### Encourage an Ecosystem (4/4)
 
@@ -424,4 +426,4 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
   - Xomri
   - Sabu
 - **Rewards:** Wardrobe: Toothless Smile https://4thewords.com/media/wardrobe/featured/male/wm&#95;969-toothless-smile-7039-23134.png
-- **Recommendations:** No hurries, but... why not? This is a fun one.
+- **Recommendations:** No hurries, but... why not? This is a fun one. Note that it's UTTERLY IMPOSSIBLE until you've completed the Biodome sequence starting with Set Creatures Free! (1/4)
