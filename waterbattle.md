@@ -5,7 +5,7 @@
 ONLY AVAILABLE after completing the 3 Infected Raina quests in Raina Surface Camp
 
 - **Source:** Buy
-- **Buy:** 500 River Stones in Kedanus' Surface Goods (Raina)
+- **Buy:** 500 River Stones in Kedanus' Surface Goods (SurfaceC)
 - **Equip:** Accessory: +0 Attack, +0 Defense, +15 Luck
 
 ### Glass Necklace
@@ -172,7 +172,7 @@ ONLY AVAILABLE after completing the 3 Infected Raina quests in Raina Surface Cam
 ONLY AVAILABLE after completing the 3 Infected Raina quests in Raina Surface Camp
 
 - **Source:** Buy
-- **Buy:** 500 River Stones in Kedanus' Surface Goods (Raina)
+- **Buy:** 500 River Stones in Kedanus' Surface Goods (SurfaceC)
 - **Sell price:** 500 Coins (don't sell, too expensive)
 - **Used for:** equipping
 - **Equip:** Weapon1: +11 Attack, +0 Defense, +8 Luck

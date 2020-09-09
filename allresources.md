@@ -1,6 +1,6 @@
 # A-F
 
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 9 SEPT 2020
 
 ##Abbreviations Used:
 
@@ -111,6 +111,8 @@ ALL GAME
   - sell items (River Grass and Gold Bars can be especially good for this; Raw Fabric can also be useful. Protective Mantles may also be sold.)
   - WATER:
     - Riza Quests: Main Quest 1/Jaihri Dam (100), Amateur Fisherman (25), River Dams (100)
+    - SwampL Quest: No Safe Feet (50)
+    - Hideout Quest: Catching Glints of Sunrise (100)
     - Balance Quests: Gone Fishing (100), River Landwalkers (250)
   - DESERT:
     - 3PC Battles: Vanspi (10 minutes for 10-40), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 3-7)
@@ -463,6 +465,8 @@ ALL GAME
     - ShrinePoly Battles: Cubed Frizi (200 words for 1-2)
   - WATER
     - Riza Battles: Frizi (150 words for 1-2)
+    - SwampL Battles: Heliodae (120 words for 1-2)
+    - Hideout Battles: Kivi (100 words for 1)
 - **Other sources:** FOREST, DESERT
   - FOREST
     - LF Battles: Reenu (200 words for 1)
@@ -478,6 +482,9 @@ ALL GAME
     - ShrineGiant Battles: Giant Dust Spirit (500 words for 1-4), Guardian (500 words for 1-3), Skuppa's Giant Marionette (500 words for 1-2)
   - WATER
     - Riza Battles: Wyvern (1300 words for 1-2), Vota (800 words, 2 Rope, 2 River Grass for 1)
+    - SurfaceC Battles: Wyvern (1300 words for 0-2), Vota (800 words for 1)
+    - SwampL Battles: Tritus (750 words for 1-5), Copei (800 words for 2-4), Larida (1000 words for 2-5)
+    - Hideout Battles: Wisthu (800 words for 2-6)
     - Balance Battles: Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 2-8), Water Rudakai (1600 words, 3 Reinforced Rope for 1-3)
 - **Buy:** 
   - FOREST:  MT Item Shop/Edrie's Market: 8 Coins (not worth it)
@@ -510,6 +517,13 @@ DUST
 - **Sell price:** 50 Coins (don't sell till we know what it's for)
 - **Used for:** ???
 
+### Dust Water
+
+- **Sources:**
+  - Raina Quests: Infected Raina Part 1 (1), Infected Raina Part 2 (2), Infected Raina Part 3 (3), Steel Boots (1)
+- **Sell price:** can't sell
+- **Used for:** nothing right now. Nothing except a haunting reminder of exactly how much work you did to complete the quests that give this as a reward.
+
 ### Essence
 
 ALL GAME, especially FOREST, DESERT, DUST
@@ -528,6 +542,7 @@ ALL GAME, especially FOREST, DESERT, DUST
     - Gansu Battles: Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1-2)
     - Shrine TFA Battles: Witch's Memoirs (500 words for 0-1)
     - ShrinePoly Battles: Poly Wignow (314 words for 0-1)
+  - WATER: Swamplands, SacredS Battles: Swamp Wignow (500 words for 0-1)
   - DUST: DFO Battles: Dust Wignow (444 words for 1), Osalyu (750 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 1-3)
 - **Buy:** FOREST: MT Item Shop/Edrie's Market: 32 Coins
 - **Sell price:** 8 Coins (don't sell unless you have >500)
@@ -585,8 +600,8 @@ FOREST, some DESERT, some WATER
   - FOREST
     - LF Battles: Nitana (700 words for 2-3)
     - MT Battles: Lorsa (450 words for 0-1, usually 1), Illi (700 words for 0-1, usually 1)
-  - DESERT
-    - DigS, Ruins Battles: Rif (300 words for 1)
+  - DESERT: DigS, Ruins Battles: Rif (300 words for 1)
+  - WATER: SwampL Battle: Rhamp (250 words for 0-1)
 - **Other sources:** Buy
   - FOREST EXPEDITION: TT Battles: Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 1), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-2)
   - DESERT: 
@@ -651,6 +666,10 @@ ALL GAME
     - ShrineCar Battles: Mahor (1667 words for 1-3)
     - ShrineCO Battles: Spodo (135 words for 0-1), Otpar (180 words for 0-1)
     - ShrineFools Battle: Fools' Mawt (180 words for 0-1)
+  - WATER:
+    - Anywhere Battle: Awa (200 words for 1-2)
+    - SwampL Battle: Quishi (350 words for 1-2)
+    - Hideout Battles: Necog (450 words for 2-4)
   - DUST: DFO Battles: Takori (600 words for 1), Papple (1000 words for 2-4), Babu (3000 words, 3 Steel Chains, 2 Pieces of Parchment, 1 Blue Essence Ink for 3-5), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 5-7)
 - **Buy:** 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (don't sell unless you have >500)
@@ -662,7 +681,7 @@ ALL GAME
 
 # G-O
 
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 9 SEPT 2020
 
 ### Glass
 
@@ -727,6 +746,7 @@ DESERT, WATER, DUST
     - ShrineCO Battles: Elobre (200 words for 1-2)
   - WATER
     - Riza Battles: Sparfly (450 words for 1-2)
+    - Hideout Battles: Wisthu (800 words for 1-4)
 - **Other sources:** 
   - DESERT
     - 3PC Battles: Bruja (900 words for 1-2), Lombri (1500 words for 1-2), Yasri (1250 words for 1)
@@ -814,6 +834,7 @@ some DESERT, WATER, DUST
   - WATER
     - Riza Stone Chest: 3-7
     - Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 2-3), Wyvern (1300 words for 0-1, usually 1 with enough Luck), Trainee (1000 words, 20 Coins for 0-1, usually 1 with enough Luck)
+    - SurfaceC Battles: Knusha (1200 words for 1), Wyvern (1300 words for 0-1)
     - Balance Battles: River Goddess (5000 words for 5), Water Rudakai (1600 words, 3 Reinforced Rope for 0-3)
   - DUST: DFO Battles: Burhar (1500 words for 1-2)
 - **Buy:**  250 Coins in Item Shop/Luko's Inn
@@ -823,6 +844,7 @@ some DESERT, WATER, DUST
   - WATER
     - Craft Riza: Harpoon (1), Steel Mace (3), Steel Shield (6), Steel Axe (1)
     - Riza Quests: Main Quest 6/Journey Upriver (25)
+    - SacredS Quest: A Worthy Offering (need 10)
     - Balance Quests: Cast Out Castu (need 10)
   - DUST: 
     - DFO Quests: Main Quest 12/Well of Lost Souls (15), Dessti's New Home (50), Rebuild the Dock (50)
@@ -835,7 +857,9 @@ WATER
 - **Best sources:** 
   - WATER: Riza Stone Chest: 1-2
 - **Other sources:** Buy, Craft
-  - WATER: Riza Quests: Osaril Nests (2)
+  - WATER: 
+    - Riza Quests: Osaril Nests (2)
+    - SurfaceC Quest: Golden Tooth Monsters (3)
 - **Craft:** WATER: Riza Crafts & Trinkets/Luko's Crafting: 1 Hardwood, 1 Steel Bar, 1 Rope
 - **Buy:** 800 Coins in Item Shop/Luko's Inn
 - **Sell price:** 150 Coins (don't sell unless you have >50)
@@ -906,6 +930,14 @@ HUNT S3
 - **Source:** HuntS3 Quest: Flying Past Sparks (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
 - **Used for:** HuntS3 Quest: Bettering Ourselves (1)
+
+### Hunt Map Piece 9
+
+HUNT S3
+
+- **Source:** HuntS3 Quest: s (1)
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** HuntS3 Quest: Insight Grows (1)
 
 ### Hunter Tokens
 
@@ -1102,6 +1134,9 @@ some DESERT,WATER, DUST
 - **Best sources:** 
   - WATER
     - Riza Battles: Wyvern (1300 words for 2-3), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 3), Patliadu (750 words, 1 Harpoon for 1-2)
+    - SurfaceC Battle: Knusha (1200 words for 3), Wyvern (1300 words for 2-3), Vota (800 words for 1-2), Droxa (1800 words for 4-5), Vaktra (700 words for 1-2), Yala (520 words for 0-1)
+    - SacredS Battles: Pedja (1000 words for 2-3)
+    - Hideout Battles: Cafodu (600 words for 1-2), Grongu (2000 words for 3-5)
     - Balance Battles: Castu (450 words, 1 Water Mask for 1)
     - Post-DFO Balance Battle: Spirit Castu (550 words for 2)
 - **Other sources:** Buy,
@@ -1143,6 +1178,11 @@ ALL GAME, especially FOREST
     - ShrineBird Battles: Peq (500 words for 1-3)
     - ShrineCO Battles: Eguley (400 words for 1-2)
     - ShrineFools Battles: Fools' Mawt (200 words for 1-2), Fools' Wignow (100 words for 0-1), Fools' Wignow (Halloween) (100 words for 0-1)
+  - WATER
+    - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2), Vi (5 minutes for 1-4)
+    - SurfaceC Battles: Olea (100 words for 1)
+    - SwampL Battles: Swamp Wignow (500 words for 2-4), Rhamp (250 words for 1-2), Quishi (350 words for 1)
+    - SacredS Battles: Kuldoro (100 words for 0-1), Bashta (400 words for 2-4), Swamp Wignow (500 words for 2-4), Minko (600 words for 2-4), Toccal (800 words for 3-5)
 - **Buy:** FOREST: 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
 - **Used for:** 
@@ -1160,6 +1200,7 @@ ALL GAME, especially FOREST
     - 3PC Quests: Main Quest 5/A Way South (20), Fan the Flames (50)
   - WATER
     - Craft Riza: Dí Bag (2)
+    - SurfaceC Quests: Infected Raina Part 1 (need 10), Infected Raina Part 2 (need 30), 4 the Infected (need 45)
   - DUST: DFO Battles: Dust Rudakai (need 15)
 
 ### Lorsa Fur
@@ -1193,13 +1234,14 @@ FOREST, DESERT, some WATER
 
 ### Net
 
-DESERT, some WATER
+DESERT, some WATER, some POST-DUST FOREST
 
 - **Sources:** DESERT Craft
 - **Craft:** DESERT: 3PC City's Armory: 1 Vine Net, 1 Steel Bar, 1 Stone Block, 25 Coins
 - **Sell Price:** 180 Coins (don't sell; too expensive)
 - **Used for:** equipping, 
   - FOREST: LF Quest (post-DFO MQ1): A Dusted Experiment (10)
+  - WATER: SurfaceC Quests: Infected Raina Part 1 (need 10), Infected Raina Part 2 (need 30), 4 the Infected (need 45)
 - **Equip:** Weapon2: +4 Attack, +0 Defense, +2 Luck
 
 ### Nezthai Claws
@@ -1244,7 +1286,7 @@ FOREST, DESERT
 
 # P-R
 
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 9 SEPT 2020
 
 ### Pickaxe
 
@@ -1305,6 +1347,30 @@ DESERT
 - **Sell Price:** 100 Coins ( see Used For before selling )
 - **Used for:**  DESERT: Craft Gansu: Protective Cloak (1) (as useless as Protective Mantle at the moment)
 
+### Raina Bracelet
+
+WATER
+
+ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surface Camp
+
+- **Source:** Buy
+- **Buy:** SurfaceC 500 River Stones in Kedanus' Surface Goods
+- **Sell price:** 500 Coins (don't sell, too expensive)
+- **Used for:** equipping
+- **Equip:** Accessory: +0 Attack, +0 Defense, +15 Luck
+
+### Raina Sword
+
+WATER
+
+ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surface Camp
+
+- **Source:** Buy
+- **Buy:** SurfaceC 500 River Stones in Kedanus' Surface Goods 
+- **Sell price:** 500 Coins (don't sell, too expensive)
+- **Used for:** equipping
+- **Equip:** Weapon1: +11 Attack, +0 Defense, +8 Luck
+
 ### Rat Tails
 
 DUST
@@ -1352,6 +1418,8 @@ ALL GAME
     - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
   - WATER
     - Riza Battles: Trainee (1000 words, 20 Coins for 2-3), Sparfly (450 words for 1)
+    - SurfaceC Battles: Rea & Pira (150 words for 1), Begala (300 words for 1)
+    - Hideout Battles: Wisthu (800 words for 1-3)
     - Balance Battles: Velts: Water (1600 words for 1-4)
   - DUST: DFO Battles: Burhar (1500 words for 2-4), Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 2), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 2)
 - **Buy:** DESERT: 40 Coins in Item Bazaar/Zilya's Great Bazaar 
@@ -1374,7 +1442,9 @@ DESERT, some FOREST, some WATER
     - 3PC Battles: Bruja (900 words for 1), Lombri (1500 words and 1 Wood Spear for 1-2), Yasri (1250 words for 1)
     - ShrineMar Battles: Balatrix (630 words for 1-2), Osemar (1000 words for 0-3)
     - Post-DFO Ruins Battles: Spirit Griffe (480 words for 1)
-  - WATER: Riza Battles: Jaihri (485 words for 0-1, usually 1)
+  - WATER: 
+    - Riza Battles: Jaihri (485 words for 0-1, usually 1)
+    - SacredS Battles: Kuldoro (100 words for 0-1, 1 with +20 Luck)
 - **Other sources:** Buy
   - FOREST: GL Battles: Gobkey (400 words for 0-1)
   - DESERT
@@ -1426,6 +1496,8 @@ some FOREST, DESERT, some WATER, DUST
     - Gansu Battles: Rulo (550 words for 1-3),  Sparfly (450 words for 1-2), Wetu (1100 words for 2)
   - WATER: 
     - Riza Battles: Sparfly (450 words for 1-2)
+    - SurfaceC Battles: Droxa (1800 words for 3-5), Vota (800 words for 2), Knusha (1200 words for 0-2)
+    - Hideout Battles: Wisthu (800 words for 1-4), Grongu (2000 words for 2-5)
     - Balance Battles: Velts: Water (1600 words for 3-6)
   - DUST: DFO Battles: Burhar (1500 words for 4-6)
 - **Other sources:** Buy,
@@ -1483,6 +1555,10 @@ ALL GAME
     - ShrineGiant Battles: Piachi (500 words for 2-4), Giant Dust Spirit (500 words for 1-3), Mandias (500 words for 1-3), Untu Golem (500 words for 0-2), Guardian (500 words for 0-1)
   - WATER
     - Riza Battles: Trainee (1000 words, 20 Coins for 1-2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1-2)
+    - SurfaceC Battles: Auwi (500 words for 1-2), Knusha (1200 words for 1-2)
+    - SwampL Battles: Copei (800 words for 1-3)
+    - SacredS Battles: Toccal (800 words for 6-8), Bashta (400 words for 3-6), Minko (600 words for 4-7), Kuldoro (100 words for 0-1)
+    - Hideout Battles: Drau (1000 words for 2-5)
     - Balance Battles: Caricaco (300 words for 0-1, usually 1 with enough Luck)
 - **Buy:** DESERT: 35 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 8 Coins (don't sell unless you have >100)
@@ -1510,7 +1586,9 @@ DESERT, some FOREST, WATER, DUST
     - 3PC Golden Chest: 1
     - 3PC Quests: Luciola Materials (5)
     - Gansu Stone Chest: 1-3
-  - WATER: Balance Battles: Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 1-2)
+  - WATER: 
+    - Hideout Battles: Grongu (2000 words for 1)
+    - Balance Battles: Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 1-2)
 - **Buy:** DESERT: 45 Coins in Gansu Item Shop/Tepij Locals; 65 Coins in 3PC Item Bazaar/Zilya's Great Bazaar 
 - **Sell price:** 15 Coins (don't sell unless you have >100; will usually be better to use to craft Fine Fabric and sell for more)
 - **Used for:** 
@@ -1585,7 +1663,10 @@ Note: Must complete the DFO Quest Reinforced Ardi Lamp Station to unlock the abi
 WATER, DUST
 
 - **Sources:** Buy, Craft
-  - WATER: Balance River Chest: 1-2
+  - WATER: 
+    - Hideout Battles: Grongu (2000 words for 1-2)
+    - Hideout Quest: Pushing Back Rebels 1/3 (5)
+    - Balance River Chest: 1-2
 - **Craft:** Water Shop/Kuyurata's Shop: 10 Rope, 1 Steel Bar
 - **Buy:** 300 Coins in Water Shop/Kuyurata's Shop
 - **Sell price:** 10 Coins (Don't sell, not worth it)
@@ -1629,6 +1710,9 @@ WATER
 
 - **Sources:** 
   - WATER
+    - SurfaceC Quest: Defeating a Droxa Drove (1), Stamina Level Up! (1), New Family of Friends (1)
+    - SacredS Quest: Growth & Restoration (1), Seeding New Beginnings 1/3 (2)
+    - Hideout Quest: Pushing Back Rebels 2/3 (1)
     - Balance Battles: River Goddess (5000 words for 1)
     - Balance Quests: Main Quest 3/The Deep Dark (1), Main Quest 4/Potion For A Goddess (1), Main Quest 5/The Water Calls (1), Scouting Lorsa (1), Steel (Or Brace) Yourself (1), Cast Out Castu (1), Elemental Powers (1), Venomous Villains (1), The Abyss Stares Back (1), Curious Traveler (1), Curious Traveler Part 2 (1)
 - **Sell price:** 50 Coins (DON'T SELL CHESTS WHY WOULD YOU)
@@ -1645,12 +1729,17 @@ ALL GAME
     - LF, Gansu, Riza, Balance Battles: Puna (150 words, 1 Wooden Fishing Rod for 1)
   - WATER
     - Riza Battles: Jaihri (485 words for 1-2)
+    - SurfaceC Battles: Olea (100 words for 0-1)
     - Balance Battles: Caricaco (300 words for 1)
 - **Other sources:** Buy,
   - DESERT: ShrineGiant Battles: Mandias (500 words for 1-3)
   - WATER
     - Riza Stone Chest: 7-12
     - Riza Battles: Wyvern (1300 words for 2-5), Osaril (300 words, 1 Vine Net for 1), Furoxi (400 words, 1 Steel Fishing Rod for 1), Patliadu (750 words, 1 Harpoon for 2), Vota (800 words, 2 Rope, 2 River Grass for 2), Yala (520 words, 2 Rope, 2 River Grass for 1), Trainee (1000 words, 20 Coins for 2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 2-3)
+    - SurfaceC Battles: Vaktra (700 words for 2-3), Wyvern (1300 words for 2-5), Auwi (500 words for 1-2), Begala (300 words for 0-1), Vota (800 words for 2), Droxa (1800 words for 4-5), Knusha (1200 words for 0-3), Yala (520 words for 1)
+    - SwampL Battles: Larida (1000 words for 2-4), Gaiai (1500 words for 3-5)
+    - SacredS Battles: Ognimaf (300 words for 1-2), Pedja (1000 words for 2-3)
+    - Hideout Battles: Cafodu (600 words for 2-4), Necog (450 words for 1), Drau (1000 words for 2-4), Grongu (2000 words for 2-6)
     - Balance Battles: Velts: Water (1600 words for 2-4), Furoxi (400 words, 1 Steel Fishing Rod for 1), River Goddess (5000 words for 5), Sliv (550 words, 1 Water Mask for 1), Isartu (720 words for 1), Nuig (850 words, 1 Water Mask for 1), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 1-3), Water Rudakai (1600 words, 3 Reinforced Rope for 1-2), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 1-3)
 - **Buy:** 100 Coins in Item Shop/Luko's Inn
 - **Sell price:** 30 Coins (Don't sell unless you have >500)
@@ -1675,6 +1764,10 @@ some DESERT, WATER
   - DESERT: ShrineBird Battles: Noasis (1500 words for 0-1)
   - WATER
     - Balance Battles: River Goddess (5000 words for 1), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 0-1, usually 1 with enough Luck), Water Rudakai (1600 words, 3 Reinforced Rope for 0-1, usually 1 with enough Luck), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 0-1, usually 1 with enough Luck)
+    - SurfaceC Battle: Droxa (1800 words for 0-1)
+    - SwampL Battle: Gaiai (1500 words for 1)
+    - Hideout Battle: Grongu (2000 words for 0-1)
+    - Hideout Quest: Pushing Back Rebels 2/3 (1)
     - Balance Quests: Steel (Or Brace) Yourself (1), It's Electric! (3), Venomous Villains (1), The Abyss Stares Back (3), Curious Traveler Part 2 (1)
 - **Sell price:** 25 Coins (… I'm going to depart from my refrain and say "don't sell unless you have completed all side quests and reserve a key for every River Chest plus an additional 20 for buffer". I keep selling off extra River Keys and I still end up with 50 River Keys and no Chests. Hopefully this changes soon.)
 - **Used for:** 
@@ -1684,15 +1777,11 @@ some DESERT, WATER
 
 some FOREST, WATER
 
-- **Best sources:** 
-  - WATER
-    - Riza Stone Chest: 6-11
-    - Riza Battles: Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck),  Wyvern (1300 words for 1-3), Patliadu (750 words, 1 Harpoon for 1),Yala (520 words, 2 Rope, 2 River Grass for 1), Trainee (1000 words, 20 Coins for 0-1, usually 1 with enough Luck)
-    - Balance Battles: Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck), Castu (450 words, 1 Water Mask for 1), Isartu (720 words for 1)
-- **Other sources:** Buy,
-  - WATER
-    - Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1)
-    - Balance Battles:  Nuig (850 words, 1 Water Mask for 1), River Goddess (5000 words for 2)
+- **Sources:** WATER:
+  - Riza Stone Chest: 6-11
+  - Riza Battles: Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck),  Wyvern (1300 words for 1-3), Patliadu (750 words, 1 Harpoon for 1),Yala (520 words, 2 Rope, 2 River Grass for 1), Trainee (1000 words, 20 Coins for 0-1, usually 1 with enough Luck), Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1)
+  - SurfaceC Battle: Wyvern (1300 words for 1-3), Yala (520 words for 1), Droxa (1800 words for 1-3), Knusha (1200 words for 1)
+  - Balance Battles: Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck), Castu (450 words, 1 Water Mask for 1), Isartu (720 words for 1), Nuig (850 words, 1 Water Mask for 1), River Goddess (5000 words for 2)
 - **Buy:** 140 Coins in Item Shop/Luko's Inn
 - **Sell price:** 30 Coins (DO NOT sell unless you have >200)
 - **Used for:** 
@@ -1700,6 +1789,7 @@ some FOREST, WATER
     - LF Quests: Little Forest Lake (10)
   - WATER
     - Riza Quests: Main Quest 3/Remedy for a Friend (3), Barge Weights (35)
+    - Craft SurfaceC: buy River Water (25), Raina Sword (500), Raina Bracelet (500) in Kedanus' Surface Goods in Raina Surface Camp
 
 ### River Water
 
@@ -1708,13 +1798,18 @@ some FOREST, WATER, DUST
 - **Best sources:** WATER
   - Riza Battles:  Osaril (300 words, 1 Vine Net for 1), Yala (520 words, 2 Rope, 2 River Grass for 1-2), Wyvern (1300 words for 2-4), Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck), Patliadu (750 words, 1 Harpoon for 1)
   - Riza Stone Chest: 1-2
+  - SurfaceC Battles: Auwi (500 words for 1-2), Yala (520 words for 1-2)
   - Balance Battles: Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck),  Nuig (850 words, 1 Water Mask for 1-2), River Goddess (5000 words for 3-6)
 - **Other sources:** WATER Buy,
   - Riza Battles: Vota (800 words, 2 Rope, 2 River Grass for 1-2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1)
+  - SurfaceC Battles: Wyvern (1300 words for 2-4), Vota (800 words for 1-2), Droxa (1800 words for 2-3), Knusha (1200 words for 1)
+  - SurfaceC Quest: Sans the Bone (3)
+  - SwampL Battles: Gaiai (1500 words for 1-2), Larida (1000 words for 1)
+  - Hideout Battle: Drau (1000 words for 1)
   - Balance River Chest: 1-2
   - Balance Battles: Sliv (550 words, 1 Water Mask for 1), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 1-2), Water Rudakai (1600 words, 3 Reinforced Rope for 1-3), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 1)
   - Balance Quest (opens post-DFO): Dark Floating Materials 5/5 (10)
-- **Buy:** WATER 25 River Stones in Kedanus' Surface Goods
+- **Buy:** WATER SurfaceC 25 River Stones in Kedanus' Surface Goods
 - **Sell price:** 40 Coins (don't sell unless you have >500)
 - **Used for:** 
   - FOREST
@@ -1761,6 +1856,10 @@ ALL GAME
     - ShrineGiant Battles: Mandias (500 words for 1-2)
   - WATER:
     - Riza Battles: Trainee (1000 words & 20 Coins for 2-4), Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 1-3), Vota (800 words, 2 Rope, and 2 River Grass for 2-3), Yala (520 words, 2 Rope, and 2 River Grass for 1)
+    - SurfaceC Battles: Vaktra (700 words for 1-3), Vota (800 words for 1-3), Droxa (1800 words for 1-4), Yala (520 words for 1), Knusha (1200 words for 1-3)
+    - SwampL Battles: Copei (800 words for 1-3), Swamp Wignow (500 words for 0-1), Larida (1000 words for 1-2)
+    - SacredS Battles: Toccal (800 words for 1-2), Pedja (1000 words for 1-2), Swamp Wignow (500 words for 0-1)
+    - Hideout Battles: Wisthu (800 words for 1-3), Drau (1000 words for 1-3)
     - Balance Battles: Isartu (720 words for 2-4)
   - DUST: DFO Battles: Burhar (1500 words for 3-5), Takori (600 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 2-5)
 - **Buy:** FOREST, WATER 8 Coins in MT Item Shop/Edrie's Market OR Riza Item Shop/Luko's Inn, DESERT 12 Coins in 3PC Item Bazaar/Zilya's Great Bazaar
@@ -1786,6 +1885,7 @@ ALL GAME
     - Dig Quests: From Beneath Me (15)
   - WATER
     - Craft Riza: Harpoon (1)
+    - SacredS Quest: A Worthy Offering (need 10)
     - Craft Balance: Reinforced Rope (10), Wooden Fishing Rod (1)
     - Riza Battles: Knusha (need 4), Vota (need 2), Yala (need 2)
   - DUST: DFO Quests: Rebuild the Dock (150), Reinforced Ardi Lamp Station (15)
@@ -1827,7 +1927,7 @@ FOREST, some DESERT
 
 # S
 
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 9 SEPT 2020
 
 ### Sacred Feather
 
@@ -2058,6 +2158,7 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
   WATER
   
   - Limited-availability battles in Riza Main Quest sequence
+  - Hideout Battle: Grongu (2000 words for 1-2
   
   DUST
   
@@ -2086,6 +2187,7 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
   - Craft Riza: Harpoon (1), Steel Shield (2), Steel Boots (3), Steel Mace (6), Steel Axe (3)
   - Craft Balance: Reinforced Rope (1), Reinforced Steel Breastplate (15), Reinforced Steel Helmet (12), Underwater Torch (1)
   - Riza Quests: Main Quest 6/Journey Upriver (10)
+  - SacredS Quest: A Worthy Offering (need 10)
   - Balance Quests: Cast Out Castu (need 5)
   
   DUST
@@ -2103,6 +2205,7 @@ some DESERT, WATER, DUST
 - **Sell price:** 550 Coins (don't sell, too expensive)
 - **Used for:** equipping, 
   - DESERT: 3PC Quests: Guard Your Feet (10)
+  - WATER: SurfaceC Quest: Steel Boots (25)
   - DUST: Craft DFO: Dark Forest Boots (1)
 - **Equip:** Feet: +0 Attack, +9 Defense, +0 Luck
 
@@ -2226,6 +2329,8 @@ The ability to craft Stempos in Gansu unlocks after a series of side quests. Reb
   - WATER
     - Riza Stone Chest: 1
     - Riza Quests: Steel Weapons (3), Dí Production (1)
+    - SurfaceC Quest: Steel Boots (3)
+    - Hideout Quest: Uncanny Swamp Wisthu (3)
     - Balance Quests: Rudakai Master (5)
   - DUST: DFO Bones Chest: 0-1
 - **Craft:** DESERT: Gansu Crafts & Trinkets/Wynfri of Water: 1 Sacred Feather, 1 White Fur, 10 Essence, 1 Glass Bar, 1 Gold Bar
@@ -2333,9 +2438,20 @@ DESERT
   - DESERT: Craft 3PC: Sands Ring (1)
 - **Equip:** Accessory: +0 Attack, +3 Defense, +3 Luck
 
+### Swamp Moss
+
+WATER
+
+- **Sources:** WATER
+  - SwampL Battles: Heliodae (120 words for 1), Rhamp (250 words for 1), Quishi (350 words for 1-2), Copei (800 words for 2-3), Larida (1000 words for 2-4), Swamp Wignow (500 words for 1-2), Gaiai (1500 words for 3-5), Tritus (750 words for 1-3)
+  - SacredS Battles: Bashta (400 words for 1-2), Ognimaf (300 words for 1), Minko (600 words for 1-2), Pedja (1000 words for 2-3), Toccal (800 words for 1-2)
+  - Hideout Battles: Kivi (100 words for 0-1), Necog (450 words for 2-3)
+- **Sell price:** 10 Coins (don't sell until event ends, just in case)
+- **Used for:**  WATER: SacredS Quest: Growth & Restoration (50)
+
 # T-Z
 
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 9 SEPT 2020
 
 ### Tambo Mane
 
@@ -2436,6 +2552,9 @@ ALL GAME
   - FOREST: 
     - MT Battles: Kuay (400 words for 4), Velts (800 words for 3-6)
     - MT Wooden Chest: 2-7
+  - WATER:
+    - SurfaceC Battles: Rea & Pira (150 words for 1)
+    - SwampL Battles: Tritus (750 words for 5-9)
 - **Other sources:** 
   - Anywhere Battles: Viyu (15 minutes for 2-7)
   - FOREST
@@ -2463,6 +2582,9 @@ ALL GAME
     - ShrineMar Battles: Zosimas (575 words for 3-6), Balatrix (630 words for 3-7), Zosimalus (444 words for 2-4), Zosimos (400 words for 1-4), Zosimaga (600 words for 3-6), Balatros (700 words for 3-7), Osemar (1000 words for 3-8), Balatras (785 words for 3-5)
   - WATER: 
     - Riza Battles: Jaihri (485 words for 1)
+    - SwampL Battles: Larida (1000 words for 1-4), Gaiai (1500 words for 2-4)
+    - SacredS Battles: Ognimaf (300 words for 1-2), Toccal (800 words for 1-2)
+    - Hideout Battles: Cafodu (600 words for 2-6), Grongu (2000 words for 2-4)
     - Balance Battles: Velts: Water (1600 words for 5-10)
   - DUST: DFO Battles: Zanthei (400 words for 1-2)
 - **Buy:** FOREST: 8 Coins in LF Item Shop/Alex's Shop DESERT: 12 Coins in 3PC Item Bazaar/Zilya's Great Bazaar

@@ -72,6 +72,14 @@ AREA ABBREVIATIONS:
 - **Sell price:** 12 Coins (Make Glass Bars out of any Glass Shards you have over 5; it'll be most useful that way)
 - **Used for:** outside game
 
+### Hardwood
+
+- **Sources:** WATER, DUST,
+  - SurfaceC Battles: Knusha (1200 words for 1), Wyvern (1300 words for 0-1)
+- **Sell price:** 100 Coins (don't sell unless you have >200)
+- **Used for:** outside game,
+  - SacredS Quest: A Worthy Offering (need 10)
+
 ### Harpoon
 
 - **Sources:** outside game,
@@ -81,14 +89,6 @@ AREA ABBREVIATIONS:
 - **Sell price:** 150 Coins (don't sell unless you have >50)
 - **Used for:** equipping, outside game
 - **Equip:** Weapon2: +8 Attack, +8 Defense, +0 Luck
-
-### Hardwood
-
-- **Sources:** WATER, DUST,
-  - SurfaceC Battles: Knusha (1200 words for 1), Wyvern (1300 words for 0-1)
-- **Sell price:** 100 Coins (don't sell unless you have >200)
-- **Used for:** outside game,
-  - SacredS Quest: A Worthy Offering (need 10)
 
 ### Leather Roll
 

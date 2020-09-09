@@ -34,6 +34,12 @@ FILES UPDATED IN NOTES ONLY, need to update on site:
 
 -All Bestiary
 
+-Water Resources
+
+-All Battle
+
+-All Resources
+
 # Abbreviations
 
 **Expedition Alien Meteoroid**
@@ -43,26 +49,7 @@ FILES UPDATED IN NOTES ONLY, need to update on site:
 - MSite = Mining Site
 - RLab = Research Lab
 
-**Expedition Raina**
-
-- SurfaceC: Raina Surface Camp
-- SwampL: Swamplands
-- SacredS: Raina Sacred Site
-- Hideout: Rebel Raina Hideout
-
-# Monsters Tweaked
-
-### Puna
-
-**Quests:** HuntS3: Insight Grows (20)
-
 # Resources
-
-### Hunt Map Piece 9
-
-- **Source:** HuntS3 Quest: s (1)
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS3 Quest: Insight Grows (1)
 
 ### Hunter Tokens
 

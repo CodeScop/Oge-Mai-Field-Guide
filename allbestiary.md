@@ -1,4 +1,4 @@
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 9 SEPT 2020
 
 Beware! **Here be spoilers**. Every single quest requiring a given monster is listed, no matter how late in the game it appears. Don't say I didn't warn you. But maybe you'll be able to mix and match quests more efficiently.
 
@@ -48,6 +48,16 @@ Gansu: Gansu Watering Hole
 
 HuntS2: Hunt for the Ancients Season 2
 
+**Expedition Alien Meteoroid**
+
+IC = Impact Crater
+
+SpaceS = Spaceship
+
+MSite = Mining Site
+
+RLab = Research Lab
+
 **Expedition Desert**
 
 Dig: Dig Site
@@ -84,20 +94,17 @@ Balance: Floating City of Balance
 
 SurfaceC: Raina Surface Camp
 
+SwampL: Swamplands
+
+SacredS: Raina Sacred Site
+
+Hideout: Rebel Raina Hideout
+
 **Oge-Mai Dust**
 
 DFO: Dark Forest Outpost
 
 # BESTIARY
-
-### Aita (Exp: ShrineDucks)
-
-- **Unlocked by:** Wardrobe: Ducks Time Bracelet
-- **Requirements:** 125 words
-- **Time allowed:** 15 minutes
-- **XP:** 12
-- **Drops:** 0-1 Leaves, 0-1 Rope, 1 Shrine Stone
-- **Quests:** Lining Up Ducks (1), Paint Battle (5)
 
 ### Afeppti (Exp: ShrineCO)
 
@@ -107,6 +114,15 @@ DFO: Dark Forest Outpost
 - **XP:** 40
 - **Drops:** 1-2 Raw Gold, 2-6 Coins, 4-5 Shrine Stones
 - **Quests:** ShrineCO: Green Be Gone! (1), Cute Confetti Cannons! (4)
+
+### Aita (Exp: ShrineDucks)
+
+- **Unlocked by:** Wardrobe: Ducks Time Bracelet
+- **Requirements:** 125 words
+- **Time allowed:** 15 minutes
+- **XP:** 12
+- **Drops:** 0-1 Leaves, 0-1 Rope, 1 Shrine Stone
+- **Quests:** Lining Up Ducks (1), Paint Battle (5)
 
 ### Alnu (Exp: BC, FB, SC, TT)
 
@@ -232,6 +248,14 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Drops:** 3-4 Hunter Tokens, 2-3 Raw Fabric, 1 Rope, 0-1 Red Dye
 - **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
 
+### Auwi (Exp: SurfaceC)
+
+- **Requirements:** 500 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 50
+- **Drops:** 1 River Water, 1-2 River Grass, 1-2 Raw Stone
+- **Quests:** SurfaceC: Sans the Bone (5)
+
 ### Awa (EVERYWHERE)
 
 - **Requirements:** 200 words
@@ -286,6 +310,24 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **XP:** 25
 - **Drops:** 2-3 Shrine Stones, 0-2 Dust, 0-1 Leaves
 - **Quests:** Shrine GO Quest: Green Ooze Invasion (1)
+
+### Bashta (Exp: Sacred)
+
+- **Requirements:** 400 words
+- **Time allowed:** 45 minutes
+- **XP:** 40
+- **Drops:** 3-6 Raw Stone, 1-2 Swamp Moss, 2-4 Leaves
+- **Quests:** Sacred: Seeding New Beginnings 1/3 (1), Seeding New Beginnings 2/3 (5), Seeding New Beginnings 3/3 (10)
+
+### Begala (Exp: SurfaceC)
+
+- **Requirements:** 300 words
+- **Time allowed:** 40 minutes
+- **XP:** 30
+- **Drops:** 0-1 River Grass, 1 Raw Fabric
+- **Quests:** 
+  - SurfaceC: Energy Now, Tired Later (10)
+  - Hunt S3: Growth in Friendship (1)
 
 ### Belasi (Oge: DFO)
 
@@ -389,6 +431,14 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
 - **Drops:** 10 Hunter Tokens, 1-6 Coins, 0-1 Wooden Keys, 0-1 Fur, 1-3 Raw Fabric
 - **Quests:** HuntS1: Curator's Family (1)
 
+### Cafodu (Exp: Hideout)
+
+- **Requirements:** 600 words
+- **Time allowed:** 90 minutes (1 hour 30 minutes)
+- **XP:** 60
+- **Drops:** 2-6 Wood, 1-2 Leather Roll, 2-4 River Grass
+- **Quests:** Hideout: Knocking Down Rebels (1), Pushing Back Rebels 1/3 (1), Pushing Back Rebels 2/3 (3), Pushing Back Rebels 3/3 (5)
+
 ### Caravan (Exp: ShrineGiant)
 
 - **Unlocked by:** Wardrobe: Giants Time Bracelet
@@ -448,6 +498,14 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 80
 - **Drops:** 8 Hunter Tokens, 1-4 Wood, 1-2 Raw Steel, 0-1 Fur
 - **Quests:** HuntS1 Quest: Elder Library's Security (4), Curator's Family (1)
+
+### Copei (Exp: SwampL)
+
+- **Requirements:** 800 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 80
+- **Drops:** 2-3 Swamp Moss, 1-3 Raw Stone, 2-4 Dust, 1-3 Rope
+- **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5)
 
 ### Crilum (Exp: ShrineCO)
 
@@ -534,6 +592,24 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:** 
   - HuntS2: A Season to Explore (1), Strengthening Your Viewpoint 2/3 (1)
   - DFO: Familiar Family Friends (5)
+
+### Drau (Exp: Hideout)
+
+- **Requirements:** 1000 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 100
+- **Drops:** 2-4 River Grass, 2-5 Raw Stone, 1 River Water, 1-3 Rope
+- **Quests:** Hideout: Knocking Down Rebels (1), Pushing Back Rebels 1/3 (1), Pushing Back Rebels 2/3 (3), Pushing Back Rebels 3/3 (5)
+
+### Droxa (Exp: SurfaceC)
+
+- **Requirements:** 1800 words
+- **Time allowed:** 720 minutes (12 hours)
+- **XP:** 180
+- **Drops:** 4-5 River Grass, 2-3 River Water, 3-5 Raw Steel, 0-1 River Keys, 4-5 Leather Rolls, 1-4 Rope, 1-3 River Stones
+- **Quests:** 
+  - SurfaceC: Defeating a Droxa Drove (3)
+  - Hunt S3: Growth in Friendship (1)
 
 ### Dust Rudakai (Oge: DFO*)
 
@@ -724,6 +800,14 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
   - Gansu: Watering Hole Puffs (5)
   - HuntS3: Growth Pains (1)
 
+### Gaiai (Exp: SwampL)
+
+- **Requirements:** 1500 words
+- **Time allowed:** 300 minutes (5 hours)
+- **XP:** 150
+- **Drops:** 3-5 Swamp Moss, 1-2 River Water, 3-5 River Grass, 2-4 Wood, 1 River Key
+- **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5)
+
 ### Gayol (Exp: ShrineBird)
 
 - **Unlocked by:** Wardrobe: Birds Time Bracelet
@@ -802,6 +886,14 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - Ruins: Withdrawing West (1), Gordi & Griffe Gather (5)
 
+### Grongu (Exp: Hideout)
+
+- **Requirements:** 2000 words
+- **Time allowed:** 1667 minutes (1 day, 3 hours, and 47 minutes)
+- **XP:** 200
+- **Drops:** 1-2 Steel Bars, 2-5 Raw Steel, 1-2 Reinforced Rope, 2-6 River Grass, 2-4 Wood, 1 Red Dye, 0-1 River Keys, 3-5 Leather Rolls
+- **Quests:** Hideout: Knocking Down Rebels (1), Pushing Back Rebels 1/3 (1), Pushing Back Rebels 2/3 (3), Pushing Back Rebels 3/3 (5)
+
 ### Grult (Oge: 3PC)
 
 - **Requirements:** 400 words
@@ -827,6 +919,14 @@ see **Skuppa's Giant Marionette**
 - **XP:** 90
 - **Drops:** 1 Feather, 1-3 Raw Steel, 9 Shrine Stones, 3-5 Wood
 - **Quests:** ShrineCar: A Carnival Festival (1), Tears and Feathers (5)
+
+### Heliodae (Exp: SwampL)
+
+- **Requirements:** 120 words
+- **Time allowed:** 20 minutes
+- **XP:** 12
+- **Drops:** 1 Swamp Moss, 1-2 Dust
+- **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5)
 
 ### Idaa (Exp: ShrineDucks)
 
@@ -937,6 +1037,14 @@ see **Skuppa's Giant Marionette**
   - Riza: Main Quest 2/Attack of Opportunity (2)
   - Balance: Elemental Power (5)
 
+### Kivi (Exp: Hideout)
+
+- **Requirements:** 100 words
+- **Time allowed:** 10 minutes
+- **XP:** 10
+- **Drops:** 1 Dust, 0-1 Swamp Moss
+- **Quests:** Hideout: Catching Glints of Sunrise (25)
+
 ### Knusha (Oge: Riza*; Exp: SurfaceC)
 
 - **Unlocked by:** Riza Main Quest 3/Remedy for a Friend
@@ -949,10 +1057,12 @@ see **Skuppa's Giant Marionette**
 
 - **XP:** 120
 
-- **Drops:** 1-3 Rope, 1-2 Raw Steel, 1-2 Raw Stone, 1 River Water, 1 Hardwood, 3 Leather Roll, 2-3 River Grass, 1 River Stone
+- **Drops:** 1-3 Rope, 0-2 Raw Steel, 1-2 Raw Stone, 1 River Water, 1 Hardwood, 3 Leather Roll, 0-3 River Grass, 1 River Stone
 
 - **Quests:**
-- Riza: Main Quest 4/ Mucky, Murky, Muddy (3)
+  - Riza: Main Quest 4/ Mucky, Murky, Muddy (3)
+  - SurfaceC: Infected Raina Part 1 (5), Infected Raina Part 2 (10), 4 the Infected (15)
+  - Hunt S3: Growth in Friendship (1)
 
 
 ### Kuay (Oge: MT)
@@ -961,6 +1071,22 @@ see **Skuppa's Giant Marionette**
 - **Time Allowed:** 80 minutes
 - **XP:** 94
 - **Drops:** 1 Spider Legs, 4 Wood, 2 Leaves
+
+### Kuldoro (Exp: Sacred)
+
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 0-1 Raw Stone, 0-1 Raw Gold, 0-1 Leaves
+- **Quests:** Sacred: Au-some Frog Race (1000, but counts all Kuldoro you've battled ever)
+
+### Larida (Exp: SwampL)
+
+- **Requirements:** 1000 words
+- **Time allowed:** 240 minutes (4 hours)
+- **XP:** 100
+- **Drops:** 2-4 Swamp Moss, 2-4 River Grass, 1 River Water, 2-5 Dust, 1-4 Wood,1-2 Rope
+- **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Wrestlin' Swamp Larida (15)
 
 ### Lekhop (Exp: ShrineCO)
 
@@ -1083,6 +1209,14 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Shrine Stone
 - **Quests:** Shrine GO Quests: Green Ooze Invasion (1), Mini OoOoOoOozes (100)
 
+### Minko (Exp: Sacred)
+
+- **Requirements:** 600 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 60
+- **Drops:** 4-7 Raw Stone, 1-2 Swamp Moss, 2-4 Leaves
+- **Quests:** Sacred: Seeding New Beginnings 1/3 (1), Seeding New Beginnings 2/3 (5), Seeding New Beginnings 3/3 (10)
+
 ### Molox (Oge: DFO*)
 
 - **Unlocked by:** DFO Step Into The Deadlands (1/4)
@@ -1109,6 +1243,14 @@ see **Skuppa's Giant Marionette**
 - **XP:** 50
 - **Drops:** 5 Shrine Stones, 1-3 Leaves, 1-3 Raw Stone, 0-2 Raw Fabric
 - **Quests:** Lining Up Ducks (1), Helping a Mother (5)
+
+### Necog (Exp: Hideout)
+
+- **Requirements:** 450 words
+- **Time allowed:** 45 minutes
+- **XP:** 45
+- **Drops:** 2-4 Fur, 2-3 Swamp Moss, 1 River Grass
+- **Quests:** none so far
 
 ### Nezthai (Exp: FB)
 
@@ -1160,6 +1302,14 @@ see **Skuppa's Giant Marionette**
   - Balance: Main Quest 3/The Deep Dark (8), Elemental Power (5), Stingy Surprise (30), Venomous Villains (7)
   - HuntS3: Flying Past Sparks (5)
 
+### Ognimaf (Exp: Sacred)
+
+- **Requirements:** 300 words
+- **Time allowed:** 45 minutes
+- **XP:** 30
+- **Drops:** 1 Swamp Moss, 1-2 Wood, 1-2 River Grass
+- **Quests:** Sacred: Growth & Restoration (5)
+
 ### Okkorhi (Exp: Dig)
 
 - **Requirements:** 1000 words
@@ -1167,6 +1317,14 @@ see **Skuppa's Giant Marionette**
 - **XP:** 100
 - **Drops:** 2-6 Dust, 1-4 Raw Gold, 0-2 Raw Sandstone, 1-3 Raw Fabric, 0-3 Raw Steel, 1-2 Desert Stone
 - **Quests:** DigS: Khaki Twisting Beige (3)
+
+### Olea (Exp: SurfaceC)
+
+- **Requirements:** 100 words
+- **Time allowed:** 10 minutes
+- **XP:** 10
+- **Drops:** 0-1 River Grass, 1 Leaves
+- **Quests:** none
 
 ### Osalyu (Oge: DFO)
 
@@ -1241,6 +1399,14 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - MT: Inking Of Dust 3/5 (5), Cool Creature Highlights 2/3 (5)
   - Riza: Amateur Fisherman (3), Apprentice Fisherman (8), Water Tribe Stripes (15)
+
+### Pedja (Exp: Sacred)
+
+- **Requirements:** 1000 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 100
+- **Drops:** 2-3 River Grass, 2-3 Leather Roll, 2-3 Swamp Moss, 1-2 Rope
+- **Quests:** none yet
 
 ### Peq (Exp: ShrineBird)
 
@@ -1326,6 +1492,15 @@ see **Skuppa's Giant Marionette**
   - 3PC: A Way North: Up the Mountain (30)
   - Gansu: Watering Hole Puna (10)
   - Balance: Main Quest 2/Underwater Training (5), Gone Fishing (25), Gone Fishing Part 2 (100), Gone Fishing Part 3 (250)
+  - HuntS3: Insight Grows (20)
+
+### Quishi (Exp: SwampL)
+
+- **Requirements:** 350 words
+- **Time allowed:** 45 minutes
+- **XP:** 35
+- **Drops:** 1-2 Fur, 1-2 Swamp Moss, 1 Leaves
+- **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5)
 
 ### Ralbone (Exp: ShrineBird)
 
@@ -1335,6 +1510,16 @@ see **Skuppa's Giant Marionette**
 - **XP:** 95
 - **Drops:** 10 Shrine Stones, 1-2 Claws, 1-2 Feathers, 1-2 Rope
 - **Quests:** ShrineBird: Birb's the Word (1), Prime Birb Time (1)
+
+### Rea & Pira (Exp: SurfaceC)
+
+- **Requirements:** 150 words
+- **Time allowed:** 25 minutes
+- **XP:** 15
+- **Drops:** 1 Raw Fabric, 1 Wood
+- **Quests:** 
+  - SurfaceC: Energy Now, Tired Later (10)
+  - Hunt S3: Growth in Friendship (1)
 
 ### Red Witch (Oge: [Gansu])
 
@@ -1365,6 +1550,14 @@ see **Skuppa's Giant Marionette**
 - **XP:** 60
 - **Drops:** 3-5 Leaves, 2-3 Rope, 1-2 Raw Stone, 2-3 Wood
 - **Quests:** SC: Slowest Tortoise Wins (12), Stone City Chaos (4)
+
+### Rhamp (Exp: SwampL)
+
+- **Requirements:** 250 words
+- **Time allowed:** 40 minutes
+- **XP:** 25
+- **Drops:** 1 Swamp Moss, 1-2 Leaves, 0-1 Feather
+- **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5)
 
 ### Rif (Exp: DigS, Ruins)
 
@@ -1644,6 +1837,14 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - DigS: Dazzling Desert Colors (1)
   - MT: Creature Colors & Highlights 3/3 (3)
 
+### Swamp Wignow (Exp: SwampL, SacredS)
+
+- **Requirements:** 500 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 50
+- **Drops:** 2-4 Leaves, 1-2 Swamp Moss, 0-1 Essence, 0-1 Rope
+- **Quests:** SwampL: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5), No Safe Feet (10)
+
 ### Takori (Oge: DFO*)
 
 - **Unlocked by:** Main Quest 1/Ousting the Outpost
@@ -1691,6 +1892,14 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 1 Shrine Stone, 0-1 Raw Stone, 1 Leaves
 - **Quests:** ShrineDucks: Lining Up Ducks (1), Paint Battle (5)
 
+### Toccal (Exp: Sacred)
+
+- **Requirements:** 800 words
+- **Time allowed:** 90 minutes (1 hour 30 minutes)
+- **XP:** 80
+- **Drops:** 6-8 Raw Stone, 1-2 Swamp Moss, 3-5 Leaves, 1-2 Rope, 1-2 Wood
+- **Quests:** Sacred: Seeding New Beginnings 1/3 (1), Seeding New Beginnings 2/3 (5), Seeding New Beginnings 3/3 (10)
+
 ### Trainee (Oge: Riza)
 
 - **Requirements:** 1000 words, 20 Coins
@@ -1700,6 +1909,14 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Quests:**
   - Riza: Battle Practice (10)
   - HuntS3: Growth Pains (2)
+
+### Tritus (Exp: SwampL)
+
+- **Requirements:** 750 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 75
+- **Drops:** 5-9 Wood, 1-3 Swamp Moss, 1-5 Dust
+- **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5)
 
 ### Tryi Ooze (Exp: Shrine GO)
 
@@ -1746,6 +1963,16 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 130
 - **Drops:** 14 Shrine Stones, 3-6 Raw Fabric, 2-4 Rope, 1-3 Raw Steel, 3-7 Coins
 - **Quests:** ShrineCar: A Carnival Festival (1)
+
+### Vaktra (Exp: SurfaceC)
+
+- **Requirements:** 700 words
+- **Time allowed:** 120 minutes (2 hours)
+- **XP:** 70
+- **Drops:** 1-2 Leather Rolls, 2-3 River Grass, 1-3 Rope
+- **Quests:** 
+  - SurfaceC: Stamina Level Up! (15)
+  - Hunt S3: Growth in Friendship (1)
 
 ### Vanspi (Oge: 3PC)
 
@@ -1852,19 +2079,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 ### Vota (Oge: Riza*; Exp: SurfaceC)
 
 - **Unlocked by:** Riza Main Quest 3/Remedy for a Friend
-
 - **Riza Requirements:** 800 words, 2 Rope, 2 River Grass
-
 - **SurfaceC Requirements:** 800 words
-
 - **Time allowed:** 300 minutes (5 hours)
-
 - **XP:** 80
-
-- **Drops:** 2-3 Rope, 1 Dust, 2 Raw Steel, 1-2 River Water, 1-2 Leather Roll, 2 River Grass
-
+- **Drops:** 1-3 Rope, 1 Dust, 2 Raw Steel, 1-2 River Water, 1-2 Leather Roll, 2 River Grass
 - **Quests:**
-- Riza: Main Quest 4/ Mucky, Murky, Muddy (4), Raina Surface Camp (5)
+  - Riza: Main Quest 4/ Mucky, Murky, Muddy (4), Raina Surface Camp (5)
+  - SurfaceC: Infected Raina Part 1 (5), Infected Raina Part 2 (10), 4 the Infected (15)
+  - Hunt S3: Growth in Friendship (1)
 
 
 ### Water Rudakai (Oge: Balance*)
@@ -1920,6 +2143,14 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - GL: Eat the Leaves? (10)
   - DFO: Familiar Family Friends (5)
 
+### Wisthu (Exp: Hideout)
+
+- **Requirements:** 800 words
+- **Time allowed:** 180 minutes
+- **XP:** 80
+- **Drops:** 1-3 Rope, 1-3 Raw Fabric, 1-4 Raw Steel, 2-6 Dust, 1-4 Glass Shards
+- **Quests:** Hideout: Knocking Down Rebels (1), Uncanny Swamp Wisthu (6),Pushing Back Rebels 1/3 (1), Pushing Back Rebels 2/3 (3), Pushing Back Rebels 3/3 (5)
+
 ### Witch's Memoirs (Exp: Shrine TFA)
 
 - **Unlocked by:** Wardrobe: Terror From Above Shrine Bracelet
@@ -1948,10 +2179,12 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 
 - **XP:** 120
 
-- **Drops:** 1-2 Dust, 2-4 River Water, 0-1 Hardwood, 2-3 Leather Roll, 2-5 River Grass, 1-3 River Stone
+- **Drops:** 0-2 Dust, 2-4 River Water, 0-1 Hardwood, 2-3 Leather Roll, 2-5 River Grass, 1-3 River Stone
 
 - **Quests:**
-- Riza: Main Quest 5/ This Might Sting (1)
+  - Riza: Main Quest 5/ This Might Sting (1)
+  - SurfaceC: Infected Raina Part 3 (10)
+  - HuntS3: Growing Your Valor 4/4 (1)
 
 
 ### Xin (EVERYWHERE)
@@ -1998,10 +2231,12 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 
 - **XP:** 50
 
-- **Drops:** 1 Rope, 1-2 River Water, 1 Leather Roll, 1 River Grass, 1 River Stone
+- **Drops:** 1 Rope, 1-2 River Water, 0-1 Leather Roll, 1 River Grass, 1 River Stone
 
 - **Quests:**
-- Riza: Main Quest 4/ Mucky, Murky, Muddy (6), Raina Surface Camp (10)
+  - Riza: Main Quest 4/ Mucky, Murky, Muddy (6), Raina Surface Camp (10)
+  - SurfaceC: Infected Raina Part 2 (10), 4 the Infected (15)
+  - Hunt S3: Growth in Friendship (1)
 
 
 ### Yantao (Exp: Ruins)

@@ -1,4 +1,4 @@
-LAST UPDATED 19 JUN 2020
+LAST UPDATED 9 SEPT 2020
 
 I'm doing something a little fancier here. In the title for each weapon. I'm going to summarize its properties with (Attack, Defense, Luck) and =Total. So Suwö the Companion is (3,7,2) =12. Don't worry, I'm keeping the long form in the Equip line, just wanted to provide a quick browse option. For more serious number crunching, try my Google Sheet here: https://docs.google.com/spreadsheets/d/1GokSi8qYqVszBipQi6&#95;Hgs7UZ04UkHyQYRj5a8HTISA/edit?usp=sharing
 
@@ -28,7 +28,18 @@ Anyway, hopefully this will give you a quick feel for how to max any given stat 
 
 ## Weapon 1
 
-### Ω† Dark Forest Sword: (15,0,2) =17
+### Ω«» Raina Sword: (11,0,8) =19
+
+WATER
+
+ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surface Camp
+
+- **Source:** Buy
+- **Sell price:** 500 Coins (don't sell, too expensive)
+- **Used for:** equipping
+- **Equip:** Weapon1: +11 Attack, +0 Defense, +8 Luck
+
+### † Dark Forest Sword: (15,0,2) =17
 
 DUST
 
@@ -379,6 +390,17 @@ some DESERT, WATER
 - **Equip:** Feet: +0 Attack, +9 Defense, +0 Luck
 
 ## Accessory
+
+### Ω«» Raina Bracelet (0,0,15) =15
+
+WATER
+
+ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surface Camp
+
+- **Source:** Buy
+- **Sell price:** 500 Coins (don't sell, too expensive)
+- **Used for:** equipping
+- **Equip:** Accessory: +0 Attack, +0 Defense, +15 Luck
 
 ### Dark Forest Amulet (0,0,10) = 10
 
