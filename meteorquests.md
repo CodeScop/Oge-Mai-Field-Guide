@@ -1,4 +1,4 @@
-LAST UPDATED 30 AUG 2020
+LAST UPDATED 7 SEPT 2020
 
 # IMPACT CRATER QUESTS
 
@@ -342,6 +342,44 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Rewards:** Wardrobe: Drill Bracelet https://4thewords.com/media/wardrobe/featured/female/wf&#95;1092-drill-bracelet-7908-26970.png
 - **Recommendations:** This is A Lot for a relatively small reward.  The items range from Luciola Forest (Reenu Wings) to Dark Forest Outpost (Bones) with a sidestep into Desert Expedition (Kapir Tuft). So it's mostly a matter of pride to deliver, and a use for items you might happen to accumulate as you close out the main quest sequence. (At least the Drill Bracelet comes in Left, Right, and Both Wrists?)
 
+### Projecting Light
+
+NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Large Experiment
+- **Type:** Battle
+- **Requirements:** Defeat 10 each:
+  - Wignow Hologram/V0.44
+  - Suulan Hologram/V0.44
+  - Sassi Hologram/V0.44
+  - Lombri Hologram/V0.44
+  - Maesc Hologram/V0.44
+  - Lubu Hologram/V0.44
+  - Xin Hologram/V0.44
+  - Arenica Hologram/V0.44
+  - Tambo Hologram/V0.44
+  - Nuig Hologram/V0.44
+  - Kiru Hologram/V0.44
+  - Zanthei Hologram/V0.44
+- **Rewards:** Wardrobe: Monster Hologram Pet https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7226-90927.png (available in 12 varieties, 1 for each hologram)
+- **Recommendations:** PICK THIS UP. SO CUTE.
+
+### Life's an Experiment
+
+NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
+
+- **Location:** Research Lab
+- **Unlocked by:** Phase: Preparing For Large Experiment
+- **Type:** Battle
+- **Requirements:** Defeat 3 each:
+  - Sulanica
+  - Mowow
+  - Xomri
+  - Sabu
+- **Rewards:** Wardrobe: Toothless Smile https://4thewords.com/media/wardrobe/featured/male/wm&#95;969-toothless-smile-7039-23134.png
+- **Recommendations:** No hurries, but... why not? This is a fun one. Note that it's UTTERLY IMPOSSIBLE until you've completed the Biodome sequence starting with Set Creatures Free! (1/4) and then quests to unlock each of the individual monsters involved (so 8 quests total).
+
 ### Set Creatures Free! (1/4)
 
 - **Location:** Research Lab
@@ -390,40 +428,47 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Rewards:** 5 Stempos
 - **Recommendations:** That is a long shopping list. I hope you can find Dinti without my labeling it (you're IN the Alien Meteoroid Expedition after all), and many of the items are very common, but I've added locations to find the more obscure resources.
 
-### Projecting Light
-
-NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
+### Making Mellow Mowow
 
 - **Location:** Research Lab
-- **Unlocked by:** Phase: Large Experiment
-- **Type:** Battle
-- **Requirements:** Defeat 10 each:
-  - Wignow Hologram/V0.44
-  - Suulan Hologram/V0.44
-  - Sassi Hologram/V0.44
-  - Lombri Hologram/V0.44
-  - Maesc Hologram/V0.44
-  - Lubu Hologram/V0.44
-  - Xin Hologram/V0.44
-  - Arenica Hologram/V0.44
-  - Tambo Hologram/V0.44
-  - Nuig Hologram/V0.44
-  - Kiru Hologram/V0.44
-  - Zanthei Hologram/V0.44
-- **Rewards:** Wardrobe: Monster Hologram Pet https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7226-90927.png (available in 12 varieties, 1 for each hologram)
-- **Recommendations:** PICK THIS UP. SO CUTE.
+- **Unlocked by:** RL Quest Encourage an Ecosystem 4/4
+- **Type:** Collection
+- **Requirements:** Deliver 15 Dinti, 15 Leaves, 5 Stone Blocks, and 3 Essence
+- **Rewards:** 1 Stempo, unlock Mowow
+- **Recommendations:** There are a lot of quests here that need no extra recommendations, so here's a boilerplate to say this is one of them. :)
 
-### Life's an Experiment
-
-NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
+### Sagacious Sincere Sabu
 
 - **Location:** Research Lab
-- **Unlocked by:** Phase: Preparing For Large Experiment
-- **Type:** Battle
-- **Requirements:** Defeat 3 each:
-  - Sulanica
-  - Mowow
-  - Xomri
-  - Sabu
-- **Rewards:** Wardrobe: Toothless Smile https://4thewords.com/media/wardrobe/featured/male/wm&#95;969-toothless-smile-7039-23134.png
-- **Recommendations:** No hurries, but... why not? This is a fun one. Note that it's UTTERLY IMPOSSIBLE until you've completed the Biodome sequence starting with Set Creatures Free! (1/4)
+- **Unlocked by:** RL Quest Encourage an Ecosystem 4/4
+- **Type:** Collection
+- **Requirements:** Deliver 10 Fine Fabric, 5 Fur, and 10 Hunter Tokens
+- **Rewards:** 1 Stempo, unlock Sabu
+- **Recommendations:** I suspect you already have these on you, unless you've been doing something really intensive lately. And you certainly know places to find these resources by now. Good hunting!
+
+### Silkly Sleek Sulanica
+
+- **Location:** Research Lab
+- **Unlocked by:** RL Quest Encourage an Ecosystem 4/4
+- **Type:** Collection
+- **Requirements:** Deliver 3 White Fur, 3 Sacred Feather, 5 Raw Fabric, and 10 Glass Shards
+- **Rewards:** 1 Stempo, unlock Sulanica
+- **Recommendations:** The process of gathering 3 White Fur and 3 Sacred Feathers should remind you how useful it could be to have a monster that consistently drops both for only a thousand words. Invaluable for Stempo production, once you've unlocked the ability to craft Stempos.
+
+### Zappy Zazzy Xombri
+
+- **Location:** Research Lab
+- **Unlocked by:** RL Quest Encourage an Ecosystem 4/4
+- **Type:** Collection
+- **Requirements:** Deliver 25 Dust, 15 Rope, 10 Desert Stones, and 3 Fur
+- **Rewards:** 1 Stempo, unlock Xombri
+- **Recommendations:** There are a lot of quests here that need no extra recommendations, so here's a boilerplate to say this is one of them. :)
+
+### Zooty Zanutaki Zings
+
+- **Location:** Research Lab
+- **Unlocked by:** RL Quest Encourage an Ecosystem 4/4
+- **Type:** Collection
+- **Requirements:** Deliver 15 Glass Shards, 10 Nuig String, 10 Dried Pulp, and 2 Tambo Mane
+- **Rewards:** 1 Stempo, unlock Zanutaki
+- **Recommendations:** Welp, you're up against Dried Pulp in this, which means you'll need to have unlocked Dark Forest Outpost to complete this. And honestly it makes sense that you need something from the Dust-haunted Dark Forest to unlock this nightmare of a creature. And so far, Zanutaki are not required for any quests. And Nuig String isn't cheap, unless you've been battling a lot in Balance for other reasons. This... is not something I'd prioritize.

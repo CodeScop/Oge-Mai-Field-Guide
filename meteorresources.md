@@ -35,6 +35,12 @@ Abbreviations:
 - **Sell price:** 12 Coins (don't sell unless you have >150)
 - **Used for:** outside game, RLab Quest: Testing the Valley (10)
 
+### Desert Stone
+
+- **Sources:** outside game
+- **Sell price:** 25 Coins (don't sell unless you have >200, ideally >500)
+- **Used for:** outside game, RLab Quest: Zappy Zazzy Xombri (10)
+
 ### Dinti
 
 - **Best sources:** 
@@ -42,8 +48,14 @@ Abbreviations:
 - **Sell price:** 5 Coins (don't sell till event is over)
 - **Used for:** 
   - MSite Quest: Recovering Stolen Goods (50)
-  - RLab Quest: Encourage an Ecosystem 4/4 (5)
+  - RLab Quest: Encourage an Ecosystem 4/4 (5), Making Mellow Mowow (15)
   - Wardrobe purchases at Mining Site
+
+### Dried Pulp
+
+- **Sources:** outside game, specifically Dark Forest Outpost
+- **Sell price:** 8 Coins (don't sell unless you have >400)
+- **Used for:** outside game, RLab Quest: Zooty Zanutaki Zings (10)
 
 ### Dust
 
@@ -52,14 +64,21 @@ Abbreviations:
 - **Other sources:** DUST
 - **Buy:** FOREST, DESERT
 - **Sell price:** 2 Coins (don't sell unless you have >1000)
-- **Used for:** FOREST, DESERT, WATER, DUST
+- **Used for:** outside game, RLab Quest: Zappy Zazzy Xombri
+
+### Essence
+
+- **Sources:** outside game
+- **Buy:** FOREST: MT Item Shop/Edrie's Market: 32 Coins
+- **Sell price:** 8 Coins (don't sell unless you have >500)
+- **Used for:** outside game, RLab Quest: Making Mellow Mowow (3)
 
 ### Fine Fabric
 
-- **Sources:** DESERT, WATER
+- **Sources:** outside game,
 - **Craft:** DESERT
 - **Sell price:** 75 Coins (don't sell unless you have >50)
-- **Used for:** DESERT
+- **Used for:** outside game, RLab Quest: Sagacious Sincere Sabu (10)
 
 ### Feathers
 
@@ -88,7 +107,8 @@ FOREST, some DESERT, some WATER
   - Anywhere Battle: Awa (200 words for 1-2)
 - **Buy:** FOREST
 - **Sell price:** 2 Coins (don't sell unless you have >500)
-- **Used for:** FOREST
+- **Used for:** outside game,
+  - RLab Quests: Sagacious Sincere Sabu (5), Zappy Zazzy Xombri (3)
 
 ### Glass
 
@@ -108,13 +128,20 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 - **Sources:** DESERT, WATER, DUST,
 - **Buy:** DESERT
 - **Sell price:** 12 Coins (make sure you have >100 Glass Shards in stock first, and try to make Glass Bars to sell instead if possible for max profit)
-- **Used for:** DESERT, WATER
+- **Used for:** outside game,
+  - RLab Quests: Silkly Sleek Sulanica (10), Zooty Zanutaki Zings (15)
 
 ### Hardwood
 
 - **Sources:** WATER, DUST,
 - **Sell price:** 100 Coins (don't sell unless you have >200)
 - **Used for:** DESERT, WATER, DUST
+
+### Hunter Tokens
+
+- **Sources:** outside game,
+- **Sell price:** 100 Coins (don't sell unless you have >200)
+- **Used for:** outside game, RLab Quest: Sagacious Sincere Sabu (10)
 
 ### Kapir Tuft
 
@@ -128,7 +155,8 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
   - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2), Vi (5 minutes for 1-4)
 - **Buy:** 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
-- **Used for:** outside game, RLab Quest: Encourage an Ecosystem 4/4 (30)
+- **Used for:** outside game, 
+  - RLab Quests: Encourage an Ecosystem 4/4 (30), Making Mellow Mowow (15)
 
 ### Lorsa Fur
 
@@ -140,7 +168,8 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 
 - **Sources:** Floating City of Balance
 - **Sell price:** 10 Coins (Can sell if you have >40)
-- **Used for:** outside game, RLab Quest: Testing the Valley (3)
+- **Used for:** outside game, 
+  - RLab Quests: Testing the Valley (3), Zooty Zanutaki Zings (10)
 
 ### Piece of Parchment
 
@@ -155,7 +184,8 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 - **Other sources:** FOREST, DUST
 - **Buy:** DESERT
 - **Sell price:** 8 Coins  (don't sell unless you have >200; if you also have Red Dye and Essence, craft Fine Fabric for a better sell option)
-- **Used for:** outside game, RLab Quest: Encourage an Ecosystem 4/4 (15)
+- **Used for:** outside game, 
+  - RLab Quests: Encourage an Ecosystem 4/4 (15), Silkly Sleek Sulanica (5)
 
 ### Raw Gold
 
@@ -226,13 +256,13 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
 - **Used for:** outside game,
   - SpaceS Quest: Technology & Dinti (20)
-  - RLab Quest: Encourage an Ecosystem 4/4 (10)
+  - RLab Quests: Encourage an Ecosystem 4/4 (10), Zappy Zazzy Xombri (15)
 
 ### Sacred Feather
 
 - **Source:** outside game,
 - **Sell price:** 25 Coins (don't sell, too valuable)
-- **Used for:** outside game
+- **Used for:** outside game, RLab Quest: Silkly Sleek Sulanica (3)
 
 ### Saliva Vial
 
@@ -266,7 +296,7 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
   - IC Quest: Loving Rocky Roads (2), Stabbing Dinti Spikes (3)
   - SpaceS Quest: Tracking Shooting Stars (3)
   - MSite Quest: Drilling Too Deep (3)
-  - RLab Quest: Set Creatures Free! 1/4 (5), Build a Biodome 3/4 (5), Encourage an Ecosystem 4/4 (5)
+  - RLab Quests: Set Creatures Free! 1/4 (5), Build a Biodome 3/4 (5), Encourage an Ecosystem 4/4 (5), Making Mellow Mowow (1), Sagacious Sincere Sabu (1), Silkly Sleek Sulanica (1), Zappy Zazzy Xombri (1), Zooty Zanutaki Zings (1)
 - **Craft:** DESERT
 - **Sell Price:** Priceless. Sorry, 250 Coins, but DON'T SELL.
 - **Used for:** FOREST, DESERT
@@ -285,7 +315,13 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 - **Sell price:** 8 Coins (don't sell, not worth it)
 - **Used for:** FOREST, DESERT, DUST,
   - SpaceS Quest: Technology & Dinti (5), Orders to Repair (5), Aid the Aliens (10)
-  - RLab Quest: Build a Biodome 3/4 (15)
+  - RLab Quest: Build a Biodome 3/4 (15), Making Mellow Mowow (5)
+
+### Tambo Mane
+
+- **Sources:** outside game
+- **Sell price:** 8 Coins (Don't sell unless you have >30)
+- **Used for:** outside game, RLab Quest: Zooty Zanutaki Zings (2)
 
 ### Vezi Shell
 
@@ -298,7 +334,7 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 
 - **Source:** outside game,
 - **Sell price:** 30 Coins (don't sell, too valuable)
-- **Used for:** outside game
+- **Used for:** outside game, RLab Quest: Silkly Sleek Sulanica (3)
 
 ### Wood
 

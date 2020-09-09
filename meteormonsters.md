@@ -1,4 +1,4 @@
-LAST UPDATED 30 AUG 2020
+LAST UPDATED 7 SEPT 2020
 
 # Impact Crater
 
@@ -276,7 +276,6 @@ LAST UPDATED 30 AUG 2020
 
 ### Dr. Hogglevoss
 
-- **Location:** Research Lab
 - **Requirements:** 1200 words
 - **Time allowed:** 770 minutes (12 hours, 50 minutes)
 - **XP:** 120
@@ -287,7 +286,6 @@ LAST UPDATED 30 AUG 2020
 
 ### Ferenti
 
-- **Location:** Research Lab
 - **Requirements:** 750 words
 - **Time allowed:** 300 minutes (5 hours)
 - **XP:** 75
@@ -304,7 +302,6 @@ LAST UPDATED 30 AUG 2020
 
 ### Gwynos
 
-- **Location:** Research Lab
 - **Requirements:** 450 words
 - **Time allowed:** 60 minutes (1 hours)
 - **XP:** 45
@@ -352,6 +349,15 @@ LAST UPDATED 30 AUG 2020
 - **Drops:** 2-5 Glass Shards, 2-4 Raw Fabric, 1-4 Dust, 2-4 Dinti
 - **Quests:** SpaceS: Sparks to Ignite 3/3 (10)
 
+### * Mowow
+
+- **Unlocked by:** RLab Quest: Making Mellow Mowow
+- **Requirements:** 450 words
+- **Time allowed:** 45 minutes
+- **XP:** 45
+- **Drops:** 1-2 Dinti, 1-4 Raw Stone, 1-3 Leaves
+- **Quests:** RLab: Life's An Experiment (3)
+
 ### Nuig Hologram
 
 - **Requirements:** 100 words
@@ -360,6 +366,15 @@ LAST UPDATED 30 AUG 2020
 - **Drops:** 1 Raw Steel
 - **Quests:** RLab: Projecting Light (10)
 
+### * Sabu
+
+- **Unlocked by:** RLab Quest: Sagacious Sincere Sabu
+- **Requirements:** 500 words
+- **Time allowed:** 30 minutes
+- **XP:** 50
+- **Drops:** 1-3 Raw Fabric, 1 Rope, 1 Wood, 0-1 Raw Steel
+- **Quests:** RLab: Life's An Experiment (3)
+
 ### Sassi Hologram
 
 - **Requirements:** 100 words
@@ -367,6 +382,15 @@ LAST UPDATED 30 AUG 2020
 - **XP:** 10
 - **Drops:** 1 Raw Steel
 - **Quests:** RLab: Projecting Light (10)
+
+### * Sulanica
+
+- **Unlocked by:** RLab Quest: Silkly Sleek Sulanica
+- **Requirements:** 1000 words
+- **Time allowed:** 240 minutes (4 hours)
+- **XP:** 100
+- **Drops:** 0-1 White Fur, 0-1 Sacred Feathers, 1 Raw Gold, 2-3 Raw Fabric, 1-3 Glass Shards, 1-2 Fine Fabric
+- **Quests:** RLab: Life's An Experiment (3)
 
 ### Suulan Hologram
 
@@ -408,6 +432,15 @@ LAST UPDATED 30 AUG 2020
 - **Drops:** 1 Raw Steel
 - **Quests:** RLab: Projecting Light (10)
 
+### * Xomri
+
+- **Unlocked by:** RLab Quest: Zappy Zazzy Xombri
+- **Requirements:** 300 words
+- **Time allowed:** 30 minutes
+- **XP:** 30
+- **Drops:** 1 Raw Fabric, 1-2 Leaves, 1 Raw Stone, 1 Wood
+- **Quests:** RLab: Life's An Experiment (3)
+
 ### Zanthei Hologram
 
 - **Requirements:** 100 words
@@ -416,49 +449,19 @@ LAST UPDATED 30 AUG 2020
 - **Drops:** 1 Raw Steel
 - **Quests:** RLab: Projecting Light (10)
 
+### * Zanutaki
+
+- **Unlocked by:** RLab Quest: Zooty Zanutaki Zings
+- **Requirements:** 500 words
+- **Time allowed:** 45 minutes
+- **XP:** 50
+- **Drops:** 1-2 Fur, 1 Glass Shard, 1-3 Dust, 1-2 Wood
+- **Quests:** none so far
+
 ### Zoomga!
 
-- **Location:** Research Lab
 - **Requirements:** 300 words
 - **Time allowed:** 30 minutes
 - **XP:** 30
 - **Drops:** 2-5 Raw Steel, 2-4 Glass Shards
-- **Quests:** none yet 
-
-# 2020 Monsters Presumed Yet To Come
-
-### Mowow
-
-- **Location:** Research Lab
-- **Requirements:** 450 words
-- **Time allowed:** 45 minutes
-- **XP:** 45
-- **Drops:** 4 1-2 Dinti, 1-4 Raw Stone, 1-3 Leaves
-- **Quests:** none yet 
-
-### Sabu
-
-- **Location:** Research Lab
-- **Requirements:** 500 words
-- **Time allowed:** 30 minutes
-- **XP:** 50
-- **Drops:** 1-2 Raw Fabric, 1 Rope, 1 Wood, 0-1 Raw Steel
-- **Quests:** none yet 
-
-### Sulanica
-
-- **Location:** Research Lab
-- **Requirements:** 1000 words
-- **Time allowed:** 240 minutes (4 hours)
-- **XP:** 100
-- **Drops:** 0-1 White Fur, 0-1 Sacred Feathers, 1 Raw Gold, 2-3 Raw Fabric, 1-3 Glass Shards, 1-2 Fine Fabric
-- **Quests:** none yet 
-
-### Xomri
-
-- **Location:** Research Lab
-- **Requirements:** 300 words
-- **Time allowed:** 30 minutes
-- **XP:** 30
-- **Drops:** 1 Raw Fabric, 1-2 Leaves, 1 Raw Stone, 1 Wood
-- **Quests:** none yet 
+- **Quests:** none yet

@@ -1,4 +1,4 @@
-LAST UPDATED 30 AUG 2020
+LAST UPDATED 7 SEPT 2020
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
@@ -297,13 +297,18 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
   - MS Drilling Too Deep - defeat 3 Arren & 2 Deepo, get 3 Stempos & Wardrobe: Miner Hat
 - **SpaceS Orders to Repair** - defeat 3 Szalin, deliver 5 Steel Bars & 5 Stone Blocks to unlock Research Lab
   - (Research Lab)
-  - RL Testing the Valley - collect a ton of stuff from ALL OVER & fight Dr Enoe 3 times to get Wardrobe: Drill Bracelet
-  - RL Projecting Light - fight 10 each of the holograms, get them as a pet with Wardrobe: Monster Hologram Pet
-  - RL Life's an Experiment - fight 3 each of the monster hybrids (must continue this quest chain to unlock their area), get Wardrobe: Toothless Smile
-- **RL Set Creatures Free! (1/4)** - Defeat 1 Captain Piak, 1 Dr. Enoe, 1 Dr. Hogglevoss, and 1 Rosarin, get 5 Stempos
-- **RL Create a Clearing (2/4)** - Defeat 7 Kolbs, 7 Oxie, 7 Erbor, and 4 Teraleo, get Wardrobe: Rock Hair Earring
-- **RL Build a Biodome (3/4)** - 3-day Streak, and deliver 15 Steel Bars, 15 Glass Bars, and 15 Stone Blocks, get 5 Stempos
-- **RL Encourage an Ecosystem (4/4)** - collect a ton of stuff from all over the game & maintain 15-day Streak, get ??? (Rewards not listed; presumably Biodome)
+  - RLab Testing the Valley - collect a ton of stuff from ALL OVER & fight Dr Enoe 3 times to get Wardrobe: Drill Bracelet
+  - RLab Projecting Light - fight 10 each of the holograms, get them as a pet with Wardrobe: Monster Hologram Pet
+  - RLab Life's an Experiment - fight 3 each of the monster hybrids (must continue this quest chain to unlock their area), get Wardrobe: Toothless Smile
+- **RLab Set Creatures Free! (1/4)** - Defeat 1 Captain Piak, 1 Dr. Enoe, 1 Dr. Hogglevoss, and 1 Rosarin, get 5 Stempos
+- **RLab Create a Clearing (2/4)** - Defeat 7 Kolbs, 7 Oxie, 7 Erbor, and 4 Teraleo, get Wardrobe: Rock Hair Earring
+- **RLab Build a Biodome (3/4)** - 3-day Streak, and deliver 15 Steel Bars, 15 Glass Bars, and 15 Stone Blocks, get 5 Stempos
+- **RLab Encourage an Ecosystem (4/4)** - collect a ton of stuff from all over the game & maintain 15-day Streak, get ??? (Rewards not listed; presumably the quests unlocked are the reward)
+  - RLab Making Mellow Mowow - collect a bunch of stuff, get 1 Stempo & unlock Mowow
+  - RLab Sagacious Sincere Sabu - collect a bunch of stuff, get 1 Stempo & unlock Sabu
+  - RLab Silkly Sleek Sulanica - collect a bunch of stuff, get 1 Stempo & unlock Sulanica
+  - RLab Zappy Zazzy Xombri - collect a bunch of stuff, get 1 Stempo & unlock Xombri
+  - RLab Zooty Zanutaki Zings - collect a bunch of stuff (including some Dark Forest Outpost stuff), get 1 Stempo & unlock Zanutaki
 
 ## Questline - Desert Expedition
 

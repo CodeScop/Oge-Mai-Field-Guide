@@ -1,4 +1,4 @@
- (Table of Contents last updated 4 Aug 2020)
+ (Table of Contents last updated 9 Sept 2020)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -35,6 +35,12 @@
   - List of Available Quests: Post Mama Tree
 - Expedition Forest Region: Base Camp, Forward Base, Stone City, Tall Trees, Guardian's Lair
   - Base Camp/Forest Expedition Intro
+  - Quests: Forest Expedition
+    - Base Camp Sidequests
+    - Forward Base Sidequests
+    - Stone City Sidequests
+    - Tall Trees Sidequests
+    - Guardian's Lair Sidequests
   - Monsters: Forest Expedition
     - Everywhere Monsters
     - Base Camp Monsters
@@ -42,12 +48,6 @@
     - Stone City Monsters
     - Tall Trees Monsters
     - Guardian's Lair Monsters
-  - Quests: Forest Expedition
-    - Base Camp Sidequests
-    - Forward Base Sidequests
-    - Stone City Sidequests
-    - Tall Trees Sidequests
-    - Guardian's Lair Sidequests
   - Resources: Forest Expedition
   - List of Available Quests: Forest Expedition
 - Hunt: Season 1 - Hope (FOREST)
@@ -188,11 +188,21 @@
   - Resources: Riza
   - Battle Gear: Riza
   - List of Available Quests: Post Riza Rivertown
-- Expedition Water Region: Raina Surface Camp
-  - Under Construction Notice
-  - Monsters: Water Expedition
-  - Quests: Water Expedition
-  - Resources: Water Expedition
+- Expedition Raina: Raina Surface Camp, Swamplands, Raina Sacred Site, Rebel Raina Hideout
+  - Raina Expedition Intro
+  - Quests: Raina Expedition
+    - Surface Camp Quests
+    - Swamplands Quests
+    - Sacred Site Quests
+    - Rebel Raina Hideout Quests
+  - Monsters: Raina Expedition
+    - Everywhere Monsters
+    - Surface Camp Monsters
+    - Swamplands Monsters
+    - Sacred Site Monsters
+    - Rebel Raina Hideout Monsters
+  - Resources: Raina Expedition
+  - List of Available Quests: Raina Expedition
 - Floating City of Balance Open
   - Balance Intro
   - Balance Open: Sidequests

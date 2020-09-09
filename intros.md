@@ -125,7 +125,7 @@ Ready for the kitchen sink? Here goes!
 
 # Riza Rivertown
 
-LAST UPDATED 3 APR 2020
+LAST UPDATED 9 SEPT 2020
 
 Welcome to the Water Region! Welcome to the world of insanely complex, time-consuming sidequests (and you thought Sands of Time was intense!), strange, exotic creatures, and a totally different feel. Also, the occasional spectacularly cool prize.
 
@@ -137,23 +137,11 @@ As you work your way through Riza, remember a few things:
 
 Good luck, and bon voyage!
 
-**Disclaimer, April 2020:** Raina Surface Camp existed prior to this event; by popular demand, **the Town and Quests from the old Raina have been made available in Riza** to anyone who completes the Raina-unlocking sidequest.
+# Raina Expedition
 
-**The Guide will not be tracking this at present.**
+LAST UPDATED 9 SEPT 2020
 
-I'm waiting until the Water Expedition wraps up to assess/include its impact on the permanent parts of the game. However, I have all the old Raina info in the Oge-Mai Historical Survey, and you can click over to check that out if you wish:
-
-https://4thewords.com/read-oge-mai-historical-survey-by-kirala
-
-# Water Expedition
-
-LAST UPDATED 20 AUG 2020
-
-Well, that just happened!
-
-We've got a bunch of new areas and quests here, and it will take me a while to integrate them.
-
-So for now, I'm slapping together all my notes from old Raina and the Raina River Festival and removing the things that obviously don't apply anymore, and I'll update this intro when I've actually got current information.
+Welcome to the Raina area, y'all! (I'm going Southern with the swamp theme. Or because I like to use "y'all".) This is the most linear Expedition yet, with exactly one path from start to finish, but it's also one of the richest and most rewarding areas. Also one of the most complex. There are long, involved quests well worth the effort (I love the fact that the Infected Raina questline unlocks the ability to craft my fave weapons in the game), and there are long, involved quests not worth a T-shirt saying "all I got was this lousy T-shirt". But please do feel free to explore. 
 
 # Floating City of Balance
 

@@ -1,4 +1,4 @@
-LAST UPDATED 1 SEPT 2020
+LAST UPDATED 9 SEPT 2020
 
 AREA ABBREVIATIONS:
 
@@ -12,27 +12,28 @@ AREA ABBREVIATIONS:
 
 - **Best sources:** outside game,
   - Anywhere Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
-  - Swamp Quest: No Safe Feet (50)
+  - SwampL Quest: No Safe Feet (50)
   - Hideout Quest: Catching Glints of Sunrise (100)
 - **Other sources:** 
   - sell items (River Grass and Gold Bars can be especially good for this; Raw Fabric can also be useful. Protective Mantles & Cloaks may also be sold.)
 - **Buy:** MT Item Shop/Edrie's Market: 1 Core Crystal for 100 Coins or 5 Core Crystals for 500 Coins
-- **Used for:** Buy misc items; FOREST, DESERT, WATER
+- **Used for:** Buy misc items; outside game
 
 ### Dust
 
-- **Sources:** FOREST, DESERT, WATER
+- **Sources:** outside game,
   - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2)
   - SurfaceC Battles: Wyvern (1300 words for 0-2), Vota (800 words for 1)
+  - SwampL Battles: Heliodae (120 words for 1-2), Tritus (750 words for 1-5), Copei (800 words for 2-4), Larida (1000 words for 2-5)
+  - Hideout Battles: Kivi (100 words for 1), Wisthu (800 words for 2-6)
 - **Buy:** FOREST, DESERT
 - **Sell price:** 2 Coins (don't sell unless you have >1000)
 - **Used for:** outside game
 
 ### Dust Water
 
-- **Best sources:**
+- **Sources:**
   - Raina Quests: Infected Raina Part 1 (1), Infected Raina Part 2 (2), Infected Raina Part 3 (3), Steel Boots (1)
-- **Other sources:** none
 - **Sell price:** can't sell
 - **Used for:** nothing
 
@@ -40,16 +41,35 @@ AREA ABBREVIATIONS:
 
 - **Sources:** outside game,
   - Anywhere Battles: Viyusa (25 minutes for 1-4)
+  - Swamplands, SacredS Battles: Swamp Wignow (500 words for 0-1)
 - **Buy:** FOREST: MT Item Shop/Edrie's Market: 32 Coins
 - **Sell price:** 8 Coins (don't sell unless you have >500)
+- **Used for:** outside game
+
+### Feathers
+
+- **Sources:** outside game,
+  - SwampL Battle: Rhamp (250 words for 0-1)
+- **Buy:** FOREST: 32 Coins in LF Item Shop/Alex's Shop
+- **Sell price:** 8 Coins (Don't sell unless you have > 30)
 - **Used for:** outside game
 
 ### Fur
 
 - **Sources:** outside game,
   - Anywhere Battle: Awa (200 words for 1-2)
+  - SwampL Battle: Quishi (350 words for 1-2)
+  - Hideout Battles: Necog (450 words for 2-4)
 - **Buy:** FOREST: 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (Don't sell, not worth it)
+- **Used for:** outside game
+
+### Glass Shards
+
+- **Sources:** outside game, 
+  - Hideout Battles: Wisthu (800 words for 1-4)
+- **Buy:** DESERT: 75 Coins at 3PC Blacksmith/Blacksmith Barliar AND Gansu Item Shop/Tepij Locals
+- **Sell price:** 12 Coins (Make Glass Bars out of any Glass Shards you have over 5; it'll be most useful that way)
 - **Used for:** outside game
 
 ### Harpoon
@@ -72,8 +92,10 @@ AREA ABBREVIATIONS:
 
 ### Leather Roll
 
-- **Sources:** WATER
+- **Sources:** outside game,
   - SurfaceC Battle: Knusha (1200 words for 3), Wyvern (1300 words for 2-3), Vota (800 words for 1-2), Droxa (1800 words for 4-5), Vaktra (700 words for 1-2), Yala (520 words for 0-1)
+  - SacredS Battles: Pedja (1000 words for 2-3)
+  - Hideout Battles: Cafodu (600 words for 1-2), Grongu (2000 words for 3-5)
 - **Sell price:** 60 Coins (probably best to keep 200 in stock, otherwise great source of Coins)
 - **Used for:** outside game
 
@@ -82,6 +104,8 @@ AREA ABBREVIATIONS:
 - **Sources:** ANYWHERE
   - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2), Vi (5 minutes for 1-4)
   - SurfaceC Battles: Olea (100 words for 1)
+  - SwampL Battles: Swamp Wignow (500 words for 2-4), Rhamp (250 words for 1-2), Quishi (350 words for 1)
+  - SacredS Battles: Kuldoro (100 words for 0-1), Bashta (400 words for 2-4), Swamp Wignow (500 words for 2-4), Minko (600 words for 2-4), Toccal (800 words for 3-5)
 - **Buy:** 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
 - **Used for:** outside game,
@@ -121,6 +145,7 @@ ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surfa
 - **Best sources:** DESERT, WATER,
   - Anywhere Battles: Xin (100 words for 0-1)
   - SurfaceC Battles: Rea & Pira (150 words for 1), Begala (300 words for 1)
+  - Hideout Battles: Wisthu (800 words for 1-3)
 - **Other sources:** FOREST, DUST
 - **Buy:** DESERT
 - **Sell price:** 8 Coins  (don't sell unless you have >200; if you also have Red Dye and Essence, craft Fine Fabric for a better sell option)
@@ -128,9 +153,8 @@ ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surfa
 
 ### Raw Gold
 
-- **Best sources:** DESERT, WATER
-  - 
-- **Other sources:** FOREST
+- **Sources:** outside game,
+  - SacredS Battles: Kuldoro (100 words for 0-1)
 - **Buy:** DESERT
 - **Sell price:** 12 Coins (please don't sell this, you'll make so much more if you craft it into Gold Bars.)
 - **Used for:** outside game
@@ -139,22 +163,35 @@ ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surfa
 
 - **Sources:** outside game,
   - SurfaceC Battles: Droxa (1800 words for 3-5), Vota (800 words for 2), Knusha (1200 words for 0-2)
+  - Hideout Battles: Wisthu (800 words for 1-4), Grongu (2000 words for 2-5)
 - **Buy:** DESERT
 - **Sell price:** 8 Coins (DO NOT SELL. You will need this to craft SO MANY STEEL BARS.)
 - **Used for:** outside game
 
 ### Raw Stone
 
-- **Sources:** DESERT,
+- **Sources:** outside game,
   - Anywhere Battles: Xin (100 words for 0-1)
   - SurfaceC Battles: Auwi (500 words for 1-2), Knusha (1200 words for 1-2)
+  - SwampL Battles: Copei (800 words for 1-3)
+  - SacredS Battles: Toccal (800 words for 6-8), Bashta (400 words for 3-6), Minko (600 words for 4-7), Kuldoro (100 words for 0-1)
+  - Hideout Battles: Drau (1000 words for 2-5)
 - **Buy:** DESERT: 35 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 8 Coins (don't sell unless you have >100)
+- **Used for:** outside game
+
+### Red Dye
+
+- **Sources:** outside game,
+  - Hideout Battles: Grongu (2000 words for 1)
+- **Buy:** DESERT: 45 Coins in Gansu Item Shop/Tepij Locals; 65 Coins in 3PC Item Bazaar/Zilya's Great Bazaar 
+- **Sell price:** 15 Coins (don't sell unless you have >100; will usually be better to use to craft Fine Fabric and sell for more)
 - **Used for:** outside game
 
 ### Reinforced Rope
 
 - **Sources:** Buy, Craft, outside game,
+  - Hideout Battles: Grongu (2000 words for 1-2)
   - Hideout Quest: Pushing Back Rebels 1/3 (5)
 - **Craft:** Water Shop/Kuyurata's Shop: 10 Rope, 1 Steel Bar
 - **Buy:** 300 Coins in Water Shop/Kuyurata's Shop
@@ -177,6 +214,9 @@ ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surfa
   - SurfaceC Battles: Olea (100 words for 0-1)
 - **Other sources:** FOREST, DESERT, DUST
   - SurfaceC Battles: Vaktra (700 words for 2-3), Wyvern (1300 words for 2-5), Auwi (500 words for 1-2), Begala (300 words for 0-1), Vota (800 words for 2), Droxa (1800 words for 4-5), Knusha (1200 words for 0-3), Yala (520 words for 1)
+  - SwampL Battles: Larida (1000 words for 2-4), Gaiai (1500 words for 3-5)
+  - SacredS Battles: Ognimaf (300 words for 1-2), Pedja (1000 words for 2-3)
+  - Hideout Battles: Cafodu (600 words for 2-4), Necog (450 words for 1), Drau (1000 words for 2-4), Grongu (2000 words for 2-6)
 - **Buy:** WATER
 - **Sell price:** 40 Coins (Don't sell unless you have >200)
 - **Used for:** outside game
@@ -185,6 +225,8 @@ ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surfa
 
 - **Sources:** outside game,
   - SurfaceC Battle: Droxa (1800 words for 0-1)
+  - SwampL Battle: Gaiai (1500 words for 1)
+  - Hideout Battle: Grongu (2000 words for 0-1)
   - Hideout Quest: Pushing Back Rebels 2/3 (1)
 - **Sell price:** 25 Coins (… I'm going to depart from my refrain and say "don't sell unless you have completed all side quests and reserve a key for every River Chest plus an additional 20 for buffer". I keep selling off extra River Keys and I still end up with 50 River Keys and no Chests. Hopefully this changes soon.)
 - **Used for:** outside game
@@ -203,27 +245,34 @@ ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surfa
 - **Sources:** WATER,
   - SurfaceC Battles: Auwi (500 words for 1-2), Yala (520 words for 1-2), Wyvern (1300 words for 2-4), Vota (800 words for 1-2), Droxa (1800 words for 2-3), Knusha (1200 words for 1)
   - SurfaceC Quest: Sans the Bone (3)
+  - SwampL Battles: Gaiai (1500 words for 1-2), Larida (1000 words for 1)
+  - Hideout Battle: Drau (1000 words for 1)
 - **Buy:** Surface: 25 River Stones in Kedanus' Surface Goods
 - **Sell price:** 40 Coins (don't sell unless you have >200)
-- **Used for:** FOREST, WATER, DUST
+- **Used for:** outside game
 
 ### Rope
 
-- **Best sources:** FOREST, DESERT
-  - Anywhere Battles: Awa (200 words for 2)
-- **Other sources:** WATER, DUST
-  - Anywhere Battles: Viyusa (25 minutes for 2-7)
+- **Sources:** outside game,
+
+  - Anywhere Battles: Awa (200 words for 2), Anywhere Battles: Viyusa (25 minutes for 2-7)
+
   - SurfaceC Battles: Vaktra (700 words for 1-3), Vota (800 words for 1-3), Droxa (1800 words for 1-4), Yala (520 words for 1), Knusha (1200 words for 1-3)
+  - SwampL Battles: Copei (800 words for 1-3), Swamp Wignow (500 words for 0-1), Larida (1000 words for 1-2)
+  - SacredS Battles: Toccal (800 words for 1-2), Pedja (1000 words for 1-2), Swamp Wignow (500 words for 0-1)
+  - Hideout Battles: Wisthu (800 words for 1-3), Drau (1000 words for 1-3)
 - **Buy:** FOREST, WATER, DESERT
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
 - **Used for:** outside game,
+  
   - SacredS Quest: A Worthy Offering (need 10)
 
 ### Steel Bar
 
 The game usually simply calls this **Steel**. I like to make sure I'm distinguishing between this and the dozen other Steel things, so I call 'em Steel Bars.
 
-- **Sources:** DESERT, DUST
+- **Sources:** outside game,
+  - Hideout Battle: Grongu (2000 words for 1-2)
 - **Sell price:** 35 Coins (NEVER SELL. YOU CANNOT HAVE ENOUGH.)
 - **Used for:** outside game,
   - SacredS Quest: A Worthy Offering (need 10)
@@ -243,14 +292,16 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
   - Hideout Quest: Uncanny Swamp Wisthu (3)
 - **Craft:** DESERT
 - **Sell Price:** Priceless. Sorry, 250 Coins, but DON'T SELL.
-- **Used for:** FOREST, DESERT
+- **Used for:** outside game,
   - Preserving streak days. 1 Stempo can give you credit for your Streak, regardless of whether you write, on 1 future day, up to 4 weeks out; 2 Stempos can repair your Streak for 1 past day (once your current day's Streak is reached) up to 4 weeks back. Go to your Dashboard menu, then to Stats, to see how the Streak Calendar works.
   - Erasing lost and fled battles from your record. 
 
 ### Swamp Moss
 
 - **Sources:** 
-  - 
+  - SwampL Battles: Heliodae (120 words for 1), Rhamp (250 words for 1), Quishi (350 words for 1-2), Copei (800 words for 2-3), Larida (1000 words for 2-4), Swamp Wignow (500 words for 1-2), Gaiai (1500 words for 3-5), Tritus (750 words for 1-3)
+  - SacredS Battles: Bashta (400 words for 1-2), Ognimaf (300 words for 1), Minko (600 words for 1-2), Pedja (1000 words for 2-3), Toccal (800 words for 1-2)
+  - Hideout Battles: Kivi (100 words for 0-1), Necog (450 words for 2-3)
 - **Sell price:** 10 Coins (don't sell until event ends, just in case)
 - **Used for:** 
   - SacredS Quest: Growth & Restoration (50)
@@ -260,6 +311,9 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
 - **Sources:** FOREST,
   - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2)
   - SurfaceC Battles: Rea & Pira (150 words for 1)
+  - SwampL Battles: Tritus (750 words for 5-9), Larida (1000 words for 1-4), Gaiai (1500 words for 2-4)
+  - SacredS Battles: Ognimaf (300 words for 1-2), Toccal (800 words for 1-2)
+  - Hideout Battles: Cafodu (600 words for 2-6), Grongu (2000 words for 2-4)
 - **Buy:** FOREST, DESERT (cheaper in FOREST)
 - **Sell price:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)
 - **Used for:** outside game
