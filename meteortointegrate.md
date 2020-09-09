@@ -1,3 +1,5 @@
+TO INTEGRATE TO RESOURCES
+
 # Impact Crater
 
 ### Arir
@@ -170,7 +172,7 @@
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 80
 - **Drops:** 0-5 Raw Stone, 1 Rope, 3-4 Dinti, 1-3 Raw Steel
-- **Quests:** MS: Drilling Too Deep (3)
+- **Quests:** MSite: Drilling Too Deep (3)
 
 ### Deepo
 
@@ -178,7 +180,7 @@
 - **Time allowed:** 1440 minutes (24 hours, or 1 day)
 - **XP:** 170
 - **Drops:** 6-9 Dinti, 3-7 Raw Steel, 1-2 Steel Bars, 0-7 Raw Stone, 0-1 Stone Block
-- **Quests:** MS: Drilling Too Deep (2)
+- **Quests:** MSite: Drilling Too Deep (2)
 
 ### Galatre
 
@@ -210,7 +212,7 @@
 - **Time allowed:** 600 minutes (10 hours)
 - **XP:** 120
 - **Drops:** 1-2 Fine Fabric, 4-5 Dinti, 1 Steel Bar, 2-4 Raw Gold, 1-2 Stone Blocks, 5-15 Coins
-- **Quests:** MS: Recovering Stolen Goods (1), Thieving Glowing Rocks (10)
+- **Quests:** MSite: Recovering Stolen Goods (1), Thieving Glowing Rocks (10)
 
 ### Krang
 
@@ -270,7 +272,7 @@
 - **Drops:** 1-3 Steel Bars, 1-2 Glass Bars, 2-4 Dinti, 1-2 Fine Fabric,  2-4 Raw Fabric
 - **Quests:** 
   - SpaceS: Sparks to Ignite 3/3 (10)
-  - RL: Testing the Valley (3), Set Creatures Free! 1/4 (1)
+  - RLab: Testing the Valley (3), Set Creatures Free! 1/4 (1)
 
 ### Dr. Hogglevoss
 

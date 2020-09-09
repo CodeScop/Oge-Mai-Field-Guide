@@ -90,6 +90,29 @@ AREA ABBREVIATIONS:
 - **Used for:** equipping, outside game
 - **Equip:** Weapon2: +8 Attack, +8 Defense, +0 Luck
 
+### Hunter Tokens
+
+- **Hunt Sources:** 
+
+  Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
+
+  - outside game
+
+- **Late Aug 2020 Sources Outside the Hunt:**
+
+  Late August 2020 sources are - wait for it - BLUE. 
+
+  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
+
+  - outside game
+  - Global Battles: Vi, Viyusa, Awa
+  - SurfaceC, SacredS Battles: Global and Hunt only
+  - SwampL Battle: Rhamp
+
+- **Sell price:** 10 Coins (don't sell, much better to spend)
+
+- **Used for:** outside game
+
 ### Leather Roll
 
 - **Sources:** outside game,

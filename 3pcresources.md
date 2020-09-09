@@ -1,4 +1,4 @@
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 9 SEPT 2020
 
 This is getting longer and more unwieldy, so I'm going to abbreviate a bit: if there's something you'd need to go back to the Forest Region to get, I'm summarizing it as FOREST. What's the Craft price for a Vine Net? Go check the FOREST.
 
@@ -308,14 +308,11 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - later game
 
-- **Late June-July 2020 Sources Outside the Hunt:**
+- **Late Aug 2020 Sources Outside the Hunt:**
 
-  Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
+  Late August 2020 sources are - wait for it - BLUE. 
 
-  - ALIEN METEOROID (Special Event)
-  - FOREST
-  - 3PC Battles: Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Yasri (1250 words for 12-13)
-  - later game
+  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

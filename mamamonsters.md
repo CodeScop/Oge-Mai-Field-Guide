@@ -1,4 +1,4 @@
-LAST UPDATED 26 JUN 2020
+LAST UPDATED 23 AUG 2020
 
 Again, I'm not including Hunt monsters here. And again, numbers assume a certain amount of Luck. Some of these numbers were obtained only after a Luck of 20 (there are some monsters I skipped on the first playthrough). However, I believe these numbers are accurate enough to be helpful with a Luck of 4 or more, based on the differences for monsters played with multiple Luck levels.
 

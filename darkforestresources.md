@@ -1,4 +1,4 @@
-LAST UPDATED 26 JUN 2020
+LAST UPDATED 9 SEPT 2020
 
 We're getting deep into Oge-Mai these days - don't want to have to travel too much. This is an exceptionally twisty region, so there are an exceptional number of possible spoilers/unable to get through bits in here. Leave me a message in the Forum thread if anything is too difficult to follow! https://4thewords.com/forum/thread-oge-mai-field-guide
 
@@ -410,6 +410,18 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
 - **Used for:** WATER HUNT
 
+### Hunt Map Piece 8
+
+- **Source:** WATER HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** WATER HUNT
+
+### Hunt Map Piece 9
+
+- **Source:** WATER HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** WATER HUNT
+
 ### Hunter Tokens
 
 ALL GAME
@@ -419,14 +431,17 @@ ALL GAME
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
   - Global Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4)
-  - FOREST, DESERT
+  - FOREST, DESERT, WATER
 
-- **Late June-July 2020 Sources Outside the Hunt:**
+- **Late Aug 2020 Sources Outside the Hunt:**
 
-  Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
+  Late August 2020 sources are - wait for it - BLUE. 
+
+  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
 
   - FOREST, DESERT, WATER
-  - DFO Battles: Burhar (1500 words for 15), Molox (666 words and 1 Steel Chain for 6-7), Miclan (5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 50)
+
+  - DFO Battles: Spirit Ardia, Molox, Osalyu, Spirit Papple, Lycosta,  Chaensi, Babu, Miclan
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

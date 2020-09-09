@@ -1,4 +1,4 @@
-LAST UPDATED 29 AUG 2020
+LAST UPDATED 9 SEPT 2020
 
 Hey! Loading up the info for the Hunt. It takes a while to incorporate everything properly throughout the Guide, but it doesn't take long to gather the new info. So! Here is New Info Only for the Hunt for the Ancients. (Please, please just look at the regular sections if you aren't up to the latest point; there's nothing here that will be likely to serve you before then.)
 
@@ -74,7 +74,7 @@ I'm counting Vanspi as a Hunt monster here, and only here, because there's no in
 
 
 
-## New Resources: Jul 2020
+## New Resources: Aug 2020
 
 ### Hunt Map Piece 9
 
@@ -113,7 +113,7 @@ Late August 2020 sources are - wait for it - BLUE.
 - Balance Battles: Furoxi, Castu, Nuig, Water Rudakai
 - DFO Battles: Spirit Ardia, Molox, Osalyu, Spirit Papple, Lycosta,  Chaensi, Babu, Miclan
 
-## New Wardrobe Items: Jul 2020
+## New Wardrobe Items: Aug 2020
 
 - Rib Wings Tattoo - 25 Hunter Tokens
 - Torso Wings Tattoo - 25 Hunter Tokens

@@ -1,4 +1,4 @@
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 9 SEPT 2020
 
 Here are ALL THE THINGS available in the Forest. LF is Luciola Forest. MT is Mama Tree. HuntS1 is Hunt for the Ancients Season 1. And for the Expedition...
 
@@ -222,26 +222,21 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
   - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10)
   - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
-  - later game
+  - later Hunt
 
-- **Late June-July 2020 Sources Outside the Hunt:**
+- **Late Aug 2020 Sources Outside the Hunt:**
 
-  Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
+  Late August 2020 sources are - wait for it - BLUE. 
 
-  - ALIEN METEOROID:
-    - IC Battles: Arir (100 words for 1), Rhan (150 words for 1-2), Maesc (250 words for 2-3), Nartha (350 words for 3-4), Erbor (400 words for 4), Rosarin (500 words for 5), Brachi (600 words for 6)
-    - MS Battles: Arir (100 words for 1), Halix (250 words for 2-3), Ipo (300 words for 3), Galatre (450 words for 4-5), Krang (500 words for 5)
-    - Spaceship Battles: Captain Piak (1667 words for 17), Oxie (100 words for 1), Kolbs (200 words for 2), Kovar (350 words for 3-4), Ledd (500 words for 5), Szalin (700 words for 7), Noit (800 words for 8), Zals (900 words for 9), Skarn (1100 words for 11)
-  - LF Battles: none at this point
-  - MT Battles: Vanstra (3 minutes for 1-4)
+  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
+
+  - Global Battles: Vi, Viyusa, Awa
+  - LF Battles: (monster unlocked by later game)
+  - MT Battles: Ardii, Lorsa & (monster unlocked by later game)
   - FOREST EXPEDITION:
-
-    - BC Battles: Hunt monsters only
-    - FB Battles: Hunt monsters only
-    - SC Battles: Hunt monsters only
-    - TT Battles: Scofin (150 words for 1-2), Fin (250 words for 2-3), Finoir (500 words for 5)
-    - GL Battles: Hunt monsters only
-  - later game
+    - BC Battles: Sacer (may be a leftover from wings last month, may be removed)
+    - FB Battles: Ardii, (monster unlocked by later game)
+    - SC, TT, GL Battles: Global, Hunt Only (was Gobkey overlooked?)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

@@ -1,4 +1,4 @@
-LAST UPDATED 26 JUN 2020
+LAST UPDATED 9 SEPT 2020
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
 
@@ -40,6 +40,14 @@ Because some people might be on the hunt for all the wardrobe items available in
   - Slim Left Chest Belt - 20 Hunter Tokens
   - Slim Right Chest Belt - 20 Hunter Tokens
   - Triple Belt - 20 Hunter Tokens
+  - Arms Geometric Tattoo - 25 Hunter Tokens
+  - Bulky Arrow Tattoo - 25 Hunter Tokens
+  - Geometric Labyrinth Tattoo - 25 Hunter Tokens
+  - Geometric Lines Tattoo - 25 Hunter Tokens
+  - Limb Lines Tattoo - 25 Hunter Tokens
+  - Rib Wings Tattoo - 25 Hunter Tokens
+  - Torso Wings Tattoo - 25 Hunter Tokens
+  - Valknut Tattoo - 25 Hunter Tokens
   - Dinti Sandals Complex - 30 Hunter Tokens
   - Earth Sandals - 30 Hunter Tokens
   - Nose Piercing - 30 Hunter Tokens
@@ -60,7 +68,6 @@ Because some people might be on the hunt for all the wardrobe items available in
   - Hunt Simple Brooch - 80 Hunter Tokens
   - Hunt Tattoos - 80 Hunter Tokens
   - Short Fur Boots - 80 Hunter Tokens
-  - Travel Trench Coat - 150 Hunter Tokens
   - Hunt Boots - 100 Hunter Tokens
   - Hunt Bracers - 100 Hunter Tokens
   - Small Chestplate - 100 Hunter Tokens
@@ -69,7 +76,9 @@ Because some people might be on the hunt for all the wardrobe items available in
   - Spear - 125 Hunter Tokens
   - Sword - 125 Hunter Tokens
   - Bow and Quiver - 150 Hunter Tokens
+  - Hunt Cloak - 150 Hunter Tokens
   - Lorsa Fur Scarf - 150 Hunter Tokens
+  - Travel Trench Coat - 150 Hunter Tokens
   - Hunt Skirt - 175 Hunter Tokens
   - Hunt Altar - 500 Hunter Tokens
   - Hunt Shrine - 1000 Hunter Tokens
@@ -143,6 +152,22 @@ Because some people might be on the hunt for all the wardrobe items available in
   - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;664-hunt-facepaint-eye-shadow-4019-78242.png
   - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;664-hunt-facepaint-eye-shadow-4020-89564.png
 - **Stumbling Upon Sheep** unlocks **Dog Mentor Pet**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;862-dog-mentor-pet-6004-63771.png
+- **Bigger and Brighter** returns **Hunt Facepaint Trident**, which has seven variants:
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;665-hunt-facepaint-trident-4024-21026.png
+  - white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;665-hunt-facepaint-trident-4025-53594.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;665-hunt-facepaint-trident-4026-91789.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;665-hunt-facepaint-trident-4030-65472.png
+  - gold: https://4thewords.com/media/wardrobe/featured/female/wf&#95;665-hunt-facepaint-trident-4031-28115.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;665-hunt-facepaint-trident-4033-54600.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;665-hunt-facepaint-trident-4034-95549.png
+- **Growing Your Valor 4/4** returns the **Fur Ankle Boots**, with seven variants:
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Ankle&#95;Fur&#95;Black.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Ankle&#95;Fur&#95;Blue.png
+  - brown: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Ankle&#95;Fur&#95;Brown.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Ankle&#95;Fur&#95;Green.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Ankle&#95;Fur&#95;Purple.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Ankle&#95;Fur&#95;Red.png
+  - white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Ankle&#95;Fur&#95;White.png
 
 ###Mama Tree
 
@@ -205,12 +230,18 @@ Because some people might be on the hunt for all the wardrobe items available in
   - Genderqueer Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;372-expedition-hat-6240-84322.png
   - Demisexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;372-expedition-hat-6241-98324.png
   - Polyromantic/Polysexual Flag: https://4thewords.com/media/wardrobe/featured/female/wf&#95;372-expedition-hat-6244-46036.png
+- The quest **Just a Mean Green** returns **Xuso Necklace**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;974-xuso-necklace-7085-57599.png
+
+### Stone City
+
+- The **Sleepless in Stone City** quest gives you the **Sapiemon Necklace**:  https://4thewords.com/media/wardrobe/featured/female/wf&#95;979-monkey-necklace-7096-75774.png
 
 ### Guardian's Lair
 
 - **Bright Night Blossoms (2/2)** returns the **Dandeleon Crown**. Must complete Blossom with Flowers in Forward Base first. (two colors available: brighter Day version and darker Night version):
   - Day: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;dandeleon&#95;crown&#95;day.png
   - Night: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;dandeleon&#95;crown&#95;night.png
+- **Eat the Leaves?** gives you the **Leaf Necklace**:  https://4thewords.com/media/wardrobe/featured/female/wf&#95;1010-leaf-necklace-7448-12835.png
 
 ###Three Points Crossing
 
@@ -230,12 +261,17 @@ Because some people might be on the hunt for all the wardrobe items available in
   - dark red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;tiny&#95;boots&#95;red.png
   - white: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;tiny&#95;boots&#95;white.png
   - gold: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;tiny&#95;boots&#95;yellow.png
+- The quest **A Squirming Nest** nets you the **Lombri Hat**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1033-lombri-hat-7567-63630.png
+- The quest **Dazzling Desert Colors** wins you a **Zera Fur Necklace**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1123-zera-fur-necklace-8039-94110.png
 
 ### Shrine of Ages: General
 
 - The **Shrine Bracelets: Stempos or Tickets** section sells Shrine Bracelets, which you can put on your avatar to unlock different areas of the Shrine. They are sold for Shrine Tickets. As of this writing, there are 5 available:
   - **Birds Time Bracelet** can be bought for 3 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;640-birds-time-bracelet-3756-76083.png
+  - **Carnival Time Bracelet** can be bought for 3 Shrine Tickets: https://4thewords.com/media/wardrobe/featured/female/wf&#95;647-carnival-time-bracelet-3784-68524.png
+  - **Colorful Ooze Bracelet** can be bought for 3 Shrine Tickets: https://4thewords.com/media/wardrobe/featured/female/wf&#95;894-colorful-ooze-bracelet-6213-10059.png
   - **Ducks Time Bracelet** can be bought for 3 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;695-ducks-time-bracelet-4437-80879.png
+  - **Fools' Time Bracelet** can be bought for 3 Shrine Tickets: https://4thewords.com/media/wardrobe/featured/female/wf&#95;641-blue-time-bracelet-3758-99804.png
   - **Giants Time Bracelet** can be bought for 10 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;642-giants-time-bracelet-3760-35652.png
   - **Green Ooze Shrine Bracelet** can be bought for 5 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;ooze&#95;time&#95;bracelet.png
   - **Marionette Time Bracelet** can be bought for 5 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;marionette&#95;time&#95;bracelet.png
@@ -266,6 +302,42 @@ The **Wardrobe** section offers the following for sale:
 - Ralbone Top - 150 Shrine Stones https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;peacock&#95;top.png
 - Ralbone Pants - 150 Shrine Stones https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;peacock&#95;pants.png
 
+### Shrine of Ages: Carnival
+
+- The **Tears and Feathers** quest returns the **Carnival Mask**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;646-carnival-mask-3781-45288.png
+- The **Wardrobe** section offers the following for sale:
+  - Carnival Wristguards - 25 Shrine Stones. Three variants:
+    - purple and sky blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;wrist&#95;blue.png
+    - gold and green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;wrist&#95;gold.png
+    - red and green: https://4thewords.com/media/wardrobe/images/female/wf&#95;featured&#95;carnival&#95;wrist&#95;red.png
+  - Carnival Bodypaint - 75 Shrine Stones. Three variants: 
+    - indigo and lime: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;makeup&#95;blue.png
+    - orange, yellow and indigo: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;makeup&#95;gold.png
+    - hot pink and sky blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;carnival&#95;makeup&#95;red.png
+  - Marionette Hands - 250 Shrine Stones. Seven variants:
+    - black wrist: https://4thewords.com/media/wardrobe/featured/female/wf&#95;648-marionette-hands-3787-53863.png
+    - blue wrist: https://4thewords.com/media/wardrobe/featured/female/wf&#95;648-marionette-hands-3793-31199.png
+    - green wrist: https://4thewords.com/media/wardrobe/featured/female/wf&#95;648-marionette-hands-3794-14403.png
+    - red wrist: https://4thewords.com/media/wardrobe/featured/female/wf&#95;648-marionette-hands-3795-67170.png
+    - gold wrist: https://4thewords.com/media/wardrobe/featured/female/wf&#95;648-marionette-hands-3796-68024.png
+    - purple wrist: https://4thewords.com/media/wardrobe/featured/female/wf&#95;648-marionette-hands-3797-30662.png
+    - white wrist: https://4thewords.com/media/wardrobe/featured/female/wf&#95;648-marionette-hands-3798-98007.png
+
+### Shrine of Ages: Colorful Ooze
+
+The **Wardrobe** section offers the following for sale:
+
+- Zulasta Shoes - 50 Shrine Stones: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;mushroom&#95;shoes.png
+- Leopard Skirt - 25 Shrine Stones:https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;leopard&#95;skirt.png
+- Dalmatian Skirt - 25 Shrine Stones: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;dalmata&#95;skirt.png
+- Candle Shoulders - 125 Shrine Stones. Six variants:
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;649-candle-shoulderpads-3800-83403.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;649-candle-shoulderpads-3802-73607.png
+  - brown: https://4thewords.com/media/wardrobe/featured/female/wf&#95;649-candle-shoulderpads-3804-57433.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;649-candle-shoulderpads-3805-97904.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;649-candle-shoulderpads-3808-61152.png
+  - ivory:https://4thewords.com/media/wardrobe/featured/female/wf&#95;649-candle-shoulderpads-3810-49053.png
+
 ### Shrine of Ages: Ducks
 
 - The **Lining Up Ducks** quest returns **Duck Face Mask**: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;629-duck-face-mask-3651-62159.png
@@ -279,6 +351,24 @@ The **Wardrobe** section offers the following for sale:
     - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;630-duck-hat-3659-76745.png
     - red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;630-duck-hat-3661-27179.png
     - yellow: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;630-duck-hat-3663-25563.png
+
+### Shrine of Ages: Fools
+
+The **Wardrobe** section offers the following for sale:
+
+- Candycorn Earrings - 15 Shrine Stones: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;candycorn.png
+- Pumpkin Earrings - 15 Shrine Stones. Seven variants:
+  - mean lit: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;pumpking&#95;lit&#95;evil.png
+  - cheerful lit: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;pumpking&#95;lit&#95;happy.png
+  - sad lit:https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;pumpking&#95;lit&#95;sad.png
+  - plain pumpkin: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;pumpking&#95;unlit.png
+  - mean dark: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;pumpking&#95;unlit&#95;evil.png
+  - cheerful dark: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;pumpking&#95;unlit&#95;happy.png
+  - sad dark: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;earings&#95;pumpking&#95;unlit&#95;sad.png
+- Fools' Eyes - 100 Shrine Stones. Two variants:
+  - right eye larger: https://4thewords.com/media/wardrobe/featured/female/wf&#95;643-fools-eyes-3763-88989.png
+  - left eye larger: https://4thewords.com/media/wardrobe/featured/female/wf&#95;643-fools-eyes-3764-52957.png
+- Star Earrings - 15 Shrine Stones: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;star&#95;earrings.png
 
 ### Shrine of Ages: Giants
 
@@ -377,7 +467,68 @@ The **Wardrobe** section offers the following for sale:
 
 ### Raina Surface Camp
 
-(Waiting till the Raina River Festival ends to list permanent additions here)
+- The quest **Energy Now, Tired Later** gives you the **Golden Nose Piercing**:  https://4thewords.com/media/wardrobe/featured/male/wm&#95;780-golden-nose-piercing-5300-55800.png
+- **Sans the Bone** quest gives you the **Bone Nose Piercing**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;719-bone-nose-piercing-4712-76828.png
+- Complete **Defeating a Droxa Drove** quest to earn a **Raina Gold Necklace**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;722-raina-gold-necklace-4742-87811.png
+- Complete the **Stamina Level Up!** quest to get a **Moss Hat**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;727-moss-hat-4772-99897.png
+- The quest **New Family of Friends** gives you the **Algae Shirt:** https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;704-algae-top-4588-11016.png
+- The quest **Infected Raina Part 3** wins you the **Raina Mask**: https://4thewords.com/media/wardrobe/featured/female/wm&#95;featured&#95;raina&#95;mask.png
+- **4 the Infected** gets you the **Ardi Raina Mask**, which has three variants:
+  - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;ardi&#95;raina&#95;mask&#95;yellow.png 
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;ardi&#95;raina&#95;mask&#95;blue.png 
+  - pink-purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;ardi&#95;raina&#95;mask&#95;purple.png 
+
+### Swamplands
+
+- The **Wading Through & Onwards (1/2)** quest gives you the **Ghillie Suit Head**, which has **six variants:**
+  - face-conceal green-brown: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;705-ghillie-suit-top-4590-12257.png
+  - face-conceal brown: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;705-ghillie-suit-top-4591-35836.png
+  - face-open brown: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;705-ghillie-suit-top-4594-36772.png
+  - face-conceal green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;705-ghillie-suit-top-4595-73512.png
+  - face-open green-brown: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;705-ghillie-suit-top-4596-64669.png
+  - face-open green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;705-ghillie-suit-top-4598-71732.png
+
+- The quest **Twisted Treacherous Trails (2/2)** nets you the **Quishi Necklace**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;786-beaver-necklace-5336-27752.png
+
+- The quest **Wrestlin' Swamp Larida** gets you a **Larida Necklace**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;777-crocodile-necklace-5291-45454.png
+- The quest **No Safe Feet** gets you **Bone Shoulder Pads**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;717-bone-shoulder-pads-4704-43502.png
+
+### Raina Sacred Site
+
+- The quest **A Worthy Offering** wins you **Golden Earrings, **, which have three variants:
+  - left ear: https://4thewords.com/media/wardrobe/featured/female/wf&#95;778-golden-earrings-5294-75057.png
+  - right ear: https://4thewords.com/media/wardrobe/featured/female/wf&#95;778-golden-earrings-5295-82268.png
+  - both ears: https://4thewords.com/media/wardrobe/featured/female/wf&#95;778-golden-earrings-5297-96979.png
+- The quest **Au-some Frog Race** wins you a **Kuldoro Pet** (may involve variants I have not yet found): https://4thewords.com/media/wardrobe/featured/male/wm&#95;772-golden-frog-pet-5280-13978.png
+- The quest **Growth & Restoration** wins you a **Small Gold Crown**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;733-raina-gold-crown-small-4796-18014.png
+- The quest **Seeding New Beginnings (2/3)** wins you **Seed Earrings** with 9 variants:
+  - right ear one seed: https://4thewords.com/media/wardrobe/featured/female/wf&#95;939-seed-earrings-6790-10679.png
+  - left ear one seed: https://4thewords.com/media/wardrobe/featured/female/wf&#95;939-seed-earrings-6791-41202.png
+  - right ear two seeds: https://4thewords.com/media/wardrobe/featured/female/wf&#95;939-seed-earrings-6793-91162.png
+  - left ear two seeds: https://4thewords.com/media/wardrobe/featured/female/wf&#95;939-seed-earrings-6795-14405.png
+  - both ears one seed: https://4thewords.com/media/wardrobe/featured/female/wf&#95;939-seed-earrings-6796-38416.png
+  - left ear three seeds: https://4thewords.com/media/wardrobe/featured/female/wf&#95;939-seed-earrings-6797-69082.png
+  - both ears two seeds: https://4thewords.com/media/wardrobe/featured/female/wf&#95;939-seed-earrings-6800-11211.png
+  - right ear three seeds: https://4thewords.com/media/wardrobe/featured/female/wf&#95;939-seed-earrings-6801-73992.png
+  - both ears three seeds: https://4thewords.com/media/wardrobe/featured/female/wf&#95;939-seed-earrings-6802-57339.png
+- The quest **Seeding New Beginnings (3/3)** wins you the **Gardener Hat**, which has 3 variants:
+  - lettuce-top: https://4thewords.com/media/wardrobe/featured/female/wf&#95;911-plant-hat-6507-38414.png
+  - bonsai-top: https://4thewords.com/media/wardrobe/featured/female/wf&#95;911-plant-hat-6508-45234.png
+  - hosta-top: https://4thewords.com/media/wardrobe/featured/female/wf&#95;911-plant-hat-6509-12217.png
+
+### Rebel Raina Hideout
+
+- The quest **Uncanny Swamp Wisthu** gives you a **Black Feather Scarf**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;711-black-feather-scarf-4663-82950.png
+- The quest **Pushing Back Rebels 1/3** wins you the **Large Gold Crown**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;732-raina-gold-crown-large-4794-33911.png
+- The quest **Pushing Back Rebels 3/3** wins you the prestigious **Raina Golden Warrior Mask**:  https://4thewords.com/media/wardrobe/featured/male/wm&#95;779-golden-facemask-5298-53682.png
+- The quest **Knocking Down Rebels** gives you **Wisthu's Flask** in **seven variants:**
+  - black: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;708-magic-ingridient-4631-72362.png
+  - white: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;708-magic-ingridient-4632-60313.png
+  - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;708-magic-ingridient-4637-52265.png
+  - purple: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;708-magic-ingridient-4638-51114.png
+  - yellow: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;708-magic-ingridient-4639-47134.png
+  - red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;708-magic-ingridient-4640-67874.png
+  - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;708-magic-ingridient-4641-17521.png
 
 ### Floating City of Balance
 

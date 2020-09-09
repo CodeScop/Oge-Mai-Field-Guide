@@ -261,7 +261,10 @@
     - Dig Site
     - Shrine of Ages: General
     - Shrine of Ages: Birds
+    - Shrine of Ages: Carnival
+    - Shrine of Ages: Colorful Ooze
     - Shrine of Ages: Ducks
+    - Shrine of Ages: Fools
     - Shrine of Ages: Giants
     - Shrine of Ages: Green Ooze
     - Shrine of Ages: Marionette
@@ -272,13 +275,15 @@
     - Floating City of Balance
     - Dark Forest Outpost
 - All Game Bestiary & All Quests
-  - Bestiary
+  - Bestiary A-L
+  - Bestiary M-Z
   - All Quests
     - Global Quests
     - Main Questline & Oge-Mai
     - Questline - Forest Expedition
+    - Questline- Alien Expedition
     - Questline - Desert Expedition
-    - Questline - Water Expedition
+    - Questline - Raina Expedition
     - Questline - Hunt for the Ancients - Season 1
     - Questline - Hunt for the Ancients - Season 2
     - Questline - Hunt for the Ancients - Season 3

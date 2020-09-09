@@ -1,4 +1,4 @@
-LAST UPDATED 30 AUG 2020
+LAST UPDATED 9 SEPT 2020
 
 This includes ONLY info for the Alien Meteoroid areas. Yes, you have access to 3PC and the Forest! Please consult those sections 
 
@@ -139,9 +139,27 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 
 ### Hunter Tokens
 
-- **Sources:** outside game,
-- **Sell price:** 100 Coins (don't sell unless you have >200)
-- **Used for:** outside game, RLab Quest: Sagacious Sincere Sabu (10)
+- **Hunt Sources:** 
+
+  - outside game
+
+- **Late Aug 2020 Sources Outside the Hunt:**
+
+  Late August 2020 sources are - wait for it - BLUE. 
+
+  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
+
+  - outside game
+  - Global Battles: Vi, Viyusa, Awa
+  - IC, MS Battles: Global only
+  - SpaceS Battles: Kovar, Noit
+  - RL Battles: ALL THE HOLOGRAMS
+
+- **Sell price:** 10 Coins (don't sell, much better to spend)
+
+- **Used for:** outside game,
+
+  - RLab Quest: Sagacious Sincere Sabu (10)
 
 ### Kapir Tuft
 

@@ -445,19 +445,14 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
 
   - HUNTS1, HUNTS2, FOREST, DESERT
   - Ruins Battles: Lubu (450 words for 4-5)
-  - Balance Battles: Velts: Water (1600 words for 16)
-  - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25)
+  - Balance Battles: Velts: Water (1600 words for 16), Vanspri (20 minutes for 2-8)
+  - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25), Insight Grows (15), Change to See (25), Growth in Friendship (50), Where Life Flows (15)
 
-- **Late June-July 2020 Sources Outside the Hunt:**
+- **Late Aug 2020 Sources Outside the Hunt:**
 
-  Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
+  Late August 2020 sources are - wait for it - BLUE. 
 
-  - ALIEN METEOROID, FOREST, DESERT
-  - Riza Battles: Jaihri (485 words for 5), Sparfly (450 words for 4-5), Vota (800 words for 8), Trainee (1000 words for 10)
-  - WATER EXPEDITION:
-    - not available at this time
-  - Balance Battles: Caricaco (300 words for 3), Spirit Castu (550 words for 4-5, yes, that's 4-5, not 5-6)
-  - later game
+  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

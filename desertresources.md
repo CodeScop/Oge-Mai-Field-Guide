@@ -1,4 +1,4 @@
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 9 SEPT 2020
 
 Summary of everything available in the DESERT. (Yes, now including Shrine of Ages!) Abbreviations:
 
@@ -6,20 +6,26 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
 - HuntS1 = Hunt for the Ancients Season 1
 - HuntS2 = Hunt for the Ancients Season 2
 - 3PC = Three Points Crossing
+- ALIEN EXPEDITION
+  - IC = Impact Crater
+  - SpaceS = Spaceship
+  - MSite = Mining Site
+  - RLab = Research Lab
 - Gansu = Gansu Watering Hole
-- Dig or DigS = Dig Site
-- Ruins = Underground Ruins
-- Shrine = Shrine of Ages (general)
-- ShrineBird = Shrine of Ages Birds event
-- ShrineCar = Shrine of Ages Carnival event
-- ShrineCO = Shrine of Ages Colorful Ooze event
-- ShrineDucks = Shrine of Ages Ducks event
-- ShrineFools = Shrine of Ages Fools' event
-- ShrineGiant = Shrine of Ages Giants event
-- Shrine GO = Shrine of Ages Green Ooze event
-- ShrineMar = Shrine of Ages Marionettes event
-- ShrinePoly = Shrine of Ages Polygon event
-- Shrine TFA = Shrine of Ages Terror From Above event
+- DESERT EXPEDITION
+  - Dig or DigS = Dig Site
+  - Ruins = Underground Ruins
+  - Shrine = Shrine of Ages (general)
+  - ShrineBird = Shrine of Ages Birds event
+  - ShrineCar = Shrine of Ages Carnival event
+  - ShrineCO = Shrine of Ages Colorful Ooze event
+  - ShrineDucks = Shrine of Ages Ducks event
+  - ShrineFools = Shrine of Ages Fools' event
+  - ShrineGiant = Shrine of Ages Giants event
+  - Shrine GO = Shrine of Ages Green Ooze event
+  - ShrineMar = Shrine of Ages Marionettes event
+  - ShrinePoly = Shrine of Ages Polygon event
+  - Shrine TFA = Shrine of Ages Terror From Above event
 
 ###Core Crystals
 
@@ -449,20 +455,13 @@ This actually isn't available yet, but a quest requiring it pops up as soon as R
   - Ruins Battles: Lubu (450 words for 4-5)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
-  - later game
+  - later Hunt
 
-- **Late June-July 2020 Sources Outside the Hunt:**
+- **Late Aug 2020 Sources Outside the Hunt:**
 
-  Late June/July 2020 sources are Hunt monsters and monsters with metal and/or rock (subject to interpretation)
+  Late August 2020 sources are - wait for it - BLUE. 
 
-  - ALIEN METEOROID, FOREST
-  - 3PC Battles: Desert Wignow (444 words for 4-5), Rulo (550 words for 5-6), Yasri (1250 words for 12-13)
-  - Gansu Battles: Desert Wignow (444 words for 4-5), Sparfly (450 words for 4-5), Rulo (550 words for 5-6), Wetu (1100 words for 11)
-  - DESERT EXPEDITION: 
-
-    - Dig Battles: Hunt monsters only
-    - Ruins Battles: Hunt monsters only
-  - later game
+  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

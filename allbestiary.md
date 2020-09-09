@@ -104,7 +104,9 @@ Hideout: Rebel Raina Hideout
 
 DFO: Dark Forest Outpost
 
-# BESTIARY
+# A-L
+
+LAST UPDATED 9 SEPT 2020
 
 ### Afeppti (Exp: ShrineCO)
 
@@ -134,6 +136,14 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **XP:** 40
 - **Drops:** 1-2 Leaves, 4 Hunter Tokens, 1-2 Rope, 1-2 Raw Fabric
 - **Quests:** HuntS1: Elder Library Assistants (4), Curator's Family (1)
+
+### Ame (Exp: RLab)
+
+- **Requirements:** 100 words
+- **Time allowed:** 10 minutes
+- **XP:** 10
+- **Drops:** 1-2 Raw Fabric, 0-1 Glass Shards 
+- **Quests:** SpaceS: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2), Sparks to Ignite 3/3 (10)
 
 ### Aracni (Oge: LF)
 
@@ -211,14 +221,32 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
   - MT: Inking of Dust 3/5 (1), Creature Colors & Highlights 3/3 (3)
   - DigS: Dazzling Desert Colors (1)
 
-### Arir (Exp: Shrine TFA)
+### Arenica Hologram (Exp: RLab)
 
-- **Unlocked by:** Wardrobe: Terror From Above Shrine Bracelet
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Raw Steel
+- **Quests:** RLab: Projecting Light (10)
+
+### Arir (Exp: IC, MSite, Shrine TFA)
+
+- **Unlocked by:** Wardrobe: Terror From Above Shrine Bracelet OR opening Impact Site
 - **Requirements:** 100 words
 - **Time allowed:** 10 minutes 
 - **XP:** 10
 - **Drops:** 1 Shrine Stone, 1-2 Raw Stone
-- **Quests:** Shrine TFA Quests: Shrine Creature Flyby (1), Beware! Rock Shower (50)
+- **Quests:** 
+  - One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
+  - Shrine TFA: Shrine Creature Flyby (1), Beware! Rock Shower (50)
+
+### Arren (Exp: MSite)
+
+- **Requirements:** 800 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 80
+- **Drops:** 0-5 Raw Stone, 1 Rope, 3-4 Dinti, 1-3 Raw Steel
+- **Quests:** MSite: Drilling Too Deep (3)
 
 ### Ascre (Oge: DFO)
 
@@ -358,6 +386,14 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Drops:** 1-2 Raw Steel, 4-5 Shrine Stones, 2-4 Wood
 - **Quests:** ShrineCar: A Carnival Festival (1), Cut the Strings (2)
 
+### Brachi (Exp: IC)
+
+- **Requirements:** 600 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 60
+- **Drops:** 2-5 Raw Stone, 2-3 Dinti, 1-2 Raw Steel
+- **Quests:** IC: Loving Rocky Roads (10), One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
+
 ### Bruja (Oge: 3PC, [Gansu], [Riza])
 
 - **Requirements:** 900 words
@@ -438,6 +474,14 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
 - **XP:** 60
 - **Drops:** 2-6 Wood, 1-2 Leather Roll, 2-4 River Grass
 - **Quests:** Hideout: Knocking Down Rebels (1), Pushing Back Rebels 1/3 (1), Pushing Back Rebels 2/3 (3), Pushing Back Rebels 3/3 (5)
+
+### Captain Piak (Exp: SpaceS)
+
+- **Requirements:** 1667 words
+- **Time allowed:** 1440 minutes (24 hours)
+- **XP:** 170
+- **Drops:** Wardrobe: Piak's Earrings https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;alien&#95;crystal&#95;earings&#95;blue.png, 2-11 Coins, 3-7 Glass Shards, 1-3 Glass Bars,  5-7 Dinti, 1-4 Fine Fabric
+- **Quests:** RLab: Set Creatures Free! 1/4 (1)
 
 ### Caravan (Exp: ShrineGiant)
 
@@ -570,7 +614,15 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Time allowed:** 15 minutes
 - **XP:** 15
 - **Drops:** 1-2 Shrine Stone, 0-2 Raw Stone, 1 Rope
-- **Quests:** Lining Up Ducks (1), Paint Battle (5)
+- **Quests:** ShrineDucks: Lining Up Ducks (1), Paint Battle (5)
+
+### Deepo (Exp: MSite)
+
+- **Requirements:** 1667 words
+- **Time allowed:** 1440 minutes (24 hours, or 1 day)
+- **XP:** 170
+- **Drops:** 6-9 Dinti, 3-7 Raw Steel, 1-2 Steel Bars, 0-7 Raw Stone, 0-1 Stone Block
+- **Quests:** MSite: Drilling Too Deep (2)
 
 ### Desert Rudakai (Oge: Gansu)
 
@@ -592,6 +644,26 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:** 
   - HuntS2: A Season to Explore (1), Strengthening Your Viewpoint 2/3 (1)
   - DFO: Familiar Family Friends (5)
+
+### Dr. Enoe (Exp: RLab)
+
+- **Requirements:** 1500 words
+- **Time allowed:** 1440 minutes (24 hours, aka 1 day)
+- **XP:** 150
+- **Drops:** 1-3 Steel Bars, 1-2 Glass Bars, 2-4 Dinti, 1-2 Fine Fabric,  2-4 Raw Fabric
+- **Quests:** 
+  - SpaceS: Sparks to Ignite 3/3 (10)
+  - RLab: Testing the Valley (3), Set Creatures Free! 1/4 (1)
+
+### Dr. Hogglevoss (Exp: RLab)
+
+- **Requirements:** 1200 words
+- **Time allowed:** 770 minutes (12 hours, 50 minutes)
+- **XP:** 120
+- **Drops:** 1-3 Pieces of Parchment, 0-2 Fine Fabric, 4 Dinti, 1 Glass Bar
+- **Quests:** 
+  - SpaceS: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2), Sparks to Ignite 3/3 (10)
+  - RLab: Set Creatures Free! 1/4 (1)
 
 ### Drau (Exp: Hideout)
 
@@ -656,6 +728,24 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 2 Shrine Stones, 1-2 Glass Shards
 - **Quests:** ShrineCO: Green Be Gone! (1)
 
+### Erbor (Exp: IC)
+
+- **Requirements:** 400 words
+- **Time allowed:** 45 minutes
+- **XP:** 40
+- **Drops:** 1-2 Dinti, 1-4 Raw Stone
+- **Quests:** 
+  - IC: Stabbing Dinti Spikes (3), One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
+  - RLab: Create a Clearing 2/4 (7)
+
+### Ferenti (Exp: RLab)
+
+- **Requirements:** 750 words
+- **Time allowed:** 300 minutes (5 hours)
+- **XP:** 75
+- **Drops:** 1-3 Dinti, 2-5 Raw Steel, 0-1 Steel Bars, 1-4 Rope
+- **Quests:** none yet 
+
 ### Fetezira (Exp: ShrineCar)
 
 - **Unlocked by:** Wardrobe: Carnival Time Bracelet
@@ -680,6 +770,14 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 50
 - **Drops:** 1-2 Dinti, 1-5 Raw Steel
 - **Quests:** none
+
+### Fonar (Exp: RLab)
+
+- **Requirements:** 200 words
+- **Time allowed:** 30 minutes
+- **XP:** 20
+- **Drops:** 2-4 Glass Shards, 2 Raw Fabric
+- **Quests:** SpaceS: Sparks to Ignite 3/3 (10)
 
 ### Fools' Lorsa (Exp: Shrine TFA)
 
@@ -808,6 +906,14 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 3-5 Swamp Moss, 1-2 River Water, 3-5 River Grass, 2-4 Wood, 1 River Key
 - **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5)
 
+### Galatre (Exp: MSite)
+
+- **Requirements:** 450 words
+- **Time allowed:** 30 minutes
+- **XP:** 45
+- **Drops:** 2-5 Raw Stone, 2 Dinti
+- **Quests:** IC: Stabbing Dinti Spikes (4), One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
+
 ### Gayol (Exp: ShrineBird)
 
 - **Unlocked by:** Wardrobe: Birds Time Bracelet
@@ -911,6 +1017,22 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1-4 Wood, 1-3 Dust, 0-1 Raw Stone, 5 Shrine Stones
 - **Quests:** ShrineGiant: A Colossal Quest (1)
 
+### Gwynos (Exp: RLab)
+
+- **Requirements:** 450 words
+- **Time allowed:** 60 minutes (1 hours)
+- **XP:** 45
+- **Drops:** 0-2 Raw Stone, 1-2 Raw Fabric, 0-2 Rope
+- **Quests:** none yet 
+
+### Halix (Exp: MSite)
+
+- **Requirements:** 250 words
+- **Time allowed:** 45 minutes
+- **XP:** 25
+- **Drops:** 1-3 Raw Stone, 1 Dinti
+- **Quests:** IC: Stabbing Dinti Spikes (10), One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
+
 ### Halores (Exp: ShrineCar)
 
 - **Unlocked by:** Wardrobe: Carnival Time Bracelet
@@ -956,6 +1078,14 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1-2 Hunter Tokens, 1 Raw Fabric
 - **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
 
+### Ipo (Exp: MSite)
+
+- **Requirements:** 300 words
+- **Time allowed:** 30 minutes
+- **XP:** 30
+- **Drops:** 1 Dinti, 1-3 Raw Stone
+- **Quests:** IC: One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
+
 ### Isartu (Oge: Balance)
 
 - **Requirements:** 720 words
@@ -965,6 +1095,14 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - Balance: Main Quest 2/Underwater Training (3), Curious Traveler Part 2 (20), River Landwalkers (10)
   - HuntS3: Growing Your Perception 2/3 (3)
+
+### Ityf (Exp: MSite)
+
+- **Requirements:** 1250 words
+- **Time allowed:** 600 minutes (10 hours)
+- **XP:** 120
+- **Drops:** 1-2 Fine Fabric, 4-5 Dinti, 1 Steel Bar, 2-4 Raw Gold, 1-2 Stone Blocks, 5-15 Coins
+- **Quests:** MSite: Recovering Stolen Goods (1), Thieving Glowing Rocks (10)
 
 ### Jaihri (Oge: Riza)
 
@@ -1037,6 +1175,14 @@ see **Skuppa's Giant Marionette**
   - Riza: Main Quest 2/Attack of Opportunity (2)
   - Balance: Elemental Power (5)
 
+### Kiru Hologram (Exp: RLab)
+
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Raw Steel
+- **Quests:** RLab: Projecting Light (10)
+
 ### Kivi (Exp: Hideout)
 
 - **Requirements:** 100 words
@@ -1064,6 +1210,32 @@ see **Skuppa's Giant Marionette**
   - SurfaceC: Infected Raina Part 1 (5), Infected Raina Part 2 (10), 4 the Infected (15)
   - Hunt S3: Growth in Friendship (1)
 
+### Kolbs (Exp: SpaceS)
+
+- **Requirements:** 200 words
+- **Time allowed:** 25 minutes
+- **XP:** 20
+- **Drops:** 1 Dinti, 1-2 Raw Stone
+- **Quests:** 
+  - IC: One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
+  - SpaceS: Aid the Aliens (10)
+  - RLab: Create a Clearing 2/4 (7)
+
+### Kovar (Exp: SpaceS)
+
+- **Requirements:** 350 words
+- **Time allowed:** 50 minutes
+- **XP:** 35
+- **Drops:** 0-1 Fine Fabric, 1-2 Raw Fabric, 1-3 Raw Steel
+- **Quests:** none yet 
+
+### Krang (Exp: MSite)
+
+- **Requirements:** 500 words
+- **Time allowed:** 45 minutes
+- **XP:** 50
+- **Drops:** 2 Dinti, 1-5 Raw Stone, 1-2 Raw Sandstone
+- **Quests:** IC: Stabbing Dinti Spikes (5), One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
 
 ### Kuay (Oge: MT)
 
@@ -1087,6 +1259,14 @@ see **Skuppa's Giant Marionette**
 - **XP:** 100
 - **Drops:** 2-4 Swamp Moss, 2-4 River Grass, 1 River Water, 2-5 Dust, 1-4 Wood,1-2 Rope
 - **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Wrestlin' Swamp Larida (15)
+
+### Ledd (Exp: SpaceS)
+
+- **Requirements:** 500 words
+- **Time allowed:** 30 minutes
+- **XP:** 50
+- **Drops:** 1 Steel Bar, 1-2 Glass Shards
+- **Quests:** SpaceS: Train the Guards (10)
 
 ### Lekhop (Exp: ShrineCO)
 
@@ -1119,6 +1299,14 @@ see **Skuppa's Giant Marionette**
   - Gansu: Main Quest 4/ The Welcoming Committee (1)
   - HuntS2: A Season to Explore (1)
 
+### Lombri Hologram (Exp: RLab)
+
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Raw Steel
+- **Quests:** RLab: Projecting Light (10)
+
 ### Lorsa (Oge: MT)
 
 - **Requirements:** 450 words
@@ -1137,6 +1325,14 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 4-5 Hunter Tokens, 1-2 Raw Fabric, 0-1 Raw Steel, 1 Wood
 - **Quests:** HuntS2: A Distant Figure (3), Herding the Herders (1)
 
+### Lubu Hologram (Exp: RLab)
+
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Raw Steel
+- **Quests:** RLab: Projecting Light (10)
+
 ### Lupo (Exp: Shrine TFA)
 
 - **Unlocked by:** Wardrobe: Terror From Above Shrine Bracelet
@@ -1154,6 +1350,26 @@ see **Skuppa's Giant Marionette**
 - **XP:** 110
 - **Drops:** 3 Dried Pulp, 2 Raw Fabric, 3 Raw Steel, 3 Glass Shards, 1 Steel Bar, 3 Spirit Dust, 3 Bones
 - **Quests:** DFO: Main Quest 10/A Dogged Search (1), A Cursed Couple (25)
+
+# M-Z
+
+LAST UPDATED 9 SEPT 2020
+
+### Maesc (Exp: IC)
+
+- **Requirements:** 250 words
+- **Time allowed:** 25 minutes
+- **XP:** 25
+- **Drops:** 1-3 Raw Stone, 1 Dinti
+- **Quests:** IC: A Happy Prickle (20), One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
+
+### Maesc Hologram (Exp: RLab)
+
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Raw Steel
+- **Quests:** RLab: Projecting Light (10)
 
 ### Mahor (Exp: ShrineCar)
 
@@ -1209,6 +1425,14 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Shrine Stone
 - **Quests:** Shrine GO Quests: Green Ooze Invasion (1), Mini OoOoOoOozes (100)
 
+### Minica (Exp: RLab)
+
+- **Requirements:** 900 words
+- **Time allowed:** 120 minutes (2 hours)
+- **XP:** 90
+- **Drops:** 2-5 Glass Shards, 2-4 Raw Fabric, 1-4 Dust, 2-4 Dinti
+- **Quests:** SpaceS: Sparks to Ignite 3/3 (10)
+
 ### Minko (Exp: Sacred)
 
 - **Requirements:** 600 words
@@ -1226,6 +1450,15 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1-2 Spirit Dust, 1 Bones, 1 Refined Dust, 3-5 Raw Steel
 - **Quests:** DFO: Hounding the Dead 2/4 (10)
 
+### Mowow (Exp: RLab*)
+
+- **Unlocked by:** RLab Quest: Making Mellow Mowow
+- **Requirements:** 450 words
+- **Time allowed:** 45 minutes
+- **XP:** 45
+- **Drops:** 1-2 Dinti, 1-4 Raw Stone, 1-3 Leaves
+- **Quests:** RLab: Life's An Experiment (3)
+
 ### Murciel (Exp: Shrine TFA)
 
 - **Unlocked by:** Wardrobe: Terror From Above Shrine Bracelet
@@ -1234,6 +1467,14 @@ see **Skuppa's Giant Marionette**
 - **XP:** 60
 - **Drops:** 0-1 Reenu Wings, 6 Shrine Stones, 1 Spider Poison
 - **Quests:** Shrine TFA Quests: Shrine Creature Flyby (1), Those Nightly Terrors (5)
+
+### Nartha (Exp: IC)
+
+- **Requirements:** 350 words
+- **Time allowed:** 25 minutes
+- **XP:** 35
+- **Drops:** 1-3 Raw Stone, 1-2 Dinti
+- **Quests:** IC: Learning to Breathe (3), One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
 
 ### Natida (Exp: ShrineDucks)
 
@@ -1251,6 +1492,14 @@ see **Skuppa's Giant Marionette**
 - **XP:** 45
 - **Drops:** 2-4 Fur, 2-3 Swamp Moss, 1 River Grass
 - **Quests:** none so far
+
+### Nedi (Exp: IC)
+
+- **Requirements:** 800 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 80
+- **Drops:** 2-5 Raw Fabric, 2-3 Dinti, 2-4 Rope,  1-3 Glass Shards
+- **Quests:** SpaceS: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2), Sparks to Ignite 3/3 (10)
 
 ### Nezthai (Exp: FB)
 
@@ -1291,6 +1540,14 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 15 Shrine Stones, 1-2 Leather Rolls, 1-2 Claws, 1 Red Dye, 0-1 River Keys
 - **Quests:** ShrineBird: Birb's the Word (1)
 
+### Noit (Exp: SpaceS)
+
+- **Requirements:** 800 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 80
+- **Drops:** 2-5 Raw Fabric, 1-4 Rope, 2-4 Raw Steel, 2-8 Coins
+- **Quests:** SpaceS: Train the Guards (10)
+
 ### Nuig (Oge: Balance*)
 
 - **Unlocked by:** Balance Main Quest 1/Help From A Master
@@ -1301,6 +1558,14 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - Balance: Main Quest 3/The Deep Dark (8), Elemental Power (5), Stingy Surprise (30), Venomous Villains (7)
   - HuntS3: Flying Past Sparks (5)
+
+### Nuig Hologram (Exp: RLab)
+
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Raw Steel
+- **Quests:** RLab: Projecting Light (10)
 
 ### Ognimaf (Exp: Sacred)
 
@@ -1362,6 +1627,25 @@ see **Skuppa's Giant Marionette**
 - **XP:** 18
 - **Drops:** 1 Raw Fabric, 1-2 Shrine Stones, 0-1 Fur
 - **Quests:** ShrineCO: Green Be Gone! (1)
+
+### Oxie (Exp: SpaceS)
+
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1-2 Raw Stone, 0-1 Dinti
+- **Quests:** 
+  - IC: One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
+  - SpaceS: Aid the Aliens (10)
+  - RLab: Create a Clearing 2/4 (7)
+
+### Pach (Exp: MSite)
+
+- **Requirements:** 200 words
+- **Time allowed:** 25 minutes
+- **XP:** 20
+- **Drops:** 1-2 Raw Stone, 1 Dinti 
+- **Quests:** none yet 
 
 ### Pakkan (Oge: DFO*)
 
@@ -1559,6 +1843,14 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Swamp Moss, 1-2 Leaves, 0-1 Feather
 - **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5)
 
+### Rhan (Exp: IC)
+
+- **Requirements:** 150 words
+- **Time allowed:** 20 minutes
+- **XP:** 15
+- **Drops:** 1 Dinti, 1-2 Raw Stone
+- **Quests:** IC: Loving Rocky Roads (5), One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
+
 ### Rif (Exp: DigS, Ruins)
 
 - **Requirements:** 300 words
@@ -1608,6 +1900,17 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1-2 Shrine Stones, 1-2 Wood
 - **Quests:** ShrineCar: A Carnival Festival (1), Cut the Strings (3)
 
+### Rosarin (Exp: IC)
+
+- **Requirements:** 500 words
+- **Time allowed:** 120 minutes (2 hours)
+- **XP:** 50
+- **Drops:** 3-6 Raw Stone, 2-3 Dinti, 0-1 Stone Blocks
+- **Quests:** 
+  - IC: Learning to Breathe (1)
+  - SpaceS: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2), Sparks to Ignite 3/3 (10)
+  - RLab: Set Creatures Free! 1/4 (1)
+
 ### Rudakai (Oge: LF*)
 
 - **Unlocked by:** LF Main Quest 2/Building, Not Burning
@@ -1631,6 +1934,15 @@ see **Skuppa's Giant Marionette**
   - MT: Fair, Standard, Middling (25)
   - Gansu: Main Quest 1/Circle Of Protection (2)
   - HuntS2: A Season to Explore (1), Strengthening Your Viewpoint 2/3 (1)
+
+### Sabu (Exp: RLab*)
+
+- **Unlocked by:** RLab Quest: Sagacious Sincere Sabu
+- **Requirements:** 500 words
+- **Time allowed:** 30 minutes
+- **XP:** 50
+- **Drops:** 1-3 Raw Fabric, 1 Rope, 1 Wood, 0-1 Raw Steel
+- **Quests:** RLab: Life's An Experiment (3)
 
 ### Sacer (Exp: BC)
 
@@ -1694,6 +2006,14 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 6 Hunter Tokens, 1-3 Raw Fabric, 1 Rope, 0-3 Dust
 - **Quests:** HuntS1: A Clue to the Past (3), Curator's Family (1)
 
+### Sassi Hologram (Exp: RLab)
+
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Raw Steel
+- **Quests:** RLab: Projecting Light (10)
+
 ### Search Party (Oge: [MT])
 
 - **Requirements:** 2100 words
@@ -1728,6 +2048,14 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 100
 - **Drops:** 10 Hunter Tokens, 2-6 Raw Fabric, 1-2 Red Dye, 1-4 Wood, 1-3 Rope, 1-3 Raw Sandstone
 - **Quests:** HuntS2: Stumbling Upon Sheep (4)
+
+### Skarn (Exp: MSite)
+
+- **Requirements:** 1100 words
+- **Time allowed:** 1440 minutes (24 hours)
+- **XP:** 110
+- **Drops:**  3-5 Dinti, 3-6 Raw Stone, 1 Stone Block, 2-4 Raw Gold, 1-5 Raw Sandstone, 1-2 Glass Shards
+- **Quests:** SpaceS: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2), Sparks to Ignite 3/3 (10)
 
 ### Skuppa's Giant Marionette (Exp: ShrineGiant)
 
@@ -1826,6 +2154,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 0-1 Fur, 1 Raw Fabric, 1-2 Shrine Stones
 - **Quests:** ShrineCO: Green Be Gone! (1)
 
+### Sulanica (Exp: RLab*)
+
+- **Unlocked by:** RLab Quest: Silkly Sleek Sulanica
+- **Requirements:** 1000 words
+- **Time allowed:** 240 minutes (4 hours)
+- **XP:** 100
+- **Drops:** 0-1 White Fur, 0-1 Sacred Feathers, 1 Raw Gold, 2-3 Raw Fabric, 1-3 Glass Shards, 1-2 Fine Fabric
+- **Quests:** RLab: Life's An Experiment (3)
+
 ### Suulan (Oge: Gansu*)
 
 - **Unlocked by:** Gansu Main Quest 2/ Lorsa Nest Network
@@ -1837,6 +2174,14 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - DigS: Dazzling Desert Colors (1)
   - MT: Creature Colors & Highlights 3/3 (3)
 
+### Suulan Hologram (Exp: RLab)
+
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Raw Steel
+- **Quests:** RLab: Projecting Light (10) 
+
 ### Swamp Wignow (Exp: SwampL, SacredS)
 
 - **Requirements:** 500 words
@@ -1844,6 +2189,14 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 50
 - **Drops:** 2-4 Leaves, 1-2 Swamp Moss, 0-1 Essence, 0-1 Rope
 - **Quests:** SwampL: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5), No Safe Feet (10)
+
+### Szalin (Exp: SpaceS)
+
+- **Requirements:** 700 words
+- **Time allowed:** 90 minutes (1 hour and 30 minutes)
+- **XP:** 70
+- **Drops:** 3-6 Raw Steel, 0-2 Hardwood, 1 Steel Bar
+- **Quests:** SpaceS: Orders to Repair (3), An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2), Sparks to Ignite 3/3 (10)
 
 ### Takori (Oge: DFO*)
 
@@ -1873,6 +2226,32 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - MT: Huge, Gigantic, Enormous (25); The Invisible Ink 5/5 (1); Sand Mountain Caravan (5)
   - 3PC: A Way North: Up the Mountain (1)
   - HuntS2: A Season to Explore (1)
+
+### Tambo Hologram (Exp: RLab)
+
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Raw Steel
+- **Quests:** RLab: Projecting Light (10)
+
+### Teraleo (Exp: IC)
+
+- **Requirements:** 450 words
+- **Time allowed:** 30 minutes
+- **XP:** 40
+- **Drops:** 1-2 Dinti, 2-4 Raw Stone
+- **Quests:** 
+  - IC: Mighty Teraleo Hunter (50)
+  - RLab: Create a Clearing 2/4 (4)
+
+### Tessen (Exp: RLab)
+
+- **Requirements:** 500 words
+- **Time allowed:** 45 minutes
+- **XP:** 50
+- **Drops:** 1-3 Glass Shards, 2 Raw Fabric, 1-3 Dust, 1-2 Raw Steel 
+- **Quests:** SpaceS: Sparks to Ignite 3/3 (10)
 
 ### Thapiolo (Exp: ShrineCar)
 
@@ -2143,6 +2522,14 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - GL: Eat the Leaves? (10)
   - DFO: Familiar Family Friends (5)
 
+### Wignow Hologram (Exp: RLab)
+
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Raw Steel
+- **Quests:** RLab: Projecting Light (10)
+
 ### Wisthu (Exp: Hideout)
 
 - **Requirements:** 800 words
@@ -2197,6 +2584,23 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - LF: Forest Creatures (1)
   - Balance: Curious Traveler (20), Elemental Power (5)
 
+### Xin Hologram (Exp: RLab)
+
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Raw Steel
+- **Quests:** RLab: Projecting Light (10)
+
+### Xomri (Exp: RLab*)
+
+- **Unlocked by:** RLab Quest: Zappy Zazzy Xombri
+- **Requirements:** 300 words
+- **Time allowed:** 30 minutes
+- **XP:** 30
+- **Drops:** 1 Raw Fabric, 1-2 Leaves, 1 Raw Stone, 1 Wood
+- **Quests:** RLab: Life's An Experiment (3)
+
 ### Xuso (Exp: BC)
 
 - **Requirements:** 450
@@ -2238,6 +2642,13 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - SurfaceC: Infected Raina Part 2 (10), 4 the Infected (15)
   - Hunt S3: Growth in Friendship (1)
 
+### Yalarr (Exp: SpaceS)
+
+- **Requirements:** 500 words
+- **Time allowed:** 75 minutes (1 hour and 15 minutes)
+- **XP:** 50
+- **Drops:** 1-2 Dinti, 2-3 Raw Fabric, 1 Fine Fabric
+- **Quests:** none yet 
 
 ### Yantao (Exp: Ruins)
 
@@ -2289,6 +2700,14 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 2-4 Coins, 2-3 Shrine Stones, 1-3 Raw Stones
 - **Quests:** ShrineCO: Green Be Gone! (1)
 
+### Zals (Exp: MSite)
+
+- **Requirements:** 900 words
+- **Time allowed:** 240 minutes (4 hours)
+- **XP:** 90
+- **Drops:** 3-5 Dinti, 1 Stone Block, 1 Glass Bar, 1-4 Raw Gold
+- **Quests:** SpaceS: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2), Sparks to Ignite 3/3 (10)
+
 ### Zanthei (Oge: DFO)
 
 - **Requirements:** 400 words
@@ -2296,6 +2715,23 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 40
 - **Drops:** 1 Refined Dust, 2 Dark Forest Leaves, 1 Dried Pulp, 1-2 Wood
 - **Quests:** DFO: Main Quest 1/Ousting the Outpost (5), Familiar Family Friends (5)
+
+### Zanthei Hologram (Exp: RLab)
+
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Raw Steel
+- **Quests:** RLab: Projecting Light (10)
+
+### Zanutaki (Exp: RLab*)
+
+- **Unlocked by:** RLab Quest: Zooty Zanutaki Zings
+- **Requirements:** 500 words
+- **Time allowed:** 45 minutes
+- **XP:** 50
+- **Drops:** 1-2 Fur, 1 Glass Shard, 1-3 Dust, 1-2 Wood
+- **Quests:** none so far
 
 ### Zera (Exp: Dig)
 
@@ -2306,6 +2742,14 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Quests:** 
   - DigS: Dazzling Desert Colors (10)
   - HuntS2: Dazzling Desert Diversity (2)
+
+### Zoomga! (Exp: RLab)
+
+- **Requirements:** 300 words
+- **Time allowed:** 30 minutes
+- **XP:** 30
+- **Drops:** 2-5 Raw Steel, 2-4 Glass Shards
+- **Quests:** none yet
 
 ### Zosimaga (Exp: ShrineMar)
 

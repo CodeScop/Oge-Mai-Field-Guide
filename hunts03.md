@@ -1,4 +1,4 @@
-LAST UPDATED 29 AUG 2020
+LAST UPDATED 9 SEPT 2020
 
 Season 2 is back in the Desert; now, we're in the Water Region, to Season 3: The Season of Growth, watched over by the Caretaker.
 
@@ -215,12 +215,10 @@ Season 3 has been scarce on Assistants and seems to be scarce on new monsters. S
 
 - **Late Aug 2020 Sources Outside the Hunt:**
 
-  
-
   ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
 
   - Global Battles: Vi, Viyusa, Awa
-  - LF Battles: Spirit Wignow
+- LF Battles: Spirit Wignow
   - MT Battles: Ardii, Lorsa, Spirit Lorsini
   - FOREST EXPEDITION:
     - BC Battles: Sacer (may be a leftover from wings last month, may be removed)
@@ -241,10 +239,10 @@ Season 3 has been scarce on Assistants and seems to be scarce on new monsters. S
     - SwampL Battle: Rhamp
   - Balance Battles: Furoxi, Castu, Nuig, Water Rudakai
   - DFO Battles: Spirit Ardia, Molox, Osalyu, Spirit Papple, Lycosta,  Chaensi, Babu, Miclan
-
+  
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
-- **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices)
+- **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices), outside game
 
 ## Hunt for the Ancients Season 3 Questline Summary
 
