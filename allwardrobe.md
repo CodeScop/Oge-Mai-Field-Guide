@@ -1,4 +1,4 @@
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 12 SEPT 2020
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
 
@@ -250,6 +250,130 @@ Because some people might be on the hunt for all the wardrobe items available in
 - **Zuly, Tailor of Fine Goods** sells:
   - **Angel Wings: **Cost: 365 consecutive Streak days
   - **Color Angel Wings:** Cost: 547 consecutive Streak days
+
+### Impact Crater
+
+- The quest **Loving Rocky Roads** returns the **Brachi Hat** https://4thewords.com/media/wardrobe/featured/female/wf&#95;886-spiky-rock-hat-6156-94723.png
+- **Stabbing Dinti Spikes** gives you the Rock Skirt: https://4thewords.com/media/wardrobe/featured/female/wf&#95;885-rock-skirt-6154-61176.png
+- **Mighty Teraleo Hunter** gives us the **Teraleo Necklace** https://4thewords.com/media/wardrobe/featured/male/wm&#95;1091-beetle-necklace-7906-81552.png
+- **A Happy Prickle** unlocks **Crystal Eyebrows**, which have six variations:
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;898-crystal-eyebrows-6275-15891.png
+  - electric blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;898-crystal-eyebrows-6277-61554.png
+  - dinti green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;898-crystal-eyebrows-6278-62061.png
+  - hot pink: https://4thewords.com/media/wardrobe/featured/female/wf&#95;898-crystal-eyebrows-6279-77856.png
+  - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;898-crystal-eyebrows-6280-91674.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;898-crystal-eyebrows-6281-82513.png
+- **One Rocky Start (1/2)** gives *two* rewards: **Halix Hat** https://4thewords.com/media/wardrobe/featured/male/wm&#95;883-snail-hat-6150-16248.png and **Golden Shield** (which was also available from a quest last October-November) https://4thewords.com/media/wardrobe/featured/male/wm&#95;featured&#95;gold&#95;shield&#95;4thewords.png
+- **Crown of Rocks (2/2)** gives us Rock Crown https://4thewords.com/media/wardrobe/featured/male/wm&#95;1090-beetle-crown-7904-84955.png
+- **Aid the Wordsmith (Fleet Cadet 1/5)** unlocks **Space Bodysuit Purple:** https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;purple.png
+- **Aid the Wordsmith (Fleet Cadet 2/5)** unlocks **Space Bodysuit Blue:** https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;blue.png
+- **Aid the Wordsmith (Fleet Cadet 3/5)** unlocks **Space Bodysuit Red**, which has **two variants:**
+  - plain: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;red.png
+  - with alien tattoos sewn in: https://media.4thewords.com/s3/media/wardrobe/icons/icon&#95;space&#95;bodysuit&#95;red&#95;tattoos.png
+- **Aid the Wordsmith (Fleet Cadet 4/5)** unlocks **Space Bodysuit Orange**, which has **two variants:**
+  - plain: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;yellow.png
+  - with alien tattoos sewn in: https://media.4thewords.com/s3/media/wardrobe/icons/icon&#95;space&#95;bodysuit&#95;yellow&#95;tattoos.png
+- **Aid the Wordsmith (Fleet Cadet 5/5)** unlocks **Space Bodysuit Black:**, which has **two variants:** 
+  - plain: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;black.png
+  - with alien tattoos sewn in: https://media.4thewords.com/s3/media/wardrobe/icons/icon&#95;space&#95;bodysuit&#95;black&#95;tattoos.png
+- **Aid the Wordsmith (Fleet Officer 1/4)** unlocks **Space Bodysuit White:** https://4thewords.com/media/wardrobe/featured/male/wm&#95;952-white-spacesuit-6881-99572.png
+- **Aid the Wordsmith (Fleet Officer 2/4)** unlocks a different **Space Bodysuit Black** than the earlier one: https://4thewords.com/media/wardrobe/featured/male/wm&#95;949-black-spacesuit-6875-43619.png
+- **Aid the Wordsmith (Fleet Officer 3/4)** unlocks **Space Bodysuit Dinti:** https://4thewords.com/media/wardrobe/featured/male/wm&#95;950-green-spacesuit-6877-83939.png
+- **Aid the Wordsmith (Fleet Officer 4/4)** unlocks **Space Bodysuit Glowing Dinti:** https://4thewords.com/media/wardrobe/featured/male/wm&#95;951-supreme-green-spacesuit-6879-61481.png
+
+### Spaceship
+
+- The quest **Aid the Aliens** gets you a **Drill Necklace** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1098-drill-necklace-7944-31482.png
+- **Sparks to Ignite (3/3)**  gets you an **OnFire Lab Coat**, which has **seven variants:**
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1105-onfire-lab-coat-7967-71131.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1105-onfire-lab-coat-7968-87485.png
+  - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1105-onfire-lab-coat-7970-28070.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1105-onfire-lab-coat-7971-10537.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1105-onfire-lab-coat-7972-60425.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1105-onfire-lab-coat-7974-27503.png
+  - white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1105-onfire-lab-coat-7975-55548.png
+
+- The quest **Train the Guards** gets you **Security Boots** as **either knee or ankle boots.** NOTE: The previews for the Type 2/femme avatar knee boots are currently demoing on Type 1/masc shadow-legs, making them look off-center, so I'm using the Type 1 preview.
+  - knee boots: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1103-police-shoes-7956-67847.png
+  - ankle boots with mismatched socks: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1103-police-shoes-7959-76312.png
+
+- **Tracking Shooting Stars** will give you the **Speed Visor**, formerly called the Space Visor, with **six variants**, legacy of the 2019 NaNoWriMo event:
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;speed&#95;visor&#95;blue.png
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;speed&#95;visor&#95;black.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;speed&#95;visor&#95;green.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;speed&#95;visor&#95;purple.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;speed&#95;visor&#95;red.png
+  - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;speed&#95;visor&#95;yellow.png
+
+### Mining Site
+
+- The **Dinti Jewelry Shop** offers the following items. If you already have the item from a previous event or purchase, it will not be available in the shop.
+
+  - Raw Dinti Earrings - 10 Dinti
+  - Refined Dinti Earrings - 10 Dinti
+  - Refined Dinti Necklace - 10 Dinti
+  - Refined Dinti Headband - 15 Dinti
+  - Raw Dinti Anklet - 20 Dinti
+  - Raw Dinti Bracelet - 20 Dinti
+  - Dinti Upper Earrings - 25 Dinti
+  - Raw Dinti Necklace - 25 Dinti
+  - Refined Dinti Bracelet - 25 Dinti
+  - Dinti Belt - 30 Dinti
+  - Dinti Swirl Earrings - 30 Dinti
+  - Dinti Swirls Necklace - 30 Dinti
+- The quest **Recovering Stolen Goods** gets you a personal favorite, the **Thief Hood**, which has **five variants**:
+  - dark red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1095-thief-hood-7925-73344.png
+  - dark brown: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1095-thief-hood-7926-68600.png
+  - dark purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1095-thief-hood-7927-69058.png
+  - dark blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1095-thief-hood-7929-75347.png
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1095-thief-hood-7931-91838.png
+- **Thieving Glowing Rocks** gets you an **Exoskeleton** with **3 variants**. NOTE: The previews for the Type 2/femme avatar are currently demoing on Type 1/masc shadow-legs, making them look off-center, so I'm using the Type 1 preview.
+  - both legs: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1093-exoeskeleton-7914-33237.png
+  - left leg: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1093-exoeskeleton-7916-14868.png
+  - right leg: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1093-exoeskeleton-7918-94882.png
+- The quest **Drilling Too Deep** gives you **Miner Hat**, which has **7 variants:**
+  - light off: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;miner&#95;helmet&#95;light&#95;off.png
+  - blue light: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;miner&#95;helmet&#95;light&#95;blue.png
+  - green light: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;miner&#95;helmet&#95;light&#95;green.png
+  - purple light: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;miner&#95;helmet&#95;light&#95;purple.png
+  - red light: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;miner&#95;helmet&#95;light&#95;red.png
+  - white light: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;miner&#95;helmet&#95;light&#95;white.png
+  - yellow light: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;miner&#95;helmet&#95;light&#95;yellow.png
+
+### Research Lab
+
+- The quest **Life's An Experiment** gives us the **Toothless Smile**:  https://4thewords.com/media/wardrobe/featured/male/wm&#95;969-toothless-smile-7039-23134.png
+- **Testing the Valley** rewards you with a **Drill Bracelet** with **3 variants:**
+  - right wrist: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1092-drill-bracelet-7908-26970.png
+  - both wrists: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1092-drill-bracelet-7910-32744.png
+  - left wrist: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1092-drill-bracelet-7913-48789.png
+- The quest **Projecting Light** gives us the **Monster Hologram Pet** in twelve (!!) distinct variants:
+  - Lombri: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7226-90927.png
+  - Suulan: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7228-18901.png
+  - Tambo: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7231-77886.png
+  - Sassi: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7233-18804.png
+  - Kiru: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7234-43256.png
+  - Nuig: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7239-90986.png
+  - Arenica: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7240-17338.png
+  - Zanthei: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7244-56745.png
+  - Lubu: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7246-42512.png
+  - Kiru again (probably to be deleted, is 13th): https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7234-43256.png
+  - Xin: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7248-46866.png
+  - Maesc: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7249-49785.png
+  - Wignow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;993-monster-hologram-pet-7250-97222.png
+
+- **Create a Clearing (2/4)** gives you the versatile **Rock Hair Earring**, with the "hair" part being consistently cream-colored and the "rock" part coming in **11 variants:**
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1085-rock-hair-earring-7806-85798.png
+  - white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1085-rock-hair-earring-7807-71220.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1085-rock-hair-earring-7810-97515.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1085-rock-hair-earring-7813-15545.png
+  - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1085-rock-hair-earring-7816-14766.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1085-rock-hair-earring-7818-79225.png
+  - turquoise: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1085-rock-hair-earring-7820-55787.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1085-rock-hair-earring-7822-54668.png
+  - gray: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1085-rock-hair-earring-7823-84098.png
+  - light brown: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1085-rock-hair-earring-7824-80708.png
+  - magenta: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1085-rock-hair-earring-7825-46557.png
 
 ### Dig Site
 

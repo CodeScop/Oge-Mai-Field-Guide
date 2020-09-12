@@ -1,4 +1,4 @@
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 12 SEPT 2020
 
 Here we have everything from Three Points Crossing and Gansu Watering Hole, barring any Hunt info that doesn't apply to Hunter Tokens. Use wisely. :) Anything that says FOREST or FOREST EXPEDITION can be looked up in more detail under Forest Resources. Any Alien Meteoroid resources will stick to the Alien Meteoroid section until we get to the Desert Summary.
 
@@ -97,7 +97,6 @@ Here we have everything from Three Points Crossing and Gansu Watering Hole, barr
   - Gansu Battles: Wetu (1100 words for 1-2), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1-2), Arenica (1350 words, 1 Steel Dagger for 1), Suulan (2000 words, 1 Steel Dagger for 1)
 - **Sell price:** 25 Coins (don't sell unless you have >200, ideally >500)
 - **Used for:** later game,
-  - Craft Gansu: Protective Mantle (2)
   - Gansu Quests: Main Quest 1/Circle of Protection (15), Main Quest 3/Sacred Shrine (5), Stone Collector (100), Protect the Body (50), Protect the Mind (100), Protect the Spirit (200), Respark the Flame (20)
 
 ### Desert Wooden Chest
@@ -126,7 +125,6 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Used for:** 
   - FOREST
   - Craft 3PC: Glass Bar (2), Glass Scimitar (5), Glass Staff (3), Sands Ring (3)
-  - Craft Gansu: Protective Mantle (5)
   - 3PC Quests: Sand in Places (50), We Lucky Few (20)
 
 ### Essence
@@ -523,8 +521,7 @@ FOREST ONLY
 
 ### Protective Cloak
 
-- **Source:** Craft Gansu,
-  - Gansu Quest: Battle Experience (1)
+- **Source:** Gansu Quest: Battle Experience (1)
 - **Sell Price:** 150 Coins (see Used For before selling )
 - **Used for:** Absolutely nothing at all as of this writing. These used to be extremely expensive items thrown at Gansu battles just like Protective Mantles; when Gansu was rebalanced, these were left absolutely useless. Maybe keep some in stock just in case they regain usefulness or become collector's items, but there's absolutely no practical reason to hang on to them right now.
 
@@ -535,7 +532,7 @@ FOREST ONLY
   - Gansu Stone Chest: 1
   - Gansu Quest: Battle Experience (2), Main Quest 8/Dust to Dust (1-indefinite)
 - **Sell Price:** 100 Coins ( see Used For before selling )
-- **Used for:** Craft Gansu: Protective Cloak (1) (as useless as Protective Mantle at the moment)
+- **Used for:** See Protective Cloak; no use at present time, unclear if there ever will be again.
 
 ### Raw Fabric
 
@@ -620,7 +617,6 @@ FOREST ONLY
 - **Used for:** later game,
   - FOREST
   - Craft 3PC: Fine Fabric (1)
-  - Craft Gansu: Protective Mantle (1)
   - 3PC Quests: Main Quest 3/Camouflage (4), Tailor (30)
 
 ### Reenu Wings
@@ -698,7 +694,7 @@ FOREST ONLY
 - **Source:** Gansu Battles: Arenica (1350 words, 1 Steel Dagger for 2)
 - **Sell price:** 25 Coins (don't sell unless you have >50)
 - **Used for:** 
-  - Craft Gansu: Protective Cloak (1), Stempo (1)
+  - Craft Gansu:  Stempo (1)
   - 3PC Quest: Double the Rarity (12)
   - Gansu Quest: Main Quest 3/Sacred Shrine (1), Sacred Feathers (10), Local Shrine (5), First Stempo (1)
 
@@ -782,7 +778,6 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
 - **Used for:** later game,
   - FOREST (New MT Quest Iron on Sand (25) ; New LF Quests It's Bigger Inside (5), Enter Pan's Labyrinth (3))
   - Craft 3PC: Crossbow (2), Fabric Boots (1), Fabric Breastplate (3), Fabric Helmet (2), Glass Necklace (1), Glass Scimitar (2), Glass Staff (1), Net (1), Steel Spear (2), Steel Sword (3)
-  - Craft Gansu: Protective Cloak (1)
   - 3PC Quests: Main Quest 2/Just Another Brick (4), Sand in Places (1)
 
 ### Steel Dagger
@@ -932,7 +927,7 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 - **Source:** Gansu Battles: Suulan (2000 words, 1 Steel Dagger for 1-2)
 - **Sell price:** 30 Coins (don't sell unless you have >50)
 - **Used for:** 
-  - Craft Gansu: Protective Cloak (1), Stempo (1)
+  - Craft Gansu: Stempo (1)
   - 3PC Quest: Double the Rarity (12)
   - Gansu Quest: Main Quest 3/Sacred Shrine (1), Main Quest 5/White Stars' Light (3), White Coat (10), Local Shrine (5), First Stempo (1)
 

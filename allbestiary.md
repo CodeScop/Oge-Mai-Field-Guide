@@ -1353,7 +1353,7 @@ see **Skuppa's Giant Marionette**
 
 # M-Z
 
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 12 SEPT 2020
 
 ### Maesc (Exp: IC)
 
@@ -2371,6 +2371,16 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 8
 - **Baseline Drops:** 2 Coins, 1 Hunter Token
+- **Quests:** none
+
+### Vanvri (Oge: Balance)
+
+- **Requirements:** Battle 20 Minutes Continuously
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of words written
+- **Baseline XP:** 60
+- **Drops:** 
+  - Baseline: 20 Coins, 1 River Water, 2 Hunter Tokens
+  - Other: 1-8 Leaves
 - **Quests:** none
 
 ### Velts (Oge: MT*)

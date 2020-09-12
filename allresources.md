@@ -1,6 +1,6 @@
 #A-F
 
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 12 SEPT 2020
 
 ##Abbreviations Used:
 
@@ -96,9 +96,12 @@ ALL GAME
   - WATER
     - Riza Stone Chest: 105-185
     - Balance River Chest: 100-220
+    - Balance Battle: Vanvri (20 minutes for 20-80)
   - DESERT
     - 3PC Wooden Chest: 31-59
     - 3PC Golden Chest: 80-111
+    - SpaceS Battles: Noit (800 words for 2-8), Captain Piak (1667 words for 2-11)
+    - MSite Battles: Ityf (1250 words for 5-15)
     - Gansu Stone Chest: 100-170
     - Gansu Quest: Main Quest 2/Lorsa Nest Network (100), Main Quest 5/White Stars' Light
     - Ruins Battles: Yantao (650 words for 1-4)
@@ -198,6 +201,8 @@ FOREST, DUST
   - FOREST: 
     - LF Tailor: Ardi Flame Hair (25)
     - MT Quest: Cool Creature Highlights 2/3 (25)
+  - DESERT:
+    - RLab Quest: Encourage an Ecosystem 4/4 (5)
   - DUST: 
     - DFO Quest: Reinforced Ardi Lamp Station (50)
     - DFO Craft: Reinforced Ardi Lamp (3)
@@ -257,6 +262,7 @@ DUST
   - LF Quest: Dark Luciola Materials 1/5 (15)
   - MT Quest: Dark Tree Materials 2/5 (20)
   - 3PC Quest: Dark Three Materials 3/5 (30)
+  - RLab Quest: Testing the Valley (10)
   - Balance Quest: Dark Floating Materials 5/5 (20)
 
 ### Bones Chest
@@ -397,7 +403,7 @@ DESERT, some WATER
 - **Sell price:** 25 Coins (don't sell unless you have >200, ideally >500)
 - **Used for:** 
   - DESERT
-    - Craft Gansu: Protective Mantle (2)
+    - RLab Quest: Zappy Zazzy Xombri (10)
     - Gansu Quests: Main Quest 1/Circle of Protection (15), Main Quest 3/Sacred Shrine (5), Stone Collector (100), Protect the Body (50), Protect the Mind (100), Protect the Spirit (200), Respark the Flame (20)
     - Ruins Quest: Tunnel Locked On (3)
     - HuntS2 Quest: Our Waymark Stones (10)
@@ -410,14 +416,25 @@ DESERT; see **Wooden Chest**.
 
 ### Dinti
 
-FOREST EXPEDITION
+some FOREST, DESERT
 
-NOTE: This is a new resource introduced during NaNo2019. We're still waiting to see if it's going to be useful in the regular game, or if it's mostly useful to people wrapping up unfinished NaNo quests.
-
-- **Sources:** 
-  - FOREST EXPEDITION: TT Battles: Fin (250 words for 1), Finoir (500 words for 1-2)
-- **Sell price:** 5 Coins (don't sell until we figure this out)
-- **Used for:** unknown
+- **Best sources:** DESERT
+  - IC Battles: Rhan (150 words for 1), Rosarin (500 words for 2-3)
+  - SpaceS Battles: Oxie (100 words for 0-1, usually 1 with enough Luck), Kolbs (200 words for 1)
+  - MSite Battles: Deepo (1667 words for 6-9), Pach (200 words for 1)
+- **Other sources:**
+  - FOREST:
+    - TT Battles: Fin (250 words for 1), Finoir (500 words for 1-2)
+  - DESERT:
+    - IC Battles: Brachi (600 words for 2-3), Maesc (250 words for 1), Nartha (350 words for 1-2), Erbor (400 words for 1-2), Teraleo (450 words for 1-2), Nedi (800 words for 2-3)
+    - SpaceS Battles: Captain Piak (1667 words for 5-7), Yalarr (500 words for 1-2)
+    - MSite Battles: Arren (800 words for 3-4), Zals (900 words for 3-5), Galatre (450 words for 2), Krang (500 words for 2), Halix (250 words for 1), Ipo (300 words for 1), Ityf (1250 words for 4-5), Skarn (1100 words for 3-5)
+    - RLab Battles: Dr. Hogglevoss (1200 words for 4), Ferenti (750 words for 1-3), Mowow (450 words for 1-2), Minica (900 words for 2-4), Dr. Enoe (1500 words for 2-4)
+- **Sell price:** 5 Coins (don't sell till you've bought everything you want in the Mining Site store and completed all desired quests)
+- **Used for:** 
+  - MSite Quest: Recovering Stolen Goods (50)
+  - RLab Quest: Encourage an Ecosystem 4/4 (5), Making Mellow Mowow (15)
+  - Wardrobe purchases at Mining Site (250 total)
 
 ### Dí Bag
 
@@ -447,6 +464,7 @@ DUST
 - **Sell price:** 8 Coins (don't sell unless you have >400)
 - **Used for:** 
   - Craft DFO: Piece of Parchment (3)
+  - RLab Quest: Zooty Zanutaki Zings (10)
 
 ### Dust
 
@@ -475,6 +493,7 @@ ALL GAME
     - GL Battles: Night Dandeleon (330 words for 1)
   - DESERT
     -  3PC Battles: Kiru (250 words for 1), Desert Wignow (444 words for 1-2), Grult (400 words for 1), Villager (1300 words, 1 Spider Poison, 5 Leaves for 2-3), Tambo (2000 words, 4 Rope, 10 Leaves, min level 5 for 2)
+    -  RLab Battles: Tessen (500 words for 1-3), Zanutaki (500 words for 1-3), Minica (900 words for 1-4)
     - Gansu Battles: Desert Wignow (444 words for 1-2)
     - Dig Battles: Okkorhi (1000 words for 2-6), Sakish (350 words for 1-2), Zera (550 words for 1-3
     - DigS, Ruins Battles: Rif (300 words for 1)
@@ -501,8 +520,8 @@ ALL GAME
     - FB Quest: Lighting the Way (25)
   - DESERT
     - Craft 3PC: Glass Bar (2), Glass Scimitar (5), Glass Staff (3), Sands Ring (3)
-    - Craft Gansu: Protective Mantle (5)
     - 3PC Quests: Sand in Places (50), We Lucky Few (20)
+    - RLab Quest: Zappy Zazzy Xombri
   - WATER
     - Balance Quests: Main Quest 4/Potion For A Goddess (need 50)
   - DUST
@@ -554,10 +573,11 @@ ALL GAME, especially FOREST, DESERT, DUST
   - DESERT
     - Craft 3PC: Fine Fabric (1)
     - Craft Gansu: Stempo (10)
+    - RLab Quest: Making Mellow Mowow (3)
     - Gansu Quest: First Stempo (10)
   - DUST
     - Craft DFO: Blue Essence Ink (1)
-    - DFO Quests: Main Quest 8/Bound Up In (20)d
+    - DFO Quests: Main Quest 8/Bound Up In (20)
 
 ### Fabric Boots
 
@@ -619,6 +639,7 @@ FOREST, some DESERT, some WATER
     - TT Quest: Swing, Sway, Summon (25)
   - DESERT
     - 3PC Quest: Luciola Materials (15)
+    - RLab Quest: Encourage an Ecosystem 4/4 (5)
 
 ### Fine Fabric
 
@@ -629,6 +650,9 @@ DESERT, some WATER
     - 3PC Battles: Yasri (1250 words for 1)
     - Gansu Battles: Suulan (2000 words, 1 Steel Dagger for 1-2), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1)
     - Gansu Stone Chest drop: 2-5
+    - SpaceS Battles: Kovar (350 words for 0-1), Yalarr (500 words for 1), Captain Piak (1667 words for 1-4)
+    - MSite Battle: Ityf (1250 words for 1-2)
+    - RLab Battle: Sulanica (1000 words for 1-2), Dr. Hogglevoss (1200 words for 0-2), Dr. Enoe (1500 words for 1-2)
   - WATER
     - Riza Stone Chest drop: 3-6
 - **Craft:** DESERT: 3PC Crafts & Trinkets/Shuri of Sand: 5 Raw Fabric, 1 Red Dye, 1 Essence
@@ -637,6 +661,7 @@ DESERT, some WATER
   - DESERT
     - Craft 3PC: Fabric Boots (1), Fabric Breastplate (2), Fabric Helmet (2), Steel Sword (1), Stone Hammer (1)
     - 3PC Quests: Main Quest 3/Camouflage (6)
+    - RLab Quest: Sagacious Sincere Sabu (10)
 
 ### Fur
 
@@ -659,6 +684,7 @@ ALL GAME
     - GL Battles: Maikile (750 words for 2-3)
   - DESERT
     - 3PC Battles: Tambo (2000 words, 4 Rope, and 10 Leaves for 5)
+    - RLab Battle: Zanutaki (500 words for 1-2)
     - Dig Battle: Kapir (800 words for 1), Zera (550 words for 1)
     - Ruins Battle: Griffe (450 words for 1), Yantao (650 words for 1)
     - ShrinePoly Battles: Poly Mawt (900 words for 3-5)
@@ -678,10 +704,12 @@ ALL GAME
     - Craft LF: Leaf Boots (3)
     - Craft MT: Leaf Helmet (5), Leaf Boots (3), Protected Leaf Helmet (5), Vine Net (5)
     - Quest: Lumberjack's Tools (5), New Style (10)
+  - DESERT
+    - RLab Quests: Sagacious Sincere Sabu (5), Zappy Zazzy Xombri (3)
 
 # G-O
 
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 12 SEPT 2020
 
 ### Glass
 
@@ -700,6 +728,9 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
     - 3PC Wooden Chest drop: 1
     - 3PC Golden Chest drop: 2-4, usually 3-4
     - 3PC Quest: Explore the City (1)
+    - SpaceS Battles: Captain Piak (1667 words for 1-3)
+    - MSite Battle: Zals (900 words for 1)
+    - RLab Battles: Dr. Enoe (1500 words for 1-2), Dr. Hogglevoss (1200 words for 1)
   - Limited-availability battles in Riza Main Quest sequence
 - **Craft:** DESERT: 3PC Blacksmith/Blacksmith Barliar: 3 Glass Shards, 2 Dust, 10 Coins, and 3 Wood
 - **Sell price:** 85 Coins (Don't sell unless you have >200.)
@@ -710,6 +741,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
     - Craft 3PC: Glass Necklace (2), Glass Scimitar (3), Glass Staff (3), Sands Ring (4), Stone Ring (1)
     - Craft Gansu: Stempo (1)
     - Gansu Quest: First Stempo (1)
+    - RLab Quest: Build a Biodome 3/4 (15)
   - WATER
     - Craft Balance: Underwater Torch (1)
   - DUST
@@ -743,6 +775,7 @@ DESERT, WATER, DUST
 - **Best source:** Buy
   - DESERT
     - 3PC Battles: Kiru (250 words for 2)
+    - RLab Battles: Fonar (200 words for 2-4), Zoomga! (300 words for 2-4), Ame (100 words for 0-1)
     - ShrineCO Battles: Elobre (200 words for 1-2)
   - WATER
     - Riza Battles: Sparfly (450 words for 1-2)
@@ -750,13 +783,19 @@ DESERT, WATER, DUST
 - **Other sources:** 
   - DESERT
     - 3PC Battles: Bruja (900 words for 1-2), Lombri (1500 words for 1-2), Yasri (1250 words for 1)
+    - IC Battles: Nedi (800 words for 1-3)
+    - SpaceS Battles: Captain Piak (1667 words for 3-7), Ledd (500 words for 1-2)
+    - MSite Battle: Skarn (1100 words for 1-2)
+    - RLab Battles: Tessen (500 words for 1-3), Minica (900 words for 2-5), Sulanica (1000 words for 1-3), Zanutaki (500 words for 1)
     - Gansu Battles: Ylly (720 words for 2), Sparfly (450 words for 1-2), Suulan (2000 words, 1 Steel Dagger for 2-3), Arenica (1350 words, 1 Steel Dagger for 1)
   - DUST
     - DFO Battles: Papple Spirit (900 words for 1), Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3)
 - **Buy:** DESERT: 75 Coins at 3PC Blacksmith/Blacksmith Barliar AND Gansu Item Shop/Tepij Locals
 - **Sell price:** 12 Coins (Make Glass Bars out of any Glass Shards you have over 5; it'll be most useful that way)
 - **Used for:** 
-  - DESERT: Craft 3PC: Glass Bar (3)
+  - DESERT: 
+    - Craft 3PC: Glass Bar (3)
+    - RLab Quests: Silkly Sleek Sulanica (10), Zooty Zanutaki Zings (15)
   - WATER: Riza Quests: Main Quest 3/Remedy for a Friend (3)
 
 ### Glass Staff
@@ -829,6 +868,7 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 some DESERT, WATER, DUST
 
 - **Best sources:** 
+  - DESERT: SpaceS Battle: Szalin (700 words for 0-2)
   - WATER: Riza Battles: Jaihri (485 words for 1)
 - **Other sources:** Buy,
   - WATER
@@ -954,7 +994,7 @@ ALL GAME
   - Gansu Battles: Pipit (900 words for 9)
   - Dig Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4), Lubu (450 words for 4-5), Shepherd (1000 words for 10)
   - Ruins Battles: Lubu (450 words for 4-5)
-  - Balance Battles: Velts: Water (1600 words for 16)
+  - Balance Battles: Velts: Water (1600 words for 16), Vanvri (20 minutes for 2-8)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25)
@@ -1002,7 +1042,9 @@ DESERT EXPEDITION, DUST
 - **Source:** DESERT EXPEDITION: Dig Battle: Kapir (800 words for 1)
 - **Sell price:** 25 Coins (don't sell unless you have >15)
 - **Used for:** 
-  - DESERT EXPEDITION Ruins Quest: Tunnel Locked On (3)
+  - DESERT
+    - RLab Quest: Testing the Valley (2)
+    - Ruins Quest: Tunnel Locked On (3)
   - DUST DFO Quest: Main Quest 8/Bound Up In (10)
 
 ### Leaf Boots
@@ -1178,6 +1220,7 @@ ALL GAME, especially FOREST
     - TT Battles: Buhini (150 Words, 1 Nezthai Claw, 2-day Streak for 1-2), Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 3), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-3)
     - GL Battles: Maikile (750 words for 4-7), Night Dandeleon (330 words for 1-2)
   - DESERT
+    - RLab Battles: Xomri (300 words for 1-2), Mowow (450 words for 1-3)
     - Shrine GO Battles: Wowtri Ooze (250 words for 0-2), Balli Ooze (250 words for 0-1)
     - ShrinePoly Battles: Poly Wignow (314 words for 3-4), Poly Reenu (200 words for 1), Poly Mawt (900 words for 2-3)
     - ShrineDucks Battles: Tian (100 words for 1), Idaa (400 words for 1-3), Natida (500 words for 1-3), Aita (125 words for 0-1)
@@ -1189,6 +1232,7 @@ ALL GAME, especially FOREST
     - SurfaceC Battles: Olea (100 words for 1)
     - SwampL Battles: Swamp Wignow (500 words for 2-4), Rhamp (250 words for 1-2), Quishi (350 words for 1)
     - SacredS Battles: Kuldoro (100 words for 0-1), Bashta (400 words for 2-4), Swamp Wignow (500 words for 2-4), Minko (600 words for 2-4), Toccal (800 words for 3-5)
+    - Balance Battle: Vanvri (20 minutes for 1-8)
 - **Buy:** FOREST: 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
 - **Used for:** 
@@ -1202,6 +1246,7 @@ ALL GAME, especially FOREST
   - DESERT
     - Craft 3PC, Gansu: Lorsa Nest (6)
     - 3PC Battles: Villager (need 5), Tambo (10, usually drops 2-3 for net cost of 7-8)
+    - RLab Quests: Encourage an Ecosystem 4/4 (30), Making Mellow Mowow (15)
     - Gansu Battles: Desert Rudakai (need 10)
     - 3PC Quests: Main Quest 5/A Way South (20), Fan the Flames (50)
   - WATER
@@ -1220,7 +1265,9 @@ FOREST
     - Craft MT: Protected Leaf Helmet (2)
     - LF Quests: Style Is Eternal (5)
     - MT Quest: Cool Creature Highlights 2/3 (10)
-  - DESERT: 3PC Quests: Luciola Materials (5)
+  - DESERT: 
+    - 3PC Quest: Luciola Materials (5)
+    - RLab Quest: Encourage an Ecosystem 4/4 (5)
 
 ### Lorsa Nests
 
@@ -1269,6 +1316,7 @@ some FOREST, WATER
 - **Sell price:** 10 Coins (Can sell if you have >40)
 - **Used for:** 
   - WATER: Balance Quests: Main Quest 4/Potion For A Goddess (need 12), It's Electric! (need 10)
+  - DESERT: RLab Quests: Testing the Valley (3), Zooty Zanutaki Zings (10)
   - FOREST: MT Quest: Thinking Like Ink 4/5 (15, Creature Colors & Highlights 3/3 (8)
 
 ### Old Staff
@@ -1292,7 +1340,7 @@ FOREST, DESERT
 
 # P-R
 
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 12 SEPT 2020
 
 ### Pickaxe
 
@@ -1307,11 +1355,13 @@ DESERT EXPEDITION, DUST
 
 ### Piece of Parchment
 
-DUST
+some DESERT, DUST
 
 - **Sources:** Craft,
-  - DFO Bones Chest: 2-6
-  - DFO Quest: Light Up The Outpost 2/4 (15)
+  - DESERT: RLab Battle: Dr. Hogglevoss (1200 words for 1-3)
+  - DUST
+    - DFO Bones Chest: 2-6
+    - DFO Quest: Light Up The Outpost 2/4 (15)
 - **Craft:** DFO Item Shop & Craft/Dessti's Shack: 3 Dried Pulp, 3 Dust, 3 Wood
 - **Sell price:** 10 Coins (don't sell, not worth it)
 - **Used for:** 
@@ -1333,10 +1383,7 @@ FOREST
 
 DESERT
 
-- **Sources:** 
-  - DESERT
-    - Craft Gansu,
-    - Gansu Quest: Battle Experience (1)
+- **Source:** DESERT: Gansu Quest: Battle Experience (1)
 - **Sell Price:** 150 Coins (see Used For before selling )
 - **Used for:**  Absolutely nothing at all as of this writing. These used to be extremely expensive items thrown at Gansu battles just like Protective Mantles; when Gansu was rebalanced, these were left absolutely useless. Maybe keep some in stock just in case they regain usefulness or become collector's items, but there's absolutely no practical reason to hang on to them right now.
 
@@ -1351,7 +1398,7 @@ DESERT
     - Gansu Stone Chest: 1
     - Gansu Quest: Battle Experience (2), Main Quest 8/Dust to Dust (1-indefinite)
 - **Sell Price:** 100 Coins ( see Used For before selling )
-- **Used for:**  DESERT: Craft Gansu: Protective Cloak (1) (as useless as Protective Mantle at the moment)
+- **Used for:**  See Protective Cloak. No use at the moment.
 
 ### Raina Bracelet
 
@@ -1403,6 +1450,7 @@ ALL GAME
     - BC, FB, SC, TT Battles: Alnu (400 words for 1-2)
   - DESERT
     - 3PC Battles: Frizi (150 words for 2)
+    - RLab Battles: Ame (100 words for 1-2), Fonar (200 words for 2)
     - Gansu Battles: Frizi (150 words for 2)
     - ShrinePoly Battles: Cubed Frizi (200 words for 1-2)
     - ShrineDucks Battles: Idaa (400 words for 1-3), Natida (500 words for 0-2)
@@ -1414,6 +1462,9 @@ ALL GAME
   - DESERT
     - 3PC Battles: Bruja (900 words for 2-3), Czanus (700 words for 2-4),  Yasri (1250 words for 2-3), Lombri (1500 words and 1 Wood Spear for 3)
     - Gansu Battles:  Pipit (900 words for 2-4), Ylly (720 words for 3), Sparfly (450 words for 1), Suulan (2000 words, 1 Steel Dagger for 2),  Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 3)
+    - IC Battles: Nedi (800 words for 2-5)
+    - SpaceS Battles: Kovar (350 words for 1-2), Yalarr (500 words for 2-3), Noit (800 words for 2-5)
+    - RLab Battles: Sabu (500 words for 1-3), Tessen (500 words for 2), Xomri (300 words for 1), Gwynos (450 words for 1-2), Minica (900 words for 2-4), Sulanica (1000 words for 2-3), Dr. Enoe (1500 words for 2-4)
     - DigS Battles: Okkorhi (1000 words for 1-3)
     - HuntS2/Dig Battles: Imali (150 words for 1), Shashi (250 words for 1-2), Attleas (350 words for 2-3), Shepherd (1000 words for 2-6)
     - HuntS2/Dig, Ruins Battles: Lubu (450 words for 1-2)
@@ -1435,6 +1486,7 @@ ALL GAME
     - Craft 3PC: Fabric Boots (4), Fabric Breastplate (5), Fabric Helmet (2), Fine Fabric (5), Glass Staff (2), Steel Spear (3)
     - 3PC Quests: Main Quest 3/Camouflage (10), Main Quest 5/A Way South (5), Sand in Places (35)
     - Gansu Quest: Rebuild the Watering Hole (50)
+    - RLab Quests: Encourage an Ecosystem 4/4 (15), Silkly Sleek Sulanica (5)
   - WATER: Craft Balance: Water Mask (2)
   - DUST: DFO Quest: Dessti's New Home (100)
 
@@ -1455,6 +1507,8 @@ DESERT, some FOREST, some WATER
   - FOREST: GL Battles: Gobkey (400 words for 0-1)
   - DESERT
     - Gansu Battles: Suulan (2000 words, 1 Steel Dagger for 1-2), Arenica (1350 words, 1 Steel Dagger for 1), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1)
+    - MSite Battles: Zals (900 words for 1-4), Skarn (1100 words for 2-4), Ityf (1250 words for 2-4)
+    - RLab Battle: Sulanica (1000 words for 1)
     - 3PC Golden Chest: 3-6
     - Dig Battles: Shashi (250 words for 0-1), Okkorhi (1000 words for 1-4)
     - Ruins Quest: Searching South (5), Gordi & Griffe Gather (3)
@@ -1477,6 +1531,7 @@ DESERT, some WATER
   - DESERT
     - 3PC Battles: Vanspi (10 minutes for 1-5), Velts: Desert (1200 words for 1-3), Lombri (1500 words and 1 Wood Spear for 1-2)
     - Gansu Battles:  Wetu (1100 words for 3), Sparfly (450 words for 1-2, rarely 0), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1-2)
+    - MSite Battle: Skarn (1100 words for 1-5), Krang (500 words for 1-2)
     - Dig Battles: Shepherd (1000 words for 1-3), Kapir (800 words for 0-1), Okkorhi (1000 words for 0-2), Sakish (350 words for 1), Zera (550 words for 1-2)
     - Ruins Battles: Bevrex (300 words for 1), Griffe (450 words for 1-2), Ripos (1800 words for 1-2)
     - Ruins Quest: Withdrawing West (5)
@@ -1500,6 +1555,7 @@ some FOREST, DESERT, some WATER, DUST
     - Ruins Battles: Gordi (80 words for 1)
     - 3PC Battles: Rulo (550 words for 1-3), Yasri (1250 words for 2-3)
     - Gansu Battles: Rulo (550 words for 1-3),  Sparfly (450 words for 1-2), Wetu (1100 words for 2)
+    - RL Battles: Zoomga! (300 words for 2-5), Arenica Hologram (100 words for 1), Kiru Hologram (100 words for 1), Lombri Hologram (100 words for 1), Lubu Hologram (100 words for 1), Maesc Hologram (100 words for 1), Nuig Hologram (100 words for 1), Sassi Hologram (100 words for 1), Suulan Hologram (100 words for 1), Tambo Hologram (100 words for 1), Wignow Hologram (100 words for 1), Xin Hologram (100 words for 1), Zanthei Hologram (100 words for 1)
   - WATER: 
     - Riza Battles: Sparfly (450 words for 1-2)
     - SurfaceC Battles: Droxa (1800 words for 3-5), Vota (800 words for 2), Knusha (1200 words for 0-2)
@@ -1510,6 +1566,10 @@ some FOREST, DESERT, some WATER, DUST
   - FOREST: MT Battles: Clawadin (800 words for 1-2), Velts (800 words for 0-2)
   - DESERT
     - 3PC Battles: Czanus (700 words for 1-3), Velts: Desert (1200 words for 2-4)
+    - IC Battles: Brachi (600 words for 1-2)
+    - SpaceS Battles: Szalin (700 words for 3-6), Kovar (350 words for 1-3), Noit (800 words for 2-4)
+    - MSite Battles: Deepo (1667 words for 3-7), Arren (800 words for 1-3)
+    - RLab Battles: Ferenti (750 words for 2-5), Tessen (500 words for 1-2), Sabu (500 words for 0-1)
     - Dig Battles: Okkorhi (1000 words for 0-3)
     - Dig, Ruins Battles: Lubu (450 words for 0-1)
     - Ruins Battles: Yantao (650 words for 1-2)
@@ -1530,6 +1590,7 @@ some FOREST, DESERT, some WATER, DUST
   - DESERT
     - Craft 3PC: Steel Bar (3)
     - Craft Gansu: Steel Fishing Rod (1)
+    - MSite Quest: Recovering Stolen Goods (10)
   - WATER: Craft Balance: Steel Fishing Rod (2)
 
 ### Raw Stone
@@ -1540,10 +1601,10 @@ ALL GAME
   - DESERT
     - 3PC Battles: Grult (400 words for 3), Kiru (250 words for 1)
     - Gansu Battles: Wetu (1100 words for 3-4)
+    - IC, MSite, Shrine TFA Battles: Arir (100 words for 1-2)
     - Dig Battles: Loi (150 words for 1)
     - Ruins Battles: Gordi (80 words for 1)
     - Post-DFO Ruins Battles: Spirit Griffe (480 words for 2-3)
-    - Shrine TFA Battles: Arir (100 words for 1-2)
     - ShrineCO Battles: Zainga (250 words for 1-3), Kenkom (360 words for 1-3)
     - Shrine GO Battles: Tryi Ooze (150 words for 0-1), Giant Ooze (1000 words for 1-4)
 - **Other sources:** 
@@ -1553,6 +1614,10 @@ ALL GAME
   - DESERT
     - 3PC Battles: Rulo (550 words for 1), Lombri (1500 words and 1 Wood Spear for 2-3)
     - Gansu Battles: Rulo (550 words for 1), Pipit (900 words for 1-2), Suulan (2000 words, 1 Steel Dagger for 1)
+    - IC Battles: Rhan (150 words for 1-2), Rosarin (500 words for 3-6), Maesc (250 words for 1-3), Teraleo (450 words for 2-4), Erbor (400 words for 1-4), Brachi (600 words for 2-5), Nartha (350 words for 1-3)
+    - SpaceS Battles: Oxie (100 words for 1-2), Kolbs (200 words for 1-2)
+    - MSite Battles: Halix (250 words for 1-3), Galatre (450 words for 2-5), Pach (200 words for 1-2), Ipo (300 words for 1-3), Krang (500 words for 1-5), Skarn (1100 words for 3-6), Arren (800 words for 0-5), Deepo (1667 words for 0-7)
+    - RLab Battles: Mowow (450 words for 1-4), Gwynos (450 words for 0-2), Xomri (300 words for 1)
     - Dig Battles: Kapir (800 words for 0-1), Sakish (350 words for 1)
     - Ruins Battles: Griffe (450 words for 1), Ripos (1800 words for 1-3)
     - Ruins Quest: Excavating East (5)
@@ -1571,6 +1636,7 @@ ALL GAME
 - **Used for:** 
   - DESERT: 
     - Craft 3PC: Stone Block (3)
+    - MSite Quest: Recovering Stolen Goods (15)
     - HuntS2 Quest: Our Waymark Stones (10)
   - FOREST, DESERT, WATER: Craft LF, Gansu, Balance: Wooden Fishing Rod (1)
 
@@ -1601,7 +1667,6 @@ DESERT, some FOREST, WATER, DUST
   - FOREST: MT Quest: Warm Creature Highlights 1/3 (3)
   - DESERT
     - Craft 3PC: Fine Fabric (1)
-    - Craft Gansu: Protective Mantle (1)
     - 3PC Quests: Main Quest 3/Camouflage (4), Tailor (30)
   - WATER
     - Craft Balance: Underwater Torch (1)
@@ -1630,12 +1695,13 @@ FOREST, some DESERT, some WATER, DUST
     - Craft MT: Wood Spear (2)
     - LF Quests: Make It Work (8), Style is Eternal (15)
     - MT Quests: Inking By Number 2/5 (15)
+  - DESERT: RLab Quest: Testing the Valley (3)
   - WATER: Riza Quests: Main Quest 3/Remedy for a Friend (6)
   - DUST: DFO Quests: Nasty, Dust Air (20)
 
 ### Refined Dust
 
-DUST
+some DESERT, DUST
 
 - **Best sources:** 
   - DFO Battles: Ascre (150 words for 1), Belasi (200 words for 1), Papple (1000 words for 4-6)
@@ -1646,11 +1712,13 @@ DUST
   - Post-DFO Ruins Battle: Spirit Goriliana (800 words for 1-2)
 - **Sell price:** 4 Coins (don't sell unless you have >400)
 - **Used for:** 
-  - Craft DFO: Dark Forest Helmet (10), Blue Essence Ink (3)
-  - DFO Quests: Main Quest 8/Bound Up In (10)
-  - Post-DFO MT Quest: Dark Tree Materials 2/5 (15)
-  - Post-DFO 3PC Quest: Dark Three Materials 3/5 (30)
-  - Post-DFO Balance Quest: Dark Floating Materials 5/5 (15)
+  - DESERT: RLab Quest: Testing the Valley (2)
+  - DUST
+    - Craft DFO: Dark Forest Helmet (10), Blue Essence Ink (3)
+    - DFO Quests: Main Quest 8/Bound Up In (10)
+    - Post-DFO MT Quest: Dark Tree Materials 2/5 (15)
+    - Post-DFO 3PC Quest: Dark Three Materials 3/5 (30)
+    - Post-DFO Balance Quest: Dark Floating Materials 5/5 (15)
 
 ### Reinforced Ardi Lamp
 
@@ -1755,6 +1823,7 @@ ALL GAME
     - MT Quest: Thinking Like Ink 4/5 (100)
   - DESERT
     - Craft Gansu: Steel Fishing Rod (1)
+    - RLab Quest: Encourage an Ecosystem 4/4 (20)
   - WATER
     - Riza Battles: Knusha (need 2), Vota (need 2), Yala (need 2)
     - Craft Riza: Dí Bag (5), Steel Shield (2), Steel Boots (2), Steel Mace (1), Steel Axe (1)
@@ -1799,13 +1868,13 @@ some FOREST, WATER
 
 ### River Water
 
-some FOREST, WATER, DUST
+some FOREST, some DESERT, WATER, DUST
 
 - **Best sources:** WATER
   - Riza Battles:  Osaril (300 words, 1 Vine Net for 1), Yala (520 words, 2 Rope, 2 River Grass for 1-2), Wyvern (1300 words for 2-4), Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck), Patliadu (750 words, 1 Harpoon for 1)
   - Riza Stone Chest: 1-2
   - SurfaceC Battles: Auwi (500 words for 1-2), Yala (520 words for 1-2)
-  - Balance Battles: Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck),  Nuig (850 words, 1 Water Mask for 1-2), River Goddess (5000 words for 3-6)
+  - Balance Battles: Vanvri (20 minutes for 1-4), Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck),  Nuig (850 words, 1 Water Mask for 1-2), River Goddess (5000 words for 3-6)
 - **Other sources:** WATER Buy,
   - Riza Battles: Vota (800 words, 2 Rope, 2 River Grass for 1-2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1)
   - SurfaceC Battles: Wyvern (1300 words for 2-4), Vota (800 words for 1-2), Droxa (1800 words for 2-3), Knusha (1200 words for 1)
@@ -1820,6 +1889,7 @@ some FOREST, WATER, DUST
 - **Used for:** 
   - FOREST
     - MT Quests: River Water For…? (10), Cool Creature Highlights 2/3 (10)
+  - DESERT: RLab Quest: Encourage an Ecosystem 4/4 (15)
   - WATER
     - Craft Riza: Dí Bag (10)
     - Craft Balance: Reinforced Steel Breastplate (10), Reinforced Steel Helmet (8)
@@ -1851,6 +1921,10 @@ ALL GAME
   - DESERT: 
     - 3PC Battles: Velts: Desert (1200 words for 4-6), Desert Wignow (444 words for 1-2), Bruja (900 words for 1-3), Yasri (1250 words for 2-3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1)
     - Gansu Battles: Desert Wignow (444 words for 1-2)
+    - IC Battles: Nedi (800 words for 2-4)
+    - SpaceS Battles: Noit (800 words for 1-4)
+    - MSite Battles: Arren (800 words for 1)
+    - RLab Battles: Gwynos (450 words for 0-2), Ferenti (750 words for 1-4), Sabu (500 words for 1)
     - Dig Battles: Attleas (350 words for 1), Shepherd (1000 words for 1-3)
     - ShrineCar Battles: Upuchu (1400 words for 2-4)
     - Shrine TFA Battles: Untu Ship (500 words for 1-3)
@@ -1888,6 +1962,8 @@ ALL GAME
     - 3PC Battles: Tambo (4)
     - 3PC Quests: Main Quest 2/Just Another Brick (10), Main Quest 5/A Way South (10), Sand in Places (3), A Way North: Up the Mountain (30)
     - Gansu Quests: Tougher with Tambo (100), Rebuild the Watering Hole (15)
+    - SpaceS Quest: Technology & Dinti (20)
+    - RLab Quests: Encourage an Ecosystem 4/4 (10), Zappy Zazzy Xombri (15)
     - Dig Quests: From Beneath Me (15)
   - WATER
     - Craft Riza: Harpoon (1)
@@ -1933,32 +2009,36 @@ FOREST, some DESERT
 
 # S
 
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 12 SEPT 2020
 
 ### Sacred Feather
 
 DESERT, DUST
 
-- **Source:** DESERT: Gansu Battles: Arenica (1350 words, 1 Steel Dagger for 2)
+- **Sources:** DESERT:
+  - Gansu Battles: Arenica (1350 words, 1 Steel Dagger for 2)
+  - RLab Battle: Sulanica (1000 words for 0-1, need to unlock via long quest chain)
 - **Sell price:** 25 Coins (don't sell unless you have >50)
 - **Used for:** 
   - FOREST: MT Quest: Creature Colors & Highlights 3/3 (3)
   - DESERT
-    - Craft Gansu: Protective Cloak (1), Stempo (1)
+    - Craft Gansu: Stempo (1)
     - 3PC Quest: Double the Rarity (12)
     - Gansu Quest: Main Quest 3/Sacred Shrine (1), Sacred Feathers (10), Local Shrine (5), First Stempo (1)
+    - RLab Quest: Silkly Sleek Sulanica (3)
   - DUST: DFO Quest: Main Quest 8/Bound Up In (2)
 
 ### Saliva Vial
 
-FOREST EXPEDITION, DUST
+FOREST EXPEDITION, some DESERT, DUST
 
 - **Source:** BC Battles: Kaija (240 words for 1)
 - **Sell price:** 5 Coins (don't sell any if you like fighting Sapi- monsters; sell any over 30 otherwise)
 - **Used for:** 
-  - FOREST EXPEDITION 
+  - FOREST
     - FB Quest: Lovely Flower Crown (10)
     - SC Battles: Sapilo (need 1), Sapira (need 1), Sapiti (need 1), Oncaiii (need 1)
+  - DESERT: RLab Quest: Encourage an Ecosystem 4/4 (5)
   - DUST: DFO Quest: Main Quest 8/Bound Up In (20)
 
 ### Sandstone
@@ -1998,6 +2078,7 @@ The game usually simply calls this **Sandstone**. Since I call the parallel Ston
 DESERT EXPEDITION
 
 - **Sources (all fairly equal):** 
+  - IC, MSite Battle: Arir (100 words for 1)
   - Shrine TFA Battles: Arir (100 words for 1), Fools' Lorsa Halloween (100 words for 1), Fools' Lorsa (150 words for 1-2), Lupo (450 words for 4-5), Witch's Memoirs (500 words for 5), Untu Ship (500 words for 5), Murciel (600 words for 6)
   - Shrine TFA Quests: Shrine Creature Flyby (50), Those Nightly Terrors (25), Beware! Rock Shower (10)
   - Shrine GO Battles: Mini Ooze (50 words for 1), Froji Ooze (165 words for 2-3), Whaly Ooze (100 words for 1), Yawni Ooze (125 words for 1-2), Tryi Ooze (150 words for 1-2), Wowtri Ooze (250 words for 2-3), Balli Ooze (250 words for 2-3), Wavi Ooze (330 words for 3-4), Giant Ooze House (500 words for 5), Giant Ooze (1000 words for 10)
@@ -2101,6 +2182,7 @@ FOREST, DESERT, some WATER, DUST
     - MT Quest: Warm Creature Highlights 1/3 (5)
   - DESERT: 
     - 3PC Battles: Villager (need 1)
+    - RLab Quest: Testing the Valley (2)
     - Ruins Quest: Tunnel Locked On (3)
   - WATER: Riza Quests: Main Quest 3/Remedy for a Friend (6)
   - DUST: DFO Quests: Deliver With A Smile (15)
@@ -2160,6 +2242,9 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
   
   - 3PC Battles: Yasri (1250 words for 1)
   - 3PC Wooden Chest drop: 1-2
+  - SpaceS Battles: Ledd (500 words for 1), Szalin (700 words for 1)
+  - MSite Battles: Ityf (1250 words for 1), Deepo (1667 words for 1-2)
+  - RLab Battles: Dr. Enoe (1500 words for 1-3), Ferenti (750 words for 0-1)
   
   WATER
   
@@ -2184,9 +2269,10 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
   DESERT
   
   - Craft 3PC: Crossbow (2), Fabric Boots (1), Fabric Breastplate (3), Fabric Helmet (2), Glass Necklace (1), Glass Scimitar (2), Glass Staff (1), Net (1), Steel Spear (2), Steel Sword (3)
-  - Craft Gansu: Protective Cloak (1)
   - Craft Dig: Pickaxe (1)
   - 3PC Quests: Main Quest 2/Just Another Brick (4), Sand in Places (1)
+  - SpaceS Quest: Technology & Dinti (5), Orders to Repair (5), Aid the Aliens (10)
+  - RLab Quest: Build a Biodome 3/4 (15)
   
   WATER
   
@@ -2330,6 +2416,10 @@ The ability to craft Stempos in Gansu unlocks after a series of side quests. Reb
     - Gansu Stone Chest: 0-1 (usually 1)
     - 3PC Quests: Sands of Time (5), Tailor (1)
     - Gansu Quests: Main Quest 7/Red Witch of the Southern Coven (1), Main Quest 8/Dust to Dust (3-indefinite), Sacred Feathers (3), White Coat (3), Protect the Mind (5), Protect the Spirit (10), Rebuild the Watering Hole (1), Respark the Flame (1), Local Shrine (1), First Stempo (1)
+    - IC Quest: Loving Rocky Roads (2), Stabbing Dinti Spikes (3)
+    - SpaceS Quest: Tracking Shooting Stars (3)
+    - MSite Quest: Drilling Too Deep (3)
+    - RLab Quests: Set Creatures Free! 1/4 (5), Build a Biodome 3/4 (5), Encourage an Ecosystem 4/4 (5), Making Mellow Mowow (1), Sagacious Sincere Sabu (1), Silkly Sleek Sulanica (1), Zappy Zazzy Xombri (1), Zooty Zanutaki Zings (1)
     - Ruins Quest: Feathers & Fur (3), Every Tunnel Connects (4)
     - ShrineGiant Battles: Caravan (5000 words for 1-2)
   - WATER
@@ -2361,6 +2451,8 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 
 - **Sources:** Craft, DESERT: 
   - 3PC & Gansu Battles: Rulo (550 words for 1)
+  - IC Battles: Rosarin (500 words for 0-1)
+  - MSite Battles: Ityf (1250 words for 1-2), Zals (900 words for 1), Skarn (1100 words for 1), Deepo (1667 words for 0-1)
   - Ruins Quests: Gordi & Griffe Gather (5)
 - **Craft:** DESERT: 3PC Blacksmith/Blacksmith Barliar: 3 Raw Stone, 1 Rope, and 5 Coins
 - **Sell price:** 8 Coins (don't sell, not worth it)
@@ -2370,6 +2462,8 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
     - Craft 3PC: Net (1), Stone Hammer (2), Stone Ring (4)
     - 3PC Quests: Main Quest 2/Just Another Brick (8)
     - Gansu Quests: Main Quest 3/Sacred Shrine (10), Tougher with Tambo (25), Rebuild the Watering Hole (10), Respark the Flame (5)
+    - SpaceS Quest: Technology & Dinti (5), Orders to Repair (5), Aid the Aliens (10)
+    - RLab Quest: Build a Biodome 3/4 (15), Making Mellow Mowow (5)
   - DUST: DFO Quest: Main Quest 12/Well of Lost Souls (25), Rebuild the Dock (25)
 
 ### Stone Chest
@@ -2457,7 +2551,7 @@ WATER
 
 # T-Z
 
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 12 SEPT 2020
 
 ### Tambo Mane
 
@@ -2472,6 +2566,7 @@ FOREST, DESERT
   - FOREST: 
     - Craft MT: Protected Leaf Helmet (1)
     - MT Quests: Inking By Number 2/5 (3)
+  - DESERT: RLab Quest: Zooty Zanutaki Zings (2)
 
 ### Underwater Torch
 
@@ -2491,13 +2586,14 @@ WATER
 
 ### Vezi Shell
 
-some FOREST, WATER
+some FOREST, some DESERT, WATER
 
 - **Sources:** 
   - WATER: Balance Battles: Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 2-3)
 - **Sell price:** 10 Coins (Feel free to sell any over 30)
 - **Used for:**
   - WATER: Balance Quests: Main Quest 4/Potion For A Goddess (need 4), Biodome Blossoms (need 15)
+  - DESERT: RLab Quests: Testing the Valley (1), Encourage an Ecosystem 4/4 (3)
   - FOREST: MT Quest: Thinking Like Ink 4/5 (10)
 
 ### Vine Net
@@ -2540,14 +2636,16 @@ slight FOREST, DESERT, DUST
   - DESERT: 
     - Gansu Battles: Suulan (2000 words, 1 Steel Dagger for 1-2)
     - Gansu Quest (opens post-DFO): Dark Watering Materials 4/5 (1)
+    - RLab Battle: Sulanica (1000 words for 0-1, need to unlock via long quest chain)
   - DUST: DFO Battles: Papple (1000 words for 0-1)
 - **Sell price:** 30 Coins (don't sell unless you have >50)
 - **Used for:**
   - FOREST: MT Quest: Creature Colors & Highlights 3/3 (3)
   - DESERT
-    - Craft Gansu: Protective Cloak (1), Stempo (1)
+    - Craft Gansu: Stempo (1)
     - 3PC Quest: Double the Rarity (12)
     - Gansu Quest: Main Quest 3/Sacred Shrine (1), Main Quest 5/White Stars' Light (3), White Coat (10), Local Shrine (5), First Stempo (1)
+    - RLab Quest: Silkly Sleek Sulanica (3)
 
 ### Wood
 
@@ -2578,6 +2676,7 @@ ALL GAME
     - 3PC Battles: Velts: Desert (1200 words for 4-8), Czanus (700 words for 1-3), Tambo (2000 words, 4 Rope, 10 Leaves, min level 5 for 3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1-2)
     - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
     - Gansu Battles: Pipit (900 words for 1-2)
+    - RLab Battles: Xomri (300 words for 1), Zanutaki (500 words for 1-2), Sabu (500 words for 1)
     - Dig Battles: Shepherd (1000 words for 1-4)
     - ShrineCar Battles: Roica (150 words for 1-2), Biironk (420 words for 2-4), Halores (900 words for 3-5)
     - ShrineCO Battles: Fraite (220 words for 2-3), Lekhop (320 words for 1-3)
@@ -2609,6 +2708,8 @@ ALL GAME
     - Craft Dig: Pickaxe (2)
     - 3PC Quests: Main Quest 2/Just Another Brick (30), Main Quest 5/A Way South (20), Fan the Flames (100)
     - Gansu Quests: Tougher with Tambo (250)
+    - SpaceS Quest: Technology & Dinti (20
+    - RLab Quest: Encourage an Ecosystem 4/4 (10)
   - WATER: Craft Balance: Wooden Fishing Rod (1)
   - DUST: 
     - Craft DFO: Steel Chain (3), Piece of Parchment (3)

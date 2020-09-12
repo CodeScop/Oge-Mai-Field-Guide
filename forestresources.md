@@ -1,4 +1,4 @@
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 12 SEPT 2020
 
 Here are ALL THE THINGS available in the Forest. LF is Luciola Forest. MT is Mama Tree. HuntS1 is Hunt for the Ancients Season 1. And for the Expedition...
 
@@ -102,11 +102,9 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
 
 ### Dinti
 
-NOTE: This is a new resource introduced during NaNo2019. We're still waiting to see if it's going to be useful in the regular game, or if it's mostly useful to people wrapping up unfinished NaNo quests.
-
 - **Sources:** TT Battles: Fin (250 words for 1), Finoir (500 words for 1-2)
-- **Sell price:** 5 Coins (don't sell until we figure this out)
-- **Used for:** unknown
+- **Sell price:** 5 Coins (don't sell unless you have >300 OR have spent as much as you want in the later-game shop that uses it as currency)
+- **Used for:** later game
 
 ### Dust
 

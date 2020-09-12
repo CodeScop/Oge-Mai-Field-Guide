@@ -1,4 +1,4 @@
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 12 SEPT 2020
 
 We're getting deep into Oge-Mai these days - don't want to have to travel too much. This is an exceptionally twisty region, so there are an exceptional number of possible spoilers/unable to get through bits in here. Leave me a message in the Forum thread if anything is too difficult to follow! https://4thewords.com/forum/thread-oge-mai-field-guide
 
@@ -576,7 +576,7 @@ FOREST EXPEDITION ONLY
 
 ### Piece of Parchment
 
-- **Sources:** Craft,
+- **Sources:** DESERT, Craft,
   - DFO Bones Chest: 2-6
   - DFO Quest: Light Up The Outpost 2/4 (15)
 - **Craft:** DFO Item Shop & Craft/Dessti's Shack: 3 Dried Pulp, 3 Dust, 3 Wood

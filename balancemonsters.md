@@ -1,4 +1,4 @@
-LAST UPDATED 23 AUG 2020
+LAST UPDATED 12 SEPT 2020
 
 ### Awa
 
@@ -62,6 +62,15 @@ LAST UPDATED 23 AUG 2020
 - **Time Allowed:** 45 minutes
 - **XP:** 55
 - **Drops:** 1 River Grass, 1 River Water, 1 Algae, 0-1 Xyplos Ink (usually 1 with enough Luck)
+
+### Vanvri (Oge: Balance)
+
+- **Requirements:** Battle 20 Minutes Continuously
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of words written
+- **Baseline XP:** 60
+- **Drops:** 
+  - Baseline: 20 Coins, 1 River Water, 2 Hunter Tokens
+  - Other: 1-8 Leaves
 
 ### * Vezi (Unlocked by Main Quest 3: The Deep Dark)
 

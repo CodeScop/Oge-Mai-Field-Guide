@@ -32,7 +32,7 @@ I strongly recommend pausing and clicking around the Game area to see everything
 
 Onward!
 
-## Hunt for the Ancients
+# Hunt for the Ancients
 
 LAST UPDATED 11 FEB 2020
 
@@ -88,11 +88,15 @@ In practice, if you're fighting a monster which exists both in your original are
 
 I hope you brought plenty of Wood Spears, and that you have plenty of Wood and Rope with you; these resources are useful and relatively scarce here.
 
-# Meteoroid Expedition
+# Alien Expedition
 
-LAST UPDATED 23 AUG 2020
+LAST UPDATED 12 SEPT 2020
 
-Working on getting this info, but while I'm working, I'll put in the notes I'm pulling up.
+Whew! Fighting those Tambo to get here was rough, wasn't it? Don't worry, the quests get harder. :P
+
+In seriousness, this Expedition is a bit like the terrain in its artwork: really easy slides downhill, really tough climbs up a cliff, surprising tunnels leading to unusual rewards. There are real gems buried deep in here, but it's a lot of work and a lot of time to get them. (Some quests require materials all the way from the distant Dust Region!) And there are a few easy gems scattered about, ready for the gathering.
+
+Let's go see what those aliens have in store for us! It's not too hard to unlock all the areas, after all. Might be interesting.
 
 # Gansu Watering Hole
 

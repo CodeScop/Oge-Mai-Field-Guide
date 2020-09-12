@@ -1,4 +1,4 @@
- (Table of Contents last updated 9 Sept 2020)
+ (Table of Contents last updated 12 Sept 2020)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -33,7 +33,7 @@
   - Monsters: Mama Tree
   - Resources: Mama Tree
   - List of Available Quests: Post Mama Tree
-- Expedition Forest Region: Base Camp, Forward Base, Stone City, Tall Trees, Guardian's Lair
+- Expedition Forest: Base Camp, Forward Base, Stone City, Tall Trees, Guardian's Lair
   - Base Camp/Forest Expedition Intro
   - Quests: Forest Expedition
     - Base Camp Sidequests
@@ -80,6 +80,20 @@
   - Resources: Three Points Crossing
   - Battle Gear: Three Points Crossing
   - List of Available Quests: Post Three Points Crossing
+- Expedition Alien Meteoroid: Impact Crater, Spaceship, Mining Site, and Research Lab
+  - Alien Expedition Intro
+  - Quests: Alien Expedition
+    - Impact Crater Quests
+    - Spaceship Quests
+    - Mining Site Quests
+    - Research Lab Quests
+  - Monsters: Alien Expedition
+    - Impact Crater Monsters
+    - Spaceship Monsters
+    - Mining Site Monsters
+    - Research Lab Monsters
+  - Resources: Alien Expedition
+  - List of Available Quests: Alien Expedition
 - Gansu Watering Hole Open
   - Gansu Intro
   - Gansu Open: Sidequests

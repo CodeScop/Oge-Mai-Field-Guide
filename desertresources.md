@@ -1,4 +1,4 @@
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 12 SEPT 2020
 
 Summary of everything available in the DESERT. (Yes, now including Shrine of Ages!) Abbreviations:
 
@@ -45,6 +45,8 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
   - 3PC Golden Chest: 80-111
   - Gansu Stone Chest: 100-170
   - Gansu Quest: Main Quest 2/Lorsa Nest Network (100), Main Quest 5/White Stars' Light
+  - SpaceS Battles: Noit (800 words for 2-8), Captain Piak (1667 words for 2-11)
+  - MSite Battles: Ityf (1250 words for 5-15)
   - Ruins Battles: Yantao (650 words for 1-4)
   - Anywhere Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
 - **Other sources:** FOREST, 
@@ -85,7 +87,8 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
 
 - **Sources:** FOREST
 - **Sell price:** 5 Coins (don't sell unless you have >300)
-- **Used for:** FOREST, later game
+- **Used for:** FOREST, later game,
+  - RLab Quest: Encourage an Ecosystem 4/4 (5)
 
 ### Ardis Dust
 
@@ -93,17 +96,24 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
 - **Sell price:** 5 Coins (don't sell unless you have >300)
 - **Used for:** FOREST, later game
 
-### Bones Chest
-
-- **Sources:** later game,
-  - MT Quests: Warm Creature Highlights 1/3 (2), Cool Creature Highlights 2/3 (1)
-- **Sell price:** 100 Coins (DON'T SELL CHESTS, WHY WOULD YOU)
-- **Used for:** later game
-
 ### Bone Key
 
 - **Sources:** later game,
   - MT Quest: Cool Creature Highlights 2/3 (1)
+- **Sell price:** 100 Coins (DON'T SELL CHESTS, WHY WOULD YOU)
+- **Used for:** later game
+
+### Bones
+
+- **Sources:** later game
+- **Sell price:** 12 Coins (don't sell unless you have >150)
+- **Used for:** later game, 
+  - RLab Quest: Testing the Valley (10)
+
+### Bones Chest
+
+- **Sources:** later game,
+  - MT Quests: Warm Creature Highlights 1/3 (2), Cool Creature Highlights 2/3 (1)
 - **Sell price:** 100 Coins (DON'T SELL CHESTS, WHY WOULD YOU)
 - **Used for:** later game
 
@@ -155,8 +165,8 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
   - ShrineGiant Battles: Caravan (5000 words for 2-5)
 - **Sell price:** 25 Coins (don't sell unless you have >200, ideally >500)
 - **Used for:** later game,
-  - Craft Gansu: Protective Mantle (2)
   - Gansu Quests: Main Quest 1/Circle of Protection (15), Main Quest 3/Sacred Shrine (5), Stone Collector (100), Protect the Body (50), Protect the Mind (100), Protect the Spirit (200), Respark the Flame (20)
+  - RLab Quest: Zappy Zazzy Xombri (10)
   - Ruins Quest: Tunnel Locked On (3)
   - HuntS2 Quest: Our Waymark Stones (10)
 
@@ -166,11 +176,29 @@ See **Wooden Chest**.
 
 ### Dinti
 
-NOTE: This is a new resource introduced during NaNo2019. We're still waiting to see if it's going to be useful in the regular game, or if it's mostly useful to people wrapping up unfinished NaNo quests.
+- **Best sources:** DESERT
+  - IC Battles: Rhan (150 words for 1), Rosarin (500 words for 2-3)
+  - SpaceS Battles: Oxie (100 words for 0-1, usually 1 with enough Luck), Kolbs (200 words for 1)
+  - MSite Battles: Deepo (1667 words for 6-9), Pach (200 words for 1)
+- **Other sources:**
+  - FOREST
+  - DESERT:
+    - IC Battles: Brachi (600 words for 2-3), Maesc (250 words for 1), Nartha (350 words for 1-2), Erbor (400 words for 1-2), Teraleo (450 words for 1-2), Nedi (800 words for 2-3)
+    - SpaceS Battles: Captain Piak (1667 words for 5-7), Yalarr (500 words for 1-2)
+    - MSite Battles: Arren (800 words for 3-4), Zals (900 words for 3-5), Galatre (450 words for 2), Krang (500 words for 2), Halix (250 words for 1), Ipo (300 words for 1), Ityf (1250 words for 4-5), Skarn (1100 words for 3-5)
+    - RLab Battles: Dr. Hogglevoss (1200 words for 4), Ferenti (750 words for 1-3), Mowow (450 words for 1-2), Minica (900 words for 2-4), Dr. Enoe (1500 words for 2-4)
+- **Sell price:** 5 Coins (don't sell till you've bought everything you want in the Mining Site store and completed all desired quests)
+- **Used for:** 
+  - MSite Quest: Recovering Stolen Goods (50)
+  - RLab Quest: Encourage an Ecosystem 4/4 (5), Making Mellow Mowow (15)
+  - Wardrobe purchases at Mining Site (250 total)
 
-- **Sources:** FOREST EXPEDITION
-- **Sell price:** 5 Coins (don't sell until we figure this out)
-- **Used for:** unknown
+### Dried Pulp
+
+- **Sources:** later game
+- **Sell price:** 8 Coins (don't sell unless you have >400)
+- **Used for:** later game, 
+  - RLab Quest: Zooty Zanutaki Zings (10)
 
 ### Dust
 
@@ -182,6 +210,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Other sources:** FOREST,
   - 3PC Battles: Desert Wignow (444 words for 1-2), Grult (400 words for 1), Villager (1300 words, 1 Spider Poison, 5 Leaves for 2-3), Tambo (2000 words, 4 Rope, 10 Leaves, min level 5 for 2)
   - Gansu Battles: Desert Wignow (444 words for 1-2)
+  - RLab Battles: Tessen (500 words for 1-3), Zanutaki (500 words for 1-3), Minica (900 words for 1-4)
   - Dig Battles: Okkorhi (1000 words for 2-6), Sakish (350 words for 1-2), Zera (550 words for 1-3)
   - DigS, Ruins Battles: Rif (300 words for 1)
   - ShrineCO Battles: Sothai (300 words for 1-2)
@@ -193,8 +222,8 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Used for:** 
   - FOREST
   - Craft 3PC: Glass Bar (2), Glass Scimitar (5), Glass Staff (3), Sands Ring (3)
-  - Craft Gansu: Protective Mantle (5)
   - 3PC Quests: Sand in Places (50), We Lucky Few (20)
+  - RLab Quest: Zappy Zazzy Xombri
 
 ### Essence
 
@@ -214,6 +243,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
   - Craft 3PC: Fine Fabric (1)
   - Craft Gansu: Stempo (10)
   - Gansu Quest: First Stempo (10)
+  - RLab Quest: Making Mellow Mowow (3)
 
 ### Fabric Boots
 
@@ -253,6 +283,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Used for:** 
   - FOREST
   - 3PC Quest: Luciola Materials (15)
+  - RLab Quest: Encourage an Ecosystem 4/4 (5)
 
 ### Fine Fabric
 
@@ -260,17 +291,22 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
   - 3PC Battles: Yasri (1250 words for 1)
   - Gansu Battles: Suulan (2000 words, 1 Steel Dagger for 1-2), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1)
   - Gansu Stone Chest drop: 2-5
+  - SpaceS Battles: Kovar (350 words for 0-1), Yalarr (500 words for 1), Captain Piak (1667 words for 1-4)
+  - MSite Battle: Ityf (1250 words for 1-2)
+  - RLab Battle: Sulanica (1000 words for 1-2), Dr. Hogglevoss (1200 words for 0-2), Dr. Enoe (1500 words for 1-2)
 - **Craft:** 3PC Crafts & Trinkets/Shuri of Sand: 5 Raw Fabric, 1 Red Dye, 1 Essence
 - **Sell price:** 75 Coins (don't sell unless you have >50)
 - **Used for:** later game,
   - Craft 3PC: Fabric Boots (1), Fabric Breastplate (2), Fabric Helmet (2), Steel Sword (1), Stone Hammer (1)
   - 3PC Quests: Main Quest 3/Camouflage (6)
+  - RLab Quest: Sagacious Sincere Sabu (10)
 
 ### Fur
 
 - **Best sources:** 
   - Anywhere Battle: Awa (200 words for 1-2)
   - 3PC Battle: Grult (400 words for 2)
+  - RLab Battle: Zanutaki (500 words for 1-2)
   - DigS Battles: Bevrex (300 words for 1-2)
   - ShrinePoly Battles: Poly Mawt (900 words for 3-5)
 - **Other sources:** 
@@ -286,6 +322,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Sell price:** 2 Coins (don't sell unless you have >500)
 - **Used for:** 
   - FOREST
+  - RLab Quests: Sagacious Sincere Sabu (5), Zappy Zazzy Xombri (3)
 
 ### Glass
 
@@ -298,6 +335,9 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 - **Source:** Craft,
   - 3PC Battles: Bruja (900 words for 1)
   - Gansu Battles: Arenica (1350 words, 1 Steel Dagger for 1-2), Suulan (2000 words, 1 Steel Dagger for 1)
+  - SpaceS Battles: Captain Piak (1667 words for 1-3)
+  - MSite Battle: Zals (900 words for 1)
+  - RLab Battles: Dr. Enoe (1500 words for 1-2), Dr. Hogglevoss (1200 words for 1)
   - 3PC Wooden Chest drop: 1
   - 3PC Golden Chest drop: 2-4, usually 3-4
   - 3PC Quest: Explore the City (1)
@@ -308,6 +348,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
   - Craft 3PC: Glass Necklace (2), Glass Scimitar (3), Glass Staff (3), Sands Ring (4), Stone Ring (1)
   - Craft Gansu: Stempo (1)
   - Gansu Quest: First Stempo (1)
+  - RLab Quest: Build a Biodome 3/4 (15)
 
 ### Glass Necklace
 
@@ -330,13 +371,20 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 
 - **Best source:**Buy
   - 3PC Battles: Kiru (250 words for 2)
+  - RLab Battles: Fonar (200 words for 2-4), Zoomga! (300 words for 2-4), Ame (100 words for 0-1)
 - **Other sources:** Buy, 
   - 3PC Battles: Bruja (900 words for 1-2), Lombri (1500 words for 1-2), Yasri (1250 words for 1)
   - Gansu Battles: Ylly (720 words for 2), Sparfly (450 words for 1-2), Suulan (2000 words, 1 Steel Dagger for 2-3), Arenica (1350 words, 1 Steel Dagger for 1)
+  - IC Battles: Nedi (800 words for 1-3)
+  - SpaceS Battles: Captain Piak (1667 words for 3-7), Ledd (500 words for 1-2)
+  - MSite Battle: Skarn (1100 words for 1-2)
+  - RLab Battles: Tessen (500 words for 1-3), Minica (900 words for 2-5), Sulanica (1000 words for 1-3), Zanutaki (500 words for 1)
   - ShrineCO Battles: Elobre (200 words for 1-2)
 - **Buy: **75 Coins at 3PC Blacksmith/Blacksmith Barliar AND Gansu Item Shop/Tepij Locals
 - **Sell price:** 12 Coins (Make Glass Bars out of any Glass Shards you have over 5; it'll be most useful that way)
-- **Used for:** Craft 3PC: Glass Bar (3)
+- **Used for:** 
+  - Craft 3PC: Glass Bar (3)
+  - RLab Quests: Silkly Sleek Sulanica (10), Zooty Zanutaki Zings (15)
 
 ### Glass Staff
 
@@ -389,15 +437,11 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 
 ### Hardwood
 
-This actually isn't available yet, but a quest requiring it pops up as soon as Riza Rivertown (in the WATER region) opens (aka as the Gansu Main Quests wrap up), so I'm adding this bit in here as a kind of preview.
-
-- **Best sources:** 
-  - WATER
-- **Other sources:** none
-- **Buy: **WATER
+- **Sources:** later game,
+  - SpaceS Battle: Szalin (700 words for 0-2)
+- **Buy: **later game
 - **Sell price:** 100 Coins (don't sell here)
-- **Used for:** 
-  - WATER
+- **Used for:** later game,
   - Gansu Quest: Respark the Flame (10)
 
 ### Hunt Map Piece
@@ -473,6 +517,7 @@ This actually isn't available yet, but a quest requiring it pops up as soon as R
 - **Sell price:** 25 Coins (don't sell unless you have >15)
 - **Used for:** 
   - Ruins Quest: Tunnel Locked On (3)
+  - RLab Quest: Testing the Valley (2)
 
 ### Leaf Boots
 
@@ -565,6 +610,7 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
   - FOREST
 - **Other source:** 
   - Anywhere Battles: Vi (5 minutes for 1-4)
+  - RLab Battles: Xomri (300 words for 1-2), Mowow (450 words for 1-3)
   - Shrine GO Battles: Wowtri Ooze (250 words for 0-2), Balli Ooze (250 words for 0-1)
   - ShrineCO Battles: Eguley (400 words for 1-2)
   - ShrineFools Battles: Fools' Mawt (200 words for 1-2), Fools' Wignow (100 words for 0-1), Fools' Wignow (Halloween) (100 words for 0-1)
@@ -578,6 +624,7 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
   - 3PC Battles: Villager (need 5), Tambo (10, usually drops 2-3 for net cost of 7-8)
   - Gansu Battles: Desert Rudakai (need 10)
   - 3PC Quests: Main Quest 5/A Way South (20), Fan the Flames (50)
+  - RLab Quests: Encourage an Ecosystem 4/4 (30), Making Mellow Mowow (15)
 
 ### Lorsa Fur
 
@@ -587,6 +634,7 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
 - **Used for:** later game,
   - FOREST
   - 3PC Quests: Luciola Materials (5)
+  - RLab Quest: Encourage an Ecosystem 4/4 (5)
 
 ### Lorsa Nests
 
@@ -611,6 +659,13 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
 
 FOREST ONLY
 
+### Nuig String
+
+- **Sources:** later game
+- **Sell price:** 10 Coins (Can sell if you have >40)
+- **Used for:** later game, 
+  - RLab Quests: Testing the Valley (3), Zooty Zanutaki Zings (10)
+
 ### Old Staff
 
 - **Best sources:** 
@@ -630,6 +685,13 @@ FOREST ONLY
 - **Used for:** 
   - Dig Quest: Question to Axe (3)
 
+### Piece of Parchment
+
+- **Sources:** later game,
+  - RLab Battle: Dr. Hogglevoss (1200 words for 1-3)
+- **Sell price:** 10 Coins (don't sell, not worth it)
+- **Used for:** later game
+
 ### Protected Leaf Helmet
 
 - FOREST ITEM ONLY; no use other than equipping after
@@ -637,8 +699,7 @@ FOREST ONLY
 
 ### Protective Cloak
 
-- **Source:** Craft Gansu,
-  - Gansu Quest: Battle Experience (1)
+- **Source:** Gansu Quest: Battle Experience (1)
 - **Sell Price:** 150 Coins (see Used For before selling )
 - **Used for:** Absolutely nothing at all as of this writing. These used to be extremely expensive items thrown at Gansu battles just like Protective Mantles; when Gansu was rebalanced, these were left absolutely useless. Maybe keep some in stock just in case they regain usefulness or become collector's items, but there's absolutely no practical reason to hang on to them right now.
 
@@ -649,13 +710,14 @@ FOREST ONLY
   - Gansu Stone Chest: 1
   - Gansu Quest: Battle Experience (2), Main Quest 8/Dust to Dust (1-indefinite)
 - **Sell Price:** 100 Coins ( see Used For before selling )
-- **Used for:** Craft Gansu: Protective Cloak (1) (as useless as Protective Mantle at the moment)
+- **Used for:** See Protective Cloak. Nothing right now.
 
 ### Raw Fabric
 
 - **Best sources:** 
   - 3PC Battles: Frizi (150 words for 2)
   - Gansu Battles: Frizi (150 words for 2)
+  - RLab Battles: Ame (100 words for 1-2), Fonar (200 words for 2)
   - Anywhere Battles: Xin (100 words for 0-1)
   - ShrinePoly Battles: Cubed Frizi (200 words for 1-2)
   - ShrineDucks Battles: Idaa (400 words for 1-3), Natida (500 words for 0-2)
@@ -664,6 +726,9 @@ FOREST ONLY
   - FOREST
   - 3PC Battles: Czanus (700 words for 2-4), Bruja (900 words for 2-3), Yasri (1250 words for 2-3), Lombri (1500 words and 1 Wood Spear for 3)
   - Gansu Battles: Ylly (720 words for 3), Sparfly (450 words for 1), Pipit (900 words for 2-4), Suulan (2000 words, 1 Steel Dagger for 2), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 3)
+  - IC Battles: Nedi (800 words for 2-5)
+  - SpaceS Battles: Kovar (350 words for 1-2), Yalarr (500 words for 2-3), Noit (800 words for 2-5)
+  - RLab Battles: Sabu (500 words for 1-3), Tessen (500 words for 2), Xomri (300 words for 1), Gwynos (450 words for 1-2), Minica (900 words for 2-4), Sulanica (1000 words for 2-3), Dr. Enoe (1500 words for 2-4)
   - DigS Battles: Okkorhi (1000 words for 1-3)
   - HuntS2/Dig, Ruins Battles: Lubu (450 words for 1-2)
   - HuntS2/Dig Battles: Imali (150 words for 1), Shashi (250 words for 1-2), Attleas (350 words for 2-3), Shepherd (1000 words for 2-6)
@@ -678,17 +743,20 @@ FOREST ONLY
   - Craft 3PC: Fabric Boots (4), Fabric Breastplate (5), Fabric Helmet (2), Fine Fabric (5), Glass Staff (2), Steel Spear (3)
   - 3PC Quests: Main Quest 3/Camouflage (10), Main Quest 5/A Way South (5), Sand in Places (35)
   - Gansu Quest: Rebuild the Watering Hole (50)
+  - RLab Quests: Encourage an Ecosystem 4/4 (15), Silkly Sleek Sulanica (5)
 
 ### Raw Gold
 
 - **Best sources:** 
   - 3PC Wooden Chest: 1-3
   - 3PC Battles: Bruja (900 words for 1), Lombri (1500 words and 1 Wood Spear for 1-2), Yasri (1250 words for 1)
+  - MSite Battles: Zals (900 words for 1-4), Skarn (1100 words for 2-4), Ityf (1250 words for 2-4)
   - ShrineMar Battles: Balatrix (630 words for 1-2), Osemar (1000 words for 0-3)
 - **Other sources:** FOREST, Buy
   - Gansu Battles: Suulan (2000 words, 1 Steel Dagger for 1-2), Arenica (1350 words, 1 Steel Dagger for 1), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1)
   - 3PC Golden Chest: 3-6
   - Dig Battles: Shashi (250 words for 0-1), Okkorhi (1000 words for 1-4)
+  - RLab Battle: Sulanica (1000 words for 1)
   - Ruins Quest: Searching South (5), Gordi & Griffe Gather (3)
   - ShrineGiant Battles: Takra (500 words for 0-3), Untu Golem (500 words for 0-2)
 - **Buy: **75 Coins at 3PC Blacksmith/Blacksmith Barliar
@@ -700,6 +768,7 @@ FOREST ONLY
 - **Best source:** Buy,
   - 3PC & Gansu Battles: Rulo (550 words for 2-3)
   - Dig Battles: Loi (150 words for 1-2)
+  - MSite Battle: Skarn (1100 words for 1-5), Krang (500 words for 1-2)
 - **Other sources:** Buy, 
   - 3PC Battles: Vanspi (10 minutes for 1-5), Velts: Desert (1200 words for 1-3), Lombri (1500 words and 1 Wood Spear for 1-2)
   - Gansu Battles: Wetu (1100 words for 3), Sparfly (450 words for 1-2, rarely 0), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1-2)
@@ -720,13 +789,18 @@ FOREST ONLY
 - **Best sources:** 
   - 3PC Battles: Rulo (550 words for 1-3), Yasri (1250 words for 2-3)
   - Gansu Battles: Rulo (550 words for 1-3), Sparfly (450 words for 1-2), Wetu (1100 words for 2)
+  - RL Battles: Zoomga! (300 words for 2-5), Arenica Hologram (100 words for 1), Kiru Hologram (100 words for 1), Lombri Hologram (100 words for 1), Lubu Hologram (100 words for 1), Maesc Hologram (100 words for 1), Nuig Hologram (100 words for 1), Sassi Hologram (100 words for 1), Suulan Hologram (100 words for 1), Tambo Hologram (100 words for 1), Wignow Hologram (100 words for 1), Xin Hologram (100 words for 1), Zanthei Hologram (100 words for 1)
   - Ruins Battles: Gordi (80 words for 1)
   - Shrine TFA Battles: Untu Ship (500 words for 0-3)
   - Shrine GO Battles: Giant Ooze House (500 words for 0-3)
   - ShrineMar Battles: Zosimos (400 words for 1-2), Balatras (785 words for 1-3)
 - **Other sources:** Buy,
   - FOREST
-  - 3PC Battles: Czanus (700 words for 1-3), Velts: Desert (1200 words for 2-4)
+  - 3PC/HuntS2 Battles: Czanus (700 words for 1-3), Velts: Desert (1200 words for 2-4)
+  - IC Battles: Brachi (600 words for 1-2)
+  - SpaceS Battles: Szalin (700 words for 3-6), Kovar (350 words for 1-3), Noit (800 words for 2-4)
+  - MSite Battles: Deepo (1667 words for 3-7), Arren (800 words for 1-3)
+  - RLab Battles: Ferenti (750 words for 2-5), Tessen (500 words for 1-2), Sabu (500 words for 0-1)
   - Dig Battles: Okkorhi (1000 words for 0-3)
   - Dig, Ruins Battles: Lubu (450 words for 0-1)
   - Ruins Battles: Yantao (650 words for 1-2)
@@ -739,18 +813,24 @@ FOREST ONLY
 - **Used for:** 
   - Craft 3PC: Steel Bar (3)
   - Craft Gansu: Steel Fishing Rod (1)
+  - MSite Quest: Recovering Stolen Goods (10)
 
 ### Raw Stone
 
 - **Best sources:** Anywhere Battles: Xin (100 words for 0-1) 
   - 3PC Battles: Grult (400 words for 3), Kiru (250 words for 1)
   - Gansu Battles: Wetu (1100 words for 3-4)
+  - IC, MSite Battle: Arir (100 words for 1-2)
+  - IC Battles: Rhan (150 words for 1-2), Rosarin (500 words for 3-6), Maesc (250 words for 1-3), Teraleo (450 words for 2-4), Erbor (400 words for 1-4), Brachi (600 words for 2-5), Nartha (350 words for 1-3)
+  - SpaceS Battles: Oxie (100 words for 1-2), Kolbs (200 words for 1-2)
   - Dig Battles: Loi (150 words for 1)
   - Ruins Battles: Gordi (80 words for 1)
 - **Other sources:** Buy,
   - MT & 3PC Battles: Tambo (2000 words, 4 Rope, and 10 Leaves for 1-2)
   - 3PC Battles: Rulo (550 words for 1), Lombri (1500 words and 1 Wood Spear for 2-3)
   - Gansu Battles: Rulo (550 words for 1), Pipit (900 words for 1-2), Suulan (2000 words, 1 Steel Dagger for 1)
+  - MSite Battles: Halix (250 words for 1-3), Galatre (450 words for 2-5), Pach (200 words for 1-2), Ipo (300 words for 1-3), Krang (500 words for 1-5), Skarn (1100 words for 3-6), Arren (800 words for 0-5), Deepo (1667 words for 0-7)
+  - RLab Battles: Mowow (450 words for 1-4), Gwynos (450 words for 0-2), Xomri (300 words for 1)
   - Dig Battles: Kapir (800 words for 0-1), Sakish (350 words for 1)
   - Ruins Battles: Griffe (450 words for 1), Ripos (1800 words for 1-3)
   - Ruins Quest: Excavating East (5)
@@ -765,6 +845,7 @@ FOREST ONLY
 - **Used for:** 
   - Craft 3PC: Stone Block (3)
   - Craft Gansu: Wooden Fishing Rod (1)
+  - MSite Quest: Recovering Stolen Goods (15)
   - HuntS2 Quest: Our Waymark Stones (10)
 
 ### Red Dye
@@ -787,7 +868,6 @@ FOREST ONLY
 - **Used for:** later game,
   - FOREST
   - Craft 3PC: Fine Fabric (1)
-  - Craft Gansu: Protective Mantle (1)
   - 3PC Quests: Main Quest 3/Camouflage (4), Tailor (30)
 
 ### Reenu Wings
@@ -798,6 +878,14 @@ FOREST ONLY
 - **Sell price:** 8 Coins (only sell if you have >100)
 - **Used for:** later game,
   - 3PC Quest: Sand in Places (12)
+  - RLab Quest: Testing the Valley (3)
+
+### Refined Dust
+
+- **Sources:** later game
+- **Sell price:** 4 Coins (don't sell unless you have >400)
+- **Used for:** later game, 
+  - RLab Quest: Testing the Valley (2)
 
 ### River Grass
 
@@ -806,7 +894,9 @@ FOREST ONLY
   - Gansu Battles: Furoxi (400 words & 1 Steel Fishing Rod for 1) 
   - ShrineGiant Battles: Mandias (500 words for 1-3)
 - **Sell price:** 40 Coins (starting to need it, don't sell unless you have >200)
-- **Used for:** Craft Gansu: Steel Fishing Rod (1)
+- **Used for:** 
+  - Craft Gansu: Steel Fishing Rod (1
+  - RLab Quest: Encourage an Ecosystem 4/4 (20)
 
 ### River Key
 
@@ -826,7 +916,8 @@ FOREST ONLY
 
 - **Sources:** Furoxi (400 words & 1 Steel Fishing Rod for 1) 
 - **Sell price:** 30 Coins (don't sell right now)
-- **Used for:** later game
+- **Used for:** later game,
+  - RLab Quest: Encourage an Ecosystem 4/4 (15)
 
 ### Rope
 
@@ -839,6 +930,10 @@ FOREST ONLY
   - Anywhere Battles: Viyusa (25 minutes for 2-7)
   - 3PC Battles: Velts: Desert (1200 words for 4-6), Desert Wignow (444 words for 1-2), Bruja (900 words for 1-3), Yasri (1250 words for 2-3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1)
   - Gansu Battles: Desert Wignow (444 words for 1-2)
+  - IC Battles: Nedi (800 words for 2-4)
+  - SpaceS Battles: Noit (800 words for 1-4)
+  - MSite Battles: Arren (800 words for 1)
+  - RLab Battles: Gwynos (450 words for 0-2), Ferenti (750 words for 1-4), Sabu (500 words for 1)
   - Dig Battles: Dig Battles: Attleas (350 words for 1), Shepherd (1000 words for 1-3)
   - ShrineCar Battles: Upuchu (1400 words for 2-4)
   - Shrine TFA Battles: Untu Ship (500 words for 1-3)
@@ -856,6 +951,8 @@ FOREST ONLY
   - 3PC Battles: Tambo (4)
   - 3PC Quests: Main Quest 2/Just Another Brick (10), Main Quest 5/A Way South (10), Sand in Places (3), A Way North: Up the Mountain (30)
   - Gansu Quests: Tougher with Tambo (100), Rebuild the Watering Hole (15)
+  - SpaceS Quest: Technology & Dinti (20)
+  - RLab Quests: Encourage an Ecosystem 4/4 (10), Zappy Zazzy Xombri (15)
   - Dig Quests: From Beneath Me (15)
 
 ### Rusty Amulet
@@ -884,16 +981,22 @@ FOREST ONLY
 
 ### Sacred Feather
 
-- **Source:** Gansu Battles: Arenica (1350 words, 1 Steel Dagger for 2)
+- **Sources:** 
+  - Gansu Battles: Arenica (1350 words, 1 Steel Dagger for 2)
+  - RLab Battle: Sulanica (1000 words for 0-1, need to unlock via long quest chain)
 - **Sell price:** 25 Coins (don't sell unless you have >50)
 - **Used for:** 
-  - Craft Gansu: Protective Cloak (1), Stempo (1)
+  - Craft Gansu: Stempo (1)
   - 3PC Quest: Double the Rarity (12)
   - Gansu Quest: Main Quest 3/Sacred Shrine (1), Sacred Feathers (10), Local Shrine (5), First Stempo (1)
+  - RLab Quest: Silkly Sleek Sulanica (3)
 
 ### Saliva Vial
 
-FOREST ONLY
+- **Source:** FOREST
+- **Sell price:** 5 Coins (don't sell any if you like fighting Sapi- monsters; sell any over 30 otherwise)
+- **Used for:** FOREST, later game, 
+  - RLab Quest: Encourage an Ecosystem 4/4 (5)
 
 ### Sandstone
 
@@ -925,6 +1028,7 @@ The game usually simply calls this **Sandstone**. Since I call the parallel Ston
 ### Shrine Stone
 
 - **Sources (all fairly equal):** 
+  - IC, MSite Battle: Arir (100 words for 1)
   - Shrine TFA Battles: Arir (100 words for 1), Fools' Lorsa Halloween (100 words for 1), Fools' Lorsa (150 words for 1-2), Lupo (450 words for 4-5), Witch's Memoirs (500 words for 5), Untu Ship (500 words for 5), Murciel (600 words for 6)
   - Shrine TFA Quests: Shrine Creature Flyby (50), Those Nightly Terrors (25), Beware! Rock Shower (10)
   - Shrine GO Battles: Mini Ooze (50 words for 1), Froji Ooze (165 words for 2-3), Whaly Ooze (100 words for 1), Yawni Ooze (125 words for 1-2), Tryi Ooze (150 words for 1-2), Wowtri Ooze (250 words for 2-3), Balli Ooze (250 words for 2-3), Wavi Ooze (330 words for 3-4), Giant Ooze House (500 words for 5), Giant Ooze (1000 words for 10)
@@ -992,6 +1096,7 @@ The game usually simply calls this **Sandstone**. Since I call the parallel Ston
 - **Used for:** 
   - FOREST
   - 3PC Battles: Villager (need 1)
+  - RLab Quest: Testing the Valley (2)
   - Ruins Quest: Tunnel Locked On (3)
 
 ### Steel
@@ -1005,14 +1110,18 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
 - **Source:** Craft
   - 3PC Battles: Yasri (1250 words for 1)
   - 3PC Wooden Chest drop: 1-2
+  - SpaceS Battles: Ledd (500 words for 1), Szalin (700 words for 1)
+  - MSite Battles: Ityf (1250 words for 1), Deepo (1667 words for 1-2)
+  - RLab Battles: Dr. Enoe (1500 words for 1-3), Ferenti (750 words for 0-1)
 - **Craft:** 3PC Blacksmith/Blacksmith Barliar: 3 Raw Steel, 10 Coins, and 3 Wood
 - **Sell price:** 35 Coins (NEVER SELL. YOU CANNOT HAVE ENOUGH.)
 - **Used for:** later game,
   - FOREST (New MT Quest Iron on Sand (25) ; New LF Quests It's Bigger Inside (5), Enter Pan's Labyrinth (3))
   - Craft 3PC: Crossbow (2), Fabric Boots (1), Fabric Breastplate (3), Fabric Helmet (2), Glass Necklace (1), Glass Scimitar (2), Glass Staff (1), Net (1), Steel Spear (2), Steel Sword (3)
-  - Craft Gansu: Protective Cloak (1)
   - Craft Dig: Pickaxe (1)
   - 3PC Quests: Main Quest 2/Just Another Brick (4), Sand in Places (1)
+  - SpaceS Quest: Technology & Dinti (5), Orders to Repair (5), Aid the Aliens (10)
+  - RLab Quest: Build a Biodome 3/4 (15)
 
 ### Steel Dagger
 
@@ -1065,6 +1174,10 @@ The ability to craft Stempos in Gansu unlocks after a series of side quests.The 
   - Gansu Stone Chest: 0-1 (usually 1)
   - 3PC Quests: Sands of Time (5), Tailor (1)
   - Gansu Quests: Main Quest 7/Red Witch of the Southern Coven (1), Main Quest 8/Dust to Dust (3-indefinite), Sacred Feathers (3), White Coat (3), Protect the Mind (5), Protect the Spirit (10), Rebuild the Watering Hole (1), Respark the Flame (1), Local Shrine (1), First Stempo (1)
+  - IC Quest: Loving Rocky Roads (2), Stabbing Dinti Spikes (3)
+  - SpaceS Quest: Tracking Shooting Stars (3)
+  - MSite Quest: Drilling Too Deep (3)
+  - RLab Quests: Set Creatures Free! 1/4 (5), Build a Biodome 3/4 (5), Encourage an Ecosystem 4/4 (5), Making Mellow Mowow (1), Sagacious Sincere Sabu (1), Silkly Sleek Sulanica (1), Zappy Zazzy Xombri (1), Zooty Zanutaki Zings (1)
   - Ruins Quest: Feathers & Fur (3), Every Tunnel Connects (4)
   - ShrineGiant Battles: Caravan (5000 words for 1-2)
 - **Craft:** Gansu Crafts & Trinkets/Wynfri of Water: 1 Sacred Feather, 1 White Fur, 10 Essence, 1 Glass Bar, 1 Gold Bar
@@ -1084,8 +1197,10 @@ See **Stone Block**.
 
 The game usually simply calls this **Stone**. I like to make sure I'm distinguishing between this and the dozen other Stone things, so I call 'em Stone Blocks.
 
-- **Source:** Craft,
+- **Sources:** Craft,
   - 3PC & Gansu Battles: Rulo (550 words for 1)
+  - IC Battles: Rosarin (500 words for 0-1)
+  - MSite Battles: Ityf (1250 words for 1-2), Zals (900 words for 1), Skarn (1100 words for 1), Deepo (1667 words for 0-1)
   - Ruins Quest: Gordi & Griffe Gather (5)
 - **Craft:** 3PC Blacksmith/Blacksmith Barliar: 3 Raw Stone, 1 Rope, and 5 Coins
 - **Sell price:** 8 Coins (don't sell, not worth it)
@@ -1094,6 +1209,8 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
   - Craft 3PC: Net (1), Stone Hammer (2), Stone Ring (4)
   - 3PC Quests: Main Quest 2/Just Another Brick (8)
   - Gansu Quests: Main Quest 3/Sacred Shrine (10), Tougher with Tambo (25), Rebuild the Watering Hole (10), Respark the Flame (5)
+  - SpaceS Quest: Technology & Dinti (5), Orders to Repair (5), Aid the Aliens (10)
+  - RLab Quest: Build a Biodome 3/4 (15), Making Mellow Mowow (5)
 
 ### Stone Chest
 
@@ -1155,6 +1272,14 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 - **Sell price:** 8 Coins (Don't sell unless you have >30)
 - **Used for:** later game,
   - FOREST
+  - RLab Quest: Zooty Zanutaki Zings (2)
+
+### Vezi Shell
+
+- **Sources:** later game
+- **Sell price:** 10 Coins (Feel free to sell any over 30)
+- **Used for:** later game,
+  - RLab Quest: Testing the Valley (1), Encourage an Ecosystem 4/4 (3)
 
 ### Vine Net
 
@@ -1169,12 +1294,15 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 
 ### White Fur
 
-- **Source:** Gansu Battles: Suulan (2000 words, 1 Steel Dagger for 1-2)
+- **Sources:** 
+  - Gansu Battle: Suulan (2000 words, 1 Steel Dagger for 1-2)
+  - RLab Battle: Sulanica (1000 words for 0-1, need to unlock via long quest chain)
 - **Sell price:** 30 Coins (don't sell unless you have >50)
 - **Used for:** 
-  - Craft Gansu: Protective Cloak (1), Stempo (1)
+  - Craft Gansu: Stempo (1)
   - 3PC Quest: Double the Rarity (12)
   - Gansu Quest: Main Quest 3/Sacred Shrine (1), Main Quest 5/White Stars' Light (3), White Coat (10), Local Shrine (5), First Stempo (1)
+  - RLab Quest: Silkly Sleek Sulanica (3)
 
 ### Wood
 
@@ -1185,6 +1313,7 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
   - FOREST
 - **Other sources:** Buy,
   - Anywhere Battles: Viyu (15 minutes for 2-7)
+  - RLab Battles: Xomri (300 words for 1), Zanutaki (500 words for 1-2), Sabu (500 words for 1)
   - Dig, Ruins Battles: Lubu (450 words for 1)
   - Ruins Battles: Yantao (650 words for 1-2)
   - Dig Battles: Shepherd (1000 words for 1-4)
@@ -1206,6 +1335,8 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
   - Craft Dig: Pickaxe (2)
   - 3PC Quests: Main Quest 2/Just Another Brick (30), Main Quest 5/A Way South (20), Fan the Flames (100)
   - Gansu Quests: Tougher with Tambo (250)
+  - SpaceS Quest: Technology & Dinti (20
+  - RLab Quest: Encourage an Ecosystem 4/4 (10)
 
 ### Wood Fishing Rod
 
