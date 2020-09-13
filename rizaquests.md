@@ -24,7 +24,7 @@ If there's an asterisk, it unlocked in the process of going through this region.
 - **Type:** Collection
 - **Requirements:** Collect 6 Spider Poison, 6 Reenu Wings, 3 Desert Stone, 3 Glass Shards, 3 River Stones, 5 River Grass
 - **Rewards:** 1 Stone Chest
-- **Recommendations:** It is what it is. The good news: this is the last Main Quest that has requirements that might send you back to other regions.
+- **Recommendations:** It is what it is. The good news: this is the last Main Quest for a while that has requirements that might send you back to other regions.
 
 ### Main Quest 4: Mucky, Murky, Muddy
 
@@ -52,7 +52,7 @@ If there's an asterisk, it unlocked in the process of going through this region.
 
 ## Riza Rivertown Sidequests
 
-LAST UPDATED: 24 AUG 2020
+LAST UPDATED: 13 SEPT 2020
 
 If there's an asterisk, it unlocked in the process of going through this region.
 
@@ -110,7 +110,7 @@ If there's an asterisk, it unlocked in the process of going through this region.
 - **Type:** Forum
 - **Requirements:** Make 100 Forum posts
 - **Rewards:** 15 Core Crystals
-- **Recommendations:** DO IT. It will take approximately FOREVER. (Good news: you don't have to keep it in your Questbook. It counts all the forum posts you've ever made, no matter how many times you drop the quest while you're doing it.) Then, when you're done, you can get an easy 15 Core Crystals every time you redo Riza Rivertown. And you'll get to know everyone in the forums, which is fun! So yes, do it, but don't worry about officially picking it up except when you want to check how close you are to turning it in.
+- **Recommendations:** DO IT. It will take approximately FOREVER. (Good news: you don't have to keep it in your Questbook. It counts all the forum posts you've ever made, no matter how many times you drop the quest while you're doing it.) Then you'll get to know everyone in the forums, which is fun! So yes, do it, but don't worry about officially picking it up except when you want to check how close you are to turning it in.
 
 ### * Apprentice Fisherman
 
@@ -167,20 +167,6 @@ If there's an asterisk, it unlocked in the process of going through this region.
 - **Requirements:** Get 25 Hardwood, 10 Steel, 10 Wood, 8 Rope, 15 River Stone, and 5 Raw Fabric
 - **Rewards:** 5 Stone Keys
 - **Recommendations:** Five Stone Keys. FIVE STONE KEYS. Weigh that against the costs, but… FIVE STONE KEYS. Totally worth it for me. 
-
-### * Special Mini-Area Quest: Infected Raina Camp
-
-- **Unlocked by:** Main Quest 6/Journey Upriver
-
-- **Type:** Battle
-
-- **Requirements:** Defeat 10 Yala and 5 Vota
-
-- **Rewards:** Unlock Raina Surface Camp
-
-- **Recommendations:** If you like wandering, rambling, involved sidequests, you'll adore Raina and must open this ASAP. If you want cheaper Yala, Vota, and Knusha battles in the future, you'll want to unlock Raina. If the idea of an Accessory worth +15 Luck and a Weapon1 worth +11 Attack and +8 Luck sound worth climbing the highest mountain, traversing the dryest desert, crossing the densest forest, etc, you'll need to start your path by opening Raina.
-
-  If all that sounds bonkers, you're just as well passing it up.
 
 ### * Spider Bows
 
