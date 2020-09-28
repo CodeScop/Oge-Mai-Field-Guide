@@ -178,7 +178,7 @@ NOTE: Once you own a Wardrobe item, it's removed from these offerings. So if you
     - silver: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;691-polygon-shoulder-pads-4406-16840.png
     - green: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;691-polygon-shoulder-pads-4407-60028.png
 
-### Wardrobe Offerings - Terror From Above
+## Wardrobe Offerings - Terror From Above
 
 - The **Beware! Rock Shower Quest** yields the **Alien Rock Shoulderpads** https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;alien&#95;rock&#95;shoulderpads.png
 - The **Wardrobe** section offers the following for sale:

@@ -1,4 +1,4 @@
-LAST UPDATED 7 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
@@ -222,6 +222,8 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
   - MT Bite My Boots! - deliver 10 Dark Forest Boots for 25 Leafsung Ink
 - **Purple Gate Main Quest 1/??? (to be discovered!)**
 
+
+
 ## Questline - Forest Expedition
 
 (AFTER COMPLETING MAMA TREE MAIN QUESTS)
@@ -260,6 +262,8 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
     - SC Slowest Tortoise Wins - defeat 12 Reudod for 2 Wooden Chests & 2 Stempos
     - SC Sleepless in Stone City - defeat 8 Sapilo & 8 Oncaii for Wardrobe: Sapiemon Necklace
     - SC Stone City Chaos - defeat 4 each Sapilo, Sapira, Sapiti, and Reudod in exchange for 4 Stempos
+
+
 
 ## Questline - Alien Expedition
 
@@ -310,6 +314,8 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
   - RLab Zappy Zazzy Xombri - collect a bunch of stuff, get 1 Stempo & unlock Xombri
   - RLab Zooty Zanutaki Zings - collect a bunch of stuff (including some Dark Forest Outpost stuff), get 1 Stempo & unlock Zanutaki
 
+
+
 ## Questline - Desert Expedition
 
 (AFTER COMPLETING THE GANSU WATERING HOLE MAIN QUESTS)
@@ -333,6 +339,8 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
 - **Ruins: Tunnel Locked On** - other Ruins quests, 1 Kapir Tuft, 1 Dandeleon Flower, 1 Gobkey Trinket, and 3 Desert Stones to unlock the Shrine of Ages (requires materials from Forest Expedition Guardian's Lair)
   - (Shrine of Ages)
   - Shrine of Ages - variable; see Shrine of Ages section for full list
+
+
 
 ## Questline - Raina Expedition
 
@@ -394,7 +402,7 @@ NOTE: **ALL HUNT QUESTS are unlocked by the Luciola Hunt quest Joining the Hunt*
   - HuntS1 Deeper Forest Hunting - finish Elder Library Assistants, get 7-day streak, write 10K words for Wardrobe Full Body Scars
     - HuntS1 A Past Not Forgotten - finish Elder Library's Security, get Wardrobe Pauldrons
       - HuntS1 The Curator of Elder Library - defeat Curator 4 times, get Wardrobe Sassi Pet
-        - **HUNT FOR THE ANCIENTS SEASON 2** - see below
+        - **UNLOCK SEASON 2** - see below
 - HuntS1 Proving Your Worth 1/4 - defeat a bunch of Luciola monsters for 10 Hunter Tokens
   - HuntS1 Proving Your Curiosity 2/4 - defeat 6 Nitana for 10 Hunter Tokens
     - HuntS1 Proving Your Perseverance 3/4 - defeat a bunch of Forest Expedition monsters for 10 Hunter Tokens
@@ -402,11 +410,13 @@ NOTE: **ALL HUNT QUESTS are unlocked by the Luciola Hunt quest Joining the Hunt*
         - HuntS1 Proving Your Mettle 5/6 - defeat a bunch of Mama Tree monsters for 15 Hunter Tokens
           - HuntS1 Proving Your Strength 6/6 - defeat 6 Tylu and get Wardrobe: Small Axe
 
+
+
 ##Questline - Hunt for the Ancients - Season 2
 
 Season 2 is unlocked by completing The Curator of Elder Library quest, and you can see that questline in Season 1.
 
-- HuntS2 Battle of Merit - **(Note: This has as prerequisite the HuntS1 quest A Battle of Wills.)** Defeat 1 Desert version of Velts, get 25 Hunter Tokens
+- HuntS2 Battle of Merit - **(Note: This has as prerequisite the HuntS1 quest A Battle of Wills. Unlocking Season 2 is not necessary, but since this was released with S2, I'm including it in S2. )** Defeat 1 Desert version of Velts, get 25 Hunter Tokens
 - HuntS2 A Season to Explore - defeat every non-global monster in 3PC, get 100 Hunter Tokens
 - HuntS2 Wandering We Go - maintain 7-day Streak, get 10 Hunter Tokens
 - HuntS2 Seeing It Through - Defeat 10 Frizi, get 5 Hunter Tokens
@@ -425,13 +435,16 @@ Season 2 is unlocked by completing The Curator of Elder Library quest, and you c
   - HuntS2 Oh, Endless Possibilities! - collect Hunt Map Piece 5, get Wardrobe: Hunt Facepaint Star
     - HuntS2 No Wrong Path - collect Hunt Map Piece 6, get Wardrobe: Hunt Facepaint Eye Shadow
       - HuntS2 Stumbling Upon Sheep - defeat the Shepherd 4 times, get Wardrobe: Dog Mentor Pet
+        - **UNLOCK SEASON 3**
       - HuntS2 Herding the Herders - Defeat 1 each Lubu, Czanus, Pipit; get 25 Hunter Tokens
+
+
 
 ##Questline - Hunt for the Ancients - Season 3
 
 Season 3 is unlocked by completing Stumbling Upon Sheep quest, and you can see that questline in Season 2.
 
-- HuntS3 Battle of Constitution 3/4 - **(Note: This has as prerequisite the HuntS2 quest Battle of Merit. Stumbling Upon Sheep is not necessary, but since this was released with S3, I'm including it in S3.)** Defeat 1 Water version of Velts, get 25 Hunter Tokens
+- HuntS3 Battle of Constitution 3/4 - **(Note: This has as prerequisite the "HuntS2" quest Battle of Merit. Unlocking Season 3 is not necessary, but since this was released with S3, I'm including it in S3.)** Defeat 1 Water version of Velts, get 25 Hunter Tokens
 - HuntS3 Helping Those In Need Grow - give a bunch of Rusty Amulets, Pendants, and Gold, get 25 Hunter Tokens
 - HuntS3 Change To See - defeat 1 Yala, get 25 Hunter Tokens
 - HuntS3 Growth in Friendship - defeat 1 each Raina in SurfaceC, get 50 Hunter Tokens
@@ -439,13 +452,29 @@ Season 3 is unlocked by completing Stumbling Upon Sheep quest, and you can see t
 - HuntS3 Problems Feed Solutions - defeat 20 Caricaco, get 25 Hunter Tokens
 - HuntS3 Of Vibrant Growth - write 10K words, get 15 Hunter Tokens
 - HuntS3 Where Life Flows - deliver 50 Swamp Moss, get 15 Hunter Tokens
-- HuntS3 To Grow & Change - defeat 10 monsters and get Hunt Map Piece 7, get Wardrobe: Hunt Facepaint Side
-  - HuntS3 Bettering Ourselves - collect Hunt Map Piece 8 & get 5-day streak, get Wardrobe: Hunt Complex Brooch
-    - HuntS3 Bigger & Brighter - collect Hunt Map Piece 9 & get 5-day streak, get Wardrobe: Hunt Facepaint Trident
-- HuntS3 Moving Flora - maintain 5-day streak, get Hunt Map Piece 7 and 10 Hunter Tokens
-- HuntS3 Flying Past Sparks - defeat 5 Nuig, get Hunt Map Piece 8 and 10 Hunter Tokens
-- HuntS3 Insight Grows - defeat 20 Puna, get 15 Hunter Tokens & Hunt Map Piece 9
 - HuntS3 Growing Improvement - beat 10 Jaihri, get 25 Hunter Tokens
   - HuntS3 - Growing Your Perception 2/3 - defeat 5 Castu, 3 Isartu, and 1 Water Rudakai, get 25 Hunter Tokens
     - HuntS3 - Growing Your Tenacity 3/3 - defeat 2 Xyplos, get 25 Hunter Tokens
       - HuntS3 - Growing Your Valor 4/4 - defeat 1 Wyvern, get Wardrobe: Fur Ankle Boots
+- HuntS3 To Grow & Change - defeat 10 monsters and get Hunt Map Piece 7, get Wardrobe: Hunt Facepaint Side
+  - HuntS3 Bettering Ourselves - collect Hunt Map Piece 8 & get 5-day streak, get Wardrobe: Hunt Complex Brooch
+    - HuntS3 Bigger & Brighter - collect Hunt Map Piece 9 & get 5-day streak, get Wardrobe: Hunt Facepaint Trident
+      - HuntS3 A Bubble Dream - defeat the Caretaker, get Wardrobe: Cactus Sprite Pet
+        - **UNLOCK SEASON 4**
+- HuntS3 Moving Flora - maintain 5-day streak, get Hunt Map Piece 7 and 10 Hunter Tokens
+- HuntS3 Flying Past Sparks - defeat 5 Nuig, get Hunt Map Piece 8 and 10 Hunter Tokens
+- HuntS3 Insight Grows - defeat 20 Puna, get 15 Hunter Tokens & Hunt Map Piece 9
+
+
+
+##Questline - Hunt for the Ancients - Season 4
+
+Season 4 is unlocked by completing the quest A Bubble Dream, and you can see that questline in Season 3.
+
+- HuntS4 A Battle of Evolution - **(Note: This has as prerequisite the "HuntS3" quest Battle of Constitution. Unlocking Season 4 is not necessary, but since this was released with S4, I'm including it in S4.)** Defeat 1 Dust version of Velts, get Wardrobe: Hunt Battle Helmet
+- HuntS4 Cheer Your Dedication - write 10K words & make 5 Forum posts, get 15 Hunter Tokens
+- HuntS4 Sing Your Enthusiasm - defeat 10 Zanthei, get 20 Hunter Tokens
+- HuntS4 To Celebrate and Share - defeat 6 Takori, get 20 Hunter Tokens
+- HuntS4 Into the Woods - defeat a bunch of DFO spirits, get 50 Hunter Tokens
+- HuntS4 Something Extraordinary - defeat 3 Mirdor, get Hunt Map Piece 10 and 10 Hunter Tokens
+- HuntS4 Dirt to Dust - have Hunt Map Piece 10 and attain 5-day Streak, get Wardrobe: Hunt Golden Brooch

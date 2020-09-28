@@ -1,4 +1,4 @@
-LAST UPDATED 12 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 Here we have everything from Three Points Crossing and Gansu Watering Hole, barring any Hunt info that doesn't apply to Hunter Tokens. Use wisely. :) Anything that says FOREST or FOREST EXPEDITION can be looked up in more detail under Forest Resources. Any Alien Meteoroid resources will stick to the Alien Meteoroid section until we get to the Desert Summary.
 
@@ -365,17 +365,9 @@ This actually isn't available yet, but a quest requiring it pops up as soon as R
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - later game
 
-- **Late Aug 2020 Sources Outside the Hunt:**
+- **Monthly Sources Outside the Hunt:**
 
-  Late August 2020 sources are - wait for it - BLUE. 
-
-  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
-
-  - FOREST, ALIEN EXPEDITION
-  - Global Battles: Vi, Viyusa, Awa
-  - 3PC Battles: Bruja, Yasri
-  - Gansu Battles: Gansu Battles: Furoxi, Sparfly (may be a leftover from wings last month, may be removed)
-  - later game
+  I'll detail these changes in the Hunt sections and the regional summary sections.
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

@@ -1,4 +1,4 @@
-LAST UPDATED 12 SEPT 2020
+LAST UPDATED 16 SEPT 2020
 
 Summary of everything available in the DESERT. (Yes, now including Shrine of Ages!) Abbreviations:
 
@@ -501,11 +501,23 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - later Hunt
 
-- **Late Aug 2020 Sources Outside the Hunt:**
+- **Late Sept 2020 Sources Outside the Hunt:**
 
-  Late August 2020 sources are - wait for it - BLUE. 
+  Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!) 
 
-  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
+  - Global Battles: Vi (5 minutes for 1-4), Viyu (15 minutes for 3-14), Viyusa (25 minutes for 5-20)
+  - FOREST
+  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
+  - ALIEN EXPEDITION:
+    - IC Battles: none
+    - SpaceS Battles: Captain Piak (1667 words for 16-17)
+    - MiningS Battles: Ityf (1250 words for 12-13), Pach (200 words for 2)
+    - RL Battles: Minica (900 words for 9), Tessen (500 words for 5), Zanutaki (500 words for 5)
+  - Gansu Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Sparfly (450 words for 4-5)
+  - DESERT EXPEDITION:
+    - DigS Battles: Loi (150 words for 1-2), Okkorhi (1000 words for 10)
+    - Ruins Battles: Hunt only
+  - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -1177,7 +1189,7 @@ The ability to craft Stempos in Gansu unlocks after a series of side quests.The 
   - IC Quest: Loving Rocky Roads (2), Stabbing Dinti Spikes (3)
   - SpaceS Quest: Tracking Shooting Stars (3)
   - MSite Quest: Drilling Too Deep (3)
-  - RLab Quests: Set Creatures Free! 1/4 (5), Build a Biodome 3/4 (5), Encourage an Ecosystem 4/4 (5), Making Mellow Mowow (1), Sagacious Sincere Sabu (1), Silkly Sleek Sulanica (1), Zappy Zazzy Xombri (1), Zooty Zanutaki Zings (1)
+  - RLab Quests: Set Creatures Free! 1/4 (5), Build a Biodome 3/4 (5), Making Mellow Mowow (1), Sagacious Sincere Sabu (1), Silkly Sleek Sulanica (1), Zappy Zazzy Xombri (1), Zooty Zanutaki Zings (1)
   - Ruins Quest: Feathers & Fur (3), Every Tunnel Connects (4)
   - ShrineGiant Battles: Caravan (5000 words for 1-2)
 - **Craft:** Gansu Crafts & Trinkets/Wynfri of Water: 1 Sacred Feather, 1 White Fur, 10 Essence, 1 Glass Bar, 1 Gold Bar

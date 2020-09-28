@@ -1,4 +1,4 @@
-LAST UPDATED 12 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Water-only otherwise.
 
@@ -105,7 +105,8 @@ Hideout: Rebel Raina Hideout
 
 ### Bones
 
-- **Sources:** later game
+- **Sources:** later game,
+  - Riza Battles: Velts: Dust (2000 words for 2-4)
 - **Sell price:** 12 Coins (don't sell unless you have >150)
 - **Used for:** later game, DESERT
 
@@ -367,7 +368,7 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
   - Balance Battles: River Goddess (5000 words for 5)
 - **Other sources:** Buy,
   - Riza Stone Chest: 3-7
-  - Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 2-3), Wyvern (1300 words for 0-1, usually 1 with enough Luck), Trainee (1000 words, 20 Coins for 0-1, usually 1 with enough Luck)
+  - Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 2-3), Wyvern (1300 words for 0-1, usually 1 with enough Luck), Trainee (1000 words, 20 Coins for 0-1, usually 1 with enough Luck, Velts: Dust (2000 words for 1-2)
   - SurfaceC Battles: Knusha (1200 words for 1), Wyvern (1300 words for 0-1)
   - Balance Battles: Water Rudakai (1600 words, 3 Reinforced Rope for 0-3)
 - **Buy:** 250 Coins in Item Shop/Luko's Inn
@@ -454,22 +455,23 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
   - HUNTS1, HUNTS2, FOREST, DESERT
+  - Riza Battles: Velts: Dust (2000 words for 20)
   - Balance Battles: Velts: Water (1600 words for 16), Vanvri (20 minutes for 2-8)
   - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25), Insight Grows (15), Change to See (25), Growth in Friendship (50), Where Life Flows (15)
   
-- **Late Aug 2020 Sources Outside the Hunt:**
+- **Late Sept 2020 Sources Outside the Hunt:**
 
-  Late August 2020 sources are - wait for it - BLUE. 
+  Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!) 
 
-  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
-
-  - FOREST
-  - DESERT
-  - Riza Battles: Furoxi, Osaril, Sparfly (may be a leftover from wings last month, may be removed)
+  - Global Battles: Vi (5 minutes for 1-4), Viyu (15 minutes for 3-14), Viyusa (25 minutes for 5-20)
+  - FOREST, DESERT
+  - Riza Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Sparfly (450 words for 4-5), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
   - RAINA EXPEDITION:
-    - SurfaceC, SacredS Battles: Global and Hunt only
-    - SwampL Battle: Rhamp
-  - Balance Battles: Furoxi, Castu, Nuig, Water Rudakai
+    - SurfaceC Battles: Begala (300 words for 3), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
+    - SwampL Battle: Heliodae (120 words for 1-2)
+    - SacredS Battle: Pedja (1000 words for 10)
+    - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Kivi (100 words for 1), Wisthu (800 words for 8)
+  - Balance Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), River Goddess (5000 words for 50), Spirit Castu (550 words for 5-6)
   - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
@@ -603,7 +605,8 @@ ONLY USED FOR PRIOR GAME AND EQUIPPING
 
 ### Net
 
-- **Sources:** DESERT
+- **Sources:** DESERT,
+  - Riza Battles: Velts: Dust (2000 words for 1)
 - **Craft:** DESERT
 - **Sell Price:** 180 Coins (don't sell; too expensive)
 - **Used for:** equipping,
@@ -732,7 +735,7 @@ ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surfa
   - Hideout Battles: Wisthu (800 words for 1-4), Grongu (2000 words for 2-5)
 - **Other sources:** 
   - Limited-availability battles in Riza Main Quest sequence
-  - Riza Battles: Patliadu (750 words, 1 Harpoon for 1-2), Vota (800 words, 2 Rope, 2 River Grass for 1-2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1-2)
+  - Riza Battles: Patliadu (750 words, 1 Harpoon for 1-2), Vota (800 words, 2 Rope, 2 River Grass for 1-2), Velts: Dust (2000 words for 3-6), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1-2)
 - **Buy:** DESERT
 - **Sell price:** 8 Coins (DO NOT SELL. You will need this to craft SO MANY STEEL BARS.)
 - **Used for:** 
@@ -790,6 +793,7 @@ ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surfa
 - **Best sources:** Buy, Craft
   - Balance River Chest: 1-2
 - **Other sources:** 
+  - Riza Battles: Velts: Dust (2000 words for 1-3)
   - Hideout Battles: Grongu (2000 words for 1-2)
   - Hideout Quest: Pushing Back Rebels 1/3 (5)
 - **Craft:** Water Shop/Kuyurata's Shop: 10 Rope, 1 Steel Bar
@@ -1004,7 +1008,8 @@ DESERT ONLY
 
 ### Spider Poison
 
-- **Sources:** FOREST, DESERT
+- **Sources:** FOREST, DESERT,
+  - Riza Battles: Velts: Dust (2000 words for 2-4)
 - **Sell price:** 4 Coins (Don't sell; there is always a use lurking somewhere. As long as quests exists, there is always a use.)
 - **Used for:** FOREST, DESERT,
   - Riza Quests: Main Quest 3/Remedy for a Friend (6)
@@ -1255,7 +1260,7 @@ As with the Stone Chest, I'm going to keep the DESERT info available here becaus
   - Balance Battles: Velts: Water (1600 words for 5-10)
   - FOREST
 - **Other sources:** DESERT,
-  - Riza Battles: Jaihri (485 words for 1)
+  - Riza Battles: Jaihri (485 words for 1), Velts: Dust (2000 words for 6-12)
   - SwampL Battles: Larida (1000 words for 1-4), Gaiai (1500 words for 2-4)
   - SacredS Battles: Ognimaf (300 words for 1-2), Toccal (800 words for 1-2)
   - Hideout Battles: Cafodu (600 words for 2-6), Grongu (2000 words for 2-4)

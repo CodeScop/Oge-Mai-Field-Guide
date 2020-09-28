@@ -219,6 +219,22 @@ LAST UPDATED 11 FEB 2020
 - **Rewards:** Wardrobe: Dark Forest Shoulder Pads https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;darkforest&#95;shoulders.png
 - **Recommendations:** One major upside: Burhar drop Steel Chains, which are very useful later in the area, so this is a good way to double up grinding with a quest. 40 is overkill for that purpose, though. It's up to you.
 
+### Deliver With A Smile
+
+- **Unlocked by:** Opening Dark Forest Outpost
+- **Type:** Collection
+- **Requirements:** Deliver 15 each: Leafsung Ink, Spider Poison, Red Dye
+- **Rewards:** 1 Dark Forest Amulet
+- **Recommendations:** This is an Inventory item, an Accessory that gives you +10 Luck. Decide for yourself if it's worth it for you.
+
+### Dessti's New Home
+
+- **Unlocked by:** Opening Dark Forest Outpost
+- **Type:** Collection
+- **Requirements:** Gather 50 Hardwood, 15 Steel, 25 Reinforced Rope, and 100 Raw Fabric
+- **Rewards:** Wardrobe: Dark Forest Pin https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;darkforest&#95;pin.png
+- **Recommendations:** How much do you like that pin? It's lovely. It may or may not be worth 25 Reinforced Rope and 15 Steel and 50 Hardwood to you (though Raw Fabric is so cheap, it's no big to spend it). Take it or leave it, as you please!
+
 ### Familiar Family Friends
 
 - **Unlocked by:** Opening Dark Forest Outpost
@@ -237,22 +253,6 @@ LAST UPDATED 11 FEB 2020
   - 1 Desert Rudakai
 - **Rewards:** Wardrobe: Dark Forest Roots Bracers https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;roots&#95;braces.png
 - **Recommendations:** Go ahead and pick it up and hold onto it if you have space. Obviously this is a long-term commitment! But some of it will take care of itself as you go. (Notice that three of the five monster requirements are going to be knocked out by the first Main Quest. Go on, grab it!)
-
-### Deliver With A Smile
-
-- **Unlocked by:** Opening Dark Forest Outpost
-- **Type:** Collection
-- **Requirements:** Deliver 15 each: Leafsung Ink, Spider Poison, Red Dye
-- **Rewards:** 1 Dark Forest Amulet
-- **Recommendations:** This is an Inventory item, an Accessory that gives you +10 Luck. Decide for yourself if it's worth it for you.
-
-### Dessti's New Home
-
-- **Unlocked by:** Opening Dark Forest Outpost
-- **Type:** Collection
-- **Requirements:** Gather 50 Hardwood, 15 Steel, 25 Reinforced Rope, and 100 Raw Fabric
-- **Rewards:** Wardrobe: Dark Forest Pin https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;darkforest&#95;pin.png
-- **Recommendations:** How much do you like that pin? It's lovely. It may or may not be worth 25 Reinforced Rope and 15 Steel and 50 Hardwood to you (though Raw Fabric is so cheap, it's no big to spend it). Take it or leave it, as you please!
 
 ### * Fetch! Play! Battle!
 

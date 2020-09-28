@@ -1,4 +1,4 @@
-LAST UPDATED 29 AUG 2020
+LAST UPDATED 25 SEPT 2020
 
 Halfway through the year, we're opening the third Season!
 
@@ -179,3 +179,31 @@ Late August 2020 sources are - wait for it - BLUE.
 - Rib Wings Tattoo - 25 Hunter Tokens
 - Torso Wings Tattoo - 25 Hunter Tokens
 - Hunt Cloak - 150 Hunter Tokens
+
+# Late Sept 2020
+
+September 24 set up the last part of Season 3, which did not involve an event (which I admit was a relief to this chronicler after a very involved August and a just-wrapped event and a new area opening up soon).
+
+### New S3 Quests: Late Sept 2020
+
+- A Bubble Dream
+
+(Also, the new Velts quest "A Battle of Evolution" became available to anyone caught up on the Velts chain, but I'm counting that as S4. Also, the Valley of the Sheep quest became available again, presumably sometime in S2.)
+
+### New S3 Hunt Monsters: Late Sept 2020
+
+- Caretaker
+
+(Also, Velts: Dust shows up, again on the Velts chain and not the Season sequence, but again I'm counting that as S4. See S4 for that and others.)
+
+### New S3 Resources: Late Sept 2020
+
+None.
+
+### Hunter Token Sources: Late Sept 2020
+
+Putting this as S4 info.
+
+### New Wardrobe Items: Late Sept 2020
+
+Also S4

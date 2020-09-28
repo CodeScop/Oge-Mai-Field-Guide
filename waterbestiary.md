@@ -1,4 +1,4 @@
-LAST UPDATED 12 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 Once again! Here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -816,11 +816,9 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1-2 Wood, 0-1 Raw Gold, 1 Hardwood, 1-2 River Grass
 
 - **Quests:**
-
-  OGE-MAI
-
-  - Riza: Main Quest 1/ Jaihri Dam (6), Main Quest 4/ Mucky, Murky, Muddy (2), River Dams (15
-  - HuntS3: Growing Improvement (10)
+- Riza: Main Quest 1/ Jaihri Dam (6), Main Quest 4/ Mucky, Murky, Muddy (2), River Dams (15)
+  - SurfaceC: Golden Tooth Monsters (15)
+- HuntS3: Growing Improvement (10)
 
 
 ### Kaija (Exp: BC)
@@ -1751,6 +1749,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 120
 - **Drops:** 12 Hunter Tokens, 4-8 Wood, 4-6 Rope, 1 Spider Poison, 2-4 Raw Steel, 1-3 Raw Sandstone
 - **Quests:** HuntS2: Battle of Merit (1)
+
+### Velts: Dust (Oge: Riza*)
+
+- **Unlocked by:** HuntS3 Quest: Battle of Constitution
+- **Requirements:** 2000 words
+- **Time allowed:** 1440 minutes (24 hours or 1 day)
+- **XP:** 200
+- **Drops:** 20 Hunter Tokens, 6-12 Wood, 1-2 Hardwood, 1-3 Reinforced Rope, 2-4 Spider Poison, 3-6 Raw Steel, 2-4 Bones, 1 Net
+- **Quests:** HuntS4: A Battle of Evolution (1)
 
 ### Velts: Water (Oge: Balance)
 

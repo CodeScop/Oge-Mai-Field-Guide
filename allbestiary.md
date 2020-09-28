@@ -1,4 +1,4 @@
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 Beware! **Here be spoilers**. Every single quest requiring a given monster is listed, no matter how late in the game it appears. Don't say I didn't warn you. But maybe you'll be able to mix and match quests more efficiently.
 
@@ -90,6 +90,8 @@ Riza: Riza Rivertown
 
 Balance: Floating City of Balance
 
+HuntS3: Hunt for the Ancients Season 3
+
 **Expedition Raina**
 
 SurfaceC: Raina Surface Camp
@@ -104,9 +106,11 @@ Hideout: Rebel Raina Hideout
 
 DFO: Dark Forest Outpost
 
+HuntS4: Hunt for the Ancients Season 4
+
 # A-L
 
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 ### Afeppti (Exp: ShrineCO)
 
@@ -237,7 +241,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **XP:** 10
 - **Drops:** 1 Shrine Stone, 1-2 Raw Stone
 - **Quests:** 
-  - One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
+  - IC: One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
   - Shrine TFA: Shrine Creature Flyby (1), Beware! Rock Shower (50)
 
 ### Arren (Exp: MSite)
@@ -274,7 +278,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Time allowed:** 30 minutes
 - **XP:** 35
 - **Drops:** 3-4 Hunter Tokens, 2-3 Raw Fabric, 1 Rope, 0-1 Red Dye
-- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
+- **Quests:** (Hunt Quest, presumed S2, still testing): Valley Of The Sheep (1)
 
 ### Auwi (Exp: SurfaceC)
 
@@ -492,6 +496,15 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
 - **Drops:** 50 Shrine Stones, 6-11 Fur, 5-13 Raw Fabric, 1-2 Stempos, 1 Stone Chest, 1 Stone Key, 2-5 Desert Stones
 - **Quests:** ShrineGiant: A Colossal Quest (1), The Shrine-Stone Trail (5)
 
+### Caretaker (Oge: DFO)
+
+- **Unlocked by:** HuntS3 Quest: Bigger and Brighter
+- **Requirements:** 1200 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 120
+- **Drops:** 5-8 Leaves, 2-4 Rope, 3-5 Wood, 1 Spider Poison
+- **Quests:** HuntS3: A Bubble Dream (1)
+
 ### Caricaco (Oge: Balance)
 
 - **Requirements:** 300 words
@@ -521,7 +534,9 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 130
 - **Drops:** 3 Spirit Dust, 4 Bones, 3 Dried Pulp, 2 Raw Fabric, 3 Raw Steel, 3 Glass Shards, 1 Steel Bar
-- **Quests:** DFO: Main Quest 10/A Dogged Search (1), A Cursed Couple (25)
+- **Quests:** 
+  - HuntS4: Into the Woods (1)
+  - DFO: Main Quest 10/A Dogged Search (1), A Cursed Couple (25)
 
 ### Chu (Oge: DFO*)
 
@@ -1076,7 +1091,7 @@ see **Skuppa's Giant Marionette**
 - **Time allowed:** 15 minutes
 - **XP:** 15
 - **Drops:** 1-2 Hunter Tokens, 1 Raw Fabric
-- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
+- **Quests:** (Hunt Quest, presumed S2, still testing): Valley Of The Sheep (1)
 
 ### Ipo (Exp: MSite)
 
@@ -1115,11 +1130,9 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1-2 Wood, 0-1 Raw Gold, 1 Hardwood, 1-2 River Grass
 
 - **Quests:**
-
-  OGE-MAI
-
-  - Riza: Main Quest 1/ Jaihri Dam (6), Main Quest 4/ Mucky, Murky, Muddy (2), River Dams (15)
-  - HuntS3: Growing Improvement (10)
+- Riza: Main Quest 1/ Jaihri Dam (6), Main Quest 4/ Mucky, Murky, Muddy (2), River Dams (15)
+  - SurfaceC: Golden Tooth Monsters (15)
+- HuntS3: Growing Improvement (10)
 
 
 ### Kaija (Exp: BC)
@@ -1349,11 +1362,13 @@ see **Skuppa's Giant Marionette**
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 110
 - **Drops:** 3 Dried Pulp, 2 Raw Fabric, 3 Raw Steel, 3 Glass Shards, 1 Steel Bar, 3 Spirit Dust, 3 Bones
-- **Quests:** DFO: Main Quest 10/A Dogged Search (1), A Cursed Couple (25)
+- **Quests:** 
+  - HuntS4: Into the Woods (1)
+  - DFO: Main Quest 10/A Dogged Search (1), A Cursed Couple (25)
 
 # M-Z
 
-LAST UPDATED 12 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 ### Maesc (Exp: IC)
 
@@ -1441,6 +1456,15 @@ LAST UPDATED 12 SEPT 2020
 - **Drops:** 4-7 Raw Stone, 1-2 Swamp Moss, 2-4 Leaves
 - **Quests:** Sacred: Seeding New Beginnings 1/3 (1), Seeding New Beginnings 2/3 (5), Seeding New Beginnings 3/3 (10)
 
+### Mirdor (Exp: GL)
+
+- **Unlocked by:** HuntS3 Quest: A Bubble Dream
+- **Requirements:** 1500 words
+- **Time allowed:** 250 minutes (4 hours and 10 minutes)
+- **XP:** 150
+- **Drops:** 15 Hunter Tokens, 4-8 Fur, 3-6 Wood, 1-2 White Fur, 3-7 Leaves, 2-3 Rope
+- **Quests:** HuntS4: Something Extraordinary (3)
+
 ### Molox (Oge: DFO*)
 
 - **Unlocked by:** DFO Step Into The Deadlands (1/4)
@@ -1448,7 +1472,9 @@ LAST UPDATED 12 SEPT 2020
 - **Time allowed:** 66 minutes (1 hour 6 minutes)
 - **XP:** 60
 - **Drops:** 1-2 Spirit Dust, 1 Bones, 1 Refined Dust, 3-5 Raw Steel
-- **Quests:** DFO: Hounding the Dead 2/4 (10)
+- **Quests:** 
+  - HuntS4: Into the Woods (3)
+  - DFO: Hounding the Dead 2/4 (10)
 
 ### Mowow (Exp: RLab*)
 
@@ -1597,7 +1623,9 @@ LAST UPDATED 12 SEPT 2020
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 75
 - **Drops:** 1-2 Raw Steel, 1 Essence, 2 Refined Dust, 2 Bones
-- **Quests:** DFO: Main Quest 4/Attacking The Darkness (6)
+- **Quests:** 
+  - HuntS4: Into the Woods (4)
+  - DFO: Main Quest 4/Attacking The Darkness (6)
 
 ### Osaril (Oge: Riza)
 
@@ -2038,7 +2066,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Time allowed:** 25 minutes
 - **XP:** 25
 - **Drops:** 2-3 Hunter Tokens, 1-2 Raw Fabric, 0-1 Raw Gold
-- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
+- **Quests:** (Hunt Quest, presumed S2, still testing): Valley Of The Sheep (1)
 
 ### Shepherd (Exp: DigS)
 
@@ -2102,6 +2130,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Time allowed:** 8 minutes
 - **XP:** 8
 - **Drops:** 1 Spirit Dust
+- **Quests:** HuntS4: Into the Woods (10)
 
 ### Spirit Castu (Oge: Balance*)
 
@@ -2205,7 +2234,9 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Time allowed:** 75 minutes (1 hour 15 minutes)
 - **XP:** 60
 - **Drops:** 1 Fur, 1 Bones, 1 Rope, 2 Refined Dust, 2 Rat Tails, 1 Dried Pulp
-- **Quests:** DFO: Main Quest 2/Rats, Wrong Way! (10)
+- **Quests:** 
+  - HuntS4: To Celebrate and Share (6)
+  - DFO: Main Quest 2/Rats, Wrong Way! (10)
 
 ### Takra (Exp: ShrineGiant)
 
@@ -2400,6 +2431,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 120
 - **Drops:** 12 Hunter Tokens, 4-8 Wood, 4-6 Rope, 1 Spider Poison, 2-4 Raw Steel, 1-3 Raw Sandstone
 - **Quests:** HuntS2: Battle of Merit (1)
+
+### Velts: Dust (Oge: Riza*)
+
+- **Unlocked by:** HuntS3 Quest: Battle of Constitution
+- **Requirements:** 2000 words
+- **Time allowed:** 1440 minutes (24 hours or 1 day)
+- **XP:** 200
+- **Drops:** 20 Hunter Tokens, 6-12 Wood, 1-2 Hardwood, 1-3 Reinforced Rope, 2-4 Spider Poison, 3-6 Raw Steel, 2-4 Bones, 1 Net
+- **Quests:** HuntS4: A Battle of Evolution (1)
 
 ### Velts: Water (Oge: Balance)
 
@@ -2724,7 +2764,9 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Time allowed:** 35 minutes
 - **XP:** 40
 - **Drops:** 1 Refined Dust, 2 Dark Forest Leaves, 1 Dried Pulp, 1-2 Wood
-- **Quests:** DFO: Main Quest 1/Ousting the Outpost (5), Familiar Family Friends (5)
+- **Quests:** 
+  - HuntS4: Sing Your Enthusiasm (10)
+  - DFO: Main Quest 1/Ousting the Outpost (5), Familiar Family Friends (5)
 
 ### Zanthei Hologram (Exp: RLab)
 

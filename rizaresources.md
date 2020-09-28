@@ -1,4 +1,4 @@
-LAST UPDATED 26 JUN 2020
+LAST UPDATED 25 SEPT 2020
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Riza-only otherwise.
 
@@ -355,11 +355,9 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
   - FOREST, DESERT
   - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25), Insight Grows (15), Change to See (25), Growth in Friendship (50), Where Life Flows (15)
 
-- **Late Aug 2020 Sources Outside the Hunt:**
+- **Monthly Sources Outside the Hunt:**
 
-  Late August 2020 sources are - wait for it - BLUE. 
-
-  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
+  I'll detail these changes in the Hunt sections and the regional summary sections.
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

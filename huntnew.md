@@ -1,4 +1,4 @@
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 Hey! Loading up the info for the Hunt. It takes a while to incorporate everything properly throughout the Guide, but it doesn't take long to gather the new info. So! Here is New Info Only for the Hunt for the Ancients. (Please, please just look at the regular sections if you aren't up to the latest point; there's nothing here that will be likely to serve you before then.)
 
@@ -6,115 +6,148 @@ Hey! Loading up the info for the Hunt. It takes a while to incorporate everythin
 
 This month: a wild Vanvri appears in Balance! As with our previous two months, this has no CLEAR connection to the Hunt, but I still find it interesting that these new monsters drop Hunter Tokens, and that they seem to be appearing in lieu of the Assistants in previous Seasons.
 
-## New Quests: Aug 2020
+## New Quests: Sept 2020
 
-### Insight Grows
+### A Bubble Dream
 
-- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
+- **Unlocked by:** HuntS3 Quest: Bigger and Brighter
 - **Type:** Battle
-- **Requirements:** Defeat 20 Puna
-- **Rewards:** 15 Hunter Tokens & Hunt Map Piece 9
-- **Recommendations:** The trend continues! Once again, the quest to get Hunt Map Piece 9 does not depend on the quest to get Hunt Map Piece 8. (One of my test accounts is in the interesting position of possessing Hunt Map Piece 9 and not 8.) Still, you'll need this to keep the main Hunt line going, so I suppose it's worth the Puna. (There are approximately 423,293,478 Puna quests in the game, and after completing all of them, I'm rather tired of the fishies. For those who have not completed them, I recommend checking out what quests overlap, especially in Balance.)
+- **Requirements:** Defeat 1 Caretaker
+- **Rewards:** Wardrobe: Cactus Sprite Pet https://4thewords.com/media/wardrobe/featured/female/wf&#95;861-cactus-sprite-pet-6003-60430.png
+- **Recommendations:** This is part of the trail to get through the Hunt. Note that the Caretaker is in Dark Forest Outpost...
 
-### Bigger and Brighter
+### A Battle of Evolution
 
-- **Unlocked by:** HuntS3 Quest: Bettering Ourselves
-- **Type:** Collection, Streak
-- **Requirements:** Collect Hunt Map Piece 9 & reach a 5-day Streak
-- **Rewards:** Wardrobe: Hunt Facepaint Trident https://4thewords.com/media/wardrobe/featured/male/wm&#95;665-hunt-facepaint-trident-4021-27616.png
-- **Recommendations:** Still streaking! (Sorry, couldn't resist.) And as of this writing, still waiting to see what gets unlocked next by this one! But the Caretaker will almost certainly require this quest to unlock.
-
-### Change To See
-
-- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
+- **Unlocked by:** HuntS3 Quest: Battle of Constitution
 - **Type:** Battle
-- **Requirements:** Defeat 1 Yala
-- **Rewards:** 25 Hunter Tokens
-- **Recommendations:** ... you'll complete this anyway if you complete Growth in Friendship, so it overlaps well. If you can't do Growth in Friendship because you haven't unlocked Raina, this is a nice consolation prize.
+- **Requirements:** Defeat 1 Velts: Dust
+- **Rewards:** Wardrobe: Hunt Battle Helmet https://4thewords.com/media/wardrobe/featured/female/wf&#95;634-hunt-battle-helment-3693-42038.png (7 variants)
+- **Recommendations:** Shockingly, Dust Velts is to be found in the Water Region, possibly enjoying Dí at Luko's Inn. As far as I can tell, this is the end of the quest chain, but this Velts has particularly nice drops (especially if you've recently opened Raina, or really any area beyond Riza).
 
-### Growth in Friendship
+### Something Extraordinary
 
-- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
+- **Unlocked by:** HuntS3 Quest: A Bubble Dream
 - **Type:** Battle
-- **Requirements:** Defeat 1 each: Rea & Pira, Yala, Knusha, Vota, Vaktra, Droxa, Begala
-- **Rewards:** 50 Hunter Tokens
-- **Recommendations:** This pairs really well with at least one Surface Camp quest, so keep an eye out for that. Just.... don't fight any of these monsters in Riza, because you'll be paying more Resources than you would fighting them in Raina.
+- **Requirements:** Defeat 3 Mirdor
+- **Rewards:** Hunt Map Piece 10 and 10 Hunter Tokens
+- **Recommendations:** The description for this quest will outright tell you that Mirdor is in Guardian's Lair. The Bard seems to be all over the game!
 
-### Where Life Flows
+### Dirt to Dust
 
-- **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
-- **Type:** Collection
-- **Requirements:** Deliver 50 Swamp Moss
+- **Unlocked by:** HuntS3 Quest: A Bubble Dream
+- **Type:** Streak, Collection
+- **Requirements:** Have Hunt Map Piece 10 and attain 5-day Streak
+- **Rewards:** Wardrobe: Hunt Golden Brooch https://4thewords.com/media/wardrobe/featured/male/wm&#95;652-hunt-golden-brooch-3827-31075.png
+- **Recommendations:** What's to lose by picking it up? And it lets you continue with the Hunt!
+
+### Cheer Your Dedication
+
+- **Unlocked by:** HuntS3 Quest: A Bubble Dream
+- **Type:** Wordcount, Forum
+- **Requirements:** Write 10,000 words and make 5 posts in the Forum
 - **Rewards:** 15 Hunter Tokens
-- **Recommendations:** Swamp Moss is available in the deeper parts of Raina, if you have trouble finding it. And while I wouldn't belabor myself to fill this up, it's a nice use for the Swamp Moss one tends to accumulate in Raina.
+- **Recommendations:** I always recommend participating in the forum, and the 10K will happen as you go. Take it!
 
-### Growing Your Valor 4/4
+### Sing Your Enthusiasm
 
-- **Unlocked by:** HuntS3 Quest: Growing Your Tenacity 3/3
-- **Type:** Battle 
-- **Requirements:** Defeat 1 Wyvern
-- **Rewards:** Wardrobe: Fur Ankle Boots https://4thewords.com/media/wardrobe/featured/male/wm&#95;featured&#95;Boots&#95;Ankle&#95;Fur&#95;Black.png
-- **Recommendations:** I'm personally quite fond of Wyverns, so for me this is a no-brainer. Given that it's unlocked. I don't think I'd rush through the "Growing" line for this.
+- **Unlocked by:** HuntS3 Quest: A Bubble Dream
+- **Type:** Battle
+- **Requirements:** Defeat 10 Zanthei
+- **Rewards:** 20 Hunter Tokens
+- **Recommendations:** I think Team Zanthei is getting a shoutout here! If you pick this up while Zanthei is dropping Hunter Tokens, those tokens will add up to effectively triple the reward on this quest.
 
-## New Hunt Monsters: Jul 2020
+### To Celebrate and Share
 
-I'm counting Vanspi as a Hunt monster here, and only here, because there's no indication that it's actually a Hunt monster apart from the fact that it was released at the same time as the Hunt.
+- **Unlocked by:** HuntS3 Quest: A Bubble Dream
+- **Type:** Battle
+- **Requirements:** Defeat 6 Takori
+- **Rewards:** 20 Hunter Tokens
+- **Recommendations:** I'm not sure what Takori have to do with celebration (unless we're celebrating escaping them?), but hey, ours is not to question why, right?
 
-**DISCLAIMER:** This is info based on ONE (1) battle. I'm actually avoiding integrating this into the Guide until I have time to give more battles (or if someone wants to battle for me and let me know the multiplier, drops, XP, and ideally also wordcount that results, I'd appreciate that too https://4thewords.com/forum/thread-oge-mai-field-guide )
+### Into the Woods
 
-### Vanvri (Oge: Balance)
+- **Unlocked by:** HuntS3 Quest: A Bubble Dream
+- **Type:** Battle
+- **Requirements:** Defeat 3 Molox, 4 Osalyu, 10 Spirit Ardia, 1 Lycosta, 1 Chaensi
+- **Rewards:** 50 Hunter Tokens
+- **Recommendations:** A very challenging quest, which I completed for completionism's sake alone. This dovetails with multiple Dark Forest Outpost quests, but otherwise, there's no rush to grab it.
 
-- **Unlocked by:** Opening Three Points Crossing
-- **Requirements:** Battle 20 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of words written
-- **Baseline XP:** 60
-- **Drops:** 
-  - Baseline: 20 Coins, 2 Leaves, 1 River Water, 2 Hunter Tokens
-- **Quests:** none
+## New Hunt Monsters: Sept 2020
 
+### Caretaker
 
+- **Location:** Dark Forest Outpost
+- **Unlocked by:** HuntS3 Quest: Bigger and Brighter
+- **Requirements:** 1200 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 120
+- **Drops:** 12 Hunter Tokens, 1-3 Bones, 5-8 Leaves, 2-4 Rope, 3-5 Wood, 1-3 Essence, 1 Spider Poison
+- **Quests:** HuntS3: A Bubble Dream (1)
 
-## New Resources: Aug 2020
+### Mirdor
 
-### Hunt Map Piece 9
+- **Location:** Guardian's Lair
+- **Unlocked by:** HuntS3 Quest: A Bubble Dream
+- **Requirements:** 1500 words
+- **Time allowed:** 250 minutes (4 hours and 10 minutes)
+- **XP:** 150
+- **Drops:** 15 Hunter Tokens, 4-8 Fur, 3-6 Wood, 1-2 White Fur, 3-7 Leaves, 2-3 Rope
+- **Quests:** HuntS4: Something Extraordinary (3)
 
-- **Source:** HuntS3 Quest: s (1)
+### Velts: Dust
+
+- **Location:** Riza Rivertown
+- **Unlocked by:** HuntS3 Quest: Battle of Constitution
+- **Requirements:** 2000 words
+- **Time allowed:** 1440 minutes (24 hours or 1 day)
+- **XP:** 200
+- **Drops:** 20 Hunter Tokens, 6-12 Wood, 1-2 Hardwood, 1-3 Reinforced Rope, 2-4 Spider Poison, 3-6 Raw Steel, 2-4 Bones, 1 Net
+- **Quests:** HuntS4: A Battle of Evolution (1)
+
+## New Resources: Sept 2020
+
+### Hunt Map Piece 10
+
+- **Source:** HuntS4 Quest: Something Extraordinary (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS3 Quest:  (1)
+- **Used for:** HuntS4 Quest:  Dirt to Dust (1)
 
-## Hunt Token Sources: Late Aug 2020
+## Hunt Token Sources: Sept 2020
 
-**Late Aug 2020 Sources Outside the Hunt:**
+**Sept 2020 Sources Outside the Hunt:**
 
-Late August 2020 sources are - wait for it - BLUE. 
+Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!) 
 
-... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
-
-- Global Battles: Vi, Viyusa, Awa
-- LF Battles: Spirit Wignow
-- MT Battles: Ardii, Lorsa, Spirit Lorsini
+- Global Battles: Vi (5 minutes for 1-4), Viyu (15 minutes for 3-14), Viyusa (25 minutes for 5-20)
+- LF Battles: Spirit Wignow (450 words for 4-5)
+- MT Battles: Ardis (70 words for 0-1), Assassin (1400 words for 14), Villager (1300 words for 13)
 - FOREST EXPEDITION:
-  - BC Battles: Sacer (may be a leftover from wings last month, may be removed)
-  - FB Battles: Ardii, Spirit Ardia
-  - SC, TT, GL Battles: Global, Hunt Only (was Gobkey overlooked?)
-- 3PC Battles: Bruja, Yasri
+  - BC Battles: Sacer (120 words for 1-2), Xuso (450 words for 4-5)
+  - FB Battles: Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
+  - SC, TT, GL Battles: Hunt only
+- 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
 - ALIEN EXPEDITION:
-  - IC, MS Battles: Global only
-  - SpaceS Battles: Kovar, Noit
-  - RL Battles: ALL THE HOLOGRAMS
-- Gansu Battles: Furoxi, Sparfly (may be a leftover from wings last month, may be removed)
+  - IC Battles: none
+  - SpaceS Battles: Captain Piak (1667 words for 16-17)
+  - MiningS Battles: Ityf (1250 words for 12-13), Pach (200 words for 2)
+  - RL Battles: Minica (900 words for 9), Tessen (500 words for 5), Zanutaki (500 words for 5)
+- Gansu Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Sparfly (450 words for 4-5)
 - DESERT EXPEDITION:
-  - DigS Battles: Zera
-  - Ruins Battles: Gordi, Spirit Griffe, Spirit Gordiliana
-- Riza Battles: Furoxi, Osaril, Sparfly (may be a leftover from wings last month, may be removed)
+  - DigS Battles: Loi (150 words for 1-2), Okkorhi (1000 words for 10)
+  - Ruins Battles: Hunt only
+- Riza Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Sparfly (450 words for 4-5), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
 - RAINA EXPEDITION:
-  - SurfaceC, SacredS Battles: Global and Hunt only
-  - SwampL Battle: Rhamp
-- Balance Battles: Furoxi, Castu, Nuig, Water Rudakai
-- DFO Battles: Spirit Ardia, Molox, Osalyu, Spirit Papple, Lycosta,  Chaensi, Babu, Miclan
+  - SurfaceC Battles: Begala (300 words for 3), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
+  - SwampL Battle: Heliodae (120 words for 1-2)
+  - SacredS Battle: Pedja (1000 words for 10)
+  - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Kivi (100 words for 1), Wisthu (800 words for 8)
+- Balance Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), River Goddess (5000 words for 50), Spirit Castu (550 words for 5-6)
+- DFO Battles: Ascre (150 words for 1-2), Belasi (200 words for 2), Chu (100 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 20), Dust Wignow (444 words for 4-5), Pakkan (300 words for 3), Spirit Ardia (80 words for 0-1), Zanthei (400 words for 4)
 
-## New Wardrobe Items: Aug 2020
+## New Wardrobe Items: Sept 2020
 
-- Rib Wings Tattoo - 25 Hunter Tokens
-- Torso Wings Tattoo - 25 Hunter Tokens
-- Hunt Cloak - 150 Hunter Tokens
+- Bard's Wrist Guards - 30 Hunter Tokens
+- Caretaker's Wrist Guards - 30 Hunter Tokens
+- Curator's Wrist Guards - 30 Hunter Tokens
+- Shepherd's Wrist Guards - 30 Hunter Tokens
+

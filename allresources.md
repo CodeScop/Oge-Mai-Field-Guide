@@ -1,6 +1,6 @@
 #A-F
 
-LAST UPDATED 12 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 ##Abbreviations Used:
 
@@ -22,6 +22,7 @@ LAST UPDATED 12 SEPT 2020
 - HuntS1 = Hunt for the Ancients Season 1
 - HuntS2 = Hunt for the Ancients Season 2
 - HuntS3 = Hunt for the Ancients Season 3
+- HuntS4 = Hunt for the Ancients Season 4
 
 **Oge-Mai Desert**
 
@@ -250,12 +251,13 @@ slight FOREST, DUST
 
 ### Bones
 
-DUST
+DUST, some WATER
 
 - **Best sources:** 
   - DFO Battles: Osalyu (750 words for 2), Dust Wignow (444 words for 1)
 - **Other sources:** 
-  - DFO Battles: Takori (600 words for 1), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3),  Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 4), Babu (3000 words, 3 Steel Chains, 2 Pieces of Parchment, 1 Blue Essence Ink for 2-3), Burhar (1500 words for 2-4), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 2-3), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 1), Molox (666 words and 1 Steel Chain for 1)
+  - Riza Battle: Velts: Dust (2000 words for 2-4)
+  - DFO Battles: Caretaker (1200 words for 1-3), Takori (600 words for 1), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3),  Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 4), Babu (3000 words, 3 Steel Chains, 2 Pieces of Parchment, 1 Blue Essence Ink for 2-3), Burhar (1500 words for 2-4), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 2-3), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 1), Molox (666 words and 1 Steel Chain for 1)
 - **Sell price:** 12 Coins (don't sell unless you have >150)
 - **Used for:** 
   - Craft DFO: Dark Forest Boots (5), Dark Forest Helmet (10)
@@ -562,7 +564,7 @@ ALL GAME, especially FOREST, DESERT, DUST
     - Shrine TFA Battles: Witch's Memoirs (500 words for 0-1)
     - ShrinePoly Battles: Poly Wignow (314 words for 0-1)
   - WATER: Swamplands, SacredS Battles: Swamp Wignow (500 words for 0-1)
-  - DUST: DFO Battles: Dust Wignow (444 words for 1), Osalyu (750 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 1-3)
+  - DUST: DFO Battles: Caretaker (1200 words for 1-3), Dust Wignow (444 words for 1), Osalyu (750 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 1-3)
 - **Buy:** FOREST: MT Item Shop/Edrie's Market: 32 Coins
 - **Sell price:** 8 Coins (don't sell unless you have >500)
 - **Used for:** 
@@ -672,6 +674,7 @@ ALL GAME
   - FOREST
     - LF Battle: Mawt (1000 words for 4-5)
     - MT Battle: Tylu (600 words for 3)
+    - Post-DFO GL Battle: Mirdor (1500 words for 4-8)
   - DESERT: 
     - 3PC Battle: Grult (400 words for 2)
     - DigS Battles: Bevrex (300 words for 1-2)
@@ -709,7 +712,7 @@ ALL GAME
 
 # G-O
 
-LAST UPDATED 12 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 ### Glass
 
@@ -873,7 +876,7 @@ some DESERT, WATER, DUST
 - **Other sources:** Buy,
   - WATER
     - Riza Stone Chest: 3-7
-    - Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 2-3), Wyvern (1300 words for 0-1, usually 1 with enough Luck), Trainee (1000 words, 20 Coins for 0-1, usually 1 with enough Luck)
+    - Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 2-3), Wyvern (1300 words for 0-1, usually 1 with enough Luck), Trainee (1000 words, 20 Coins for 0-1, usually 1 with enough Luck), Velts: Dust (2000 words for 1-2)
     - SurfaceC Battles: Knusha (1200 words for 1), Wyvern (1300 words for 0-1)
     - Balance Battles: River Goddess (5000 words for 5), Water Rudakai (1600 words, 3 Reinforced Rope for 0-3)
   - DUST: DFO Battles: Burhar (1500 words for 1-2)
@@ -979,6 +982,14 @@ HUNT S3
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
 - **Used for:** HuntS3 Quest: Insight Grows (1)
 
+### Hunt Map Piece 10
+
+HUNT S4
+
+- **Source:** HuntS4 Quest: Something Extraordinary (1)
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** HuntS4 Quest:  Dirt to Dust (1)
+
 ### Hunter Tokens
 
 ALL GAME
@@ -990,43 +1001,48 @@ ALL GAME
   - LF Battles: Sassi (600 words for 6)
   - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10), Vanstra (3 minutes for 1-4)
   - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
+  - Post-DFO GL Battle: Mirdor (1500 words for 15)
   - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12), Vanspi (10 minutes for 2-8)
   - Gansu Battles: Pipit (900 words for 9)
   - Dig Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4), Lubu (450 words for 4-5), Shepherd (1000 words for 10)
   - Ruins Battles: Lubu (450 words for 4-5)
-  - Balance Battles: Velts: Water (1600 words for 16), Vanvri (20 minutes for 2-8)
+  - Riza Battles: Velts: Dust (2000 words for 20)
+  - Balance Battles: Velts: Water (1600 words for 16)
+  - DFO Battles: Caretaker (1200 words for 12)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
-  - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
-  - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25)
+  - HuntS2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25), Valley of the Sheep (25)
+  - HuntS3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25)
+  - HuntS4 Quests: Something Extraordinary (10), Cheer Your Dedication (15), Sing Your Enthusiasm (20), To Celebrate and Share (20), Into the Woods (50)
 
-- **Late Aug 2020 Sources Outside the Hunt:**
+- **Late Sept 2020 Sources Outside the Hunt:**
 
-  Late August 2020 sources are - wait for it - BLUE. 
+  Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!) 
 
-  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
-
-  - Global Battles: Vi, Viyusa, Awa
-  - LF Battles: Spirit Wignow
-  - MT Battles: Ardii, Lorsa, Spirit Lorsini
+  - Global Battles: Vi (5 minutes for 1-4), Viyu (15 minutes for 3-14), Viyusa (25 minutes for 5-20)
+  - LF Battles: Spirit Wignow (450 words for 4-5)
+  - MT Battles: Ardis (70 words for 0-1), Assassin (1400 words for 14), Villager (1300 words for 13)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (may be a leftover from wings last month, may be removed)
-    - FB Battles: Ardii, Spirit Ardia
-    - SC, TT, GL Battles: Global, Hunt Only (was Gobkey overlooked?)
-  - 3PC Battles: Bruja, Yasri
+    - BC Battles: Sacer (120 words for 1-2), Xuso (450 words for 4-5)
+    - FB Battles: Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
+    - SC, TT, GL Battles: Hunt only
+  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
   - ALIEN EXPEDITION:
-    - IC, MS Battles: Global only
-    - SpaceS Battles: Kovar, Noit
-    - RL Battles: ALL THE HOLOGRAMS
-  - Gansu Battles: Furoxi, Sparfly (may be a leftover from wings last month, may be removed)
+    - IC Battles: none
+    - SpaceS Battles: Captain Piak (1667 words for 16-17)
+    - MiningS Battles: Ityf (1250 words for 12-13), Pach (200 words for 2)
+    - RL Battles: Minica (900 words for 9), Tessen (500 words for 5), Zanutaki (500 words for 5)
+  - Gansu Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Sparfly (450 words for 4-5)
   - DESERT EXPEDITION:
-    - DigS Battles: Zera
-    - Ruins Battles: Gordi, Spirit Griffe, Spirit Gordiliana
-  - Riza Battles: Furoxi, Osaril, Sparfly (may be a leftover from wings last month, may be removed)
+    - DigS Battles: Loi (150 words for 1-2), Okkorhi (1000 words for 10)
+    - Ruins Battles: Hunt only
+  - Riza Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Sparfly (450 words for 4-5), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
   - RAINA EXPEDITION:
-    - SurfaceC, SacredS Battles: Global and Hunt only
-    - SwampL Battle: Rhamp
-  - Balance Battles: Furoxi, Castu, Nuig, Water Rudakai
-  - DFO Battles: Spirit Ardia, Molox, Osalyu, Spirit Papple, Lycosta,  Chaensi, Babu, Miclan
+    - SurfaceC Battles: Begala (300 words for 3), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
+    - SwampL Battle: Heliodae (120 words for 1-2)
+    - SacredS Battle: Pedja (1000 words for 10)
+    - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Kivi (100 words for 1), Wisthu (800 words for 8)
+  - Balance Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), River Goddess (5000 words for 50), Spirit Castu (550 words for 5-6)
+  - DFO Battles: Ascre (150 words for 1-2), Belasi (200 words for 2), Chu (100 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 20), Dust Wignow (444 words for 4-5), Pakkan (300 words for 3), Spirit Ardia (80 words for 0-1), Zanthei (400 words for 4)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -1219,6 +1235,7 @@ ALL GAME, especially FOREST
     - SC Battles: Reudod (600 words for 3-5), Sapilo (450 words, 1 Saliva Vial for 1-2), Sapiti (300 words, 1 Saliva Vial for 1), Oncaiii (800 words & 1 Saliva Vial for 2-4)
     - TT Battles: Buhini (150 Words, 1 Nezthai Claw, 2-day Streak for 1-2), Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 3), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-3)
     - GL Battles: Maikile (750 words for 4-7), Night Dandeleon (330 words for 1-2)
+    - Post-DFO GL Battle: Mirdor (1500 words for 3-7)
   - DESERT
     - RLab Battles: Xomri (300 words for 1-2), Mowow (450 words for 1-3)
     - Shrine GO Battles: Wowtri Ooze (250 words for 0-2), Balli Ooze (250 words for 0-1)
@@ -1233,6 +1250,7 @@ ALL GAME, especially FOREST
     - SwampL Battles: Swamp Wignow (500 words for 2-4), Rhamp (250 words for 1-2), Quishi (350 words for 1)
     - SacredS Battles: Kuldoro (100 words for 0-1), Bashta (400 words for 2-4), Swamp Wignow (500 words for 2-4), Minko (600 words for 2-4), Toccal (800 words for 3-5)
     - Balance Battle: Vanvri (20 minutes for 1-8)
+  - DUST: DFO Battle: Caretaker (1200 words for 5-8)
 - **Buy:** FOREST: 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
 - **Used for:** 
@@ -1289,7 +1307,8 @@ FOREST, DESERT, some WATER
 
 DESERT, some WATER, some POST-DUST FOREST
 
-- **Sources:** DESERT Craft
+- **Sources:** DESERT Craft,
+  - WATER: Riza Battle: Velts: Dust (2000 words for 1)
 - **Craft:** DESERT: 3PC City's Armory: 1 Vine Net, 1 Steel Bar, 1 Stone Block, 25 Coins
 - **Sell Price:** 180 Coins (don't sell; too expensive)
 - **Used for:** equipping, 
@@ -1340,7 +1359,7 @@ FOREST, DESERT
 
 # P-R
 
-LAST UPDATED 12 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 ### Pickaxe
 
@@ -1581,7 +1600,7 @@ some FOREST, DESERT, some WATER, DUST
     - ShrineCar Battles: Biironk (420 words for 1-2), Halores (900 words for 1-3), Upuchu (1400 words for 1-3)
     - ShrineGiant Battles: Skuppa's Giant Marionette (500 words for 1-3), Untu Golem (500 words for 0-2)
   - WATER
-    - Riza Battles: Patliadu (750 words, 1 Harpoon for 1-2), Vota (800 words, 2 Rope, 2 River Grass for 1-2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1-2)
+    - Riza Battles: Patliadu (750 words, 1 Harpoon for 1-2), Vota (800 words, 2 Rope, 2 River Grass for 1-2), Velts: Dust (2000 words for 3-6), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1-2)
   - DUST
     - DFO Battles: Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3), Molox (666 words and 1 Steel Chain for 3-5), Osalyu (750 words for 1-2)
 - **Buy:** DESERT: 35 Coins at 3PC Blacksmith/Blacksmith Barliar
@@ -1738,6 +1757,7 @@ WATER, DUST
 
 - **Sources:** Buy, Craft
   - WATER: 
+    - Riza Battle: Velts: Dust (2000 words for 1-3)
     - Hideout Battles: Grongu (2000 words for 1-2)
     - Hideout Quest: Pushing Back Rebels 1/3 (5)
     - Balance River Chest: 1-2
@@ -1918,6 +1938,7 @@ ALL GAME
     - BC Battles: Xuso (450 words for 0-1)
     - FB Battles: Nezthai (600 words for 1)
     - SC Battles: Reudod (600 words for 2-3)
+    - Post-DFO GL Battle Mirdor (1500 words for 2-3)
   - DESERT: 
     - 3PC Battles: Velts: Desert (1200 words for 4-6), Desert Wignow (444 words for 1-2), Bruja (900 words for 1-3), Yasri (1250 words for 2-3), Villager (1300 words, 1 Spider Poison, 5 Leaves for 1)
     - Gansu Battles: Desert Wignow (444 words for 1-2)
@@ -1941,7 +1962,7 @@ ALL GAME
     - SacredS Battles: Toccal (800 words for 1-2), Pedja (1000 words for 1-2), Swamp Wignow (500 words for 0-1)
     - Hideout Battles: Wisthu (800 words for 1-3), Drau (1000 words for 1-3)
     - Balance Battles: Isartu (720 words for 2-4)
-  - DUST: DFO Battles: Burhar (1500 words for 3-5), Takori (600 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 2-5)
+  - DUST: DFO Battles: Burhar (1500 words for 3-5), Caretaker (1200 words for 2-4), Takori (600 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 2-5)
 - **Buy:** FOREST, WATER 8 Coins in MT Item Shop/Edrie's Market OR Riza Item Shop/Luko's Inn, DESERT 12 Coins in 3PC Item Bazaar/Zilya's Great Bazaar
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
 - **Used for:** 
@@ -2009,7 +2030,7 @@ FOREST, some DESERT
 
 # S
 
-LAST UPDATED 12 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 ### Sacred Feather
 
@@ -2174,6 +2195,8 @@ FOREST, DESERT, some WATER, DUST
     - Shrine TFA Battle: Murciel (600 words for 1)
     - Shrine GO Battles: Giant Ooze (1000 words for 0-1)
     - ShrinePoly Battles: Poly Aracnu (600 words for 1-2)
+  - WATER: Riza Battle: Velts: Dust (2000 words for 2-4)
+  - DUST: DFO Battle: Caretaker (1200 words for 1)
 - **Sell price:** 4 Coins (Don't sell; there is always a use lurking somewhere. As long as quests exists, there is always a use.)
 - **Used for:**
   - FOREST
@@ -2419,7 +2442,7 @@ The ability to craft Stempos in Gansu unlocks after a series of side quests. Reb
     - IC Quest: Loving Rocky Roads (2), Stabbing Dinti Spikes (3)
     - SpaceS Quest: Tracking Shooting Stars (3)
     - MSite Quest: Drilling Too Deep (3)
-    - RLab Quests: Set Creatures Free! 1/4 (5), Build a Biodome 3/4 (5), Encourage an Ecosystem 4/4 (5), Making Mellow Mowow (1), Sagacious Sincere Sabu (1), Silkly Sleek Sulanica (1), Zappy Zazzy Xombri (1), Zooty Zanutaki Zings (1)
+    - RLab Quests: Set Creatures Free! 1/4 (5), Build a Biodome 3/4 (5), Making Mellow Mowow (1), Sagacious Sincere Sabu (1), Silkly Sleek Sulanica (1), Zappy Zazzy Xombri (1), Zooty Zanutaki Zings (1)
     - Ruins Quest: Feathers & Fur (3), Every Tunnel Connects (4)
     - ShrineGiant Battles: Caravan (5000 words for 1-2)
   - WATER
@@ -2551,7 +2574,7 @@ WATER
 
 # T-Z
 
-LAST UPDATED 12 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 ### Tambo Mane
 
@@ -2633,6 +2656,7 @@ WATER
 slight FOREST, DESERT, DUST
 
 - **Source:** 
+  - FOREST: Post-DFO GL Battle: Mirdor (1500 words for 1-2)
   - DESERT: 
     - Gansu Battles: Suulan (2000 words, 1 Steel Dagger for 1-2)
     - Gansu Quest (opens post-DFO): Dark Watering Materials 4/5 (1)
@@ -2670,6 +2694,7 @@ ALL GAME
     - SC Battles: Reudod (600 words for 2-3), Sapilo (450 words, 1 Saliva Vial for 1), Sapira (350 words, 1 Saliva Vial for 1), Oncaiii (800 words & 1 Saliva Vial for 2-4)
     - TT Battles: Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 1-3), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-3)
     - GL Battles: Maikile (750 words for 2)
+    - Post-DFO GL Battle: Mirdor (1500 words for 3-6)
   - DESERT
     - Dig, Ruins Battles: Lubu (450 words for 1)
     - Ruins Battles: Yantao (650 words for 1-2)
@@ -2686,12 +2711,12 @@ ALL GAME
     - ShrinePoly Battles: Poly Mawt (900 words for 1-2)
     - ShrineMar Battles: Zosimas (575 words for 3-6), Balatrix (630 words for 3-7), Zosimalus (444 words for 2-4), Zosimos (400 words for 1-4), Zosimaga (600 words for 3-6), Balatros (700 words for 3-7), Osemar (1000 words for 3-8), Balatras (785 words for 3-5)
   - WATER: 
-    - Riza Battles: Jaihri (485 words for 1)
+    - Riza Battles: Jaihri (485 words for 1), Velts: Dust (2000 words for 6-12)
     - SwampL Battles: Larida (1000 words for 1-4), Gaiai (1500 words for 2-4)
     - SacredS Battles: Ognimaf (300 words for 1-2), Toccal (800 words for 1-2)
     - Hideout Battles: Cafodu (600 words for 2-6), Grongu (2000 words for 2-4)
     - Balance Battles: Velts: Water (1600 words for 5-10)
-  - DUST: DFO Battles: Zanthei (400 words for 1-2)
+  - DUST: DFO Battles: Zanthei (400 words for 1-2), Caretaker (1200 words for 3-5)
 - **Buy:** FOREST: 8 Coins in LF Item Shop/Alex's Shop DESERT: 12 Coins in 3PC Item Bazaar/Zilya's Great Bazaar
 - **Sell price:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)
 - **Used for:** 

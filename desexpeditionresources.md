@@ -1,4 +1,4 @@
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 Note that again, I'm only including info for the Desert Expedition, and only for the Dig Site and Ruins at that. See the Desert Resources section for a somewhat more comprehensive list. The Shrine of Ages gets its own section entirely.
 
@@ -75,16 +75,9 @@ Note that again, I'm only including info for the Desert Expedition, and only for
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25), Valley of the Sheep (25)
   - Hunt S3 Quests: Moving Flora (10)
 
-- **Late Aug 2020 Sources Outside the Hunt:**
+- **Monthly Sources Outside the Hunt:**
 
-  Late August 2020 sources are - wait for it - BLUE. 
-
-  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
-
-  - outside game
-  - Global Battles: Vi, Viyusa, Awa
-  - DigS Battles: Zera
-  - Ruins Battles: Gordi, Spirit Griffe, Spirit Gordiliana
+  I'll detail these changes in the Hunt sections and the regional summary sections.
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

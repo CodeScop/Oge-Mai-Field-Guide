@@ -1,4 +1,4 @@
-LAST UPDATED 12 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 Here are ALL THE THINGS available in the Forest. LF is Luciola Forest. MT is Mama Tree. HuntS1 is Hunt for the Ancients Season 1. And for the Expedition...
 
@@ -222,19 +222,18 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - later Hunt
 
-- **Late Aug 2020 Sources Outside the Hunt:**
+- **Late Sept 2020 Sources Outside the Hunt:**
 
-  Late August 2020 sources are - wait for it - BLUE. 
+  Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!) 
 
-  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
-
-  - Global Battles: Vi, Viyusa, Awa
-  - LF Battles: (monster unlocked by later game)
-  - MT Battles: Ardii, Lorsa & (monster unlocked by later game)
+  - Global Battles: Vi (5 minutes for 1-4), Viyu (15 minutes for 3-14), Viyusa (25 minutes for 5-20)
+  - LF Battles: Spirit Wignow (450 words for 4-5)
+  - MT Battles: Ardis (70 words for 0-1), Assassin (1400 words for 14), Villager (1300 words for 13)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (may be a leftover from wings last month, may be removed)
-    - FB Battles: Ardii, (monster unlocked by later game)
-    - SC, TT, GL Battles: Global, Hunt Only (was Gobkey overlooked?)
+    - BC Battles: Sacer (120 words for 1-2), Xuso (450 words for 4-5)
+    - FB Battles: Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
+    - SC, TT, GL Battles: Hunt only
+  - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

@@ -1,6 +1,13 @@
-LAST UPDATED 25 AUG 2020
+LAST UPDATED 24 SEPT 2020
 
 This is fast and sloppy, but at least it's a complete list. And it's mixed by price/alphabet instead of being randomly on display, so it might be a LITTLE easier to navigate?
+
+NEW IN SEPTEMBER
+
+- Bard's Wrist Guards - 30 Hunter Tokens
+- Caretaker's Wrist Guards - 30 Hunter Tokens
+- Curator's Wrist Guards - 30 Hunter Tokens
+- Shepherd's Wrist Guards - 30 Hunter Tokens
 
 NEW IN AUGUST
 

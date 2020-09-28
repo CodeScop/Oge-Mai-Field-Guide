@@ -1,4 +1,4 @@
- (Table of Contents last updated 12 Sept 2020)
+ (Table of Contents last updated 25 Sept 2020)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -247,6 +247,14 @@
   - Battle Gear: Dark Forest
   - Dark Forest Wardrobe
   - Dark Forest Questline
+- Hunt: Season 4 - Jubilee (DUST)
+  - Season 4 Quests - The Main Line
+  - Season 4 Quests - Miscellaneous
+  - Season 4 Monsters
+  - Season 4 Resources
+  - Hunt for the Ancients Season 4 Questline Summary
+- Dust Region Resources
+- Dust Region Bestiary
 - All Resources & Streak Rewards
   - First, what does "All" mean?
   - A-F

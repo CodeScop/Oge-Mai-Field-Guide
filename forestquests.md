@@ -1,6 +1,6 @@
 LAST UPDATED 16 SEPT 2020
 
-Okay! So, I'm going to try to consolidate ALL THE QUESTS in the game. Everything that isn't a Main Quest will be listed in alphabetical order after the Main Quests. The Main Quests will be in order, since it's a clearly defined road; and that "road" metaphor will extend in multiple directions. Hence, the new "Route" line of info to tell you how to find it/where you picked it up.
+Okay! So, I'm going to try to consolidate ALL THE QUESTS in this region. Everything that isn't a Main Quest will be listed in alphabetical order after the Main Quests. The Main Quests will be in order, since it's a clearly defined road; and that "road" metaphor will extend in multiple directions. Hence, the new "Route" line of info to tell you how to find it/where you picked it up.
 
 **The Main Quest Highway** is the main questline of the game, the backbone which unlocks everything else. This line, and only this line, will be defined solely by where it is in the sequence; the Route will tell you where it is in that sequence (LF MQ 3 for the third Main Quest in the Luciola Forest sequence, etc)
 
@@ -27,7 +27,6 @@ NOTE: All Hunt quests are picked up in Luciola Forest, regardless of what Region
 
 - HuntS1 = Hunt for the Ancients Season 1
 - HuntS2 = Hunt for the Ancients Season 2
-- HuntS3 = Hunt for the Ancients Season 3
 
 **Forest Expedition**
 
@@ -36,50 +35,6 @@ NOTE: All Hunt quests are picked up in Luciola Forest, regardless of what Region
 - SC: Stone City
 - TT: Tall Trees
 - GL: Guardian's Lair
-
-**Oge-Mai Desert Region**
-
-- 3PC = Three Points Crossing
-- Gansu = Gansu Watering Hole
-
-**Alien Expedition**
-
-- IC = Impact Crater
-- SpaceS = Spaceship
-- MSite = Mining Site
-- RLab = Research Lab
-
-**Desert Expedition**
-
-- Dig = Dig Site
-- Ruins = Underground Ruins
-- Shrine = Shrine of Ages (general)
-- ShrineBird = Shrine of Ages Birds event
-- ShrineCar = Shrine of Ages Carnival event
-- ShrineCO = Shrine of Ages Colorful Ooze event
-- ShrineDucks = Shrine of Ages Ducks event
-- ShrineFools = Shrine of Ages Fools' event
-- ShrineGiant = Shrine of Ages Giants event
-- Shrine GO = Shrine of Ages Green Ooze event
-- ShrineMar = Shrine of Ages Marionettes event
-- ShrinePoly = Shrine of Ages Polygon event
-- Shrine TFA = Shrine of Ages Terror From Above event
-
-**Oge-Mai Water Region**
-
-- Riza: Riza Rivertown
-- Balance: Floating City of Balance
-
-**Raina Expedition**
-
-- SurfaceC: Raina Surface Camp
-- SwampL: Swamplands
-- SacredS: Raina Sacred Site
-- Hideout: Rebel Raina Hideout
-
-**Oge-Mai Dust Region**
-
-- DFO: Dark Forest Outpost
 
 # Main Quests, in Order of Unlocking
 
@@ -160,7 +115,7 @@ NOTE: All Hunt quests are picked up in Luciola Forest, regardless of what Region
 ### A Battle of Wills - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** after Hunt Trail HuntS1 The Hunt Begins • **A Battle of Wills** • HuntS2 Battle of Merit • HuntS3 Battle of Constitution • presumed S4 Battle
+- **Quest Path Route:** after Hunt Trail HuntS1 The Hunt Begins • **A Battle of Wills** • HuntS2 Battle of Merit • 2 quests later
 - **Type:** Battle
 - **Requirements:** Defeat 1 Velts
 - **Rewards:** 10 Hunter Tokens
@@ -180,7 +135,7 @@ NOTE: All Hunt quests are picked up in Luciola Forest, regardless of what Region
 Note: if you're trying to progress to the next quest after this, you'll need to unlock Guardian's Lair; info on how to do that is part of the Forest Expedition Trail.
 
 - **Location:** Forward Base
-- **Quest Path Route:** [open via: Hard Day's Walk - BC] • FB **Blossom with Flowers! 1/2** • GL Bright Night Blossoms 2/2
+- **Quest Path Route:** after Forest Expedition Trail: BC Hard Day's Walk • FB **Blossom with Flowers! 1/2** • next step: GL Bright Night Blossoms 2/2
 - **Type:** Battle
 - **Requirements:** Defeat 5 Dandeleon (220 words in 30 min)
 - **Rewards:** 1 Wooden Key

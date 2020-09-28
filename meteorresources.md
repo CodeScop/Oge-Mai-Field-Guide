@@ -1,4 +1,4 @@
-LAST UPDATED 12 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 This includes ONLY info for the Alien Meteoroid areas. Yes, you have access to 3PC and the Forest! Please consult those sections for the list of resources there. Or skip ahead to the Desert Resources or All Resources if you don't mind possible spoilers.
 
@@ -157,17 +157,9 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 
   - outside game
 
-- **Late Aug 2020 Sources Outside the Hunt:**
+- **Monthly Sources Outside the Hunt:**
 
-  Late August 2020 sources are - wait for it - BLUE. 
-
-  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
-
-  - outside game
-  - Global Battles: Vi, Viyusa, Awa
-  - IC, MS Battles: Global only
-  - SpaceS Battles: Kovar, Noit
-  - RL Battles: ALL THE HOLOGRAMS
+  I'll detail these changes in the Hunt sections and the regional summary sections.
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -368,7 +360,7 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
   - IC Quest: Loving Rocky Roads (2), Stabbing Dinti Spikes (3)
   - SpaceS Quest: Tracking Shooting Stars (3)
   - MSite Quest: Drilling Too Deep (3)
-  - RLab Quests: Set Creatures Free! 1/4 (5), Build a Biodome 3/4 (5), Encourage an Ecosystem 4/4 (5), Making Mellow Mowow (1), Sagacious Sincere Sabu (1), Silkly Sleek Sulanica (1), Zappy Zazzy Xombri (1), Zooty Zanutaki Zings (1)
+  - RLab Quests: Set Creatures Free! 1/4 (5), Build a Biodome 3/4 (5), Making Mellow Mowow (1), Sagacious Sincere Sabu (1), Silkly Sleek Sulanica (1), Zappy Zazzy Xombri (1), Zooty Zanutaki Zings (1)
 - **Craft:** DESERT
 - **Sell Price:** Priceless. Sorry, 250 Coins, but DON'T SELL.
 - **Used for:** FOREST, DESERT

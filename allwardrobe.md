@@ -1,4 +1,4 @@
-LAST UPDATED 12 SEPT 2020
+LAST UPDATED 27 SEPT 2020
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
 
@@ -168,6 +168,23 @@ Because some people might be on the hunt for all the wardrobe items available in
   - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Ankle&#95;Fur&#95;Purple.png
   - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Ankle&#95;Fur&#95;Red.png
   - white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Ankle&#95;Fur&#95;White.png
+- **A Bubble Dream** returns the **Cactus Sprite Pet**:  https://4thewords.com/media/wardrobe/featured/female/wf&#95;861-cactus-sprite-pet-6003-60430.png
+- **A Battle of Evolution** gives the **Hunt Battle Helmet**, which has **seven variants**: 
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;634-hunt-battle-helment-3693-42038.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;634-hunt-battle-helment-3694-49615.png
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;634-hunt-battle-helment-3695-30727.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;634-hunt-battle-helment-3699-79797.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;634-hunt-battle-helment-3700-46243.png
+  - white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;634-hunt-battle-helment-3701-29539.png
+  - gold: https://4thewords.com/media/wardrobe/featured/female/wf&#95;634-hunt-battle-helment-3702-69733.png
+- **Dirt to Dust** provides that **Hunt Golden Brooch**, which has **seven variants** in the gems adorning the largely-gold necklace: 
+  - black gems: https://4thewords.com/media/wardrobe/featured/female/wf&#95;652-hunt-golden-brooch-3828-60906.png
+  - white gems: https://4thewords.com/media/wardrobe/featured/female/wf&#95;652-hunt-golden-brooch-3830-18683.png
+  - green gems: https://4thewords.com/media/wardrobe/featured/female/wf&#95;652-hunt-golden-brooch-3831-23204.png
+  - gold gems: https://4thewords.com/media/wardrobe/featured/female/wf&#95;652-hunt-golden-brooch-3832-50430.png
+  - blue gems: https://4thewords.com/media/wardrobe/featured/female/wf&#95;652-hunt-golden-brooch-3833-59052.png
+  - purple gems: https://4thewords.com/media/wardrobe/featured/female/wf&#95;652-hunt-golden-brooch-3834-97589.png
+  - red gems: https://4thewords.com/media/wardrobe/featured/female/wf&#95;652-hunt-golden-brooch-3835-54849.png
 
 ###Mama Tree
 

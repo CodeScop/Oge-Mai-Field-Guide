@@ -1,6 +1,37 @@
 LAST UPDATED 25 SEPT 2020
 
-We're getting deep into Oge-Mai these days - don't want to have to travel too much. This is an exceptionally twisty region, so there are an exceptional number of possible spoilers/unable to get through bits in here. Leave me a message in the Forum thread if anything is too difficult to follow! https://4thewords.com/forum/thread-oge-mai-field-guide
+I was of two minds opening this section, given that the Dust summary is similar to the All Game - but then I decided that narrowing this down to "resources available in the Dust Region without traveling" might be a useful thing. And of course "resources NOT available in the Dust Region, but you'll need them, and here's where you might have forgotten them".
+
+And now there's more to the Dust than Dark Forest Outpost alone!
+
+NOTE: I am counting EVERYTHING from the Hunt Season 4 as part of Dust, to help bring it to your attention if you'd miss it otherwise.
+
+**Oge-Mai Forest, Expedition Forest**
+
+FOREST
+
+- GL = Guardian's Lair (one Hunt monster there)
+
+**Oge-Mai Desert, Expedition Alien Meteoroid, Expedition Desert**
+
+DESERT
+
+**Oge-Mai Water, Expedition Raina**
+
+WATER
+
+- Riza = Riza Rivertown (one Hunt monster there)
+
+**Hunt for the Ancients**
+
+- HuntS1 = Hunt for the Ancients Season 1
+- HuntS2 = Hunt for the Ancients Season 2
+- HuntS3 = Hunt for the Ancients Season 3
+- HuntS4 = Hunt for the Ancients Season 4
+
+**Oge-Mai Dust**
+
+- DFO: Dark Forest Outpost
 
 ### Core Crystals
 
@@ -87,7 +118,8 @@ We're getting deep into Oge-Mai these days - don't want to have to travel too mu
 - **Best sources:** 
   - DFO Battles: Osalyu (750 words for 2), Dust Wignow (444 words for 1)
 - **Other sources:** 
-  - DFO Battles: Takori (600 words for 1), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3),  Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 4), Babu (3000 words, 3 Steel Chains, 2 Pieces of Parchment, 1 Blue Essence Ink for 2-3), Burhar (1500 words for 2-4), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 2-3), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 1), Molox (666 words and 1 Steel Chain for 1)
+  - HuntS4 Riza Battle: Velts: Dust (2000 words for 2-4)
+  - DFO Battles: Caretaker (1200 words for 1-3), Takori (600 words for 1), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3),  Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 4), Babu (3000 words, 3 Steel Chains, 2 Pieces of Parchment, 1 Blue Essence Ink for 2-3), Burhar (1500 words for 2-4), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 2-3), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 1), Molox (666 words and 1 Steel Chain for 1)
 - **Sell price:** 12 Coins (don't sell unless you have >150)
 - **Used for:** 
   - Craft DFO: Dark Forest Boots (5), Dark Forest Helmet (10)
@@ -227,7 +259,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Best sources:** DESERT,
   - DFO Battles: Dust Wignow (444 words for 1)
 - **Other sources:** FOREST,
-  - DFO Battles: Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 1-3), Osalyu (750 words for 1)
+  - DFO Battles: Caretaker (1200 words for 1-3), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 1-3), Osalyu (750 words for 1)
   - Anywhere Battles: Viyusa (25 minutes for 1-4)
 - **Buy:** FOREST
 - **Sell price:** 8 Coins (don't sell unless you have >500)
@@ -277,6 +309,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Best sources:** FOREST, DESERT
   - Anywhere Battle: Awa (200 words for 1-2)
   - DFO Battles: Pakkan (300 words for 1), Papple (1000 words for 2-4)
+  - Post-DFO GL Battle: Mirdor (1500 words for 4-8)
 - **Other sources:** FOREST, DESERT
   - DFO Battles: Takori (600 words for 1), Babu (3000 words, 3 Steel Chains, 2 Pieces of Parchment, 1 Blue Essence Ink for 3-5), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 5-7)
 - **Buy:** FOREST
@@ -355,6 +388,7 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 ### Hardwood
 
 - **Sources:** WATER,
+  - HuntS4 Riza Battle: Velts: Dust (2000 words for 1-2)
   - DFO Battles: Burhar (1500 words for 1-2)
 - **Sell price:** 100 Coins (don't sell unless you have >400)
 - **Used for:** DESERT, WATER,
@@ -368,6 +402,66 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 - **Used for:** equipping, WATER
 - **Equip:** Weapon2: +8 Attack, +8 Defense, +0 Luck
 
+### Hunt Map Piece
+
+- **Source:** FOREST HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** FOREST HUNT
+
+### Hunt Map Piece 2
+
+- **Source:** FOREST HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** FOREST HUNT
+
+### Hunt Map Piece 3
+
+- **Source:** FOREST HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** FOREST HUNT
+
+### Hunt Map Piece 4
+
+- **Source:** DESERT HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** DESERT HUNT
+
+### Hunt Map Piece 5
+
+- **Source:** DESERT HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** DESERT HUNT
+
+### Hunt Map Piece 6
+
+- **Source:** DESERT HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** DESERT HUNT
+
+### Hunt Map Piece 7
+
+- **Source:** WATER HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** WATER HUNT
+
+### Hunt Map Piece 8
+
+- **Source:** WATER HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** WATER HUNT
+
+### Hunt Map Piece 9
+
+- **Source:** WATER HUNT
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** WATER HUNT
+
+### Hunt Map Piece 10
+
+- **Source:** HuntS4 Quest: Something Extraordinary (1)
+- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
+- **Used for:** HuntS4 Quest:  Dirt to Dust (1)
+
 ### Hunter Tokens
 
 ALL GAME
@@ -376,12 +470,40 @@ ALL GAME
 
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
-  - Global Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4)
   - FOREST, DESERT, WATER
+  - Post-DFO GL Battle: Mirdor (1500 words for 15)
+  - DFO Battles: Caretaker (1200 words for 12)
+  - HuntS4 Quests: Something Extraordinary (10), Cheer Your Dedication (15), Sing Your Enthusiasm (20), To Celebrate and Share (20), Into the Woods (50)
 
-- **Monthly Sources Outside the Hunt:**
+- **Late Sept 2020 Sources Outside the Hunt:**
 
-  I'll detail these changes in the Hunt sections and the regional summary sections.
+  Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!) 
+
+  - Global Battles: Vi (5 minutes for 1-4), Viyu (15 minutes for 3-14), Viyusa (25 minutes for 5-20)
+  - LF Battles: Spirit Wignow (450 words for 4-5)
+  - MT Battles: Ardis (70 words for 0-1), Assassin (1400 words for 14), Villager (1300 words for 13)
+  - FOREST EXPEDITION:
+    - BC Battles: Sacer (120 words for 1-2), Xuso (450 words for 4-5)
+    - FB Battles: Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
+    - SC, TT, GL Battles: Hunt only
+  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
+  - ALIEN EXPEDITION:
+    - IC Battles: none
+    - SpaceS Battles: Captain Piak (1667 words for 16-17)
+    - MiningS Battles: Ityf (1250 words for 12-13), Pach (200 words for 2)
+    - RL Battles: Minica (900 words for 9), Tessen (500 words for 5), Zanutaki (500 words for 5)
+  - Gansu Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Sparfly (450 words for 4-5)
+  - DESERT EXPEDITION:
+    - DigS Battles: Loi (150 words for 1-2), Okkorhi (1000 words for 10)
+    - Ruins Battles: Hunt only
+  - Riza Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Sparfly (450 words for 4-5), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
+  - RAINA EXPEDITION:
+    - SurfaceC Battles: Begala (300 words for 3), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
+    - SwampL Battle: Heliodae (120 words for 1-2)
+    - SacredS Battle: Pedja (1000 words for 10)
+    - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Kivi (100 words for 1), Wisthu (800 words for 8)
+  - Balance Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), River Goddess (5000 words for 50), Spirit Castu (550 words for 5-6)
+  - DFO Battles: Ascre (150 words for 1-2), Belasi (200 words for 2), Chu (100 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 20), Dust Wignow (444 words for 4-5), Pakkan (300 words for 3), Spirit Ardia (80 words for 0-1), Zanthei (400 words for 4)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -463,6 +585,8 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
 
 - **Sources:** FOREST, DESERT
   - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2), Vi (5 minutes for 1-4)
+  - Post-DFO GL Battle: Mirdor (1500 words for 3-7)
+  - DFO Battle: Caretaker (1200 words for 5-8)
 - **Buy:** FOREST
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
 - **Used for:** FOREST, DESERT, WATER,
@@ -483,11 +607,11 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
 
 ### Net
 
-- **Sources:** DESERT
+- **Sources:** DESERT, WATER
 - **Craft:** DESERT
 - **Sell Price:** 180 Coins (don't sell; too expensive)
 - **Used for:** equipping, WATER,
-  - LF Quest: A Dusted Experiment (10)
+  - Mid-DFO LF Quest: A Dusted Experiment (10)
 - **Equip:** Weapon2: +4 Attack, +0 Defense, +2 Luck
 
 ### Nezthai Claws
@@ -590,6 +714,7 @@ FOREST EXPEDITION ONLY
 ### Raw Steel
 
 - **Sources:** FOREST, DESERT, WATER, 
+  - HuntS4 Riza Battle: Velts: Dust (2000 words for 3-6)
   - DFO Battles: Burhar (1500 words for 4-6), Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3), Molox (666 words and 1 Steel Chain for 3-5), Osalyu (750 words for 1-2)
 - **Buy:** DESERT
 - **Sell price:** 8 Coins (DO NOT SELL. You will need this to craft SO MANY STEEL BARS.)
@@ -651,6 +776,7 @@ Note: Must complete the DFO Quest Reinforced Ardi Lamp Station to unlock the abi
 ### Reinforced Rope
 
 - **Sources:** WATER
+  - HuntS4 Riza Battle: Velts: Dust (2000 words for 1-3)
 - **Craft:** WATER
 - **Buy:** WATER
 - **Sell price:** 10 Coins (Don't sell, not worth it)
@@ -718,7 +844,8 @@ Note: Must complete the DFO Quest Reinforced Ardi Lamp Station to unlock the abi
 - **Best sources:** FOREST, DESERT
   - Anywhere Battles: Awa (200 words for 2)
 - **Other sources:** WATER,
-  - DFO Battles: Burhar (1500 words for 3-5), Takori (600 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 2-5)
+  - DFO Battles: Burhar (1500 words for 3-5), Caretaker (1200 words for 2-4), Takori (600 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 2-5)
+  - Post-DFO GL Battle: Mirdor
   - Anywhere Battles: Viyusa (25 minutes for 2-7)
 - **Buy:** FOREST, WATER, DESERT
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
@@ -797,6 +924,7 @@ DESERT EXPEDITION ONLY
 - **Equip:** Weapon2: +3 Attack, +0 Defense, +0 Luck
 
 ### Spider Legs
+
 - **Sources:** FOREST, DESERT
 - **Sell price:** 4 Coins (Don't sell unless you have >50)
 - **Used for:** FOREST, DESERT
@@ -804,7 +932,9 @@ DESERT EXPEDITION ONLY
 ### Spider Poison
 
 - **Best sources:** FOREST
-- **Other sources:** DESERT
+- **Other sources:** DESERT,
+  - WATER: HuntS4 Riza Battle: Velts: Dust (2000 words for 2-4)
+  - DFO Battle: Caretaker (1200 words for 1)
 - **Sell price:** 4 Coins (Don't sell; there is always a use lurking somewhere. As long as quests exists, there is always a use.)
 - **Used for:** FOREST, DESERT, WATER,
   - DFO Quests: Deliver With A Smile (15)
@@ -1016,7 +1146,8 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 
 - **Source:** DESERT,
   - DFO Battles: Papple (1000 words for 0-1)
-  - Gansu Quest: Dark Watering Materials 4/5 (1)
+  - Post-DFO GL Battle: Mirdor (1500 words for 1-2)
+  - Post-DFO Gansu Quest: Dark Watering Materials 4/5 (1)
 - **Sell price:** 30 Coins (don't sell unless you have >50)
 - **Used for:** FOREST, DESERT
 
@@ -1024,9 +1155,11 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 
 - **Best sources:** FOREST,
   - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2)
-  - DFO Battles: Zanthei (400 words for 1-2)
+  - DFO Battles: Zanthei (400 words for 1-2), Caretaker (1200 words for 3-5)
 - **Other sources:** DESERT, WATER
   - Post-DFO LF Battle: Spirit Wignow (450 words for 1)
+  - Post-DFO GL Battle: Mirdor (1500 words for 3-6)
+  - HuntS4 Riza Battle: Velts: Dust (2000 words for 6-12)
   - Anywhere Battles: Viyu (15 minutes for 2-7)
 - **Buy:** FOREST, DESERT (cheaper in FOREST)
 - **Sell price:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)

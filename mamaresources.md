@@ -1,4 +1,4 @@
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 I could make this list Mama Tree-only, but why bother when Luciola Forest is a quick hop away? LF is for Luciola Forest, MT for Mama Tree, HuntS1 is for Luciola Forest Hunt for the Ancients, and hopefully all else will be self-explanatory.
 
@@ -193,15 +193,9 @@ Appears in the Forest, but in a context that doesn't really apply until the Wate
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - later Hunt
 
-- **Late Aug 2020 Sources Outside the Hunt:**
+- **Monthly Sources Outside the Hunt:**
 
-  Late August 2020 sources are - wait for it - BLUE. 
-
-  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
-
-  - Global Battles: Vi, Viyusa, Awa
-  - LF Battles: later game, Global, and Hunt only
-  - MT Battles: Lorsa, later game monsters
+  I'll detail these changes in the Hunt sections and the regional summary sections.
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

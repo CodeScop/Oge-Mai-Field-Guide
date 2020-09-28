@@ -1,4 +1,4 @@
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 25 SEPT 2020
 
 Season 2 is back in the Desert; now, we're in the Water Region, to Season 3: The Season of Growth, watched over by the Caretaker.
 
@@ -53,6 +53,14 @@ This is a tad different from previous Seasons, in that the Hunt Map Piece comes 
 - **Requirements:** Collect Hunt Map Piece 9 & reach a 5-day Streak
 - **Rewards:** Wardrobe: Hunt Facepaint Trident https://4thewords.com/media/wardrobe/featured/male/wm&#95;665-hunt-facepaint-trident-4021-27616.png
 - **Recommendations:** Still streaking! (Sorry, couldn't resist.) And as of this writing, still waiting to see what gets unlocked next by this one! But the Caretaker will almost certainly require this quest to unlock.
+
+### A Bubble Dream
+
+- **Unlocked by:** HuntS3 Quest: Bigger and Brighter
+- **Type:** Battle
+- **Requirements:** Defeat 1 Caretaker
+- **Rewards:** Wardrobe: Cactus Sprite Pet https://4thewords.com/media/wardrobe/featured/female/wf&#95;861-cactus-sprite-pet-6003-60430.png
+- **Recommendations:** This is part of the trail to get through the Hunt. Note that the Caretaker is in Dark Forest Outpost...
 
 ## Season 3 Quests - Growing Sideline
 
@@ -164,7 +172,17 @@ NOTE: As of this writing (25 Jul 2020), several of these are entitled "Growing (
 
 ## Season 3 Monsters
 
-Season 3 has been scarce on Assistants and seems to be scarce on new monsters. Seems. Is it a coincidence that Vanstra was introduced to Mama Tree along with the first month of Season 3? That Vanspi was introduced to 3PC along with the second month? Hmm. I'm counting them as non-Hunt monsters, because they're visible without the Hunt being unlocked, but we'll see if that holds.
+Season 3 was been scarce on Assistants and seems to be scarce on new monsters. Seems. Is it a coincidence that Vanstra was introduced to Mama Tree along with the first month of Season 3? That Vanspi was introduced to 3PC along with the second month? Or that Vanvri was introduced in Balance along with the third month? Hmm. Still, with no evidence of connection to the Hunt apart from them dropping Hunter Tokens, I'll have to count those as non-Hunt creatures and say that Season 3 produced only two.
+
+### Caretaker
+
+- **Location:** Dark Forest Outpost
+- **Unlocked by:** HuntS3 Quest: Bigger and Brighter
+- **Requirements:** 1200 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 120
+- **Drops:** 12 Hunter Tokens, 1-3 Bones, 5-8 Leaves, 2-4 Rope, 3-5 Wood, 1-3 Essence, 1 Spider Poison
+- **Quests:** HuntS3: A Bubble Dream (1)
 
 ### Velts: Water
 
@@ -209,36 +227,40 @@ Season 3 has been scarce on Assistants and seems to be scarce on new monsters. S
   - Dig Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4), Lubu (450 words for 4-5), Shepherd (1000 words for 10)
   - Ruins Battles: Lubu (450 words for 4-5)
   - Balance Battles: Velts: Water (1600 words for 16)
+  - DFO Battles: Caretaker (1200 words for 12)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25)
 
-- **Late Aug 2020 Sources Outside the Hunt:**
+- **Late Sept 2020 Sources Outside the Hunt:**
 
-  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
+  Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!) 
 
-  - Global Battles: Vi, Viyusa, Awa
-- LF Battles: Spirit Wignow
-  - MT Battles: Ardii, Lorsa, Spirit Lorsini
+  - Global Battles: Vi (5 minutes for 1-4), Viyu (15 minutes for 3-14), Viyusa (25 minutes for 5-20)
+  - LF Battles: Spirit Wignow (450 words for 4-5)
+  - MT Battles: Ardis (70 words for 0-1), Assassin (1400 words for 14), Villager (1300 words for 13)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (may be a leftover from wings last month, may be removed)
-    - FB Battles: Ardii, Spirit Ardia
-    - SC, TT, GL Battles: Global, Hunt Only (was Gobkey overlooked?)
-  - 3PC Battles: Bruja, Yasri
+    - BC Battles: Sacer (120 words for 1-2), Xuso (450 words for 4-5)
+    - FB Battles: Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
+    - SC, TT, GL Battles: Hunt only
+  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
   - ALIEN EXPEDITION:
-    - IC, MS Battles: Global only
-    - SpaceS Battles: Kovar, Noit
-    - RL Battles: ALL THE HOLOGRAMS
-  - Gansu Battles: Furoxi, Sparfly (may be a leftover from wings last month, may be removed)
+    - IC Battles: none
+    - SpaceS Battles: Captain Piak (1667 words for 16-17)
+    - MiningS Battles: Ityf (1250 words for 12-13), Pach (200 words for 2)
+    - RL Battles: Minica (900 words for 9), Tessen (500 words for 5), Zanutaki (500 words for 5)
+  - Gansu Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Sparfly (450 words for 4-5)
   - DESERT EXPEDITION:
-    - DigS Battles: Zera
-    - Ruins Battles: Gordi, Spirit Griffe, Spirit Gordiliana
-  - Riza Battles: Furoxi, Osaril, Sparfly (may be a leftover from wings last month, may be removed)
+    - DigS Battles: Loi (150 words for 1-2), Okkorhi (1000 words for 10)
+    - Ruins Battles: Hunt only
+  - Riza Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Sparfly (450 words for 4-5), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
   - RAINA EXPEDITION:
-    - SurfaceC, SacredS Battles: Global and Hunt only
-    - SwampL Battle: Rhamp
-  - Balance Battles: Furoxi, Castu, Nuig, Water Rudakai
-  - DFO Battles: Spirit Ardia, Molox, Osalyu, Spirit Papple, Lycosta,  Chaensi, Babu, Miclan
+    - SurfaceC Battles: Begala (300 words for 3), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
+    - SwampL Battle: Heliodae (120 words for 1-2)
+    - SacredS Battle: Pedja (1000 words for 10)
+    - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Kivi (100 words for 1), Wisthu (800 words for 8)
+  - Balance Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), River Goddess (5000 words for 50), Spirit Castu (550 words for 5-6)
+  - DFO Battles: Ascre (150 words for 1-2), Belasi (200 words for 2), Chu (100 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 20), Dust Wignow (444 words for 4-5), Pakkan (300 words for 3), Spirit Ardia (80 words for 0-1), Zanthei (400 words for 4)
   
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -256,13 +278,15 @@ Season 3 is unlocked by completing Stumbling Upon Sheep quest, and you can see t
 - HuntS3 Problems Feed Solutions - defeat 20 Caricaco, get 25 Hunter Tokens
 - HuntS3 Of Vibrant Growth - write 10K words, get 15 Hunter Tokens
 - HuntS3 Where Life Flows - deliver 50 Swamp Moss, get 15 Hunter Tokens
-- HuntS3 To Grow & Change - defeat 10 monsters and get Hunt Map Piece 7, get Wardrobe: Hunt Facepaint Side
-  - HuntS3 Bettering Ourselves - collect Hunt Map Piece 8 & get 5-day streak, get Wardrobe: Hunt Complex Brooch
-    - HuntS3 Bigger & Brighter - collect Hunt Map Piece 9 & get 5-day streak, get Wardrobe: Hunt Facepaint Trident
-- HuntS3 Moving Flora - maintain 5-day streak, get Hunt Map Piece 7 and 10 Hunter Tokens
-- HuntS3 Flying Past Sparks - defeat 5 Nuig, get Hunt Map Piece 8 and 10 Hunter Tokens
-- HuntS3 Insight Grows - defeat 20 Puna, get 15 Hunter Tokens & Hunt Map Piece 9
 - HuntS3 Growing Improvement - beat 10 Jaihri, get 25 Hunter Tokens
   - HuntS3 - Growing Your Perception 2/3 - defeat 5 Castu, 3 Isartu, and 1 Water Rudakai, get 25 Hunter Tokens
     - HuntS3 - Growing Your Tenacity 3/3 - defeat 2 Xyplos, get 25 Hunter Tokens
       - HuntS3 - Growing Your Valor 4/4 - defeat 1 Wyvern, get Wardrobe: Fur Ankle Boots
+- HuntS3 To Grow & Change - defeat 10 monsters and get Hunt Map Piece 7, get Wardrobe: Hunt Facepaint Side
+  - HuntS3 Bettering Ourselves - collect Hunt Map Piece 8 & get 5-day streak, get Wardrobe: Hunt Complex Brooch
+    - HuntS3 Bigger & Brighter - collect Hunt Map Piece 9 & get 5-day streak, get Wardrobe: Hunt Facepaint Trident
+      - HuntS3 A Bubble Dream - defeat the Caretaker, get Wardrobe: Cactus Sprite Pet
+        - **UNLOCK SEASON 4**
+- HuntS3 Moving Flora - maintain 5-day streak, get Hunt Map Piece 7 and 10 Hunter Tokens
+- HuntS3 Flying Past Sparks - defeat 5 Nuig, get Hunt Map Piece 8 and 10 Hunter Tokens
+- HuntS3 Insight Grows - defeat 20 Puna, get 15 Hunter Tokens & Hunt Map Piece 9
