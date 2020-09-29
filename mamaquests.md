@@ -32,7 +32,7 @@ LAST UPDATED 19 MAR 2019
 
 ## Mama Tree Sidequests
 
-LAST UPDATED 19 JUN 2020
+LAST UPDATED 28 SEPT 2020
 
 A lot of these are available from the beginning. If there's an asterisk, it unlocked in the process of going through this region.
 
@@ -100,7 +100,7 @@ A lot of these are available from the beginning. If there's an asterisk, it unlo
 
 ### Leafsung Vial Creation
 
-NOTE: This quest is impossible to complete until you've completed Make Attacks Sing in Luciola Forest, which is unlocked by Make Words Sing, which is unlocked by Make Ink Sing. Make sure you've done those.
+NOTE: This quest is almost impossible to complete until you've completed Make Attacks Sing in Luciola Forest, which is unlocked by Make Words Sing, which is unlocked by Make Ink Sing. Make sure you've done those.
 
 - **Type:** Collection
 - **Requirements:** Collect/Craft 10 Leafsung Ink
@@ -113,7 +113,7 @@ NOTE: This quest is impossible to complete until you've completed Make Attacks S
 - **Type:** Battle
 - **Requirements:** Defeat 1 Tylu (also be min level 3, but if you're here, you'll be past level 3 anyway)
 - **Rewards:** Unlock Base Camp in Expedition
-- **Recommendations:** DO IT AS SOON AS POSSIBLE. There is nothing to lose. Wandering around Expedition is fun, too. It won't advance the main quest at all, but you can explore, unlock regions, and find alternate ways to get shiny materials. Definitely worth it.
+- **Recommendations:** DO IT AS SOON AS POSSIBLE. Wandering around Expedition is fun, and it's important to know your way around the area if you want to get through the later parts of the main questline. Definitely worth it.
 
 ### * Sand Mountain Caravan
 
@@ -225,7 +225,7 @@ Monsters and Resources listed here will not be linked with this quest outside th
     - 5 Xuso
     - 3 Vezi
 - **Rewards:** 3 Bones Chests, 1 Bones Key
-- **Recommendations:** You got past the first part - congrats! No mean feat. Now you'll get a key for your chests, and the Dark Forest Leaves have to come from the Dust. Good luck with the Xyplos Ink, too (remember Sliv can get it for you), and good luck fighting the Vezi and good luck remembering that Gobkeys are way back in the Forest Expedition in Guardian's Lair. Go forth and conquer!
+- **Recommendations:** You got past the first part - congrats! No mean feat. Now you'll get a key for your chests, and the Dark Forest Leaves have to come from the Dust. Good luck with the Xyplos Ink, too (remember Sliv can get it for you more easily than Xyplos if you have enough Luck), and good luck fighting the Vezi and good luck remembering that Gobkeys are way back in the Forest Expedition in Guardian's Lair. Go forth and conquer!
 
 ### * Creature Colors & Highlights (3/3)
 

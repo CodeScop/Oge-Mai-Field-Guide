@@ -1,16 +1,16 @@
-LAST UPDATED 16 SEPT 2020
+LAST UPDATED 28 SEPT 2020
 
 Okay! So, I'm going to try to consolidate ALL THE QUESTS in this region. Everything that isn't a Main Quest will be listed in alphabetical order after the Main Quests. The Main Quests will be in order, since it's a clearly defined road; and that "road" metaphor will extend in multiple directions. Hence, the new "Route" line of info to tell you how to find it/where you picked it up.
 
 **The Main Quest Highway** is the main questline of the game, the backbone which unlocks everything else. This line, and only this line, will be defined solely by where it is in the sequence; the Route will tell you where it is in that sequence (LF MQ 3 for the third Main Quest in the Luciola Forest sequence, etc)
 
-**The Expedition Trails** branch off of this Main Quest Highway (so does the **Hunt Trail**) at defined locations. The Route will tell you where it branches off the Main Quest Highway (i.e. which Main Quest unlocks the sidequest that unlocks the Expedition/Hunt) and list out all previous quests on that Trail, as well as the number of quests left/where to unlock the next step if that's relevant. So the quest Joining the Hunt, located in Luciola Forest on the Hunt Trail would read "Hunt Trail Route: game open • **HuntS1 Joining the Hunt** • next step HuntS1 The Hunt Begins • multiple quests (sequence still unlocking)"; a quest chain with a known number would list the number of quests after the next step
+**The Expedition Trails** branch off of this Main Quest Highway (so does the **Hunt Trail**) at defined locations. The Route will tell you where it branches off the Main Quest Highway (i.e. which Main Quest unlocks the sidequest that unlocks the Expedition/Hunt) and list out all quests on that Trail. So the quest Joining the Hunt, located in Luciola Forest on the Hunt Trail would read "Hunt Trail Route: (available from game open) • **HuntS1 Joining the Hunt** • HuntS1 The Hunt Begins" etc.
 
-**Quest Paths** are basically a questline off to the side, which don't lead anywhere in particular. To save myself space, they'll be allowed to jump off of Expedition Trails as well as Main Quests. So the quest Battle of Merit, which is unlocked by a quest which is unlocked by The Hunt Begins, would look thus: "Quest Path Route: after Hunt Trail HuntS1 The Hunt Begins • HuntS1 A Battle of Wills • **HuntS2 Battle of Merit** • next step HuntS3 Battle of Constitution • 1 quest later"
+**Quest Paths** are basically a questline off to the side, which don't lead anywhere in particular. To save myself space, they'll be allowed to jump off of Expedition Trails as well as Main Quests. So the quest Battle of Merit, which is unlocked by a quest which is unlocked by The Hunt Begins, would look thus: "Quest Path Route: (open via Hunt Trail HuntS1 The Hunt Begins) • HuntS1 A Battle of Wills • **HuntS2 Battle of Merit** • HuntS3 Battle of Constitution • HuntS4 A Battle of Evolution"
 
 **Lone Quests** are quests which are unlocked by something on the Main Quest Highway or a Trail; instead of a Route, these will simply have an "Unlocked by" field.
 
-And to help keep all these straight... well, there's three options. You can check out the Questline listing and nesting quests for the whole game, or you can see the Travel Directions section for the Highway and Trails in more detail than you may want, or you can see the helpful list down at the very bottom of the page.
+And to help keep all these straight... well, there's three options. You can check out the Questline listing and nesting quests for the whole game, or you can see the Travel Directions section for the Highway and Trails in more detail than you may want, or you can see the helpful quick list down at the very bottom of the page.
 
 Here goes nothing!
 
@@ -27,6 +27,8 @@ NOTE: All Hunt quests are picked up in Luciola Forest, regardless of what Region
 
 - HuntS1 = Hunt for the Ancients Season 1
 - HuntS2 = Hunt for the Ancients Season 2
+- HuntS3 = Hunt for the Ancients Season 3
+- HuntS4 = Hunt for the Ancients Season 4
 
 **Forest Expedition**
 
@@ -72,7 +74,7 @@ NOTE: All Hunt quests are picked up in Luciola Forest, regardless of what Region
 - **Type:** Collection
 - **Requirements:** Collect Tesven's Amulet, 4 Essence, 8 Dust, and 4 Leaves
 - **Rewards:** Mama Tree unlocks
-- **Recommendation:** Hopefully you have Tesven's Amulet from the previous quest You may well have everything you need already at this point. Essence is the trickiest bit here; at low Luck, your best bet is probably battling Grey's Mawt, which drops at least one Essence and often two. As your Luck increases, Wignow become more reliable Essence providers and cost fewer words. And if you're trying to remember what Luck is and how it works, double-check the FAQ back at the beginning of the Guide. :)
+- **Recommendation:** Hopefully you have Tesven's Amulet from the previous quest You may well have everything you need already at this point. Essence is the trickiest bit here; at low Luck, your best bet is probably battling Grey's Mawt, which drops at least one Essence and often two; if you're feeling up to a 25-minute sprint, Viyusa just might drop all you need at one go. As your Luck increases, Wignow become more reliable Essence providers and cost fewer words. And if you're trying to remember what Luck is and how it works, double-check the FAQ back at the beginning of the Guide. :)
 
 ### MT Main Quest 1: To Great Heights
 
@@ -115,11 +117,11 @@ NOTE: All Hunt quests are picked up in Luciola Forest, regardless of what Region
 ### A Battle of Wills - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** after Hunt Trail HuntS1 The Hunt Begins • **A Battle of Wills** • HuntS2 Battle of Merit • 2 quests later
+- **Quest Path Route:** (open via Hunt Trail HuntS1 The Hunt Begins) • **A Battle of Wills** • HuntS2 Battle of Merit • HuntS3 Battle of Constitution • HuntS4 A Battle of Evolution
 - **Type:** Battle
 - **Requirements:** Defeat 1 Velts
 - **Rewards:** 10 Hunter Tokens
-- **Recommendations:** 800 words in 40 minutes can be a little challenging, but I think it's totally worth it (and one of the shorter quests in the game, when you think about it). Velts shows up in Mama Tree for those who have unlocked her quest.
+- **Recommendations:** Velts is meant to be on the challenging side, and this launches her series of challenges roaming all around Oge-Mai. I highly recommend this series, because it's basically fighting Velts once in a bunch of places and getting a lot of bragging rights and some nice swag at the end.
 
 ### Biweekly: Monster Hunter
 
@@ -135,7 +137,7 @@ NOTE: All Hunt quests are picked up in Luciola Forest, regardless of what Region
 Note: if you're trying to progress to the next quest after this, you'll need to unlock Guardian's Lair; info on how to do that is part of the Forest Expedition Trail.
 
 - **Location:** Forward Base
-- **Quest Path Route:** after Forest Expedition Trail: BC Hard Day's Walk • FB **Blossom with Flowers! 1/2** • next step: GL Bright Night Blossoms 2/2
+- **Quest Path Route:** (open via Forest Expedition Trail: BC Hard Day's Walk) • FB **Blossom with Flowers! 1/2** • GL Bright Night Blossoms 2/2
 - **Type:** Battle
 - **Requirements:** Defeat 5 Dandeleon (220 words in 30 min)
 - **Rewards:** 1 Wooden Key
@@ -164,7 +166,7 @@ Note: if you're trying to progress to the next quest after this, you'll need to 
 Note: technically, this appears as soon as you open Guardian's Lair whether you've completed the previous quest or not. But since you can't pick it up until the other one is completed, I'm counting this as a quest path.
 
 - **Location:** Guardian's Lair
-- **Quest Path Route:** after Forest Expedition Trail: BC Hard Day's Walk • FB Blossom with Flowers! 1/2 • **Bright Night Blossoms (2/2)**
+- **Quest Path Route:** (open via Forest Expedition Trail: BC Hard Day's Walk) • FB Blossom with Flowers! 1/2 • **Bright Night Blossoms (2/2)**
 - **Type:** Battle
 - **Requirements:** Defeat 5 Night Dandeleons (and already have Blossom With Flowers from Forward Base completed)
 - **Rewards:** Wardrobe: Dandeleon Crown
@@ -177,12 +179,12 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Type:** Battle
 - **Requirements:** Defeat 10 Buholi
 - **Rewards:** 4 Stempos
-- **Recommendations:** Notice that the requirements don't mention that you'll need to fight 2-3 Nezthai for every Buholi you want to beat. 
+- **Recommendations:** Notice that the requirements don't mention that you'll need to beat 2-3 Nezthai for every Buholi you want to fight. Pace yourself.
 
 ### A Clue to the Past - Hunt S1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** game open • Hunt S1 Joining the Hunt • **A Clue to the Past** • next step: Hunt S1 Elder Library Assistants • 2 more quests
+- **Quest Path Route:** (open via Hunt Trail: HuntS1 Joining the Hunt) • **A Clue to the Past** • HuntS1 Elder Library Assistants • HuntS1 Elder Library Security • HuntS1 Curator's Family
 - **Type:** Battle
 - **Requirements:** Defeat 3 Sassi
 - **Rewards:** 5 Hunter Tokens & 1 Hunt Map Piece
@@ -202,7 +204,7 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 
 - **Location:** Mama Tree
-- **Quest Path Route:** after LF MQ 4 • MT Warm Creature Highlights 1/3 • **Cool Creature Highlights 2/3** • next step: MT Creature Colors & Highlights 3/3
+- **Quest Path Route:** (open via LF MQ 4) • MT Warm Creature Highlights 1/3 • **Cool Creature Highlights 2/3** • MT Creature Colors & Highlights 3/3
 - **Type:** Battle, Collection
 - **Requirements:** 
   - Deliver:
@@ -217,12 +219,12 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
     - 5 Xuso
     - 3 Vezi
 - **Rewards:** 3 Bones Chests, 1 Bones Key
-- **Recommendations:** You got past the first part - congrats! No mean feat. Now you'll get a key for your chests, and the Dark Forest Leaves have to come from the Dust. Good luck with the Xyplos Ink, too (remember Sliv can get it for you), and good luck fighting the Vezi and good luck remembering that Gobkeys are way back in the Forest Expedition in Guardian's Lair. Go forth and conquer!
+- **Recommendations:** You got past the first part - congrats! No mean feat. Now you'll get a key for your chests, and the Dark Forest Leaves have to come from the Dust. Good luck with the Xyplos Ink, too (remember Sliv can get it for you more easily than Xyplos if you have enough Luck), and good luck fighting the Vezi and good luck remembering that Gobkeys are way back in the Forest Expedition in Guardian's Lair. Go forth and conquer!
 
 ### Creature Colors & Highlights (3/3) - MT
 
 - **Location:** Mama Tree
-- **Quest Path Route:** after LF MQ 4 • MT Warm Creature Highlights 1/3 • MT Cool Creature Highlights 2/3 • **Creature Colors & Highlights 3/3**
+- **Quest Path Route:** (open via LF MQ4) • MT Warm Creature Highlights 1/3 • MT Cool Creature Highlights 2/3 • **Creature Colors & Highlights 3/3**
 - **Type:** Battle, Collection
 - **Requirements:** 
   - Deliver:
@@ -242,20 +244,20 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ### The Curator of Elder Library - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** game open • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • **The Curator of Elder Library** • next step: HuntS2 All Who Wander • multiple quests (sequence still unlocking)
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • **The Curator of Elder Library** • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
 - **Type:** Battle
 - **Requirements:** Defeat 4x the Curator of Elder Library
 - **Rewards:** Wardrobe: Sassi Pet https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;sassi&#95;pet.png
-- **Recommendations:** HOW. HOW CAN YOU NOT. KITTY! (Plus, continuing the questine.)
+- **Recommendations:** HOW. HOW CAN YOU NOT. KITTY! (... and, y'know, unlocking subsequent Seasons of the Hunt. But. KITTY!)
 
 ### Curator's Family - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** after Hunt Trail: Hunt S1 Joining the Hunt • HuntS1 A Clue to the Past • HuntS1 Elder Library Assistants • HuntS1 Elder Library's Security •  **Curator's Family**
+- **Quest Path Route:** (open via Hunt Trail: Hunt S1 Joining the Hunt) • HuntS1 A Clue to the Past • HuntS1 Elder Library Assistants • HuntS1 Elder Library's Security •  **Curator's Family**
 - **Type:** Battle
 - **Requirements:** Defeat 1 each: Burocat, Sassi, Clawadin, Alnu
 - **Rewards:** 25 Hunter Tokens
-- **Recommendations:** Look, if you don't just want to battle fierce kitties till the cows come home, I don't understand you. But if that marvelous option doesn't appeal to you, then there's not much need to focus on this quest.
+- **Recommendations:** Look, if you don't just want to battle fierce kitties till the cows come home, I don't understand you. But if that marvelous option doesn't appeal to you, then there's not much need to focus on this quest. Unlike the other assistant quests, this does not advance the game.
 
 ### Daily: Monster Hunter
 
@@ -287,7 +289,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ### Deeper Forest Hunting - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** game open • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • **Deeper Forest Hunting** • next step: HuntS1 A Past Not Forgotten • multiple quests (sequence still unlocking)
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • **Deeper Forest Hunting** • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
 - **Type:** Words, Streak, Level, Collection
 - **Requirements:** Write 10K words, add 7 consecutive streak days, minimum level 3, Hunt Map Piece 2
 - **Rewards:** Wardrobe: Full Body Scars https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;full&#95;body&#95;scars.png
@@ -314,7 +316,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ### Elder Library Assistants - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** after Hunt Trail: Hunt S1 Joining the Hunt • HuntS1 A Clue to the Past • **Elder Library Assistants** • next step: HuntS1 Elder Library's Security • 1 more quest
+- **Quest Path Route:** (open via Hunt Trail: HuntS1 Joining the Hunt) • HuntS1 A Clue to the Past • **Elder Library Assistants** • next step: HuntS1 Elder Library's Security • HuntS1 Curator's Family
 - **Type:** Battle
 - **Requirements:** Defeat 4 Alnu
 - **Rewards:** Hunt Map Piece 2, 5 Hunter Tokens
@@ -323,7 +325,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ### Elder Library's Security - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** after Hunt Trail: Hunt S1 Joining the Hunt • HuntS1 A Clue to the Past • HuntS1 Elder Library Assistants • **Elder Library's Security** •  next step: HuntS1 Curator's Family
+- **Quest Path Route:** (open via Hunt Trail: Hunt S1 Joining the Hunt) • HuntS1 A Clue to the Past • HuntS1 Elder Library Assistants • **Elder Library's Security** •  HuntS1 Curator's Family
 - **Type:** Battle
 - **Requirements:** Defeat 4 Clawadin
 - **Rewards:** 5 Hunter Tokens, 1 Hunt Map Piece 3
@@ -350,7 +352,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ### Feeding the Lighthouse - FB
 
 - **Location:** Forward Base
-- **Forest Expedition Trail Route:** after MT MQ4 / Aid To An Elder • MT New Adventurous Horizons •  BC Hard Day's Walk • **Feeding the Lighthouse** • next steps: IN ANY ORDER [FB Javelin Toss West • FB North: Homeward Bound • FB Stone's Throw East]
+- **Forest Expedition Trail Route:** (open via MT MQ4 / Aid To An Elder) • MT New Adventurous Horizons •  BC Hard Day's Walk • **Feeding the Lighthouse** • IN ANY ORDER [FB Javelin Toss West • FB North: Homeward Bound • FB Stone's Throw East]
 - **Type:** Battle
 - **Requirements:** Defeat 25 Ardia, 25 Ardii, and 25 Ardis
 - **Rewards:** 1 Wooden Chest, 1 Ardi Lamp
@@ -381,7 +383,7 @@ see **Lead the Way**
 ### Hard Day's Walk - BC
 
 - **Location:** Base Camp
-- **Forest Expedition Trail Route:** after MT MQ4 / Aid To An Elder • MT New Adventurous Horizons • **Hard Day's Walk** • next step: FB Feeding the Lighthouse • 3 more quests
+- **Forest Expedition Trail Route:** (open via MT MQ4 / Aid To An Elder) • MT New Adventurous Horizons •  **Hard Day's Walk** • FB Feeding the Lighthouse • IN ANY ORDER [FB Javelin Toss West • FB North: Homeward Bound • FB Stone's Throw East]
 - **Type:** Battle, Streak
 - **Requirements:** Defeat 1 Kaija, 1 Xuso, and 1 Sacer; have minimum 3-day Streak when you turn in
 - **Rewards:** Unlock Forward Base area
@@ -399,7 +401,7 @@ see **Lead the Way**
 ### The Hunt Begins
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** game open • HuntS1 Joining the Hunt • **The Hunt Begins** • next step: HuntS1 Deeper Forest Hunting • multiple quests (sequence still unlocking)
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • **The Hunt Begins** • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
 - **Type:** Collection, Streak, Words, Level
 - **Requirements:**
   - Collect: 1 Hunt Map Piece
@@ -412,7 +414,7 @@ see **Lead the Way**
 ### Inking By Number (2/5) - MT
 
 - **Location:** Mama Tree
-- **Quest Path Route:** after MT MQ 4/ Aid To An Elder • MT Tinkering With Leafsung (1/5) • **Inking By Number (2/5)** • next step: MT Inking of Dust (3/5) • two more quests
+- **Quest Path Route:** (open via MT MQ 4/ Aid To An Elder) • MT Tinkering With Leafsung (1/5) • **Inking By Number (2/5)** • MT Inking of Dust (3/5) • MT Thinking of Ink (4/5) • MT Invisible Ink (5/5)
 - **Type:** Collection
 - **Requirements:** Collect 15 Reenu Wings, 15 Feathers, 3 Tambo Mane, 10 Claws, and 50 Dust
 - **Rewards:** 3 Wooden Keys, unlock Inking of Dust (3/5) (this is the last part of this 5-quest series which can be completed before unlocking the Water Region)
@@ -423,7 +425,7 @@ see **Lead the Way**
 Note: NOT POSSIBLE to complete till Riza Rivertown is unlocked
 
 - **Location:** Mama Tree
-- **Quest Path Route:** after MT MQ 4/ Aid To An Elder • MT Tinkering With Leafsung (1/5) • MT Inking By Number (2/5) • **Inking of Dust (3/5)** • next step: MT Thinking of Ink (4/5) • one more quest
+- **Quest Path Route:** (open via MT MQ 4/ Aid To An Elder) • MT Tinkering With Leafsung (1/5) • MT Inking By Number (2/5) • **Inking of Dust (3/5)** • MT Thinking of Ink (4/5) • MT Invisible Ink (5/5)
 - **Type:** Battle, Streak
 - **Requirements:** Defeat 5 Patliadu, 15 Puna, 5 Wetu, and 1 Arenica, and have a minimum 15-day Streak at the time of turning in
 - **Rewards:** 1 Golden Chest, unlock Thinking Like Ink (4/5)
@@ -436,7 +438,7 @@ Note: NOT POSSIBLE to complete till partway through the Floating City of Balance
 Monsters and Resources listed here will not be linked with this quest outside the All Resources section.
 
 - **Location:** Mama Tree
-- **Quest Path Route:** after MT MQ 4/ Aid To An Elder • MT Tinkering With Leafsung (1/5) • MT Inking By Number (2/5) • MT Inking of Dust (3/5) • MT Thinking of Ink (4/5) • **The Invisible Ink (5/5)**
+- **Quest Path Route:** (open via MT MQ 4/ Aid To An Elder) • MT Tinkering With Leafsung (1/5) • MT Inking By Number (2/5) • MT Inking of Dust (3/5) • MT Thinking of Ink (4/5) • **The Invisible Ink (5/5)**
 - **Type:** Collection, Battle, Streak
 - **Requirements:** Collect 5 Leafsung Ink and 20 Red Dye, defeat 1 Tambo and 3 Bruja, and have a minimum 30-day Streak when you turn it in
 - **Rewards:** Wardrobe: Leafsung Tattoos (and yes, they're multicolor, but here's the baseline: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;leafsung&#95;tattoo&#95;yellow.png )
@@ -454,7 +456,7 @@ Monsters and Resources listed here will not be linked with this quest outside th
 ### Javelin Toss West - FB
 
 - **Location:** Forward Base
-- **Forest Expedition Trail Route:** after MT MQ4 / Aid To An Elder • MT New Adventurous Horizons •  BC Hard Day's Walk • FB Feeding the Lighthouse • IN ANY ORDER [**Javelin Toss West** • FB North: Homeward Bound • FB Stone's Throw East]
+- **Forest Expedition Trail Route:** (open via MT MQ4 / Aid To An Elder) • MT New Adventurous Horizons •  BC Hard Day's Walk • FB Feeding the Lighthouse • IN ANY ORDER [**Javelin Toss West** • FB North: Homeward Bound • FB Stone's Throw East]
 - **Type:** Collection
 - **Requirements:** Deliver 10 Ardi Lamps
 - **Rewards:** Unlock Tall Trees area
@@ -463,7 +465,7 @@ Monsters and Resources listed here will not be linked with this quest outside th
 ### Joining the Hunt - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** game open • **Joining the Hunt** • next step: HuntS1 The Hunt Begins • multiple quests (sequence still unlocking)
+- **Hunt Trail Route:** (available from game open) • **Joining the Hunt** • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
 - **Type:** Wordcount/Level
 - **Requirements:** Min Level 3, 3000 Words
 - **Rewards:** 10 Hunter Tokens, unlock the Hunt
@@ -490,7 +492,7 @@ Monsters and Resources listed here will not be linked with this quest outside th
 ### Lead the Way/First Steps - LF
 
 - **Location:** Luciola Forest
-- **Unlocked by:** game open
+- **Unlocked by:** available at game open
 - **Type:** Wordcount
 - **Requirements:** Write 5000 words. (Note: Attack stat will not affect this number; it's 5K regardless.)
 - **Rewards:** 50 Coins
@@ -498,10 +500,10 @@ Monsters and Resources listed here will not be linked with this quest outside th
 
 ### Leafsung Vial Creation - MT
 
-NOTE: This quest is impossible to complete until you've completed the quest **Make Attacks Sing**, which is the end of a quest chain in Luciola Forest. However, since it's *unlocked* by opening Mama Tree, I'm counting it thus.
+NOTE: This quest is almost impossible to complete until you've completed the quest **Make Attacks Sing**, which is the end of a quest chain in Luciola Forest. However, since it's *unlocked* by opening Mama Tree, I'm counting it thus.
 
 - **Location:** Mama Tree
-- **Unlocked by:** **Unlocked by:** LF MQ4
+- **Unlocked by:** LF MQ4
 - **Type:** Collection
 - **Requirements:** Collect/Craft 10 Leafsung Ink
 - **Rewards:** 1 Wooden Chest
@@ -510,7 +512,7 @@ NOTE: This quest is impossible to complete until you've completed the quest **Ma
 ### Learn to Fight - LF
 
 - **Location:** Luciola Forest
-- **Unlocked by:** game open
+- **Unlocked by:** available at game open
 - **Type:** Battle
 - **Requirements:** Fight 10 of any monster.
 - **Rewards:** 50 Coins
@@ -537,7 +539,7 @@ NOTE: This quest is impossible to complete until you've completed the quest **Ma
 ### Luciola Lanterns/Night Light - LF
 
 - **Location:** Luciola Forest
-- **Unlocked by:** game open
+- **Unlocked by:** available at game open
 - **Type:** Collection
 - **Requirements:** Collect 10 Spider Legs and 10 Dust
 - **Rewards:** 5 Leaf Boots
@@ -555,7 +557,7 @@ NOTE: This quest is impossible to complete until you've completed the quest **Ma
 ### Luciola Puna - LF
 
 - **Location:** Luciola Forest
-- **Unlocked by:** game open
+- **Unlocked by:** available at game open
 - **Type:** Battle
 - **Requirements:** Battle 10 Puna
 - **Rewards:** 1 Wooden Chest
@@ -564,7 +566,7 @@ NOTE: This quest is impossible to complete until you've completed the quest **Ma
 ### Lumberjack's Tools - LF
 
 - **Location:** Luciola Forest
-- **Unlocked by:** game open
+- **Unlocked by:** available at game open
 - **Type:** Collection
 - **Requirements:** Collect 5 Wood Hammers, 3 Dust, 5 Fur, 3 Rope
 - **Rewards:** 1 Leafsung Sword
@@ -573,7 +575,7 @@ NOTE: This quest is impossible to complete until you've completed the quest **Ma
 ### Make Attacks Sing - LF
 
 - **Location:** Luciola Forest
-- **Quest Path Route:** after LF MQ3/The Nitana • LF Make Ink Sing • LF Make Words Sing • **Make Attacks Sing** • ability to craft Leafsung Ink in Mama Tree
+- **Quest Path Route:** (open via LF MQ3/The Nitana) • LF Make Ink Sing • LF Make Words Sing • **Make Attacks Sing** • (ability to craft Leafsung Ink in Mama Tree)
 - **Type:** Collection
 - **Requirements:** Collect 30 Essence, 15 Spider Poison, 10 Claws, 10 Dust
 - **Rewards:** 5 Leafsung Ink
@@ -582,7 +584,7 @@ NOTE: This quest is impossible to complete until you've completed the quest **Ma
 ### Make Ink Sing - LF
 
 - **Location:** Luciola Forest
-- **Quest Path Route:** after LF MQ3/The Nitana • **Make Ink Sing** • next step LF Make Words Sing • one more quest • ability to craft Leafsung Ink in Mama Tree
+- **Quest Path Route:** (open via LF MQ3/The Nitana)  • **Make Ink Sing** • LF Make Words Sing • LF Make Attacks Sing • (ability to craft Leafsung Ink in Mama Tree)
 - **Type:** Collection
 - **Requirements:** Collect 10 Essence and 10 Spider Poison
 - **Rewards:** 1 Leafsung Ink
@@ -591,7 +593,7 @@ NOTE: This quest is impossible to complete until you've completed the quest **Ma
 ### Make It Work - LF
 
 - **Location:** Luciola Forest
-- **Quest Path Route:** game open • **Make It Work** • next step LF Style Is Eternal
+- **Quest Path Route:** available at game open • **Make It Work** • next step LF Style Is Eternal
 - **Type:** Collection
 - **Requirements:** Collect 8 Reenu Wings and 5 Feathers
 - **Rewards:** 1 Wooden Key and 25 Coins
@@ -600,7 +602,7 @@ NOTE: This quest is impossible to complete until you've completed the quest **Ma
 ### Make Words Sing - LF
 
 - **Location:** Luciola Forest
-- **Quest Path Route:** after LF MQ3/The Nitana • LF Make Ink Sing • **Make Words Sing** • next step LF Make Attacks Sing • ability to craft Leafsung Ink in Mama Tree
+- **Quest Path Route:** (open via LF MQ3/The Nitana)  • LF Make Ink Sing • **Make Words Sing** • LF Make Attacks Sing • (ability to craft Leafsung Ink in Mama Tree)
 - **Type:** Wordcount & Collection
 - **Requirements:** Write 5,000 Words, Collect 20 Essence, 10 Spider Poison, 5 Claws
 - **Rewards:** 3 Leafsung Ink
@@ -618,16 +620,16 @@ NOTE: This quest is impossible to complete until you've completed the quest **Ma
 ### New Adventurous Horizons - MT
 
 - **Location:** Mama Tree
-- **Forest Expedition Trail Route:** after MT MQ4 / Aid To An Elder • **New Adventurous Horizons** • next step: BC Hard Day's Walk • 4 more quests
+- **Forest Expedition Trail Route:** (open via MT MQ4 / Aid To An Elder) • **New Adventurous Horizons** •  BC Hard Day's Walk • FB Feeding the Lighthouse • IN ANY ORDER [FB Javelin Toss West • FB North: Homeward Bound • FB Stone's Throw East]
 - **Type:** Battle
 - **Requirements:** Defeat 1 Tylu (also be min level 3, but if you're here, you'll be past level 3 anyway)
 - **Rewards:** Unlock Base Camp in Expedition
-- **Recommendations:** DO IT AS SOON AS POSSIBLE. There is nothing to lose. Wandering around Expedition is fun, too. It won't advance the main quest at all, but you can explore, unlock regions, and find alternate ways to get shiny materials. Definitely worth it.
+- **Recommendations:** DO IT AS SOON AS POSSIBLE. Wandering around Expedition is fun, and it's important to know your way around the area if you want to get through the later parts of the main questline. Definitely worth it.
 
 ### New Style - LF
 
 - **Location:** Luciola Forest
-- **Unlocked by:** game open
+- **Unlocked by:** available at game open
 - **Type:** Collection
 - **Requirements:** Collect 5 Feathers and 10 Fur
 - **Rewards:** Wardrobe: Classic Shorts
@@ -640,11 +642,11 @@ see **Luciola Lanterns**
 ### North: Homeward Bound - FB
 
 - **Location:** Forward Base
-- **Forest Expedition Route:** after MT MQ4 / Aid To An Elder • MT New Adventurous Horizons •  BC Hard Day's Walk • FB Feeding the Lighthouse • IN ANY ORDER [FB Javelin Toss West • **North: Homeward Bound** • FB Stone's Throw East]
+- **Forest Expedition Route:** (open via MT MQ4 / Aid To An Elder) • MT New Adventurous Horizons •  BC Hard Day's Walk • FB Feeding the Lighthouse • IN ANY ORDER [FB Javelin Toss West • **North: Homeward Bound** • FB Stone's Throw East]
 - **Type:** Collection
 - **Requirements:** Deliver 15 Ardi Lamps
 - **Rewards:** Unlock Guardian's Lair area
-- **Recommendations:** If you seek the Shrine of Ages, make sure you stop by here. Also if you want to find Night Dandeleons and their pretty crowns.
+- **Recommendations:** If you want to find Night Dandeleons and their pretty crowns, make sure you stop by here. Plus, completionists need this.
 
 ### Nothing But Trouble - SC
 
@@ -667,7 +669,7 @@ see **Luciola Lanterns**
 ### One of Us - LF
 
 - **Location:** Luciola Forest
-- **Unlocked by:** game open
+- **Unlocked by:** available at game open
 - **Type:** Forum
 - **Requirements:** Create 1 new thread in the Forum
 - **Rewards:** 4 Core Crystals
@@ -676,7 +678,7 @@ see **Luciola Lanterns**
 ### A Past Not Forgotten - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** game open • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • **A Past Not Forgotten** • next step: HuntS1 The Curator of Elder Library • multiple quests (sequence still unlocking)
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • **A Past Not Forgotten** • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
 - **Type:** Collection
 - **Requirements:** Possess one Hunt Map Piece 3
 - **Rewards:** Wardrobe: Pauldrons https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;armor&#95;pauldrons.png
@@ -694,7 +696,7 @@ see **Luciola Lanterns**
 ### Proving Your Cunning 4/4 - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** after Hunt Trail HuntS1 Joining the Hunt • HuntS1 Proving Your Worth 1/4 • HuntS1 Proving your Curiosity 2/4 • HuntS1 Proving Your Perserverance 3/4 • **Proving Your Cunning 4/4** • next step: HuntS1 Proving Your Mettle 5/6 • one more quests
+- **Quest Path Route:** (open via Hunt Trail HuntS1 Joining the Hunt) • HuntS1 Proving Your Worth 1/4 • HuntS1 Proving your Curiosity 2/4 • HuntS1 Proving Your Perserverance 3/4 • **Proving Your Cunning 4/4** • HuntS1 Proving Your Mettle 5/6 • HuntS1 Proving Your Strength 6/6
 - **Type:** Battle
 - **Requirements:** Defeat 4 Sapira, 2 Sapilo, and 3 Sapiti
 - **Rewards:** 10 Hunter Tokens
@@ -703,7 +705,7 @@ see **Luciola Lanterns**
 ### Proving Your Curiosity 2/4 - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** after Hunt Trail HuntS1 Joining the Hunt • HuntS1 Proving Your Worth 1/4 • **Proving your Curiosity 2/4** • next step: HuntS1 Proving Your Perserverance 3/4 • three more quests
+- **Quest Path Route:**  (open via Hunt Trail HuntS1 Joining the Hunt) • HuntS1 Proving Your Worth 1/4 • **Proving your Curiosity 2/4** • HuntS1 Proving Your Perserverance 3/4 • HuntS1 Proving Your Cunning 4/4 • HuntS1 Proving Your Mettle 5/6 • HuntS1 Proving Your Strength 6/6
 - **Type:** Battle
 - **Requirements:** Defeat 6 Nitana
 - **Rewards:** 10 Hunter Tokens
@@ -712,7 +714,7 @@ see **Luciola Lanterns**
 ### Proving Your Mettle 5/6 - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** after Hunt Trail HuntS1 Joining the Hunt • HuntS1 Proving Your Worth 1/4 • HuntS1 Proving your Curiosity 2/4 • HuntS1 Proving Your Perserverance 3/4 • HuntS1 Proving Your Cunning 4/4 • **Proving Your Mettle 5/6** • next step: HuntS1 Proving Your Strength 6/6
+- **Quest Path Route:** (open via Hunt Trail HuntS1 Joining the Hunt) • HuntS1 Proving Your Worth 1/4 • HuntS1 Proving your Curiosity 2/4 • HuntS1 Proving Your Perserverance 3/4 • HuntS1 Proving Your Cunning 4/4 • **Proving Your Mettle 5/6** • HuntS1 Proving Your Strength 6/6
 - **Type:** Battle
 - **Requirements:** Defeat 1 each Lorsa, Illi, Kuay, Tambo
 - **Rewards:** 15 Hunter Tokens
@@ -721,7 +723,7 @@ see **Luciola Lanterns**
 ### Proving Your Perseverance 3/4 - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** after Hunt Trail HuntS1 Joining the Hunt • HuntS1 Proving Your Worth 1/4 • HuntS1 Proving your Curiosity 2/4 • **Proving Your Perserverance 3/4** • next step: HuntS1 Proving Your Cunning 4/4 • two more quests
+- **Quest Path Route:** (open via Hunt Trail HuntS1 Joining the Hunt) • HuntS1 Proving Your Worth 1/4 • HuntS1 Proving your Curiosity 2/4 • **Proving Your Perserverance 3/4** • HuntS1 Proving Your Cunning 4/4 • HuntS1 Proving Your Mettle 5/6 • HuntS1 Proving Your Strength 6/6
 - **Type:** Battle
 - **Requirements:** Defeat:
   - 1 Buholi
@@ -736,7 +738,7 @@ see **Luciola Lanterns**
 ### Proving Your Strength 6/6 - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** after Hunt Trail HuntS1 Joining the Hunt • HuntS1 Proving Your Worth 1/4 • HuntS1 Proving your Curiosity 2/4 • HuntS1 Proving Your Perserverance 3/4 • HuntS1 Proving Your Cunning 4/4 • HuntS1 Proving Your Mettle 5/6 • **Proving Your Strength 6/6**
+- **Quest Path Route:** (open via Hunt Trail HuntS1 Joining the Hunt) • HuntS1 Proving Your Worth 1/4 • HuntS1 Proving your Curiosity 2/4 • HuntS1 Proving Your Perserverance 3/4 • HuntS1 Proving Your Cunning 4/4 • HuntS1 Proving Your Mettle 5/6 • **Proving Your Strength 6/6**
 - **Type:** Battle
 - **Requirements:** Defeat 6 Tylu
 - **Rewards:** Wardrobe: Small Axe https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;678-small-axe-4213-56837.png
@@ -745,7 +747,7 @@ see **Luciola Lanterns**
 ### Proving Your Worth 1/4 - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** after Hunt Trail HuntS1 Joining the Hunt • **Proving Your Worth 1/4** • next step: HuntS1 Proving your Curiosity • four more quests
+- **Quest Path Route:** (open via Hunt Trail HuntS1 Joining the Hunt) • **Proving Your Worth 1/4** • HuntS1 Proving your Curiosity 2/4 • HuntS1 Proving Your Perserverance 3/4 • HuntS1 Proving Your Cunning 4/4 • HuntS1 Proving Your Mettle 5/6 • HuntS1 Proving Your Strength 6/6
 - **Type:** Battle
 - **Requirements:** Defeat:
   - 3 Reenu
@@ -758,7 +760,7 @@ see **Luciola Lanterns**
 ### Safety Hats - LF
 
 - **Location:** Luciola Forest
-- **Unlocked by:** game open
+- **Unlocked by:** available at game open
 - **Type:** Collection
 - **Requirements:** Collect 20 Feathers
 - **Rewards:** 1 Leaf Helmet
@@ -776,7 +778,7 @@ see **Luciola Lanterns**
 ### Save the Children
 
 - **Location:** Luciola Forest
-- **Unlocked by:** game open
+- **Unlocked by:** available at game open
 - **Type:** Collection
 - **Requirements:** Collect 10 Essence and 10 Spider Poison
 - **Rewards:** 2 Wooden Keys
@@ -866,7 +868,7 @@ see **Luciola Lanterns**
 ### Stone's Throw East - FB
 
 - **Location:** Forward Base
-- **Forest Expedition Trail Route:** after MT MQ4 / Aid To An Elder • MT New Adventurous Horizons •  BC Hard Day's Walk • FB Feeding the Lighthouse • IN ANY ORDER [FB Javelin Toss West • FB North: Homeward Bound • **Stone's Throw East**]
+- **Forest Expedition Trail Route:** (open via MT MQ4 / Aid To An Elder) • MT New Adventurous Horizons •  BC Hard Day's Walk • FB Feeding the Lighthouse • IN ANY ORDER [FB Javelin Toss West • FB North: Homeward Bound • **Stone's Throw East**]
 - **Type:** Collection
 - **Requirements:** Deliver 10 Ardi Lamps
 - **Rewards:** Unlock Stone City area
@@ -893,7 +895,7 @@ see **Luciola Lanterns**
 ### Style is Eternal
 
 - **Location:** Luciola Forest
-- **Quest Path Route:** game open • LF Make It Work • **Style Is Eternal**
+- **Quest Path Route:** available at game open • LF Make It Work • **Style Is Eternal**
 - **Type:** Collection
 - **Requirements:** Collect 10 Feathers, 15 Reenu Wings, 5 Lorsa Fur
 - **Rewards:** 3 Wooden Keys
@@ -915,7 +917,7 @@ Note: NOT POSSIBLE till partway through the Floating City of Balance
 Monsters and Resources listed here will not be linked with this quest outside the Water Resources and All Resources sections. If you want to know sources for these requirements, see the Water Resources or All Resources.
 
 - **Location:** Mama Tree
-- **Quest Path Route:** after MT MQ 4/ Aid To An Elder • MT Tinkering With Leafsung (1/5) • MT Inking By Number (2/5) • MT Inking of Dust (3/5) • **Thinking of Ink (4/5)** • next step: MT The Invisible Ink (5/5)
+- **Quest Path Route:** (open via MT MQ 4/ Aid To An Elder) • MT Tinkering With Leafsung (1/5) • MT Inking By Number (2/5) • MT Inking of Dust (3/5) • **Thinking of Ink (4/5)** • MT The Invisible Ink (5/5)
 - **Type:** Collection
 - **Requirements:** 10 Vezi Shells, 15 Nuig String, 100 River Grass, 10 Dí Bags, and 5 Xyplos Ink 
 - **Rewards:** 3 Leafsung Keys, unlock The Invisible Ink (5/5)
@@ -933,7 +935,7 @@ Monsters and Resources listed here will not be linked with this quest outside th
 ### Tinkering With Leafsung (1/5) - MT
 
 - **Location:** Mama Tree
-- **Quest Path Route:** after MT MQ 4/ Aid To An Elder • **Tinkering With Leafsung (1/5)** • next step: MT Inking By Number (2/5) • three more quests
+- **Quest Path Route:** (open via MT MQ 4/ Aid To An Elder)  • **Tinkering With Leafsung (1/5)** • MT Inking By Number (2/5) • MT Inking of Dust (3/5) • MT Thinking of Ink (4/5) • MT The Invisible Ink (5/5)
 - **Type:** Battle
 - **Requirements:** Defeat 5 Aracni, 5 Wignow, 5 Lorsa, 5 Mawt, and 5 Buhini
 - **Rewards:** 1 Wooden Chest, unlock Inking By Number (2/5) (this is a 5-quest series which is actually not possible to complete until all Oge-Mai regions have been unlocked and most of the main quests completed)
@@ -986,10 +988,10 @@ Monsters and Resources listed here will not be linked with this quest outside th
 
 ### Warm Creature Highlights (1/3) - MT
 
-Note: NOT POSSIBLE till Oge-Mai Desert fully unlocked
+Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 
 - **Location:** Mama Tree
-- **Quest Path Route:** after LF MQ 4 • **Warm Creature Highlights 1/3** • next step: MT Cool Creature Highlights 2/3 • one more quest
+- **Quest Path Route:** (open via LF MQ 4) • **Warm Creature Highlights 1/3** • MT Cool Creature Highlights 2/3 • MT Creature Colors & Highlights 3/3
 - **Type:** Battle, Collection
 - **Requirements:** 
   - Deliver:

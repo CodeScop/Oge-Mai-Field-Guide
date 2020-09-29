@@ -1,4 +1,4 @@
-LAST UPDATED 29 AUG 2020
+LAST UPDATED 28 SEPT 2020
 
 If you haven't yet, check out my Hunt Intro a couple chapters ago to get a grounding in the Hunt for the Ancients. The "seasons" are important only in that they're released a month at a time, grouped by seasons; once released, the quests can be worked through at any pace you prefer.
 
@@ -157,7 +157,15 @@ THIS INCLUDES INFO AND SPOILERS FOR THE FOREST EXPEDITION
 
 ## Deeper Into The Hunt
 
-There is a running trend through this Season of Hope: we battle the new library assistant monster for one quest, and the Hunt Map Piece we get from that contributes to a deeper Hunt storyline. **The library assistant monster quests** start with A Clue To The Past and **can** be completed independently; **the deeper Hunt progress quests**, starting with The Hunt Begins, **depend on the library assistant monster quests** to reach completion.
+There is a running trend through this Season of Hope: we battle the new library assistant monster for one quest, and the Hunt Map Piece we get from that contributes to a deeper Hunt storyline. **The library assistant monster quests** start with A Clue To The Past and **can** be completed independently; **the deeper Hunt progress quests**, starting with The Hunt Begins, **depend on the library assistant monster quests** to reach completion. (And thrown in there is a Velts stealth quest chain.)
+
+### A Battle of Wills
+
+- **Unlocked by:** The Hunt Begins
+- **Type:** Battle
+- **Requirements:** Defeat 1 Velts
+- **Rewards:** 10 Hunter Tokens
+- **Recommendations:** Velts is meant to be on the challenging side, and this launches her series of challenges roaming all around Oge-Mai. I highly recommend this series, because it's basically fighting Velts once in a bunch of places and getting a lot of bragging rights and some nice swag at the end.
 
 ### Elder Library Assistants
 
@@ -181,15 +189,7 @@ There is a running trend through this Season of Hope: we battle the new library 
 - **Type:** Battle
 - **Requirements:** Defeat 1 each: Burocat, Sassi, Clawadin, Alnu
 - **Rewards:** 25 Hunter Tokens
-- **Recommendations:** Look, if you don't just want to battle fierce kitties till the cows come home, I don't understand you. But if that marvelous option doesn't appeal to you, then there's not much need to focus on this quest.
-
-### A Battle of Wills
-
-- **Unlocked by:** The Hunt Begins
-- **Type:** Battle
-- **Requirements:** Defeat 1 Velts
-- **Rewards:** 10 Hunter Tokens
-- **Recommendations:** 800 words in 40 minutes can be a little challenging, but I think it's totally worth it (and one of the shorter quests in the game, when you think about it). Velts shows up in Mama Tree for those who have unlocked her quest.
+- **Recommendations:** Look, if you don't just want to battle fierce kitties till the cows come home, I don't understand you. But if that marvelous option doesn't appeal to you, then there's not much need to focus on this quest. Unlike the other assistant quests, this does not advance the game.
 
 ### Deeper Forest Hunting
 
@@ -213,7 +213,7 @@ There is a running trend through this Season of Hope: we battle the new library 
 - **Type:** Battle
 - **Requirements:** Defeat 4x the Curator of Elder Library
 - **Rewards:** Wardrobe: Sassi Pet https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;sassi&#95;pet.png
-- **Recommendations:** HOW. HOW CAN YOU NOT. KITTY! (... with no other rewards evident at present. But. KITTY!)
+- **Recommendations:** HOW. HOW CAN YOU NOT. KITTY! (... and, y'know, unlocking subsequent Seasons of the Hunt. But. KITTY!)
 
 ## Hunt-Specific Season 1 Monsters
 

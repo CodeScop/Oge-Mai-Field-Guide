@@ -1,4 +1,4 @@
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 28 SEPT 2020
 
 # BASE CAMP SIDEQUESTS
 
@@ -66,7 +66,7 @@ LAST UPDATED 24 AUG 2020
 - **Type:** Collection
 - **Requirements:** Deliver 15 Ardi Lamps
 - **Rewards:** Unlock Guardian's Lair area
-- **Recommendations:** If you seek the Shrine of Ages, make sure you stop by here. Also if you want to find Night Dandeleons and their pretty crowns.
+- **Recommendations:** If you want to find Night Dandeleons and their pretty crowns, make sure you stop by here. Plus, completionists need this.
 
 ### ** Stone's Throw East
 
@@ -208,7 +208,7 @@ LAST UPDATED 24 AUG 2020
 - **Type:** Battle
 - **Requirements:** Defeat 10 Buholi
 - **Rewards:** 4 Stempos
-- **Recommendations:** Notice that the requirements don't mention that you'll need to fight 2-3 Nezthai for every Buholi you want to beat. 
+- **Recommendations:** Notice that the requirements don't mention that you'll need to beat 2-3 Nezthai for every Buholi you want to fight. Pace yourself.
 
 # GUARDIAN'S LAIR SIDEQUESTS
 
