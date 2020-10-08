@@ -1,4 +1,4 @@
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 8 OCT 2020
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
@@ -320,7 +320,7 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
 
 (AFTER COMPLETING THE GANSU WATERING HOLE MAIN QUESTS)
 
-- **Gansu Diggy Diggy Hole (as above)**
+- **Gansu Digging Into Desert Sands (as above)**
   - (Dig Site)
   - DigS A Desert Exploration - defeat 5 Kapir, get Wardrobe: Tiny Boots
   - DigS From Beneath Me - maintain a streak 3 days, deliver 15 Rope, and get 1 Stone Key
@@ -389,7 +389,6 @@ NOTE: **ALL HUNT QUESTS are unlocked by the Luciola Hunt quest Joining the Hunt*
 - HuntS1 A Clue to the Past - defeat 3 Sassi & get 5 Hunter Tokens & Hunt Map Piece
   - HuntS1 Elder Library Assistants - defeat 4 Alnu, get Hunt Map Piece 2 and 5 Hunter Tokens
     - HuntS1 Elder Library's Security - defeat 4 Clawadin, get Hunt Map Piece 3 and 5 Hunter Tokens
-      - HuntS1 Curator's Family - defeat 1 each Burocat, Sassi, Clawadin, and Alnu, get 25 Hunter Tokens
 - HuntS1 Spreading Hope - post 3 messages in the forum for 10 Hunter Tokens
 - HuntS1 A Season for Hope - write 2020 words for 5 Hunter Tokens
 - HuntS1 Protecting the Past - deliver 10 Rusty Amulets and 10 Rusty Pendants for 10 Hunter Tokens
@@ -401,6 +400,7 @@ NOTE: **ALL HUNT QUESTS are unlocked by the Luciola Hunt quest Joining the Hunt*
     - HuntS2 A Battle of Merit - defeat 1 Desert version of Velts, get 25 Hunter Tokens
   - HuntS1 Deeper Forest Hunting - finish Elder Library Assistants, get 7-day streak, write 10K words for Wardrobe Full Body Scars
     - HuntS1 A Past Not Forgotten - finish Elder Library's Security, get Wardrobe Pauldrons
+      - HuntS1 Curator's Family - defeat 1 each Burocat, Sassi, Clawadin, and Alnu, get 25 Hunter Tokens
       - HuntS1 The Curator of Elder Library - defeat Curator 4 times, get Wardrobe Sassi Pet
         - **UNLOCK SEASON 2** - see below
 - HuntS1 Proving Your Worth 1/4 - defeat a bunch of Luciola monsters for 10 Hunter Tokens
@@ -437,8 +437,7 @@ Season 2 is unlocked by completing The Curator of Elder Library quest, and you c
       - HuntS2 Stumbling Upon Sheep - defeat the Shepherd 4 times, get Wardrobe: Dog Mentor Pet
         - **UNLOCK SEASON 3**
       - HuntS2 Herding the Herders - Defeat 1 each Lubu, Czanus, Pipit; get 25 Hunter Tokens
-
-
+      - HuntS2 Valley Of The Sheep - defeat 1 each Attleas, Shashi, Imali; get 25 Hunter Tokens
 
 ##Questline - Hunt for the Ancients - Season 3
 

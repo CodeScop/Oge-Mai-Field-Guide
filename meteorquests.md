@@ -1,4 +1,4 @@
-LAST UPDATED 16 SEPT 2020
+LAST UPDATED 2 OCT 2020
 
 # IMPACT CRATER QUESTS
 
@@ -98,7 +98,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 NOTE: This exact quest was offered during the Alien Meteoroid event in November 2019 and the Alien Meteoroid Expedition in July 2020; if you completed it either time, it will not be available now.
 
 - **Location:** Impact Crater
-- **Unlocked by:** Opening Phase
+- **Unlocked by:** Opening Impact Crater
 - **Type:** Wordcount
 - **Requirements:** Write 10K words
 - **Rewards:** Wardrobe: Space Bodysuit Purple https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;space&#95;bodysuit&#95;purple.png
@@ -347,7 +347,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
 
 - **Location:** Research Lab
-- **Unlocked by:** Phase: Large Experiment
+- **Unlocked by:** Opening Research Lab
 - **Type:** Battle
 - **Requirements:** Defeat 10 each:
   - Wignow Hologram/V0.44
@@ -370,7 +370,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
 
 - **Location:** Research Lab
-- **Unlocked by:** Phase: Preparing For Large Experiment
+- **Unlocked by:** Opening Research Lab
 - **Type:** Battle
 - **Requirements:** Defeat 3 each:
   - Sulanica

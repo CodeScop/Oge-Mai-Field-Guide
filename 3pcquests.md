@@ -42,7 +42,7 @@
 
 ## Three Points Crossing Sidequests
 
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 29 SEPT 2020
 
 ### Explore the City
 
@@ -66,7 +66,7 @@ LAST UPDATED 24 AUG 2020
 - **Type:** Collection
 - **Requirements:** Deliver 50 Dust, 12 Reenu Wings, 35 Raw Fabric, 3 Rope, and 1 Steel Bar
 - **Rewards:** Wardrobe: Caravan Sandals https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;sandals.png
-- **Recommendations:** I love me my Caravan Sandals. I think they are the cutest wardrobe items available so far in the game. If they're not all that from your perspective, this is definitely skippable (for now - if you ever want to comprehensively complete the game, your avatar will need these sandals). Bear in mind that you'll be wanting half a dozen Reenu Wings for other things later on, so you might want to go back and restock if this breaks the bank.
+- **Recommendations:** I love me my Caravan Sandals. I think they are among the cutest wardrobe items available so far in the game. If they're not all that from your perspective, this is definitely skippable. Bear in mind that you'll be wanting half a dozen Reenu Wings for other things later on, so you might want to go back and restock if this breaks the bank.
 
 ### Sands of Time
 
@@ -158,7 +158,7 @@ NOTE: This quest isn't possible to complete until you reach Riza Rivertown. Give
 - **Type:** Collection
 - **Requirements:** Collect 25 Steel Bars
 - **Rewards:** 1 Wooden Chest, 1 Wooden Key, and 1 vial Leafsung Ink
-- **Recommendations:** It's nice to get a matched Chest/Key set, and Leafsung Ink is always amazing, but bear in mind that the game requires literally hundreds of Steel Bars eventually. And 3PC is by far the easiest place to get them, so it won't get easier to grind them. So it depends on whether your reaction to that is "eh, what's another 25?" or "NOT A SINGLE ONE MORE THAN NECESSARY". 
+- **Recommendations:** It's nice to get a matched Chest/Key set, and Leafsung Ink is always amazing, but bear in mind that the game requires literally hundreds of Steel Bars eventually. And 3PC is probably the easiest place to get them, so it won't get easier to grind them. So it depends on whether your reaction to that is "eh, what's another 25?" or "NOT A SINGLE ONE MORE THAN NECESSARY". 
 
 ## Luciola Forest Sidequests Unlocked By 3PC
 

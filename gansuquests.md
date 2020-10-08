@@ -1,4 +1,4 @@
-LAST UPDATED 31 MARCH 2019
+LAST UPDATED 29 SEPT 2020
 
 ## Gansu Watering Hole Main Quests
 
@@ -65,11 +65,11 @@ LAST UPDATED 31 MARCH 2019
 - **Requirements:** Defeat the Dust Witch (1 Stempo and 1200 words in 400 minutes)
 - **Rewards:** Open Riza Rivertown, Stone of Air
 - **Recommendations:** DO NOT DELIVER THIS QUEST… until you've fought the Dust Witch as many times as you can.
-  Because the Dust Witch will only stick around as long as this quest is in play. And 1200 words in 400 minutes (three words per minute! c'mon!) will give you *three* Stempos in return for the one you paid, on top of a Golden Chest AND a Stone Chest. (Apart from this, there are only 14 Stone Chests in the entire game. This is the ONLY PLACE you can get an indefinite number.) Sure, you won't be able to open them until you get the Stone Keys one slow week at a time (although there are more Stone Key quests ahead), but it's worth the investment. Plus, those Protective Mantles you can sell for cash at the time being.
+  Because the Dust Witch will only stick around as long as this quest is in play. And 1200 words in 400 minutes (three words per minute! c'mon!) will give you *three* Stempos in return for the one you paid, on top of a Golden Chest AND a Stone Chest. (Stone Chests get incredibly rare incredibly soon. Don't waste the opportunity.) Sure, you won't be able to open them until you get the Stone Keys one slow week at a time (although there are more Stone Key quests ahead), but it's worth the investment. Plus, those Protective Mantles you can sell for cash at the time being.
 
 ## Gansu Watering Hole Sidequests
 
-LAST UPDATED 26 MAR 2020
+LAST UPDATED 29 SEPT 2020
 
 If there's an asterisk, it unlocked in the process of going through this region.
 
@@ -143,7 +143,7 @@ If there's an asterisk, it unlocked in the process of going through this region.
 - **Type:** Collection
 - **Requirements:** Collect 10 White Fur
 - **Rewards:** 3 Stempos
-- **Recommendations:** Same as with Sacred Feathers, if you're seeing this when you first get to Gansu and wondering how you do it, Step 1 is "get to the third Main Quest in Gansu". That's what makes Suulan available. They're very reliable about dropping White Fur, so you'll need a fairly predictable 5 Steel Daggers and 10,000 words to beat this quest, but I'd save it till after you're done with the rest of Gansu and its various White Fur needs. (Also, be aware that coming back to this after you reach the Dust Region will give you more options, although they're neither better nor worse.)
+- **Recommendations:** Same as with Sacred Feathers, if you're seeing this when you first get to Gansu and wondering how you do it, Step 1 is "get to the third Main Quest in Gansu". That's what makes Suulan available. They're very reliable about dropping White Fur, so you'll need a fairly predictable 5-10 Steel Daggers and 10,000 words to beat this quest, but I'd save it till after you're done with the rest of Gansu and its various White Fur needs. (Also, be aware that coming back to this after you reach the Dust Region will give you more options for White Fur sources.)
 
 ### ** Digging Into Desert Sands
 

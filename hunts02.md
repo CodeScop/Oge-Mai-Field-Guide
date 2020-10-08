@@ -1,4 +1,4 @@
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 8 OCT 2020
 
 We left off Season 1 (and you **must** complete The Curator of Elder Library to unlock Season 2, and the Season 1 quest list will help with that) back in the Forest. Now, in the Desert, we're on to Season 2: The Season of Wandering, watched over by the Shepherd.
 
@@ -69,6 +69,14 @@ Unlocking various stages of the Hunt is still progressing with pairs of quests a
 - **Requirements:** Defeat 1 each: Lubu, Czanus, Pipit
 - **Rewards:** 25 Hunter Tokens
 - **Recommendations:** This isn't actually in the main line itself, but it unlocks at the same time as the last main line quest. 
+
+### Valley Of The Sheep
+
+- **Unlocked by:** HuntS2 Quest: No Wrong Path
+- **Type:** Battle
+- **Requirements:** Defeat 1 each: Attleas, Shashi, Imali
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** This is possibly the easiest way to get Hunter Tokens by battling creatures. And the sheep are so cute. Totally worth it.
 
 ## Season 2 Quests - Strengthening Sideline
 
@@ -366,4 +374,5 @@ Season 2 is unlocked by completing The Curator of Elder Library quest, and you c
     - HuntS2 No Wrong Path - collect Hunt Map Piece 6, get Wardrobe: Hunt Facepaint Eye Shadow
       - HuntS2 Stumbling Upon Sheep - defeat the Shepherd 4 times, get Wardrobe: Dog Mentor Pet
       - HuntS2 Herding the Herders - Defeat 1 each Lubu, Czanus, Pipit; get 25 Hunter Tokens
+      - HuntS2 Valley Of The Sheep - defeat 1 each Attleas, Shashi, Imali; get 25 Hunter Tokens
 

@@ -1,4 +1,4 @@
-LAST UPDATED 28 SEPT 2020
+LAST UPDATED 8 OCT 2020
 
 If you haven't yet, check out my Hunt Intro a couple chapters ago to get a grounding in the Hunt for the Ancients. The "seasons" are important only in that they're released a month at a time, grouped by seasons; once released, the quests can be worked through at any pace you prefer.
 
@@ -337,7 +337,6 @@ NOTE: **ALL HUNT QUESTS are unlocked by the quest Joining the Hunt** (write 3K w
 - HuntS1 A Clue to the Past - defeat 3 Sassi & get 5 Hunter Tokens & Hunt Map Piece
   - HuntS1 Elder Library Assistants - defeat 4 Alnu, get Hunt Map Piece 2 and 5 Hunter Tokens
     - HuntS1 Elder Library's Security - defeat 4 Clawadin, get Hunt Map Piece 3 and 5 Hunter Tokens
-      - HuntS1 Curator's Family - defeat 1 each Burocat, Sassi, Clawadin, and Alnu, get 25 Hunter Tokens
 - HuntS1 Spreading Hope - post 3 messages in the forum for 10 Hunter Tokens
 - HuntS1 A Season for Hope - write 2020 words for 5 Hunter Tokens
 - HuntS1 Protecting the Past - deliver 10 Rusty Amulets and 10 Rusty Pendants for 10 Hunter Tokens
@@ -354,5 +353,6 @@ NOTE: **ALL HUNT QUESTS are unlocked by the quest Joining the Hunt** (write 3K w
   - HuntS1 A Battle of Wills - defeat 1 Velts for 10 Hunter Tokens
   - HuntS1 Deeper Forest Hunting - finish Elder Library Assistants, get 7-day streak, write 10K words for Wardrobe Full Body Scars
     - HuntS1 A Past Not Forgotten - finish Elder Library's Security, get Wardrobe Pauldrons
+      - HuntS1 Curator's Family - defeat 1 each Burocat, Sassi, Clawadin, and Alnu, get 25 Hunter Tokens
       - HuntS1 The Curator of Elder Library - defeat Curator 4 times, get Wardrobe Sassi Pet
         - **UNLOCK SEASON 2**

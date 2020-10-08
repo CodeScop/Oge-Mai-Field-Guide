@@ -1,4 +1,4 @@
-LAST UPDATED 28 SEPT 2020
+LAST UPDATED 8 OCT 2020
 
 Okay! So, I'm going to try to consolidate ALL THE QUESTS in this region. Everything that isn't a Main Quest will be listed in alphabetical order after the Main Quests. The Main Quests will be in order, since it's a clearly defined road; and that "road" metaphor will extend in multiple directions. Hence, the new "Route" line of info to tell you how to find it/where you picked it up.
 
@@ -184,7 +184,7 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 ### A Clue to the Past - Hunt S1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** (open via Hunt Trail: HuntS1 Joining the Hunt) • **A Clue to the Past** • HuntS1 Elder Library Assistants • HuntS1 Elder Library Security • HuntS1 Curator's Family
+- **Quest Path Route:** (open via Hunt Trail: HuntS1 Joining the Hunt) • **A Clue to the Past** • HuntS1 Elder Library Assistants • HuntS1 Elder Library Security
 - **Type:** Battle
 - **Requirements:** Defeat 3 Sassi
 - **Rewards:** 5 Hunter Tokens & 1 Hunt Map Piece
@@ -253,7 +253,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ### Curator's Family - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** (open via Hunt Trail: Hunt S1 Joining the Hunt) • HuntS1 A Clue to the Past • HuntS1 Elder Library Assistants • HuntS1 Elder Library's Security •  **Curator's Family**
+- **Unlocked by:** Hunt Trail: HuntS1 A Past Not Forgotten
 - **Type:** Battle
 - **Requirements:** Defeat 1 each: Burocat, Sassi, Clawadin, Alnu
 - **Rewards:** 25 Hunter Tokens
@@ -316,7 +316,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ### Elder Library Assistants - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** (open via Hunt Trail: HuntS1 Joining the Hunt) • HuntS1 A Clue to the Past • **Elder Library Assistants** • next step: HuntS1 Elder Library's Security • HuntS1 Curator's Family
+- **Quest Path Route:** (open via Hunt Trail: HuntS1 Joining the Hunt) • HuntS1 A Clue to the Past • **Elder Library Assistants** • next step: HuntS1 Elder Library's Security
 - **Type:** Battle
 - **Requirements:** Defeat 4 Alnu
 - **Rewards:** Hunt Map Piece 2, 5 Hunter Tokens
@@ -325,7 +325,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ### Elder Library's Security - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** (open via Hunt Trail: Hunt S1 Joining the Hunt) • HuntS1 A Clue to the Past • HuntS1 Elder Library Assistants • **Elder Library's Security** •  HuntS1 Curator's Family
+- **Quest Path Route:** (open via Hunt Trail: Hunt S1 Joining the Hunt) • HuntS1 A Clue to the Past • HuntS1 Elder Library Assistants • **Elder Library's Security**
 - **Type:** Battle
 - **Requirements:** Defeat 4 Clawadin
 - **Rewards:** 5 Hunter Tokens, 1 Hunt Map Piece 3
