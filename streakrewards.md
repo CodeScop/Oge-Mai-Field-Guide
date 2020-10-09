@@ -1,4 +1,4 @@
-LAST UPDATED 21 JUL 2020
+LAST UPDATED 8 OCT 2020
 
 Streak rewards! The nice perks gained by maintaining your streak. **Feel free to skip straight down to the list that's all you care about, but note there's a reason I also list Wings separately at the end.**
 
@@ -8,7 +8,7 @@ It's also hard to manipulate. You can't just up and redo a Day 55 Streak Reward.
 
 **I am not going to include Streak Rewards as sources of resources.** It's too finicky a way to farm, and too hard to keep reliable info. If you have any updates or corrections to offer, please let me know here: https://4thewords.com/forum/thread-streak-rewards-help
 
-Also, 24 November 2019 saw a much-needed overhaul of the rewards which apparently hadn't changed substantially in two years. I'm currently including the outdated ones for the curious, and because I feel more confident saying "It used to be this" than "It will be this way when you find it", and because in a couple cases it's still all I know.
+Also, 24 November 2019 saw a much-needed overhaul of the rewards which apparently hadn't changed substantially in two years. I'm currently including the outdated ones for the curious.
 
 ###Streak Rewards Listed In Calendar:
 
@@ -236,9 +236,9 @@ Day 900: 10 Core Crystals
 
 Day 910: Archangel Color Wings
 
-Day 923: 10 Keep Writing Reactions
+Day 925: 10 Keep Writing Reactions
 
-Day 928: 5 Stempos
+Day 930: 5 Stempos
 
 Day 940: 25 Rope
 

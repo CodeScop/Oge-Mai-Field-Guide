@@ -220,9 +220,7 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
         - Gansu Dark Watering Materials (4/5) - get a bunch of DFO materials for 1 Golden Chest, 1 Leafsung Key, and 1 White Fur
           - Balance Dark Floating Materials (5/5) - get a bunch of DFO materials for 10 Dí Bags and 10 River Water
   - MT Bite My Boots! - deliver 10 Dark Forest Boots for 25 Leafsung Ink
-- **Purple Gate Main Quest 1/??? (to be discovered!)**
-
-
+- **Purple Gate Main Quest 1/??? (to be discovered!)** 
 
 ## Questline - Forest Expedition
 
@@ -435,7 +433,7 @@ Season 2 is unlocked by completing The Curator of Elder Library quest, and you c
   - HuntS2 Oh, Endless Possibilities! - collect Hunt Map Piece 5, get Wardrobe: Hunt Facepaint Star
     - HuntS2 No Wrong Path - collect Hunt Map Piece 6, get Wardrobe: Hunt Facepaint Eye Shadow
       - HuntS2 Stumbling Upon Sheep - defeat the Shepherd 4 times, get Wardrobe: Dog Mentor Pet
-        - **UNLOCK SEASON 3**
+        - **UNLOCK SEASON 3** - see below
       - HuntS2 Herding the Herders - Defeat 1 each Lubu, Czanus, Pipit; get 25 Hunter Tokens
       - HuntS2 Valley Of The Sheep - defeat 1 each Attleas, Shashi, Imali; get 25 Hunter Tokens
 
@@ -459,7 +457,7 @@ Season 3 is unlocked by completing Stumbling Upon Sheep quest, and you can see t
   - HuntS3 Bettering Ourselves - collect Hunt Map Piece 8 & get 5-day streak, get Wardrobe: Hunt Complex Brooch
     - HuntS3 Bigger & Brighter - collect Hunt Map Piece 9 & get 5-day streak, get Wardrobe: Hunt Facepaint Trident
       - HuntS3 A Bubble Dream - defeat the Caretaker, get Wardrobe: Cactus Sprite Pet
-        - **UNLOCK SEASON 4**
+        - **UNLOCK SEASON 4** - see below
 - HuntS3 Moving Flora - maintain 5-day streak, get Hunt Map Piece 7 and 10 Hunter Tokens
 - HuntS3 Flying Past Sparks - defeat 5 Nuig, get Hunt Map Piece 8 and 10 Hunter Tokens
 - HuntS3 Insight Grows - defeat 20 Puna, get 15 Hunter Tokens & Hunt Map Piece 9

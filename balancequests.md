@@ -1,4 +1,4 @@
- LAST UPDATED 16 OCT 2019
+ LAST UPDATED 8 OCT 2020
 
 ## Floating City of Balance Main Quests
 
@@ -8,7 +8,7 @@
 - **Type:** Collection
 - **Requirements:** Deliver 3 Dí Bags
 - **Rewards:** 1 Water Mask
-- **Recommendations:** I know the Dí Bags seem endless, but this is the last hurrah in the main quest line. Maybe play around in Riza sidequests for a while if this takes too long to grind. And once you finish the first few Balance quests, the range of monsters and sidequests available really opens up.
+- **Recommendations:** I know the Dí Bags seem endless, but this is the last hurrah in the main quest line. Maybe play around in Riza sidequests for a while if this takes too long to grind, or (better yet) explore Raina Expedition and its more-bountiful River Water sources. And once you finish the first few Balance quests, the range of monsters and sidequests available really opens up.
 
 ### Main Quest 2: Underwater Training
 
@@ -32,7 +32,7 @@
 - **Type:** Collection
 - **Requirements:** Deliver 12 Nuig String, 25 River Grass, 4 Vezi Shell, and 50 Dust
 - **Rewards:** 1 River Chest
-- **Recommendations:** If these requirements are difficult, you probably haven't done enough of the battle sidequests. Go ahead and revel in those a bit. Some involve a fair amount of traveling, but that's just a good reason to put them all together and do them at once. Anyway, there's only one Main Quest left after this, so you might as well pace yourself.
+- **Recommendations:** If these requirements are difficult, you probably haven't done enough of the battle sidequests. Go ahead and revel in those a bit. Some involve a fair amount of traveling, but that's just a good reason to put them all together and do them at once. Anyway, there's only one Main Quest left in Balance after this, so you might as well pace yourself.
 
 ### Main Quest 5: The Water Calls
 
@@ -44,7 +44,7 @@
 
 ## Floating City of Balance Sidequests
 
-LAST UPDATED 3 OCT 2019 
+LAST UPDATED 8 OCT 2020
 
 If there is an asterisk, it opens in the course of the game.
 
@@ -77,9 +77,8 @@ If there is an asterisk, it opens in the course of the game.
 - **Unlocked by:** Main Quest 2: Underwater Training
 - **Type:** Collection
 - **Requirements:** Deliver 15 Xyplos Ink, 25 Red Dye, and 20 Leafsung Ink
-- **Rewards:** Wardrobe: River Dye Hair
-- **Recommendations:** Sooooo pretty, the reward. Sooo infuriatingly expensive, the Leafsung Ink. UPDATE OCTOBER 2019: Hallelujah, Leafsung Ink just got easier to get. Go fight the River Goddess till she drops enough River Chests to drop all of it, or fight Arenica and Desert Rudakai until they drop enough Golden Chests and you've collected enough Leafsung Keys from biweekly quests, and yes, that's probably the easiest way; just look at my old advice pre-chest drops:
-  *Let's break this down, since you can only obtain Leafsung Ink by crafting it: that's 60 Claws, 60 Dust, 100 Essence, and 100 Spider Poison. Oh, and Spider Poison and Xyplos Ink are only available as drops, no shortcuts to purchase them. But the hair is so pretty… https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;siren&#95;hair&#95;blue.png (and if you replace that last "blue" in the url with "green", "purple", or "red", you'll see other available colors.) Look, go ahead and do Venomous Villains if you haven't already; you'll probably get 20 or so Spider Poison as a side benefit from the necessary battles right there. Elemental Power will get you another 5. And then… well, good luck. (If you go back to the Special Region: Raina Surface Camp, the Steel Boots quest requires a lot of Leafsung Ink, and I skim over good ways to farm ingredients in points Five through Eight. And if you catch a glimpse of point Five, this is the quest I'm talking about where Leafsung Ink has a better reward.)*
+- **Rewards:** Wardrobe: River Dye Hair https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;siren&#95;hair&#95;blue.png
+- **Recommendations:** Sooooo pretty, the reward. Sooo infuriatingly expensive, the Leafsung Ink. Go fight the River Goddess till she drops enough River Chests to drop all of it, or fight Arenica and Desert Rudakai until they drop enough Golden Chests and you've collected enough Leafsung Keys from biweekly quests, and yes, that's probably the easiest way; if you try to obtain Leafsung Ink by crafting it, that's 60 Claws, 60 Dust, 100 Essence, and 100 Spider Poison. Oh, and Spider Poison and Xyplos Ink are only available as drops, no shortcuts to purchase them. If you do want to do it that way, do the Venomous Villains quest; you'll probably get 20 or so Spider Poison as a side benefit from the necessary battles right there. Elemental Power will get you another 5. And then… well, good luck.
 
 ### ** Curious Traveler
 
@@ -135,7 +134,7 @@ If there is an asterisk, it opens in the course of the game.
 - **Type:** Battle
 - **Requirements:** Defeat 250 Puna
 - **Rewards:** Wardrobe: River Stone Necklace
-- **Recommendations:** After you're done with this, you'll never have to touch another Puna again. Isn't that a lovely thought? And you'll have the Necklace. Look! https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;crab&#95;necklace.png Isn't it gorgeous?
+- **Recommendations:** After you're done with this, you may never have to touch another Puna again. Isn't that a lovely thought? And you'll have the Necklace. Look! https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;crab&#95;necklace.png Isn't it gorgeous?
 
 ### ** It's Electric!
 

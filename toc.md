@@ -1,4 +1,4 @@
- (Table of Contents last updated 25 Sept 2020)
+ (Table of Contents last updated 8 Oct 2020)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -69,6 +69,7 @@
     - Weapon2
     - Accessory
 - Forest Region Bestiary
+- Forest Region Quests
 - Three Points Crossing Open
   - Three Points Crossing Intro
   - 3PC Open: Sidequests
@@ -191,6 +192,10 @@
   - Hunt for the Ancients Season 2 Questline Summary
 - Desert Region Resources
 - Desert Region Bestiary
+- Desert Region Quests
+  - Desert Main Quests, in Order of Unlocking
+  - Desert Side Quests, in Alphabetical Order: A-M
+  - Desert Side Quests, in Alphabetical Order: N-Z
 - Riza Rivertown Open
   - Riza Rivertown Intro
   - Riza Open: Sidequests
@@ -235,6 +240,10 @@
   - Hunt for the Ancients Season 3 Summary
 - Water Region Resources
 - Water Region Bestiary
+- Water Region Quests
+  - Water Main Quests, in Order of Unlocking
+  - Water Side Quests, in Alphabetical Order: A-M
+  - Water Side Quests, in Alphabetical Order: N-Z
 - Dark Forest Outpost Open
   - Dark Forest Outpost Intro
   - DFO Open: Sidequests
@@ -255,6 +264,10 @@
   - Hunt for the Ancients Season 4 Questline Summary
 - Dust Region Resources
 - Dust Region Bestiary
+- Dust Region Quests
+  - Dust Main Quests, in Order of Unlocking
+  - Dust Side Quests, in Alphabetical Order: A-M
+  - Dust Side Quests, in Alphabetical Order: N-Z
 - All Resources & Streak Rewards
   - First, what does "All" mean?
   - A-F
@@ -296,10 +309,10 @@
     - Raina Surface Camp
     - Floating City of Balance
     - Dark Forest Outpost
-- All Game Bestiary & All Quests
+- All Game Bestiary & Questline Summary
   - Bestiary A-L
   - Bestiary M-Z
-  - All Quests
+  - Questline Summary
     - Global Quests
     - Main Questline & Oge-Mai
     - Questline - Forest Expedition
@@ -309,6 +322,14 @@
     - Questline - Hunt for the Ancients - Season 1
     - Questline - Hunt for the Ancients - Season 2
     - Questline - Hunt for the Ancients - Season 3
+    - Questline - Hunt for the Ancients - Season 4
+- All Quests
+  - All Main Quests, in Order of Unlocking
+  - All Side Quests, in Alphabetical Order: 00-E
+  - All Side Quests, in Alphabetical Order: F-M
+  - All Side Quests, in Alphabetical Order: N-R
+  - All Side Quests, in Alphabetical Order: S
+  - All Side Quests, in Alphabetical Order: T-Z
 - Travel Directions
   - Word Map of 4TW
 - Special Events

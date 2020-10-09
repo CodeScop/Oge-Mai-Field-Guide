@@ -1,4 +1,4 @@
-LAST UPDATED 30 AUG 2020
+LAST UPDATED 8 OCT 2020
 
 #RAINA SURFACE CAMP SIDEQUESTS
 
@@ -59,7 +59,7 @@ NOTE: This exact quest was offered during the Raina Festival in April 2020; if y
 - **Type:** Battle, Collection
 - **Requirements:** Defeat 5 Vota, 5 Knusha, & Pay 10 Nets, and 10 Leaves
 - **Rewards:** 1 Dust Water, unlock Infected Raina 2
-- **Recommendations:** We mentioned that this is the region of convoluted sidequests, yes? Infected Raina 3 has some nice benefits. So for this, go ahead and fight your battles for Vota and Knusha, then go to the Forest to farm Vine Nets and Leaves as needed. (And I'd *strongly recommend* getting a jump on Infected Raina Part 2 before turning this in, for morale. That means 30 MORE Rope, 30 MORE Leaves, and 30 MORE Nets, plus all the Rope and River Grass to fight more Vota and Knusha, which means you'll probably need to farm 40 Vine Nets in Mama Tree, have 40 Leaves, then head over to the Desert and get 40 Steel and 40 Stone and craft your Nets). (And if you want to go all the way through to Part 4, that's up by 45 more for each of the above.) If you do the battles last, you might be able to pick up the next quest immediately and enjoy the benefits of overlap.
+- **Recommendations:** We mentioned that this is the region of convoluted sidequests, yes? Infected Raina 3 has some nice benefits. So for this, go ahead and fight your battles for Vota and Knusha, then go to the Forest to farm Vine Nets and Leaves as needed. Or pursue the Hunt Quests against Velts, the ones that start with "Battle of", to eventually unlock Dust Velts, who drops Nets. (And I'd *strongly recommend* getting a jump on Infected Raina Part 2 before turning this in, for morale. That means 30 MORE Rope, 30 MORE Leaves, and 30 MORE Nets, plus all the Rope and River Grass to fight more Vota and Knusha, which means you'll probably need to farm 40 Vine Nets in Mama Tree, have 40 Leaves, then head over to the Desert and get 40 Steel and 40 Stone and craft your Nets). (And if you want to go all the way through to Part 4, that's up by 45 more for each of the above.) If you do the battles last, you might be able to pick up the next quest immediately and enjoy the benefits of overlap.
 
 ### ** Infected Raina Part 2 **
 

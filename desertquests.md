@@ -184,7 +184,9 @@ NOTE: All Hunt quests are picked up in Luciola Forest, regardless of what Region
 - **Recommendations:** DO NOT DELIVER THIS QUEST… until you've fought the Dust Witch as many times as you can.
   Because the Dust Witch will only stick around as long as this quest is in play. And 1200 words in 400 minutes (three words per minute! c'mon!) will give you *three* Stempos in return for the one you paid, on top of a Golden Chest AND a Stone Chest. (Stone Chests get incredibly rare incredibly soon. Don't waste the opportunity.) Sure, you won't be able to open them until you get the Stone Keys one slow week at a time (although there are more Stone Key quests ahead), but it's worth the investment. Plus, those Protective Mantles you can sell for cash at the time being.
 
-# Side Quests, in Alphabetical Order
+# Side Quests, in Alphabetical Order: A-M
+
+LAST UPDATED 8 OCT 2020
 
 ### Aid the Aliens - SpaceS
 
@@ -401,8 +403,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ### Blossom with Flowers! (1/2) - FB
 
-Note: if you're trying to progress to the next quest after this, you'll need to unlock Guardian's Lair; info on how to do that is part of the Forest Expedition Trail.
-
 - **Location:** Forward Base
 - **Quest Path Route:** (open via Forest Expedition Trail: BC Hard Day's Walk) • FB **Blossom with Flowers! 1/2** • GL Bright Night Blossoms 2/2
 
@@ -436,10 +436,8 @@ Note: if you're trying to progress to the next quest after this, you'll need to 
 
 ### Bright Night Blossoms (2/2) - GL
 
-Note: technically, this appears as soon as you open Guardian's Lair whether you've completed the previous quest or not. But since you can't pick it up until the other one is completed, I'm counting this as a quest path.
-
 - **Location:** Guardian's Lair
-- **Quest Path Route:** (open via Forest Expedition Trail: BC Hard Day's Walk) • FB Blossom with Flowers! 1/2 • **Bright Night Blossoms (2/2)**
+- **Quest Path Route:** (open via Forest Expedition Trail: BC Hard Day's Walk) • FB Blossom with Flowers! 1/2 • **Bright Night Blossoms (2/2)** 
 
 ### Buholi in the Sky - TT
 
@@ -507,6 +505,11 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Available in the Luciola Forest 
 - **Quest Path Route:** (open via Hunt Trail: HuntS1 Joining the Hunt) • **A Clue to the Past** • HuntS1 Elder Library Assistants • HuntS1 Elder Library Security
 
+### Collector - MT
+
+- **Location:** Mama Tree
+- **Unlocked by:** LF MQ4
+
 ### A Colossal Quest - ShrineGiant
 
 - **Location:** Shrine of Ages
@@ -523,11 +526,6 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
   - Mandias
 - **Rewards:** 75 Shrine Stones
 - **Recommendations:** Pace yourself. The Untu Golem will be the most challenging if you write onsite - 12 minutes is not much time to write 500 words. The Caravan will be the most endurance-demanding for lower-output writers, although if you have a sufficiently high Defense (like, anything over 16) you'll have 4 days to write 5K words, and if you can scrape >+44 Defense it'll be 5 days.
-
-### Collector - MT
-
-- **Location:** Mama Tree
-- **Unlocked by:** LF MQ4
 
 ### Cool Creature Highlights (2/3) - MT
 
@@ -548,12 +546,12 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ### Creature Colors & Highlights (3/3) - MT
 
 - **Location:** Mama Tree
-- **Quest Path Route:** (open via LF MQ4) • MT Warm Creature Highlights 1/3 • MT Cool Creature Highlights 2/3 • **Creature Colors & Highlights 3/3**
+- **Quest Path Route:** (open via LF MQ4) • MT Warm Creature Highlights 1/3 • MT Cool Creature Highlights 2/3 • **Creature Colors & Highlights 3/3** 
 
 ### Crown of Rocks (2/2) - IC
 
 - **Location:** Impact Crater
-- **Quest Path:** (open via Alien Meteoroid Trail: 3PC A Way North: Up The Mountain) • IC One Rocky Start (1/2) • **Crown of Rocks (2/2)**
+- **Quest Path:** (open via Alien Meteoroid Trail: 3PC A Way North: Up The Mountain) • IC One Rocky Start (1/2) • **Crown of Rocks (2/2)** 
 - **Type:** Battle
 - **Requirements:** Defeat 4 each:
   - Kolbs
@@ -671,7 +669,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ### A Distant Figure - HuntS2
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path:** (open via Hunt Trail: HuntS1 The Curator of Elder Library) • HuntS2 Guarding the Path • HuntS2 State of Rest • **A Distant Figure**
+- **Quest Path:** (open via Hunt Trail: HuntS1 The Curator of Elder Library) • HuntS2 Guarding the Path • HuntS2 State of Rest • **A Distant Figure** 
 - **Type:** Battle
 - **Requirements:** Defeat 3 Lubu
 - **Rewards:** Hunt Map Piece 6, 5 Hunter Tokens
@@ -713,7 +711,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ### Elder Library's Security - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** (open via Hunt Trail: Hunt S1 Joining the Hunt) • HuntS1 A Clue to the Past • HuntS1 Elder Library Assistants • **Elder Library's Security**
+- **Quest Path Route:** (open via Hunt Trail: Hunt S1 Joining the Hunt) • HuntS1 A Clue to the Past • HuntS1 Elder Library Assistants • **Elder Library's Security** 
 
 ### Encourage an Ecosystem (4/4) - RLab
 
@@ -825,7 +823,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 
 ### First Steps
 
-see **Lead the Way**
+see **Lead the Way** 
 
 ### Fool Me Once - ShrineFools
 
@@ -874,7 +872,7 @@ see **Lead the Way**
 ### Gansu Watering Hole Puffs - Gansu
 
 - **Location:** Gansu Watering Hole
-- **Quest Path:** (open via 3PC MQ5/A Way South) • Gansu: Watering Hole Puna • **Gansu Watering Hole Puffs**
+- **Quest Path:** (open via 3PC MQ5/A Way South) • Gansu: Watering Hole Puna • **Gansu Watering Hole Puffs** 
 - **Type:** Battle
 - **Requirements:** Defeat 5 Furoxi
 - **Rewards:** 1 Stone Chest
@@ -943,7 +941,7 @@ see **Lead the Way**
 NOTE: This quest isn't possible to complete until you reach Riza Rivertown. 
 
 - **Location:** Three Points Crossing
-- **Quest Path:** (open via 3PC Main Quest 5/A Way South) • 3PC Lighten the Load • **Guard Your Feet**
+- **Quest Path:** (open via 3PC Main Quest 5/A Way South) • 3PC Lighten the Load • **Guard Your Feet** 
 - **Type:** Collection
 - **Requirements:** Get 10 Steel Boots and 10 Steel Axes
 - **Rewards:** 1 Golden Chest
@@ -1021,7 +1019,7 @@ Note: NOT POSSIBLE to complete till partway through the Floating City of Balance
 Monsters and Resources listed here will not be linked with this quest outside the All Resources section.
 
 - **Location:** Mama Tree
-- **Quest Path Route:** (open via MT MQ 4/ Aid To An Elder) • MT Tinkering With Leafsung (1/5) • MT Inking By Number (2/5) • MT Inking of Dust (3/5) • MT Thinking of Ink (4/5) • **The Invisible Ink (5/5)**
+- **Quest Path Route:** (open via MT MQ 4/ Aid To An Elder) • MT Tinkering With Leafsung (1/5) • MT Inking By Number (2/5) • MT Inking of Dust (3/5) • MT Thinking of Ink (4/5) • **The Invisible Ink (5/5)** 
 
 ### Iron On Sand - MT
 
@@ -1061,6 +1059,11 @@ Monsters and Resources listed here will not be linked with this quest outside th
 - **Location:** Base Camp
 - **Unlocked by:** Forest Expedition Trail: MT New Adventurous Horizons
 
+### Keep In Quarantine - MT
+
+- **Location:** Mama Tree
+- **Unlocked by:** MT MQ4 / Aid To An Elder
+
 ### Khaki Twisting Beige - DigS
 
 - **Location:** Dig Site
@@ -1069,11 +1072,6 @@ Monsters and Resources listed here will not be linked with this quest outside th
 - **Requirements:** Defeat 5 Sakish & 3 Okkorhi
 - **Rewards:** 1 Stone Chest & 1 Stone Key
 - **Recommendations:** It's nice to have a use for Sakish and Okkorhi, and it's nice to have a source for Stone Chests and Keys. Nice all around.
-
-### Keep In Quarantine - MT
-
-- **Location:** Mama Tree
-- **Unlocked by:** MT MQ4 / Aid To An Elder
 
 ### Lead the Way/First Steps - LF
 
@@ -1237,6 +1235,10 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Requirements:** Defeat 100 Mini Oozes
 - **Rewards:** Wardrobe: Mini Ooze Pet https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;ooze&#95;pet.png
 - **Recommendations:** It's 100 battles, but only 5K battle-words. And that's a cute pet.
+
+#Side Quests, in Alphabetical Order: N-Z
+
+LAST UPDATED 8 OCT 2020
 
 ### Nabia's Exploration - BC
 
@@ -1448,7 +1450,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### Protect the Spirit - Gansu
 
 - **Location:** Gansu Watering Hole
-- **Quest Path:** (open via Gansu MQ8/Dust to Dust) • Gansu Protect the Body • Gansu Protect the Mind • **Protect the Spirit**
+- **Quest Path:** (open via Gansu MQ8/Dust to Dust) • Gansu Protect the Body • Gansu Protect the Mind • **Protect the Spirit** 
 - **Type:** Collection
 - **Requirements:** Collect 200 Desert Stones
 - **Rewards:** 10 Stempos
@@ -1482,7 +1484,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### Proving Your Strength 6/6 - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path Route:** (open via Hunt Trail HuntS1 Joining the Hunt) • HuntS1 Proving Your Worth 1/4 • HuntS1 Proving your Curiosity 2/4 • HuntS1 Proving Your Perserverance 3/4 • HuntS1 Proving Your Cunning 4/4 • HuntS1 Proving Your Mettle 5/6 • **Proving Your Strength 6/6**
+- **Quest Path Route:** (open via Hunt Trail HuntS1 Joining the Hunt) • HuntS1 Proving Your Worth 1/4 • HuntS1 Proving your Curiosity 2/4 • HuntS1 Proving Your Perserverance 3/4 • HuntS1 Proving Your Cunning 4/4 • HuntS1 Proving Your Mettle 5/6 • **Proving Your Strength 6/6** 
 
 ### Proving Your Worth 1/4 - HuntS1
 
@@ -1519,7 +1521,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### Respark the Flame - Gansu
 
 - **Location:** Gansu Watering Hole
-- **Quest Path:** (open via Gansu MQ8) • Gansu Rebuild the Watering Hole • **Respark the Flam**e • Gansu Local Shrine • Gansu First Stempo • (ability to craft Stempos), MT Study Break Time
+- **Quest Path:** (open via Gansu MQ8) • Gansu Rebuild the Watering Hole • **Respark the Flame** • Gansu Local Shrine • Gansu First Stempo • (ability to craft Stempos), MT Study Break Time
 - **Type:** Collection
 - **Requirements:** Collect 5 Stone Blocks, 5 Sandstone Blocks, 10 Hardwood, 20 Desert Stone
 - **Rewards:** 1 Stempo (and after more quests, ability to craft them)
@@ -1717,7 +1719,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### Sparks to Ignite (3/3) - SpaceS
 
 - **Location:** Spaceship
-- **Quest Path:** (open via Alien Expedition Trail: IC Learning to Breathe) • SpaceS An Alien Exam (Part 1 of 2) • SpaceS Studying Space Scientists (Part 2 of 2) • **Sparks to Ignite (3/3)**
+- **Quest Path:** (open via Alien Expedition Trail: IC Learning to Breathe) • SpaceS An Alien Exam (Part 1 of 2) • SpaceS Studying Space Scientists (Part 2 of 2) • **Sparks to Ignite (3/3)** 
 - **Type:** Battle
 - **Requirements:** Defeat 10 each:
   - Szalin
@@ -1815,7 +1817,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### Strengthening Your Adaptiveness 5/5 - HuntS2
 
 - **Location:** Available in the Luciola Forest 
-- **Quest Path:** (open via Hunt Trail: HuntS1 The Curator of Elder Library) • HuntS2 Strengthening Your Loyalty • HuntS2 Strengthening Your Viewpoint 2/3 • HuntS2 Strengthening Your Friendship 3/3 • HuntS2 Strengthening Your Timing 4/5 • **Strengthening Your Adaptiveness 5/5**
+- **Quest Path:** (open via Hunt Trail: HuntS1 The Curator of Elder Library) • HuntS2 Strengthening Your Loyalty • HuntS2 Strengthening Your Viewpoint 2/3 • HuntS2 Strengthening Your Friendship 3/3 • HuntS2 Strengthening Your Timing 4/5 • **Strengthening Your Adaptiveness 5/5** 
 - **Type:** Battle
 - **Requirements:** Defeat 3 Kapir
 - **Rewards:** Wardrobe: Chest Side Belts https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;657-chest-side-belts-3903-85263.png
@@ -1864,7 +1866,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### Study Break Time - MT
 
 - **Location:** Mama Tree
-- **Quest Path:** (open via Gansu MQ8) • Gansu Rebuild the Watering Hole • Gansu Respark the Flame • Gansu Local Shrine • Gansu First Stempo • (ability to craft Stempos), **Study Break Time**
+- **Quest Path:** (open via Gansu MQ8) • Gansu Rebuild the Watering Hole • Gansu Respark the Flame • Gansu Local Shrine • Gansu First Stempo • (ability to craft Stempos), **Study Break Time** 
 - **Type:** Collection
 - **Requirements:** Pay 10 Stempos
 - **Rewards:** 3 Wooden Keys & 3 Wooden Chests
@@ -1911,7 +1913,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### Style is Eternal
 
 - **Location:** Luciola Forest
-- **Quest Path Route:** available at game open • LF Make It Work • **Style Is Eternal**
+- **Quest Path Route:** available at game open • LF Make It Work • **Style Is Eternal** 
 
 ### Swing, Sway, Summon - TT
 
@@ -2089,8 +2091,6 @@ Monsters and Resources listed here will not be linked with this quest outside th
 
 ### Warm Creature Highlights (1/3) - MT
 
-Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
-
 - **Location:** Mama Tree
 - **Quest Path Route:** (open via LF MQ 4) • **Warm Creature Highlights 1/3** • MT Cool Creature Highlights 2/3 • MT Creature Colors & Highlights 3/3
 
@@ -2193,7 +2193,7 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 ### Written Accounts: Attack on 3 Points - 3PC
 
 - **Location:** Three Points Crossing
-- **Quest Path:** (open via MT MQ4) • 3PC Written Accounts • **Written Accounts: Attack on 3 Points**
+- **Quest Path:** (open via MT MQ4) • 3PC Written Accounts • **Written Accounts: Attack on 3 Points** 
 - **Type:** Words
 - **Requirements:** Write 50,000 Words (Attack Bonuses Do Not Count)
 - **Rewards:** 2 Golden Chests
@@ -2202,7 +2202,7 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 ### Zappy Zazzy Xombri - RLab
 
 - **Location:** Research Lab
-- **Quest Path:** (open via Alien Expedition Trail: SpaceS Orders to Repair) • RLab Set Creatures Free! (1/4) • RLab Create a Clearing (2/4) • RLab Build a Biodome (3/4) • RLab Encourage an Ecosystem (4/4) • IN ANY ORDER [RLab Making Mellow Mowow • RLab Sagacious Sincere Sabu • RLab Silkly Sleek Sulanica • **Zappy Zazzy Xombri** • RLab Zooty Zanutaki Zings]
+- **Quest Path:** (open via Alien Expedition Trail: SpaceS Orders to Repair) • RLab Set Creatures Free! (1/4) • RLab Create a Clearing (2/4) • RLab Build a Biodome (3/4) • RLab Encourage an Ecosystem (4/4) • IN ANY ORDER [RLab Making Mellow Mowow  (*unlocks Mowow in Wilderness*)• RLab Sagacious Sincere Sabu (*unlocks Sabu in Wilderness*) • RLab Silkly Sleek Sulanica (*unlocks Sulanica in Wilderness*)• **Zappy Zazzy Xombri (*unlocks Xombri in Wilderness*)**• RLab Zooty Zanutaki Zings (*unlocks Zanutaki in Wilderness*)]
 - **Type:** Collection
 - **Requirements:** Deliver 25 Dust, 15 Rope, 10 Desert Stones, and 3 Fur
 - **Rewards:** 1 Stempo, unlock Xombri
@@ -2220,7 +2220,7 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 ### Zooty Zanutaki Zings - RLab
 
 - **Location:** Research Lab
-- **Quest Path:** (open via Alien Expedition Trail: SpaceS Orders to Repair) • RLab Set Creatures Free! (1/4) • RLab Create a Clearing (2/4) • RLab Build a Biodome (3/4) • RLab Encourage an Ecosystem (4/4) • IN ANY ORDER [RLab Making Mellow Mowow • RLab Sagacious Sincere Sabu • RLab Silkly Sleek Sulanica • RLab Zappy Zazzy Xombri • **Zooty Zanutaki Zings**]
+- **Quest Path:** (open via Alien Expedition Trail: SpaceS Orders to Repair) • RLab Set Creatures Free! (1/4) • RLab Create a Clearing (2/4) • RLab Build a Biodome (3/4) • RLab Encourage an Ecosystem (4/4) • IN ANY ORDER [RLab Making Mellow Mowow  (*unlocks Mowow in Wilderness*)• RLab Sagacious Sincere Sabu (*unlocks Sabu in Wilderness*) • RLab Silkly Sleek Sulanica (*unlocks Sulanica in Wilderness*)• RLab Zappy Zazzy Xombri (*unlocks Xombri in Wilderness*)• **Zooty Zanutaki Zings (*unlocks Zanutaki in Wilderness*)**]
 - **Type:** Collection
 - **Requirements:** Deliver 15 Glass Shards, 10 Nuig String, 10 Dried Pulp, and 2 Tambo Mane
 - **Rewards:** 1 Stempo, unlock Zanutaki
