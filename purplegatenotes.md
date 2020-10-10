@@ -1,25 +1,20 @@
 ### Cave Mushroom
 
 - **Sources:** 
-- **Craft:** Place: Item A, Item B
-- **Buy:** X Coins in Place
 - **Sell price:** 25 Coins (rec)
-- **Used for:** hall
+- **Used for:** Mushroom Paint shop
 
 ### Purple Crystal Shards
 
 - **Sources:** 
-  - 
-- **Craft:** Place: Item A, Item B
-- **Buy:** X Coins in Place
 - **Sell price:** 25 Coins (rec)
 - **Used for:** ???
-
-- 
 
 Global: Ardid Hunter (defeat 10 Ardid, get Wardrobe: Crystal Earrings https://4thewords.com/media/wardrobe/featured/female/wf_1192-crystal-earrings-8417-83041.png)
 
 Ardid Hunter 2/2 (defeat 25 Ardid, get Wardrobe: Sharp Crystal Necklace https://4thewords.com/media/wardrobe/featured/male/wm_1078-crystal-medium-length-necklace-7710-29407.png)
+
+#PURPLE GATE
 
 - **DFO Main Quest 12/Well of Lost Souls** - deliver a metric ton of materials, get 1 Bones Chest and 1 Bone Key
 
@@ -128,3 +123,38 @@ Eyes Tattoos - 50 Cave Mushrooms
 Ulos Filled-In Tattoo - 100 Cave Mushrooms
 
 Letos Filled-In Tattoo - 100 Cave Mushrooms
+
+### Monsters - no additional costs anywhere
+
+Monster	Words	Minutes
+
+PURPLE GATE		
+Ardid	90	10
+Cursed Hand	400	45
+Dark Assassin	1200	180
+Dusiri	1000	240
+Eninir	500	30
+Infected Golem	1500	300
+Leopar	800	90
+Oncara	900	120
+Poe	200	25
+Vibidi	300	30
+Xaey	120	15
+Zhout	600	90
+		
+CAVE		
+Ardid	90	10
+Attwo	1500	450
+Chio	100	10
+Fosfa	800	120
+Gliva	300	30
+Gormist	1667	1440
+Kohej	2000	600
+Letos	700	120
+Olanat	1100	180
+Reflection	4444	4320
+Sakot	1000	300
+Spina	450	45
+Tacin	150	15
+Ulos	650	90
+Vafire	500	60
