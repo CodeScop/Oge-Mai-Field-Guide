@@ -1,8 +1,15 @@
-Global: Ardid Hunter (Defeat 10 Ardid, get Wardrobe: Crystal Earrings https://4thewords.com/media/wardrobe/featured/female/wf_1192-crystal-earrings-8417-83041.png)
+LAST SAVED FOR UPLOAD Sat 10 Oct 4:05 PM Eastern Time
 
-Ardid Hunter 2/2 (Defeat 25 Ardid, get Wardrobe: Sharp Crystal Necklace https://4thewords.com/media/wardrobe/featured/male/wm_1078-crystal-medium-length-necklace-7710-29407.png)
+# Quests
 
-#PURPLE GATE
+These are all my rough notes. I'm slowly stripping them down to the pure Questline Summary as I transfer information to the Guide draft of [quests](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegatequests.md), [monsters](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegatemonsters.md), and [resources](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegateresources.md) for the Purple Gate (and, eventually, for other surprises unlocked along with this stuff). So if 
+
+##GLOBAL
+
+- Ardid Hunter - Defeat 10 Ardid, get Wardrobe: Crystal Earrings https://4thewords.com/media/wardrobe/featured/female/wf_1192-crystal-earrings-8417-83041.png)
+  - Ardid Hunter 2/2 - Defeat 25 Ardid, get Wardrobe: Sharp Crystal Necklace
+
+##PURPLE GATE
 
 **(unlocked by DFO Main Quest 12/Well of Lost Souls)** - deliver a metric ton of materials, get 1 Bones Chest and 1 Bone Key
 
@@ -50,7 +57,7 @@ Ardid Hunter 2/2 (Defeat 25 Ardid, get Wardrobe: Sharp Crystal Necklace https://
 - **Purple Gate Main Quest 10/ A Familiar Fight** - Defeat 1 Dark Reflection, gain access to the Cave, Wardrobe: Dark Hands Avatar https://4thewords.com/media/wardrobe/featured/male/wm_1072-dark-avatar-hands-7681-26711.png Wardrobe: Dark Avatar Bodypaint https://4thewords.com/media/wardrobe/featured/male/wm_1071-dark-avatar-bodypaint-7679-20341.png 
   - Dark Reflection disappears
 
-# CAVE
+## CAVE
 
 Open: Gliva, Vafire, Sakot available
 
@@ -101,22 +108,18 @@ Ulos Filled-In Tattoo - 100 Cave Mushrooms
 
 Letos Filled-In Tattoo - 100 Cave Mushrooms
 
-### Monsters - no additional costs anywhere
+# Monsters
+
+**NOTE: Once the monster is added to the [Guide Draft for Purple Gate Monsters](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegatemonsters.md), it no longer appears here.**
+
+No additional costs anywhere
 
 Monster	Words	Minutes
 
 PURPLE GATE		
-Ardid	90	10
-Cursed Hand	400	45
+
 Dark Assassin	1200	180
-Dusiri	1000	240
-Eninir	500	30
 Infected Golem	1500	300
-Leopar	800	90
-Oncara	900	120
-Poe	200	25
-Vibidi	300	30
-Xaey	120	15
 Zhout	600	90
 		
 CAVE		
@@ -136,322 +139,6 @@ Tacin	150	15
 Ulos	650	90
 Vafire	500	60
 
-# Main Quests - Purple Gate
-
-### Main Quest 1/Then The Bird Said
-
-- **Location:** Purple Gate
-- **Unlocked by:** opening Purple Gate
-- **Type:** Battle
-- **Requirements:** Defeat 5 Poe, 5 Xaey, and 3 Cursed Hands
-- **Rewards:** Wardrobe: Basic Boots Purple Gate https://4thewords.com/media/wardrobe/featured/female/wf_1285-basic-boots-purple-gate-9102-70235.png
-- **Recommendations:** pending
-
-### Main Quest 2/A Desolate Path
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 1/ Then The Bird Said
-- **Type:** Battle
-- **Requirements:** Defeat 3 Oncara and 6 Vibidi
-- **Rewards:** Wardrobe: Basic Pants Purple Gate https://4thewords.com/media/wardrobe/featured/female/wf_1286-basic-pants-purple-gate-9104-70076.png
-- **Recommendations:** pending
-
-### Main Quest 3/Keep Pushing Forward
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 2/A Desolate Path
-- **Type:** Battle
-- **Requirements:** Defeat 8 Eninir and 10 Ardid
-- **Rewards:** Wardrobe: Basic Shirt Purple Gate https://4thewords.com/media/wardrobe/featured/male/wm_1287-basic-shirt-purple-gate-9106-41957.png
-- **Recommendations:** pending
-
-### Main Quest 4/A Ruined Path
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 3/ Keep Pushing Forward
-- **Type:** Battle
-- **Requirements:** Defeat 5 Dusiri and 3 Leopar
-- **Rewards:** Wardrobe: Dusiri Top https://4thewords.com/media/wardrobe/featured/male/wm_1062-dust-whirlwind-top-7661-27947.png
-- **Recommendations:** pending
-
-### Main Quest 5/What Lies Uncovered
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 4/A Ruined Path
-- **Type:** Battle
-- **Requirements:** Defeat 3 Dark Assassin and 5 Zhout
-- **Rewards:** Wardrobe: Large Crystal Bracelets https://4thewords.com/media/wardrobe/featured/male/wm_1244-crystal-bracelet-8757-75820.png
-- **Recommendations:** pending
-
-### Main Quest 6/A Fearful Path
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 5/What Lies Uncovered
-- **Type:** Battle
-- **Requirements:** Defeat 3 Infected Golem
-- **Rewards:** Wardrobe: Steel Hands Necklace https://4thewords.com/media/wardrobe/featured/male/wm_1211-steel-hands-necklace-8585-24205.png
-- **Recommendations:** pending
-
-### Main Quest 7/Fighting the Water
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 6/A Fearful Path
-- **Type:** Battle
-- **Requirements:** Defeat 1 Dust Lodo
-- **Rewards:** Wardrobe: Eninir Skeleton Ribs https://4thewords.com/media/wardrobe/featured/male/wm_1068-ghoul-ribs-bodypaint-7673-91654.png
-- **Recommendations:** pending
-
-### Main Quest 8/Fighting the Flame
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 7/Fighting the Water
-- **Type:** Battle
-- **Requirements:** Defeat 1 Dust Azadi
-- **Rewards:** Wardrobe: Eninir Skeleton Neck https://4thewords.com/media/wardrobe/featured/male/wm_1067-ghoul-neck-bodypaint-7671-62882.png
-- **Recommendations:** pending
-
-### Main Quest 9/Fighting the Mountain
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 8/Fighting the Flame
-- **Type:** Battle
-- **Requirements:** Defeat 1 Dust Suwö
-- **Rewards:** Wardrobe: Dust Suwo Mouth https://4thewords.com/media/wardrobe/featured/male/wm_1060-dust-suwo-mouth-7657-62115.png
-- **Recommendations:** pending
-
-### Main Quest 10/A Familiar Fight
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 9/Fighting the Mountain
-- **Type:** Battle
-- **Requirements:** Defeat 1 Dark Reflection
-- **Rewards:** Unlock the Cave, and Wardrobe x2: Dark Hands Avatar https://4thewords.com/media/wardrobe/featured/male/wm_1072-dark-avatar-hands-7681-26711.png and Dark Avatar Bodypaint https://4thewords.com/media/wardrobe/featured/male/wm_1071-dark-avatar-bodypaint-7679-20341.png 
-- **Recommendations:** pending
-
-# Sidequests - Purple Gate
-
-### * Ardid Hunter (1/2)
-
-- **Location:** Purple Gate
-- **Unlocked by:** ???
-- **Type:** Battle
-- **Requirements:** Defeat 10 Ardid
-- **Rewards:** Crystal Earrings https://4thewords.com/media/wardrobe/featured/female/wf_1192-crystal-earrings-8417-83041.png
-- **Recommendations:**
-
-### * Ardid Hunter (2/2)
-
-- **Location:** Purple Gate
-- **Unlocked by:** Ardid Hunter (1/2)
-- **Type:** Battle
-- **Requirements:** Defeat 25 Ardid
-- **Rewards:** Wardrobe: Sharp Crystal Necklace https://4thewords.com/media/wardrobe/featured/male/wm_1078-crystal-medium-length-necklace-7710-29407.png
-- **Recommendations:**
-
-### Breaking Down Bones
-
-- **Location:** Purple Gate
-- **Unlocked by:** opening Purple Gate
-- **Type:** Battle
-- **Requirements:** Defeat 50 Xaey
-- **Rewards:** Wardrobe: Crystal Choker https://4thewords.com/media/wardrobe/featured/male/wm_1077-crystal-choker-7698-94910.png
-- **Recommendations:**
-
-### Create Your Path
-
-- **Location:** Purple Gate
-- **Unlocked by:** opening Purple Gate
-- **Type:** Collection
-- **Requirements:** Deliver 25 Reinforced Ardi Lamps
-- **Rewards:** Wardrobe: Eninir Facepaint https://4thewords.com/media/wardrobe/featured/male/wm_1066-ghoul-facepaint-7669-16359.png
-- **Recommendations:** Assuming you want to do this (Reinforced Ardi Lamps are expensive!), make sure you first complete the Reinforced Ardi Lamp Station quest in DFO (just the first quest is necessary, not the entire chain) to gain the ability to craft the lamps. Which require a LOT of resources from all over the game. Good luck!
-
-### * Cursed Violet Winds
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 3/Keep Pushing Forward
-- **Type:** Battle
-- **Requirements:** Defeat 6 Dusiri and 12 Ardid
-- **Rewards:** Wardrobe: Dusiri Crown https://4thewords.com/media/wardrobe/featured/male/wm_1061-dust-whirlwind-crown-7659-69330.png
-- **Recommendations:**
-
-### * Dust Mote Swarms
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 2/A Desolate Path
-- **Type:** Battle
-- **Requirements:** Defeat 100 Ardid
-- **Rewards:** Wardrobe: Extended Chain Earrings https://4thewords.com/media/wardrobe/featured/female/wf_1189-chain-earrings-elfears-8369-40440.png
-- **Recommendations:**
-
-### * Eensy Weensy Oncara
-
-- **Location:** Purple Gate
-- **Unlocked by:**  Main Quest 1/Then The Bird Said
-- **Type:** Battle
-- **Requirements:** Defeat 12 Oncara
-- **Rewards:** Wardrobe: Crystal Necklace https://4thewords.com/media/wardrobe/featured/female/wf_1030-crystal-necklace-7561-86961.png
-- **Recommendations:**
-
-### The Long Walk
-
-- **Location:** Purple Gate
-- **Unlocked by:** opening Purple Gate
-- **Type:** Streak
-- **Requirements:** Attain 15-day Streak
-- **Rewards:** Wardrobe: Purple Gate Cape https://4thewords.com/media/wardrobe/featured/male/wm_1242-cape-8753-75204.png
-- **Recommendations:** 
-
-### * Preventing Purple Power-Ups
-
-- **Location:** Purple Gate
-- **Unlocked by:**  Main Quest 1/Then The Bird Said
-- **Type:** Battle
-- **Requirements:** Defeat 20 Vibidi and 3 Oncara
-- **Rewards:** 1 Bones Chest & 1 Bone Key
-- **Recommendations:**
-
-### * Silent Slithering Surprises
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 3/Keep Pushing Forward
-- **Type:** Battle
-- **Requirements:** Defeat 50 Leopar
-- **Rewards:** Wardrobe: Leopar Necklace https://4thewords.com/media/wardrobe/featured/female/wf_1202-snake-necklace-8543-66886.png
-- **Recommendations:**
-
-### * Too Many Spirits
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 2/A Desolate Path
-- **Type:** Battle
-- **Requirements:** Defeat 25 Eninir
-- **Rewards:** Wardrobe: Eninir Crown https://4thewords.com/media/wardrobe/featured/male/wm_1208-ghost-crown-8575-76537.png
-- **Recommendations:**
-
-### * Trouble Above
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 3/Keep Pushing Forward
-- **Type:** Battle
-- **Requirements:** Defeat 10 Leopar and 10 Poe
-- **Rewards:** Wardrobe x2: Chain Necklace https://4thewords.com/media/wardrobe/featured/male/wm_1204-chain-necklace-8563-71819.png and Leopar Earrings https://4thewords.com/media/wardrobe/featured/female/wf_1201-snake-earrings-8529-18956.png
-- **Recommendations:**
-
-# Monsters
-
-### * Ardid
-
-- **Location:** Purple Gate
-- **Unlocked by:** PG Main Quest 2/A Desolate Path
-- **Requirements:** 90 words
-- **Time allowed:** 10 minutes
-- **XP:** 9
-- **Drops:** 1-2 Dust, 0-1 Purple Crystal Shards
-- **Quests:** PG: Main Quest 3/Keep Pushing Forward (10), Dust Mote Swarms (100), Cursed Violet Winds (12), Ardid Hunter 1/2 (10), Ardid Hunter 2/2 (25)
-
-### Cursed Hand
-
-- **Location:** Purple Gate
-- **Unlocked by:** opening Purple Gate
-- **Requirements:** 400 words
-- **Time allowed:** 45 minutes
-- **XP:** 45
-- **Drops:** 2-4 Raw Stone, 1-2 Refined Dust, 1-2 Raw Steel, 1 Bones
-- **Quests:** PG Main Quest 1/Then The Bird Said (3)
-
-### * Dusira
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 3/Keep Pushing Forward
-- **Requirements:** 1000 words
-- **Time allowed:** 240 minutes (4 hours)
-- **XP:** 100
-- **Drops:** 1-4 Raw Stone, 2 Refined Dust, 3-4 Purple Crystal Shards, 2-4 Glass Shards, 2-3 Raw Sandstone
-- **Quests:** PG: MQ4/A Ruined Path (5), Cursed Violet Winds (6)
-
-### * Eninir
-
-- **Location:** Purple Gate
-- **Unlocked by:** PG Main Quest 2/A Desolate Path
-- **Requirements:** 500 words
-- **Time allowed:** 30 minutes
-- **XP:** 50
-- **Drops:** 1-2 Refined Dust, 1-2 Purple Crystal Shards, 2-4 Dust, 0-1 Bones (usually 1)
-- **Quests:** PG: Main Quest 3/Keep Pushing Forward (8), Too Many Spirits (25)
-
-### * Leopar
-
-- **Location:** Purple Gate
-- **Unlocked by:** Main Quest 3/Keep Pushing Forward
-- **Requirements:** 800 words
-- **Time allowed:** 90 minutes (1 hour and 30 minutes)
-- **XP:** 80
-- **Drops:** 1-2 Spider Poison, 2-3 Purple Crystal Shards, 1-3 Wood, 2-3 Rope
-- **Quests: **PG: MQ4/A Ruined Path (3), Trouble Above (10), Silent Slithering Surprises (50)
-
-### * Oncara
-
-- **Location:** Purple Gate
-- **Unlocked by:**  Main Quest 1/Then The Bird Said
-- **Requirements:** 900 words
-- **Time allowed:** 90 minutes (1 hour and 30 minutes)
-- **XP:** 90
-- **Drops:** 2-3 Purple Crystal Shards, 1 Refined Dust, 2 Spider Legs, 1-2 Spider Poison, 3-5 Dust
-- **Quests:** PG: Main Quest 2/A Desolate Path (3), Preventing Purple Power-Ups (3), Eensy Weensy Oncara (12)
-
-### Poe
-
-- **Location:** Purple Gate
-- **Unlocked by:** opening Purple Gate
-- **Requirements:** 200 words
-- **Time allowed:** 25 minutes
-- **XP:** 25
-- **Drops:** 0-1 Purple Crystal Shards, 1-2 Wood, 1-3 Dust
-- **Quests:** PG Main Quest 1/Then The Bird Said (5), Trouble Above (10)
-
-### * Vibidi
-
-- **Location:** Purple Gate
-- **Unlocked by:**  Main Quest 1/Then The Bird Said
-- **Requirements:** 300 words
-- **Time allowed:** 30 minutes
-- **XP:** 30
-- **Drops:** 2-4 Raw Stone, 1-2 Purple Crystals, 2-4 Dust
-- **Quests:** PG: Main Quest 2/A Desolate Path (6), Preventing Purple Power-Ups (20)
-
-### Xaey
-
-- **Location:** Purple Gate
-- **Unlocked by:** opening Purple Gate
-- **Requirements:** 120 words
-- **Time allowed:** 15 minutes
-- **XP:** 12
-- **Drops:** 1 Bones, 0-1 Purple Crystal Shards
-- **Quests:** PG: Main Quest 1/Then The Bird Said (5), Breaking Down Bones (50)
-
 # Resources
 
-### Bone Key
-
-- **Sources:** PG Quest: Preventing Purple Power-Ups (1)
-
-### Bones Chest
-
-- **Sources:** PG Quest: Preventing Purple Power-Ups (1)
-
-### Cave Mushroom
-
-- **Sources:** CAVE Battles: 
-- **Sell price:** 25 Coins (hang on to these for the time being, till we know what they're for)
-- **Used for:** Mushroom Paint wardrobe shop
-
-### Purple Crystal Shards
-
-- **Sources:** PG Battles: 
-- **Sell price:** 25 Coins (don't sell until we know what they're for)
-- **Used for:** ??? We'll see!
-
-### Reinforced Ardi Lamps
-
-- **Used for:** PG Quest: Create Your Path (25)
+I'm done keeping these in general notes; the info has moved to  [resources](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegateresources.md).
