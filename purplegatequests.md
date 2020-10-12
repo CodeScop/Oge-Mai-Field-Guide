@@ -123,6 +123,15 @@ LAST UPDATED 10 OCT 2020
 - **Rewards:** Wardrobe: Crystal Choker https://4thewords.com/media/wardrobe/featured/male/wm_1077-crystal-choker-7698-94910.png
 - **Recommendations:**
 
+### * A Coordinated Attack (1/2)
+
+- **Location:** Purple Gate
+- **Unlocked by:** PG MQ4/A Ruined Path
+- **Type:** Battle
+- **Requirements:** Defeat 15 Zhout and 5 Dark Assassins
+- **Rewards:** Wardrobe: Steel Hands Necklace https://4thewords.com/media/wardrobe/featured/male/wm_1211-steel-hands-necklace-8585-24205.png
+- **Recommendations:**
+
 ### Create Your Path
 
 - **Location:** Purple Gate
@@ -131,6 +140,15 @@ LAST UPDATED 10 OCT 2020
 - **Requirements:** Deliver 25 Reinforced Ardi Lamps
 - **Rewards:** Wardrobe: Eninir Facepaint https://4thewords.com/media/wardrobe/featured/male/wm_1066-ghoul-facepaint-7669-16359.png
 - **Recommendations:** Assuming you want to do this (Reinforced Ardi Lamps are expensive!), make sure you first complete the Reinforced Ardi Lamp Station quest in DFO (just the first quest is necessary, not the entire chain) to gain the ability to craft the lamps. Which require a LOT of resources from all over the game. Good luck!
+
+### * The Crystal Giants
+
+- **Location:** Purple Gate
+- **Unlocked by:** PG MQ5/ What Lies Uncovered
+- **Type:** Battle
+- **Requirements:** Defeat 10 Infected Golems
+- **Rewards:** Wardrobe: Golem Crystal Hair https://4thewords.com/media/wardrobe/featured/male/wm_1064-golem-crystal-hair-7665-46839.png
+- **Recommendations:**
 
 ### * Cursed Violet Winds
 
@@ -175,6 +193,15 @@ LAST UPDATED 10 OCT 2020
 - **Type:** Battle
 - **Requirements:** Defeat 20 Vibidi and 3 Oncara
 - **Rewards:** 1 Bones Chest & 1 Bone Key
+- **Recommendations:**
+
+### * Scary Short Story
+
+- **Location:** Purple Gate
+- **Unlocked by:** PG MQ4/A Ruined Path
+- **Type:** Battle, Wordcount
+- **Requirements:** Write 10K words and defeat 1 each Poe, Cursed Hand, and Zhout
+- **Rewards:** Wardrobe: Hand Ankle Bracelet https://4thewords.com/media/wardrobe/featured/female/wf_1209-hand-ankle-bracelet-8577-96142.png
 - **Recommendations:**
 
 ### * Silent Slithering Surprises

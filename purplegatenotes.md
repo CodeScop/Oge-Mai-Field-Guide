@@ -1,4 +1,4 @@
-LAST SAVED FOR UPLOAD Sat 10 Oct 4:05 PM Eastern Time
+LAST SAVED FOR UPLOAD Sun 11 Oct 11:22 PM Eastern Time
 
 # Quests
 
@@ -32,29 +32,25 @@ These are all my rough notes. I'm slowly stripping them down to the pure Questli
   - PG Cursed Violet Winds - Defeat 6 Dusiri and 12 Ardid, get Wardrobe: Dusiri Crown
 
 - **Purple Gate Main Quest 4/A Ruined Path** - Defeat 5 Dusiri and 3 Leopar, get Wardrobe: Dusiri Top
-  - Zhout, Dark Assassin unlocked
-  - PG Scary Short Story - Defeat 1 Poe, 1 Cursed Hand, and 1 Zhout, and write 10K words, get Wardrobe: Hand Ankle Bracelet https://4thewords.com/media/wardrobe/featured/female/wf_1209-hand-ankle-bracelet-8577-96142.png
-  - PG A Coordinated Attack (1/2) - Defeat 15 Zhout and 5 Dark Assassins, get Wardrobe: Steel Hands Necklace https://4thewords.com/media/wardrobe/featured/female/wf_1211-steel-hands-necklace-8586-64640.png
+  - PG Scary Short Story - Defeat 1 Poe, 1 Cursed Hand, and 1 Zhout, and write 10K words, get Wardrobe: Hand Ankle Bracelet
+  - PG A Coordinated Attack (1/2) - Defeat 15 Zhout and 5 Dark Assassins, get Wardrobe: Steel Hands Necklace
     - PG A Coordinated Attack (2/2) - Defeat 25 Zhout and 10 Dark Assassins, get Wardrobe: Zhout Hands https://4thewords.com/media/wardrobe/featured/female/wf_1065-ghoul-crystal-hands-7667-91750.png
 
-- **Purple Gate Main Quest 5/What Lies Uncovered** - Defeat 3 Dark Assassin and 5 Zhout, get Wardrobe: Large Crystal Bracelets https://4thewords.com/media/wardrobe/featured/male/wm_1244-crystal-bracelet-8757-75820.png
-  - PG The Crystal Giants - Defeat 10 Infected Golem, get Wardrobe: Golem Crystal Hair https://4thewords.com/media/wardrobe/featured/male/wm_1064-golem-crystal-hair-7665-46839.png
-  - Infected Golem unlocked
+- **Purple Gate Main Quest 5/What Lies Uncovered** - Defeat 3 Dark Assassin and 5 Zhout, get Wardrobe: Large Crystal Bracelets
+  - PG The Crystal Giants - Defeat 10 Infected Golem, get Wardrobe: Golem Crystal Hair
+  
+- **Purple Gate Main Quest 6/A Fearful Path** - Defeat 3 Infected Golem, get Wardrobe: Steel Hands Necklace
 
-- **Purple Gate Main Quest 6/A Fearful Path** - Defeat 3 Infected Golem, get Wardrobe: Steel hands necklace https://4thewords.com/media/wardrobe/featured/male/wm_1211-steel-hands-necklace-8585-24205.png
+- **Purple Gate Main Quest 7/Fighting the Water** - Defeat 1 Dust Lodo, get Wardrobe: Eninir Skeleton Ribs
+  - Dust Azadi unlocked, Dust Lodo disappears
 
-  - Dust Lodo unlocked
+- **Purple Gate Main Quest 8/Fighting the Flame** - Defeat 1 Dust Azadi, get Wardrobe: Eninir Skeleton Neck
+  - Dust Suwö unlocked, Dust Azadi disappears
 
-- **Purple Gate Main Quest 7/Fighting the Water** - Defeat 1 Dust Lodo, get Wardrobe: Eninir Skeleton Ribs https://4thewords.com/media/wardrobe/featured/male/wm_1068-ghoul-ribs-bodypaint-7673-91654.png
-  - Dust Azadi unlocked
+- **Purple Gate Main Quest 9/Fighting the Mountain** - Defeat 1 Dust Suwö, get Wardrobe: Dust Suwo Mouth
+  - Dark Reflection unlocked, Dust Suwö disappears
 
-- **Purple Gate Main Quest 8/Fighting the Flame** - Defeat 1 Dust Azadi, get Wardrobe: Eninir Skeleton Neck https://4thewords.com/media/wardrobe/featured/male/wm_1067-ghoul-neck-bodypaint-7671-62882.png
-  - Dust Suwö unlocked
-
-- **Purple Gate Main Quest 9/Fighting the Mountain** - Defeat 1 Dust Suwö, get Wardrobe: Dust Suwo Mouth https://4thewords.com/media/wardrobe/featured/male/wm_1060-dust-suwo-mouth-7657-62115.png
-  - Dark Reflection unlocked
-
-- **Purple Gate Main Quest 10/ A Familiar Fight** - Defeat 1 Dark Reflection, gain access to the Cave, Wardrobe: Dark Hands Avatar https://4thewords.com/media/wardrobe/featured/male/wm_1072-dark-avatar-hands-7681-26711.png Wardrobe: Dark Avatar Bodypaint https://4thewords.com/media/wardrobe/featured/male/wm_1071-dark-avatar-bodypaint-7679-20341.png 
+- **Purple Gate Main Quest 10/ A Familiar Fight** - Defeat 1 Dark Reflection, gain access to the Cave, Wardrobe: Dark Hands Avatar and Wardrobe: Dark Avatar Bodypaint
   - Dark Reflection disappears
 
 ## CAVE
