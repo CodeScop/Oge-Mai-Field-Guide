@@ -94,12 +94,12 @@ LAST UPDATED 10 OCT 2020
 
 # Sidequests - Purple Gate
 
-LAST UPDATED 10 OCT 2020
+LAST UPDATED 13 OCT 2020
 
 ### * Ardid Hunter (1/2)
 
 - **Location:** Purple Gate
-- **Unlocked by:** ???
+- **Unlocked by:** PG Main Quest 2/A Desolate Path
 - **Type:** Battle
 - **Requirements:** Defeat 10 Ardid
 - **Rewards:** Crystal Earrings https://4thewords.com/media/wardrobe/featured/female/wf_1192-crystal-earrings-8417-83041.png
@@ -130,6 +130,15 @@ LAST UPDATED 10 OCT 2020
 - **Type:** Battle
 - **Requirements:** Defeat 15 Zhout and 5 Dark Assassins
 - **Rewards:** Wardrobe: Steel Hands Necklace https://4thewords.com/media/wardrobe/featured/male/wm_1211-steel-hands-necklace-8585-24205.png
+- **Recommendations:**
+
+### * A Coordinated Attack (2/2)
+
+- **Location:** Purple Gate
+- **Unlocked by:** PG Quest: A Coordinated Attack (1/2)
+- **Type:** Battle
+- **Requirements:** Defeat 25 Zhout and 10 Dark Assassins 
+- **Rewards:** Wardrobe: Zhout Hands https://4thewords.com/media/wardrobe/featured/female/wf_1065-ghoul-crystal-hands-7667-91750.png
 - **Recommendations:**
 
 ### Create Your Path

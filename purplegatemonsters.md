@@ -1,4 +1,4 @@
-LAST UPDATED 11 OCT 2020
+LAST UPDATED 13 OCT 2020
 
 ### * Ardid
 
@@ -28,7 +28,7 @@ LAST UPDATED 11 OCT 2020
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 120
 - **Drops:** 2-4 Purple Crystal Shards, 1-3 Raw Steel, 1-3 Fine Fabric, 2-4 Refined Dust, 2-3 Bones, 25 Coins
-- **Quests:** PG: Main Quest 5/What Lies Uncovered (3), A Coordinated Attack (5)
+- **Quests:** PG: Main Quest 5/What Lies Uncovered (3), A Coordinated Attack 1/2 (5), A Coordinated Attack 2/2 (10)
 
 ### * Dark Reflection
 
@@ -117,7 +117,7 @@ LAST UPDATED 11 OCT 2020
 - **Requirements:** 900 words
 - **Time allowed:** 90 minutes (1 hour and 30 minutes)
 - **XP:** 90
-- **Drops:** 2-3 Purple Crystal Shards, 1 Refined Dust, 2 Spider Legs, 1-2 Spider Poison, 3-5 Dust
+- **Drops:** 2-3 Purple Crystal Shards, 1 Refined Dust, 2 Spider Legs, 1-3 Spider Poison, 3-5 Dust
 - **Quests:** PG: Main Quest 2/A Desolate Path (3), Preventing Purple Power-Ups (3), Eensy Weensy Oncara (12)
 
 ### Poe
@@ -158,4 +158,4 @@ LAST UPDATED 11 OCT 2020
 - **Time allowed:** 90 minutes (1 hour and 30 minutes)
 - **XP:** 90
 - **Drops:** 2-3 Purple Crystal Shards, 2-5 Raw Stone, 1-3 Glass Shards, 2 Bones, 1 Dried Pulp
-- **Quests:** PG: Main Quest 5/What Lies Uncovered (5), A Coordinated Attack (15), Scary Short Story (1)
+- **Quests:** PG: Main Quest 5/What Lies Uncovered (5), A Coordinated Attack 1/2 (15), A Coordinated Attack 2/2 (25), Scary Short Story (1)

@@ -1,4 +1,4 @@
-LAST UPDATED 8 OCT 2020
+LAST UPDATED 13 OCT 2020
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
@@ -220,7 +220,37 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
         - Gansu Dark Watering Materials (4/5) - get a bunch of DFO materials for 1 Golden Chest, 1 Leafsung Key, and 1 White Fur
           - Balance Dark Floating Materials (5/5) - get a bunch of DFO materials for 10 Dí Bags and 10 River Water
   - MT Bite My Boots! - deliver 10 Dark Forest Boots for 25 Leafsung Ink
-- **Purple Gate Main Quest 1/??? (to be discovered!)** 
+  - PG Breaking Down Bones - Defeat 50 Xaey, get Wardrobe: Crystal Choker
+  - PG Create Your Path - deliver 25 Reinforced Ardi Lamps, get Wardrobe: Eninir Facepaint
+  - PG The Long Walk - attain a 15-day streak, get Wardrobe: Purple Gate Cape
+- **PG Main Quest 1/Then the Bird Said** - Defeat 5 Poe, 5 Xaey, and 3 Cursed Hands, get Wardrobe: Basic Boots Purple Gate
+   - PG Eensy Weensy Oncara - Defeat 12 Oncara, get Wardrobe: Crystal Necklace
+   - PG Preventing Purple Power-Ups - Defeat 20 Vibidi and 3 Oncara, get 1 Bones Chest & 1 Bone Key
+- **PG Main Quest 2/A Desolate Path** - Defeat 3 Oncara and 6 Vibidi, get Wardrobe: Basic Pants Purple Gate
+   - PG Dust Mote Swarms - Defeat 100 Ardid, get Wardrobe: Extended Chain Earrings
+   - PG Too Many Spirits - Defeat 25 Eninir, get Wardrobe: Eninir Crown
+   - PG Ardid Hunter - Defeat 10 Ardid, get Wardrobe: Crystal Earrings
+     - PG Ardid Hunter 2/2 - Defeat 25 Ardid, get Wardrobe: Sharp Crystal Necklace
+- **PG Main Quest 3/Keep Pushing Forward** - Defeat 8 Eninir and 10 Ardid, get Wardrobe: Basic Shirt Purple Gate
+   - PG Trouble Above - Defeat 10 Leopar and 10 Poe, get Wardrobe: Chain Necklace and Wardrobe: Leopar Earrings
+   - PG Silent Slithering Surprises - Defeat 50 Leopar, get Wardrobe: Leopar Necklace
+   - PG Cursed Violet Winds - Defeat 6 Dusiri and 12 Ardid, get Wardrobe: Dusiri Crown
+- **PG Main Quest 4/A Ruined Path** - Defeat 5 Dusiri and 3 Leopar, get Wardrobe: Dusiri Top
+   - PG Scary Short Story - Defeat 1 Poe, 1 Cursed Hand, and 1 Zhout, and write 10K words, get Wardrobe: Hand Ankle Bracelet
+   - PG A Coordinated Attack (1/2) - Defeat 15 Zhout and 5 Dark Assassins, get Wardrobe: Steel Hands Necklace
+     - PG A Coordinated Attack (2/2) - Defeat 25 Zhout and 10 Dark Assassins, get Wardrobe: Zhout Hands
+- **PG Main Quest 5/What Lies Uncovered** - Defeat 3 Dark Assassin and 5 Zhout, get Wardrobe: Large Crystal Bracelets
+   - PG The Crystal Giants - Defeat 10 Infected Golem, get Wardrobe: Golem Crystal Hair
+- **PG Main Quest 6/A Fearful Path** - Defeat 3 Infected Golem, get Wardrobe: Steel Hands Necklace
+- **PG Main Quest 7/Fighting the Water** - Defeat 1 Dust Lodo, get Wardrobe: Eninir Skeleton Ribs
+- **PG Main Quest 8/Fighting the Flame** - Defeat 1 Dust Azadi, get Wardrobe: Eninir Skeleton Neck
+- **PG Main Quest 9/Fighting the Mountain** - Defeat 1 Dust Suwö, get Wardrobe: Dust Suwo Mouth
+- **PG Main Quest 10/ A Familiar Fight** - Defeat 1 Dark Reflection, gain access to the Cave, Wardrobe: Dark Hands Avatar and Wardrobe: Dark Avatar Bodypaint
+   - CAVE Nooks & Crannies - attain a 15-day streak, get Wardrobe: Wet Hair
+   - CAVE Colorful, Vibrant Hallucinations - defeat 15 Gliva, get Wardrobe: Mushroom Earrings
+   - CAVE 100 Minds to Explore - defeat 100 Vafire, get Wardrobe: Vafire Head
+   - CAVE Bridge for the Future - deliver 15 Hardwood, 15 Reinforced Rope, and 10 Steel Bars, get Wardrobe: Tacin Crown
+- **CAVE Main Quest 1/Meet the Shadow** - Defeat...
 
 ## Questline - Forest Expedition
 

@@ -1,57 +1,10 @@
-LAST SAVED FOR UPLOAD Sun 11 Oct 11:22 PM Eastern Time
+LAST SAVED FOR UPLOAD Tues 13 Oct 4:25 PM Eastern Time
 
 # Quests
 
-These are all my rough notes. I'm slowly stripping them down to the pure Questline Summary as I transfer information to the Guide draft of [quests](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegatequests.md), [monsters](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegatemonsters.md), and [resources](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegateresources.md) for the Purple Gate (and, eventually, for other surprises unlocked along with this stuff). So if 
+These are all my rough notes. I'm slowly stripping them down to the pure Questline Summary as I transfer information to the Guide draft of [quests](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegatequests.md), [monsters](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegatemonsters.md), and [resources](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegateresources.md) for the Purple Gate (and, eventually, for other surprises unlocked along with this stuff). So if something's missing below... it's probably been converted to one of the other sheets.
 
-##GLOBAL
-
-- Ardid Hunter - Defeat 10 Ardid, get Wardrobe: Crystal Earrings https://4thewords.com/media/wardrobe/featured/female/wf_1192-crystal-earrings-8417-83041.png)
-  - Ardid Hunter 2/2 - Defeat 25 Ardid, get Wardrobe: Sharp Crystal Necklace
-
-##PURPLE GATE
-
-**(unlocked by DFO Main Quest 12/Well of Lost Souls)** - deliver a metric ton of materials, get 1 Bones Chest and 1 Bone Key
-
-- PG Breaking Down Bones - Defeat 50 Xaey, get Wardrobe: Crystal Choker
-- PG Create Your Path - deliver 25 Reinforced Ardi Lamps, get Wardrobe: Eninir Facepaint
-- PG The Long Walk - attain a 15-day 
-
-- **Purple Gate Main Quest 1/Then the Bird Said** - Defeat 5 Poe, 5 Xaey, and 3 Cursed Hands, get Wardrobe: Basic Boots Purple Gate
-  - PG Eensy Weensy Oncara - Defeat 12 Oncara, get Wardrobe: Crystal Necklace
-  - PG Preventing Purple Power-Ups - Defeat 20 Vibidi and 3 Oncara, get 1 Bones Chest & 1 Bone Key
-
-- **Purple Gate Main Quest 2/A Desolate Path** - Defeat 3 Oncara and 6 Vibidi, get Wardrobe: Basic Pants Purple Gate
-  - PG Dust Mote Swarms - Defeat 100 Ardid, get Wardrobe: Extended Chain Earrings
-  - PG Too Many Spirits - Defeat 25 Eninir, get Wardrobe: Eninir Crown
-
-- **Purple Gate Main Quest 3/Keep Pushing Forward** - Defeat 8 Eninir and 10 Ardid, get Wardrobe: Basic Shirt Purple Gate
-  - Leopar, Dusiri unlocked
-  - PG Trouble Above - Defeat 10 Leopar and 10 Poe, get Wardrobe: Chain Necklace and Wardrobe: Leopar Earrings
-  - PG Silent Slithering Surprises - Defeat 50 Leopar, get Wardrobe: Leopar Necklace
-  - PG Cursed Violet Winds - Defeat 6 Dusiri and 12 Ardid, get Wardrobe: Dusiri Crown
-
-- **Purple Gate Main Quest 4/A Ruined Path** - Defeat 5 Dusiri and 3 Leopar, get Wardrobe: Dusiri Top
-  - PG Scary Short Story - Defeat 1 Poe, 1 Cursed Hand, and 1 Zhout, and write 10K words, get Wardrobe: Hand Ankle Bracelet
-  - PG A Coordinated Attack (1/2) - Defeat 15 Zhout and 5 Dark Assassins, get Wardrobe: Steel Hands Necklace
-    - PG A Coordinated Attack (2/2) - Defeat 25 Zhout and 10 Dark Assassins, get Wardrobe: Zhout Hands https://4thewords.com/media/wardrobe/featured/female/wf_1065-ghoul-crystal-hands-7667-91750.png
-
-- **Purple Gate Main Quest 5/What Lies Uncovered** - Defeat 3 Dark Assassin and 5 Zhout, get Wardrobe: Large Crystal Bracelets
-  - PG The Crystal Giants - Defeat 10 Infected Golem, get Wardrobe: Golem Crystal Hair
-  
-- **Purple Gate Main Quest 6/A Fearful Path** - Defeat 3 Infected Golem, get Wardrobe: Steel Hands Necklace
-
-- **Purple Gate Main Quest 7/Fighting the Water** - Defeat 1 Dust Lodo, get Wardrobe: Eninir Skeleton Ribs
-  - Dust Azadi unlocked, Dust Lodo disappears
-
-- **Purple Gate Main Quest 8/Fighting the Flame** - Defeat 1 Dust Azadi, get Wardrobe: Eninir Skeleton Neck
-  - Dust Suwö unlocked, Dust Azadi disappears
-
-- **Purple Gate Main Quest 9/Fighting the Mountain** - Defeat 1 Dust Suwö, get Wardrobe: Dust Suwo Mouth
-  - Dark Reflection unlocked, Dust Suwö disappears
-
-- **Purple Gate Main Quest 10/ A Familiar Fight** - Defeat 1 Dark Reflection, gain access to the Cave, Wardrobe: Dark Hands Avatar and Wardrobe: Dark Avatar Bodypaint
-  - Dark Reflection disappears
+Such as, "all the quests for Purple Gate proper."
 
 ## CAVE
 
@@ -104,6 +57,15 @@ Ulos Filled-In Tattoo - 100 Cave Mushrooms
 
 Letos Filled-In Tattoo - 100 Cave Mushrooms
 
+### Nooks and Crannies
+
+- **Location:** Purple Gate
+- **Unlocked by:** PG MQ 10/A Familiar Fight
+- **Type:** Streak
+- **Requirements:** Attain a 15-day Streak
+- **Rewards:** Wardrobe: Wet Hair https://4thewords.com/media/wardrobe/featured/female/wf_1240-wethair-8725-22131.png
+- **Recommendations:**
+
 # Monsters
 
 **NOTE: Once the monster is added to the [Guide Draft for Purple Gate Monsters](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegatemonsters.md), it no longer appears here.**
@@ -111,12 +73,6 @@ Letos Filled-In Tattoo - 100 Cave Mushrooms
 No additional costs anywhere
 
 Monster	Words	Minutes
-
-PURPLE GATE		
-
-Dark Assassin	1200	180
-Infected Golem	1500	300
-Zhout	600	90
 		
 CAVE		
 Ardid	90	10
