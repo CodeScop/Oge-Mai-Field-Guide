@@ -1,4 +1,4 @@
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 15 OCT 2020
 
 The final lap! The season of Jubilee! And we go all over the game to do so...
 
@@ -52,6 +52,7 @@ Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!)
   - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Kivi (100 words for 1), Wisthu (800 words for 8)
 - Balance Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), River Goddess (5000 words for 50), Spirit Castu (550 words for 5-6)
 - DFO Battles: Ascre (150 words for 1-2), Belasi (200 words for 2), Chu (100 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 20), Dust Wignow (444 words for 4-5), Pakkan (300 words for 3), Spirit Ardia (80 words for 0-1), Zanthei (400 words for 4)
+- PG Battles: Ardid (90 words for 1), Cursed Hand (400 words for 4-5), Xaey (120 words for 1-2), Poe (200 words for 2), Vibidi (300 words for 3), Eninir (500 words for 5),  Leopar (800 words for 8), Oncara (900 words for 9), Zhout (900 words for 9), Dusiri (1000 words for 10), Dark Assassin (1200 words for 12), Infected Golem (1500 words for 15)
 
 ### New Wardrobe Items: Late Sept 2020
 

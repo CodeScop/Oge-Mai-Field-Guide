@@ -1,4 +1,4 @@
-LAST UPDATED 8 OCT 2020
+LAST UPDATED 15 OCT 2020
 
 We left off Season 1 (and you **must** complete The Curator of Elder Library to unlock Season 2, and the Season 1 quest list will help with that) back in the Forest. Now, in the Desert, we're on to Season 2: The Season of Wandering, watched over by the Shepherd.
 
@@ -317,34 +317,28 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - later Hunt
 
-- **Late Aug 2020 Sources Outside the Hunt:**
+- **Late Sept 2020 Sources Outside the Hunt:**
 
-  Late August 2020 sources are - wait for it - BLUE. 
+  Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!) 
 
-  ... I am exhausted from the Expedition Explosion this month, so instead of my usual Hunter Token source list built after running a battle against every monster in the game, I'm going to simply list monsters that appear to fit the clue and have the Hunter Token icon in their drop list. Look up their wordcount and infer their drops as you will.
-
-  - Global Battles: Vi, Viyusa, Awa
-  - LF Battles: Spirit Wignow
-  - MT Battles: Ardii, Lorsa, Spirit Lorsini
+  - Global Battles: Vi (5 minutes for 1-4), Viyu (15 minutes for 3-14), Viyusa (25 minutes for 5-20)
+  - LF Battles: Spirit Wignow (450 words for 4-5)
+  - MT Battles: Ardis (70 words for 0-1), Assassin (1400 words for 14), Villager (1300 words for 13)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (may be a leftover from wings last month, may be removed)
-    - FB Battles: Ardii, Spirit Ardia
-    - SC, TT, GL Battles: Global, Hunt Only (was Gobkey overlooked?)
-  - 3PC Battles: Bruja, Yasri
+    - BC Battles: Sacer (120 words for 1-2), Xuso (450 words for 4-5)
+    - FB Battles: Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
+    - SC, TT, GL Battles: Hunt only
+  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
   - ALIEN EXPEDITION:
-    - IC, MS Battles: Global only
-    - SpaceS Battles: Kovar, Noit
-    - RL Battles: ALL THE HOLOGRAMS
-  - Gansu Battles: Furoxi, Sparfly (may be a leftover from wings last month, may be removed)
+    - IC Battles: none
+    - SpaceS Battles: Captain Piak (1667 words for 16-17)
+    - MiningS Battles: Ityf (1250 words for 12-13), Pach (200 words for 2)
+    - RL Battles: Minica (900 words for 9), Tessen (500 words for 5), Zanutaki (500 words for 5)
+  - Gansu Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Sparfly (450 words for 4-5)
   - DESERT EXPEDITION:
-    - DigS Battles: Zera
-    - Ruins Battles: Gordi, Spirit Griffe, Spirit Gordiliana
-  - Riza Battles: Furoxi, Osaril, Sparfly (may be a leftover from wings last month, may be removed)
-  - RAINA EXPEDITION:
-    - SurfaceC, SacredS Battles: Global and Hunt only
-    - SwampL Battle: Rhamp
-  - Balance Battles: Furoxi, Castu, Nuig, Water Rudakai
-  - DFO Battles: Spirit Ardia, Molox, Osalyu, Spirit Papple, Lycosta,  Chaensi, Babu, Miclan
+    - DigS Battles: Loi (150 words for 1-2), Okkorhi (1000 words for 10)
+    - Ruins Battles: Hunt only
+  - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

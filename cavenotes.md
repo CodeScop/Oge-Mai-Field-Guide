@@ -1,16 +1,16 @@
-LAST SAVED FOR UPLOAD Thurs 15 Oct 4:11 PM Eastern Time
+LAST SAVED FOR UPLOAD Tues 13 Oct 4:25 PM Eastern Time
 
 # Quests
 
 These are all my rough notes. I'm slowly stripping them down to the pure Questline Summary as I transfer information to the Guide draft of [quests](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegatequests.md), [monsters](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegatemonsters.md), and [resources](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegateresources.md) for the Purple Gate (and, eventually, for other surprises unlocked along with this stuff). So if something's missing below... it's probably been converted to one of the other sheets.
 
-Such as, "all the quests for Purple Gate proper." We're on to working on the Cave now.
+Such as, "all the quests for Purple Gate proper."
 
 ## CAVE
 
 Open: Gliva, Vafire, Sakot available
 
-Cave: Nooks & Crannies
+Cave: Nooks & Crannies - reach 15-day streak, get Wardrobe: Wet Hair
 
 Cave: Colorful, Vibrant Hallucinations - Defeat 15 Gliva, get Wardrobe: Mushroom Earrings https://4thewords.com/media/wardrobe/featured/male/wm_1266-mushroom-earrings-8924-86461.png
 

@@ -1,4 +1,4 @@
- (Table of Contents last updated 8 Oct 2020)
+ (Table of Contents last updated 15 Oct 2020)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -256,6 +256,12 @@
   - Battle Gear: Dark Forest
   - Dark Forest Wardrobe
   - Dark Forest Questline
+- Purple Gate Notes
+- Purple Gate Summary
+  - Purple Gate Sidequests
+  - Purple Gate Monsters
+  - Purple Gate Resources
+  - Purple Gate Questline
 - Hunt: Season 4 - Jubilee (DUST)
   - Season 4 Quests - The Main Line
   - Season 4 Quests - Miscellaneous

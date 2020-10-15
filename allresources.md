@@ -1,6 +1,6 @@
 #A-F
 
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 15 OCT 2020
 
 ##Abbreviations Used:
 
@@ -94,6 +94,7 @@ ALL GAME
   - Anywhere Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
   - DUST
     - DFO Bones Chest: 140-270
+    - PG Battle: Dark Assassin (1200 words for 25)
   - WATER
     - Riza Stone Chest: 105-185
     - Balance River Chest: 100-220
@@ -245,6 +246,7 @@ slight FOREST, DUST
   - MT Quest: Cool Creature Highlights 2/3 (1)
   - DFO Battles: Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 1), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 1)
   - DFO Quests: Main Quest 1/Ousting the Outpost (1), Main Quest 3/The Right Way? (1), Main Quest 5/ A Fox Untrusted (1), Main Quest 7/The True Reason, Main Quest 9/Detect, Chain, Bind (1), Main Quest 11/To Hound Babu (1), Main Quest 12/Well Of Lost Souls (1), A Shaman's Rope (1), Hounding the Dead 2/4 (3), Message in a Spirit 3/4 (1), Reinforced Ardi Lamp Station 1/4 (1)
+  - PG Quests: Main Quest 8/Fighting the Flame (1-indefinite), Main Quest 9/Fighting the Mountain (2-indefinite), Main Quest 10/A Familiar Fight (3-indefinite), Preventing Purple Power-Ups (1)
 - **Sell price:** 50 Coins (DON'T SELL KEYS, WHY WOULD YOU)
 - **Used for:** 
   - With Bones Chest, drops 140-270 Coins, 2-6 Steel Chains, 2-6 Pieces of Parchment, 1-3 Blue Essence Ink, 1-8 Refined Dust, 1-7 Dried Pulp, 1-4 Spirit Dust, 0-1 Stempo, 0-1 Dark Forest Boots
@@ -258,6 +260,8 @@ DUST, some WATER
 - **Other sources:** 
   - Riza Battle: Velts: Dust (2000 words for 2-4)
   - DFO Battles: Caretaker (1200 words for 1-3), Takori (600 words for 1), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3),  Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 4), Babu (3000 words, 3 Steel Chains, 2 Pieces of Parchment, 1 Blue Essence Ink for 2-3), Burhar (1500 words for 2-4), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 2-3), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 1), Molox (666 words and 1 Steel Chain for 1)
+  - PG Battles: Xaey (120 words for 1), Zhout (600 words for 2), Cursed Hand (400 words for 1)
+  -  PG Battles: Dark Assassin (1200 words for 2-3), Eninir (500 words for 0-1, usually 1), Infected Golem (1500 words for 2)
 - **Sell price:** 12 Coins (don't sell unless you have >150)
 - **Used for:** 
   - Craft DFO: Dark Forest Boots (5), Dark Forest Helmet (10)
@@ -275,6 +279,7 @@ slight FOREST, DUST
   - MT Quests: Warm Creature Highlights 1/3 (2), Cool Creature Highlights 2/3 (1)
   - DFO Battles: Babu (3000 words, 3 Steel Chains, 2 Pieces of Parchment, 1 Blue Essence Ink for 1), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment and 1 Blue Essence Ink for 1)
   - DFO Quests: Main Quest 2/Rats, Wrong Way! (1), Main Quest 4/Attacking The Darkness (1), Main Quest 6/ A Fox Untested (1), Main Quest 8/Bound Up In, Main Quest 10/A Dogged Search, Main Quest 11/To Hound Babu (1), Main Quest 12/Well Of Lost Souls (1); Nasty, Dust Air (1); Pieces for Peace (1), Hounding the Dead 2/4 (1), Message in a Spirit 3/4 (1), Reinforced Ardi Lamp Station 1/4 (1)
+  - PG Quests: Main Quest 7/Fighting the Water (1-indefinite), Main Quest 8/Fighting the Flame (2-indefinite), Main Quest 9/Fighting the Mountain (2-indefinite), Main Quest 10/A Familiar Fight (3-indefinite), Preventing Purple Power-Ups (1)
 - **Sell price:** 100 Coins (DON'T SELL CHESTS, WHY WOULD YOU)
 - **Used for:** 
   - With Bone Key, drops 140-270 Coins, 2-6 Steel Chains, 2-6 Pieces of Parchment, 1-3 Blue Essence Ink, 1-8 Refined Dust, 1-7 Dried Pulp, 1-4 Spirit Dust, 0-1 Stempo, 0-1 Dark Forest Boots
@@ -462,6 +467,7 @@ DUST
   - DFO Battles: Pakkan (300 words for 1), Zanthei (400 words for 1), Takori (600 words for 1)
 - **Other sources:** 
   - DFO Battles: Papple Spirit (900 words for 1), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3), Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 2-4)
+  - PG Battle: Zhout (600 words for 1)
   - DFO Bones Chest: 1-7
 - **Sell price:** 8 Coins (don't sell unless you have >400)
 - **Used for:** 
@@ -487,6 +493,7 @@ ALL GAME
     - Riza Battles: Frizi (150 words for 1-2)
     - SwampL Battles: Heliodae (120 words for 1-2)
     - Hideout Battles: Kivi (100 words for 1)
+  - DUST: PG Battles: Ardid (90 words for 1-2)
 - **Other sources:** FOREST, DESERT
   - FOREST
     - LF Battles: Reenu (200 words for 1)
@@ -507,6 +514,7 @@ ALL GAME
     - SwampL Battles: Tritus (750 words for 1-5), Copei (800 words for 2-4), Larida (1000 words for 2-5)
     - Hideout Battles: Wisthu (800 words for 2-6)
     - Balance Battles: Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 2-8), Water Rudakai (1600 words, 3 Reinforced Rope for 1-3)
+  - DUST: PG Battles: Poe (200 words for 1-3), Vibidi (300 words for 2-4), Eninir (500 words for 2-4), Oncara (900 words for 3-5)
 - **Buy:** 
   - FOREST:  MT Item Shop/Edrie's Market: 8 Coins (not worth it)
   - DESERT: 12 Coins in Item Bazaar/Zilya's Great Bazaar (don't bother)
@@ -655,8 +663,8 @@ DESERT, some WATER
     - SpaceS Battles: Kovar (350 words for 0-1), Yalarr (500 words for 1), Captain Piak (1667 words for 1-4)
     - MSite Battle: Ityf (1250 words for 1-2)
     - RLab Battle: Sulanica (1000 words for 1-2), Dr. Hogglevoss (1200 words for 0-2), Dr. Enoe (1500 words for 1-2)
-  - WATER
-    - Riza Stone Chest drop: 3-6
+  - WATER: Riza Stone Chest drop: 3-6
+  - DUST: PG Battle: Dark Assassin (1200 words for 1-3)
 - **Craft:** DESERT: 3PC Crafts & Trinkets/Shuri of Sand: 5 Raw Fabric, 1 Red Dye, 1 Essence
 - **Sell price:** 75 Coins (don't sell unless you have >50)
 - **Used for:** 
@@ -712,7 +720,7 @@ ALL GAME
 
 # G-O
 
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 15 OCT 2020
 
 ### Glass
 
@@ -783,6 +791,7 @@ DESERT, WATER, DUST
   - WATER
     - Riza Battles: Sparfly (450 words for 1-2)
     - Hideout Battles: Wisthu (800 words for 1-4)
+  - DUST: PG Battles: Zhout (600 words for 1-3), Dusiri (1000 words for 3-4), Infected Golem (1500 words for 1-5)
 - **Other sources:** 
   - DESERT
     - 3PC Battles: Bruja (900 words for 1-2), Lombri (1500 words for 1-2), Yasri (1250 words for 1)
@@ -1043,6 +1052,7 @@ ALL GAME
     - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Kivi (100 words for 1), Wisthu (800 words for 8)
   - Balance Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), River Goddess (5000 words for 50), Spirit Castu (550 words for 5-6)
   - DFO Battles: Ascre (150 words for 1-2), Belasi (200 words for 2), Chu (100 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 20), Dust Wignow (444 words for 4-5), Pakkan (300 words for 3), Spirit Ardia (80 words for 0-1), Zanthei (400 words for 4)
+  - PG Battles: Ardid (90 words for 1), Cursed Hand (400 words for 4-5), Xaey (120 words for 1-2), Poe (200 words for 2), Vibidi (300 words for 3), Eninir (500 words for 5),  Leopar (800 words for 8), Oncara (900 words for 9), Zhout (900 words for 9), Dusiri (1000 words for 10), Dark Assassin (1200 words for 12), Infected Golem (1500 words for 15)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -1359,7 +1369,7 @@ FOREST, DESERT
 
 # P-R
 
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 15 OCT 2020
 
 ### Pickaxe
 
@@ -1418,6 +1428,14 @@ DESERT
     - Gansu Quest: Battle Experience (2), Main Quest 8/Dust to Dust (1-indefinite)
 - **Sell Price:** 100 Coins ( see Used For before selling )
 - **Used for:**  See Protective Cloak. No use at the moment.
+
+### Purple Crystal Shards
+
+DUST
+
+- **Sources:** PG Battles: Ardid (90 words for 0-1), Xaey (120 words for 0-1), Vibidi (300 words for 1-2), Zhout (600 words for 2-3), Poe (200 words for 0-1), Eninir (500 words for 1-2), Dusiri (1000 words for 3-4), Leopar (800 words for 2-3), Oncara (900 words for 2-3), Dark Assassin (1200 words for 2-4), Infected Golem (1500 words for 3-5)
+- **Sell price:** 25 Coins (don't sell until we know what they're for)
+- **Used for:** ??? We'll see!
 
 ### Raina Bracelet
 
@@ -1538,7 +1556,7 @@ DESERT, some FOREST, some WATER
 
 ### Raw Sandstone
 
-DESERT, some WATER
+DESERT, some WATER, some DUST
 
 - **Best source:** Buy,
   - DESERT: 
@@ -1546,6 +1564,7 @@ DESERT, some WATER
     - Dig Battles: Loi (150 words for 1-2), Rif (300 words for 1-2)
     - Ruins Battles: Rif (300 words for 1-2)
     - Post-DFO Ruins Battles: Spirit Griffe (480 words for 1)
+    - PG Battle: Dusiri (1000 words for 2-3)
 - **Other sources:** 
   - DESERT
     - 3PC Battles: Vanspi (10 minutes for 1-5), Velts: Desert (1200 words for 1-3), Lombri (1500 words and 1 Wood Spear for 1-2)
@@ -1603,6 +1622,7 @@ some FOREST, DESERT, some WATER, DUST
     - Riza Battles: Patliadu (750 words, 1 Harpoon for 1-2), Vota (800 words, 2 Rope, 2 River Grass for 1-2), Velts: Dust (2000 words for 3-6), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1-2)
   - DUST
     - DFO Battles: Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3), Molox (666 words and 1 Steel Chain for 3-5), Osalyu (750 words for 1-2)
+    - PG Battles: Cursed Hand (400 words for 1-2), Dark Assassin (1200 words for 1-3)
 - **Buy:** DESERT: 35 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 8 Coins (DO NOT SELL. You will need this to craft SO MANY STEEL BARS.)
 - **Used for:** 
@@ -1626,6 +1646,7 @@ ALL GAME
     - Post-DFO Ruins Battles: Spirit Griffe (480 words for 2-3)
     - ShrineCO Battles: Zainga (250 words for 1-3), Kenkom (360 words for 1-3)
     - Shrine GO Battles: Tryi Ooze (150 words for 0-1), Giant Ooze (1000 words for 1-4)
+  - DUST: PG Battles: Vibidi (300 words for 2-4), Cursed Hand (400 words for 2-4), Zhout (600 words for 2-5), Dusiri (1000 words for 1-4)
 - **Other sources:** 
   - FOREST, DESERT
     - MT & 3PC Battles: Tambo (2000 words, 4 Rope, and 10 Leaves for 1-2)
@@ -1728,7 +1749,8 @@ some DESERT, DUST
   - DFO Bones Chest: 1-8
   - DFO Battles: Pakkan (300 words for 1), Takori (600 words for 2), Zanthei (400 words for 1), Dust Wignow (444 words for 1), Papple Spirit (900 words for 1), Burhar (1500 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 3), Molox (666 words and 1 Steel Chain for 1), Osalyu (750 words for 2)
   - Post-DFO MT Battle: Spirit Lorsini (1000 words for 1)
-  - Post-DFO Ruins Battle: Spirit Goriliana (800 words for 1-2)
+  - Post-DFO Ruins Battle: Spirit Gordiliana (800 words for 1-2)
+  - PG Battle: Cursed Hand (400 words for 1-2), Eninir (500 words for 1-2), Infected Golem (1500 words for 3-5), Dark Assassin (1200 words for 2-4), Dusiri (1000 words for 2), Oncara (900 words for 1)
 - **Sell price:** 4 Coins (don't sell unless you have >400)
 - **Used for:** 
   - DESERT: RLab Quest: Testing the Valley (2)
@@ -1749,7 +1771,9 @@ Note: Must complete the DFO Quest Reinforced Ardi Lamp Station to unlock the abi
   - DFO Quest: Reinforced Ardi Lamp Station 1/4 (5)
 - **Craft:** DFO Item Shop & Craft/Dessti's Shack: 1 Reinforced Rope, 1 Hardwood, 3 Ardia Dust, 3 Ardii Dust, 3 Ardis Dust, 1 Steel
 - **Sell price:** 50 Coins (you'll probably never have enough to think about selling)
-- **Used for:** DFO Quest: Light Up The Outpost 2/4 (10), The Path South 3/4 (25), The Gate Path 4/4 (50)
+- **Used for:** 
+  - DFO Quests: Light Up The Outpost 2/4 (10), The Path South 3/4 (25), The Gate Path 4/4 (50)
+  - PG Quest: Create Your Path (25)
 
 ### Reinforced Rope
 
@@ -1962,7 +1986,9 @@ ALL GAME
     - SacredS Battles: Toccal (800 words for 1-2), Pedja (1000 words for 1-2), Swamp Wignow (500 words for 0-1)
     - Hideout Battles: Wisthu (800 words for 1-3), Drau (1000 words for 1-3)
     - Balance Battles: Isartu (720 words for 2-4)
-  - DUST: DFO Battles: Burhar (1500 words for 3-5), Caretaker (1200 words for 2-4), Takori (600 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 2-5)
+  - DUST
+    - DFO Battles: Burhar (1500 words for 3-5), Caretaker (1200 words for 2-4), Takori (600 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 2-5)
+    - PG Battle: Leopar (800 words for 2-3)
 - **Buy:** FOREST, WATER 8 Coins in MT Item Shop/Edrie's Market OR Riza Item Shop/Luko's Inn, DESERT 12 Coins in 3PC Item Bazaar/Zilya's Great Bazaar
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
 - **Used for:** 
@@ -2030,7 +2056,7 @@ FOREST, some DESERT
 
 # S
 
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 15 OCT 2020
 
 ### Sacred Feather
 
@@ -2156,7 +2182,7 @@ FOREST, some WATER
 - **Equip:** Weapon2: +3 Attack, +0 Defense, +0 Luck
 
 ### Spider Legs
-FOREST, some DESERT
+FOREST, some DESERT, some DUST
 
 - **Best sources:** 
   - FOREST: LF Battles: Aracni (400 words for 2) 
@@ -2164,8 +2190,8 @@ FOREST, some DESERT
   - FOREST
     - LF Battles: Aracnu (800 words for 1)
     - MT Battles: Kuay (400 words for 1)
-  - DESERT:
-    - ShrinePoly Battles: Poly Aracnu (600 words for 1)
+  - DESERT: ShrinePoly Battle: Poly Aracnu (600 words for 1)
+  - DUST: PG Battle: Oncara (900 words for 2)
 - **Buy:** FOREST: 20 Coins in LF Item Shop/Alex's Shop 
 - **Sell price:** 4 Coins (Don't sell unless you have >50)
 - **Used for:** 
@@ -2183,6 +2209,7 @@ FOREST, DESERT, some WATER, DUST
   - FOREST
     - LF Battles: Aracni (400 words for 1 with luck)
     - LF Wooden Chest (1-3 per chest)
+  - DUST: PG Battle: Oncara (900 words for 1-3)
 - **Other sources:** 
   - FOREST
     - LF Battles: Aracnu (800 words for 1-2)
@@ -2196,7 +2223,9 @@ FOREST, DESERT, some WATER, DUST
     - Shrine GO Battles: Giant Ooze (1000 words for 0-1)
     - ShrinePoly Battles: Poly Aracnu (600 words for 1-2)
   - WATER: Riza Battle: Velts: Dust (2000 words for 2-4)
-  - DUST: DFO Battle: Caretaker (1200 words for 1)
+  - DUST: 
+    - DFO Battle: Caretaker (1200 words for 1)
+    - PG Battle: Leopar (800 words for 1-2)
 - **Sell price:** 4 Coins (Don't sell; there is always a use lurking somewhere. As long as quests exists, there is always a use.)
 - **Used for:**
   - FOREST
@@ -2451,7 +2480,9 @@ The ability to craft Stempos in Gansu unlocks after a series of side quests. Reb
     - SurfaceC Quest: Steel Boots (3)
     - Hideout Quest: Uncanny Swamp Wisthu (3)
     - Balance Quests: Rudakai Master (5)
-  - DUST: DFO Bones Chest: 0-1
+  - DUST: 
+    - DFO Bones Chest: 0-1
+    - PG Quest: Main Quest 10/A Familiar Fight (3-indefinite)
 - **Craft:** DESERT: Gansu Crafts & Trinkets/Wynfri of Water: 1 Sacred Feather, 1 White Fur, 10 Essence, 1 Glass Bar, 1 Gold Bar
 - **Sell Price:** Priceless. Sorry, 250 Coins, but DON'T SELL.
 - **Used for:** 
@@ -2472,11 +2503,13 @@ some FOREST, DESERT, DUST
 
 The game usually simply calls this **Stone**. I like to make sure I'm distinguishing between this and the dozen other Stone things, so I call 'em Stone Blocks.
 
-- **Sources:** Craft, DESERT: 
-  - 3PC & Gansu Battles: Rulo (550 words for 1)
-  - IC Battles: Rosarin (500 words for 0-1)
-  - MSite Battles: Ityf (1250 words for 1-2), Zals (900 words for 1), Skarn (1100 words for 1), Deepo (1667 words for 0-1)
-  - Ruins Quests: Gordi & Griffe Gather (5)
+- **Sources:** Craft, 
+  - DESERT: 
+    - 3PC & Gansu Battles: Rulo (550 words for 1)
+    - IC Battles: Rosarin (500 words for 0-1)
+    - MSite Battles: Ityf (1250 words for 1-2), Zals (900 words for 1), Skarn (1100 words for 1), Deepo (1667 words for 0-1)
+    - Ruins Quests: Gordi & Griffe Gather (5)
+  - DUST: PG Battle: Infected Golem (1500 words for 1-2)
 - **Craft:** DESERT: 3PC Blacksmith/Blacksmith Barliar: 3 Raw Stone, 1 Rope, and 5 Coins
 - **Sell price:** 8 Coins (don't sell, not worth it)
 - **Used for:**
@@ -2574,7 +2607,7 @@ WATER
 
 # T-Z
 
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 15 OCT 2020
 
 ### Tambo Mane
 
@@ -2683,6 +2716,7 @@ ALL GAME
   - WATER:
     - SurfaceC Battles: Rea & Pira (150 words for 1)
     - SwampL Battles: Tritus (750 words for 5-9)
+  - DUST: PG Battle: Poe (200 words for 1-2)
 - **Other sources:** 
   - Anywhere Battles: Viyu (15 minutes for 2-7)
   - FOREST
@@ -2716,7 +2750,9 @@ ALL GAME
     - SacredS Battles: Ognimaf (300 words for 1-2), Toccal (800 words for 1-2)
     - Hideout Battles: Cafodu (600 words for 2-6), Grongu (2000 words for 2-4)
     - Balance Battles: Velts: Water (1600 words for 5-10)
-  - DUST: DFO Battles: Zanthei (400 words for 1-2), Caretaker (1200 words for 3-5)
+  - DUST: 
+    - DFO Battles: Zanthei (400 words for 1-2), Caretaker (1200 words for 3-5)
+    - PG Battles: Infected Golem (1500 words for 3-6), Leopar (800 words for 1-3)
 - **Buy:** FOREST: 8 Coins in LF Item Shop/Alex's Shop DESERT: 12 Coins in 3PC Item Bazaar/Zilya's Great Bazaar
 - **Sell price:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)
 - **Used for:** 

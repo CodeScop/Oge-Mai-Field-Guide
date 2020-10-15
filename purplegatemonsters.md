@@ -30,7 +30,7 @@ LAST UPDATED 13 OCT 2020
 - **Drops:** 2-4 Purple Crystal Shards, 1-3 Raw Steel, 1-3 Fine Fabric, 2-4 Refined Dust, 2-3 Bones, 25 Coins
 - **Quests:** PG: Main Quest 5/What Lies Uncovered (3), A Coordinated Attack 1/2 (5), A Coordinated Attack 2/2 (10)
 
-### * Dark Reflection
+### * Dark Reflection (Available ONLY during Main Quest 10)
 
 - **Location:** Purple Gate
 - **Unlocked by:** PG MQ9/ Fighting the Mountain
@@ -50,7 +50,7 @@ LAST UPDATED 13 OCT 2020
 - **Drops:** 1-4 Raw Stone, 2 Refined Dust, 3-4 Purple Crystal Shards, 2-4 Glass Shards, 2-3 Raw Sandstone
 - **Quests:** PG: MQ4/A Ruined Path (5), Cursed Violet Winds (6)
 
-### * Dust Azadi
+### * Dust Azadi (Available ONLY during Main Quest 8)
 
 - **Location:** Purple Gate
 - **Unlocked by:** PG MQ7/ Fighting the Water
@@ -60,7 +60,7 @@ LAST UPDATED 13 OCT 2020
 - **Drops:** 2 Bones Chests, 1 Bone Key
 - **Quests:** PG: Main Quest 8/Fighting the Flame (1)
 
-### * Dust Lodo
+### * Dust Lodo (Available ONLY during Main Quest 7)
 
 - **Location:** Purple Gate
 - **Unlocked by:** PG MQ6/ A Fearful Path
@@ -70,7 +70,7 @@ LAST UPDATED 13 OCT 2020
 - **Drops:** 1 Bones Chest
 - **Quests:** PG: Main Quest 7/Fighting the Water (1)
 
-### * Dust Suwö
+### * Dust Suwö (Available ONLY during Main Quest 9)
 
 - **Location:** Purple Gate
 - **Unlocked by:** PG MQ8/ Fighting the Flame
