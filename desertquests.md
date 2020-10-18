@@ -1,4 +1,4 @@
-LAST UPDATED 8 OCT 2020
+LAST UPDATED 18 OCT 2020
 
 So, all the quests for the Desert Region. I'm omitting any Main Quests outside the Desert, and for non-Desert Quests I'm listing only the name and location. Let's have a quick recap of how this works:
 
@@ -731,7 +731,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
   - 5 Dinti
   - 5 Saliva Vials - Base Camp
   - 5 Feathers - easiest to find in the Forest Region
-- **Rewards:** none listed; unlocking quests to unlock experimental monsters (and possibly 1 Coin?)
+- **Rewards:** none listed; unlocking quests to unlock experimental monsters (and 1 Coin, per experimental results)
 - **Recommendations:** That is a long shopping list. I hope you can find Dinti without my labeling it (you're IN the Alien Meteoroid Expedition after all), and many of the items are very common, but I've added locations to find the more obscure resources.
 
 ### Enter Pan's Labyrinth - LF

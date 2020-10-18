@@ -1,4 +1,4 @@
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 18 OCT 2020
 
 This includes ONLY info for the Alien Meteoroid areas. Yes, you have access to 3PC and the Forest! Please consult those sections for the list of resources there. Or skip ahead to the Desert Resources or All Resources if you don't mind possible spoilers.
 
@@ -18,6 +18,7 @@ Abbreviations:
 - Anywhere Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
   - SpaceS Battles: Noit (800 words for 2-8), Captain Piak (1667 words for 2-11)
   - MSite Battles: Ityf (1250 words for 5-15)
+  - RLab Quest: Encourage an Ecosystem 4/4 (1)
 - sell items (River Grass and Gold Bars can be especially good for this; Raw Fabric can also be useful. Protective Mantles & Cloaks may also be sold.)
   
 - **Buy:** MT Item Shop/Edrie's Market: 1 Core Crystal for 100 Coins or 5 Core Crystals for 500 Coins

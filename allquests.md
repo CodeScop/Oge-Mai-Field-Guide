@@ -1,4 +1,4 @@
-LAST UPDATED 8 OCT 2020
+LAST UPDATED 18 OCT 2020
 
 Okay! So, I'm going to try to consolidate ALL THE QUESTS in the game. Everything that isn't a Main Quest will be listed in alphabetical order after the Main Quests. The Main Quests will be in order, since it's a clearly defined road; and that "road" metaphor will extend in multiple directions. Hence, the new "Route" line of info to tell you how to find it/where you picked it up.
 
@@ -1484,7 +1484,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
   - 5 Dinti
   - 5 Saliva Vials - Base Camp
   - 5 Feathers - easiest to find in the Forest Region
-- **Rewards:** none listed; unlocking quests to unlock experimental monsters (and possibly 1 Coin?)
+- **Rewards:** none listed; unlocking quests to unlock experimental monsters (and 1 Coin, per experimental results)
 - **Recommendations:** That is a long shopping list. I hope you can find Dinti without my labeling it (you're IN the Alien Meteoroid Expedition after all), and many of the items are very common, but I've added locations to find the more obscure resources.
 
 ### Energy Now, Tired Later - SurfaceC
