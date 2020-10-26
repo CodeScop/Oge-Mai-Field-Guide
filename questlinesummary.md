@@ -1,4 +1,4 @@
-LAST UPDATED 18 OCT 2020
+LAST UPDATED 25 OCT 2020
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
@@ -250,7 +250,27 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
    - CAVE Colorful, Vibrant Hallucinations - defeat 15 Gliva, get Wardrobe: Mushroom Earrings
    - CAVE 100 Minds to Explore - defeat 100 Vafire, get Wardrobe: Vafire Head
    - CAVE Bridge for the Future - deliver 15 Hardwood, 15 Reinforced Rope, and 10 Steel Bars, get Wardrobe: Tacin Crown
-- **CAVE Main Quest 1/Meet the Shadow** - Defeat...
+- **CAVE Main Quest 1/ Meet the Shadow** - Defeat 2 Sakot, 5 Vafire, and 3 Gliva, get Wardrobe: Basic Boots Cave
+   - CAVE I Am the Night - Defeat 20 Tacin, get Wardrobe: Tacin Shoulder Pads 
+   - CAVE Crab Claw Clack - Defeat 25 Chio, get Wardrobe: Spike Nose Ring and Wardrobe: Fishbone Brow Piercing
+- **CAVE Main Quest 2/Talk with Shadow** - Defeat 1 Attwo, 8 Tacin, and 12 Chio, get Wardrobe: Basic Pants Cave
+   - CAVE Fuzzy Cave Pillows - Defeat 5 Attwo, get Wardrobe: Attwo Necklace
+- **CAVE Main Quest 3/ Sharpening Stubborn Stones** - Defeat 1 Ghost Suwö, get Wardrobe: Smoke Eye Makeup
+   - CAVE Dry Stale Air - Defeat 5 Tacin and 5 Fosfa, get Wardrobe: Tacin Ribcage
+- **CAVE Main Quest 4/ Discuss with Shadow** - Defeat 3 Olanat, 3 Letos, and 3 Gliva, get Wardrobe: Mushroom Hair
+   - CAVE A Bone to Pick - Defeat 10 Sakot and 10 Letos, get Wardrobe: Letos Ear Piercing
+   - Ghost Azadi monster
+- **CAVE Main Quest 5/ It was Like Lightning** - Defeat 1 Ghost Azadi, get Wardrobe: Smoke Shoulder Makeup
+   - CAVE Fighting Fallen Soldiers (1/2) - Defeat 10 Gormist and 10 Olanat, get Wardrobe: Olanat Hair
+     - CAVE Fighting Fallen Soldiers (2/2) - Defeat 20 Gormist and 20 Olanat, get Wardrobe: Tainted Sword
+- **CAVE Main Quest 6/Speak with Shadow** - Defeat 5 Spina and 5 Ulos, get Wardrobe: Basic Shirt Cave
+   - Ghost Lodo unlocked
+   - CAVE Submerged Spikey Swim (1/2) - Defeat 5 Letos, 8 Ulos, and 10 Spina, get Wardrobe: Spina Necklace
+     - CAVE Submerged Spikey Swim (2/2) - Defeat 10 Letos, 20 Ulos, and 30 Spina to get Wardrobe: Ulos Mask
+- **CAVE Main Quest 7/Dam the Guilt** - Defeat Ghost Lodo, get Wardrobe: Cave Eyes
+   - CAVE Leatherbacks of the Cave - Defeat 3 Kohej, get Wardrobe: Spike Necklace and Wardrobe: Spike Ankle Bracelet
+- **CAVE Main Quest 8/The Final Fight** - Defeat 1 Reflection, get Wardrobe: Translucid Chest
+   - CAVE Reflections for Improvement - Defeat 4 Reflection, get Wardrobe: Reflection Puddle
 
 ## Questline - Forest Expedition
 
@@ -499,9 +519,14 @@ Season 3 is unlocked by completing Stumbling Upon Sheep quest, and you can see t
 Season 4 is unlocked by completing the quest A Bubble Dream, and you can see that questline in Season 3.
 
 - HuntS4 A Battle of Evolution - **(Note: This has as prerequisite the "HuntS3" quest Battle of Constitution. Unlocking Season 4 is not necessary, but since this was released with S4, I'm including it in S4.)** Defeat 1 Dust version of Velts, get Wardrobe: Hunt Battle Helmet
-- HuntS4 Cheer Your Dedication - write 10K words & make 5 Forum posts, get 15 Hunter Tokens
 - HuntS4 Sing Your Enthusiasm - defeat 10 Zanthei, get 20 Hunter Tokens
+  - HuntS4 Sing Your Bravery (2/2) - defeat 10 Cursed Hands, get 15 Hunter Tokens
+- HuntS4 Cheer Your Dedication - write 10K words & make 5 Forum posts, get 15 Hunter Tokens
+- HuntS4 Jubilant and Strong - defeat 100 of any monster, get 50 Hunter Tokens
+- HuntS4 On the Wrong Path - defeat 3 Infected Golems, get 25 Hunter Tokens
 - HuntS4 To Celebrate and Share - defeat 6 Takori, get 20 Hunter Tokens
 - HuntS4 Into the Woods - defeat a bunch of DFO spirits, get 50 Hunter Tokens
-- HuntS4 Something Extraordinary - defeat 3 Mirdor, get Hunt Map Piece 10 and 10 Hunter Tokens
 - HuntS4 Dirt to Dust - have Hunt Map Piece 10 and attain 5-day Streak, get Wardrobe: Hunt Golden Brooch
+  - HuntS3 Celebrate Joy - have Hunt Map Piece 10 and attain 7-day Streak, get Wardrobe: Facepaint Eye Stroke
+- HuntS4 Something Extraordinary - defeat 3 Mirdor, get Hunt Map Piece 10 and 10 Hunter Tokens
+- HuntS4 Ideas Brought to Life - defeat 3 Weekiwa, get Hunt Map Piece 11 and 10 Hunter Tokens

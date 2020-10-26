@@ -1,49 +1,50 @@
-LAST SAVED FOR UPLOAD Tues 13 Oct 4:25 PM Eastern Time
+LAST SAVED FOR UPLOAD Sun 25 Oct 8:56 PM Eastern Time
+
+If you're here, then you probably know enough to know there's a Cave beyond the Purple Gate. I've transferred the questline to the summary in the Guide, but the rest of my notes still need some refining. I've finished all but the last tidbits of data gathering; once I finish confirming the range of monster drops, I'll probably start integrating the data.
 
 # Quests
 
-These are all my rough notes. I'm slowly stripping them down to the pure Questline Summary as I transfer information to the Guide draft of [quests](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegatequests.md), [monsters](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegatemonsters.md), and [resources](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegateresources.md) for the Purple Gate (and, eventually, for other surprises unlocked along with this stuff). So if something's missing below... it's probably been converted to one of the other sheets.
+Have finally gotten all quests details [here](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/cavequests.md) (apart from recommendations, which are forthcoming as of this writing). The questline summary is as follows:
 
-Such as, "all the quests for Purple Gate proper."
-
-## CAVE
-
-CAVE: 100 Minds to Explore - Defeat 100 Vafire, get Wardrobe: Vafire Head
-
-CAVE: Bridge for the Future - Deliver 15 Hardwood, 15 Reinforced Rope, and 10 Steel Bars, and get Wardrobe: Tacin Crown
-
-CAVE: Colorful, Vibrant Hallucinations - Defeat 15 Gliva, get Wardrobe: Mushroom Earrings
-
-CAVE: Nooks & Crannies - reach 15-day streak, get Wardrobe: Wet Hair
-
+- - CAVE Nooks & Crannies - attain a 15-day streak, get Wardrobe: Wet Hair
+  - CAVE Colorful, Vibrant Hallucinations - defeat 15 Gliva, get Wardrobe: Mushroom Earrings
+  - CAVE 100 Minds to Explore - defeat 100 Vafire, get Wardrobe: Vafire Head
+  - CAVE Bridge for the Future - deliver 15 Hardwood, 15 Reinforced Rope, and 10 Steel Bars, get Wardrobe: Tacin Crown
 - **CAVE Main Quest 1/ Meet the Shadow** - Defeat 2 Sakot, 5 Vafire, and 3 Gliva, get Wardrobe: Basic Boots Cave
-  - Chio, Tacin, Attwo
   - CAVE I Am the Night - Defeat 20 Tacin, get Wardrobe: Tacin Shoulder Pads 
   - CAVE Crab Claw Clack - Defeat 25 Chio, get Wardrobe: Spike Nose Ring and Wardrobe: Fishbone Brow Piercing
 - **CAVE Main Quest 2/Talk with Shadow** - Defeat 1 Attwo, 8 Tacin, and 12 Chio, get Wardrobe: Basic Pants Cave
-  - Ghost Suwö monster
-  - CAVE Fuzzy Cave Pillows - Defeat 5 Attwo, get Attwo Necklace https://4thewords.com/media/wardrobe/featured/male/wm_1258-claws-necklace-8904-31953.png
+  - CAVE Fuzzy Cave Pillows - Defeat 5 Attwo, get Wardrobe: Attwo Necklace
 - **CAVE Main Quest 3/ Sharpening Stubborn Stones** - Defeat 1 Ghost Suwö, get Wardrobe: Smoke Eye Makeup
-  - Olanat, Fosfa, Letos
-  - CAVE Dry Stale Air - Defeat 5 Tacin and 5 Fosfa, get Wardrobe: Tacin Ribcage https://4thewords.com/media/wardrobe/featured/female/wf_1259-corset-8906-74625.png
+  - CAVE Dry Stale Air - Defeat 5 Tacin and 5 Fosfa, get Wardrobe: Tacin Ribcage
 - **CAVE Main Quest 4/ Discuss with Shadow** - Defeat 3 Olanat, 3 Letos, and 3 Gliva, get Wardrobe: Mushroom Hair
-  - CAVE A Bone to Pick - Defeat 10 Sakot and 10 Letos, get Wardrobe: Letos Ear Piercing https://4thewords.com/media/wardrobe/featured/male/wm_1235-fishskull-medium-earpiercing-8675-13088.png
+  - CAVE A Bone to Pick - Defeat 10 Sakot and 10 Letos, get Wardrobe: Letos Ear Piercing
   - Ghost Azadi monster
 - **CAVE Main Quest 5/ It was Like Lightning** - Defeat 1 Ghost Azadi, get Wardrobe: Smoke Shoulder Makeup
-  - CAVE Fighting Fallen Soldiers (1/2) - Defeat 10 Gormist and 10 Olanat, get Wardrobe: Olanat Hair https://4thewords.com/media/wardrobe/featured/male/wm_1220-mushroom-hat-8603-56013.png
-    - CAVE Fighting Fallen Soldiers (2/2) - Defeat 20 Gormist and 20 Olanat, get Wardrobe: Tainted Sword https://4thewords.com/media/wardrobe/featured/male/wm_1274-sword-8958-92313.png
-  - Gormist, Ulos, Spina unlocked
+  - CAVE Fighting Fallen Soldiers (1/2) - Defeat 10 Gormist and 10 Olanat, get Wardrobe: Olanat Hair
+    - CAVE Fighting Fallen Soldiers (2/2) - Defeat 20 Gormist and 20 Olanat, get Wardrobe: Tainted Sword
 - **CAVE Main Quest 6/Speak with Shadow** - Defeat 5 Spina and 5 Ulos, get Wardrobe: Basic Shirt Cave
   - Ghost Lodo unlocked
-  - CAVE Submerged Spikey Swim (1/2) - Defeat 5 Letos, 8 Ulos, and 10 Spina, get Wardrobe: Spina Necklace https://4thewords.com/media/wardrobe/featured/male/wm_1262-fish-necklace-8912-88199.png
-    - CAVE Submuerged Spikey Swim (2/2) - Defeat 10 Letos, 20 Ulos, and 30 Spina to get Wardrobe: Ulos Mask https://4thewords.com/media/wardrobe/featured/male/wm_1272-starfish-mask-8952-26047.png
+  - CAVE Submerged Spikey Swim (1/2) - Defeat 5 Letos, 8 Ulos, and 10 Spina, get Wardrobe: Spina Necklace
+    - CAVE Submerged Spikey Swim (2/2) - Defeat 10 Letos, 20 Ulos, and 30 Spina to get Wardrobe: Ulos Mask
 - **CAVE Main Quest 7/Dam the Guilt** - Defeat Ghost Lodo, get Wardrobe: Cave Eyes
-  - CAVE Leatherbacks of the Cave - Defeat 3 Kohej, get Wardrobe: Spike Necklace https://4thewords.com/media/wardrobe/featured/male/wm_1270-spike-necklace-8948-74022.png and Wardrobe: Spike Ankle Bracelet https://4thewords.com/media/wardrobe/featured/male/wm_1267-spike-ankle-bracelet-8930-28893.png
-  - Reflection, Kohej unlocked
+  - CAVE Leatherbacks of the Cave - Defeat 3 Kohej, get Wardrobe: Spike Necklace and Wardrobe: Spike Ankle Bracelet
 - **CAVE Main Quest 8/The Final Fight** - Defeat 1 Reflection, get Wardrobe: Translucid Chest
-  - CAVE Reflections for Improvement - Defeat 4 Reflection, get Wardrobe: Reflection Puddle https://4thewords.com/media/wardrobe/featured/male/wm_1227-avatar-reflection-puddle-8617-20633.png
+  - CAVE Reflections for Improvement - Defeat 4 Reflection, get Wardrobe: Reflection Puddle
 
-NOTE: No new outside quests to this point
+# Monsters
+
+All monster data is in the notes [here](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/cavemonsters.md).
+
+# Resources
+
+### Cave Mushroom
+
+- **Sources:** CAVE Battles: 
+- **Sell price:** 25 Coins (hang on to these for the time being, till we know what they're for)
+- **Used for:** Mushroom Paint wardrobe shop
+
+## CAVE STORE
 
 Letos Tattoo - 50 Cave Mushrooms
 
@@ -54,30 +55,3 @@ Eyes Tattoos - 50 Cave Mushrooms
 Ulos Filled-In Tattoo - 100 Cave Mushrooms
 
 Letos Filled-In Tattoo - 100 Cave Mushrooms
-
-
-
-# Monsters
-
-**NOTE: Once the monster is added to the [Guide Draft for Purple Gate Monsters](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegatemonsters.md), it no longer appears here.**
-
-No additional costs anywhere
-
-Monster	Words	Minutes
-		
-CAVE		
-Attwo	1500	450
-Chio	100	10
-Fosfa	800	120
-Gormist	1667	1440
-Kohej	2000	600
-Letos	700	120
-Olanat	1100	180
-Reflection	4444	4320
-Spina	450	45
-Tacin	150	15
-Ulos	650	90
-
-# Resources
-
-I'm done keeping these in general notes; the info has moved to  [resources](https://github.com/CodeScop/Oge-Mai-Field-Guide/blob/master/purplegateresources.md).
