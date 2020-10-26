@@ -1,8 +1,7 @@
-LAST UPDATED 13 OCT 2020
+LAST UPDATED 26 OCT 2020
 
 ### * Ardid
 
-- **Location:** Purple Gate
 - **Unlocked by:** PG Main Quest 2/A Desolate Path
 - **Requirements:** 90 words
 - **Time allowed:** 10 minutes
@@ -12,7 +11,6 @@ LAST UPDATED 13 OCT 2020
 
 ### Cursed Hand
 
-- **Location:** Purple Gate
 - **Unlocked by:** opening Purple Gate
 - **Requirements:** 400 words
 - **Time allowed:** 45 minutes
@@ -22,7 +20,6 @@ LAST UPDATED 13 OCT 2020
 
 ### * Dark Assassin
 
-- **Location:** Purple Gate
 - **Unlocked by:** PG MQ4/A Ruined Path
 - **Requirements:** 1200 words
 - **Time allowed:** 180 minutes (3 hours)
@@ -32,7 +29,6 @@ LAST UPDATED 13 OCT 2020
 
 ### * Dark Reflection (Available ONLY during Main Quest 10)
 
-- **Location:** Purple Gate
 - **Unlocked by:** PG MQ9/ Fighting the Mountain
 - **Requirements:** 4444 words
 - **Time allowed:** 4320 minutes (72 hours, or 3 days)
@@ -42,7 +38,6 @@ LAST UPDATED 13 OCT 2020
 
 ### * Dusiri
 
-- **Location:** Purple Gate
 - **Unlocked by:** Main Quest 3/Keep Pushing Forward
 - **Requirements:** 1000 words
 - **Time allowed:** 240 minutes (4 hours)
@@ -52,7 +47,6 @@ LAST UPDATED 13 OCT 2020
 
 ### * Dust Azadi (Available ONLY during Main Quest 8)
 
-- **Location:** Purple Gate
 - **Unlocked by:** PG MQ7/ Fighting the Water
 - **Requirements:** 2000 words
 - **Time allowed:** 1440 minutes (24 hours, or 1 day)
@@ -62,7 +56,6 @@ LAST UPDATED 13 OCT 2020
 
 ### * Dust Lodo (Available ONLY during Main Quest 7)
 
-- **Location:** Purple Gate
 - **Unlocked by:** PG MQ6/ A Fearful Path
 - **Requirements:** 1000 words
 - **Time allowed:** 720 minutes (12 hours)
@@ -72,7 +65,6 @@ LAST UPDATED 13 OCT 2020
 
 ### * Dust Suwö (Available ONLY during Main Quest 9)
 
-- **Location:** Purple Gate
 - **Unlocked by:** PG MQ8/ Fighting the Flame
 - **Requirements:** 3000 words
 - **Time allowed:** 2880 minutes (48 hours, or 2 days)
@@ -82,7 +74,6 @@ LAST UPDATED 13 OCT 2020
 
 ### * Eninir
 
-- **Location:** Purple Gate
 - **Unlocked by:** PG Main Quest 2/A Desolate Path
 - **Requirements:** 500 words
 - **Time allowed:** 30 minutes
@@ -92,7 +83,6 @@ LAST UPDATED 13 OCT 2020
 
 ### * Infected Golem
 
-- **Location:** Purple Gate
 - **Unlocked by:** PG MQ5/ What Lies Uncovered
 - **Requirements:**1500 words
 - **Time allowed:** 300 minutes (10 hours)
@@ -102,7 +92,6 @@ LAST UPDATED 13 OCT 2020
 
 ### * Leopar
 
-- **Location:** Purple Gate
 - **Unlocked by:** Main Quest 3/Keep Pushing Forward
 - **Requirements:** 800 words
 - **Time allowed:** 90 minutes (1 hour and 30 minutes)
@@ -112,7 +101,6 @@ LAST UPDATED 13 OCT 2020
 
 ### * Oncara
 
-- **Location:** Purple Gate
 - **Unlocked by:**  Main Quest 1/Then The Bird Said
 - **Requirements:** 900 words
 - **Time allowed:** 90 minutes (1 hour and 30 minutes)
@@ -122,7 +110,6 @@ LAST UPDATED 13 OCT 2020
 
 ### Poe
 
-- **Location:** Purple Gate
 - **Unlocked by:** opening Purple Gate
 - **Requirements:** 200 words
 - **Time allowed:** 25 minutes
@@ -132,7 +119,6 @@ LAST UPDATED 13 OCT 2020
 
 ### * Vibidi
 
-- **Location:** Purple Gate
 - **Unlocked by:**  Main Quest 1/Then The Bird Said
 - **Requirements:** 300 words
 - **Time allowed:** 30 minutes
@@ -142,7 +128,6 @@ LAST UPDATED 13 OCT 2020
 
 ### Xaey
 
-- **Location:** Purple Gate
 - **Unlocked by:** opening Purple Gate
 - **Requirements:** 120 words
 - **Time allowed:** 15 minutes
@@ -152,7 +137,6 @@ LAST UPDATED 13 OCT 2020
 
 ### * Zhout
 
-- **Location:** Purple Gate
 - **Unlocked by:** PG MQ4/A Ruined Path
 - **Requirements:** 600 words
 - **Time allowed:** 90 minutes (1 hour and 30 minutes)

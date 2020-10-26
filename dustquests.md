@@ -1,4 +1,4 @@
-LAST UPDATED 8 OCT 2020
+LAST UPDATED 26 OCT 2020
 
 And now, all the quests for the Dust Region. As with the Desert and Water, I'm omitting any Main Quests outside this Region, and for non-Dust Quests I'm listing only the name and location. Let's have a quick recap of how this works:
 
@@ -77,6 +77,8 @@ NOTE: All Hunt quests are picked up in Luciola Forest, regardless of what Region
 **Oge-Mai Dust Region**
 
 - DFO: Dark Forest Outpost
+- PG: Purple Gate
+- CAVE: Cave
 
 #Main Quests, in Order of Unlocking
 
@@ -192,9 +194,182 @@ NOTE: To trigger the DFO Main Quests, you will have to pick up the first one as 
 - **Rewards:** 1 Bones Chest & 1 Bone Key
 - **Recommendations:**  Yes, it's a grind. Same as the end of several other regions. But it's a grind you know how to beat. And if you want to go pick up the new sidequest that lets you just battle Babu instead, it'll give you a shiny new Weapon1 with as much Attack as a Steel Mace (previous winner of Attack) and an additional 4 Luck.
 
+### PG Main Quest 1/Then The Bird Said
+
+NOTE: To trigger the PG Main Quests, you will have to pick up the first one as if it were a side quest. After that, they'll behave more normally.
+
+- **Location:** Purple Gate
+- **Main Quest Highway:** PG MQ1
+- **Type:** Battle
+- **Requirements:** Defeat 5 Poe, 5 Xaey, and 3 Cursed Hands
+- **Rewards:** Wardrobe: Basic Boots Purple Gate https://4thewords.com/media/wardrobe/featured/female/wf&#95;1285-basic-boots-purple-gate-9102-70235.png
+- **Recommendations:** Welcome to the Purple Gate, land of wardrobe rewards galore! There's very little in the way of resource-based gameplay here, so you won't need any guidance on that front; most of the monsters are quite straightforward, as well. So for most of these, my advice will be simple: up to you!
+
+### PG Main Quest 2/A Desolate Path
+
+- **Location:** Purple Gate
+- **Main Quest Highway:** PG MQ2
+- **Type:** Battle
+- **Requirements:** Defeat 3 Oncara and 6 Vibidi
+- **Rewards:** Wardrobe: Basic Pants Purple Gate https://4thewords.com/media/wardrobe/featured/female/wf&#95;1286-basic-pants-purple-gate-9104-70076.png
+- **Recommendations:** As with many of the Purple Gate Main Quests, this one opens alongside new sidequests taking advantage of the same monsters the main quest uses. Check them out to double-dip!
+
+### PG Main Quest 3/Keep Pushing Forward
+
+- **Location:** Purple Gate
+- **Main Quest Highway:** PG MQ3
+- **Type:** Battle
+- **Requirements:** Defeat 8 Eninir and 10 Ardid
+- **Rewards:** Wardrobe: Basic Shirt Purple Gate https://4thewords.com/media/wardrobe/featured/male/wm&#95;1287-basic-shirt-purple-gate-9106-41957.png
+- **Recommendations:** As with many of the Purple Gate Main Quests, this one opens alongside new sidequests taking advantage of the same monsters the main quest uses. Check them out to double-dip!
+
+### PG Main Quest 4/A Ruined Path
+
+- **Location:** Purple Gate
+- **Main Quest Highway:** PG MQ4
+- **Type:** Battle
+- **Requirements:** Defeat 5 Dusiri and 3 Leopar
+- **Rewards:** Wardrobe: Dusiri Top https://4thewords.com/media/wardrobe/featured/male/wm&#95;1062-dust-whirlwind-top-7661-27947.png
+- **Recommendations:** As with many of the Purple Gate Main Quests, this one opens alongside new sidequests taking advantage of the same monsters the main quest uses. Check them out to double-dip!
+
+### PG Main Quest 5/What Lies Uncovered
+
+- **Location:** Purple Gate
+- **Main Quest Highway:** PG MQ5
+- **Type:** Battle
+- **Requirements:** Defeat 3 Dark Assassin and 5 Zhout
+- **Rewards:** Wardrobe: Large Crystal Bracelets https://4thewords.com/media/wardrobe/featured/male/wm&#95;1244-crystal-bracelet-8757-75820.png
+- **Recommendations:** As with many of the Purple Gate Main Quests, this one opens alongside new sidequests taking advantage of the same monsters the main quest uses. Check them out to double-dip!
+
+### PG Main Quest 6/A Fearful Path
+
+- **Location:** Purple Gate
+- **Main Quest Highway:** PG MQ6
+- **Type:** Battle
+- **Requirements:** Defeat 3 Infected Golem
+- **Rewards:** Wardrobe: Steel Hands Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1211-steel-hands-necklace-8585-24205.png
+- **Recommendations:** As with many of the Purple Gate Main Quests, this one opens alongside new sidequests taking advantage of the same monsters the main quest uses. Check them out to double-dip!
+
+### PG Main Quest 7/Fighting the Water
+
+- **Location:** Purple Gate
+- **Main Quest Highway:** PG MQ7
+- **Type:** Battle
+- **Requirements:** Defeat 1 Dust Lodo
+- **Rewards:** Wardrobe: Eninir Skeleton Ribs https://4thewords.com/media/wardrobe/featured/male/wm&#95;1068-ghoul-ribs-bodypaint-7673-91654.png
+- **Recommendations:** Fight Dust Lodo as many times as you want before turning this in, because Dust Lodo is going to disappear after you move on.
+
+### PG Main Quest 8/Fighting the Flame
+
+- **Location:** Purple Gate
+- **Main Quest Highway:** PG MQ8
+- **Type:** Battle
+- **Requirements:** Defeat 1 Dust Azadi
+- **Rewards:** Wardrobe: Eninir Skeleton Neck https://4thewords.com/media/wardrobe/featured/male/wm&#95;1067-ghoul-neck-bodypaint-7671-62882.png
+- **Recommendations:** Same for Dust Azadi as Dust Lodo. I'll mention that if I were going to sit around and grind indefinite Bones Chests and Bone Keys, this isn't where I'd do it.
+
+### PG Main Quest 9/Fighting the Mountain
+
+- **Location:** Purple Gate
+- **Main Quest Highway:** PG MQ9
+- **Type:** Battle
+- **Requirements:** Defeat 1 Dust Suwö
+- **Rewards:** Wardrobe: Dust Suwo Mouth https://4thewords.com/media/wardrobe/featured/male/wm&#95;1060-dust-suwo-mouth-7657-62115.png
+- **Recommendations:** Noticing a trend? This still isn't where I'd camp out, but stick around as long as you want Dust Suwö sticking around.
+
+### PG Main Quest 10/A Familiar Fight
+
+- **Location:** Purple Gate
+- **Main Quest Highway:** PG MQ10
+- **Type:** Battle
+- **Requirements:** Defeat 1 Dark Reflection
+- **Rewards:** Unlock the Cave, and Wardrobe x2: Dark Hands Avatar https://4thewords.com/media/wardrobe/featured/male/wm&#95;1072-dark-avatar-hands-7681-26711.png and Dark Avatar Bodypaint https://4thewords.com/media/wardrobe/featured/male/wm&#95;1071-dark-avatar-bodypaint-7679-20341.png 
+- **Recommendations:** Okay, last boss fight for the Purple Gate. And again, this will disappear once you turn it in. I'm not going to hearken back to the Dust Witch in Gansu and recommend you stick around indefinitely, because there are better places to camp later in the game (yes, there is a "later in the game" even as of the day Purple Gate dropped), but certainly feel free to stick around till you tire of battling your reflection.
+
+### CAVE Main Quest 1/Meet the Shadow
+
+- **Location:** Cave
+- **Main Quest Highway:** CAVE MQ1
+- **Type:** Battle
+- **Requirements:** Defeat 2 Sakot, 5 Vafire, and 3 Gliva
+- **Rewards:** Wardrobe: Basic Boots Cave https://4thewords.com/media/wardrobe/featured/male/wm&#95;1284-basic-boots-cave-9100-78037.png 
+- **Recommendations:** Remember how a lot of my Purple Gate recommendations were copy/paste, because the quests were so self-explanatory? Yeah, same applies for a lot of these. Keep an eye out for overlapping sidequests, and approach as you please.
+
+### CAVE Main Quest 2/Talk with Shadow
+
+- **Location:** Cave
+- **Main Quest Highway:** CAVE MQ2
+- **Type:** Battle
+- **Requirements:** Defeat 1 Attwo, 8 Tacin, and 12 Chio
+- **Rewards:** Wardrobe: Basic Pants Cave https://4thewords.com/media/wardrobe/featured/male/wm&#95;1288-basic-pants-cave-9108-51968.png
+- **Recommendations:** Keep an eye out for overlapping sidequests, and approach as you please.
+
+### CAVE Main Quest 3/Sharpening Stubborn Stones
+
+- **Location:** Cave
+- **Main Quest Highway:** CAVE MQ3
+- **Type:** Battle
+- **Requirements:** Defeat 1 Ghost Suwö
+- **Rewards:** Wardrobe: Smoke Eye Makeup https://4thewords.com/media/wardrobe/featured/female/wf&#95;1181-smoke-eye-makeup-8273-63331.png
+- **Recommendations:** I'll tell you three important things about Ghost Suwö: 1) he is easily the easiest balanced source of Bones Chests/ Bone Keys in the entire game, 2) he disappears after this quest, but 3) he is far from your last chance to do this (unlike the Dust Witch and her Stone Chests and Stempos). Plan your time to turn in this quest accordingly.
+
+### CAVE Main Quest 4/Discuss with Shadow
+
+- **Location:** Cave
+- **Main Quest Highway:** CAVE MQ4
+- **Type:** Battle
+- **Requirements:** Defeat 3 Olanat, 3 Letos, and 3 Gliva
+- **Rewards:** Wardrobe: Mushroom Hair https://4thewords.com/media/wardrobe/featured/male/wm&#95;1229-mushroom-hair-8621-66729.png
+- **Recommendations:** Keep an eye out for overlapping sidequests, and approach as you please.
+
+### CAVE Main Quest 5/It was Like Lightning
+
+- **Location:** Cave
+- **Main Quest Highway:** CAVE MQ5
+- **Type:** Battle
+- **Requirements:** Defeat 1 Ghost Azadi
+- **Rewards:** Wardrobe: Smoke Shoulder Makeup https://4thewords.com/media/wardrobe/featured/male/wm&#95;1179-smoke-shouldermakeup-8241-75896.png
+- **Recommendations:** You can guess where this is going, right? Pattern inverting Purple Gate monsters, certain predictability? Notice that the Ghosts are getting progressively easier, where the Dust-infected companions got harder (but drops are inverting, too).
+
+### CAVE Main Quest 6/Speak with Shadow
+
+- **Location:** Cave
+- **Main Quest Highway:** CAVE MQ6
+- **Type:** Battle
+- **Requirements:** Defeat 5 Spina and 5 Ulos
+- **Rewards:** Wardrobe: Basic Shirt Cave https://4thewords.com/media/wardrobe/featured/male/wm&#95;1289-basic-shirt-cave-9110-94571.png
+- **Recommendations:** Keep an eye out for overlapping sidequests, and approach as you please.
+
+### CAVE Main Quest 7/Dam the Guilt
+
+- **Location:** Cave
+- **Main Quest Highway:** CAVE MQ7
+- **Type:** Battle
+- **Requirements:** Defeat 1 Ghost Lodo
+- **Rewards:** Wardrobe: Cave Eyes https://4thewords.com/media/wardrobe/featured/male/wm&#95;1226-cave-eyes-8615-13259.png
+- **Recommendations:** I will admit that the 500-word guaranteed Bones Chest drop is quite tempting, but if you keep on going, you can have (more expensive) Keys to match.
+
+### CAVE Main Quest 8/The Final Fight
+
+- **Location:** Cave
+- **Main Quest Highway:** CAVE MQ8
+- **Type:** Battle
+- **Requirements:** Defeat 1 Reflection
+- **Rewards:** Wardrobe: Translucid Chest https://4thewords.com/media/wardrobe/featured/male/wm&#95;1277-translucid-chest-8970-17166.png
+- **Recommendations:** Guess what? REFLECTION STAYS. (And the crowds rejoiced!) You do NOT have to worry about milking them to the last drop. In fact, once you turn in this quest, you'll unlock a sidequest fighting Reflections, so don't fight more than one before turning this in.
+
 # Side Quests, in Alphabetical Order A-M
 
-LAST UPDATED 8 OCT 2020
+LAST UPDATED 26 OCT 2020
+
+### 100 Minds to Explore - CAVE
+
+- **Location:** Cave
+- **Unlocked by:** PG MQ10/A Familiar Fight
+- **Type:** Battle
+- **Requirements:** Defeat 100 Vafire
+- **Rewards:**  Wardrobe: Vafire Head https://4thewords.com/media/wardrobe/featured/male/wm&#95;1279-translucid-head-8978-40867.png
+- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
 
 ### 4 the Infected - SurfaceC
 
@@ -289,12 +464,30 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### All Who Wander - HuntS2
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • **All Who Wander** • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • **All Who Wander** • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
 
 ### Amateur Fisherman - Riza
 
 - **Location:** Riza Rivertown
 - **Quest Path:** (open via Main Quest Highway Gansu MQ8/Dust to Dust) • **Amateur Fisherman** • Riza Apprentice Fisherman • Riza Water Tribe Stripes
+
+### Ardid Hunter (1/2) - PG
+
+- **Location:** Purple Gate
+- **Quest Path:** (open via PG Main Quest 2/A Desolate Path) • **Ardid Hunter 1/2** • PG Ardid Hunter 2/2
+- **Type:** Battle
+- **Requirements:** Defeat 10 Ardid
+- **Rewards:** Crystal Earrings https://4thewords.com/media/wardrobe/featured/female/wf&#95;1192-crystal-earrings-8417-83041.png
+- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
+
+### Ardid Hunter (2/2) - PG
+
+- **Location:** Purple Gate
+- **Quest Path:** (open via PG Main Quest 2/A Desolate Path) • PG Ardid Hunter 1/2 • **Ardid Hunter 2/2**
+- **Type:** Battle
+- **Requirements:** Defeat 25 Ardid
+- **Rewards:** Wardrobe: Sharp Crystal Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1078-crystal-medium-length-necklace-7710-29407.png
+- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
 
 ### Apprentice Fisherman - Riza
 
@@ -353,7 +546,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### Bettering Ourselves - HuntS3
 
 - **Location:** Available in Luciola Forest
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • **Bettering Ourselves** • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • **Bettering Ourselves** • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
 
 ### Beware! Rock Shower - Shrine TFA
 
@@ -363,7 +556,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### Bigger and Brighter - HuntS3
 
 - **Location:** Available in Luciola Forest
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • **Bigger & Brighter** • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • **Bigger & Brighter** • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
 
 ### Biodome Blossoms - Balance
 
@@ -415,6 +608,15 @@ Note: if you're trying to progress to the next quest after this, you'll need to 
 - **Rewards:** Wardrobe: Dark Forest Shoulder Pads https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;darkforest&#95;shoulders.png
 - **Recommendations:** One major upside: Burhar drop Steel Chains, which are very useful later in the area, so this is a good way to double up grinding with a quest. 40 is overkill for that purpose, though. It's up to you.
 
+### A Bone to Pick - CAVE
+
+- **Location:** Cave
+- **Unlocked by:** CAVE MQ 4/Discuss with Shadow
+- **Type:** Battle
+- **Requirements:** Defeat 10 Sakot and 10 Letos
+- **Rewards:** Wardrobe: Letos Ear Piercing https://4thewords.com/media/wardrobe/featured/male/wm&#95;1235-fishskull-medium-earpiercing-8675-13088.png
+- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
+
 ### Bone White Canvas - ShrineMar
 
 - **Location:** Shrine of Ages
@@ -429,6 +631,24 @@ Note: if you're trying to progress to the next quest after this, you'll need to 
 
 - **Location:** Dig Site
 - **Unlocked by:** Desert Expedition Trail: Gansu Digging Into Desert Sands
+
+### Breaking Down Bones - PG
+
+- **Location:** Purple Gate
+- **Unlocked by:** DFO MQ12/Well of Lost Souls
+- **Type:** Battle
+- **Requirements:** Defeat 50 Xaey
+- **Rewards:** Wardrobe: Crystal Choker https://4thewords.com/media/wardrobe/featured/male/wm&#95;1077-crystal-choker-7698-94910.png
+- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
+
+### Bridge for the Future - CAVE
+
+- **Location:** Cave
+- **Unlocked by:** PG MQ 10/A Familiar Fight
+- **Type:** Collection
+- **Requirements:** Deliver 15 Hardwood, 15 Reinforced Rope, and 10 Steel Bars
+- **Rewards:** Wardrobe: Tacin Crown https://4thewords.com/media/wardrobe/featured/male/wm&#95;1224-bat-wing-crown-8611-11380.png
+- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
 
 ### Bridge of Sighs - MT
 
@@ -445,7 +665,7 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 ### A Bubble Dream - HuntS3
 
 - **Location:** Available in Luciola Forest
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • **A Bubble Dream** • HuntS4 Dirt to Dust • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • **A Bubble Dream** • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
 
 ### Buholi in the Sky - TT
 
@@ -482,6 +702,15 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Rebel Raina Hideout
 - **Unlocked by:** Raina Expedition Trail: SacredS A Worthy Offering
 
+### Celebrate Joy
+
+- **Location:** Available in Luciola Forest
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • **Celebrate Joy** • ???
+- **Type:** Streak, Collection
+- **Requirements:** Have Hunt Map Piece 11 and attain 7-day Streak
+- **Rewards:** Wardrobe: Hunt Facepaint Eye Stroke https://4thewords.com/media/wardrobe/featured/male/wm_666-hunt-facepaint-eye-stroke-4035-59139.png 
+- **Recommendations:** We're continuing on, and we're gonna make it. Almost to the end of the Hunt Map Piece collecting/turning in!
+
 ### Change To See - HuntS3
 
 - **Location:** Available in Luciola Forest
@@ -511,6 +740,15 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Mama Tree
 - **Unlocked by:** LF MQ4
 
+### Colorful, Vibrant Hallucinations - CAVE
+
+- **Location:** Cave
+- **Unlocked by:** PG MQ 10/A Familiar Fight
+- **Type:** Battle
+- **Requirements:** Defeat 15 Gliva
+- **Rewards:** Wardrobe: Mushroom Earrings https://4thewords.com/media/wardrobe/featured/male/wm&#95;1266-mushroom-earrings-8924-86461.png
+- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
+
 ### Colors to Die For - Balance
 
 - **Location:** Floating City of Balance
@@ -526,10 +764,46 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Mama Tree
 - **Quest Path Route:** (open via LF MQ 4) • MT Warm Creature Highlights 1/3 • **Cool Creature Highlights 2/3** • MT Creature Colors & Highlights 3/3
 
+### A Coordinated Attack (1/2) - PG
+
+- **Location:** Purple Gate
+- **Quest Path:** (open via PG MQ4/A Ruined Path) • **A Coordinated Attack 1/2** • PG A Coordinated Attack 2/2
+- **Type:** Battle
+- **Requirements:** Defeat 15 Zhout and 5 Dark Assassins
+- **Rewards:** Wardrobe: Steel Hands Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1211-steel-hands-necklace-8585-24205.png
+- **Recommendations:** As of this writing, this quest's reward is the same as the reward for Main Quest 6, so weigh the value of this quest against the next quest in the sequence.
+
+### A Coordinated Attack (2/2) - PG
+
+- **Location:** Purple Gate
+- **Quest Path:** (open via PG MQ4/A Ruined Path) • PG A Coordinated Attack 1/2 • **A Coordinated Attack 2/2**
+- **Type:** Battle
+- **Requirements:** Defeat 25 Zhout and 10 Dark Assassins 
+- **Rewards:** Wardrobe: Zhout Hands https://4thewords.com/media/wardrobe/featured/female/wf&#95;1065-ghoul-crystal-hands-7667-91750.png
+- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
+
+### Crab Claw Clack - CAVE
+
+- **Location:** Cave
+- **Unlocked by:** CAVE MQ1/Meet the Shadow
+- **Type:** Battle
+- **Requirements:** Defeat 25 Chio
+- **Rewards:** Wardrobe: Spike Nose Ring https://4thewords.com/media/wardrobe/featured/female/wf&#95;1271-spike-nose-ring-8950-83364.png and Wardrobe: Fishbone Brow Piercing https://4thewords.com/media/wardrobe/featured/male/wm&#95;1232-fishskull-browpiercing-8647-74697.png
+- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
+
 ### Create a Clearing (2/4) - RLab
 
 - **Location:** Research Lab
 - **Quest Path:** (open via Alien Expedition Trail: SpaceS Orders to Repair) • RLab Set Creatures Free! (1/4) • **Create a Clearing (2/4)** • RLab Build a Biodome (3/4) • RLab Encourage an Ecosystem (4/4) • IN ANY ORDER  [RLab Making Mellow Mowow  (*unlocks Mowow in Wilderness*)• RLab Sagacious Sincere Sabu (*unlocks Sabu in Wilderness*) • RLab Silkly Sleek Sulanica (*unlocks Sulanica in Wilderness*)• RLab Zappy Zazzy Xombri (*unlocks Xombri in Wilderness*)• RLab Zooty Zanutaki Zings (*unlocks Zanutaki in Wilderness*)]
+
+### Create Your Path - PG
+
+- **Location:** Purple Gate
+- **Unlocked by:** DFO MQ12/Well of Lost Souls
+- **Type:** Collection
+- **Requirements:** Deliver 25 Reinforced Ardi Lamps
+- **Rewards:** Wardrobe: Eninir Facepaint https://4thewords.com/media/wardrobe/featured/male/wm&#95;1066-ghoul-facepaint-7669-16359.png
+- **Recommendations:** Assuming you want to do this (Reinforced Ardi Lamps are expensive!), make sure you first complete the Reinforced Ardi Lamp Station quest in DFO (just the first quest is necessary, not the entire chain) to gain the ability to craft the lamps. Which require a LOT of resources from all over the game. Good luck!
 
 ### Creature Colors & Highlights (3/3) - MT
 
@@ -541,10 +815,19 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Impact Crater
 - **Quest Path:** (open via Alien Meteoroid Trail: 3PC A Way North: Up The Mountain) • IC One Rocky Start (1/2) • **Crown of Rocks (2/2)** 
 
+### The Crystal Giants - PG
+
+- **Location:** Purple Gate
+- **Unlocked by:** PG MQ5/ What Lies Uncovered
+- **Type:** Battle
+- **Requirements:** Defeat 10 Infected Golems
+- **Rewards:** Wardrobe: Golem Crystal Hair https://4thewords.com/media/wardrobe/featured/male/wm&#95;1064-golem-crystal-hair-7665-46839.png
+- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
+
 ### The Curator of Elder Library - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • **The Curator of Elder Library** • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • **The Curator of Elder Library** • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
 
 ### Curator's Family - HuntS1
 
@@ -574,6 +857,15 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Requirements:** Defeat 25 Lycosta and 25 Chaensi
 - **Rewards:** Wardrobe: Dark Forest Roots Belt https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;roots&#95;belt.png
 - **Recommendations:** Obviously a long-term commitment, and obviously a wardrobe reward. If you need to grind for the resources to fight these monsters, Zanthei are practically Piece of Parchment farms with enough Refined Dust to help make Blue Essence Ink, and the act of fighting these monsters gives you all the Steel you'll need for Steel Chains.
+
+### Cursed Violet Winds - PG
+
+- **Location:** Purple Gate
+- **Unlocked by:** PG MQ3/Keep Pushing Forward
+- **Type:** Battle
+- **Requirements:** Defeat 6 Dusiri and 12 Ardid
+- **Rewards:** Wardrobe: Dusiri Crown https://4thewords.com/media/wardrobe/featured/male/wm&#95;1061-dust-whirlwind-crown-7659-69330.png
+- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
 
 ### Cut the Strings - ShrineCar
 
@@ -658,7 +950,7 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 ### Deeper Forest Hunting - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • **Deeper Forest Hunting** • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • **Deeper Forest Hunting** • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
 
 ### Defeating a Droxa Drove - SurfaceC
 
@@ -706,7 +998,7 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 ### Dirt to Dust - HuntS4
 
 - **Location:** Available in Luciola Forest
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • **Dirt to Dust** • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • **Dirt to Dust** • HuntS4 Celebrate Joy • ???
 - **Type:** Streak, Collection
 - **Requirements:** Have Hunt Map Piece 10 and attain 5-day Streak
 - **Rewards:** Wardrobe: Hunt Golden Brooch https://4thewords.com/media/wardrobe/featured/male/wm&#95;652-hunt-golden-brooch-3827-31075.png
@@ -727,6 +1019,24 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Mining Site
 - **Unlocked by:** Alien Expedition Trail: SpaceS Technology & Dinti
 
+### Dry Stale Air CAVE
+
+- **Location:** Cave
+- **Unlocked by:** CAVE MQ3/Sharpening Stubborn Stones
+- **Type:** Battle
+- **Requirements:** Defeat 5 Tacin and 5 Fosfa
+- **Rewards:** Wardrobe: Tacin Ribcage https://4thewords.com/media/wardrobe/featured/female/wf&#95;1259-corset-8906-74625.png
+- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
+
+### Dust Mote Swarms - PG
+
+- **Location:** Purple Gate
+- **Unlocked by:** PG MQ2/A Desolate Path
+- **Type:** Battle
+- **Requirements:** Defeat 100 Ardid
+- **Rewards:** Wardrobe: Extended Chain Earrings https://4thewords.com/media/wardrobe/featured/female/wf&#95;1189-chain-earrings-elfears-8369-40440.png
+- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
+
 ### A Dusted Experiment - LF
 
 - **Location:** Luciola Forest
@@ -745,6 +1055,15 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 
 - **Location:** Mama Tree
 - **Unlocked by:** MT MQ1 / To Great Heights
+
+### Eensy Weensy Oncara - PG
+
+- **Location:** Purple Gate
+- **Unlocked by:**  PG MQ1/Then The Bird Said
+- **Type:** Battle
+- **Requirements:** Defeat 12 Oncara
+- **Rewards:** Wardrobe: Crystal Necklace https://4thewords.com/media/wardrobe/featured/female/wf&#95;1030-crystal-necklace-7561-86961.png
+- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
 
 ### Elder Library Assistants - HuntS1
 
@@ -850,6 +1169,24 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Shrine of Ages
 - **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Carnival Time Bracelet
 
+### Fighting Fallen Soldiers (1/2) - CAVE
+
+- **Location:** Cave
+- **Quest Path:** (open via CAVE MQ 5/It was Like Lightning) • **Fighting Fallen Soldiers 1/2** • CAVE Fighting Fallen Soldiers 2/2
+- **Type:** Battle
+- **Requirements:** Defeat 10 Gormist & 10 Olanat
+- **Rewards:** Wardrobe: Olanat Hair https://4thewords.com/media/wardrobe/featured/male/wm&#95;1220-mushroom-hat-8603-56013.png
+- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
+
+### Fighting Fallen Soldiers (2/2) - CAVE
+
+- **Location:** Cave
+- **Quest Path:** (open via CAVE MQ 5/It was Like Lightning) • CAVE Fighting Fallen Soldiers 1/2 • **Fighting Fallen Soldiers 2/2**
+- **Type:** Battle
+- **Requirements:** Defeat 20 Gormist & 20 Olanat
+- **Rewards:** Wardrobe: Tainted Sword https://4thewords.com/media/wardrobe/featured/male/wm&#95;1274-sword-8958-92313.png
+- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
+
 ### First Stempo - Gansu
 
 - **Location:** Gansu Watering Hole
@@ -897,6 +1234,15 @@ see **Lead the Way**
 
 - **Location:** Underground Ruins
 - **Unlocked by:** Desert Expedition Trail: DigS Question to Axe
+
+### Fuzzy Cave Pillows - CAVE
+
+- **Location:** Cave
+- **Unlocked by:** CAVE MQ2/Talk with Shadow
+- **Type:** Battle
+- **Requirements:** Defeat 5 Attwo
+- **Rewards:** Wardrobe: Attwo Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1258-claws-necklace-8904-31953.png
+- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
 
 ### Gansu Watering Hole Puffs - Gansu
 
@@ -1043,7 +1389,25 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### The Hunt Begins
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • **The Hunt Begins** • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • **The Hunt Begins** • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+
+### I Am the Night - CAVE
+
+- **Location:** Cave
+- **Unlocked by:** CAVE MQ1/Meet the Shadow
+- **Type:** Battle
+- **Requirements:** Defeat 20 Tacin
+- **Rewards:** Wardrobe: Tacin Shoulder Pads https://4thewords.com/media/wardrobe/featured/male/wm&#95;1225-bat-wing-shoulder-pads-8613-82800.png
+- **Recommendations:** There's another Tacin-oriented quest later, so if you're Really Concerned about having to fight more 150-word monsters, you can delay this. I wouldn't let that delay me, though.
+
+### Ideas Brought to Life - HuntS4
+
+- **Location:** Available in Luciola Forest
+- **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
+- **Type:** Battle
+- **Requirements:** Defeat 3 Weekiwa
+- **Rewards:** Hunt Map Piece 11, 10 Hunter Tokens
+- **Recommendations:** You know the drill. Weekiwa is clearly a water entity, so my subtle hint dovetails with the quest description to point you to look in water communities.
 
 ### Infected Raina Part 1 - SurfaceC
 
@@ -1119,7 +1483,16 @@ Note: NOT POSSIBLE to complete till Riza Rivertown is unlocked
 ### Joining the Hunt - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • **Joining the Hunt** • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
+- **Hunt Trail Route:** (available from game open) • **Joining the Hunt** • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+
+### Jubilant and Strong - HuntS4
+
+- **Location:** Available in Luciola Forest
+- **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
+- **Type:** Battle
+- **Requirements:** Defeat 100 of any monster
+- **Rewards:** 50 Hunter Tokens
+- **Recommendations:** Look! 50 Hunter Tokens for taking up a quest spot while you're doing other things! Not a bad deal... also easy to pick up later, if you'd rather. :)
 
 ### Just a Mean Green - BC
 
@@ -1165,6 +1538,15 @@ NOTE: This quest is almost impossible to complete until you've completed the que
 - **Location:** Impact Crater
 - **Alien Expedition Trail:** (open via 3PC MQ5/A Way South) • 3PC A Way North: Up The Mountain • **Learning to Breathe** • IN ANY ORDER: [SpaceS Technology & Dinti • SpaceS Orders to Repair]
 
+### Leatherbacks of the Cave - CAVE
+
+- **Location:** Cave
+- **Unlocked by:** CAVE MQ 7/Dam the Guilt
+- **Type:** Battle
+- **Requirements:** Defeat 3 Kohej
+- **Rewards:** Wardrobe: Spike Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1270-spike-necklace-8948-74022.png and Wardrobe: Spike Ankle Bracelet https://4thewords.com/media/wardrobe/featured/male/wm&#95;1267-spike-ankle-bracelet-8930-28893.png
+- **Recommendations:** This gets a boilerplate "sure, if you like!"
+
 ### Life's an Experiment - RLab
 
 NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
@@ -1200,6 +1582,15 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Gansu Watering Hole
 - **Quest Path:** (open via Gansu MQ8) • Gansu Rebuild the Watering Hole • Gansu Respark the Flame • **Local Shrine** • Gansu First Stempo • (ability to craft Stempos), MT Study Break Time
+
+### The Long Walk - PG
+
+- **Location:** Purple Gate
+- **Unlocked by:** DFO MQ12/Well of Lost Souls
+- **Type:** Streak
+- **Requirements:** Attain 15-day Streak
+- **Rewards:** Wardrobe: Purple Gate Cape https://4thewords.com/media/wardrobe/featured/male/wm&#95;1242-cape-8753-75204.png
+- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
 
 ### Lovely Flower Crown - FB
 
@@ -1292,7 +1683,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 # Side Quests, in Alphabetical Order: N-Z
 
-LAST UPDATED 8 OCT 2020
+LAST UPDATED 26 OCT 2020
 
 ### Nabia's Exploration - BC
 
@@ -1347,7 +1738,16 @@ see **Luciola Lanterns**
 ### No Wrong Path - HuntS2
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • **No Wrong Path** • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • **No Wrong Path** • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+
+### Nooks and Crannies - CAVE
+
+- **Location:** Purple Gate
+- **Unlocked by:** PG MQ 10/A Familiar Fight
+- **Type:** Streak
+- **Requirements:** Attain a 15-day Streak
+- **Rewards:** Wardrobe: Wet Hair https://4thewords.com/media/wardrobe/featured/female/wf&#95;1240-wethair-8725-22131.png
+- **Recommendations:** This gets a boilerplate "sure, if you like!"
 
 ### North: Homeward Bound - FB
 
@@ -1367,7 +1767,16 @@ see **Luciola Lanterns**
 ### Oh, Endless Possibilities! - HuntS2
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • **Oh, Endless Possibilities!** • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • **Oh, Endless Possibilities!** • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+
+### On the Wrong Path - HuntS4
+
+- **Location:** Available in Luciola Forest
+- **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
+- **Type:** Battle
+- **Requirements:** Defeat 3 Infected Golem
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** This one requires monsters from midway through the Purple Gate, and it's entirely optional for progressing the Hunt. (It also dovetails with at least one PG quest.)
 
 ### One Hundred Creatures - BC
 
@@ -1409,7 +1818,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### A Past Not Forgotten - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • **A Past Not Forgotten** • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • **A Past Not Forgotten** • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
 
 ### The Path South (3/4) - DFO
 
@@ -1452,6 +1861,15 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Shrine of Ages
 - **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Polygon Time Bracelet
+
+### Preventing Purple Power-Ups - PG
+
+- **Location:** Purple Gate
+- **Unlocked by:**  PG MQ1/Then The Bird Said
+- **Type:** Battle
+- **Requirements:** Defeat 20 Vibidi and 3 Oncara
+- **Rewards:** 1 Bones Chest & 1 Bone Key
+- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
 
 ### Prime Birb Time - ShrineBird
 
@@ -1574,6 +1992,15 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Mining Site
 - **Unlocked by:** Alien Expedition Trail: SpaceS Technology & Dinti
 
+### Reflections for Improvement - CAVE
+
+- **Location:** Cave
+- **Unlocked by:** CAVE MQ8/The Final Fight
+- **Type:** Battle
+- **Requirements:** Defeat 4 Reflections
+- **Rewards:** Wardrobe: Reflection Puddle https://4thewords.com/media/wardrobe/featured/male/wm&#95;1227-avatar-reflection-puddle-8617-20633.png
+- **Recommendations:** Last quest in the Cave. Personally, I have  soft spot for Reflections with their lovely drops and patient timers, though YMMV. And of course there's the Reflection Puddle, which I love.
+
 ### Reinforced Ardi Lamp Station (1/4) - DFO
 
 - **Location:** Dark Forest Outpost
@@ -1667,6 +2094,15 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Luciola Forest
 - **Unlocked by:** available at game open
 
+### Scary Short Story - PG
+
+- **Location:** Purple Gate
+- **Unlocked by:** PG MQ4/A Ruined Path
+- **Type:** Battle, Wordcount
+- **Requirements:** Write 10K words and defeat 1 each Poe, Cursed Hand, and Zhout
+- **Rewards:** Wardrobe: Hand Ankle Bracelet https://4thewords.com/media/wardrobe/featured/female/wf&#95;1209-hand-ankle-bracelet-8577-96142.png
+- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
+
 ### Scouting Lorsa - Balance
 
 - **Location:** Floating City of Balance
@@ -1756,15 +2192,33 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Shrine of Ages
 - **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Giants Time Bracelet
 
+### Silent Slithering Surprises - PG
+
+- **Location:** Purple Gate
+- **Unlocked by:** PG MQ3/Keep Pushing Forward
+- **Type:** Battle
+- **Requirements:** Defeat 50 Leopar
+- **Rewards:** Wardrobe: Leopar Necklace https://4thewords.com/media/wardrobe/featured/female/wf&#95;1202-snake-necklace-8543-66886.png
+- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
+
 ### Silkly Sleek Sulanica
 
 - **Location:** Research Lab
 - **Quest Path:** (open via Alien Expedition Trail: SpaceS Orders to Repair) • RLab Set Creatures Free! (1/4) • RLab Create a Clearing (2/4) • RLab Build a Biodome (3/4) • RLab Encourage an Ecosystem (4/4) • IN ANY ORDER: [RLab Making Mellow Mowow  (*unlocks Mowow in Wilderness*)• RLab Sagacious Sincere Sabu (*unlocks Sabu in Wilderness*) • **Silkly Sleek Sulanica (*unlocks Sulanica in Wilderness*)**• RLab Zappy Zazzy Xombri (*unlocks Xombri in Wilderness*)• RLab Zooty Zanutaki Zings (*unlocks Zanutaki in Wilderness*)]
 
+### Sing Your Bravery (2/2) - HuntS4
+
+- **Location:** Available in Luciola Forest
+- **Quest Path:** (open via Hunt Trail HuntS3 A Bubble Dream) • HuntS4 Sing Your Enthusiasm • **Sing Your Bravery 2/2** • ???
+- **Type:** Battle
+- **Requirements:** Defeat 10 Cursed Hands
+- **Rewards:** 15 Hunter Tokens
+- **Recommendations:** As of this writing (quest has just been released), this is still the last quest in this chain and I don't know whether the chain will be worth any more than its obvious merits. Make your choices!
+
 ### Sing Your Enthusiasm - HuntS4
 
 - **Location:** Available in Luciola Forest
-- **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
+- **Quest Path:** (open via Hunt Trail HuntS3 A Bubble Dream) • **Sing Your Enthusiasm** • HuntS4 Sing Your Bravery 2/2 • ???
 - **Type:** Battle
 - **Requirements:** Defeat 10 Zanthei
 - **Rewards:** 20 Hunter Tokens
@@ -1945,6 +2399,24 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Luciola Forest
 - **Quest Path Route:** available at game open • LF Make It Work • **Style Is Eternal** 
 
+### Submerged Spikey Swim (1/2) - CAVE
+
+- **Location:** Cave
+- **Quest Path:** (open via CAVE MQ 6/Speak with Shadow) • **Submerged Spikey Swim 1/2** • CAVE Submerged Spikey Swim 2/2
+- **Type:** Battle
+- **Requirements:** Defeat 5 Letos, 8 Ulos, and 10 Spina
+- **Rewards:** Wardrobe: Spina Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1262-fish-necklace-8912-88199.png
+- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
+
+### Submerged Spikey Swim (2/2)
+
+- **Location:** Cave
+- **Quest Path:** (open via CAVE MQ 6/Speak with Shadow) • CAVE Submerged Spikey Swim 1/2 • **Submerged Spikey Swim 2/2**
+- **Type:** Battle
+- **Requirements:** Defeat 10 Letos, 20 Ulos, and 30 Spina
+- **Rewards:** Wardrobe: Ulos Mask https://4thewords.com/media/wardrobe/featured/male/wm&#95;1272-starfish-mask-8952-26047.png
+- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
+
 ### Swing, Sway, Summon - TT
 
 - **Location:** Tall Trees
@@ -2027,12 +2499,21 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### To Grow & Change - HuntS3
 
 - **Location:** Available in Luciola Forest
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • **To Grow & Change** • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • **To Grow & Change** • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
 
 ### To Hope is to Plan - HuntS1
 
 - **Location:** Available in the Luciola Forest 
 - **Unlocked by:** Hunt Trail: HuntS1 Joining the Hunt
+
+### Too Many Spirits - PG
+
+- **Location:** Purple Gate
+- **Unlocked by:** PG MQ2/A Desolate Path
+- **Type:** Battle
+- **Requirements:** Defeat 25 Eninir
+- **Rewards:** Wardrobe: Eninir Crown https://4thewords.com/media/wardrobe/featured/male/wm&#95;1208-ghost-crown-8575-76537.png
+- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
 
 ### Tougher With Tambo - Gansu
 
@@ -2053,6 +2534,15 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Mama Tree
 - **Unlocked by:** LF MQ4
+
+### Trouble Above - PG
+
+- **Location:** Purple Gate
+- **Unlocked by:** PG MQ3/Keep Pushing Forward
+- **Type:** Battle
+- **Requirements:** Defeat 10 Leopar and 10 Poe
+- **Rewards:** Wardrobe x2: Chain Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1204-chain-necklace-8563-71819.png and Leopar Earrings https://4thewords.com/media/wardrobe/featured/female/wf&#95;1201-snake-earrings-8529-18956.png
+- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
 
 ### Trying Your Patience - TT
 
@@ -2207,3 +2697,4 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 
 - **Location:** Research Lab
 - **Quest Path:** (open via Alien Expedition Trail: SpaceS Orders to Repair) • RLab Set Creatures Free! (1/4) • RLab Create a Clearing (2/4) • RLab Build a Biodome (3/4) • RLab Encourage an Ecosystem (4/4) • IN ANY ORDER: [RLab Making Mellow Mowow  (*unlocks Mowow in Wilderness*)• RLab Sagacious Sincere Sabu (*unlocks Sabu in Wilderness*) • RLab Silkly Sleek Sulanica (*unlocks Sulanica in Wilderness*)• RLab Zappy Zazzy Xombri (*unlocks Xombri in Wilderness*)• **Zooty Zanutaki Zings (*unlocks Zanutaki in Wilderness*)**]
+

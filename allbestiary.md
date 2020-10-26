@@ -1,4 +1,4 @@
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 26 OCT 2020
 
 Beware! **Here be spoilers**. Every single quest requiring a given monster is listed, no matter how late in the game it appears. Don't say I didn't warn you. But maybe you'll be able to mix and match quests more efficiently.
 
@@ -106,6 +106,10 @@ Hideout: Rebel Raina Hideout
 
 DFO: Dark Forest Outpost
 
+PG: Purple Gate
+
+CAVE: Cave
+
 HuntS4: Hunt for the Ancients Season 4
 
 # A-L
@@ -179,6 +183,15 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - FB: Feeding the Lighthouse (25)
+
+### Ardid (Oge: PG*)
+
+- **Unlocked by:** PG Main Quest 2/A Desolate Path
+- **Requirements:** 90 words
+- **Time allowed:** 10 minutes
+- **XP:** 9
+- **Drops:** 1-2 Dust, 0-1 Purple Crystal Shards
+- **Quests:** PG: Main Quest 3/Keep Pushing Forward (10), Dust Mote Swarms (100), Cursed Violet Winds (12), Ardid Hunter 1/2 (10), Ardid Hunter 2/2 (25)
 
 ### Ardii (Oge: MT*; Exp: FB)
 
@@ -279,6 +292,15 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **XP:** 35
 - **Drops:** 3-4 Hunter Tokens, 2-3 Raw Fabric, 1 Rope, 0-1 Red Dye
 - **Quests:** (Hunt Quest, presumed S2, still testing): Valley Of The Sheep (1)
+
+### Attwo (Oge: CAVE*)
+
+- **Unlocked by:** CAVE MQ1/Meet the Shadow
+- **Requirements:** 1500 words
+- **Time allowed:** 450 minutes (7 hours and 30 minutes)
+- **XP:** 150
+- **Drops:** 6-8 Fur, 2-4 Claws, 2 Cave Mushrooms, 1-2 Stone Blocks, 1-4 Glass Shards, 2-3 Refined Dust
+- **Quests:** CAVE Main Quest 2/Talk with Shadow (1), Fuzzy Cave Pillows (5)
 
 ### Auwi (Exp: SurfaceC)
 
@@ -538,6 +560,15 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
   - HuntS4: Into the Woods (1)
   - DFO: Main Quest 10/A Dogged Search (1), A Cursed Couple (25)
 
+### Chio (Oge: CAVE*)
+
+- **Unlocked by:** CAVE MQ1/Meet the Shadow
+- **Requirements:** 100 words
+- **Time allowed:** 10 minutes
+- **XP:** 10
+- **Drops:** 1-3 Raw Stone, 1-3 Raw Steel
+- **Quests:** CAVE Main Quest 2/Talk with Shadow (12), Crab Claw Clack (25)
+
 ### Chu (Oge: DFO*)
 
 - **Unlocked by:** DFO Main Quest 1/Ousting the Outpost
@@ -593,6 +624,17 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 10 Hunter Tokens, 2-6 Raw Fabric, 1-3 Raw Gold, 0-3 Glass Shards, 0-1 Piece of Parchment, 1-2 Rope
 - **Quests:** HuntS1 Quest: The Curator of Elder Library (4)
 
+### Cursed Hand (Oge: PG)
+
+- **Unlocked by:** opening Purple Gate
+- **Requirements:** 400 words
+- **Time allowed:** 45 minutes
+- **XP:** 45
+- **Drops:** 2-4 Raw Stone, 1-2 Refined Dust, 1-2 Raw Steel, 1 Bones
+- **Quests:** 
+  - PG Main Quest 1/Then The Bird Said (3), Scary Short Story (1)
+  - HuntS4: Sing Your Bravery 2/2 (10)
+
 ### Czanus (Oge: 3PC)
 
 - **Unlocked by:** The Curator of Elder Library Quest
@@ -621,6 +663,24 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
   EXPEDITION
 
   - FB: Blossom with Flowers! 1/2 (5)
+
+### Dark Assassin (Oge: PG*)
+
+- **Unlocked by:** PG MQ4/A Ruined Path
+- **Requirements:** 1200 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 120
+- **Drops:** 2-4 Purple Crystal Shards, 1-3 Raw Steel, 1-3 Fine Fabric, 2-4 Refined Dust, 2-3 Bones, 25 Coins
+- **Quests:** PG: Main Quest 5/What Lies Uncovered (3), A Coordinated Attack 1/2 (5), A Coordinated Attack 2/2 (10)
+
+### Dark Reflection (Oge: [PG])
+
+- **Unlocked by:** PG MQ9/ Fighting the Mountain
+- **Requirements:** 4444 words
+- **Time allowed:** 4320 minutes (72 hours, or 3 days)
+- **XP:** 300
+- **Drops:** 3 Stempos, 3 Bones Chests, 3 Bone Keys
+- **Quests:** PG: Main Quest 10/A Familiar Fight (1)
 
 ### Dati (Exp: ShrineDucks)
 
@@ -698,6 +758,33 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
   - SurfaceC: Defeating a Droxa Drove (3)
   - Hunt S3: Growth in Friendship (1)
 
+### Dusiri (Oge: PG*)
+
+- **Unlocked by:** Main Quest 3/Keep Pushing Forward
+- **Requirements:** 1000 words
+- **Time allowed:** 240 minutes (4 hours)
+- **XP:** 100
+- **Drops:** 1-4 Raw Stone, 2 Refined Dust, 3-4 Purple Crystal Shards, 2-4 Glass Shards, 2-3 Raw Sandstone
+- **Quests:** PG: MQ4/A Ruined Path (5), Cursed Violet Winds (6)
+
+### Dust Azadi (Oge: [PG])
+
+- **Unlocked by:** PG MQ7/ Fighting the Water
+- **Requirements:** 2000 words
+- **Time allowed:** 1440 minutes (24 hours, or 1 day)
+- **XP:** 200
+- **Drops:** 2 Bones Chests, 1 Bone Key
+- **Quests:** PG: Main Quest 8/Fighting the Flame (1)
+
+### Dust Lodo (Oge: [PG])
+
+- **Unlocked by:** PG MQ6/ A Fearful Path
+- **Requirements:** 1000 words
+- **Time allowed:** 720 minutes (12 hours)
+- **XP:** 100
+- **Drops:** 1 Bones Chest
+- **Quests:** PG: Main Quest 7/Fighting the Water (1)
+
 ### Dust Rudakai (Oge: DFO*)
 
 - **Unlocked by:** DFO Main Quest 5/A Fox Untrusted
@@ -706,6 +793,15 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 200
 - **Drops:** 3 Refined Dust, 2-3 Bones, 1 Bone Key, 4-6 Dark Forest Leaves, 2-4 Dried Pulp, 5-7 Fur, 1-3 Essence, 2-5 Rope, 5 Spirit Dust
 - **Quests:** DFO: Main Quest 6/A Fox Untested (1), Familiar Family Friends (1)
+
+### Dust Suwö (Oge: [PG])
+
+- **Unlocked by:** PG MQ8/ Fighting the Flame
+- **Requirements:** 3000 words
+- **Time allowed:** 2880 minutes (48 hours, or 2 days)
+- **XP:** 300
+- **Drops:** 2 Bones Chests, 2 Bone Keys
+- **Quests:** PG: Main Quest 9/Fighting the Mountain (1)
 
 ### Dust Wignow (Oge: DFO)
 
@@ -742,6 +838,15 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 25
 - **Drops:** 2 Shrine Stones, 1-2 Glass Shards
 - **Quests:** ShrineCO: Green Be Gone! (1)
+
+### Eninir (Oge: PG*)
+
+- **Unlocked by:** PG Main Quest 2/A Desolate Path
+- **Requirements:** 500 words
+- **Time allowed:** 30 minutes
+- **XP:** 50
+- **Drops:** 1-2 Refined Dust, 1-2 Purple Crystal Shards, 2-4 Dust, 0-1 Bones (usually 1)
+- **Quests:** PG: Main Quest 3/Keep Pushing Forward (8), Too Many Spirits (25)
 
 ### Erbor (Exp: IC)
 
@@ -875,6 +980,15 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 1 Shrine Stone, 1-4 Coins 
 - **Quests:** ShrineFools: Fool Me Once (1); Write, You Fool (10)
 
+### Fosfa (Oge: CAVE*)
+
+- **Unlocked by:** CAVE MQ3/Sharpening Stubborn Stones
+- **Requirements:** 800 words
+- **Time allowed:** 120 minutes (2 hours)
+- **XP:** 80
+- **Drops:** 2-6 Raw Stone, 1-2 Spirit Dust, 2-5 Raw Steel, 1 Refined Dust
+- **Quests:** CAVE Dry Stale Air (5)
+
 ### Fraite (Exp: ShrineCO)
 
 - **Unlocked by:** Wardrobe: Colorful Ooze Bracelet
@@ -938,6 +1052,33 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 1 Shrine Stone, 0-1 Raw Sandstone
 - **Quests:** ShrineBird: Birb's the Word (1), Prime Birb Time (5)
 
+### Ghost Azadi (Oge: [CAVE])
+
+- **Unlocked by:** CAVE MQ 4/Discuss with Shadow
+- **Requirements:** 1000 words
+- **Time allowed:** 720 minutes (12 hours)
+- **XP:** 100
+- **Drops:** 1 Bones Chest & 1 Bone Key
+- **Quests:** CAVE Main Quest 5/It was Like Lightning
+
+### Ghost Lodo (Oge: [CAVE])
+
+- **Unlocked by:** CAVE MQ 6/Speak with Shadow
+- **Requirements:** 500 words
+- **Time allowed:** 360 minutes (6 hours)
+- **XP:** 50
+- **Drops:** 1 Bones Chest
+- **Quests:** CAVE Main Quest 7/Dam the Guilt
+
+### Ghost Suwö (Oge: [CAVE])
+
+- **Unlocked by:** CAVE MQ2/Talk with Shadow
+- **Requirements:** 1500 words
+- **Time allowed:** 1440 minutes (24 hours, or 1 day)
+- **XP:** 150
+- **Drops:** 2 Bones Chests & 2 Bone Keys
+- **Quests:** CAVE Main Quest 3/Sharpening Stubborn Stones (1)
+
 ### Giant Dust Spirit (Exp: ShrineGiant)
 
 - **Unlocked by:** Wardrobe: Giants Time Bracelet
@@ -969,6 +1110,15 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 2-4 Wood, 5 Shrine Stones, 0-3 Raw Steel, 1-2 Rope
 - **Quests:** Shrine GO Quests: Green Ooze Invasion (1), Seeing a Sequence (2), Cleaning the House (5)
 
+### Gliva (Oge: CAVE)
+
+- **Unlocked by:** opening Cave
+- **Requirements:** 300 words
+- **Time allowed:** 30 minutes
+- **XP:** 30
+- **Drops:** 1 Cave Mushroom, 0-1 River Water, 1-2 Raw Stone
+- **Quests:** CAVE: Main Quest 1/Meet the Shadow (3), Main Quest 4/Discuss with Shadow (3), Colorful, Vibrant Hallucinations (15)
+
 ### Gobkey (Exp: GL)
 
 - **Requirements:** 400 words
@@ -987,6 +1137,15 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Raw Stone, 1 Raw Steel
 - **Quests:**
   - Ruins: Excavating East (1), Gordi & Griffe Gather (25)
+
+### Gormist (Oge: CAVE*)
+
+- **Unlocked by:** CAVE MQ 5/It was Like Lightning
+- **Requirements:** 1667 words
+- **Time allowed:** 1440 minutes (24 hours, or 1 day)
+- **XP:** 170
+- **Drops:** 4-5 Fur, 3-5 Raw Steel, 3-4 Cave Mushrooms, 2-4 Bones, 3-7 Raw Fabric, 50 Coins, 2-3 River Water
+- **Quests:** CAVE Fighting Fallen Soldiers 1/2 (10), Fighting Fallen Soldiers 2/2 (20)
 
 ### Grey's Mawt (Oge: LF∆, MT∆)
 
@@ -1092,6 +1251,17 @@ see **Skuppa's Giant Marionette**
 - **XP:** 15
 - **Drops:** 1-2 Hunter Tokens, 1 Raw Fabric
 - **Quests:** (Hunt Quest, presumed S2, still testing): Valley Of The Sheep (1)
+
+### Infected Golem (Oge: PG*)
+
+- **Unlocked by:** PG MQ5/ What Lies Uncovered
+- **Requirements:**1500 words
+- **Time allowed:** 300 minutes (10 hours)
+- **XP:** 150
+- **Drops:** 1-2 Stone Blocks, 1-5 Glass Shards, 3-5 Refined Dust, 3-6 Wood, 2 Bones, 3-5 Purple Crystal Shards
+- **Quests:** 
+  - PG: Main Quest 6/A Fearful Path (3), The Crystal Giants (10)
+  - HuntS4: On the Wrong Path (3)
 
 ### Ipo (Exp: MSite)
 
@@ -1223,6 +1393,15 @@ see **Skuppa's Giant Marionette**
   - SurfaceC: Infected Raina Part 1 (5), Infected Raina Part 2 (10), 4 the Infected (15)
   - Hunt S3: Growth in Friendship (1)
 
+### Kohej (Oge: CAVE*)
+
+- **Unlocked by:** CAVE MQ 7/Dam the Guilt
+- **Requirements:** 2000 words
+- **Time allowed:** 600 minutes (10 hours)
+- **XP:** 200
+- **Drops:** 3-4 Stone Blocks, 4-5 Cave Mushrooms, 3-5 Glass Shards, 2-5 Raw Stone, 2-5 Raw Steel, 3-4 Refined Dust
+- **Quests:** CAVE Leatherbacks of the Cave (3)
+
 ### Kolbs (Exp: SpaceS)
 
 - **Requirements:** 200 words
@@ -1289,6 +1468,24 @@ see **Skuppa's Giant Marionette**
 - **XP:** 30
 - **Drops:** 3-4 Shrine Stones, 1-3 Wood, 0-1 Raw Fabric
 - **Quests:** ShrineCO: Green Be Gone! (1)
+
+### Leopar (Oge: PG*)
+
+- **Unlocked by:** Main Quest 3/Keep Pushing Forward
+- **Requirements:** 800 words
+- **Time allowed:** 90 minutes (1 hour and 30 minutes)
+- **XP:** 80
+- **Drops:** 1-2 Spider Poison, 2-3 Purple Crystal Shards, 1-3 Wood, 2-3 Rope
+- **Quests: **PG: MQ4/A Ruined Path (3), Trouble Above (10), Silent Slithering Surprises (50)
+
+### Letos (Oge: CAVE*)
+
+- **Unlocked by:** CAVE MQ3/Sharpening Stubborn Stones
+- **Requirements:** 700 words
+- **Time allowed:** 120 minutes (2 hours)
+- **XP:** 70
+- **Drops:** 1-2 Bones, 1-2 Cave Mushrooms, 1-2 River Water, 1-2 Glass Shards
+- **Quests:** CAVE Main Quest 4/Discuss with Shadow (3), A Bone to Pick (10), Submerged Spikey Swim 1/2 (5), Submerged Spikey Swim 2/2 (10)
 
 ### Loi (Exp: Dig)
 
@@ -1368,7 +1565,7 @@ see **Skuppa's Giant Marionette**
 
 # M-Z
 
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 26 OCT 2020
 
 ### Maesc (Exp: IC)
 
@@ -1456,7 +1653,7 @@ LAST UPDATED 25 SEPT 2020
 - **Drops:** 4-7 Raw Stone, 1-2 Swamp Moss, 2-4 Leaves
 - **Quests:** Sacred: Seeding New Beginnings 1/3 (1), Seeding New Beginnings 2/3 (5), Seeding New Beginnings 3/3 (10)
 
-### Mirdor (Exp: GL)
+### Mirdor (Exp: GL*)
 
 - **Unlocked by:** HuntS3 Quest: A Bubble Dream
 - **Requirements:** 1500 words
@@ -1609,6 +1806,15 @@ LAST UPDATED 25 SEPT 2020
 - **Drops:** 2-6 Dust, 1-4 Raw Gold, 0-2 Raw Sandstone, 1-3 Raw Fabric, 0-3 Raw Steel, 1-2 Desert Stone
 - **Quests:** DigS: Khaki Twisting Beige (3)
 
+### Olanat (Oge: CAVE*)
+
+- **Unlocked by:** CAVE MQ3/Sharpening Stubborn Stones
+- **Requirements:** 1100 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 110
+- **Drops:** 3-4 Cave Mushrooms, 3-4 Bones, 3-5 Raw Steel, 1-4 Raw Fabric, 25 Coins
+- **Quests:** CAVE Main Quest 4/Discuss with Shadow (3), Fighting Fallen Soldiers 1/2 (10), Fighting Fallen Soldiers 2/2 (20)
+
 ### Olea (Exp: SurfaceC)
 
 - **Requirements:** 100 words
@@ -1616,6 +1822,15 @@ LAST UPDATED 25 SEPT 2020
 - **XP:** 10
 - **Drops:** 0-1 River Grass, 1 Leaves
 - **Quests:** none
+
+### Oncara (Oge: PG*)
+
+- **Unlocked by:**  Main Quest 1/Then The Bird Said
+- **Requirements:** 900 words
+- **Time allowed:** 90 minutes (1 hour and 30 minutes)
+- **XP:** 90
+- **Drops:** 2-3 Purple Crystal Shards, 1 Refined Dust, 2 Spider Legs, 1-3 Spider Poison, 3-5 Dust
+- **Quests:** PG: Main Quest 2/A Desolate Path (3), Preventing Purple Power-Ups (3), Eensy Weensy Oncara (12)
 
 ### Osalyu (Oge: DFO)
 
@@ -1756,6 +1971,15 @@ LAST UPDATED 25 SEPT 2020
 - **Drops:** 9 Hunter Tokens, 2-4 Raw Fabric, 0-1 Red Dye, 1-2 Raw Stone, 1-2 Wood
 - **Quests:** HuntS2: State of Rest (4), Herding the Herders (1)
 
+### Poe (Oge: PG)
+
+- **Unlocked by:** opening Purple Gate
+- **Requirements:** 200 words
+- **Time allowed:** 25 minutes
+- **XP:** 25
+- **Drops:** 0-1 Purple Crystal Shards, 1-2 Wood, 1-3 Dust
+- **Quests:** PG Main Quest 1/Then The Bird Said (5), Trouble Above (10), Scary Short Story (1)
+
 ###  Poly Aracnu (Exp: ShrinePoly)
 
 - **Unlocked by:** Wardrobe: Polygon Time Bracelet
@@ -1854,6 +2078,15 @@ LAST UPDATED 25 SEPT 2020
   - MT: Itsy, Bitsy, Teeny (25)
   - Balance: Elemental Power (5)
   - DFO: Familiar Family Friends (5)
+
+### Reflection (Oge: CAVE*)
+
+- **Unlocked by:** CAVE MQ 7/Dam the Guilt
+- **Requirements:** 4444 words
+- **Time allowed:** 4320 minutes (72 hours, or 3 days)
+- **XP:** 450
+- **Drops:** 5 Stempos, 3 Bones Chests, 3 Bone Keys
+- **Quests:** CAVE Main Quest 8/The Final Fight (1), Reflections for Improvement (4)
 
 ### Reudod (Exp: SC)
 
@@ -1992,6 +2225,15 @@ LAST UPDATED 25 SEPT 2020
   - DigS: Khaki Twisting Beige (5)
   - HuntS2: Dazzling Desert Diversity (2)
 
+### Sakot (Oge: CAVE)
+
+- **Unlocked by:** opening Cave
+- **Requirements:** 1000 words
+- **Time allowed:** 300 minutes (10 hours)
+- **XP:** 100
+- **Drops:** 2-4 Fur, 2-3 Bones, 2-3 Claws, 2-3 Cave Mushroom, 3-6 Raw Fabric
+- **Quests:** CAVE: Main Quest 1/Meet the Shadow (2), A Bone to Pick (10)
+
 ### Sapilo (Exp: SC)
 
 - **Requirements:** 450 words, 1 Saliva Vial
@@ -2123,6 +2365,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - HuntS2: Strengthening Your Viewpoint 2/3 (1)
   - Balance: Venomous Villains (7)
 
+### Spina (Oge: CAVE*)
+
+- **Unlocked by:** CAVE MQ 5/It was Like Lightning
+- **Requirements:** 450 words
+- **Time allowed:** 45 minutes
+- **XP:** 45
+- **Drops:** 2-3 River Water, 1 Bones, 1 Leather Roll, 1-2 Glass Shards
+- **Quests:** CAVE Main Quest 6/Speak with Shadow (5), Submerged Spikey Swim 1/2 (10), Submerged Spikey Swim 2/2 (30)
+
 ### Spirit Ardia (Oge: DFO*; Exp: FB *)
 
 - **Unlocked by:** DFO Main Quest 12/Well of Lost Souls
@@ -2226,6 +2477,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 70
 - **Drops:** 3-6 Raw Steel, 0-2 Hardwood, 1 Steel Bar
 - **Quests:** SpaceS: Orders to Repair (3), An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2), Sparks to Ignite 3/3 (10)
+
+### Tacin (Oge: CAVE*)
+
+- **Unlocked by:** CAVE MQ1/Meet the Shadow
+- **Requirements:** 150 words
+- **Time allowed:** 15 minutes
+- **XP:** 15
+- **Drops:** 0-1 Leather Roll, 1-3 Dust, 1-2 Raw Stone
+- **Quests:** CAVE Main Quest 2/Talk with Shadow (8), I Am The Night (20), Dry Stale Air (5)
 
 ### Takori (Oge: DFO*)
 
@@ -2347,6 +2607,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - MT: A Family Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); New Adventurous Horizons (1)
   - DFO: Reinforced Ardi Station 1/4 (1)
 
+### Ulos (Oge: CAVE*)
+
+- **Unlocked by:** CAVE MQ 5/It was Like Lightning
+- **Requirements:** 650 words
+- **Time allowed:** 90 minutes (1 hour and 30 minutes)
+- **XP:** 65
+- **Drops:** 0-1 Cave Mushrooms (1 with enough Luck), 1-2 Leather Rolls, 2 River Water, 1 Spider Poison
+- **Quests:** CAVE Main Quest 6/Speak with Shadow (5), Submerged Spikey Swim 1/2 (8), Submerged Spikey Swim 2/2 (20)
+
 ### Untu Golem (Exp: ShrineGiant)
 
 - **Unlocked by:** Wardrobe: Giants Time Bracelet
@@ -2373,6 +2642,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 130
 - **Drops:** 14 Shrine Stones, 3-6 Raw Fabric, 2-4 Rope, 1-3 Raw Steel, 3-7 Coins
 - **Quests:** ShrineCar: A Carnival Festival (1)
+
+### Vafire (Oge: CAVE)
+
+- **Unlocked by:** opening Cave
+- **Requirements:** 500 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 50
+- **Drops:** 1 Cave Mushroom, 1 River Water, 1-2 Raw Stone
+- **Quests:** CAVE: Main Quest 1/Meet the Shadow (5), 100 Minds to Explore (100)
 
 ### Vaktra (Exp: SurfaceC)
 
@@ -2471,6 +2749,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Baseline Drops:** 1 Leaf, 3 Coins 
 - **Quests:** Global: Procrastination's A Thief (1)
 
+### Vibidi (Oge: PG*)
+
+- **Unlocked by:**  Main Quest 1/Then The Bird Said
+- **Requirements:** 300 words
+- **Time allowed:** 30 minutes
+- **XP:** 30
+- **Drops:** 2-4 Raw Stone, 1-2 Purple Crystals, 2-4 Dust
+- **Quests:** PG: Main Quest 2/A Desolate Path (6), Preventing Purple Power-Ups (20)
+
 ### Villager (Oge: MT*, 3PC)
 
 - **Unlocked by:** MT Main Quest 4/Aid to an Elder
@@ -2538,6 +2825,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 30
 - **Drops:** 3-4 Shrine Stones, 0-1 Red Dye, 1 Wood
 - **Quests:** Shrine GO Quests: Green Ooze Invasion (1), Seeing a Sequence (3)
+
+### Weekiwa (Oge: Riza*)
+
+- **Unlocked by:** HuntS3 Quest: A Bubble Dream
+- **Requirements:** 900 words
+- **Time allowed:** 120 minutes (2 hours)
+- **XP:** 90
+- **Drops:** 9 Hunter Tokens, 2-4 River Water, 2-4 Raw Steel, 2-6 River Grass, 1-3 River Stones
+- **Quests:** HuntS4: Ideas Brought to Life (3)
 
 ### Wetu (Oge: Gansu)
 
@@ -2623,6 +2919,14 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - SurfaceC: Infected Raina Part 3 (10)
   - HuntS3: Growing Your Valor 4/4 (1)
 
+### Xaey (Oge: PG)
+
+- **Unlocked by:** opening Purple Gate
+- **Requirements:** 120 words
+- **Time allowed:** 15 minutes
+- **XP:** 12
+- **Drops:** 1 Bones, 0-1 Purple Crystal Shards
+- **Quests:** PG: Main Quest 1/Then The Bird Said (5), Breaking Down Bones (50)
 
 ### Xin (EVERYWHERE)
 
@@ -2794,6 +3098,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Quests:** 
   - DigS: Dazzling Desert Colors (10)
   - HuntS2: Dazzling Desert Diversity (2)
+
+### Zhout (Oge: PG*)
+
+- **Unlocked by:** PG MQ4/A Ruined Path
+- **Requirements:** 600 words
+- **Time allowed:** 90 minutes (1 hour and 30 minutes)
+- **XP:** 90
+- **Drops:** 2-3 Purple Crystal Shards, 2-5 Raw Stone, 1-3 Glass Shards, 2 Bones, 1 Dried Pulp
+- **Quests:** PG: Main Quest 5/What Lies Uncovered (5), A Coordinated Attack 1/2 (15), A Coordinated Attack 2/2 (25), Scary Short Story (1)
 
 ### Zoomga! (Exp: RLab)
 

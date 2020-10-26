@@ -1,4 +1,4 @@
-LAST UPDATED 15 OCT 2020
+LAST UPDATED 26 OCT 2020
 
 The final lap! The season of Jubilee! And we go all over the game to do so...
 
@@ -60,3 +60,32 @@ Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!)
 - Caretaker's Wrist Guards - 30 Hunter Tokens
 - Curator's Wrist Guards - 30 Hunter Tokens
 - Shepherd's Wrist Guards - 30 Hunter Tokens
+
+# Late Oct 2020
+
+### New S4 Quests: Late Oct 2020
+
+- Ideas Brought to Life
+- Celebrate Joy
+- Sing Your Bravery (2/2)
+- Jubilant and Strong
+- On the Wrong Path
+
+### New S4 Monster: Late Oct 2020
+
+- Weekiwa
+
+### New S4 Resource: Late Oct 2020
+
+- Hunt Map Piece 11
+
+### Hunter Token Sources: Late Oct 2020
+
+The Hunter Token changeover is delayed until October 30, so that the next token source can be event monsters.
+
+### New Wardrobe Items: Late Oct 2020
+
+- Bard's Necklace - 30 Hunter Tokens
+- Caretaker's Necklace - 30 Hunter Tokens
+- Curator's Necklace - 30 Hunter Tokens
+- Shepherd's Necklace - 30 Hunter Tokens
