@@ -1,4 +1,4 @@
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 8 DEC 2020
 
 Here we have everything from Three Points Crossing and Gansu Watering Hole, barring any Hunt info that doesn't apply to Hunter Tokens. Use wisely. :) Anything that says FOREST or FOREST EXPEDITION can be looked up in more detail under Forest Resources. Any Alien Meteoroid resources will stick to the Alien Meteoroid section until we get to the Desert Summary.
 
@@ -267,7 +267,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 
 - **Source:** FOREST
 - **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game)
-- **Used for:** later game
+- **Used for:** nothing right now
 
 ### Gold
 

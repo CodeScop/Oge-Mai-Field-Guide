@@ -636,7 +636,7 @@ The **Wardrobe** section offers the following for sale:
 
 ### Raina Sacred Site
 
-- The quest **A Worthy Offering** wins you **Golden Earrings, **, which have three variants:
+- The quest **A Worthy Offering** wins you **Golden Earrings, ** which have three variants:
   - left ear: https://4thewords.com/media/wardrobe/featured/female/wf&#95;778-golden-earrings-5294-75057.png
   - right ear: https://4thewords.com/media/wardrobe/featured/female/wf&#95;778-golden-earrings-5295-82268.png
   - both ears: https://4thewords.com/media/wardrobe/featured/female/wf&#95;778-golden-earrings-5297-96979.png
@@ -710,6 +710,35 @@ The **Wardrobe** section offers the following for sale:
   - pink-purple: https://media.4thewords.com/s3/media/wardrobe/icons/icon&#95;hands&#95;ardi&#95;lamp&#95;purple.png
   - blue violet: https://media.4thewords.com/s3/media/wardrobe/icons/icon&#95;hands&#95;ardi&#95;lamp&#95;blue.png
   - white-blue: https://media.4thewords.com/s3/media/wardrobe/icons/icon&#95;hands&#95;ardi&#95;lamp&#95;ghost.png
+
+### Purple Gate
+
+Here we enter the Lands of the Wardrobe (no Lions or Witches spotted). Almost all quests, including Main Quests, return some kind of wardrobe reward. We'll start with the main quests:
+
+- **Then the Bird Said** will give you the **Basic Boots Purple Gate**:  https://4thewords.com/media/wardrobe/featured/female/wf&#95;1285-basic-boots-purple-gate-9102-70235.png
+- **A Desolate Path** will give you the **Basic Pants Purple Gate:** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1286-basic-pants-purple-gate-9104-70076.png
+- **Keep Pushing Forward** will give you the **Basic Shirt Purple Gate** (seeing a trend here?): https://4thewords.com/media/wardrobe/featured/female/wf&#95;1287-basic-shirt-purple-gate-9107-20549.png
+- **A Ruined Path** will give you the **Dusiri Top**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1062-dust-whirlwind-top-7662-82576.png
+- **What Lies Uncovered** will get you the **Large Crystal Bracelets**, which have three variants:
+  - both hands: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1244-crystal-bracelet-8758-65639.png
+  - left hand only: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1244-crystal-bracelet-8760-46519.png
+  - right hand only: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1244-crystal-bracelet-8761-20136.png
+- **A Fearful Path** will give you the **Steel Hands Necklace** (which is also available from the sidequest A Coordinated Attack 1/2 as of this writing): https://4thewords.com/media/wardrobe/featured/female/wf&#95;1211-steel-hands-necklace-8586-64640.png
+- **Fighting the Water** will get you **Eninir Skeleton Ribs**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1068-ghoul-ribs-bodypaint-7674-62372.png
+- **Fighting the Flame** will get you **Eninir Skeleton Neck**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1067-ghoul-neck-bodypaint-7672-72548.png
+- **Fighting the Mountain** will get you **Dust Suwö Mouth**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1060-dust-suwo-mouth-7658-31169.png
+
+
+
+And now, the sidequests:
+
+
+
+- As of this writing, **A Coordinated Attack (1/2)** gets you the same **Steel Hands Necklace** that you'd be getting for the sixth Main Quest, A Fearful Path: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1211-steel-hands-necklace-8586-64640.png
+
+### Cave
+
+
 
 And that's all the current wardrobe-returning options in the game, by my notes!
 

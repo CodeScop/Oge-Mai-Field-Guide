@@ -1,4 +1,4 @@
-LAST UPDATED 26 OCT 2020
+LAST UPDATED 9 DEC 2020
 
 The final lap! The season of Jubilee! And we go all over the game to do so...
 
@@ -81,7 +81,7 @@ Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!)
 
 ### Hunter Token Sources: Late Oct 2020
 
-The Hunter Token changeover is delayed until October 30, so that the next token source can be event monsters.
+The Hunter Token changeover is delayed until October 30, so that the next token source can be event monsters. Just simply... event monsters.
 
 ### New Wardrobe Items: Late Oct 2020
 
@@ -89,3 +89,64 @@ The Hunter Token changeover is delayed until October 30, so that the next token 
 - Caretaker's Necklace - 30 Hunter Tokens
 - Curator's Necklace - 30 Hunter Tokens
 - Shepherd's Necklace - 30 Hunter Tokens
+
+# Late Nov/early Dec 2020
+
+### New S4 Quests: Late Oct 2020
+
+- A Battle of Celebration
+- Sing Your Commitment (3/4)
+- Sing Your Wander (4/4)
+- Still Missing Something
+- Stories to Tell
+
+### New S4 Monster: Late Oct 2020
+
+- Morimet
+
+### New S4 Resource: Late Oct 2020
+
+- NONE
+
+###Hunter Token Sources: Dec 2020
+
+Note: I'm marking this as "December" instead of "Late November" because for the entire duration of NaNo, right through Dec 4, Hunter Tokens were dropping from NaNo event monsters and Hunt monsters only.
+
+For December, the trend is "Green and White".
+
+- Global Battles: Vi (5 minutes for ), Xin (100 words for 1)
+- LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Grey's Mawt (850 words for 8-9), Nitana (700 words for 7), Spirit Wignow (450 words for 4-5), Wignow (250 words for 2-3)
+- MT Battles: Assassin (1400 words for 14), Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 8-9), Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
+- FOREST EXPEDITION:
+  - BC Battles: Sacer (120 words for 1-2)
+  - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6), Spirit Ardia (80 words for 0-1)
+  - SC Battles: Reudod (600 words for 6)
+  - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7)
+  - GL Battles: Night Dandeleon (330 words for 3-4)
+- 3PC Battles: Global and Hunt only
+- ALIEN EXPEDITION:
+  - IC Battles: Nedi (800 words for 8), Rosarin (500 words for 5)
+  - SpaceS Battles: Szalin (700 words for 7), Yalarr (500 words for 5)
+  - MiningS Battles: Halix (250 words for 2-3), Pach (200 words for 2), Skarn (1100 words for 11), Zals (900 words for 9)
+  - RL Battles: Dr. Enoe (1500 words for 15), Dr. Hogglevoss (1200 words for 12), Fonar (200 words for 2), Gwynos (450 words for 4-5)
+- Gansu Battles: Sparfly (450 words for 4-5), Suulan (2000 words and 1 Steel Dagger for 20)
+- DESERT EXPEDITION:
+  - DigS Battles: Global and Hunt only
+  - Ruins Battles: Global and Hunt only
+- Riza Battles: Patliadu (750 words and 1 Harpoon for 7-8), Sparfly (450 words for 4-5), Wyvern (1300 words for 13)
+- RAINA EXPEDITION:
+  - SurfaceC Battles: Auwi (500 words for 5), Wyvern (1300 words for 13)
+  - SwampL Battle: Copei (800 words for 8), Galai (1500 words for 15), Larida (1000 words for 10), Swamp Wignow (500 words for 5)
+  - SacredS Battle: Ognimaf (300 words for 3), Swamp Wignow (500 words for 5)
+  - Hideout Battles: Necog (450 words for 4-5)
+- Balance Battles: Castu (450 words and 1 Water Mask for 4-5), Isartu (720 words for 7-8), Sliv (550 words and 1 Water Mask for 5-6), Spirit Castu (550 words for 5-6), Vezi (1300 words, 1 Water Mask, and 1 Underwater Torch for 13)
+- DFO Battles: Burhar (1500 words for 15), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment, and 1 Blue Essence Ink for 50), Papple (1000 words for 10), Spirit Ardia (80 words for 0-1)
+- PG Battles: Global and Hunt only
+- CAVE Battles: Chio (100 words for 1), Gliva (300 words for 3), Gormist (1667 words for 17), Letos (700 words for 7), Olanat (1100 words for 11), Reflection (4444 words for 45), Spina (450 words for 4-5), Tacin (150 words for 1-2), Ulos (650 words for 6-7), Vafire (500 words for 5)
+
+###New Wardrobe Items: Late Oct 2020
+
+- Bard's Hat - 100 Hunter Tokens
+- Caretaker's Hair - 100 Hunter Tokens
+- Curator's Timepiece - 100 Hunter Tokens
+- Shepherd's Robes - 100 Hunter Tokens

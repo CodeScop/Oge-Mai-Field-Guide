@@ -382,7 +382,7 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
   - Ruins Feathers & Fur - defeat 5 Bevrex & 5 Rif, win 3 Stempos
   - Ruins Every Tunnel Connects - get 10-day Streak, win 4 Stempos
 - **Ruins: Searching South • Ruins: Navigating North • Ruins: Withdrawing West • Ruins: Excavating East** - four quests which may be completed in any order, all of which must be completed to progress on; collectively, write 2700 words, fight 1 each unique Ruins monsters, get 5 each Raw Gold, Raw Sandstone, Raw Steel, and Raw Stone
-- **Ruins: Tunnel Locked On** - other Ruins quests, 1 Kapir Tuft, 1 Dandeleon Flower, 1 Gobkey Trinket, and 3 Desert Stones to unlock the Shrine of Ages (requires materials from Forest Expedition Guardian's Lair)
+- **Ruins: Tunnel Locked On** - other Ruins quests, 3 Kapir Tufts, 3 Spider Poison, and 3 Desert Stones to unlock the Shrine of Ages (requires materials from Forest Expedition Guardian's Lair)
   - (Shrine of Ages)
   - Shrine of Ages - variable; see Shrine of Ages section for full list
 
@@ -528,3 +528,4 @@ Season 4 is unlocked by completing the quest A Bubble Dream, and you can see tha
   - HuntS3 Celebrate Joy - have Hunt Map Piece 10 and attain 7-day Streak, get Wardrobe: Facepaint Eye Stroke
 - HuntS4 Something Extraordinary - defeat 3 Mirdor, get Hunt Map Piece 10 and 10 Hunter Tokens
 - HuntS4 Ideas Brought to Life - defeat 3 Weekiwa, get Hunt Map Piece 11 and 10 Hunter Tokens
+

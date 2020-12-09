@@ -1,4 +1,4 @@
-LAST UPDATED 2 APR 2020
+LAST UPDATED 8 NOV 2020
 
 Before anything else, check out the New Dust Warrior Guide for game working: https://4thewords.com/page/new-dust-warrior-guide
 
@@ -16,11 +16,13 @@ Certain resources are equippable (they're listed as Battle Items in your resourc
 
 **Defense** gives you extra time. Each Defense point gives you 0.5% more time. So a Wignow which normally gives you 30 minutes to battle, with a +4 Defense will give you 30 * 1.02 (or about quite 31) minutes to battle. That's not much, but if you're fighting a Grey's Mawt, you get an extra 5 minutes. And as you progress in the game, Defense scores of over 50 become possible.
 
-**Luck** increases the odds that you get drops. There is absolutely nothing empirical to show that Luck is particularly useful beyond a base level. Once you get +2 Luck, the results seem pretty similar to what you get with +42 (although there may be some benefits up to +20). Still, those first two Luck points are incredibly helpful in guaranteeing results from battles, and there is always the chance that someday Luck will make more difference.
+**Luck** increases the odds that you get drops. This is a little tricky to measure; many drops are completely unaffected by Luck, while others are on a sliding scale of "it's not going to happen" up to "extremely reliable" depending on how much Luck you have. (I try to note on resources when your odds of getting 0 of a drop are highly Luck-dependent, but Luck is a shifting factor and I can't promise to get it right.) The deeper you go in the game, the more Luck you'll want as a baseline. As a general rule, I'd say that you can't gauge what a monster or chest will drop unless you have at least +5 Luck, preferably +10 (don't worry that you'll have to start out with nothing and can't get +10 until fairly deep into the game, just... to give you an idea about how much I prioritize getting Luck-enhancing equipment). Up to +20 still makes a noticeable difference, but you're starting to get into the zone where it really helps more to have more Attack when battling monsters (ultimately fewer words to get resources). My latest Luck survey shows some rare cases where Luck continues being increasingly useful all the way to +50, but those cases are extremely rare. Many experienced players will tell you that +10 or +11 is their limit, and it seems to suit.
+
+But keep your eyes open for your own conclusions! Luck shifts more often than I update my FAQ. :)
 
 ### Why isn't this weapon/item of clothing working properly?
 
-Maybe it isn't! (In which case, contact the devs; they're lovely.) But before you decide that, remember that it can be hard sometimes to tell the difference between **Inventory** items (specifically **Battle** items) which can be equipped, and **Wardrobe** items which are for dressing your avatar. There is absolutely zero overlap between the two. Some quests give rewards for one, some for the other, and they can be hard to tell apart.
+Maybe it isn't! (In which case, contact the devs; they're lovely.) But before you decide that, remember that it can be hard sometimes to tell the difference between **Inventory** items (specifically **Battle** items) which can be equipped, and **Wardrobe** items which are for dressing your avatar. There is absolutely zero overlap between the two. Some quests give rewards for one, some for the other, and they can be hard to tell apart. The giveaway is that Wardrobe items are always shown on the gray figure of an avatar stand-in, while Inventory items stand alone.
 
 ### How do I open this chest?  
 
