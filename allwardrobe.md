@@ -1,6 +1,8 @@
-LAST UPDATED 9 DEC 2020
+LAST UPDATED 11 DEC 2020
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
+
+Please note that because my avatar is femme, and I'm not quite meticulous enough to switch genders around so that I collect images for both, the overwhelming majority of gender-differentiated item images below are femme. Still, the only real difference between gender-differentiated items is usually the bare minimum to make them fit differently-shaped avatars; there's not usually any substantial difference.
 
 ### Luciola Forest
 
@@ -733,7 +735,7 @@ The **Wardrobe** section offers the following for sale:
   - blue violet: https://media.4thewords.com/s3/media/wardrobe/icons/icon&#95;hands&#95;ardi&#95;lamp&#95;blue.png
   - white-blue: https://media.4thewords.com/s3/media/wardrobe/icons/icon&#95;hands&#95;ardi&#95;lamp&#95;ghost.png
 
-### Purple Gate - STILL IN PROGRESS
+### Purple Gate
 
 Here we enter the Lands of the Wardrobe (no Lions or Witches spotted). Almost all quests, including Main Quests, return some kind of wardrobe reward. We'll start with the main quests:
 
@@ -749,6 +751,7 @@ Here we enter the Lands of the Wardrobe (no Lions or Witches spotted). Almost al
 - **Fighting the Water** will get you **Eninir Skeleton Ribs**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1068-ghoul-ribs-bodypaint-7674-62372.png
 - **Fighting the Flame** will get you **Eninir Skeleton Neck**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1067-ghoul-neck-bodypaint-7672-72548.png
 - **Fighting the Mountain** will get you **Dust Suwö Mouth**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1060-dust-suwo-mouth-7658-31169.png
+- **A Familiar Fight** gets you two items: **Dark Avatar Hands** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1072-dark-avatar-hands-7682-75765.png and **Dark Avatar Bodypaint** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1071-dark-avatar-bodypaint-7680-43902.png
 
 
 
@@ -756,11 +759,159 @@ And now, the sidequests:
 
 
 
-- As of this writing, **A Coordinated Attack (1/2)** gets you the same **Steel Hands Necklace** that you'd be getting for the sixth Main Quest, A Fearful Path: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1211-steel-hands-necklace-8586-64640.png
+- As of this writing, **A Coordinated Attack (1/2)** gets you the same **Steel Hands Necklace** that you'd be getting for the sixth Main Quest, A Fearful Path: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1211-steel-hands-necklace-8586-64640.png (whichever you complete first will get you the reward; the other will get you nothing)
+- **A Coordinated Attack (2/2)** gives you **Zhout Hands**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1065-ghoul-crystal-hands-7667-91750.png
+- **Ardid Hunter** gives you **Crystal Earrings**, with **eight variants**:
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1192-crystal-earrings-8417-83041.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1192-crystal-earrings-8418-65732.png
+  - teal green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1192-crystal-earrings-8419-36448.png
+  - kelly green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1192-crystal-earrings-8420-52529.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1192-crystal-earrings-8421-42422.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1192-crystal-earrings-8422-95256.png
+  - white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1192-crystal-earrings-8423-37400.png
+  - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1192-crystal-earrings-8424-89107.png
+- **Ardid Hunter 2/2** gives you the **Sharp Crystal Necklace**, which has **six variants**:
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1078-crystal-medium-length-necklace-7716-71638.png
+  - teal: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1078-crystal-medium-length-necklace-7717-41621.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1078-crystal-medium-length-necklace-7718-45701.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1078-crystal-medium-length-necklace-7719-29728.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1078-crystal-medium-length-necklace-7720-81412.png
+  - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1078-crystal-medium-length-necklace-7721-92579.png
+- **Breaking Down Bones** yields the **Crystal Choker**, with **six variants**:
+  - coral red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1077-crystal-choker-7701-43816.png
+  - teal green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1077-crystal-choker-7703-37740.png
+  - kelly green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1077-crystal-choker-7705-68075.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1077-crystal-choker-7706-85455.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1077-crystal-choker-7707-53633.png
+  - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1077-crystal-choker-7709-10077.png
+- **Create Your Path** gets you **Eninir Facepaint:** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1066-ghoul-facepaint-7670-36523.png
+- **The Long Walk** yields the (I think awesomely cool) **Purple Gate Cape**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1242-cape-8754-18891.png
+- **Eensy Weensy Oncara** gives you the **Crystal Necklace**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1030-crystal-necklace-7561-86961.png
+- **Dust Mote Swarms** yields **Extended Chain Earrings**, with **eight variants**: 
+  - teal blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1189-chain-earrings-elfears-8369-40440.png
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1189-chain-earrings-elfears-8370-94370.png
+  - indigo: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1189-chain-earrings-elfears-8371-89875.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1189-chain-earrings-elfears-8372-16606.png
+  - magenta: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1189-chain-earrings-elfears-8373-90289.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1189-chain-earrings-elfears-8374-43106.png
+  - white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1189-chain-earrings-elfears-8375-68169.png
+  - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1189-chain-earrings-elfears-8376-34732.png
+- **Too Many Spirits** gives you the **Eninir Crown**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1208-ghost-crown-8576-22843.png
+- **Trouble Above** is a double-header as of this writing, giving you both the **Chain Necklace** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1204-chain-necklace-8564-10670.png and **Leopar Earrings**, which have **seven variants**:
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1201-snake-earrings-8529-18956.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1201-snake-earrings-8530-23204.png
+  - teal: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1201-snake-earrings-8531-11291.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1201-snake-earrings-8532-16793.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1201-snake-earrings-8534-49210.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1201-snake-earrings-8541-12333.png
+  - gold: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1201-snake-earrings-8542-10473.png
+- **Silent Slithering Surprises** gets you the **Leopar Necklace**, which has **seven variants**:
+  - black and white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1202-snake-necklace-8543-66886.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1202-snake-necklace-8544-91703.png
+  - teal: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1202-snake-necklace-8545-69973.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1202-snake-necklace-8547-31118.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1202-snake-necklace-8549-21360.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1202-snake-necklace-8550-92631.png
+  - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1202-snake-necklace-8551-76619.png
+- **Cursed Violet Winds** gives you the  **Dusiri Crown** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1061-dust-whirlwind-crown-7660-63618.png
+- **Scary Short Story** yields the **Hand Ankle Bracelet**, which has **three variants**:
+  - both ankles: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1209-hand-ankle-bracelet-8577-96142.png
+  - left ankle only: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1209-hand-ankle-bracelet-8578-47868.png
+  - right ankle only: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1209-hand-ankle-bracelet-8580-41783.png
+- **The Crystal Giants** gives you **Golem Crystal Hair:** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1064-golem-crystal-hair-7666-48844.png
 
 ### Cave
 
-still working on this
+First, a new wardrobe store!
+
+- The **Mushroom Paint** shop in Town offers the following items for sale:
+  - Letos Tattoo - 50 Cave Mushrooms
+  - Mushroom Tattoo - 50 Cave Mushrooms
+  - Eyes Tattoos - 50 Cave Mushrooms
+  - Ulos Filled-In Tattoo - 100 Cave Mushrooms
+  - Letos Filled-In Tattoo - 100 Cave Mushrooms
+
+Once again, a TON of wardrobe, including from main quests, so I'm going to focus on main quests first and then come back to side quests.
+
+- **Meet the Shadow** will give you **Basic Boots Cave** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1284-basic-boots-cave-9101-78614.png
+- **Talk with Shadow** will get you **Basic Pants Cave:** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1288-basic-pants-cave-9109-17444.png
+- **Sharpening Stubborn Stones** will give you **Smoke Eye Makeup**, with **eight variants:**
+  - teal: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1181-smoke-eye-makeup-8273-63331.png
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1181-smoke-eye-makeup-8274-87055.png
+  - pale pink: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1181-smoke-eye-makeup-8279-91867.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1181-smoke-eye-makeup-8283-46812.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1181-smoke-eye-makeup-8284-23764.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1181-smoke-eye-makeup-8285-86456.png
+  - gold: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1181-smoke-eye-makeup-8286-70522.png
+  - hot pink: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1181-smoke-eye-makeup-8288-85612.png
+- **Discuss With Shadow** will give you **Mushroom Hair**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1229-mushroom-hair-8622-31409.png
+- **It was like Lightning** gives you the **Smoke Shoulder Makeup**, with **eight variants:**
+  - dark gray: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1179-smoke-shouldermakeup-8242-90938.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1179-smoke-shouldermakeup-8244-26498.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1179-smoke-shouldermakeup-8245-33934.png
+  - very pale pink: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1179-smoke-shouldermakeup-8246-46079.png
+  - hot pink: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1179-smoke-shouldermakeup-8250-74247.png
+  - lime green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1179-smoke-shouldermakeup-8251-14289.png
+  - lemon yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1179-smoke-shouldermakeup-8252-60938.png
+  - teal: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1179-smoke-shouldermakeup-8254-36915.png
+- **Speak with Shadow** gets you the **Basic Shirt Cave:** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1289-basic-shirt-cave-9111-13630.png
+- **Dam the Guilt** gets you the creepy **Cave Eyes:** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1226-cave-eyes-8616-35136.png
+- **The Final Fight** gets you the **Translucid Chest**, with **three variants:**
+  - heart and ribs: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1277-translucid-chest-8972-20791.png
+  - heart only: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1277-translucid-chest-8974-91496.png
+  - ribs only: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1277-translucid-chest-8975-10827.png
+
+
+
+And now, the offerings for Cave sidequests:
+
+
+
+- **Nooks & Crannies** gives you **Wet Hair**, which has **seven variants**:
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1240-wethair-8725-22131.png
+  - dark green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1240-wethair-8726-38385.png
+  - dark blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1240-wethair-8727-17778.png
+  - dark purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1240-wethair-8728-45575.png
+  - dark brown/gold: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1240-wethair-8732-28719.png
+  - dark pink: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1240-wethair-8733-29335.png
+  - dark red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1240-wethair-8734-59517.png
+- **Colorful, Vibrant Hallucinations** will give you **Mushroom Earrings**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1266-mushroom-earrings-8927-82906.png
+- **100 Minds to Explore** gives you a **Vafire Head:** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1279-translucid-head-8979-82296.png
+- **Bridge for the Future** takes your king's ransom and gives you a **Tacin Crown** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1224-bat-wing-crown-8612-90317.png
+- **I Am the Night** supplies you with ~~Bat~~ **Tacin Shoulder Pads** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1225-bat-wing-shoulder-pads-8614-21831.png
+- **Crab Claw Clack** gives you two items, the **Spike Nose Ring** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1271-spike-nose-ring-8950-83364.png and **Fishbone Brow Piercing**, in **eight variants**:
+  - left eye green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1232-fishskull-browpiercing-8648-38837.png
+  - left eye orange: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1232-fishskull-browpiercing-8649-63271.png
+  - left eye white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1232-fishskull-browpiercing-8652-83255.png
+  - left eye yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1232-fishskull-browpiercing-8654-67764.png
+  - right eye white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1232-fishskull-browpiercing-9174-59176.png
+  - right eye yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1232-fishskull-browpiercing-9176-98112.png
+  - right eye green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1232-fishskull-browpiercing-9177-99114.png
+  - right eye orange: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1232-fishskull-browpiercing-9178-79346.png
+- **Fuzzy Cave Pillows** gives you an **Attwo Necklace:** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1258-claws-necklace-8905-62000.png
+- **Dry Stale Air** gives you a **Tacin Ribcage:** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1259-corset-8906-74625.png
+- **A Bone to Pick** will give you a **Letos Ear Piercing**, in **eight variants**:
+  - right white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1235-fishskull-medium-earpiercing-8679-59785.png
+  - right orange: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1235-fishskull-medium-earpiercing-8680-75449.png
+  - right green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1235-fishskull-medium-earpiercing-8681-48996.png
+  - right yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1235-fishskull-medium-earpiercing-8682-68371.png
+  - left orange: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1235-letos-ear-piercing-9159-56906.png
+  - left green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1235-letos-ear-piercing-9160-64331.png
+  - left yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1235-letos-ear-piercing-9161-36430.png
+  - left white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1235-letos-ear-piercing-9162-26066.png
+- **Fighting Fallen Soldiers (1/2)** wins you **Olanat Hair:** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1220-mushroom-hat-8604-61314.png
+- **Fighting Fallen Soldiers (2/2)** gets you the morbid **Tainted Sword** in **two variants**:
+  - right pec: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1274-sword-8959-61277.png
+  - left pec: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1274-sword-8960-67440.png
+- **Submerged Spikey Swim (1/2)** nets you a **Spina Necklace:** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1262-fish-necklace-8913-62943.png
+- **Submerged Spikey Swim (2/2)** gives you a not-at-all terrifying **Ulos Mask**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1272-starfish-mask-8953-54872.png
+- **Leatherbacks of the Cave** gets you two items: **Spike Necklace** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1270-spike-necklace-8949-67142.png and **Spike Ankle Bracelet**, which has **three variants**: 
+  - right ankle only: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1267-spike-ankle-bracelet-8933-42241.png
+  - left ankle only: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1267-spike-ankle-bracelet-8934-54572.png
+  - both ankles: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1267-spike-ankle-bracelet-8935-29141.png
+- **Reflections for Improvement** will give you the **Reflection Puddle**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1227-avatar-reflection-puddle-8618-40934.png
+
+_____
 
 And that's all the current wardrobe-returning options in the game, by my notes!
 
