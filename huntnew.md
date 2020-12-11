@@ -12,9 +12,9 @@ Hey! Loading up the info for the Hunt. It takes a while to incorporate everythin
 
 - **Unlocked by:**  HuntS4 Quest: Celebrate Joy
 - **Type:** Streak, Collection
-- **Requirements:** Attain 10-day Streak, have all 11 Hunt Map Pieces
+- **Requirements:** Attain 10-day Streak, deliver all 11 Hunt Map Pieces
 - **Rewards:** Wardrobe: Hunt Map Hands https://4thewords.com/media/wardrobe/featured/male/wm&#95;872-hunt-map-hands-6024-61497.png
-- **Recommendations:**  Still waiting to see if/how this is impacted by the December release, because after all the waiting to finish this quest... nothing happens. At least, nothing happens right now. We'll see if that lasts!
+- **Recommendations:**  Still waiting to see if/how this is impacted by the December release, because after all the waiting to finish this quest... nothing happens. At least, nothing happens right now. We'll see if that lasts! But it's worth noting that this will be the last you see of the Hunt Map Pieces. Farewell, o longtime companions!
 
 ###Sing Your Commitment (3/4)
 

@@ -1,4 +1,4 @@
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 10 DEC 2020
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Water-only otherwise.
 
@@ -345,6 +345,10 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
   - Riza Battles: Patliadu (need 1)
 - **Equip:** Weapon2: +8 Attack, +8 Defense, +0 Luck
 
+### Hunt Map Piece XXX
+
+See Hunt or regional Resource sections for details
+
 ### Hunter Tokens
 
 - **Hunt Sources:** 
@@ -355,9 +359,9 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
   - Balance Battles: Velts: Water (1600 words for 16), Vanvri (20 minutes for 2-8)
   - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25), Insight Grows (15), Change to See (25), Growth in Friendship (50), Where Life Flows (15)
 
-- **Monthly Sources Outside the Hunt:**
+- **Sources Outside the Hunt:**
 
-  I'll detail these changes in the Hunt sections and the regional summary sections.
+  - See Hunt or regional Resource sections for details
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

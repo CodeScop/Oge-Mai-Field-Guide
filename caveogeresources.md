@@ -1,4 +1,4 @@
-LAST UPDATED 26 OCT 2020
+LAST UPDATED 9 DEC 2020
 
 If you find anything crucial missing from this list (once I post it onsite; as I write, I'm composing notes that are still incomplete and only on GitHub), please consider looking at the Dust Resources for a more complete look at this region.
 
@@ -404,66 +404,6 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 - **Sell price:** 150 Coins (don't sell unless you have >50)
 - **Used for:** equipping, WATER
 - **Equip:** Weapon2: +8 Attack, +8 Defense, +0 Luck
-
-### Hunt Map Piece
-
-- **Source:** FOREST HUNT
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** FOREST HUNT
-
-### Hunt Map Piece 2
-
-- **Source:** FOREST HUNT
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** FOREST HUNT
-
-### Hunt Map Piece 3
-
-- **Source:** FOREST HUNT
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** FOREST HUNT
-
-### Hunt Map Piece 4
-
-- **Source:** DESERT HUNT
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** DESERT HUNT
-
-### Hunt Map Piece 5
-
-- **Source:** DESERT HUNT
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** DESERT HUNT
-
-### Hunt Map Piece 6
-
-- **Source:** DESERT HUNT
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** DESERT HUNT
-
-### Hunt Map Piece 7
-
-- **Source:** WATER HUNT
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** WATER HUNT
-
-### Hunt Map Piece 8
-
-- **Source:** WATER HUNT
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** WATER HUNT
-
-### Hunt Map Piece 9
-
-- **Source:** WATER HUNT
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** WATER HUNT
-
-### Hunt Map Piece 10
-
-- **Source:** HuntS4 Quest: Something Extraordinary (1)
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS4 Quest:  Dirt to Dust (1)
 
 ### Hunter Tokens
 

@@ -1,4 +1,4 @@
-LAST UPDATED 25 OCT 2020
+LAST UPDATED 9 DEC 2020
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
@@ -519,13 +519,18 @@ Season 4 is unlocked by completing the quest A Bubble Dream, and you can see tha
 - HuntS4 A Battle of Evolution - **(Note: This has as prerequisite the "HuntS3" quest Battle of Constitution. Unlocking Season 4 is not necessary, but since this was released with S4, I'm including it in S4.)** Defeat 1 Dust version of Velts, get Wardrobe: Hunt Battle Helmet
 - HuntS4 Sing Your Enthusiasm - defeat 10 Zanthei, get 20 Hunter Tokens
   - HuntS4 Sing Your Bravery (2/2) - defeat 10 Cursed Hands, get 15 Hunter Tokens
+    - HuntS4 Sing Your Commitment (3/4) - achieve 15-day Streak, get 25 Hunter Tokens
+      - HuntS4 Sing Your Wander (4/4) - defeat 1 each of the 5 Oge-Mai/Expedition Wignow types, get Wardrobe: Facepaint Around Eye
 - HuntS4 Cheer Your Dedication - write 10K words & make 5 Forum posts, get 15 Hunter Tokens
 - HuntS4 Jubilant and Strong - defeat 100 of any monster, get 50 Hunter Tokens
 - HuntS4 On the Wrong Path - defeat 3 Infected Golems, get 25 Hunter Tokens
 - HuntS4 To Celebrate and Share - defeat 6 Takori, get 20 Hunter Tokens
 - HuntS4 Into the Woods - defeat a bunch of DFO spirits, get 50 Hunter Tokens
+- HuntS4 Stories to Tell - write 25K words, get 25 Hunter Tokens
 - HuntS4 Dirt to Dust - have Hunt Map Piece 10 and attain 5-day Streak, get Wardrobe: Hunt Golden Brooch
-  - HuntS3 Celebrate Joy - have Hunt Map Piece 10 and attain 7-day Streak, get Wardrobe: Facepaint Eye Stroke
+  - HuntS4 Celebrate Joy - have Hunt Map Piece 11 and attain 7-day Streak, get Wardrobe: Facepaint Eye Stroke
+    - HuntS4 Still Missing Something - get 10-day Streak and hand in all 11 Hunt Map pieces, get Wardrobe: Hunt Map Hands
 - HuntS4 Something Extraordinary - defeat 3 Mirdor, get Hunt Map Piece 10 and 10 Hunter Tokens
 - HuntS4 Ideas Brought to Life - defeat 3 Weekiwa, get Hunt Map Piece 11 and 10 Hunter Tokens
+- HuntS4 A Battle of Celebration - defeat 3 Morimet, get 25 Hunter Tokens
 

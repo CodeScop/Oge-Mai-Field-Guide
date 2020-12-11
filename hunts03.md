@@ -1,4 +1,4 @@
-LAST UPDATED 15 OCT 2020
+LAST UPDATED 10 DEC 2020
 
 Season 2 is back in the Desert; now, we're in the Water Region, to Season 3: The Season of Growth, watched over by the Caretaker.
 
@@ -199,19 +199,19 @@ Season 3 was been scarce on Assistants and seems to be scarce on new monsters. S
 
 - **Source:** HuntS3 Quest: Moving Flora (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS3 Quest: To Grow & Change (1)
+- **Used for:** HuntS3 Quest: To Grow & Change (1), later game
 
 ### Hunt Map Piece 8
 
 - **Source:** HuntS3 Quest: Flying Past Sparks (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS3 Quest: Bettering Ourselves (1)
+- **Used for:** HuntS3 Quest: Bettering Ourselves (1), later game
 
 ### Hunt Map Piece 9
 
 - **Source:** HuntS3 Quest: s (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS3 Quest: Insight Grows (1)
+- **Used for:** HuntS3 Quest: Insight Grows (1), later game
 
 ### Hunter Tokens
 
@@ -232,36 +232,39 @@ Season 3 was been scarce on Assistants and seems to be scarce on new monsters. S
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25)
 
-- **Late Sept 2020 Sources Outside the Hunt:**
+- **Dec 2020 Sources Outside the Hunt:**
 
-  Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!) 
+  Note: I'm marking this as "December" instead of "Late November" because for the entire duration of NaNo, right through early December, Hunter Tokens were dropping from NaNo event monsters and Hunt monsters only.
 
-  - Global Battles: Vi (5 minutes for 1-4), Viyu (15 minutes for 3-14), Viyusa (25 minutes for 5-20)
-  - LF Battles: Spirit Wignow (450 words for 4-5)
-  - MT Battles: Ardis (70 words for 0-1), Assassin (1400 words for 14), Villager (1300 words for 13)
+  For December, the trend is "Green and White".
+
+  - Global Battles: Vi (5 minutes for ), Xin (100 words for 1)
+  - LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Grey's Mawt (850 words for 8-9), Nitana (700 words for 7), Spirit Wignow (450 words for 4-5), Wignow (250 words for 2-3)
+  - MT Battles: Assassin (1400 words for 14), Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 8-9), Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (120 words for 1-2), Xuso (450 words for 4-5)
-    - FB Battles: Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
-    - SC, TT, GL Battles: Hunt only
-  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
+    - BC Battles: Sacer (120 words for 1-2)
+    - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6), Spirit Ardia (80 words for 0-1)
+    - SC Battles: Reudod (600 words for 6)
+    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7)
+    - GL Battles: Night Dandeleon (330 words for 3-4)
+  - 3PC Battles: Global and Hunt only
   - ALIEN EXPEDITION:
-    - IC Battles: none
-    - SpaceS Battles: Captain Piak (1667 words for 16-17)
-    - MiningS Battles: Ityf (1250 words for 12-13), Pach (200 words for 2)
-    - RL Battles: Minica (900 words for 9), Tessen (500 words for 5), Zanutaki (500 words for 5)
-  - Gansu Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Sparfly (450 words for 4-5)
+    - IC Battles: Nedi (800 words for 8), Rosarin (500 words for 5)
+    - SpaceS Battles: Szalin (700 words for 7), Yalarr (500 words for 5)
+    - MiningS Battles: Halix (250 words for 2-3), Pach (200 words for 2), Skarn (1100 words for 11), Zals (900 words for 9)
+    - RL Battles: Dr. Enoe (1500 words for 15), Dr. Hogglevoss (1200 words for 12), Fonar (200 words for 2), Gwynos (450 words for 4-5)
+  - Gansu Battles: Sparfly (450 words for 4-5), Suulan (2000 words and 1 Steel Dagger for 20)
   - DESERT EXPEDITION:
-    - DigS Battles: Loi (150 words for 1-2), Okkorhi (1000 words for 10)
-    - Ruins Battles: Hunt only
-  - Riza Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Sparfly (450 words for 4-5), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
+    - DigS Battles: Global and Hunt only
+    - Ruins Battles: Global and Hunt only
+  - Riza Battles: Patliadu (750 words and 1 Harpoon for 7-8), Sparfly (450 words for 4-5), Wyvern (1300 words for 13)
   - RAINA EXPEDITION:
-    - SurfaceC Battles: Begala (300 words for 3), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
-    - SwampL Battle: Heliodae (120 words for 1-2)
-    - SacredS Battle: Pedja (1000 words for 10)
-    - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Kivi (100 words for 1), Wisthu (800 words for 8)
-  - Balance Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), River Goddess (5000 words for 50), Spirit Castu (550 words for 5-6)
-  - later game
-  
+    - SurfaceC Battles: Auwi (500 words for 5), Wyvern (1300 words for 13)
+    - SwampL Battle: Copei (800 words for 8), Galai (1500 words for 15), Larida (1000 words for 10), Swamp Wignow (500 words for 5)
+    - SacredS Battle: Ognimaf (300 words for 3), Swamp Wignow (500 words for 5)
+    - Hideout Battles: Necog (450 words for 4-5)
+  - Balance Battles: Castu (450 words and 1 Water Mask for 4-5), Isartu (720 words for 7-8), Sliv (550 words and 1 Water Mask for 5-6), Spirit Castu (550 words for 5-6), Vezi (1300 words, 1 Water Mask, and 1 Underwater Torch for 13)
+
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
 - **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices), outside game
@@ -271,6 +274,7 @@ Season 3 was been scarce on Assistants and seems to be scarce on new monsters. S
 Season 3 is unlocked by completing Stumbling Upon Sheep quest, and you can see that questline in Season 2.
 
 - HuntS3 Battle of Constitution 3/4 - **(Note: This has as prerequisite the HuntS2 quest Battle of Merit. Stumbling Upon Sheep is not necessary, but since this was released with S3, I'm including it in S3.)** Defeat 1 Water version of Velts, get 25 Hunter Tokens
+  - SLIGHT SPOILER: if you completed that quest, you'll unquestionably be able to complete the next and last one in this chain: "HuntS4" A Battle of Evolution - Defeat 1 Dust version of Velts, get Wardrobe: Hunt Battle Helmet
 - HuntS3 Helping Those In Need Grow - give a bunch of Rusty Amulets, Pendants, and Gold, get 25 Hunter Tokens
 - HuntS3 Change To See - defeat 1 Yala, get 25 Hunter Tokens
 - HuntS3 Growth in Friendship - defeat 1 each Raina in SurfaceC, get 50 Hunter Tokens

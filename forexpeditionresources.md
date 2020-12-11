@@ -1,4 +1,4 @@
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 9 DEC 2020
 
 This section, unlike the previous resource section, *is* going to be Forest Expedition-specific, partly because the Expedition sections are a little off the beaten path, partly because I'm already collating All The Info for the Forest in the Forest Resources section.
 
@@ -114,12 +114,6 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
   - TT Quest: Scouting the Trees (1)
 - **Sell price:** 100 Coins (DON'T SELL CHESTS WHY WOULD YOU)
 - **Used for:** outside game
-
-### Hunt Map Piece 2
-
-- **Source:** HuntS1 Quest: Elder Library Assistants (1)
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS1 Quest: Deeper Forest Hunting (1)
 
 ### Hunter Tokens
 

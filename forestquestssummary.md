@@ -1,4 +1,4 @@
-LAST UPDATED 26 OCT 2020
+LAST UPDATED 9 DEC 2020
 
 Okay! So, I'm going to try to consolidate ALL THE QUESTS in this region. Everything that isn't a Main Quest will be listed in alphabetical order after the Main Quests. The Main Quests will be in order, since it's a clearly defined road; and that "road" metaphor will extend in multiple directions. Hence, the new "Route" line of info to tell you how to find it/where you picked it up.
 
@@ -244,7 +244,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ### The Curator of Elder Library - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • **The Curator of Elder Library** • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • **The Curator of Elder Library** • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
 - **Type:** Battle
 - **Requirements:** Defeat 4x the Curator of Elder Library
 - **Rewards:** Wardrobe: Sassi Pet https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;sassi&#95;pet.png
@@ -289,7 +289,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ### Deeper Forest Hunting - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • **Deeper Forest Hunting** • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • **Deeper Forest Hunting** • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
 - **Type:** Words, Streak, Level, Collection
 - **Requirements:** Write 10K words, add 7 consecutive streak days, minimum level 3, Hunt Map Piece 2
 - **Rewards:** Wardrobe: Full Body Scars https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;full&#95;body&#95;scars.png
@@ -398,10 +398,10 @@ see **Lead the Way**
 - **Rewards:** Wardrobe: Expedition Tambo Belt
 - **Recommendations:** This is a long-term quest that can't be completed until you get halfway through the main quest sequence in the Floating City of Balance, which is a long ways away. These monsters are all over Oge-Mai, not just the Forest Region. If you want to pick up the quest now so that any battles you have against the appropriate creatures count, go ahead; however, this may be worth saving until you run out of other things to do in the entire game, especially since the only reward is essentially bragging rights and a wardrobe item.
 
-### The Hunt Begins
+### The Hunt Begins - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • **The Hunt Begins** • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • **The Hunt Begins** • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
 - **Type:** Collection, Streak, Words, Level
 - **Requirements:**
   - Collect: 1 Hunt Map Piece
@@ -465,7 +465,7 @@ Monsters and Resources listed here will not be linked with this quest outside th
 ### Joining the Hunt - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • **Joining the Hunt** • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+- **Hunt Trail Route:** (available from game open) • **Joining the Hunt** • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
 - **Type:** Wordcount/Level
 - **Requirements:** Min Level 3, 3000 Words
 - **Rewards:** 10 Hunter Tokens, unlock the Hunt
@@ -678,7 +678,7 @@ see **Luciola Lanterns**
 ### A Past Not Forgotten - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • **A Past Not Forgotten** • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • **A Past Not Forgotten** • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
 - **Type:** Collection
 - **Requirements:** Possess one Hunt Map Piece 3
 - **Rewards:** Wardrobe: Pauldrons https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;armor&#95;pauldrons.png

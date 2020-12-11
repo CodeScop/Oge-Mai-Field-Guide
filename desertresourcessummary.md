@@ -1,4 +1,4 @@
-LAST UPDATED 16 SEPT 2020
+LAST UPDATED 10 DEC 2020
 
 Summary of everything available in the DESERT. (Yes, now including Shrine of Ages!) Abbreviations:
 
@@ -449,43 +449,43 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 
 - **Source:** FOREST HUNT
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** FOREST HUNT
+- **Used for:** FOREST HUNT, later game
 
 ### Hunt Map Piece 2
 
 - **Source:** FOREST HUNT
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** FOREST HUNT
+- **Used for:** FOREST HUNT, later game
 
 ### Hunt Map Piece 3
 
 - **Source:** FOREST HUNT
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** FOREST HUNT
+- **Used for:** FOREST HUNT, later game
 
 ### Hunt Map Piece 4
 
 - **Source:** HuntS2 Quest: Guarding the Path (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS2 Quest: All Who Wander (1)
+- **Used for:** HuntS2 Quest: All Who Wander (1), later game
 
 ### Hunt Map Piece 5
 
 - **Source:** HuntS2 Quest: State of Rest (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS2 Quest: Oh, Endless Possibilities! (1)
+- **Used for:** HuntS2 Quest: Oh, Endless Possibilities! (1), later game
 
 ### Hunt Map Piece 6
 
 - **Source:** HuntS2 Quest: A Distant Figure (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS2 Quest: No Wrong Path (1)
+- **Used for:** HuntS2 Quest: No Wrong Path (1), later game
 
 ### Hunt Map Piece 7
 
 - **Source:** HuntS3 Quest: Moving Flora (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS3 Quest: To Grow & Change (1)
+- **Used for:** HuntS3 Quest: To Grow & Change (1), later game
 
 ### Hunter Tokens
 
@@ -502,22 +502,31 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - later Hunt
 
-- **Late Sept 2020 Sources Outside the Hunt:**
+- **Dec 2020 Sources Outside the Hunt:**
 
-  Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!) 
+  Note: I'm marking this as "December" instead of "Late November" because for the entire duration of NaNo, right through early December, Hunter Tokens were dropping from NaNo event monsters and Hunt monsters only.
 
-  - Global Battles: Vi (5 minutes for 1-4), Viyu (15 minutes for 3-14), Viyusa (25 minutes for 5-20)
-  - FOREST
-  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
+  For December, the trend is "Green and White".
+
+  - Global Battles: Vi (5 minutes for ), Xin (100 words for 1)
+  - LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Grey's Mawt (850 words for 8-9), Nitana (700 words for 7), Spirit Wignow (450 words for 4-5), Wignow (250 words for 2-3)
+  - MT Battles: Assassin (1400 words for 14), Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 8-9), Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
+  - FOREST EXPEDITION:
+    - BC Battles: Sacer (120 words for 1-2)
+    - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6), Spirit Ardia (80 words for 0-1)
+    - SC Battles: Reudod (600 words for 6)
+    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7)
+    - GL Battles: Night Dandeleon (330 words for 3-4)
+  - 3PC Battles: Global and Hunt only
   - ALIEN EXPEDITION:
-    - IC Battles: none
-    - SpaceS Battles: Captain Piak (1667 words for 16-17)
-    - MiningS Battles: Ityf (1250 words for 12-13), Pach (200 words for 2)
-    - RL Battles: Minica (900 words for 9), Tessen (500 words for 5), Zanutaki (500 words for 5)
-  - Gansu Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Sparfly (450 words for 4-5)
+    - IC Battles: Nedi (800 words for 8), Rosarin (500 words for 5)
+    - SpaceS Battles: Szalin (700 words for 7), Yalarr (500 words for 5)
+    - MiningS Battles: Halix (250 words for 2-3), Pach (200 words for 2), Skarn (1100 words for 11), Zals (900 words for 9)
+    - RL Battles: Dr. Enoe (1500 words for 15), Dr. Hogglevoss (1200 words for 12), Fonar (200 words for 2), Gwynos (450 words for 4-5)
+  - Gansu Battles: Sparfly (450 words for 4-5), Suulan (2000 words and 1 Steel Dagger for 20)
   - DESERT EXPEDITION:
-    - DigS Battles: Loi (150 words for 1-2), Okkorhi (1000 words for 10)
-    - Ruins Battles: Hunt only
+    - DigS Battles: Global and Hunt only
+    - Ruins Battles: Global and Hunt only
   - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)

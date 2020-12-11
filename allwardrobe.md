@@ -1,4 +1,4 @@
-LAST UPDATED 27 SEPT 2020
+LAST UPDATED 9 DEC 2020
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
 
@@ -68,8 +68,12 @@ Because some people might be on the hunt for all the wardrobe items available in
   - Hunt Simple Brooch - 80 Hunter Tokens
   - Hunt Tattoos - 80 Hunter Tokens
   - Short Fur Boots - 80 Hunter Tokens
+  - Bard's Hat - 100 Hunter Tokens
+  - Caretaker's Hair - 100 Hunter Tokens
+  - Curator's Timepiece - 100 Hunter Tokens
   - Hunt Boots - 100 Hunter Tokens
   - Hunt Bracers - 100 Hunter Tokens
+  - Shepherd's Robes - 100 Hunter Tokens
   - Small Chestplate - 100 Hunter Tokens
   - Knee High Laced Boots - 125 Hunter Tokens
   - Shield - 125 Hunter Tokens
@@ -185,6 +189,24 @@ Because some people might be on the hunt for all the wardrobe items available in
   - blue gems: https://4thewords.com/media/wardrobe/featured/female/wf&#95;652-hunt-golden-brooch-3833-59052.png
   - purple gems: https://4thewords.com/media/wardrobe/featured/female/wf&#95;652-hunt-golden-brooch-3834-97589.png
   - red gems: https://4thewords.com/media/wardrobe/featured/female/wf&#95;652-hunt-golden-brooch-3835-54849.png
+- **Still Missing Something** gives you **Hunt Map Hands**, with **two variants**:
+  - map in avatar's left hand: https://4thewords.com/media/wardrobe/featured/female/wf&#95;872-hunt-map-hands-6027-73892.png
+  - map in avatar's right hand: https://4thewords.com/media/wardrobe/featured/female/wf&#95;872-hunt-map-hands-6026-99594.png
+- **Sing Your Wander** returns the **Hunt Facepaint Around Eye**, which has 14 variants:
+  - black paint left eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;660-hunt-facepaint-around-eye-3954-81166.png
+  - blue paint left eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;660-hunt-facepaint-around-eye-3959-37839.png
+  - green paint left eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;660-hunt-facepaint-around-eye-3960-18146.png
+  - purple paint left eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;660-hunt-facepaint-around-eye-3961-94077.png
+  - red paint left eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;660-hunt-facepaint-around-eye-3962-97281.png
+  - white paint left eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;660-hunt-facepaint-around-eye-3963-88535.png
+  - gold paint left eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;660-hunt-facepaint-around-eye-3964-38194.png
+  - black paint right eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;660-hunt-facepaint-around-eye-4571-27854.png
+  - white paint right eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;660-hunt-facepaint-around-eye-4573-71963.png
+  - red paint right eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;660-hunt-facepaint-around-eye-4575-52593.png
+  - green paint right eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;660-hunt-facepaint-around-eye-4576-70570.png
+  - purple paint right eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;660-hunt-facepaint-around-eye-4577-38463.png
+  - blue paint right eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;660-hunt-facepaint-around-eye-4578-49095.png
+  - gold paint right eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;660-hunt-facepaint-around-eye-4579-93767.png
 
 ###Mama Tree
 
@@ -711,7 +733,7 @@ The **Wardrobe** section offers the following for sale:
   - blue violet: https://media.4thewords.com/s3/media/wardrobe/icons/icon&#95;hands&#95;ardi&#95;lamp&#95;blue.png
   - white-blue: https://media.4thewords.com/s3/media/wardrobe/icons/icon&#95;hands&#95;ardi&#95;lamp&#95;ghost.png
 
-### Purple Gate
+### Purple Gate - STILL IN PROGRESS
 
 Here we enter the Lands of the Wardrobe (no Lions or Witches spotted). Almost all quests, including Main Quests, return some kind of wardrobe reward. We'll start with the main quests:
 
@@ -738,7 +760,7 @@ And now, the sidequests:
 
 ### Cave
 
-
+still working on this
 
 And that's all the current wardrobe-returning options in the game, by my notes!
 

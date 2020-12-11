@@ -1,4 +1,4 @@
-LAST UPDATED 26 OCT 2020
+LAST UPDATED 9 DEC 2020
 
 I resisted making this at first, because surely the end of the Dust Region is functionally identical to the whole game, right?
 
@@ -6,7 +6,7 @@ But upon reflection, it might be helpful to have Dust-related info streamlined.
 
 As an unforeseen benefit, it's a way to fold in ALL the Dust info despite the fact that (spoiler!) DFO and Purple Gate are NOT the only Dust areas right now.
 
-In the interests of streamlining, I'm deleting all but name and location from non-Dust monsters. You can check out the All Bestiary at the end if you need more details.
+In the interests of streamlining, I'm deleting all but name and location from non-Dust-relevant monsters. You can check out the All Bestiary at the end if you need more details.
 
 Also, everything from the Hunt Season 4 counts as "Dust", because none of it is accessible without having unlocked Dark Forest Outpost.
 
@@ -349,6 +349,7 @@ HuntS4: Hunt for the Ancients Season 4
 - **Quests:** 
   - HuntS2: A Season to Explore (1), Strengthening Your Viewpoint 2/3 (1)
   - DFO: Familiar Family Friends (5)
+  - HuntS4: Sing Your Wander 4/4 (1)
 
 ### Dr. Enoe (Exp: RLab)
 
@@ -409,7 +410,9 @@ HuntS4: Hunt for the Ancients Season 4
 - **Time allowed:** 44 minutes
 - **XP:** 40
 - **Drops:** 1 Refined Dust, 1 Bones, 3-4 Dark Forest Leaves, 1 Essence
-- **Quests:** DFO: Main Quest 5/ A Fox Untrusted (10), Familiar Family Friends (5)
+- **Quests:** 
+  - DFO: Main Quest 5/ A Fox Untrusted (10), Familiar Family Friends (5)
+  - HuntS4: Sing Your Wander 4/4 (1)
 
 ### Dust Witch (Oge: [Gansu])
 
@@ -731,6 +734,15 @@ see **Skuppa's Giant Marionette**
   - HuntS4: Into the Woods (3)
   - DFO: Hounding the Dead 2/4 (10)
 
+### Morimet (Exp: Ruins)
+
+- **Unlocked by:** HuntS3 Quest: A Bubble Dream
+- **Requirements:** 2500 words
+- **Time allowed:** 600 minutes (10 hours)
+- **XP:** 250
+- **Drops:** 2-6 Raw Fabric, 27-88 Coins, 2-6 Raw Gold, 4-7 Fur, 1-3 Wooden Key, 1-2 Leafsung Key, 25 Hunter Tokens
+- **Quests:** HuntS4: A Battle of Celebration (3)
+
 ### Mowow (Exp: RLab*)
 
 ### Murciel (Exp: Shrine TFA)
@@ -1049,6 +1061,7 @@ see **Skuppa's Giant Marionette**
 - **Time allowed:** 45 minutes
 - **XP:** 45
 - **Drops:** 1 Wood, 2 Dark Forest Leaves, 2 Spirit Dust
+- **Quests:** HuntS4: Sing Your Wander 4/4 (1)
 
 ### Spodo (Exp: ShrineCO)
 
@@ -1059,6 +1072,14 @@ see **Skuppa's Giant Marionette**
 ### Suulan Hologram (Exp: RLab)
 
 ### Swamp Wignow (Exp: SwampL, SacredS)
+
+- **Requirements:** 500 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 50
+- **Drops:** 2-4 Leaves, 1-2 Swamp Moss, 0-1 Essence, 0-1 Rope
+- **Quests:** 
+  - SwampL: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5), No Safe Feet (10)
+  - HuntS4: Sing Your Wander 4/4 (1)
 
 ### Szalin (Exp: SpaceS)
 
@@ -1246,6 +1267,7 @@ see **Skuppa's Giant Marionette**
   - MT: Tinkering With Leafsung 1/5 (5), Watering Hole (44)
   - GL: Eat the Leaves? (10)
   - DFO: Familiar Family Friends (5)
+  - HuntS4: Sing Your Wander 4/4 (1)
 
 ### Wignow Hologram (Exp: RLab)
 

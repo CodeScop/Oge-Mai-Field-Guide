@@ -1,4 +1,4 @@
-LAST UPDATED 15 OCT 2020
+LAST UPDATED 10 DEC 2020
 
 If you haven't yet, check out my Hunt Intro a couple chapters ago to get a grounding in the Hunt for the Ancients. The "seasons" are important only in that they're released a month at a time, grouped by seasons; once released, the quests can be worked through at any pace you prefer.
 
@@ -15,43 +15,11 @@ Hunt for the Ancients Quests! Well, to start with, there's just one:
 - **Rewards:** 10 Hunter Tokens, unlock the Hunt
 - **Recommendations:** This is not optional if you want to participate in the Hunt. Might as well get it done immediately! See what other quests you can do while you're generating 3000 words.
 
-## Phase One: Unlocking the Hunt
+## Unlocking the Hunt
 
 These are the sidequests which appear immediately after you finish the Joining the Hunt sidequest.
 
 NOTE: LF is an abbreviation for Luciola Forest; HuntS1 is specifically the Hunt for the Ancients section. **Please note the Unlocked By bits - some quests aren't available until you complete others.**
-
-### A Clue to the Past
-
-- **Unlocked by:** Joining the Hunt
-- **Type:** Battle
-- **Requirements:** Defeat 3 Sassi
-- **Rewards:** 5 Hunter Tokens & 1 Hunt Map Piece
-- **Recommendations:** This is an absolute prerequisite for the Hunt Begins quest. That's almost beside the point for me, because I will be tracking down those Sassis like there's no tomorrow to raid the Token Store of all its goods, and this is a nice side benefit, but yeah: worth prioritizing a bit.
-
-### The Hunt Begins
-
-- **Unlocked by:** Joining the Hunt
-- **Type:** Collection, Streak, Words, Level
-- **Requirements:**
-  - Collect: 1 Hunt Map Piece
-  - Streak: 5-day Streak
-  - Words: 5000 words
-  - Level: Minimum Level 3
-- **Rewards:** Wardrobe: Scarred Eye https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;hunt&#95;scar&#95;eye&#95;left&#95;blue.png
-- **Recommendations:** It will take a little while to finish this, and you'll need to complete A Clue To The Past before it's possible to complete this (as it stands when this is being written), but it's worth picking up early so the harder parts have time to accumulate. Note that the Time of Reflection quest also requires a streak, so it doubles well with this.
-
-### Proving Your Worth 1/4
-
-- **Unlocked by:** Joining the Hunt
-- **Type:** Battle
-- **Requirements:** Defeat:
-  - 3 Reenu
-  - 2 Wignow
-  - 1 Pester
-  - 1 Mawt
-- **Rewards:** 10 Hunter Tokens
-- **Recommendations:** This is mostly good for bragging rights, although it's pretty satisfying to have done. It dovetails well with the Luciola Forest quest Forest Creatures, and you'll get useful inventory battling these monsters.
 
 ### Protecting the Past
 
@@ -101,9 +69,29 @@ NOTE: LF is an abbreviation for Luciola Forest; HuntS1 is specifically the Hunt 
 - **Rewards:** 10 Hunter Tokens
 - **Recommendations:** Go ahead and pick this up right away; wordcount quests are ALWAYS good to have going on in the background
 
+### A Battle of Wills
+
+- **Unlocked by:** The Hunt Begins
+- **Type:** Battle
+- **Requirements:** Defeat 1 Velts
+- **Rewards:** 10 Hunter Tokens
+- **Recommendations:** Velts is meant to be on the challenging side, and this launches her series of challenges roaming all around Oge-Mai. I highly recommend this series, because it's basically fighting Velts once in a bunch of places and getting a lot of bragging rights and some nice swag at the end.
+
 ## A Side Path: Proving Your XXX Questline
 
-The quest Proving Your Worth 1/4 is actually 1/6 as of this writing (although also as of this writing, the title hasn't been updated yet to reflect that fact). Here's where that one goes after the first one (listed above)
+The quest Proving Your Worth 1/4 is actually 1/6 as of this writing (although also as of this writing, the title hasn't been updated yet to reflect that fact). Here's where that one goes, starting with the first one that opens at the start
+
+### Proving Your Worth 1/4
+
+- **Unlocked by:** Joining the Hunt
+- **Type:** Battle
+- **Requirements:** Defeat:
+  - 3 Reenu
+  - 2 Wignow
+  - 1 Pester
+  - 1 Mawt
+- **Rewards:** 10 Hunter Tokens
+- **Recommendations:** This is mostly good for bragging rights, although it's pretty satisfying to have done. It dovetails well with the Luciola Forest quest Forest Creatures, and you'll get useful inventory battling these monsters.
 
 ### Proving Your Curiosity 2/4
 
@@ -155,17 +143,29 @@ THIS INCLUDES INFO AND SPOILERS FOR THE FOREST EXPEDITION
 - **Rewards:** Wardrobe: Small Axe https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;678-small-axe-4213-56837.png
 - **Recommendations:** There are bunches of sidequests that require fighting Tylu, so go comb the Mama Tree sidequests to be sure there aren't any you want to double up with (especially A Family Tree, with its almost-equal requirements)
 
-## Deeper Into The Hunt
+## The Way Deeper Into The Hunt
 
 There is a running trend through this Season of Hope: we battle the new library assistant monster for one quest, and the Hunt Map Piece we get from that contributes to a deeper Hunt storyline. **The library assistant monster quests** start with A Clue To The Past and **can** be completed independently; **the deeper Hunt progress quests**, starting with The Hunt Begins, **depend on the library assistant monster quests** to reach completion. (And thrown in there is a Velts stealth quest chain.)
 
-### A Battle of Wills
+### A Clue to the Past
 
-- **Unlocked by:** The Hunt Begins
+- **Unlocked by:** Joining the Hunt
 - **Type:** Battle
-- **Requirements:** Defeat 1 Velts
-- **Rewards:** 10 Hunter Tokens
-- **Recommendations:** Velts is meant to be on the challenging side, and this launches her series of challenges roaming all around Oge-Mai. I highly recommend this series, because it's basically fighting Velts once in a bunch of places and getting a lot of bragging rights and some nice swag at the end.
+- **Requirements:** Defeat 3 Sassi
+- **Rewards:** 5 Hunter Tokens & 1 Hunt Map Piece
+- **Recommendations:** This is an absolute prerequisite for the Hunt Begins quest. That's almost beside the point for me, because I will be tracking down those Sassis like there's no tomorrow to raid the Token Store of all its goods, and this is a nice side benefit, but yeah: worth prioritizing a bit.
+
+### The Hunt Begins
+
+- **Unlocked by:** Joining the Hunt
+- **Type:** Collection, Streak, Words, Level
+- **Requirements:**
+  - Collect: 1 Hunt Map Piece
+  - Streak: 5-day Streak
+  - Words: 5000 words
+  - Level: Minimum Level 3
+- **Rewards:** Wardrobe: Scarred Eye https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;hunt&#95;scar&#95;eye&#95;left&#95;blue.png
+- **Recommendations:** It will take a little while to finish this, and you'll need to complete A Clue To The Past before it's possible to complete this (as it stands when this is being written), but it's worth picking up early so the harder parts have time to accumulate. Note that the Time of Reflection quest also requires a streak, so it doubles well with this.
 
 ### Elder Library Assistants
 
@@ -283,21 +283,21 @@ Note that you must complete the **Joining the Hunt** quest for these to appear; 
 
 ### Hunt Map Piece
 
-- **Source:** Hunt for the Ancients Quest: A Clue to the Past (1)
+- **Source:** HuntS1 Quest: A Clue to the Past (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** Hunt for the Ancients Quest: The Hunt Begins (1)
+- **Used for:** HuntS1 Quest: The Hunt Begins (1), later game
 
 ### Hunt Map Piece 2
 
-- **Source:** Hunt for the Ancients Quest: Elder Library Assistants (1) (Cannot be completed until Luciola Forest and Mama Tree are completed and Forest Expedition is unlocked)
+- **Source:** HuntS1 Quest: Elder Library Assistants (1) (Cannot be completed until Luciola Forest and Mama Tree are completed and Forest Expedition is unlocked)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** Hunt for the Ancients Quest: Deeper Forest Hunting (1)
+- **Used for:** HuntS1 Quest: Deeper Forest Hunting (1), later game
 
 ### Hunt Map Piece 3
 
 - **Source:** HuntS1 Quest: Elder Library's Security (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS1 Quest: A Past Not Forgotten (1)
+- **Used for:** HuntS1 Quest: A Past Not Forgotten (1), later game
 
 ### Hunter Tokens
 
@@ -311,18 +311,31 @@ Note that you must complete the **Joining the Hunt** quest for these to appear; 
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - later Hunt
 
-- **Late Sept 2020 Sources Outside the Hunt:**
+- **Dec 2020 Sources Outside the Hunt:**
 
-  Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!) 
+  Note: I'm marking this as "December" instead of "Late November" because for the entire duration of NaNo, right through early December, Hunter Tokens were dropping from NaNo event monsters and Hunt monsters only.
 
-  - Global Battles: Vi (5 minutes for 1-4), Viyu (15 minutes for 3-14), Viyusa (25 minutes for 5-20)
-  - LF Battles: Spirit Wignow (450 words for 4-5)
-  - MT Battles: Ardis (70 words for 0-1), Assassin (1400 words for 14), Villager (1300 words for 13)
+  For December, the trend is "Green and White".
+
+  - Global Battles: Vi (5 minutes for ), Xin (100 words for 1)
+  - LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Grey's Mawt (850 words for 8-9), Nitana (700 words for 7), Spirit Wignow (450 words for 4-5), Wignow (250 words for 2-3)
+  - MT Battles: Assassin (1400 words for 14), Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 8-9), Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (120 words for 1-2), Xuso (450 words for 4-5)
-    - FB Battles: Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
-    - SC, TT, GL Battles: Hunt only
-  - later game
+    - BC Battles: Sacer (120 words for 1-2)
+    - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6), Spirit Ardia (80 words for 0-1)
+    - SC Battles: Reudod (600 words for 6)
+    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7)
+    - GL Battles: Night Dandeleon (330 words for 3-4)
+  - 3PC Battles: Global and Hunt only
+  - ALIEN EXPEDITION:
+    - IC Battles: Nedi (800 words for 8), Rosarin (500 words for 5)
+    - SpaceS Battles: Szalin (700 words for 7), Yalarr (500 words for 5)
+    - MiningS Battles: Halix (250 words for 2-3), Pach (200 words for 2), Skarn (1100 words for 11), Zals (900 words for 9)
+    - RL Battles: Dr. Enoe (1500 words for 15), Dr. Hogglevoss (1200 words for 12), Fonar (200 words for 2), Gwynos (450 words for 4-5)
+  - Gansu Battles: Sparfly (450 words for 4-5), Suulan (2000 words and 1 Steel Dagger for 20)
+  - DESERT EXPEDITION:
+    - DigS Battles: Global and Hunt only
+    - Ruins Battles: Global and Hunt only
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -349,6 +362,7 @@ NOTE: **ALL HUNT QUESTS are unlocked by the quest Joining the Hunt** (write 3K w
 - HuntS1 Time of Reflection - maintain 4-day Streak, get 10 Hunter Tokens
 - HuntS1 The Hunt Begins - finish A Clue to the Past, get 5-day streak, write 5K words for Wardrobe Scarred Eye
   - HuntS1 A Battle of Wills - defeat 1 Velts for 10 Hunter Tokens
+    - further Velts quests that I track in each of the different seasons because that's when they were released; you'll need to be pretty darn deep into Oge-Mai to finish all of them, but not deep into the Hunt
   - HuntS1 Deeper Forest Hunting - finish Elder Library Assistants, get 7-day streak, write 10K words for Wardrobe Full Body Scars
     - HuntS1 A Past Not Forgotten - finish Elder Library's Security, get Wardrobe Pauldrons
       - HuntS1 Curator's Family - defeat 1 each Burocat, Sassi, Clawadin, and Alnu, get 25 Hunter Tokens

@@ -1,4 +1,4 @@
-LAST UPDATED 15 OCT 2020
+LAST UPDATED 10 DEC 2020
 
 We left off Season 1 (and you **must** complete The Curator of Elder Library to unlock Season 2, and the Season 1 quest list will help with that) back in the Forest. Now, in the Desert, we're on to Season 2: The Season of Wandering, watched over by the Shepherd.
 
@@ -80,7 +80,7 @@ Unlocking various stages of the Hunt is still progressing with pairs of quests a
 
 ## Season 2 Quests - Strengthening Sideline
 
-The first Season of the hunt had the Proving Your... questline; this seems to be the equivalent for S2. Waiting to see if this ends with an awesome wardrobe reward, too!
+The first Season of the hunt had the Proving Your... questline; this seems to be the equivalent for S2. This one is 5 quests long, despite what the various numbers in between say.
 
 ### Strengthening Your Loyalty
 
@@ -208,7 +208,7 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 - **Time allowed:** 30 minutes
 - **XP:** 35
 - **Drops:** 3-4 Hunter Tokens, 2-3 Raw Fabric, 1 Rope, 0-1 Red Dye
-- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
+- **Quests:** HuntS2: Valley Of The Sheep (1)
 
 ### Czanus
 
@@ -228,7 +228,7 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 - **Time allowed:** 15 minutes
 - **XP:** 15
 - **Drops:** 1-2 Hunter Tokens, 1 Raw Fabric
-- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
+- **Quests:** HuntS2: Valley Of The Sheep (1)
 
 ### Lubu
 
@@ -258,7 +258,7 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 - **Time allowed:** 25 minutes
 - **XP:** 25
 - **Drops:** 2-3 Hunter Tokens, 1-2 Raw Fabric, 0-1 Raw Gold
-- **Quests:** (Missing quest, formerly Global): Valley Of The Sheep (1)
+- **Quests:** HuntS2: Valley Of The Sheep (1)
 
 ### Shepherd
 
@@ -285,19 +285,19 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 
 - **Source:** HuntS2 Quest: Guarding the Path (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS2 Quest: All Who Wander (1)
+- **Used for:** HuntS2 Quest: All Who Wander (1), later game
 
 ### Hunt Map Piece 5
 
 - **Source:** HuntS2 Quest: State of Rest (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS2 Quest: Oh, Endless Possibilities! (1)
+- **Used for:** HuntS2 Quest: Oh, Endless Possibilities! (1), later game
 
 ### Hunt Map Piece 6
 
 - **Source:** HuntS2 Quest: A Distant Figure (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS2 Quest: No Wrong Path (1)
+- **Used for:** HuntS2 Quest: No Wrong Path (1), later game
 
 ### Hunter Tokens
 
@@ -317,28 +317,31 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - later Hunt
 
-- **Late Sept 2020 Sources Outside the Hunt:**
+- **Dec 2020 Sources Outside the Hunt:**
 
-  Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!) 
+  Note: I'm marking this as "December" instead of "Late November" because for the entire duration of NaNo, right through early December, Hunter Tokens were dropping from NaNo event monsters and Hunt monsters only.
 
-  - Global Battles: Vi (5 minutes for 1-4), Viyu (15 minutes for 3-14), Viyusa (25 minutes for 5-20)
-  - LF Battles: Spirit Wignow (450 words for 4-5)
-  - MT Battles: Ardis (70 words for 0-1), Assassin (1400 words for 14), Villager (1300 words for 13)
+  For December, the trend is "Green and White".
+
+  - Global Battles: Vi (5 minutes for ), Xin (100 words for 1)
+  - LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Grey's Mawt (850 words for 8-9), Nitana (700 words for 7), Spirit Wignow (450 words for 4-5), Wignow (250 words for 2-3)
+  - MT Battles: Assassin (1400 words for 14), Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 8-9), Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (120 words for 1-2), Xuso (450 words for 4-5)
-    - FB Battles: Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
-    - SC, TT, GL Battles: Hunt only
-  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
+    - BC Battles: Sacer (120 words for 1-2)
+    - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6), Spirit Ardia (80 words for 0-1)
+    - SC Battles: Reudod (600 words for 6)
+    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7)
+    - GL Battles: Night Dandeleon (330 words for 3-4)
+  - 3PC Battles: Global and Hunt only
   - ALIEN EXPEDITION:
-    - IC Battles: none
-    - SpaceS Battles: Captain Piak (1667 words for 16-17)
-    - MiningS Battles: Ityf (1250 words for 12-13), Pach (200 words for 2)
-    - RL Battles: Minica (900 words for 9), Tessen (500 words for 5), Zanutaki (500 words for 5)
-  - Gansu Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Sparfly (450 words for 4-5)
+    - IC Battles: Nedi (800 words for 8), Rosarin (500 words for 5)
+    - SpaceS Battles: Szalin (700 words for 7), Yalarr (500 words for 5)
+    - MiningS Battles: Halix (250 words for 2-3), Pach (200 words for 2), Skarn (1100 words for 11), Zals (900 words for 9)
+    - RL Battles: Dr. Enoe (1500 words for 15), Dr. Hogglevoss (1200 words for 12), Fonar (200 words for 2), Gwynos (450 words for 4-5)
+  - Gansu Battles: Sparfly (450 words for 4-5), Suulan (2000 words and 1 Steel Dagger for 20)
   - DESERT EXPEDITION:
-    - DigS Battles: Loi (150 words for 1-2), Okkorhi (1000 words for 10)
-    - Ruins Battles: Hunt only
-  - later game
+    - DigS Battles: Global and Hunt only
+    - Ruins Battles: Global and Hunt only
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -349,6 +352,7 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 Season 2 is unlocked by completing The Curator of Elder Library quest, and you can see that questline in Season 1.
 
 - HuntS2 Battle of Merit - **(Note: This has as prerequisite the HuntS1 quest A Battle of Wills.)** Defeat 1 Desert version of Velts, get 25 Hunter Tokens
+  - more Velts quests I track in later Seasons for reasons detailed in S1 info
 - HuntS2 A Season to Explore - defeat every non-global monster in 3PC, get 100 Hunter Tokens
 - HuntS2 Wandering We Go - maintain 7-day Streak, get 10 Hunter Tokens
 - HuntS2 Seeing It Through - Defeat 10 Frizi, get 5 Hunter Tokens

@@ -1,6 +1,6 @@
 #A-F
 
-LAST UPDATED 26 OCT 2020
+LAST UPDATED 9 DEC 2020
 
 ##Abbreviations Used:
 
@@ -110,6 +110,7 @@ ALL GAME
     - Gansu Stone Chest: 100-170
     - Gansu Quest: Main Quest 2/Lorsa Nest Network (100), Main Quest 5/White Stars' Light
     - Ruins Battles: Yantao (650 words for 1-4)
+    - (Post HuntS3) Ruins Battles: Morimet (2500 words for 27-88)
     - Shrine TFA Battles: Fools' Lorsa (150 words for 1-4), Witch's Memoirs (500 words for 0-8), Fools' Lorsa Halloween (100 words for 0-4), Lupo (450 words for 0-2)
   - FOREST
     - LF Wooden Chest: 9-18 per chest/key
@@ -719,6 +720,7 @@ ALL GAME
     - RLab Battle: Zanutaki (500 words for 1-2)
     - Dig Battle: Kapir (800 words for 1), Zera (550 words for 1)
     - Ruins Battle: Griffe (450 words for 1), Yantao (650 words for 1)
+    - Post HuntS3 Ruins Battle: Morimet (2500 words for 4-7)
     - ShrinePoly Battles: Poly Mawt (900 words for 3-5)
     - ShrineGiant Battles: Caravan (5000 words for 6-11)
     - ShrineCar Battles: Mahor (1667 words for 1-3)
@@ -743,7 +745,7 @@ ALL GAME
 
 # G-O
 
-LAST UPDATED 26 OCT 2020
+LAST UPDATED 9 DEC 2020
 
 ### Glass
 
@@ -950,7 +952,9 @@ HUNT S1
 
 - **Source:** HuntS1 Quest: A Clue to the Past (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS1 Quest: The Hunt Begins (1)
+- **Used for:** 
+  - HuntS1 Quest: The Hunt Begins (1, retained)
+  - HuntS4 Quest: Still Something Missing (1, paid out)
 
 ### Hunt Map Piece 2
 
@@ -958,7 +962,9 @@ HUNT S1
 
 - **Source:** HuntS1 Quest: Elder Library Assistants (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS1 Quest: Deeper Forest Hunting (1)
+- **Used for:** 
+  - HuntS1 Quest: Deeper Forest Hunting (1, retained)
+  - HuntS4 Quest: Still Something Missing (1, paid out)
 
 ### Hunt Map Piece 3
 
@@ -966,7 +972,9 @@ HUNT S1
 
 - **Source:** HuntS1 Quest: Elder Library's Security (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS1 Quest: A Past Not Forgotten (1)
+- **Used for:** 
+  - HuntS1 Quest: A Past Not Forgotten (1, retained)
+  - HuntS4 Quest: Still Something Missing (1, paid out)
 
 ### Hunt Map Piece 4
 
@@ -974,7 +982,9 @@ HUNT S2
 
 - **Source:** HuntS2 Quest: Guarding the Path (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS2 Quest: All Who Wander (1)
+- **Used for:** 
+  - HuntS2 Quest: All Who Wander (1, retained)
+  - HuntS4 Quest: Still Something Missing (1, paid out)
 
 ### Hunt Map Piece 5
 
@@ -982,7 +992,9 @@ HUNT S2
 
 - **Source:** HuntS2 Quest: State of Rest (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS2 Quest: Oh, Endless Possibilities! (1)
+- **Used for:** 
+  - HuntS2 Quest: Oh, Endless Possibilities! (1, retained)
+  - HuntS4 Quest: Still Something Missing (1, paid out)
 
 ### Hunt Map Piece 6
 
@@ -990,7 +1002,9 @@ HUNT S2
 
 - **Source:** HuntS2 Quest: A Distant Figure (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS2 Quest: No Wrong Path (1)
+- **Used for:** 
+  - HuntS2 Quest: No Wrong Path (1, retained)
+  - HuntS4 Quest: Still Something Missing (1, paid out)
 
 ### Hunt Map Piece 7
 
@@ -998,7 +1012,9 @@ HUNT S3
 
 - **Source:** HuntS3 Quest: Moving Flora (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS3 Quest: To Grow & Change (1)
+- **Used for:** 
+  - HuntS3 Quest: To Grow & Change (1, retained)
+  - HuntS4 Quest: Still Something Missing (1, paid out)
 
 ### Hunt Map Piece 8
 
@@ -1006,7 +1022,9 @@ HUNT S3
 
 - **Source:** HuntS3 Quest: Flying Past Sparks (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS3 Quest: Bettering Ourselves (1)
+- **Used for:** 
+  - HuntS3 Quest: Bettering Ourselves (1, retained)
+  - HuntS4 Quest: Still Something Missing (1, paid out)
 
 ### Hunt Map Piece 9
 
@@ -1014,7 +1032,9 @@ HUNT S3
 
 - **Source:** HuntS3 Quest: s (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS3 Quest: Insight Grows (1)
+- **Used for:** 
+  - HuntS3 Quest: Insight Grows (1, retained)
+  - HuntS4 Quest: Still Something Missing (1, paid out)
 
 ### Hunt Map Piece 10
 
@@ -1022,7 +1042,7 @@ HUNT S4
 
 - **Source:** HuntS4 Quest: Something Extraordinary (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS4 Quest:  Dirt to Dust (1)
+- **Used for:** HuntS4 Quests:  Dirt to Dust (1, retained), Still Something Missing (1, paid out)
 
 ### Hunt Map Piece 11
 
@@ -1030,7 +1050,7 @@ HUNT S4
 
 - **Source:** HuntS4 Quest: Ideas Brought to Life (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS4 Quest: Celebrate Joy (1)
+- **Used for:** HuntS4 Quests: Celebrate Joy (1, retained), Still Something Missing (1, paid out)
 
 ### Hunter Tokens
 
@@ -1042,51 +1062,55 @@ ALL GAME
 
   - LF Battles: Sassi (600 words for 6)
   - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10), Vanstra (3 minutes for 1-4)
-  - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
-  - Post-HuntS3 GL Battle: Mirdor (1500 words for 15)
+  - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10), Mirdor (1500 words for 15)
   - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12), Vanspi (10 minutes for 2-8)
   - Gansu Battles: Pipit (900 words for 9)
   - Dig Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4), Lubu (450 words for 4-5), Shepherd (1000 words for 10)
-  - Ruins Battles: Lubu (450 words for 4-5)
+  - Ruins Battles: Lubu (450 words for 4-5), Morimet (2500 words for 25)
   - Riza Battles: Velts: Dust (2000 words for 20)
   - Post-HuntS3 Riza Battles: Weekiwa (900 words for 9)
   - Balance Battles: Velts: Water (1600 words for 16)
   - DFO Battles: Caretaker (1200 words for 12)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
-  - HuntS2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25), Valley of the Sheep (25)
-  - HuntS3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25)
-  - HuntS4 Quests: Something Extraordinary (10), Cheer Your Dedication (15), Sing Your Enthusiasm (20), To Celebrate and Share (20), Into the Woods (50), On the Wrong Path (25), Jubilant and Strong (50), Sing Your Bravery 2/2 (15), Ideas Brought to Life (10)
+  - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
+  - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25)
+  - HuntS4 Quests: Something Extraordinary (10), Cheer Your Dedication (15), Sing Your Enthusiasm (20), To Celebrate and Share (20), Into the Woods (50), On the Wrong Path (25), Jubilant and Strong (50), Sing Your Bravery 2/2 (15), Ideas Brought to Life (10), Sing Your Commitment 3/4 (25), Stories to Tell (25), A Battle of Celebration (25)
 
-- **Late Sept 2020 Sources Outside the Hunt:**
+- **Dec 2020 Sources Outside the Hunt:**
 
-  Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!) 
+  Note: I'm marking this as "December" instead of "Late November" because for the entire duration of NaNo, right through early December, Hunter Tokens were dropping from NaNo event monsters and Hunt monsters only.
 
-  - Global Battles: Vi (5 minutes for 1-4), Viyu (15 minutes for 3-14), Viyusa (25 minutes for 5-20)
-  - LF Battles: Spirit Wignow (450 words for 4-5)
-  - MT Battles: Ardis (70 words for 0-1), Assassin (1400 words for 14), Villager (1300 words for 13)
+  For December, the trend is "Green and White".
+
+  - Global Battles: Vi (5 minutes for ), Xin (100 words for 1)
+  - LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Grey's Mawt (850 words for 8-9), Nitana (700 words for 7), Spirit Wignow (450 words for 4-5), Wignow (250 words for 2-3)
+  - MT Battles: Assassin (1400 words for 14), Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 8-9), Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (120 words for 1-2), Xuso (450 words for 4-5)
-    - FB Battles: Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
-    - SC, TT, GL Battles: Hunt only
-  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
+    - BC Battles: Sacer (120 words for 1-2)
+    - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6), Spirit Ardia (80 words for 0-1)
+    - SC Battles: Reudod (600 words for 6)
+    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7)
+    - GL Battles: Night Dandeleon (330 words for 3-4)
+  - 3PC Battles: Global and Hunt only
   - ALIEN EXPEDITION:
-    - IC Battles: none
-    - SpaceS Battles: Captain Piak (1667 words for 16-17)
-    - MiningS Battles: Ityf (1250 words for 12-13), Pach (200 words for 2)
-    - RL Battles: Minica (900 words for 9), Tessen (500 words for 5), Zanutaki (500 words for 5)
-  - Gansu Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Sparfly (450 words for 4-5)
+    - IC Battles: Nedi (800 words for 8), Rosarin (500 words for 5)
+    - SpaceS Battles: Szalin (700 words for 7), Yalarr (500 words for 5)
+    - MiningS Battles: Halix (250 words for 2-3), Pach (200 words for 2), Skarn (1100 words for 11), Zals (900 words for 9)
+    - RL Battles: Dr. Enoe (1500 words for 15), Dr. Hogglevoss (1200 words for 12), Fonar (200 words for 2), Gwynos (450 words for 4-5)
+  - Gansu Battles: Sparfly (450 words for 4-5), Suulan (2000 words and 1 Steel Dagger for 20)
   - DESERT EXPEDITION:
-    - DigS Battles: Loi (150 words for 1-2), Okkorhi (1000 words for 10)
-    - Ruins Battles: Hunt only
-  - Riza Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Sparfly (450 words for 4-5), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
+    - DigS Battles: Global and Hunt only
+    - Ruins Battles: Global and Hunt only
+  - Riza Battles: Patliadu (750 words and 1 Harpoon for 7-8), Sparfly (450 words for 4-5), Wyvern (1300 words for 13)
   - RAINA EXPEDITION:
-    - SurfaceC Battles: Begala (300 words for 3), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
-    - SwampL Battle: Heliodae (120 words for 1-2)
-    - SacredS Battle: Pedja (1000 words for 10)
-    - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Kivi (100 words for 1), Wisthu (800 words for 8)
-  - Balance Battles: Furoxi (400 words and 1 Steel Fishing Rod for 4), River Goddess (5000 words for 50), Spirit Castu (550 words for 5-6)
-  - DFO Battles: Ascre (150 words for 1-2), Belasi (200 words for 2), Chu (100 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 20), Dust Wignow (444 words for 4-5), Pakkan (300 words for 3), Spirit Ardia (80 words for 0-1), Zanthei (400 words for 4)
-  - PG Battles: Ardid (90 words for 1), Cursed Hand (400 words for 4-5), Xaey (120 words for 1-2), Poe (200 words for 2), Vibidi (300 words for 3), Eninir (500 words for 5),  Leopar (800 words for 8), Oncara (900 words for 9), Zhout (900 words for 9), Dusiri (1000 words for 10), Dark Assassin (1200 words for 12), Infected Golem (1500 words for 15)
+    - SurfaceC Battles: Auwi (500 words for 5), Wyvern (1300 words for 13)
+    - SwampL Battle: Copei (800 words for 8), Galai (1500 words for 15), Larida (1000 words for 10), Swamp Wignow (500 words for 5)
+    - SacredS Battle: Ognimaf (300 words for 3), Swamp Wignow (500 words for 5)
+    - Hideout Battles: Necog (450 words for 4-5)
+  - Balance Battles: Castu (450 words and 1 Water Mask for 4-5), Isartu (720 words for 7-8), Sliv (550 words and 1 Water Mask for 5-6), Spirit Castu (550 words for 5-6), Vezi (1300 words, 1 Water Mask, and 1 Underwater Torch for 13)
+  - DFO Battles: Burhar (1500 words for 15), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment, and 1 Blue Essence Ink for 50), Papple (1000 words for 10), Spirit Ardia (80 words for 0-1)
+  - PG Battles: Global and Hunt only
+  - CAVE Battles: Chio (100 words for 1), Gliva (300 words for 3), Gormist (1667 words for 17), Letos (700 words for 7), Olanat (1100 words for 11), Reflection (4444 words for 45), Spina (450 words for 4-5), Tacin (150 words for 1-2), Ulos (650 words for 6-7), Vafire (500 words for 5)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -1212,7 +1236,9 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
 
 - **Best sources:** 
   - Global Quests: Bi-Weekly Monster Hunter (1)
-  - DESERT: 3PC Quests: Fan the Flames (3), We Lucky Few (3)
+  - DESERT: 
+    - 3PC Quests: Fan the Flames (3), We Lucky Few (3)
+    - Post-HuntS3 Ruins: Morimet (2500 words for 1-2)
 - **Other sources:** 
   - FOREST: MT Quest: Thinking Like Ink 4/5 (3), Dark Tree Materials 2/5 (5)
   - DESERT: Gansu Quest: Dark Watering Materials 4/5 (1)
@@ -1404,7 +1430,7 @@ FOREST, DESERT
 
 # P-R
 
-LAST UPDATED 26 OCT 2020
+LAST UPDATED 9 DEC 2020
 
 ### Pickaxe
 
@@ -1538,6 +1564,7 @@ ALL GAME
     - SpaceS Battles: Kovar (350 words for 1-2), Yalarr (500 words for 2-3), Noit (800 words for 2-5)
     - RLab Battles: Sabu (500 words for 1-3), Tessen (500 words for 2), Xomri (300 words for 1), Gwynos (450 words for 1-2), Minica (900 words for 2-4), Sulanica (1000 words for 2-3), Dr. Enoe (1500 words for 2-4)
     - DigS Battles: Okkorhi (1000 words for 1-3)
+    - HuntS4/Ruins Battles: Morimet (2500 words for 2-6)
     - HuntS2/Dig Battles: Imali (150 words for 1), Shashi (250 words for 1-2), Attleas (350 words for 2-3), Shepherd (1000 words for 2-6)
     - HuntS2/Dig, Ruins Battles: Lubu (450 words for 1-2)
     - ShrineMar Battles: Osemar (1000 words for 1-4), Balatrix (630 words for 1-2), Balatros (700 words for 1-2), Balatras (785 words for 1-2)
@@ -1585,6 +1612,7 @@ DESERT, some FOREST, some WATER
     - RLab Battle: Sulanica (1000 words for 1)
     - 3PC Golden Chest: 3-6
     - Dig Battles: Shashi (250 words for 0-1), Okkorhi (1000 words for 1-4)
+    - Post-HuntS3 Ruins Quest: Morimet (2500 words for 2-6)
     - Ruins Quest: Searching South (5), Gordi & Griffe Gather (3)
     - ShrineGiant Battles: Takra (500 words for 0-3), Untu Golem (500 words for 0-2)
 - **Buy:** DESERT: 75 Coins at 3PC Blacksmith/Blacksmith Barliar
@@ -2662,7 +2690,7 @@ WATER
 
 # T-Z
 
-LAST UPDATED 15 OCT 2020
+LAST UPDATED 9 DEC 2020
 
 ### Tambo Mane
 
@@ -2948,6 +2976,7 @@ FOREST, DESERT, some WATER
   - Global Quests: Daily Monster Hunter (1)
   - FOREST
     - MT Battles: Burocat (1000 words for 0-1), Assassin (1400 words for 0-1, almost guaranteed >15 Luck)
+    - Post-HuntS3 Ruins Battle: Morimet (2500 words for 1-3)
     - LF Quests: Save the Children, Make It Work
 
 - **Other sources:** 

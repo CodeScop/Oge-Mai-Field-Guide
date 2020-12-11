@@ -1,4 +1,4 @@
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 10 DEC 2020
 
 I could make this list Mama Tree-only, but why bother when Luciola Forest is a quick hop away? LF is for Luciola Forest, MT for Mama Tree, HuntS1 is for Luciola Forest Hunt for the Ancients, and hopefully all else will be self-explanatory.
 
@@ -163,23 +163,9 @@ These are special resources. They can be bought with actual real-world currency 
 
 Appears in the Forest, but in a context that doesn't really apply until the Water Region is reached; I'm going to consider this spoiler territory for now.
 
-### Hunt Map Piece
+### Hunt Map Piece XXX
 
-- **Source:** HuntS1 Quest: A Clue to the Past (1)
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS1 Quest: The Hunt Begins (1)
-
-### Hunt Map Piece 2
-
-- **Source:** HuntS1 Quest: Elder Library Assistants (1)(Cannot be completed until Luciola Forest and Mama Tree are completed and Forest Expedition is unlocked)
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS1 Quest: Deeper Forest Hunting (1)
-
-### Hunt Map Piece 3
-
-- **Source:** HuntS1 Quest: Elder Library's Security (1)
-- **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS1 Quest: A Past Not Forgotten (1)
+See Hunt or regional Resource sections for details
 
 ### Hunter Tokens
 
@@ -193,9 +179,9 @@ Appears in the Forest, but in a context that doesn't really apply until the Wate
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - later Hunt
 
-- **Monthly Sources Outside the Hunt:**
+- **Sources Outside the Hunt:**
 
-  I'll detail these changes in the Hunt sections and the regional summary sections.
+  - See Hunt or regional Resource sections for details
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

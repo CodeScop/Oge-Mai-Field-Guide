@@ -1,6 +1,6 @@
-LAST UPDATED 26 OCT 2020
+LAST UPDATED 9 DEC 2020
 
-And now, all the quests for the Dust Region. As with the Desert and Water, I'm omitting any Main Quests outside this Region, and for non-Dust Quests I'm listing only the name and location. Let's have a quick recap of how this works:
+And now, all the quests for the Water Region. As with the Desert, I'm omitting any Main Quests outside this Region, and for non-Water Quests I'm listing only the name and location. Let's have a quick recap of how this works:
 
 **The Main Quest Highway** is the main questline of the game, the backbone which unlocks everything else. This line, and only this line, will be defined solely by where it is in the sequence; the Route will tell you where it is in that sequence (LF MQ 3 for the third Main Quest in the Luciola Forest sequence, etc)
 
@@ -74,312 +74,130 @@ NOTE: All Hunt quests are picked up in Luciola Forest, regardless of what Region
 - SacredS: Raina Sacred Site
 - Hideout: Rebel Raina Hideout
 
-**Oge-Mai Dust Region**
-
-- DFO: Dark Forest Outpost
-- PG: Purple Gate
-- CAVE: Cave
-
 #Main Quests, in Order of Unlocking
 
-###(Luciola Forest, Mama Tree, Three Points Crossing,Gansu Watering Hole, Riza Rivertown, and Floating City of Balance quests)
+###(Luciola Forest, Mama Tree, Three Points Crossing and Gansu Watering Hole quests)
 
-### DFO Main Quest 1/Ousting the Outpost
+### Riza Main Quest 1: Jaihri Dam
 
-NOTE: To trigger the DFO Main Quests, you will have to pick up the first one as if it were a side quest. After that, they'll behave more normally.
-
-- **Location:** Dark Forest Outpost
-- **Main Quest Highway:** DFO MQ1
+- **Location:** Riza Rivertown
+- **Main Quest Highway:** Riza MQ1
 - **Type:** Battle
-- **Requirements:** Defeat 5 Zanthei, 5 Ascre, and 5 Belasi
-- **Rewards:** 1 Bone Key
-- **Recommendations:** Make sure and pick up any dovetailing sidequests you can.
+- **Requirements:** Defeat 6 Jaihri
+- **Rewards:** 100 Coins
+- **Recommendations:** Make sure to pick up the River Dams sidequest at the same time to double up the Jaihri quest credit.
 
-### DFO Main Quest 2/Rats, Wrong Way!
+### Riza Main Quest 2: Attack of Opportunity
 
-- **Location:** Dark Forest Outpost
-- **Main Quest Highway:** DFO MQ2
-- **Type:** Battle, Collection
-- **Requirements:** Collect 3 Pickaxes, defeat 10 Takori, 11 Pakkan, and 12 Chu
-- **Rewards:** 1 Bones Chest
-- **Recommendations:** Remember that Pickaxes are in the Desert Expedition, if you didn't pick them up there the first time. And if you really hate travel, might be a good time to pick up 10 Kapir Tufts against the future.
+- **Location:** Riza Rivertown
+- **Main Quest Highway:** Riza MQ2
+- **Type:** Battle
+- **Requirements:** Defeat 2 Yasri, 1 Bruja, and 2 Kiru
+- **Rewards:** 1 Stone Chest
+- **Recommendations:** I honestly might go back to 3PC to fight these guys and stock up on the Quest 3 materials while at it. You'll need at least 10 Steel later, at least 3 Leaf Boots, a bunch of Rope, and weird things like Reenu Wings and Spider Poison. But by now, you've fought enough of these guys to know whether you want to stick around and how you want to approach them.
 
-### DFO Main Quest 3/The Right Way?
+### Riza Main Quest 3: Remedy for a Friend
 
-- **Location:** Dark Forest Outpost
-- **Main Quest Highway:** DFO MQ3
+- **Location:** Riza Rivertown
+- **Main Quest Highway:** Riza MQ3
 - **Type:** Collection
-- **Requirements:** Deliver 15 Ardi Lamps
-- **Rewards:** 1 Bone Key
-- **Recommendations:** These are just the first 15 Ardi Lamps you'll need in the main questline; go ahead and pick up a full 25 while you're there, to save time. Remember that Ardi Lamps are in the Forest Expedition, in Forward Base. You might need to check out the Travel Directions section of the Guide to figure out how to unlock it if you haven't already. And while you're in the Forest, you might want to pick up the new sidequest that's just popped up in Luciola Forest. (And if you hate travel, DEFINITELY fight enough Kaija in Base Camp to get 20 Saliva Vials.)
+- **Requirements:** Collect 6 Spider Poison, 6 Reenu Wings, 3 Desert Stone, 3 Glass Shards, 3 River Stones, 5 River Grass
+- **Rewards:** 1 Stone Chest
+- **Recommendations:** It is what it is. The good news: this is the last Main Quest for a while that has requirements that might send you back to other regions.
 
-### DFO Main Quest 4/Attacking The Darkness
+### Riza Main Quest 4: Mucky, Murky, Muddy
 
-- **Location:** Dark Forest Outpost
-- **Main Quest Highway:** DFO MQ4
+- **Location:** Riza Rivertown
+- **Main Quest Highway:** Riza MQ4
 - **Type:** Battle
-- **Requirements:** Defeat 6 Osalyu and 12 Belasi
-- **Rewards:** 1 Bones Chest
-- **Recommendations:** Now's a good time to work on the Belasi sidequests! That would be Nasty, Dust Air here, and the sidequest that just popped up in Luciola Forest that I recommended you pick up in the last one. Though be forewarned that the Luciola quest requires 10 Nets, which are pretty expensive, and Belasi are pretty cheap to just fight twice if you don't want 10 Nets staring you down indefinitely.
+- **Requirements:** Defeat 2 Jaihri, 4 Vota, 6 Yala, and 3 Knusha
+- **Rewards:** 1 Stone Key
+- **Recommendations:** Mix and match as you see fit. This is straightforward.
 
-### DFO Main Quest 5/ A Fox Untrusted
+### Riza Main Quest 5: This Might Sting
 
-- **Location:** Dark Forest Outpost
-- **Main Quest Highway:** DFO MQ5
-- **Type:** Battle, Collection
-- **Requirements:** Defeat 10 Dust Wignow, deliver 10 Ardi Lamps
-- **Rewards:** 1 Bone Key
-- **Recommendations:** Ardi Lamps again! Otherwise, totally straightforward.
-
-### DFO Main Quest 6/ A Fox Untested
-
-- **Location:** Dark Forest Outpost
-- **Main Quest Highway:** DFO MQ6
+- **Location:** Riza Rivertown
+- **Main Quest Highway:** Riza MQ5
 - **Type:** Battle
-- **Requirements:** Defeat Dust Rudakai
-- **Rewards:** 1 Bones Chest
-- **Recommendations:** If you've done any Steel Boots quests, congrats! You know how to get Fabric Boots! If you've done 3PC's Tailor sidequest, you might have a spare pair on hand! (And if you haven't, now you know where to get one.) Otherwise, you might want to check out mbrennan's Resource Calculation Spreadsheet to keep track of the Leaf Boots and Leafsung Ink you'll need to make Leafsung Boots to make Fabric Boots: https://4thewords.com/forum/thread-return-of-the-resource-calculation-spreadsheet
+- **Requirements:** Defeat Wyvern
+- **Rewards:** 1 Stone Chest
+- **Recommendations:** I <3 the Wyvern. 24 hours to get 1300 words? And the drops? A lot simpler than the last one, and a welcome break before the next one.
 
-### DFO Main Quest 7/The True Reason
+### Riza Main Quest 6: Journey Upriver
 
-- **Location:** Dark Forest Outpost
-- **Main Quest Highway:** DFO MQ7
-- **Type:** Battle
-- **Requirements:** Defeat 1 Papple
-- **Rewards:** 1 Bone Key
-- **Recommendations:** Sweet and straightforward after the last few.
-
-### DFO Main Quest 8/Bound Up In
-
-- **Location:** Dark Forest Outpost
-- **Main Quest Highway:** DFO MQ8
+- **Location:** Riza Rivertown
+- **Main Quest Highway:** Riza MQ6
 - **Type:** Collection
-- **Requirements:** Deliver 2 Sacred Feathers, 20 Essence, 20 Saliva Vials, 10 Kapir Tufts, 10 Refined Dust, 10 River Water
-- **Rewards:** 1 Bones Chest
-- **Recommendations:** And we're back to complex. But apart from the Refined Dust, all the resources are in the earlier game, so my All Resources section should be able to help you find them.
+- **Requirements:** Gather 25 Hardwood, 10 Steel, and 5 Dí Bags
+- **Rewards:** Floating City of Balance
+- **Recommendations:** Dí Bags are usually easier to buy outright than to collect enough River Water to make. (And you'll be doing at least 3 more soon.) But if you want to do it the less-coin-intensive way, Yala are probably your best River Water source. (Osaril may be slightly more productive, but Vine Nets are harder to farm to get them). Hardwood is best gotten from Jaihri, hands down, and that'll help with the River Dams sidequest if you've been doing that.
 
-### DFO Main Quest 9/Detect, Chain, Bind
+### Balance Main Quest 1: Help From A Master
 
-- **Location:** Dark Forest Outpost
-- **Main Quest Highway:** DFO MQ9
-- **Type:** Battle
-- **Requirements:** Defeat Miclan
-- **Rewards:** 1 Bone Key
-- **Recommendations:** So, Miclan requires 5 Steel Chains, 3 Pieces of Parchment, and 1 Blue Essence Ink to fight. If you've opened your Bone Chests so far, you should have enough for this. But at least none of these things are difficult to craft if need be. And you have three days to fight him!
-
-### DFO Main Quest 10/A Dogged Search
-
-- **Location:** Dark Forest Outpost
-- **Main Quest Highway:** DFO MQ10
-- **Type:** Battle
-- **Requirements:** Defeat 1 Chaensi and 1 Lycosta
-- **Rewards:** 1 Bones Chest
-- **Recommendations:** Look! Lower requirements than Miclan! And again pretty straightforward.
-
-### DFO Main Quest 11/To Hound Babu
-
-- **Location:** Dark Forest Outpost
-- **Main Quest Highway:** DFO MQ11
-- **Type:** Battle
-- **Requirements:** Defeat 1 Babu
-- **Rewards:** 1 Bones Chest & 1 Bone Key
-- **Recommendations:** Fewer requirements than Miclan, better quest rewards, and you get a good doggie!
-
-### DFO Main Quest 12/ Well of Lost Souls
-
-- **Location:** Dark Forest Outpost
-- **Main Quest Highway:** DFO MQ12
+- **Location:** Floating City of Balance
+- **Main Quest Highway:** Balance MQ1
 - **Type:** Collection
-- **Requirements:** Deliver 25 Stone Blocks, 15 Reinforced Rope, 15 Sandstone Blocks, 15 Hardwood, and 10 Steel Bars
-- **Rewards:** 1 Bones Chest & 1 Bone Key
-- **Recommendations:**  Yes, it's a grind. Same as the end of several other regions. But it's a grind you know how to beat. And if you want to go pick up the new sidequest that lets you just battle Babu instead, it'll give you a shiny new Weapon1 with as much Attack as a Steel Mace (previous winner of Attack) and an additional 4 Luck.
+- **Requirements:** Deliver 3 Dí Bags
+- **Rewards:** 1 Water Mask
+- **Recommendations:** I know the Dí Bags seem endless, but this is the last hurrah in the main quest line. Maybe play around in Riza sidequests for a while if this takes too long to grind, or (better yet) explore Raina Expedition and its more-bountiful River Water sources. And once you finish the first few Balance quests, the range of monsters and sidequests available really opens up.
 
-### PG Main Quest 1/Then The Bird Said
+### Balance Main Quest 2: Underwater Training
 
-NOTE: To trigger the PG Main Quests, you will have to pick up the first one as if it were a side quest. After that, they'll behave more normally.
-
-- **Location:** Purple Gate
-- **Main Quest Highway:** PG MQ1
+- **Location:** Floating City of Balance
+- **Main Quest Highway:** Balance MQ2
 - **Type:** Battle
-- **Requirements:** Defeat 5 Poe, 5 Xaey, and 3 Cursed Hands
-- **Rewards:** Wardrobe: Basic Boots Purple Gate https://4thewords.com/media/wardrobe/featured/female/wf&#95;1285-basic-boots-purple-gate-9102-70235.png
-- **Recommendations:** Welcome to the Purple Gate, land of wardrobe rewards galore! There's very little in the way of resource-based gameplay here, so you won't need any guidance on that front; most of the monsters are quite straightforward, as well. So for most of these, my advice will be simple: up to you!
+- **Requirements:** Defeat 5 Puna, 4 Sliv, and 3 Isartu
+- **Rewards:** 3 Water Masks & 1 Underwater Torch
+- **Recommendations:** This is where you start getting strategic about sidequests. There are a LOT of Battle sidequests in Balance. Heck, if you wanted, you could work on Gone Fishing AND any Puna sidequests you have left from Luciola or Gansu. You could work on River Landwalkers with the Isartu. Just remember that there are a LOT of Battle quests, and you won't be able to drop them from your Questbook and pick them up again. I would not prioritize any of the sidequests that dovetail with this one; unless you expect to be finishing them quickly, you'll have other uses for your quest slots. (OTOH if you're a fast completionist go ahead and save a couple battles by completing these now and getting ahead.)
 
-### PG Main Quest 2/A Desolate Path
+### Balance Main Quest 3: The Deep Dark
 
-- **Location:** Purple Gate
-- **Main Quest Highway:** PG MQ2
+- **Location:** Floating City of Balance
+- **Main Quest Highway:** Balance MQ3
 - **Type:** Battle
-- **Requirements:** Defeat 3 Oncara and 6 Vibidi
-- **Rewards:** Wardrobe: Basic Pants Purple Gate https://4thewords.com/media/wardrobe/featured/female/wf&#95;1286-basic-pants-purple-gate-9104-70076.png
-- **Recommendations:** As with many of the Purple Gate Main Quests, this one opens alongside new sidequests taking advantage of the same monsters the main quest uses. Check them out to double-dip!
+- **Requirements:** Defeat 8 Nuig, 2 Xyplos, and 2 Vezi
+- **Rewards:** 1 River Chest
+- **Recommendations:** This one I *would* look for sidequests that dovetail, because 8 Nuig battles are a pity to use for only one. (Although be warned that if you want to complete every sidequest, there will be more of these ahead that you simply can't double up well.) Also, don't spring for Underwater Torches unless you have to. If your Luck is >17, you'll usually get one back for each one you use in battle. You won't be able to queue Xyplos or Vezi with a single Underwater Torch, but you might be able to fight them all one at a time with the start from the Torch you won from the last quest. (And if you open any River Chests, they'll get you more Underwater Torches. For those who love to queue.)
 
-### PG Main Quest 3/Keep Pushing Forward
+### Balance Main Quest 4: Potion For A Goddess
 
-- **Location:** Purple Gate
-- **Main Quest Highway:** PG MQ3
+- **Location:** Floating City of Balance
+- **Main Quest Highway:** Balance MQ4
+- **Type:** Collection
+- **Requirements:** Deliver 12 Nuig String, 25 River Grass, 4 Vezi Shell, and 50 Dust
+- **Rewards:** 1 River Chest
+- **Recommendations:** If these requirements are difficult, you probably haven't done enough of the battle sidequests. Go ahead and revel in those a bit. Some involve a fair amount of traveling, but that's just a good reason to put them all together and do them at once. Anyway, there's only one Main Quest left in Balance after this, so you might as well pace yourself.
+
+### Balance Main Quest 5: The Water Calls
+
+- **Location:** Floating City of Balance
+- **Main Quest Highway:** Balance MQ5
 - **Type:** Battle
-- **Requirements:** Defeat 8 Eninir and 10 Ardid
-- **Rewards:** Wardrobe: Basic Shirt Purple Gate https://4thewords.com/media/wardrobe/featured/male/wm&#95;1287-basic-shirt-purple-gate-9106-41957.png
-- **Recommendations:** As with many of the Purple Gate Main Quests, this one opens alongside new sidequests taking advantage of the same monsters the main quest uses. Check them out to double-dip!
-
-### PG Main Quest 4/A Ruined Path
-
-- **Location:** Purple Gate
-- **Main Quest Highway:** PG MQ4
-- **Type:** Battle
-- **Requirements:** Defeat 5 Dusiri and 3 Leopar
-- **Rewards:** Wardrobe: Dusiri Top https://4thewords.com/media/wardrobe/featured/male/wm&#95;1062-dust-whirlwind-top-7661-27947.png
-- **Recommendations:** As with many of the Purple Gate Main Quests, this one opens alongside new sidequests taking advantage of the same monsters the main quest uses. Check them out to double-dip!
-
-### PG Main Quest 5/What Lies Uncovered
-
-- **Location:** Purple Gate
-- **Main Quest Highway:** PG MQ5
-- **Type:** Battle
-- **Requirements:** Defeat 3 Dark Assassin and 5 Zhout
-- **Rewards:** Wardrobe: Large Crystal Bracelets https://4thewords.com/media/wardrobe/featured/male/wm&#95;1244-crystal-bracelet-8757-75820.png
-- **Recommendations:** As with many of the Purple Gate Main Quests, this one opens alongside new sidequests taking advantage of the same monsters the main quest uses. Check them out to double-dip!
-
-### PG Main Quest 6/A Fearful Path
-
-- **Location:** Purple Gate
-- **Main Quest Highway:** PG MQ6
-- **Type:** Battle
-- **Requirements:** Defeat 3 Infected Golem
-- **Rewards:** Wardrobe: Steel Hands Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1211-steel-hands-necklace-8585-24205.png
-- **Recommendations:** As with many of the Purple Gate Main Quests, this one opens alongside new sidequests taking advantage of the same monsters the main quest uses. Check them out to double-dip!
-
-### PG Main Quest 7/Fighting the Water
-
-- **Location:** Purple Gate
-- **Main Quest Highway:** PG MQ7
-- **Type:** Battle
-- **Requirements:** Defeat 1 Dust Lodo
-- **Rewards:** Wardrobe: Eninir Skeleton Ribs https://4thewords.com/media/wardrobe/featured/male/wm&#95;1068-ghoul-ribs-bodypaint-7673-91654.png
-- **Recommendations:** Fight Dust Lodo as many times as you want before turning this in, because Dust Lodo is going to disappear after you move on.
-
-### PG Main Quest 8/Fighting the Flame
-
-- **Location:** Purple Gate
-- **Main Quest Highway:** PG MQ8
-- **Type:** Battle
-- **Requirements:** Defeat 1 Dust Azadi
-- **Rewards:** Wardrobe: Eninir Skeleton Neck https://4thewords.com/media/wardrobe/featured/male/wm&#95;1067-ghoul-neck-bodypaint-7671-62882.png
-- **Recommendations:** Same for Dust Azadi as Dust Lodo. I'll mention that if I were going to sit around and grind indefinite Bones Chests and Bone Keys, this isn't where I'd do it.
-
-### PG Main Quest 9/Fighting the Mountain
-
-- **Location:** Purple Gate
-- **Main Quest Highway:** PG MQ9
-- **Type:** Battle
-- **Requirements:** Defeat 1 Dust Suwö
-- **Rewards:** Wardrobe: Dust Suwo Mouth https://4thewords.com/media/wardrobe/featured/male/wm&#95;1060-dust-suwo-mouth-7657-62115.png
-- **Recommendations:** Noticing a trend? This still isn't where I'd camp out, but stick around as long as you want Dust Suwö sticking around.
-
-### PG Main Quest 10/A Familiar Fight
-
-- **Location:** Purple Gate
-- **Main Quest Highway:** PG MQ10
-- **Type:** Battle
-- **Requirements:** Defeat 1 Dark Reflection
-- **Rewards:** Unlock the Cave, and Wardrobe x2: Dark Hands Avatar https://4thewords.com/media/wardrobe/featured/male/wm&#95;1072-dark-avatar-hands-7681-26711.png and Dark Avatar Bodypaint https://4thewords.com/media/wardrobe/featured/male/wm&#95;1071-dark-avatar-bodypaint-7679-20341.png 
-- **Recommendations:** Okay, last boss fight for the Purple Gate. And again, this will disappear once you turn it in. I'm not going to hearken back to the Dust Witch in Gansu and recommend you stick around indefinitely, because there are better places to camp later in the game (yes, there is a "later in the game" even as of the day Purple Gate dropped), but certainly feel free to stick around till you tire of battling your reflection.
-
-### CAVE Main Quest 1/Meet the Shadow
-
-- **Location:** Cave
-- **Main Quest Highway:** CAVE MQ1
-- **Type:** Battle
-- **Requirements:** Defeat 2 Sakot, 5 Vafire, and 3 Gliva
-- **Rewards:** Wardrobe: Basic Boots Cave https://4thewords.com/media/wardrobe/featured/male/wm&#95;1284-basic-boots-cave-9100-78037.png 
-- **Recommendations:** Remember how a lot of my Purple Gate recommendations were copy/paste, because the quests were so self-explanatory? Yeah, same applies for a lot of these. Keep an eye out for overlapping sidequests, and approach as you please.
-
-### CAVE Main Quest 2/Talk with Shadow
-
-- **Location:** Cave
-- **Main Quest Highway:** CAVE MQ2
-- **Type:** Battle
-- **Requirements:** Defeat 1 Attwo, 8 Tacin, and 12 Chio
-- **Rewards:** Wardrobe: Basic Pants Cave https://4thewords.com/media/wardrobe/featured/male/wm&#95;1288-basic-pants-cave-9108-51968.png
-- **Recommendations:** Keep an eye out for overlapping sidequests, and approach as you please.
-
-### CAVE Main Quest 3/Sharpening Stubborn Stones
-
-- **Location:** Cave
-- **Main Quest Highway:** CAVE MQ3
-- **Type:** Battle
-- **Requirements:** Defeat 1 Ghost Suwö
-- **Rewards:** Wardrobe: Smoke Eye Makeup https://4thewords.com/media/wardrobe/featured/female/wf&#95;1181-smoke-eye-makeup-8273-63331.png
-- **Recommendations:** I'll tell you three important things about Ghost Suwö: 1) he is easily the easiest balanced source of Bones Chests/ Bone Keys in the entire game, 2) he disappears after this quest, but 3) he is far from your last chance to do this (unlike the Dust Witch and her Stone Chests and Stempos). Plan your time to turn in this quest accordingly.
-
-### CAVE Main Quest 4/Discuss with Shadow
-
-- **Location:** Cave
-- **Main Quest Highway:** CAVE MQ4
-- **Type:** Battle
-- **Requirements:** Defeat 3 Olanat, 3 Letos, and 3 Gliva
-- **Rewards:** Wardrobe: Mushroom Hair https://4thewords.com/media/wardrobe/featured/male/wm&#95;1229-mushroom-hair-8621-66729.png
-- **Recommendations:** Keep an eye out for overlapping sidequests, and approach as you please.
-
-### CAVE Main Quest 5/It was Like Lightning
-
-- **Location:** Cave
-- **Main Quest Highway:** CAVE MQ5
-- **Type:** Battle
-- **Requirements:** Defeat 1 Ghost Azadi
-- **Rewards:** Wardrobe: Smoke Shoulder Makeup https://4thewords.com/media/wardrobe/featured/male/wm&#95;1179-smoke-shouldermakeup-8241-75896.png
-- **Recommendations:** You can guess where this is going, right? Pattern inverting Purple Gate monsters, certain predictability? Notice that the Ghosts are getting progressively easier, where the Dust-infected companions got harder (but drops are inverting, too).
-
-### CAVE Main Quest 6/Speak with Shadow
-
-- **Location:** Cave
-- **Main Quest Highway:** CAVE MQ6
-- **Type:** Battle
-- **Requirements:** Defeat 5 Spina and 5 Ulos
-- **Rewards:** Wardrobe: Basic Shirt Cave https://4thewords.com/media/wardrobe/featured/male/wm&#95;1289-basic-shirt-cave-9110-94571.png
-- **Recommendations:** Keep an eye out for overlapping sidequests, and approach as you please.
-
-### CAVE Main Quest 7/Dam the Guilt
-
-- **Location:** Cave
-- **Main Quest Highway:** CAVE MQ7
-- **Type:** Battle
-- **Requirements:** Defeat 1 Ghost Lodo
-- **Rewards:** Wardrobe: Cave Eyes https://4thewords.com/media/wardrobe/featured/male/wm&#95;1226-cave-eyes-8615-13259.png
-- **Recommendations:** I will admit that the 500-word guaranteed Bones Chest drop is quite tempting, but if you keep on going, you can have (more expensive) Keys to match.
-
-### CAVE Main Quest 8/The Final Fight
-
-- **Location:** Cave
-- **Main Quest Highway:** CAVE MQ8
-- **Type:** Battle
-- **Requirements:** Defeat 1 Reflection
-- **Rewards:** Wardrobe: Translucid Chest https://4thewords.com/media/wardrobe/featured/male/wm&#95;1277-translucid-chest-8970-17166.png
-- **Recommendations:** Guess what? REFLECTION STAYS. (And the crowds rejoiced!) You do NOT have to worry about milking them to the last drop. In fact, once you turn in this quest, you'll unlock a sidequest fighting Reflections, so don't fight more than one before turning this in.
+- **Requirements:** Defeat the River Goddess
+- **Rewards:** 1 River Chest, Lodo as Companion, open Dark Forest Outpost 
+- **Recommendations:** WATCH YOUR EQUIPMENT. 5K words in 72 hours? It might be worth shelling out for a Reinforced Steel Helmet and Reinforced Steel Breastplate first.  Put them together with a Steel Mace, a Harpoon, Steel Boots, and a Stone Ring? It'll take 3,847 words in 3 days and 16 hours, 55 minutes (so almost 4 days). Get a Sands Ring instead of a Stone Ring? 3,817 words in 17 hours, 38 minutes. If you want to figure out the best combo of equipment based on what you have, I have a list of everything here:https://docs.google.com/spreadsheets/d/1BxL&#95;absfs8GyIiDwZRXuABNww43UbS1Qh&#95;dJPDMU3Ig/edit#gid=199447042 And remember, while this is a big one for those of us used to less than 1K per day, it's very doable if you give yourself enough time.
 
 # Side Quests, in Alphabetical Order A-M
 
-LAST UPDATED 26 OCT 2020
-
-### 100 Minds to Explore - CAVE
-
-- **Location:** Cave
-- **Unlocked by:** PG MQ10/A Familiar Fight
-- **Type:** Battle
-- **Requirements:** Defeat 100 Vafire
-- **Rewards:**  Wardrobe: Vafire Head https://4thewords.com/media/wardrobe/featured/male/wm&#95;1279-translucid-head-8978-40867.png
-- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
+LAST UPDATED 9 DEC 2020
 
 ### 4 the Infected - SurfaceC
 
 - **Location:** Raina Surface Camp
 - **Quest Path:** (open via Raina Expedition Trail: Raina Surface Camp (Riza quest)) • SurfaceC Infected Raina Part 1 • SurfaceC Infected Raina Part 2 • SurfaceC Infected Raina Part 3 • **4 The Infected** 
+- **Type:** Battle, Collection
+- **Requirements:** Defeat 15 Knusha, 15 Vota, and 15 Yala, and pay 45 Nets and 45 Leaves
+- **Rewards:** Wardrobe: Ardi Raina Mask https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;ardi&#95;raina&#95;mask&#95;yellow.png
+- **Recommedations:** You're a pro by now. Decide whether you want to top it off.
 
 ### The Abyss Stares Back - Balance
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Balance MQ2: Underwater Training
+- **Type:** Battle
+- **Requirements:** Defeat 5 Xyplos
+- **Rewards:** 1 River Chest and 3 River Keys
+- **Recommendations:** Depends on how much you like it! Those are some sweet rewards, but they're also some high costs. Be aware that a later sidequest asks for 20 Xyplos, so if you want to forestall this till then, it might save you a couple battles.
 
 ### Aid the Aliens - SpaceS
 
@@ -464,45 +282,56 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### All Who Wander - HuntS2
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • **All Who Wander** • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • **All Who Wander** • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
 
 ### Amateur Fisherman - Riza
 
 - **Location:** Riza Rivertown
 - **Quest Path:** (open via Main Quest Highway Gansu MQ8/Dust to Dust) • **Amateur Fisherman** • Riza Apprentice Fisherman • Riza Water Tribe Stripes
-
-### Ardid Hunter (1/2) - PG
-
-- **Location:** Purple Gate
-- **Quest Path:** (open via PG Main Quest 2/A Desolate Path) • **Ardid Hunter 1/2** • PG Ardid Hunter 2/2
 - **Type:** Battle
-- **Requirements:** Defeat 10 Ardid
-- **Rewards:** Crystal Earrings https://4thewords.com/media/wardrobe/featured/female/wf&#95;1192-crystal-earrings-8417-83041.png
-- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
-
-### Ardid Hunter (2/2) - PG
-
-- **Location:** Purple Gate
-- **Quest Path:** (open via PG Main Quest 2/A Desolate Path) • PG Ardid Hunter 1/2 • **Ardid Hunter 2/2**
-- **Type:** Battle
-- **Requirements:** Defeat 25 Ardid
-- **Rewards:** Wardrobe: Sharp Crystal Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1078-crystal-medium-length-necklace-7710-29407.png
-- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
+- **Requirements:** Defeat 3 Patliadu
+- **Rewards:** 25 Coins
+- **Recommendations:** Completing this opens up another quest that can net you a Stone Key. Otherwise, it doesn't have anything to recommend it except a sense of satisfaction in Completing The Things. If you want to also do Battle Ready and/or Osaril Nests, do them first for maximum Harpoon efficiency.
 
 ### Apprentice Fisherman - Riza
 
 - **Location:** Riza Rivertown
 - **Quest Path:** (open via Main Quest Highway Gansu MQ8/Dust to Dust) • Riza Amateur Fisherman • **Apprentice Fisherman** • Riza Water Tribe Stripes
+- **Type:** Battle
+- **Requirements:** Defeat 8 Patliadu
+- **Rewards:** 1 Stone Key
+- **Recommendations:** Go for it! If you're planning on doing Osaril Nests, though, make sure you do it first: the Harpoons will be helpful in the Patliadu battles. And do the Battle Ready quest first. You'll get to keep the Harpoons you gather for it, and can then use them on Patliadu.
 
 ### Au-some Frog Race - SacredS
 
+####NOTE: Important Info in Recommendations
+
 - **Location:** Raina Sacred Site
+
 - **Unlocked by:** Raina Expedition Trail: SwampL Twisted Treacherous Trails (2/2)
+
+- **Type:** Battle
+
+- **Requirements:** Defeat 1000 Kuldoro
+
+- **Rewards:** Wardrobe: Kuldoro Pet https://4thewords.com/media/wardrobe/featured/male/wm&#95;772-golden-frog-pet-5280-13978.png
+
+- **Recommendations:** That's a lot of Kuldoro. Good thing you can work on the quest without picking it up.
+
+  Repeat: as of this writing when the site opens up, this quest counts every Kuldoro you've ever battled, whether you were carrying the quest or not.
+
+  So you are 100% free to pick this up and put it down at your convenience, same as a Collection quest.
+
+  And congrats to Jess Mountifield for inspiring this quest with her ambitious self-challenge during the special event! https://4thewords.com/forum/thread-1000-gold-froggies/1
 
 ### Barge Weights - Riza
 
 - **Location:** Riza Rivertown
 - **Unlocked by:** Riza MQ6/Journey Upriver
+- **Type:** Collection
+- **Requirements:** Gather 35 River Stones
+- **Rewards:** 2 Stone Keys
+- **Recommendations:** Grab it! The Floating City of Balance has places to get River Stones more easily than Riza; it's worth the effort.
 
 ### Battle Experience - Gansu
 
@@ -513,6 +342,10 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Available in the Luciola Forest 
 - **Quest Path Route:** (open via Hunt Trail HuntS1 The Hunt Begins) • HuntS1 A Battle of Wills • HuntS2 Battle of Merit • **Battle of Constitution** • HuntS4 A Battle of Evolution
+- **Type:** Battle
+- **Requirements:** Defeat 1 Velts: Water
+- **Rewards:** 15 Hunter Tokens
+- **Recommendations:** Once again, this seems to actually be a chain independent of the Seasons. This is the first time the Battle chain has explicitly acknowledged being a chain. Presumably, the last Season will have its own Velts to battle. But it probably won't be visible till you complete this one, so take into consideration
 
 ### A Battle of Evolution 4/4 - HuntS4
 
@@ -537,16 +370,28 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Riza Rivertown
 - **Unlocked by:** Gansu MQ8/Dust to Dust
+- **Type:** Battle
+- **Requirements:** Defeat 10 Trainees
+- **Rewards:** 3 Stone Keys
+- **Recommendations:** 1000 words in 60 minutes is no joke; doing it 10 times over is a real challenge. 3 Stone Keys are a really nice reward, though. I'd recommend picking this up, and if the pace is too punishing, write offsite and give yourself a little extra time. Trainee drops are good enough to make up for the extra effort, IMHO.
 
 ### Battle Ready - Riza
 
 - **Location:** Riza Rivertown
 - **Unlocked by:** Gansu MQ8/Dust to Dust
+- **Type:** Collection
+- **Requirements:** Have at least 10 Harpoons in Inventory (and keep after turning in the quest!)
+- **Rewards:** 25 Coins
+- **Recommendations:** Do it. You get to keep the Harpoons, you will almost certainly want the Harpoons for hunting Patliadu at some point, and they're great Weapon2s anyway. If you do the Osaril Nests first, though, you'll get a couple Harpoons that way.
 
 ### Bettering Ourselves - HuntS3
 
 - **Location:** Available in Luciola Forest
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • **Bettering Ourselves** • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • **Bettering Ourselves** • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
+- **Type:** Collection, Streak
+- **Requirements:** Collect Hunt Map Piece 8 & reach a 5-day Streak
+- **Rewards:** Wardrobe: Hunt Complex Brooch https://4thewords.com/media/wardrobe/featured/male/wm&#95;651-hunt-complex-brooch-3813-44800.png
+- **Recommendations:** The Season of Growth is certainly encouraging us to build our Streaks!
 
 ### Beware! Rock Shower - Shrine TFA
 
@@ -556,12 +401,20 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### Bigger and Brighter - HuntS3
 
 - **Location:** Available in Luciola Forest
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • **Bigger & Brighter** • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • **Bigger & Brighter** • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
+- **Type:** Collection, Streak
+- **Requirements:** Collect Hunt Map Piece 9 & reach a 5-day Streak
+- **Rewards:** Wardrobe: Hunt Facepaint Trident https://4thewords.com/media/wardrobe/featured/male/wm&#95;665-hunt-facepaint-trident-4021-27616.png
+- **Recommendations:** Still streaking! (Sorry, couldn't resist.) And as of this writing, still waiting to see what gets unlocked next by this one! But the Caretaker will almost certainly require this quest to unlock.
 
 ### Biodome Blossoms - Balance
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Balance MQ2: Underwater Training
+- **Type:** Collection
+- **Requirements:** Deliver 15 Vezi Shells
+- **Rewards:** 1 Reinforced Steel Helmet
+- **Recommendations:** You'll probably have to fight 6 Vezi for this, and it's still easily the cheapest way to get a Reinforced Steel Helmet, which has great stats. DOOOO IIIIT. If you're grinding this before Main Quest 4, though, make sure you get 19 Vezi Shells, not 15. You'll be glad you did.
 
 ### Birb's the Word - ShrineBird
 
@@ -572,15 +425,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Dig Site
 - **Unlocked by:** Desert Expedition Trail: Gansu Digging Into Desert Sands
-
-### Bite My Boots! - MT
-
-- **Location:** Mama Tree
-- **Unlocked by:** DFO MQ12/Well of Lost Souls
-- **Type:** Collection
-- **Requirements:** Collect 10 Dark Forest Boots
-- **Rewards:** 25 Leafsung Ink
-- **Recommendations:** This is really easy if you can get your hands on a dozen or so Bones Chests & Keys, whether through quest rewards or whatever. If all else fails, Miclan drops both Bones Chests & Bone Keys. And all the lovely Leafsung Ink!
 
 ### Biweekly: Monster Hunter
 
@@ -599,24 +443,6 @@ Note: if you're trying to progress to the next quest after this, you'll need to 
 - **Location:** Forward Base
 - **Quest Path Route:** (open via Forest Expedition Trail: BC Hard Day's Walk) • FB **Blossom with Flowers! 1/2** • GL Bright Night Blossoms 2/2
 
-### Bone To Pick - DFO
-
-- **Location:** Dark Forest Outpost
-- **Unlocked by:** Balance MQ5/The Water Calls
-- **Type:** Battle
-- **Requirements:** Defeat 40 Burhar
-- **Rewards:** Wardrobe: Dark Forest Shoulder Pads https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;darkforest&#95;shoulders.png
-- **Recommendations:** One major upside: Burhar drop Steel Chains, which are very useful later in the area, so this is a good way to double up grinding with a quest. 40 is overkill for that purpose, though. It's up to you.
-
-### A Bone to Pick - CAVE
-
-- **Location:** Cave
-- **Unlocked by:** CAVE MQ 4/Discuss with Shadow
-- **Type:** Battle
-- **Requirements:** Defeat 10 Sakot and 10 Letos
-- **Rewards:** Wardrobe: Letos Ear Piercing https://4thewords.com/media/wardrobe/featured/male/wm&#95;1235-fishskull-medium-earpiercing-8675-13088.png
-- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
-
 ### Bone White Canvas - ShrineMar
 
 - **Location:** Shrine of Ages
@@ -631,24 +457,6 @@ Note: if you're trying to progress to the next quest after this, you'll need to 
 
 - **Location:** Dig Site
 - **Unlocked by:** Desert Expedition Trail: Gansu Digging Into Desert Sands
-
-### Breaking Down Bones - PG
-
-- **Location:** Purple Gate
-- **Unlocked by:** DFO MQ12/Well of Lost Souls
-- **Type:** Battle
-- **Requirements:** Defeat 50 Xaey
-- **Rewards:** Wardrobe: Crystal Choker https://4thewords.com/media/wardrobe/featured/male/wm&#95;1077-crystal-choker-7698-94910.png
-- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
-
-### Bridge for the Future - CAVE
-
-- **Location:** Cave
-- **Unlocked by:** PG MQ 10/A Familiar Fight
-- **Type:** Collection
-- **Requirements:** Deliver 15 Hardwood, 15 Reinforced Rope, and 10 Steel Bars
-- **Rewards:** Wardrobe: Tacin Crown https://4thewords.com/media/wardrobe/featured/male/wm&#95;1224-bat-wing-crown-8611-11380.png
-- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
 
 ### Bridge of Sighs - MT
 
@@ -665,7 +473,11 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 ### A Bubble Dream - HuntS3
 
 - **Location:** Available in Luciola Forest
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • **A Bubble Dream** • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • **A Bubble Dream** • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
+- **Type:** Battle
+- **Requirements:** Defeat 1 Caretaker
+- **Rewards:** Wardrobe: Cactus Sprite Pet https://4thewords.com/media/wardrobe/featured/female/wf&#95;861-cactus-sprite-pet-6003-60430.png
+- **Recommendations:** This is part of the trail to get through the Hunt. Note that the Caretaker is in Dark Forest Outpost...
 
 ### Buholi in the Sky - TT
 
@@ -696,34 +508,28 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Balance MQ1/ Help From A Master
+- **Type:** Battle, Collection
+- **Requirements:** Defeat 25 Castu, Deliver 10 Reinforced Rope, 10 Hardwood, and 5 Steel
+- **Rewards:** 1 River Chest
+- **Recommendations:** If you're going to do this, pair it with the Curious Traveler quest that unlocks after all the Main Quests. MUCH more efficient. Also, hopefully at that point you'll have gotten enough River Chests open to make Reinforced Rope a less-expensive requirement.
 
 ### Catching Glints of Sunrise - Hideout
 
 - **Location:** Rebel Raina Hideout
 - **Unlocked by:** Raina Expedition Trail: SacredS A Worthy Offering
-
-### Celebrate Joy
-
-- **Location:** Available in Luciola Forest
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • **Celebrate Joy** • ???
-- **Type:** Streak, Collection
-- **Requirements:** Have Hunt Map Piece 11 and attain 7-day Streak
-- **Rewards:** Wardrobe: Hunt Facepaint Eye Stroke https://4thewords.com/media/wardrobe/featured/male/wm_666-hunt-facepaint-eye-stroke-4035-59139.png 
-- **Recommendations:** We're continuing on, and we're gonna make it. Almost to the end of the Hunt Map Piece collecting/turning in!
+- **Type:** Battle
+- **Requirements:** Defeat 25 Kivi
+- **Rewards:** 100 Coins
+- **Recommendations:** Exactly what it looks like, no special recommendation info needed. :)
 
 ### Change To See - HuntS3
 
 - **Location:** Available in Luciola Forest
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
-
-### Cheer Your Dedication - HuntS4
-
-- **Location:** Available in Luciola Forest
-- **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
-- **Type:** Wordcount, Forum
-- **Requirements:** Write 10,000 words and make 5 posts in the Forum
-- **Rewards:** 15 Hunter Tokens
-- **Recommendations:** I always recommend participating in the forum, and the 10K will happen as you go. Take it!
+- **Type:** Battle
+- **Requirements:** Defeat 1 Yala
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** ... you'll complete this anyway if you complete Growth in Friendship, so it overlaps well. If you can't do Growth in Friendship because you haven't unlocked Raina, this is a nice consolation prize.
 
 ### Cleaning The House - ShrineGO
 
@@ -740,19 +546,14 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Mama Tree
 - **Unlocked by:** LF MQ4
 
-### Colorful, Vibrant Hallucinations - CAVE
-
-- **Location:** Cave
-- **Unlocked by:** PG MQ 10/A Familiar Fight
-- **Type:** Battle
-- **Requirements:** Defeat 15 Gliva
-- **Rewards:** Wardrobe: Mushroom Earrings https://4thewords.com/media/wardrobe/featured/male/wm&#95;1266-mushroom-earrings-8924-86461.png
-- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
-
 ### Colors to Die For - Balance
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Balance MQ2: Underwater Training
+- **Type:** Collection
+- **Requirements:** Deliver 15 Xyplos Ink, 25 Red Dye, and 20 Leafsung Ink
+- **Rewards:** Wardrobe: River Dye Hair https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;siren&#95;hair&#95;blue.png
+- **Recommendations:** Sooooo pretty, the reward. Sooo infuriatingly expensive, the Leafsung Ink. Go fight the River Goddess till she drops enough River Chests to drop all of it, or fight Arenica and Desert Rudakai until they drop enough Golden Chests and you've collected enough Leafsung Keys from biweekly quests, and yes, that's probably the easiest way; if you try to obtain Leafsung Ink by crafting it, that's 60 Claws, 60 Dust, 100 Essence, and 100 Spider Poison. Oh, and Spider Poison and Xyplos Ink are only available as drops, no shortcuts to purchase them. If you do want to do it that way, do the Venomous Villains quest; you'll probably get 20 or so Spider Poison as a side benefit from the necessary battles right there. Elemental Power will get you another 5. And then… well, good luck.
 
 ### A Colossal Quest - ShrineGiant
 
@@ -761,49 +562,15 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 
 ### Cool Creature Highlights (2/3) - MT
 
+Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
+
 - **Location:** Mama Tree
 - **Quest Path Route:** (open via LF MQ 4) • MT Warm Creature Highlights 1/3 • **Cool Creature Highlights 2/3** • MT Creature Colors & Highlights 3/3
-
-### A Coordinated Attack (1/2) - PG
-
-- **Location:** Purple Gate
-- **Quest Path:** (open via PG MQ4/A Ruined Path) • **A Coordinated Attack 1/2** • PG A Coordinated Attack 2/2
-- **Type:** Battle
-- **Requirements:** Defeat 15 Zhout and 5 Dark Assassins
-- **Rewards:** Wardrobe: Steel Hands Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1211-steel-hands-necklace-8585-24205.png
-- **Recommendations:** As of this writing, this quest's reward is the same as the reward for Main Quest 6, so weigh the value of this quest against the next quest in the sequence.
-
-### A Coordinated Attack (2/2) - PG
-
-- **Location:** Purple Gate
-- **Quest Path:** (open via PG MQ4/A Ruined Path) • PG A Coordinated Attack 1/2 • **A Coordinated Attack 2/2**
-- **Type:** Battle
-- **Requirements:** Defeat 25 Zhout and 10 Dark Assassins 
-- **Rewards:** Wardrobe: Zhout Hands https://4thewords.com/media/wardrobe/featured/female/wf&#95;1065-ghoul-crystal-hands-7667-91750.png
-- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
-
-### Crab Claw Clack - CAVE
-
-- **Location:** Cave
-- **Unlocked by:** CAVE MQ1/Meet the Shadow
-- **Type:** Battle
-- **Requirements:** Defeat 25 Chio
-- **Rewards:** Wardrobe: Spike Nose Ring https://4thewords.com/media/wardrobe/featured/female/wf&#95;1271-spike-nose-ring-8950-83364.png and Wardrobe: Fishbone Brow Piercing https://4thewords.com/media/wardrobe/featured/male/wm&#95;1232-fishskull-browpiercing-8647-74697.png
-- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
 
 ### Create a Clearing (2/4) - RLab
 
 - **Location:** Research Lab
 - **Quest Path:** (open via Alien Expedition Trail: SpaceS Orders to Repair) • RLab Set Creatures Free! (1/4) • **Create a Clearing (2/4)** • RLab Build a Biodome (3/4) • RLab Encourage an Ecosystem (4/4) • IN ANY ORDER  [RLab Making Mellow Mowow  (*unlocks Mowow in Wilderness*)• RLab Sagacious Sincere Sabu (*unlocks Sabu in Wilderness*) • RLab Silkly Sleek Sulanica (*unlocks Sulanica in Wilderness*)• RLab Zappy Zazzy Xombri (*unlocks Xombri in Wilderness*)• RLab Zooty Zanutaki Zings (*unlocks Zanutaki in Wilderness*)]
-
-### Create Your Path - PG
-
-- **Location:** Purple Gate
-- **Unlocked by:** DFO MQ12/Well of Lost Souls
-- **Type:** Collection
-- **Requirements:** Deliver 25 Reinforced Ardi Lamps
-- **Rewards:** Wardrobe: Eninir Facepaint https://4thewords.com/media/wardrobe/featured/male/wm&#95;1066-ghoul-facepaint-7669-16359.png
-- **Recommendations:** Assuming you want to do this (Reinforced Ardi Lamps are expensive!), make sure you first complete the Reinforced Ardi Lamp Station quest in DFO (just the first quest is necessary, not the entire chain) to gain the ability to craft the lamps. Which require a LOT of resources from all over the game. Good luck!
 
 ### Creature Colors & Highlights (3/3) - MT
 
@@ -815,19 +582,10 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Impact Crater
 - **Quest Path:** (open via Alien Meteoroid Trail: 3PC A Way North: Up The Mountain) • IC One Rocky Start (1/2) • **Crown of Rocks (2/2)** 
 
-### The Crystal Giants - PG
-
-- **Location:** Purple Gate
-- **Unlocked by:** PG MQ5/ What Lies Uncovered
-- **Type:** Battle
-- **Requirements:** Defeat 10 Infected Golems
-- **Rewards:** Wardrobe: Golem Crystal Hair https://4thewords.com/media/wardrobe/featured/male/wm&#95;1064-golem-crystal-hair-7665-46839.png
-- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
-
 ### The Curator of Elder Library - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • **The Curator of Elder Library** • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • **The Curator of Elder Library** • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
 
 ### Curator's Family - HuntS1
 
@@ -838,34 +596,28 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 
 - **Location:** Floating City of Balance
 - **Quest Path:** (open via Balance MQ5/The Water Calls) • **Curious Traveler** • Balance Curious Traveler Part 2 • Balance Curious Traveler Part 3
+- **Type:** Battle
+- **Requirements:** Defeat 20 Castu, 20 Awa, and 20 Xin
+- **Rewards:** 1 River Chest, unlock Part 2
+- **Recommendations:** You're done with the main game anyway, right? This goes well with Cast Out Castu, and it goes along a quest line that keeps getting harder, but at least ends up with River Chests and really nifty goggles for your avatar.
 
 ### Curious Traveler Part 2 - Balance
 
 - **Location:** Floating City of Balance
 - **Quest Path:** (open via Balance MQ5/The Water Calls) • Balance Curious Traveler • **Curious Traveler Part 2** • Balance Curious Traveler Part 3
+- **Type:** Battle
+- **Requirements:** Defeat 20 Sliv and 20 Isartu
+- **Rewards:** 1 River Chest, 1 River Key, unlock Part 3
+- **Recommendations:** This is a good time to pair up with River Landwalkers, double your Isartu value. And no, this quest line doesn't get easier, so pace yourself.
 
 ### Curious Traveler Part 3 - Balance
 
 - **Location:** Floating City of Balance
 - **Quest Path:** (open via Balance MQ5/The Water Calls) • Balance Curious Traveler • Balance Curious Traveler Part 2 • **Curious Traveler Part 3** 
-
-### A Cursed Couple - DFO
-
-- **Location:** Dark Forest Outpost
-- **Unlocked by:** DFO MQ10/A Dogged Search
 - **Type:** Battle
-- **Requirements:** Defeat 25 Lycosta and 25 Chaensi
-- **Rewards:** Wardrobe: Dark Forest Roots Belt https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;roots&#95;belt.png
-- **Recommendations:** Obviously a long-term commitment, and obviously a wardrobe reward. If you need to grind for the resources to fight these monsters, Zanthei are practically Piece of Parchment farms with enough Refined Dust to help make Blue Essence Ink, and the act of fighting these monsters gives you all the Steel you'll need for Steel Chains.
-
-### Cursed Violet Winds - PG
-
-- **Location:** Purple Gate
-- **Unlocked by:** PG MQ3/Keep Pushing Forward
-- **Type:** Battle
-- **Requirements:** Defeat 6 Dusiri and 12 Ardid
-- **Rewards:** Wardrobe: Dusiri Crown https://4thewords.com/media/wardrobe/featured/male/wm&#95;1061-dust-whirlwind-crown-7659-69330.png
-- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
+- **Requirements:** Defeat 20 Vezi and 20 Xyplos
+- **Rewards:** Wardrobe: Water Goggles
+- **Recommendations:** Look at the pretty goggles! Looky! https://media.4thewords.com/s3/media/wardrobe/featured/female/wm&#95;featured&#95;water&#95;googles.png Just think of that while you fight the monsters. Pick up The Abyss Stares Back if you haven't already and get two quests for the price of one. You can do it!!!
 
 ### Cut the Strings - ShrineCar
 
@@ -887,51 +639,6 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Global
 - **Route:** none needed; globally available from the start
 
-### Dark Floating Materials (5/5) - Balance
-
-- **Location:** Floating City of Balance
-- **Quest Path:** (open via DFO MQ12/Well of Lost Souls) • LF Dark Luciola Materials (1/5) • MT Dark Tree Materials (2/5) • 3PC Dark Three Materials (3/5) • Dark Watering Materials (4/5) (Gansu quest) • **Dark Floating Materials (5/5)** 
-- **Type:** Collection
-- **Requirements:** Deliver 20 Bones, 20 Steel Chains, 15 Refined Dust, and 5 vials Blue Essence Ink
-- **Rewards:** 10 Dí Bags and 10 River Water
-- **Recommendations:** At this point, I'm a little underwhelmed with the rewards (would have been overjoyed to get them during Riza), but hey. Dust Wignow will get you Refined Dust and Bones, Burhar will get you Steel Chains, and hopefully you can manage the rest.
-
-### Dark Luciola Materials (1/5) - LF
-
-- **Location:** Luciola Forest
-- **Quest Path:** (open via DFO MQ12/Well of Lost Souls) • **Dark Luciola Materials (1/5)** • MT Dark Tree Materials (2/5) • 3PC Dark Three Materials (3/5) • Dark Watering Materials (4/5) (Gansu quest) • Dark Floating Materials (5/5) (Balance quest)
-- **Type:** Collection
-- **Requirements:** Collect 15 Bones, 20 Rat Tail, 5 Blue Essence Ink
-- **Rewards:** 1 Wooden Chest, 1 Wooden Key
-- **Recommendations:** This quest chain is worth examining, but it's more of a long-term goal than a quick one. It's also distributed, with each quest picked up in a different area. Go ahead and look through the whole Dark [X] Materials quest chain to see what you like. Skull boots for your Wardrobe? Leafsung Keys? Dí Bags? Is it worth the Dark Forest Outpost stuff? Don't forget that Rat Tails are a side effect of working on the Pit of Nightmares quest!
-
-### Dark Three Materials (3/5) - 3PC
-
-- **Location:** Three Points Crossing
-- **Quest Path:** (open via DFO MQ12/Well of Lost Souls) • LF Dark Luciola Materials (1/5) • MT Dark Tree Materials (2/5) • **Dark Three Materials (3/5)** • Dark Watering Materials (4/5) (Gansu quest) • Dark Floating Materials (5/5) (Balance quest)
-- **Type:** Collection
-- **Requirements:** Deliver 30 Steel Chains, 30 Rat Tails, 30 Refined Dust, 30 Pieces of Parchment, 30 Bones
-- **Rewards:** Wardrobe: Dark Forest Boots https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;darkforest&#95;boots.png
-- **Recommendations:** See the pretties? Go ahead and try to collect for the next quest, too, before you do too much traveling around.
-
-### Dark Tree Materials (2/5) - MT
-
-- **Location:** Mama Tree
-- **Quest Path:** (open via DFO MQ12/Well of Lost Souls) • LF Dark Luciola Materials (1/5) • **Dark Tree Materials (2/5)** • 3PC Dark Three Materials (3/5) • Dark Watering Materials (4/5) (Gansu quest) • Dark Floating Materials (5/5) (Balance quest)
-- **Type:** Collection
-- **Requirements:** Collect 20 Bones, 10 Blue Essence, 15 Refined Dust, 20 Pieces of Parchment, 50 Rat Tails
-- **Rewards:** 5 Leafsung Keys
-- **Recommendations:** Same as I said for Dark Luciola Materials. I'm always overstocked on Golden Chests and understocked on Leafsung Keys, so this is heaven for me.
-
-### Dark Watering Materials (4/5) - Gansu
-
-- **Location:** Gansu Watering Hole
-- **Quest Path:** (open via DFO MQ12/Well of Lost Souls) • LF Dark Luciola Materials (1/5) • MT Dark Tree Materials (2/5) • 3PC Dark Three Materials (3/5) • **Dark Watering Materials (4/5)**  • Dark Floating Materials (5/5) (Balance quest)
-- **Type:** Collection
-- **Requirements:** Deliver 20 Vials Blue Essence Ink
-- **Rewards:** 1 Golden Chest, 1 Leafsung Key, 1 White Fur
-- **Recommendations:** Obviously you'll have to come back to the Desert to spend this reward, but 3PC is lovely this time of year. You might need to gather Glass Bars before you head back to Gansu, and consider getting enough for 25 rather than just 20 Blue Essence Ink.
-
 ### A Darkened Forest - BC
 
 - **Location:** Base Camp
@@ -950,21 +657,16 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 ### Deeper Forest Hunting - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • **Deeper Forest Hunting** • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • **Deeper Forest Hunting** • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
 
 ### Defeating a Droxa Drove - SurfaceC
 
 - **Location:** Raina Surface Camp
 - **Unlocked by:** Raina Expedition Trail: Raina Surface Camp (Riza quest)
-
-### Deliver With A Smile - DFO
-
-- **Location:** Dark Forest Outpost
-- **Unlocked by:** Balance MQ5/The Water Calls
-- **Type:** Collection
-- **Requirements:** Deliver 15 each: Leafsung Ink, Spider Poison, Red Dye
-- **Rewards:** 1 Dark Forest Amulet
-- **Recommendations:** This is an Inventory item, an Accessory that gives you +10 Luck. Decide for yourself if it's worth it for you.
+- **Type:** Battle
+- **Requirements:** Defeat 3 Droxa
+- **Rewards:** 1 River Chest, Wardrobe: Raina Gold Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;722-raina-gold-necklace-4742-87811.png
+- **Recommendations:** I like the Raina Gold Necklace, personally, and a River Chest is always nice, and the Droxa make me feel rich. Go for it!
 
 ### A Desert Exploration - DigS
 
@@ -976,33 +678,19 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Gansu Watering Hole
 - **Unlocked by:** 3PC MQ5/A Way South
 
-### Dessti's New Home - DFO
-
-- **Location:** Dark Forest Outpost
-- **Unlocked by:** Balance MQ5/The Water Calls
-- **Type:** Collection
-- **Requirements:** Gather 50 Hardwood, 15 Steel, 25 Reinforced Rope, and 100 Raw Fabric
-- **Rewards:** Wardrobe: Dark Forest Pin https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;darkforest&#95;pin.png
-- **Recommendations:** How much do you like that pin? It's lovely. It may or may not be worth 25 Reinforced Rope and 15 Steel and 50 Hardwood to you (though Raw Fabric is so cheap, it's no big to spend it). Take it or leave it, as you please!
-
 ### Dí Production - Riza
 
 - **Location:** Riza Rivertown
 - **Unlocked by:** Riza MQ6/Journey Upriver
+- **Type:** Collection
+- **Requirements:** Gather 10 Dí Bags
+- **Rewards:** 1 Stempo
+- **Recommendations:** Do… do you really want to do this? It's up to you. When I repeat the game multiple times, it's pretty easy to scrounge up 6500 Coins to buy this and cash out. But there are so many cheaper ways to get Stempos, and so many better uses for the resources it takes to get Dí. Completionists only, and I'd save for later even then.
 
 ### Digging Into Desert Sands - Gansu
 
 - **Location:** Gansu Watering Hole
 - **Desert Expedition Trail:** (open via Gansu MQ8/Dust to Dust) • **Digging Into Desert Sands** • DigS Question to Axe • IN ANY ORDER: [ Ruins Searching South • Ruins Navigating North • Ruins Withdrawing West • Ruins Excavating East ] • Ruins Tunnel Locked On• (access to Shrine of Ages)
-
-### Dirt to Dust - HuntS4
-
-- **Location:** Available in Luciola Forest
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • **Dirt to Dust** • HuntS4 Celebrate Joy • ???
-- **Type:** Streak, Collection
-- **Requirements:** Have Hunt Map Piece 10 and attain 5-day Streak
-- **Rewards:** Wardrobe: Hunt Golden Brooch https://4thewords.com/media/wardrobe/featured/male/wm&#95;652-hunt-golden-brooch-3827-31075.png
-- **Recommendations:** What's to lose by picking it up? And it lets you continue with the Hunt!
 
 ### A Distant Figure - HuntS2
 
@@ -1019,33 +707,6 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Mining Site
 - **Unlocked by:** Alien Expedition Trail: SpaceS Technology & Dinti
 
-### Dry Stale Air CAVE
-
-- **Location:** Cave
-- **Unlocked by:** CAVE MQ3/Sharpening Stubborn Stones
-- **Type:** Battle
-- **Requirements:** Defeat 5 Tacin and 5 Fosfa
-- **Rewards:** Wardrobe: Tacin Ribcage https://4thewords.com/media/wardrobe/featured/female/wf&#95;1259-corset-8906-74625.png
-- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
-
-### Dust Mote Swarms - PG
-
-- **Location:** Purple Gate
-- **Unlocked by:** PG MQ2/A Desolate Path
-- **Type:** Battle
-- **Requirements:** Defeat 100 Ardid
-- **Rewards:** Wardrobe: Extended Chain Earrings https://4thewords.com/media/wardrobe/featured/female/wf&#95;1189-chain-earrings-elfears-8369-40440.png
-- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
-
-### A Dusted Experiment - LF
-
-- **Location:** Luciola Forest
-- **Unlocked by:** DFO MQ1/Ousting the Outpost
-- **Type:** Battle, Collection
-- **Requirements:** Defeat 20 Belasi, collect 10 Nets, collect 10 Reinforced Rope
-- **Rewards:** 3 Leafsung Ink
-- **Recommendations:** If you're gonna do it, pick it up as soon as it appears and dovetail it with Nasty, Dust Air. But there are better ways to get Leafsung Ink these days (such as the Mama Tree Bite My Boots! quest...)
-
 ### Eat the Leaves? - GL
 
 - **Location:** Guardian's Lair
@@ -1055,15 +716,6 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 
 - **Location:** Mama Tree
 - **Unlocked by:** MT MQ1 / To Great Heights
-
-### Eensy Weensy Oncara - PG
-
-- **Location:** Purple Gate
-- **Unlocked by:**  PG MQ1/Then The Bird Said
-- **Type:** Battle
-- **Requirements:** Defeat 12 Oncara
-- **Rewards:** Wardrobe: Crystal Necklace https://4thewords.com/media/wardrobe/featured/female/wf&#95;1030-crystal-necklace-7561-86961.png
-- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
 
 ### Elder Library Assistants - HuntS1
 
@@ -1079,6 +731,10 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Balance MQ1/ Help From A Master
+- **Type:** Battle
+- **Requirements:** Defeat 5 Illi, 5 Kiru, 5 Reenu, 5 Xin, and 5 Nuig
+- **Rewards:** 1 River Chest
+- **Recommendations:** For those counting at home, this is a minimum of 4 Areas in 3 Regions (Reenu are available only in Luciola, Illi in Mama Tree, Kiru at this point in 3PC, and Nuig in Balance, with Xin everywhere). Which makes it pair really well with Venomous Villains, which also involves a lot of travel and Nuig. I personally like the excuse to travel and battle, but YMMV. And while you're traveling, consider those 5 Lorsa Nests for the Scouting Lorsa quest.
 
 ### Encourage an Ecosystem (4/4) - RLab
 
@@ -1089,6 +745,10 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 
 - **Location:** Raina Surface Camp
 - **Raina Expedition Trail Route:** (open via Main Quest Highway Riza MQ6/Journey Upriver) • Riza Raina Surface Camp • **Energy Now, Tired Later** • SwampL Wading Through & Onwards (1/2) • SwampL Twisted Treacherous Trails (2/2) • SacredS A Worthy Offering
+- **Type:** Battle
+- **Requirements:** Defeat 10 Begala and 10 Rea &Pira
+- **Rewards:** Unlock Swamplands, Wardrobe: Golden Nose Piercing https://4thewords.com/media/wardrobe/featured/male/wm&#95;780-golden-nose-piercing-5300-55800.png
+- **Recommendations:** This is what unlocks the next area in Raina Expedition; I'd go for it.
 
 ### Enter Pan's Labyrinth - LF
 
@@ -1115,26 +775,6 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Mama Tree
 - **Unlocked by:** LF MQ4
 
-### Familiar Family Friends - DFO
-
-- **Location:** Dark Forest Outpost
-- **Unlocked by:** Balance MQ5/The Water Calls
-- **Type:** Battle
-- **Requirements:** Defeat:
-  - 5 Wignow
-  - 5 Desert Wignow
-  - 5 Dust Wignow
-  - 5 Nezthai
-  - 5 Zanthei
-  - 5 Sacer
-  - 5 Ascre
-  - 5 Belasi
-  - 5 Reenu
-  - 1 Dust Rudakai
-  - 1 Desert Rudakai
-- **Rewards:** Wardrobe: Dark Forest Roots Bracers https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;roots&#95;braces.png
-- **Recommendations:** Go ahead and pick it up and hold onto it if you have space. Obviously this is a long-term commitment! But some of it will take care of itself as you go. (Notice that three of the five monster requirements are going to be knocked out by the first Main Quest. Go on, grab it!)
-
 ### A Family Tree - MT
 
 - **Location:** Mama Tree
@@ -1155,37 +795,10 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Forward Base
 - **Forest Expedition Trail Route:** (open via MT MQ4 / Aid To An Elder) • MT New Adventurous Horizons •  BC Hard Day's Walk • **Feeding the Lighthouse** • IN ANY ORDER [FB Javelin Toss West • FB North: Homeward Bound • FB Stone's Throw East]
 
-### Fetch! Play! Battle! - DFO
-
-- **Location:** Dark Forest Outpost
-- **Unlocked by:** DFO MQ11/To Hound Babu
-- **Type:** Battle
-- **Requirements:** Defeat 5 Babu
-- **Rewards:** 1 Dark Forest Sword
-- **Recommendations:** Whoza good boy? Babu's gonna get you a Dark Forest Sword, which has as much Attack as any other Weapon1 and more Luck than the Steel Mace that ties it. I like this quest.
-
 ### Fighters, Friends, Foes - ShrineCar
 
 - **Location:** Shrine of Ages
 - **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Carnival Time Bracelet
-
-### Fighting Fallen Soldiers (1/2) - CAVE
-
-- **Location:** Cave
-- **Quest Path:** (open via CAVE MQ 5/It was Like Lightning) • **Fighting Fallen Soldiers 1/2** • CAVE Fighting Fallen Soldiers 2/2
-- **Type:** Battle
-- **Requirements:** Defeat 10 Gormist & 10 Olanat
-- **Rewards:** Wardrobe: Olanat Hair https://4thewords.com/media/wardrobe/featured/male/wm&#95;1220-mushroom-hat-8603-56013.png
-- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
-
-### Fighting Fallen Soldiers (2/2) - CAVE
-
-- **Location:** Cave
-- **Quest Path:** (open via CAVE MQ 5/It was Like Lightning) • CAVE Fighting Fallen Soldiers 1/2 • **Fighting Fallen Soldiers 2/2**
-- **Type:** Battle
-- **Requirements:** Defeat 20 Gormist & 20 Olanat
-- **Rewards:** Wardrobe: Tainted Sword https://4thewords.com/media/wardrobe/featured/male/wm&#95;1274-sword-8958-92313.png
-- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
 
 ### First Stempo - Gansu
 
@@ -1196,19 +809,14 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 
 see **Lead the Way**
 
-### Flutters Shy & High (4/4) - DFO
-
-- **Location:** Dark Forest Outpost
-- **Quest Path:** (open via DFO MQ12/Well of Lost Souls) • DFO Step Into The Deadlands (1/4) • DFO Hounding the Dead (2/4) • DFO Message in a Spirit (3/4) • **Flutters Shy & High (4/4)** 
-- **Type:** Battle
-- **Requirements:** Defeat 10 Spirit Gordiliana
-- **Rewards:** Wardrobe: Gordiliani Spirit Pet https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;gordi&#95;butterfly&#95;pet.png
-- **Recommendations:** Gotta go to Ruins for Gordiliani, and as soon as you finish this quest Spirit Griffes appear alongside them. Maybe check out Balance after that. And enjoy your adorable, adorable Gordiliani Spirit Pet.
-
 ### Flying Past Sparks - HuntS3
 
 - **Location:** Available in Luciola Forest
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
+- **Type:** Battle
+- **Requirements:** Defeat 5 Nuig
+- **Rewards:** Hunt Map Piece 8, 10 Hunter Tokens
+- **Recommendations:** The Season of Growth seems to be favoring us with a gentler way to obtain Hunt Map Pieces so far - we do NOT need to complete Moving Flora to unlock this quest. Still, we do need to complete this one to continue on the Hunt Map Pieces chain, so let's dig in.
 
 ### Fool Me Once - ShrineFools
 
@@ -1235,28 +843,10 @@ see **Lead the Way**
 - **Location:** Underground Ruins
 - **Unlocked by:** Desert Expedition Trail: DigS Question to Axe
 
-### Fuzzy Cave Pillows - CAVE
-
-- **Location:** Cave
-- **Unlocked by:** CAVE MQ2/Talk with Shadow
-- **Type:** Battle
-- **Requirements:** Defeat 5 Attwo
-- **Rewards:** Wardrobe: Attwo Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1258-claws-necklace-8904-31953.png
-- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
-
 ### Gansu Watering Hole Puffs - Gansu
 
 - **Location:** Gansu Watering Hole
 - **Quest Path:** (open via 3PC MQ5/A Way South) • Gansu: Watering Hole Puna • **Gansu Watering Hole Puffs** 
-
-### The Gate Path (4/4) - DFO
-
-- **Location:** Dark Forest Outpost
-- **Quest Path:** (open via DFO MQ12/Well of Lost Souls) • DFO Reinforced Ardi Lamp Station (1/4) • DFO Light Up the Outpost (2/4) • DFO The Path South (3/4) • **The Gate Path (4/4)** 
-- **Type:** Collection
-- **Requirements:** Deliver 50 Reinforced Ardi Lamps
-- **Rewards:** Wardrobe: Ardi Lamp https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;hands&#95;ardi&#95;lamp&#95;yellow.png
-- **Recommendations:** Yes, this is the end of the quest chain.
 
 ### Gather Lucky Stars - ShrineCO
 
@@ -1267,21 +857,37 @@ see **Lead the Way**
 
 - **Location:** Raina Surface Camp
 - **Unlocked by:** Raina Expedition Trail: Raina Surface Camp (Riza quest)
+- **Type:** Battle
+- **Requirements:** Defeat 15 Jaihri
+- **Rewards:** 3 Harpoons
+- **Recommendations:** You'll have to go back to Riza to fight Jaihri, but... go ahead and go for it! Those Harpoons are always nice to have on hand, and Jaihri get you lots of valuable Hardwood (which at this point, you may be wanting to think about selling for Coins).
 
 ### Gone Fishing - Balance
 
 - **Location:** Floating City of Balance
 - **Quest Path:** (open via Riza MQ6/Journey Upriver) • **Gone Fishing** • Balance Gone Fishing Part 2 • Balance Gone Fishing Part 3
+- **Type:** Battle
+- **Requirements:** Defeat 25 Puna
+- **Rewards:** 100 Coins
+- **Recommendations:** This quest isn't worth a ton on its own (the Wooden Fishing Rods to fight Puna are pretty expensive, definitely more than 100 Coins). Definitely mix it with other Puna quests if possible, such as Balance's Main Quest 2 or the quests from prior regions. The Gone Fishing quest sequence has three long quests for a cumulative 375 Puna (con) and an absolutely gorgeous River Stone Necklace wardrobe item at the end (plus). Up to you.
 
 ### Gone Fishing Part 2 - Balance
 
 - **Location:** Floating City of Balance
 - **Quest Path:** (open via Riza MQ6/Journey Upriver) • Balance Gone Fishing • **Gone Fishing Part 2** • Balance Gone Fishing Part 3
+- **Type:** Battle
+- **Requirements:** Defeat 100 Puna
+- **Rewards:** 1 Wooden Chest + 1 Wooden Key, Wardrobe: Puna Earrings
+- **Recommendations:** Again, not worth much on its own. But if you're here, you've already defeated 25 Puna. What's 100 more? And there's funky Puna Earrings in it for you. https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;puna&#95;earrings.png And there's that lovely River Stone Necklace in the future.
 
 ### Gone Fishing Part 3 - Balance
 
 - **Location:** Floating City of Balance
 - **Quest Path:** (open via Riza MQ6/Journey Upriver) • Balance Gone Fishing • Balance Gone Fishing Part 2 • **Gone Fishing Part 3** 
+- **Type:** Battle
+- **Requirements:** Defeat 250 Puna
+- **Rewards:** Wardrobe: River Stone Necklace
+- **Recommendations:** After you're done with this, you may never have to touch another Puna again. Isn't that a lovely thought? And you'll have the Necklace. Look! https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;crab&#95;necklace.png Isn't it gorgeous?
 
 ### Gordi & Griffe Gather - Ruins
 
@@ -1302,36 +908,67 @@ see **Lead the Way**
 
 - **Location:** Available in Luciola Forest
 - **Quest Path:** (open via Hunt Trail: HuntS2 Stumbling Upon Sheep) • **Growing Improvement** • HuntS3 Growing Your Perception 2/3 • HuntS3 Growing Your Tenacity 3/3 • HuntS3 Growing Your Valor 4/4
+- **Type:** Battle
+- **Requirements:** Defeat 10 Jaihri
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** Check out the list of quests Jaihri have to their name - there's quite a few! This will dovetail with a lot of quests in the regular game.
 
 ### Growing Your Perception 2/3 - HuntS3
 
 - **Location:** Available in Luciola Forest
 - **Quest Path:** (open via Hunt Trail: HuntS2 Stumbling Upon Sheep) • HuntS3 Growing Improvement • **Growing Your Perception 2/3** • HuntS3 Growing Your Tenacity 3/3 • HuntS3 Growing Your Valor 4/4
+- **Type:** Battle
+- **Requirements:** Defeat 5 Castu, 3 Isartu, and 1 Water Rudakai
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** A lot here rides on how much you like the monsters, and how much you like the rewards. You'll probably want to see whether, as in previous Seasons, this questline culminates in a fifth quest with a nifty wardrobe reward. (I'm writing this just as this quest released and the chain is only three quests long; hopefully I remember to update when the answer drops next month.) In the meantime, you may want to keep up just to save time later, or you may want to take your time.
 
 ### Growing Your Tenacity 3/3 - HuntS3
 
 - **Location:** Available in Luciola Forest
 - **Quest Path:** (open via Hunt Trail: HuntS2 Stumbling Upon Sheep) • HuntS3 Growing Improvement • HuntS3 Growing Your Perception 2/3 • **Growing Your Tenacity 3/3** • HuntS3 Growing Your Valor 4/4
+- **Type:** Battle 
+- **Requirements:** Defeat 2 Xyplos
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** Same as the previous quest: depends whether it appeals and whether you like the prospect of the end of the questline.
 
 ### Growing Your Valor 4/4 - HuntS3
 
 - **Location:** Available in Luciola Forest
 - **Quest Path:** (open via Hunt Trail: HuntS2 Stumbling Upon Sheep) • HuntS3 Growing Improvement • HuntS3 Growing Your Perception 2/3 • HuntS3 Growing Your Tenacity 3/3 • **Growing Your Valor 4/4** 
+- **Type:** Battle 
+- **Requirements:** Defeat 1 Wyvern
+- **Rewards:** Wardrobe: Fur Ankle Boots https://4thewords.com/media/wardrobe/featured/male/wm&#95;featured&#95;Boots&#95;Ankle&#95;Fur&#95;Black.png
+- **Recommendations:** I'm personally quite fond of Wyverns, so for me this is a no-brainer. Given that it's unlocked. I don't think I'd rush through the "Growing" line for this.
 
 ### Growth & Restoration - SacredS
 
 - **Location:** Raina Sacred Site
 - **Unlocked by:** Raina Expedition Trail: SwampL Twisted Treacherous Trails (2/2)
+- **Type:** Battle, Collection
+- **Requirements:** Defeat 5 Ognimaf and deliver 50 Swamp Moss
+- **Rewards:** 1 River Chest and Wardrobe: Small Gold Crown https://4thewords.com/media/wardrobe/featured/male/wm&#95;733-raina-gold-crown-small-4796-18014.png
+- **Recommendations:** It's small, it's cheap, it gets you a River Chest. Go for it!
 
 ### Growth in Friendship - HuntS3
 
 - **Location:** Available in Luciola Forest
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
+- **Type:** Battle
+- **Requirements:** Defeat 1 each: Rea & Pira, Yala, Knusha, Vota, Vaktra, Droxa, Begala
+- **Rewards:** 50 Hunter Tokens
+- **Recommendations:** This pairs really well with at least one Surface Camp quest, so keep an eye out for that. Just.... don't fight any of these monsters in Riza, because you'll be paying more Resources than you would fighting them in Raina.
 
 ### Growth Pains - HuntS3
 
 - **Location:** Available in Luciola Forest
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
+- **Type:** Battle
+- **Requirements:** Defeat:
+  - 3 Osaril
+  - 2 Trainees
+  - 1 Furoxi
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** This can dovetail with a few Riza Rivertown quests, but otherwise, no hurries. Take at your own pace.
 
 ### Guard Your Feet - 3PC
 
@@ -1366,20 +1003,18 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Available in Luciola Forest
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
+- **Type:** Collection
+- **Requirements:** Deliver:
+  - 10 Rusty Amulets
+  - 5 Rusty Pendants
+  - 1 Gold Bar
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** Unless you have 10 Rusty Amulets just lying around, I wouldn't hurry on this. (Ditto on Rusty Pendants and Gold, but you're more likely to actually have them lying around.) The Hunter Tokens just aren't worth as much in and of themselves. Still, fun little thing to do!
 
 ### Herding the Herders - HuntS2
 
 - **Location:** Available in the Luciola Forest 
 - **Unlocked by:** Hunt Trail: HuntS2 No Wrong Path
-
-### Hounding the Dead (2/4) - DFO
-
-- **Location:** Dark Forest Outpost
-- **Quest Path:** (open via DFO MQ12/Well of Lost Souls) • DFO Step Into The Deadlands (1/4) • **Hounding the Dead (2/4)** • DFO Message in a Spirit (3/4) • DFO Flutters Shy & High (4/4)
-- **Type:** Battle
-- **Requirements:** Defeat 10 Molox
-- **Rewards:** 3 Bone Keys and 1 Bone Chest
-- **Recommendations:** Molox are pretty simple, apart from the price tag (did you finish Bone To Pick? if not, you might consider taking it up, because those Burhar drop the Steel Chains you'll need)
 
 ### Huge, Gigantic, Enormous - MT
 
@@ -1389,40 +1024,34 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### The Hunt Begins
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • **The Hunt Begins** • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
-
-### I Am the Night - CAVE
-
-- **Location:** Cave
-- **Unlocked by:** CAVE MQ1/Meet the Shadow
-- **Type:** Battle
-- **Requirements:** Defeat 20 Tacin
-- **Rewards:** Wardrobe: Tacin Shoulder Pads https://4thewords.com/media/wardrobe/featured/male/wm&#95;1225-bat-wing-shoulder-pads-8613-82800.png
-- **Recommendations:** There's another Tacin-oriented quest later, so if you're Really Concerned about having to fight more 150-word monsters, you can delay this. I wouldn't let that delay me, though.
-
-### Ideas Brought to Life - HuntS4
-
-- **Location:** Available in Luciola Forest
-- **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
-- **Type:** Battle
-- **Requirements:** Defeat 3 Weekiwa
-- **Rewards:** Hunt Map Piece 11, 10 Hunter Tokens
-- **Recommendations:** You know the drill. Weekiwa is clearly a water entity, so my subtle hint dovetails with the quest description to point you to look in water communities.
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • **The Hunt Begins** • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
 
 ### Infected Raina Part 1 - SurfaceC
 
 - **Location:** Raina Surface Camp
 - **Quest Path:** (open via Raina Expedition Trail: Raina Surface Camp (Riza quest)) • **Infected Raina Part 1** • SurfaceC Infected Raina Part 2 • SurfaceC Infected Raina Part 3 • SurfaceC 4 The Infected
+- **Type:** Battle, Collection
+- **Requirements:** Defeat 5 Vota, 5 Knusha, & Pay 10 Nets, and 10 Leaves
+- **Rewards:** 1 Dust Water, unlock Infected Raina 2
+- **Recommendations:** We mentioned that this is the region of convoluted sidequests, yes? Infected Raina 3 has some nice benefits. So for this, go ahead and fight your battles for Vota and Knusha, then go to the Forest to farm Vine Nets and Leaves as needed. Or pursue the Hunt Quests against Velts, the ones that start with "Battle of", to eventually unlock Dust Velts, who drops Nets. (And I'd *strongly recommend* getting a jump on Infected Raina Part 2 before turning this in, for morale. That means 30 MORE Rope, 30 MORE Leaves, and 30 MORE Nets, plus all the Rope and River Grass to fight more Vota and Knusha, which means you'll probably need to farm 40 Vine Nets in Mama Tree, have 40 Leaves, then head over to the Desert and get 40 Steel and 40 Stone and craft your Nets). (And if you want to go all the way through to Part 4, that's up by 45 more for each of the above.) If you do the battles last, you might be able to pick up the next quest immediately and enjoy the benefits of overlap.
 
 ### Infected Raina Part 2 - SurfaceC
 
 - **Location:** Raina Surface Camp
 - **Quest Path:** (open via Raina Expedition Trail: Raina Surface Camp (Riza quest)) • SurfaceC Infected Raina Part 1 • **Infected Raina Part 2** • SurfaceC Infected Raina Part 3 • SurfaceC 4 The Infected
+- **Type:** Battle, Collection
+- **Requirements:** Pay 30 Net and 30 Leaves, and defeat 10 Vota, 10 Knusha, 10 Yala
+- **Rewards:** 2 Dust Water, 1 River Chest, unlock Infected Raina 3
+- **Recommendations:** Again, I'd do the battles first and then roam to the Forest and Desert to collect the rest. The resource calculators are almost required at this point.
 
 ### Infected Raina Part 3 - SurfaceC
 
 - **Location:** Raina Surface Camp
 - **Quest Path:** (open via Raina Expedition Trail: Raina Surface Camp (Riza quest)) • SurfaceC Infected Raina Part 1 • SurfaceC Infected Raina Part 2 • **Infected Raina Part 3** • SurfaceC 4 The Infected
+- **Type:** Battle
+- **Requirements:** Defeat 10 Wyverns
+- **Rewards:** 3 Dust Water, Wardrobe: Raina Mask https://4thewords.com/media/wardrobe/featured/female/wm&#95;featured&#95;raina&#95;mask.png , ability to craft Raina Sword and Raina Bracelet
+- **Recommendations:** Almost there! You got FORTY NETS, this is a piece of cake in comparison! (Start collecting River Stones; you'll need 1000 of them to get both your shiny new beauties in the store.)
 
 ### Inking By Number (2/5) - MT
 
@@ -1440,17 +1069,16 @@ Note: NOT POSSIBLE to complete till Riza Rivertown is unlocked
 
 - **Location:** Available in Luciola Forest
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
-
-### Into the Woods - HuntS4
-
-- **Location:** Available in Luciola Forest
-- **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
 - **Type:** Battle
-- **Requirements:** Defeat 3 Molox, 4 Osalyu, 10 Spirit Ardia, 1 Lycosta, 1 Chaensi
-- **Rewards:** 50 Hunter Tokens
-- **Recommendations:** A very challenging quest, which I completed for completionism's sake alone. This dovetails with multiple Dark Forest Outpost quests, but otherwise, there's no rush to grab it.
+- **Requirements:** Defeat 20 Puna
+- **Rewards:** 15 Hunter Tokens & Hunt Map Piece 9
+- **Recommendations:** The trend continues! Once again, the quest to get Hunt Map Piece 9 does not depend on the quest to get Hunt Map Piece 8. (One of my test accounts is in the interesting position of possessing Hunt Map Piece 9 and not 8.) Still, you'll need this to keep the main Hunt line going, so I suppose it's worth the Puna. (There are approximately 423,293,478 Puna quests in the game, and after completing all of them, I'm rather tired of the fishies. For those who have not completed them, I recommend checking out what quests overlap, especially in Balance.)
 
 ### The Invisible Ink (5/5) - MT
+
+Note: NOT POSSIBLE to complete till partway through the Floating City of Balance
+
+Monsters and Resources listed here will not be linked with this quest outside the All Resources section.
 
 - **Location:** Mama Tree
 - **Quest Path Route:** (open via MT MQ 4/ Aid To An Elder) • MT Tinkering With Leafsung (1/5) • MT Inking By Number (2/5) • MT Inking of Dust (3/5) • MT Thinking of Ink (4/5) • **The Invisible Ink (5/5)** 
@@ -1469,6 +1097,10 @@ Note: NOT POSSIBLE to complete till Riza Rivertown is unlocked
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Balance MQ1/ Help From A Master
+- **Type:** Collection
+- **Requirements:** Deliver 10 Nuig String and 25 Algae
+- **Rewards:** 3 River Keys
+- **Recommendations:** Grab this as soon as it will be filled instantly. (If you're doing the Nuig sidequests, this will be pretty quickly. Or if you're doing any Castu sidequests.) 3 easy River Keys. OTOH Nuig String is a bit of a pain to grind deliberately, so probably don't do this if you're giving the Nuig and Castu sidequests a miss for now.
 
 ### Itsy, Bitsy, Teeny - MT
 
@@ -1483,16 +1115,7 @@ Note: NOT POSSIBLE to complete till Riza Rivertown is unlocked
 ### Joining the Hunt - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • **Joining the Hunt** • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
-
-### Jubilant and Strong - HuntS4
-
-- **Location:** Available in Luciola Forest
-- **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
-- **Type:** Battle
-- **Requirements:** Defeat 100 of any monster
-- **Rewards:** 50 Hunter Tokens
-- **Recommendations:** Look! 50 Hunter Tokens for taking up a quest spot while you're doing other things! Not a bad deal... also easy to pick up later, if you'd rather. :)
+- **Hunt Trail Route:** (available from game open) • **Joining the Hunt** • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
 
 ### Just a Mean Green - BC
 
@@ -1515,6 +1138,10 @@ NOTE: This exact quest was offered during the Raina Festival in April 2020; if y
 
 - **Location:** Rebel Raina Hideout
 - **Unlocked by:** Raina Expedition Trail: SacredS A Worthy Offering
+- **Type:** Battle
+- **Requirements:** Defeat 1 each: Cafodu, Wisthu, Grongu, Drau
+- **Rewards:** Wardrobe: Wisthu's Flask https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;708-magic-ingridient-4628-49777.png (7 colors - black, white, blue, purple, yellow, red, green)
+- **Recommendations:** This is identical to the Pushing Back Rebels 1/3, so pick them up at the same time and get double results!
 
 ### Lead the Way/First Steps - LF
 
@@ -1538,30 +1165,12 @@ NOTE: This quest is almost impossible to complete until you've completed the que
 - **Location:** Impact Crater
 - **Alien Expedition Trail:** (open via 3PC MQ5/A Way South) • 3PC A Way North: Up The Mountain • **Learning to Breathe** • IN ANY ORDER: [SpaceS Technology & Dinti • SpaceS Orders to Repair]
 
-### Leatherbacks of the Cave - CAVE
-
-- **Location:** Cave
-- **Unlocked by:** CAVE MQ 7/Dam the Guilt
-- **Type:** Battle
-- **Requirements:** Defeat 3 Kohej
-- **Rewards:** Wardrobe: Spike Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1270-spike-necklace-8948-74022.png and Wardrobe: Spike Ankle Bracelet https://4thewords.com/media/wardrobe/featured/male/wm&#95;1267-spike-ankle-bracelet-8930-28893.png
-- **Recommendations:** This gets a boilerplate "sure, if you like!"
-
 ### Life's an Experiment - RLab
 
 NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July 2020; if you completed it then, it will not be available now.
 
 - **Location:** Research Lab
 - **Unlocked by:** Alien Expedition Trail: SpaceS Orders to Repair
-
-### Light Up The Outpost (2/4) - DFO
-
-- **Location:** Dark Forest Outpost
-- **Quest Path:** (open via DFO MQ12/Well of Lost Souls) • DFO Reinforced Ardi Lamp Station (1/4) • **Light Up the Outpost (2/4)** • DFO The Path South (3/4) • DFO The Gate Path (4/4)
-- **Type:** Collection
-- **Requirements:** Deliver 10 Reinforced Ardi Lamps
-- **Rewards:** 15 Pieces of Parchment
-- **Recommendations:** Take a peek ahead and think about how many Reinforced Ardi Lamps you want to craft. 5 isn't *too* expensive, but the amount keeps increasing, and the rewards don't look worth the cost at the moment. Unless you really like the wardrobe version of the Ardi Lamp available at the end.
 
 ### Lighten the Load - 3PC
 
@@ -1577,20 +1186,15 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Luciola Forest
 - **Unlocked by:** Riza MQ6/Journey Upriver
+- **Type:** Collection
+- **Requirements:** Deliver 20 River Grass and 10 River Stones
+- **Rewards:** 1 Wooden Chest
+- **Recommendations:** As it please you. Just remember that if you do Raina Surface Camp, you may at one point want 1,000 River Stones or more, and you may regret spending any before that sum is accrued. (The weapons you can craft with the River Stones are beautiful.)
 
 ### Local Shrine - Gansu
 
 - **Location:** Gansu Watering Hole
 - **Quest Path:** (open via Gansu MQ8) • Gansu Rebuild the Watering Hole • Gansu Respark the Flame • **Local Shrine** • Gansu First Stempo • (ability to craft Stempos), MT Study Break Time
-
-### The Long Walk - PG
-
-- **Location:** Purple Gate
-- **Unlocked by:** DFO MQ12/Well of Lost Souls
-- **Type:** Streak
-- **Requirements:** Attain 15-day Streak
-- **Rewards:** Wardrobe: Purple Gate Cape https://4thewords.com/media/wardrobe/featured/male/wm&#95;1242-cape-8753-75204.png
-- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
 
 ### Lovely Flower Crown - FB
 
@@ -1657,15 +1261,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Shrine of Ages
 - **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Polygon Time Bracelet
 
-### Message in a Spirit (3/4) - DFO
-
-- **Location:** Dark Forest Outpost
-- **Quest Path:** (open via DFO MQ12/Well of Lost Souls) • DFO Step Into The Deadlands (1/4) • DFO Hounding the Dead (2/4) • **Message in a Spirit (3/4**) • DFO Flutters Shy & High (4/4)
-- **Type:** Battle
-- **Requirements:** Defeat 10 Spirit Lorsini
-- **Rewards:** 1 Bones Chest & 1 Bone Key
-- **Recommendations:** Gotta go to Mama Tree to find Spirit Lorsini! Here's some of that "seeing the dead" the last Main Quest was talking about. This is a good time to catch up on some of the stuff for the Reinforced Ardi Lamp Station.
-
 ### Mighty Teraleo Hunter - IC
 
 - **Location:** Impact Crater
@@ -1680,24 +1275,19 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Available in Luciola Forest
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
+- **Type:** Streak
+- **Requirements:** Reach 5 Streak days in a row
+- **Rewards:** Hunt Map Piece 7, 10 Hunter Tokens
+- **Recommendations:** Pick up, hang on, beat out! We're in the rhythm now, and ready to keep going!
 
-# Side Quests, in Alphabetical Order: N-Z
+# Side Quests, in Alphabetical Order N-Z
 
-LAST UPDATED 26 OCT 2020
+LAST UPDATED 9 DEC 2020
 
 ### Nabia's Exploration - BC
 
 - **Location:** Base Camp
 - **Unlocked by:** Forest Expedition Trail: MT New Adventurous Horizons
-
-### Nasty, Dust Air - DFO
-
-- **Location:** Dark Forest Outpost
-- **Unlocked by:** Balance MQ5/The Water Calls
-- **Type:** Battle and Collection
-- **Requirements:** Defeat 20 Belasi; Collect 20 Reenu Wings, and 100 Dust 
-- **Rewards:** 1 Bones Chest
-- **Recommendations:** Belasi drop Reenu Wings, so you won't need to travel for that if you're low. You can pick this up immediately, but don't stress it till you get to the Main Quest that requires 12 Belasi anyway.
 
 ### Navigating North - Ruins
 
@@ -1715,11 +1305,20 @@ NOTE: This exact quest was offered during the Raina Festival in April 2020; if y
 
 - **Location:** Raina Surface Camp
 - **Unlocked by:** Raina Expedition Trail: Raina Surface Camp (Riza quest)
+- **Location:** Raina Surface Camp
+- **Type:** Wordcount, Streak
+- **Requirements:** Attain 5-day streak, write 5000 words
+- **Rewards:** 1 River Chest & Wardrobe: Algae Shirt https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;704-algae-top-4588-11016.png
+- **Recommendations:** Pick this up immediately as you have nothing to lose.
 
 ### New River Barge - Riza
 
 - **Location:** Riza Rivertown
 - **Unlocked by:** Riza MQ6/Journey Upriver
+- **Type:** Collection
+- **Requirements:** Get 25 Hardwood, 10 Steel, 10 Wood, 8 Rope, 15 River Stone, and 5 Raw Fabric
+- **Rewards:** 5 Stone Keys
+- **Recommendations:** Five Stone Keys. FIVE STONE KEYS. Weigh that against the costs, but… FIVE STONE KEYS. Totally worth it for me. 
 
 ### New Style - LF
 
@@ -1734,20 +1333,15 @@ see **Luciola Lanterns**
 
 - **Location:** Swamplands
 - **Unlocked by:** Raina Expedition Trail: SurfaceC Energy Now, Tired Later
+- **Type:** Battle
+- **Requirements:** Defeat 10 Swamp Wignow
+- **Rewards:** 50 Coins & Wardrobe: Bone Shoulder Pads https://4thewords.com/media/wardrobe/featured/male/wm&#95;717-bone-shoulder-pads-4704-43502.png
+- **Recommendations:** Up to you. I find Swamp Wignow lovely opponents, but the rewards are unspectacular.
 
 ### No Wrong Path - HuntS2
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • **No Wrong Path** • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
-
-### Nooks and Crannies - CAVE
-
-- **Location:** Purple Gate
-- **Unlocked by:** PG MQ 10/A Familiar Fight
-- **Type:** Streak
-- **Requirements:** Attain a 15-day Streak
-- **Rewards:** Wardrobe: Wet Hair https://4thewords.com/media/wardrobe/featured/female/wf&#95;1240-wethair-8725-22131.png
-- **Recommendations:** This gets a boilerplate "sure, if you like!"
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • **No Wrong Path** • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
 
 ### North: Homeward Bound - FB
 
@@ -1763,20 +1357,15 @@ see **Luciola Lanterns**
 
 - **Location:** Available in Luciola Forest
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
+- **Type:** Wordcount
+- **Requirements:** Write 10K Words
+- **Rewards:** 15 Hunter Tokens
+- **Recommendations:** I will always recommend wordcount quests, because they will always fill themselves without you having to think about it. Win/win.
 
 ### Oh, Endless Possibilities! - HuntS2
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • **Oh, Endless Possibilities!** • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
-
-### On the Wrong Path - HuntS4
-
-- **Location:** Available in Luciola Forest
-- **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
-- **Type:** Battle
-- **Requirements:** Defeat 3 Infected Golem
-- **Rewards:** 25 Hunter Tokens
-- **Recommendations:** This one requires monsters from midway through the Purple Gate, and it's entirely optional for progressing the Hunt. (It also dovetails with at least one PG quest.)
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • **Oh, Endless Possibilities!** • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
 
 ### One Hundred Creatures - BC
 
@@ -1804,6 +1393,10 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Riza Rivertown
 - **Unlocked by:** Gansu MQ8/Dust to Dust
+- **Type:** Battle
+- **Requirements:** Defeat 10 Osaril
+- **Rewards:** 2 Harpoons
+- **Recommendations:** Great for helping with the Battle Ready quest, and for hunting Patliadu with Amateur and Apprentice Fisherman; not-so-great use of Vine Nets, which suddenly look a lot more precious if you take up the giant later-game sidequests that require 120 of them. If you have a sane sense of proportion and can pace yourself, though, there's no reason not to do it.
 
 ### Our Waymark Stones - HuntS2
 
@@ -1818,16 +1411,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### A Past Not Forgotten - HuntS1
 
 - **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • **A Past Not Forgotten** • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
-
-### The Path South (3/4) - DFO
-
-- **Location:** Dark Forest Outpost
-- **Quest Path:** (open via DFO MQ12/Well of Lost Souls) • DFO Reinforced Ardi Lamp Station (1/4) • DFO Light Up the Outpost (2/4) • **The Path South (3/4)** • DFO The Gate Path (4/4)
-- **Type:** Collection
-- **Requirements:** Deliver 25 Reinforced Ardi Lamps
-- **Rewards:** 25 Dust Chains
-- **Recommendations:** No, I haven't found a use for Dust Chains yet. The chief use of this quest is unlocking the next.
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • **A Past Not Forgotten** • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
 
 ### Peace and Sunflowers - ShrineCar
 
@@ -1839,37 +1423,10 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Shrine of Ages
 - **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Birds Time Bracelet
 
-### Pieces For Peace - DFO
-
-- **Location:** Dark Forest Outpost
-- **Quest Path:** (open via Balance MQ5/The Water Calls) • DFO A Shaman's Rope • **Pieces for Peace** 
-- **Type:** Collection
-- **Requirements:** Collect 35 Rat Tails
-- **Rewards:** 1 Bones Chest
-- **Recommendations:** Dooo iiiiittt. Just make sure you keep Pit of Nightmares in mind while you're doing it.
-
-### Pit of Nightmares - DFO
-
-- **Location:** Dark Forest Outpost
-- **Unlocked by:** Balance MQ5/The Water Calls
-- **Type:** Battle
-- **Requirements:** Defeat 250 Chu
-- **Rewards:** Wardrobe: Dark Forest Bones Skirt https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;darkforest&#95;skirt.png
-- **Recommendations:** Pick up immediately if you have space, complete at leisure. You'll be battling 12 Chu for the Main Quests, so it's up to you how long to wait. Also, Chu are your best source of Rat Tails, so if you want to do any of those quests, this kind of works as a doubling up. (I do adore that skirt. Totally worth 25K words.)
-
 ### Poly Wants a Pie - ShrinePoly
 
 - **Location:** Shrine of Ages
 - **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Polygon Time Bracelet
-
-### Preventing Purple Power-Ups - PG
-
-- **Location:** Purple Gate
-- **Unlocked by:**  PG MQ1/Then The Bird Said
-- **Type:** Battle
-- **Requirements:** Defeat 20 Vibidi and 3 Oncara
-- **Rewards:** 1 Bones Chest & 1 Bone Key
-- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
 
 ### Prime Birb Time - ShrineBird
 
@@ -1885,6 +1442,10 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Available in Luciola Forest
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
+- **Type:** Battle
+- **Requirements:** Defeat 20 Caricaco
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** Check out other Caricaco quests in Balance before completing this. There's a reason the info for this quest references "Tambo Snacks". "River Walkers" is also worth doubling up with this.
 
 ### Projecting Light - RLab
 
@@ -1947,21 +1508,37 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Rebel Raina Hideout
 - **Quest Path:** (open via Raina Expedition Trail: SacredS A Worthy Offering) • **Pushing Back Rebels 1/3** • Pushing Back Rebels 2/3 (Hideout quest) • Pushing Back Rebels 3/3 (Hideout quest)
+- **Type:** Battle
+- **Requirements:** Defeat 1 each: Cafodu, Drau, Wisthu, Grongu
+- **Rewards:** 5 Reinforced Rope and Wardrobe: Large Gold Crown https://4thewords.com/media/wardrobe/featured/male/wm&#95;732-raina-gold-crown-large-4794-33911.png
+- **Recommendations:** I like the challenge of this line, but admittedly some might find it less than incredibly useful. It is, however, an excellent excuse to battle several monsters with excellent drops. (And for this one, an excellent crown.) This particular quest doubles with Knocking Down Rebels, as they have the same requirements.
 
 ### Pushing Back Rebels (2/3) - Hideout
 
 - **Location:** Rebel Raina Hideout
 - **Quest Path:** (open via Raina Expedition Trail: SacredS A Worthy Offering) • Pushing Back Rebels 1/3 (Hideout quest) • **Pushing Back Rebels 2/3** • Pushing Back Rebels 3/3 (Hideout quest)
+- **Type:** Battle
+- **Requirements:** Defeat 3 each: Cafodu, Drau, Wisthu, Grongu
+- **Rewards:** 1 River Chest & 1 River Key
+- **Recommendations:** Again, the reward of fighting the monsters is greater than the result, unless you're particularly fond of the final bit of the chain.
 
 ### Pushing Back Rebels (3/3) - Hideout
 
 - **Location:** Rebel Raina Hideout
 - **Quest Path:** (open via Raina Expedition Trail: SacredS A Worthy Offering) • Pushing Back Rebels 1/3 (Hideout quest) • Pushing Back Rebels 2/3 (Hideout quest) • **Pushing Back Rebels 3/3** 
+- **Type:** Battle
+- **Requirements:** Defeat 5 each: Cafodu, Drau, Wisthu, Grongu
+- **Rewards:** Wardrobe: Raina Golden Warrior Mask https://4thewords.com/media/wardrobe/featured/male/wm&#95;779-golden-facemask-5298-53682.png
+- **Recommendations:** Why are you looking at this? Like you were going to complete the first two parts and not the final one? Ha. Nah, just go ahead and finish it out.
 
 ### Quench a Thirst - MT
 
 - **Location:** Mama Tree
 - **Unlocked by:** Riza MQ6/Journey Upriver
+- **Type:** Collection
+- **Requirements:** Deliver 25 Dí Bags
+- **Rewards:** 1 Wooden Chest & 1 Wooden Key
+- **Recommendations:** Hard pass until you finish the main game and move on to finishing up the corners; this is a waste of resources right now.
 
 ### Question to Axe - DigS
 
@@ -1972,15 +1549,10 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Riza Rivertown
 - **Raina Expedition Trail Route:** (open via Main Quest Highway Riza MQ6/Journey Upriver) • **Raina Surface Camp** • SurfaceC Energy Now, Tired Later • SwampL Wading Through & Onwards (1/2) • SwampL Twisted Treacherous Trails (2/2) • SacredS A Worthy Offering
-
-### Rebuild the Dock - DFO
-
-- **Location:** Dark Forest Outpost
-- **Unlocked by:** Balance MQ5/The Water Calls
-- **Type:** Collection
-- **Requirements:** Collect 150 Wood, 50 Hardwood, 150 Rope, 50 Reinforced Rope, 25 Steel Bars, and 25 Stone Blocks
-- **Rewards:** Wardrobe: Dark Forest Skirt https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;dark&#95;forest&#95;skirt&#95;blue.png
-- **Recommendations:** ... it depends how much you like that skirt. It really is pretty. It's also better as a long-term goal than a short-term one, I think. And since it's a pure Collection quest, you don't need to be holding onto it in your Questbook to be able to work on it.
+- **Type:** Battle
+- **Requirements:** Defeat 10 Yala and 5 Vota
+- **Rewards:** Unlock Raina Surface Camp
+- **Recommendations:** Do it! This area is a lot of fun, and a lot of water resources are marginally easier to grind in the Raina Expedition.
 
 ### Rebuild the Watering Hole - Gansu
 
@@ -1992,38 +1564,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Mining Site
 - **Unlocked by:** Alien Expedition Trail: SpaceS Technology & Dinti
 
-### Reflections for Improvement - CAVE
-
-- **Location:** Cave
-- **Unlocked by:** CAVE MQ8/The Final Fight
-- **Type:** Battle
-- **Requirements:** Defeat 4 Reflections
-- **Rewards:** Wardrobe: Reflection Puddle https://4thewords.com/media/wardrobe/featured/male/wm&#95;1227-avatar-reflection-puddle-8617-20633.png
-- **Recommendations:** Last quest in the Cave. Personally, I have  soft spot for Reflections with their lovely drops and patient timers, though YMMV. And of course there's the Reflection Puddle, which I love.
-
-### Reinforced Ardi Lamp Station (1/4) - DFO
-
-- **Location:** Dark Forest Outpost
-- **Quest Path:** (open via DFO MQ12/Well of Lost Souls) • **Reinforced Ardi Lamp Station (1/4)** • DFO Light Up the Outpost (2/4) • DFO The Path South (3/4) • DFO The Gate Path (4/4)
-- **Type:** Collection, Battle, Streak
-- **Requirements:** 
-  - Collect:
-    - 50 Wood
-    - 15 Rope
-    - 5 Steel Bars
-    - 50 Ardia Dust
-    - 50 Ardii Dust
-    - 50 Ardis Dust
-  - Maintain 15-day Streak
-  - Defeat:
-    - 1 Wetu
-    - 1 Tylu
-    - 1 Xuso
-    - 1 Osaril
-    - 1 Burhar
-- **Rewards:** 1 Bones Chest, 1 Bone Key, 5 Reinforced Ardi Lamps
-- **Recommendations:** If you want to do it, pick it up as soon as it's available, and see how you can dovetail it with the Step Into The Deadlands quest chain of battling the dead across Oge-Mai and Expedition. Be warned: if you want to complete this entire quest chain, you'll need more than 50 each of Ardi* Dust. More like 290 each...
-
 ### Respark the Flame - Gansu
 
 - **Location:** Gansu Watering Hole
@@ -2033,26 +1573,46 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Riza Rivertown
 - **Unlocked by:** Gansu MQ8/Dust to Dust
+- **Type:** Battle
+- **Requirements:** Defeat 15 Jaihri
+- **Rewards:** 100 Coins
+- **Recommendations:** Pick it up immediately; you'll be fighting 8 Jaihri for Main Quests anyway, and might as well get credit for them. (Though if you want to be hyper-efficient and also hyper-completionist, wait to fight the other 7 Jaihri till you open Raina Surface Camp and pick up the Jaihri quest there.)
 
 ### River Grass Supply - Riza
 
 - **Location:** Riza Rivertown
 - **Unlocked by:** Gansu MQ8/Dust to Dust
+- **Type:** Collection
+- **Requirements:** Gather 50 River Grass
+- **Rewards:** 1 Steel Boots
+- **Recommendations:** This is probably an easy win, and the cheapest way to get Steel Boots in the game. However, if you don't have a ton of River Grass on hand, consider saving it till the end of Riza. There's no penalty for waiting, and you'll have a better sense of supply then.
 
 ### River Landwalkers - Balance
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Riza MQ6/Journey Upriver
+- **Type:** Battle
+- **Requirements:** Defeat 10 Isartu and 25 Caricaco
+- **Rewards:** 250 Coins
+- **Recommendations:** Isartu kindly drop River Stones, which are great if you're trying to buy anything in Raina, and Leather Rolls, which are great for Water Masks and fundraising. Caricaco are pretty darn easy. This does come to almost 15K words, but Attack values can offset that. On the flip side, there are at least two later quests that also require fighting Isartu, and one of them requires 20 of them, so it might be worth it to hold off on this till later. Might. Main Quest 2 only requires 3 Isartu, and the 20-Isartu quest is pretty deep in.
 
 ### River Water For…? - MT
 
 - **Location:** Mama Tree
 - **Unlocked by:** Riza MQ6/Journey Upriver
+- **Type:** Collection
+- **Requirements:** Collect 10 River Water
+- **Rewards:** 1 Wooden Chest, 1 Wooden Key, & 1 Leafsung Ink
+- **Recommendations:** Do you have extra River Water lying around after all the Dí requirements in the main quests? Then sure! Otherwise, give it a pass for now.
 
 ### Rudakai Master - Balance
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Balance MQ5/The Water Calls
+- **Type:** Battle
+- **Requirements:** Defeat 3 Rudakai, 3 Desert Rudakai, and 3 Water Rudakai
+- **Rewards:** 5 Stempos
+- **Recommendations:** Do this after you've gotten as many River Chests and Keys as you're likely to get in the game, because you'll need Reinforced Rope to battle the Water Rudakai. (Well, as many River Chests and Keys as you're likely to get apart from Steel (Or Brace) Yourself; Reinforced Steel gear is very Reinforced-Rope expensive.) More travels ahead! Enjoy.
 
 ### Sacred Feathers - Gansu
 
@@ -2088,25 +1648,24 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Raina Surface Camp
 - **Unlocked by:** Raina Expedition Trail: Raina Surface Camp (Riza quest)
+- **Type:** Battle
+- **Requirements:** Defeat 5 Auwi
+- **Rewards:** 3 River Water and Wardrobe: Bone Nose Piercing https://4thewords.com/media/wardrobe/featured/male/wm&#95;719-bone-nose-piercing-4712-76828.png
+- **Recommendations:** This is great if you're trying to make some more Dí Bags, since you get not only the reward River Water but also the River Water dropped by the Auwi on the way. Otherwise, up to you.
 
 ### Save the Children
 
 - **Location:** Luciola Forest
 - **Unlocked by:** available at game open
 
-### Scary Short Story - PG
-
-- **Location:** Purple Gate
-- **Unlocked by:** PG MQ4/A Ruined Path
-- **Type:** Battle, Wordcount
-- **Requirements:** Write 10K words and defeat 1 each Poe, Cursed Hand, and Zhout
-- **Rewards:** Wardrobe: Hand Ankle Bracelet https://4thewords.com/media/wardrobe/featured/female/wf&#95;1209-hand-ankle-bracelet-8577-96142.png
-- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
-
 ### Scouting Lorsa - Balance
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Riza MQ6/Journey Upriver
+- **Type:** Collection
+- **Requirements:** Deliver 5 Lorsa Nests
+- **Rewards:** 1 River Chest
+- **Recommendations:** Depends on how many Lorsa Nests you've got on you. (Probably not a lot, and you'll have to travel back to the Desert or Forest to craft them.) Still, River Chests are pretty nice to have, and later sidequests will probably have you traveling anyway, so go for it when you're ready. (Unless, like me, you wish all Lorsa Nests would burn in the sun. Then wait till your anger cools a little.)
 
 ### Scouting The Land - SC
 
@@ -2137,16 +1696,38 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Raina Sacred Site
 - **Quest Path:** (open via Raina Expedition Trail: SwampL Twisted Treacherous Trails (2/2)) • **Seeding New Beginnings 1/3** • SacredS Seeding New Beginnings 2/3 • SacredS Seeding New Beginnings 3/3
+- **Type:** Battle
+- **Requirements:** Defeat 1 each:
+  - Bashta
+  - Minko
+  - Toccal
+- **Rewards:** 2 River Chests
+- **Recommendations:** This makes all the other battling through worth it. River Chests ahoy! And the prospect of future things.
 
 ### Seeding New Beginnings (2/3) - SacredS
 
 - **Location:** Raina Sacred Site
 - **Quest Path:** (open via Raina Expedition Trail: SwampL Twisted Treacherous Trails (2/2)) • SacredS Seeding New Beginnings 1/3 • **Seeding New Beginnings 2/3** • SacredS Seeding New Beginnings 3/3
+- **Type:** Battle
+- **Requirements:** Defeat 5 each:
+  - Bashta
+  - Minko
+  - Toccal
+- **Rewards:** Wardrobe: Seed Earrings https://4thewords.com/media/wardrobe/featured/male/wm&#95;939-seed-earrings-6785-28324.png
+- **Recommendations:** I quite like the earrings, and I like being thorough. I wouldn't prioritize this quest chain from here on out, though.
 
 ### Seeding New Beginnings (3/3) - SacredS
 
 - **Location:** Raina Sacred Site
 - **Quest Path:** (open via Raina Expedition Trail: SwampL Twisted Treacherous Trails (2/2)) • SacredS Seeding New Beginnings 1/3 • SacredS Seeding New Beginnings 2/3 • **Seeding New Beginnings 3/3** 
+- **Type:** Battle
+- **Requirements:** Defeat 10 each:
+  - Bashta
+  - Minko
+  - Toccal
+- **Rewards:** Wardrobe: Gardener Hat https://4thewords.com/media/wardrobe/featured/male/wm&#95;911-plant-hat-6506-66225.png
+- **Recommendations:** Very fashionable, that hat, no? Worth 18,000 words?
+  :) Now you'll know what everyone's been up to.
 
 ### Seeing a Sequence - ShrineGO
 
@@ -2173,15 +1754,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Mama Tree
 - **Unlocked by:** LF MQ4
 
-### A Shaman's Rope - DFO
-
-- **Location:** Dark Forest Outpost
-- **Quest Path:** (open via Balance MQ5/The Water Calls) • **A Shaman's Rope** • DFO Pieces for Peace
-- **Type:** Collection
-- **Requirements:** Collect 25 Rat Tails
-- **Rewards:** 1 Bone Key
-- **Recommendations:** This really dovetails well with Pit of Nightmares, which I highly recommend as the source of all your Rat Tail needs. It also unlocks another quest with a Bone Chest as a reward, so it's a nice source of resources.
-
 ### Shrine Creature Flyby - Shrine TFA
 
 - **Location:** Shrine of Ages
@@ -2192,37 +1764,10 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Shrine of Ages
 - **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Giants Time Bracelet
 
-### Silent Slithering Surprises - PG
-
-- **Location:** Purple Gate
-- **Unlocked by:** PG MQ3/Keep Pushing Forward
-- **Type:** Battle
-- **Requirements:** Defeat 50 Leopar
-- **Rewards:** Wardrobe: Leopar Necklace https://4thewords.com/media/wardrobe/featured/female/wf&#95;1202-snake-necklace-8543-66886.png
-- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
-
 ### Silkly Sleek Sulanica
 
 - **Location:** Research Lab
 - **Quest Path:** (open via Alien Expedition Trail: SpaceS Orders to Repair) • RLab Set Creatures Free! (1/4) • RLab Create a Clearing (2/4) • RLab Build a Biodome (3/4) • RLab Encourage an Ecosystem (4/4) • IN ANY ORDER: [RLab Making Mellow Mowow  (*unlocks Mowow in Wilderness*)• RLab Sagacious Sincere Sabu (*unlocks Sabu in Wilderness*) • **Silkly Sleek Sulanica (*unlocks Sulanica in Wilderness*)**• RLab Zappy Zazzy Xombri (*unlocks Xombri in Wilderness*)• RLab Zooty Zanutaki Zings (*unlocks Zanutaki in Wilderness*)]
-
-### Sing Your Bravery (2/2) - HuntS4
-
-- **Location:** Available in Luciola Forest
-- **Quest Path:** (open via Hunt Trail HuntS3 A Bubble Dream) • HuntS4 Sing Your Enthusiasm • **Sing Your Bravery 2/2** • ???
-- **Type:** Battle
-- **Requirements:** Defeat 10 Cursed Hands
-- **Rewards:** 15 Hunter Tokens
-- **Recommendations:** As of this writing (quest has just been released), this is still the last quest in this chain and I don't know whether the chain will be worth any more than its obvious merits. Make your choices!
-
-### Sing Your Enthusiasm - HuntS4
-
-- **Location:** Available in Luciola Forest
-- **Quest Path:** (open via Hunt Trail HuntS3 A Bubble Dream) • **Sing Your Enthusiasm** • HuntS4 Sing Your Bravery 2/2 • ???
-- **Type:** Battle
-- **Requirements:** Defeat 10 Zanthei
-- **Rewards:** 20 Hunter Tokens
-- **Recommendations:** I think Team Zanthei is getting a shoutout here! If you pick this up while Zanthei is dropping Hunter Tokens, those tokens will add up to effectively triple the reward on this quest.
 
 ### Sleepless in Stone City - SC
 
@@ -2239,15 +1784,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Gansu Watering Hole
 - **Unlocked by:** 3PC MQ5/A Way South
 
-### Something Extraordinary - HuntS4
-
-- **Location:** Available in Luciola Forest
-- **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
-- **Type:** Battle
-- **Requirements:** Defeat 3 Mirdor
-- **Rewards:** Hunt Map Piece 10 and 10 Hunter Tokens
-- **Recommendations:** The description for this quest will outright tell you that Mirdor is in Guardian's Lair. The Bard seems to be all over the game!
-
 ### Sparks to Ignite (3/3) - SpaceS
 
 - **Location:** Spaceship
@@ -2257,6 +1793,10 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Riza Rivertown
 - **Unlocked by:** Riza MQ6/Journey Upriver
+- **Type:** Collection
+- **Requirements:** Turn in 25 Spider Bows
+- **Rewards:** 1 Stone Key & 1 Stone Chest
+- **Recommendations:** Definitely worth turning in if you have 25 Spider Bows or more already. If you're going to tackle the Raina quests, you'll probably accrue all the Spider Bows you need later while using Wooden Chests in Mama Tree to get Vine Nets. Probably no reason to specifically farm Spider Bows for it, though.
 
 ### Spooky Scary Supernaturals - ShrineMar
 
@@ -2282,6 +1822,10 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Raina Surface Camp
 - **Unlocked by:** Raina Expedition Trail: Raina Surface Camp (Riza quest)
+- **Type:** Battle
+- **Requirements:** Defeat 15 Vaktra
+- **Rewards:** 1 River Chest & Wardrobe: Moss Hat https://4thewords.com/media/wardrobe/featured/male/wm&#95;727-moss-hat-4772-99897.png
+- **Recommendations:** Up to you! No secret ins or outs here.
 
 ### State of Rest - HuntS2
 
@@ -2290,27 +1834,48 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ### Steel Boots - SurfaceC
 
+(THIS IS MUCH LONGER THAN USUAL; bear with me.)
+
 - **Location:** Raina Surface Camp
 - **Unlocked by:** Raina Expedition Trail: Raina Surface Camp (Riza quest)
+- **Type:** Collection
+- **Requirements:** Pay 25 Steel Boots
+- **Rewards:** 1 Dust Water (what's this good for? Who knows? Nothing yet.) and 3 Stempos
+- **Recommendations:** THE EVIL QUEST OF EVIL. This is OBSCENELY expensive. 
+  - Each Steel Boot needs 3 Steel Bars and 1 Fabric Boot (among other items) to build. Each Fabric Boot needs 100 Coins, 3 Leafsung Boots, some Fine Fabric, Raw Fabric, and a Steel Bar to build. Each Leafsung Boot requires 2 Leaf Boots and 1 Leafsung Ink to build. Each Leafsung Ink requires 5 Essence, 5 Spider Poison, 3 Claws, and 3 Dust. 
+  - So in short, if you drill down, each Steel Boot requires that you build one Fabric Boot, from Leafsung Boots, from Leaf Boots and Leafsung Ink, and Steel Bars, which means each Steel Boot needs 100 Coins, 9 Claws, 9 Dust, 15 Essence, 1 Fine Fabric, 6 Leaf Boots, 45 Leaves, 4 Raw Fabric, 2 River Grass, 15 Spider Poison, and 4 Steel Bars, which very likely will need to be made from 12 Raw Steel and 12 Wood.
+  - EACH. BOOT.
+  - First: make sure you've completed River Grass Supply in Riza to get the cheapest pair of Steel Boots in the game.
+  - Second: make sure you've completed the Tailor quest in 3PC for the cheapest pair of Fabric Boots in the game.
+  - Third: consider redoing the entire game a few times to chalk up a few more of these cheaper boots, because they're less mind-numbing than farming all the necessary materials.
+    - If you decide just to take the quest right now after doing First and Second parts, you'll need 2300 Coins, 207 Claws, 207 Dust, 345 Essence, 23 Fine Fabric, 138 Leaf Boots, 1035 Leaves,  92 Raw Fabric, 48 River Grass, 345 Spider Poison (which will, at the best efficiency, require 138,000 battle-words in 345 battles against Aracni), and 95 Steel Bars, and all you get for it will be one. single. Dust Water, which has no apparent use so far and can't be sold. Consider very carefully.
+    - Seriously, consider completing this quest on a later pass. It'll be less tedious spread over completing other quests.
+  - Fourth: Make sure you've completed the Make X Sing series of quests in Luciola Forest so you'll be able to craft Leafsung Ink in Mama Tree. (Don't waste any of your winnings on the Leafsung Vial Creation in Mama Tree at present, if you haven't yet.)
+  - Fifth: You'll need bunches of Leafsung Ink for a later sidequest with a far niftier reward. Don't burn yourself out farming that now, if you haven't checked out Balance yet.
+  - **Fifth and a half**: Golden Chests and River Chests just started dropping Leafsung Ink. I'm not completely rewriting this section the way I possibly should in light of this, because this means that fighting Arenica and Suulan and Desert Rudakai just became relevant to this quest, as well as * spoiler * in the Floating City of Balance. 
+  - **Fifth and three quarters**: Look, just ignore the rest and come back after you've gotten far enough through Balance to find a consistent source of River Chests and River Keys, because you might just want to farm all your Leafsung Ink that way.
+  - Sixth: Spider Poison will be the most demanding thing to farm, if you decide to manufacture Leafsung Ink the old-fashioned way, because you absolutely cannot get it except from a battle or a Luciola Wooden Chest. (Essence, Leaves, and Steel Bars will probably be the next-most-demanding bits). Spider Poison is best gotten from Aracni in Luciola Forest, but Illi in Mama Tree and Ylly in Gansu will give you Rope at the same time (needed for a lot of other things in the game) and some much-needed variety. Illi stack well with Tylu, which will get you Claws for the Leafsung Ink. Ylly will also help you gather Raw Fabric.
+  - Seventh: So, the Steel Bars. Yasri in 3PC drop them directly, and also drop Fine Fabric that you'll need, and extra Raw Steel to help polish off. If you get tired of them, Rulo drop Raw Steel in nice quantities.
+  - Eighth: Essence and Leaves can come from Desert Wignow, which conveniently also drop the Desert Stones that are in such high demand for Gansu sidequests.
+  - Good luck, and may the Force be with you.
 
 ### Steel (Or Brace) Yourself - Balance
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Riza MQ6/Journey Upriver
+- **Type:** Collection
+- **Requirements:** Deliver 5 Reinforced Steel Helmets and 5 Reinforced Steel Breastplates
+- **Rewards:** 1 River Chest and 1 River Key
+- **Recommendations:** Not now. For one, you'll definitely want to equip yourself with the first R.S. Helmet and Breastplate you can get, so you functionally need 6 of each. For another, 1 River Chest and 1 River Key are nowhere near as valuable as the items you're trading for them. But when you're running out of sidequests, this is a fun one to try to push through.
 
 ### Steel Weapons - Riza
 
 - **Location:** Riza Rivertown
 - **Unlocked by:** Riza MQ3/Remedy for a Friend
-
-### Step Into The Deadlands (1/4) - DFO
-
-- **Location:** Dark Forest Outpost
-- **Quest Path:** (open via DFO MQ12/Well of Lost Souls) • **Step Into The Deadlands (1/4)** • DFO Hounding the Dead (2/4) • DFO Message in a Spirit (3/4) • DFO Flutters Shy & High (4/4)
-- **Type:** Battle
-- **Requirements:** Defeat 10 Papple Spirits
-- **Rewards:** 1 Staff of the Dead
-- **Recommendations:** This series culminates in my favorite ever Wardrobe reward (see Flutters Shy & High), and Papple Spirits have the great virtue (great in my opinion, anyway) of Not Having Any Price Tag Other Than Words. The reward is a Weapon2 I can take or leave, but it's great for anyone trying to max Luck.
+- **Type:** Collection
+- **Requirements:** Craft & turn in 5 Steel Maces and 10 Steel Shields
+- **Rewards:** 3 Stempos
+- **Recommendations:** Biggest resource suck up to this point in the game. Even for completionists, I'd wait until all Main Quests were finished before tackling this one. Probably most of the sidequests, too. Much better to craft a Steel Mace to use yourself.
 
 ### Sticks & Stones - ShrineGiant
 
@@ -2321,6 +1886,10 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Balance MQ1/ Help From A Master
+- **Type:** Battle
+- **Requirements:** Defeat 30 Nuig
+- **Rewards:** Wardrobe: River Grass Skirt
+- **Recommendations:** On one hand: that's a lot of Nuig, and a lot of Water Masks to battle them. On the other hand: that is a lovely skirt. Consider picking up this one at the same time as Elemental Powers and Venomous Villains and the start of Main Quest 3, and then you can knock out 30 Nuig and never touch them again.
 
 ### Stone City Chaos - SC
 
@@ -2399,24 +1968,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Luciola Forest
 - **Quest Path Route:** available at game open • LF Make It Work • **Style Is Eternal** 
 
-### Submerged Spikey Swim (1/2) - CAVE
-
-- **Location:** Cave
-- **Quest Path:** (open via CAVE MQ 6/Speak with Shadow) • **Submerged Spikey Swim 1/2** • CAVE Submerged Spikey Swim 2/2
-- **Type:** Battle
-- **Requirements:** Defeat 5 Letos, 8 Ulos, and 10 Spina
-- **Rewards:** Wardrobe: Spina Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1262-fish-necklace-8912-88199.png
-- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
-
-### Submerged Spikey Swim (2/2)
-
-- **Location:** Cave
-- **Quest Path:** (open via CAVE MQ 6/Speak with Shadow) • CAVE Submerged Spikey Swim 1/2 • **Submerged Spikey Swim 2/2**
-- **Type:** Battle
-- **Requirements:** Defeat 10 Letos, 20 Ulos, and 30 Spina
-- **Rewards:** Wardrobe: Ulos Mask https://4thewords.com/media/wardrobe/featured/male/wm&#95;1272-starfish-mask-8952-26047.png
-- **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
-
 ### Swing, Sway, Summon - TT
 
 - **Location:** Tall Trees
@@ -2431,6 +1982,10 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Riza MQ6/Journey Upriver
+- **Type:** Battle
+- **Requirements:** Defeat 100 Caricaco
+- **Rewards:** 5 River Keys
+- **Recommendations:** Consider mixing this with River Landwalkers whenever you do it (that's 25 Caricaco overlap you're looking at), but also consider saving both of them for later on. These are the kind of long-term battle quests that are worth saving to go in the background while you're collecting five billion Spider Poison for another quest.
 
 ### Tears and Feathers - ShrineCar
 
@@ -2459,6 +2014,10 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ### Thinking Like Ink (4/5) - MT
 
+Note: NOT POSSIBLE till partway through the Floating City of Balance
+
+Monsters and Resources listed here will not be linked with this quest outside the Water Resources and All Resources sections. If you want to know sources for these requirements, see the Water Resources or All Resources.
+
 - **Location:** Mama Tree
 - **Quest Path Route:** (open via MT MQ 4/ Aid To An Elder) • MT Tinkering With Leafsung (1/5) • MT Inking By Number (2/5) • MT Inking of Dust (3/5) • **Thinking of Ink (4/5)** • MT The Invisible Ink (5/5)
 
@@ -2482,15 +2041,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Luciola Forest
 - **Unlocked by:** MT MQ 2/ A Secret Message
 
-### To Celebrate and Share - Hunt S4
-
-- **Location:** Available in Luciola Forest
-- **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
-- **Type:** Battle
-- **Requirements:** Defeat 6 Takori
-- **Rewards:** 20 Hunter Tokens
-- **Recommendations:** I'm not sure what Takori have to do with celebration (unless we're celebrating escaping them?), but hey, ours is not to question why, right?
-
 ### To Collect Memories - FB
 
 - **Location:** Forward Base
@@ -2499,21 +2049,16 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 ### To Grow & Change - HuntS3
 
 - **Location:** Available in Luciola Forest
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • **To Grow & Change** • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • ???
+- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • **To Grow & Change** • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • ???
+- **Type:** Collection, Battle
+- **Requirements:** Defeat 10 of any monster, collect Hunt Map Piece 7
+- **Rewards:** Wardrobe: Hunt Facepaint Side https://4thewords.com/media/wardrobe/featured/male/wm&#95;667-hunt-facepaint-side-4049-28215.png
+- **Recommendations:** Make sure you've got the Moving Flora quest, and this will mostly handle itself!
 
 ### To Hope is to Plan - HuntS1
 
 - **Location:** Available in the Luciola Forest 
 - **Unlocked by:** Hunt Trail: HuntS1 Joining the Hunt
-
-### Too Many Spirits - PG
-
-- **Location:** Purple Gate
-- **Unlocked by:** PG MQ2/A Desolate Path
-- **Type:** Battle
-- **Requirements:** Defeat 25 Eninir
-- **Rewards:** Wardrobe: Eninir Crown https://4thewords.com/media/wardrobe/featured/male/wm&#95;1208-ghost-crown-8575-76537.png
-- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
 
 ### Tougher With Tambo - Gansu
 
@@ -2535,15 +2080,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Mama Tree
 - **Unlocked by:** LF MQ4
 
-### Trouble Above - PG
-
-- **Location:** Purple Gate
-- **Unlocked by:** PG MQ3/Keep Pushing Forward
-- **Type:** Battle
-- **Requirements:** Defeat 10 Leopar and 10 Poe
-- **Rewards:** Wardrobe x2: Chain Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1204-chain-necklace-8563-71819.png and Leopar Earrings https://4thewords.com/media/wardrobe/featured/female/wf&#95;1201-snake-earrings-8529-18956.png
-- **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
-
 ### Trying Your Patience - TT
 
 - **Location:** Tall Trees
@@ -2558,11 +2094,26 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Swamplands
 - **Raina Expedition Trail Route:** (open via Main Quest Highway Riza MQ6/Journey Upriver) • Riza Raina Surface Camp • SurfaceC Energy Now, Tired Later • SwampL Wading Through & Onwards (1/2) • **Twisted Treacherous Trails (2/2)** • SacredS A Worthy Offering
+- **Type:** Battle
+- **Requirements:** Defeat 5 each:
+  - Heliodae
+  - Rhamp
+  - Quishi
+  - Tritus
+  - Copei
+  - Galai
+  - Swamp Wignow
+- **Rewards:** Unlock Raina Sacred Site, Wardrobe: Quishi Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;786-beaver-necklace-5336-27752.png
+- **Recommendations:** You've got this! Think of all the lovely River things you're accruing! Once you have a safe 200-500 stash of River Grass and River Water, they become a great source of emergency Coins.
 
 ### Uncanny Swamp Wisthu - Hideout
 
 - **Location:** Rebel Raina Hideout
 - **Unlocked by:** Raina Expedition Trail: SacredS A Worthy Offering
+- **Type:** Battle
+- **Requirements:** Defeat 6 Wisthu
+- **Rewards:** 3 Stempos & Wardrobe: Black Feather Scarf https://4thewords.com/media/wardrobe/featured/male/wm&#95;711-black-feather-scarf-4662-30189.png
+- **Recommendations:** Fairly straightforward; just remember to keep an eye on the Pushing Back Rebels questline to avoid fighting more Wisthu than necessary.
 
 ### Valley Of The Sheep - HuntS2
 
@@ -2573,6 +2124,10 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Balance MQ1/ Help From A Master
+- **Type:** Battle
+- **Requirements:** Defeat 7 Nuig, 7 Aracnu, 7 Ylly, and 7 Sparfly
+- **Rewards:** 1 River Chest and 1 River Key
+- **Recommendations:** Again, for those counting at home, this is a minimum of 3 Areas in 3 Regions (Nuig available only in Balance, Ylly only in Gansu in the Desert, and Aracnu only in Luciola in the Forest; Sparfly might as well be picked up in Gansu while you're there). Which makes it pair really well with Elemental Powers, which also involves a lot of travel and Nuig. Don't forget to consider Nuig-heavy Stingy Surprise and Main Quest 3 at the same time. And while you're traveling, consider those 5 Lorsa Nests for the Scouting Lorsa quest.
 
 ### Wading Through & Onwards (1/2) - SwampL
 
@@ -2580,6 +2135,18 @@ NOTE: This exact quest was offered during the Raina Festival in April 2020; if y
 
 - **Location:** Swamplands
 - **Raina Expedition Trail Route:** (open via Main Quest Highway Riza MQ6/Journey Upriver) • Riza Raina Surface Camp • SurfaceC Energy Now, Tired Later • **Wading Through & Onwards (1/2)** • SwampL Twisted Treacherous Trails (2/2) • SacredS A Worthy Offering
+- **Type:** Battle
+- **Requirements:** Defeat 1 each:
+  - Heliodae
+  - Rhamp
+  - Quishi
+  - Tritus
+  - Copei
+  - Larida
+  - Galai
+  - Swamp Wignow
+- **Rewards:** Wardrobe: Ghillie Suit Head https://4thewords.com/media/wardrobe/featured/female/wf&#95;705-ghillie-suit-top-4590-12257.png, progress on questline
+- **Recommendations:** Gotta get through this to get on. Good luck! (Maaaybe save Larida for last, so as to get maximum overlap between turning in this quest and picking up the next.)
 
 ### Wandering We Go - HuntS2
 
@@ -2597,11 +2164,19 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 
 - **Location:** Riza Rivertown
 - **Unlocked by:** Gansu MQ8/Dust to Dust
+- **Type:** Forum
+- **Requirements:** Make 100 Forum posts
+- **Rewards:** 15 Core Crystals
+- **Recommendations:** DO IT. It will take approximately FOREVER. (Good news: you don't have to keep it in your Questbook. It counts all the forum posts you've ever made, no matter how many times you drop the quest while you're doing it.) Then you'll get to know everyone in the forums, which is fun! So yes, do it, but don't worry about officially picking it up except when you want to check how close you are to turning it in.
 
 ### Water Tribe Stripes - Riza
 
 - **Location:** Riza Rivertown
 - **Quest Path:** (open via Main Quest Highway Gansu MQ8/Dust to Dust) • Riza Amateur Fisherman • Riza Apprentice Fisherman • **Water Tribe Stripes** 
+- **Type:** Battle
+- **Requirements:** Defeat 15 Patliadu
+- **Rewards:** Wardrobe: Water Tribe War Paint
+- **Recommendations:** Depends on where you are in the game, and in how much of a hurry. 15 Harpoons might be a lot right now, or they might be dirt cheap. Personally, I think the Water Tribe War Paint is worth it.
 
 ### Watering Hole - MT
 
@@ -2642,6 +2217,10 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 
 - **Location:** Available in Luciola Forest
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
+- **Type:** Collection
+- **Requirements:** Deliver 50 Swamp Moss
+- **Rewards:** 15 Hunter Tokens
+- **Recommendations:** Swamp Moss is available in the deeper parts of Raina, if you have trouble finding it. And while I wouldn't belabor myself to fill this up, it's a nice use for the Swamp Moss one tends to accumulate in Raina.
 
 ### White Coat - Gansu
 
@@ -2657,11 +2236,19 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 
 - **Location:** Raina Sacred Site
 - **Raina Expedition Trail Route:** (open via Main Quest Highway Riza MQ6/Journey Upriver) • Riza Raina Surface Camp • SurfaceC Energy Now, Tired Later • SwampL Wading Through & Onwards (1/2) • SwampL Twisted Treacherous Trails (2/2) • **A Worthy Offering** 
+- **Type:** Streak, Wordcount, Collection
+- **Requirements:** Attain 10-day Streak, 10000 Words, deliver 10 Hardwood, 10 Rope, and 10 Steel Bars
+- **Rewards:** Unlock Rebel Raina Hideout, Wardrobe: Golden Earrings https://4thewords.com/media/wardrobe/featured/male/wm&#95;778-golden-earrings-5292-58135.png
+- **Recommendations:** You'll want this one. Seeing as how it unlocks the last Raina area. Plenty of time to look around while you're waiting for those 10 days to pass.
 
 ### Wrestlin' Swamp Larida - SwampL
 
 - **Location:** Swamplands
 - **Unlocked by:** Raina Expedition Trail: SurfaceC Energy Now, Tired Later
+- **Type:** Battle
+- **Requirements:** Defeat 15 Larida
+- **Rewards:** Wardrobe: Larida Necklace https://4thewords.com/media/wardrobe/featured/female/wf&#95;777-crocodile-necklace-5291-45454.png
+- **Recommendations:** Self-evident. Either that necklace is perfect or not.
 
 ### Write, You Fool - ShrineFools
 
@@ -2697,4 +2284,3 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 
 - **Location:** Research Lab
 - **Quest Path:** (open via Alien Expedition Trail: SpaceS Orders to Repair) • RLab Set Creatures Free! (1/4) • RLab Create a Clearing (2/4) • RLab Build a Biodome (3/4) • RLab Encourage an Ecosystem (4/4) • IN ANY ORDER: [RLab Making Mellow Mowow  (*unlocks Mowow in Wilderness*)• RLab Sagacious Sincere Sabu (*unlocks Sabu in Wilderness*) • RLab Silkly Sleek Sulanica (*unlocks Sulanica in Wilderness*)• RLab Zappy Zazzy Xombri (*unlocks Xombri in Wilderness*)• **Zooty Zanutaki Zings (*unlocks Zanutaki in Wilderness*)**]
-

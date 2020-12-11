@@ -1,4 +1,4 @@
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 10 DEC 2020
 
 Here are ALL THE THINGS available in the Forest. LF is Luciola Forest. MT is Mama Tree. HuntS1 is Hunt for the Ancients Season 1. And for the Expedition...
 
@@ -196,19 +196,19 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 
 - **Source:** HuntS1 Quest: A Clue to the Past (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS1 Quest: The Hunt Begins (1)
+- **Used for:** HuntS1 Quest: The Hunt Begins (1), later game
 
 ### Hunt Map Piece 2
 
 - **Source:** HuntS1 Quest: Elder Library Assistants (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS1 Quest: Deeper Forest Hunting (1)
+- **Used for:** HuntS1 Quest: Deeper Forest Hunting (1), later game
 
 ### Hunt Map Piece 3
 
 - **Source:** HuntS1 Quest: Elder Library's Security (1)
 - **Sell price:** 10 Coins (DO NOT SELL, irreplaceable)
-- **Used for:** HuntS1 Quest: A Past Not Forgotten (1)
+- **Used for:** HuntS1 Quest: A Past Not Forgotten (1), later game
 
 ### Hunter Tokens
 
@@ -222,18 +222,21 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - later Hunt
 
-- **Late Sept 2020 Sources Outside the Hunt:**
+- **Dec 2020 Sources Outside the Hunt:**
 
-  Late September 2020 sources are PURPLE. (We're focusing in on the Dust now!) 
+  Note: I'm marking this as "December" instead of "Late November" because for the entire duration of NaNo, right through early December, Hunter Tokens were dropping from NaNo event monsters and Hunt monsters only.
 
-  - Global Battles: Vi (5 minutes for 1-4), Viyu (15 minutes for 3-14), Viyusa (25 minutes for 5-20)
-  - LF Battles: Spirit Wignow (450 words for 4-5)
-  - MT Battles: Ardis (70 words for 0-1), Assassin (1400 words for 14), Villager (1300 words for 13)
+  For December, the trend is "Green and White".
+
+  - Global Battles: Vi (5 minutes for ), Xin (100 words for 1)
+  - LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Grey's Mawt (850 words for 8-9), Nitana (700 words for 7), Spirit Wignow (450 words for 4-5), Wignow (250 words for 2-3)
+  - MT Battles: Assassin (1400 words for 14), Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 8-9), Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (120 words for 1-2), Xuso (450 words for 4-5)
-    - FB Battles: Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
-    - SC, TT, GL Battles: Hunt only
-  - later game
+    - BC Battles: Sacer (120 words for 1-2)
+    - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6), Spirit Ardia (80 words for 0-1)
+    - SC Battles: Reudod (600 words for 6)
+    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7)
+    - GL Battles: Night Dandeleon (330 words for 3-4)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

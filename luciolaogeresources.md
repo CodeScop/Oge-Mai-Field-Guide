@@ -1,4 +1,4 @@
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 10 DEC 2020
 
 Disclaimer: The numbers for drops assume a minimum Luck of 2; less Luck may mean less in the way of drops. Also, any Hunt monsters/resources (apart from Hunter Tokens) are omitted here; see the Forest Resources for a more complete list.
 
@@ -91,6 +91,10 @@ These are special resources. They can be bought with actual real-world currency 
   - Craft: Leaf Boots (3)
   - Quest: Lumberjack's Tools (5), New Style (10)
 
+### Hunt Map Piece XXX
+
+See Hunt or regional Resource sections for details
+
 ### Hunter Tokens
 
 - **Hunt Sources:** 
@@ -102,9 +106,9 @@ These are special resources. They can be bought with actual real-world currency 
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
   - later game
 
-- **Monthly Sources Outside the Hunt:**
+- **Sources Outside the Hunt:**
 
-  I'll detail these changes in the Hunt sections and the regional summary sections.
+  - See Hunt or regional Resource sections for details
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
