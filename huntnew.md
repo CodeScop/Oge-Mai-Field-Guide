@@ -1,10 +1,28 @@
-LAST UPDATED 9 DEC 2020
+LAST UPDATED 15 DEC 2020
 
 Hey! Loading up the info for the Hunt. It takes a while to incorporate everything properly throughout the Guide, but it doesn't take long to gather the new info. So! Here is New Info Only for the Hunt for the Ancients. (Please, please just look at the regular sections if you aren't up to the latest point; there's nothing here that will be likely to serve you before then.)
 
-(Apologies that this is a bit delayed this month; a lot going on in my personal life, and a lot of work getting the Purple Gate release stuff set up.)
+**Doing this a little differently Dec 2020** - we functionally had our major drop for November 24, and then a little Season 4 wrapup popped up Dec 13. I'm putting the Dec 13 info at the top of the sections since it's newest, but retaining the Nov 24 drops below.
 
 #FAIR WARNING: SPOILERS AHEAD.
+
+## New Quests: Dec 2020
+
+###Celebrate Stories
+
+- **Unlocked by:** FOR DEC 13-18: available to ALL users under Global Quests; presumably unlocked by HuntS4 Still Missing Something thereafter
+- **Type:** Wordcount
+- **Requirements:** Write 5000 words
+- **Rewards:** 10 Core Crystals, 10 Reactions: Celebrate, 10 Reactions: For The Valley!
+- **Recommendations:**  10 CORE CRYSTALS. FOR 5K WORDS. GET. THIS. NOW.
+
+###Proving Your Friendship
+
+- **Unlocked by:**  HuntS4 Quest: Still Missing Something
+- **Type:** Battle
+- **Requirements:** Defeat the Bard 4 times
+- **Rewards:** Wardrobe: Bard's Pet https://4thewords.com/media/wardrobe/featured/male/wm_1502-ferret-pet-10188-43895.png
+- **Recommendations:**  It's the capstone of the first year of the Hunt! Complete and celebrate your completion!
 
 ## New Quests: Nov 2020
 
@@ -14,7 +32,7 @@ Hey! Loading up the info for the Hunt. It takes a while to incorporate everythin
 - **Type:** Streak, Collection
 - **Requirements:** Attain 10-day Streak, deliver all 11 Hunt Map Pieces
 - **Rewards:** Wardrobe: Hunt Map Hands https://4thewords.com/media/wardrobe/featured/male/wm&#95;872-hunt-map-hands-6024-61497.png
-- **Recommendations:**  Still waiting to see if/how this is impacted by the December release, because after all the waiting to finish this quest... nothing happens. At least, nothing happens right now. We'll see if that lasts! But it's worth noting that this will be the last you see of the Hunt Map Pieces. Farewell, o longtime companions!
+- **Recommendations:**  This unlocks the Bard and the end of the first year of the Hunt! Alas, it will take all your Hunt Map Pieces away (or "hurrah", if you were weirded out by that huge chunk in your inventory), but at least you'll have a Map in hand.
 
 ###Sing Your Commitment (3/4)
 
@@ -47,6 +65,18 @@ Hey! Loading up the info for the Hunt. It takes a while to incorporate everythin
 - **Requirements:** Defeat 3 Morimet
 - **Rewards:** 25 Hunter Tokens
 - **Recommendations:**  Right now, this doesn't look like it actually does anything, since we have all the Hunt Map Pieces in hand; we'll see if that holds true once the Bard appears!
+
+## New Hunt Monsters: Dec 2020
+
+### Bard
+
+- **Location:** Luciola Forest
+- **Unlocked by:** HuntS4 Quest: Still Missing Something
+- **Requirements:** 1000 words
+- **Time allowed:** 120 minutes (2 hours)
+- **XP:** 100
+- **Drops:** 10 Hunter Tokens, 1-4 Raw Fabric, 1-2 Fine Fabric, 1-2 Rope, 8-23 Coins, 3 Raw Gold
+- **Quests:** HuntS4: Proving Your Friendship (4)
 
 ## New Hunt Monsters: Nov 2020
 

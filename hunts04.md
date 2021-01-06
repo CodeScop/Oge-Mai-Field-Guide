@@ -1,4 +1,4 @@
-LAST UPDATED 10 DEC 2020
+LAST UPDATED 15 DEC 2020
 
 Season 3 started blurring the lines of where the Seasons take place (after all, the Van- monsters popped up all over the game to drop Hunter Tokens). Season 4 is ranging all over right from the start. Sure, most of the miscellaneous quests take place in the Dust Region, but Dust Velts isn't in the Dust, the first presumable-Assistant type is deep in the Forest... it's a time to wander everywhere and explore everything!
 
@@ -42,7 +42,15 @@ Season 3 started blurring the lines of where the Seasons take place (after all, 
 - **Type:** Streak, Collection
 - **Requirements:** Attain 10-day Streak, deliver all 11 Hunt Map Pieces
 - **Rewards:** Wardrobe: Hunt Map Hands https://4thewords.com/media/wardrobe/featured/male/wm&#95;872-hunt-map-hands-6024-61497.png
-- **Recommendations:**  Still waiting to see if/how this is impacted by the December release, because after all the waiting to finish this quest... nothing happens. At least, nothing happens right now. We'll see if that lasts! But it's worth noting that this will be the last you see of the Hunt Map Pieces. Farewell, o longtime companions!
+- **Recommendations:**  This unlocks the Bard and the end of the first year of the Hunt! Alas, it will take all your Hunt Map Pieces away (or "hurrah", if you were weirded out by that huge chunk in your inventory), but at least you'll have a Map in hand.
+
+###Proving Your Friendship
+
+- **Unlocked by:**  HuntS4 Quest: Still Missing Something
+- **Type:** Battle
+- **Requirements:** Defeat the Bard 4 times
+- **Rewards:** Wardrobe: Bard's Pet https://4thewords.com/media/wardrobe/featured/male/wm_1502-ferret-pet-10188-43895.png
+- **Recommendations:**  It's the capstone of the first year of the Hunt! Complete and celebrate your completion!
 
 ## Season 4 Quests - Singing Sideline
 
@@ -96,6 +104,14 @@ Season 3 started blurring the lines of where the Seasons take place (after all, 
 - **Rewards:** Wardrobe: Hunt Battle Helmet https://4thewords.com/media/wardrobe/featured/female/wf&#95;634-hunt-battle-helment-3693-42038.png (7 variants)
 - **Recommendations:** Shockingly, Dust Velts is to be found in the Water Region, possibly enjoying Dí at Luko's Inn. As far as I can tell, this is the end of the quest chain, but this Velts has particularly nice drops (especially if you've recently opened Raina, or really any area beyond Riza). And once again, even though I divide these Velts quests into Seasons, you can complete them all while still being in Season 1.
 
+###Celebrate Stories
+
+- **Unlocked by:** FOR DEC 13-18: available to ALL users under Global Quests; presumably unlocked by HuntS4 Still Missing Something thereafter
+- **Type:** Wordcount
+- **Requirements:** Write 5000 words
+- **Rewards:** 10 Core Crystals, 10 Reactions: Celebrate, 10 Reactions: For The Valley!
+- **Recommendations:**  10 CORE CRYSTALS. FOR 5K WORDS. GET. THIS. NOW.
+
 ### Cheer Your Dedication
 
 - **Unlocked by:** HuntS3 Quest: A Bubble Dream
@@ -145,6 +161,16 @@ Season 3 started blurring the lines of where the Seasons take place (after all, 
 - **Recommendations:** I'm not sure what Takori have to do with celebration (unless we're celebrating escaping them?), but hey, ours is not to question why, right?
 
 ## Season 4 Monsters
+
+### Bard
+
+- **Location:** Luciola Forest
+- **Unlocked by:** HuntS4 Quest: Still Missing Something
+- **Requirements:** 1000 words
+- **Time allowed:** 120 minutes (2 hours)
+- **XP:** 100
+- **Drops:** 10 Hunter Tokens, 1-4 Raw Fabric, 1-2 Fine Fabric, 1-2 Rope, 8-23 Coins, 3 Raw Gold
+- **Quests:** HuntS4: Proving Your Friendship (4)
 
 ### Mirdor
 
@@ -276,6 +302,8 @@ Season 4 is unlocked by completing the quest A Bubble Dream, and you can see tha
 - HuntS4 Dirt to Dust - have Hunt Map Piece 10 and attain 5-day Streak, get Wardrobe: Hunt Golden Brooch
   - HuntS4 Celebrate Joy - have Hunt Map Piece 11 and attain 7-day Streak, get Wardrobe: Facepaint Eye Stroke
     - HuntS4 Still Missing Something - get 10-day Streak and hand in all 11 Hunt Map pieces, get Wardrobe: Hunt Map Hands
+      - HuntS4 Proving Your Friendship - defeat 4 of the Bard, get Wardrobe: Bard's Pet
+      - ? **Prerequisites uncertain; initial Global offering till 18 Dec has no prereqs** HuntS4 Celebrate Stories - write 5K words, get 10 Core Crystals and 10 each of the Reactions Celebrate and For The Valley
 - HuntS4 Something Extraordinary - defeat 3 Mirdor, get Hunt Map Piece 10 and 10 Hunter Tokens
 - HuntS4 Ideas Brought to Life - defeat 3 Weekiwa, get Hunt Map Piece 11 and 10 Hunter Tokens
 - HuntS4 A Battle of Celebration - defeat 3 Morimet, get 25 Hunter Tokens

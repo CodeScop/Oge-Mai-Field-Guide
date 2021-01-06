@@ -1,6 +1,6 @@
 #A-F
 
-LAST UPDATED 9 DEC 2020
+LAST UPDATED 15 DEC 2020
 
 ##Abbreviations Used:
 
@@ -116,6 +116,7 @@ ALL GAME
     - LF Wooden Chest: 9-18 per chest/key
     - MT Wooden Chest: 15-46 per chest/key
     - MT Battles: Vanstra (3 minutes for 2-8), Villager (1300 words for 3-7), Burocat (1000 words for 1-6)
+    - (Post HuntS4) LF Battle: Bard (1000 words for 8-23)
 - **Other sources:** FOREST, 
   - sell items (River Grass and Gold Bars can be especially good for this; Raw Fabric can also be useful. Protective Mantles may also be sold.)
   - WATER:
@@ -501,7 +502,7 @@ ALL GAME
 - **Best sources:**
   - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2)
   - FOREST
-    - LF Battles: Sassi (600 words, min level 3 for 0-3)
+    - LF Battles: Sassi (600 words for 0-3)
     - BC Battles: Sacer (120 words for 1-2)
     - FB, MT Battles: Ardia (50 words for 1), Ardii (60 words for 1), Ardis (70 words for 1)
   - DESERT
@@ -678,6 +679,7 @@ FOREST, some DESERT, some WATER
 DESERT, some WATER
 
 - **Sources:** 
+  - FOREST: Post-HuntS4 LF Battle: Bard (1000 words for 1-2)
   - DESERT
     - 3PC Battles: Yasri (1250 words for 1)
     - Gansu Battles: Suulan (2000 words, 1 Steel Dagger for 1-2), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1)
@@ -745,7 +747,7 @@ ALL GAME
 
 # G-O
 
-LAST UPDATED 9 DEC 2020
+LAST UPDATED 15 DEC 2020
 
 ### Glass
 
@@ -1061,6 +1063,7 @@ ALL GAME
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
   - LF Battles: Sassi (600 words for 6)
+  - Post-HuntS4 LF Battle: Bard (1000 words for 10)
   - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10), Vanstra (3 minutes for 1-4)
   - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10), Mirdor (1500 words for 15)
   - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12), Vanspi (10 minutes for 2-8)
@@ -1430,7 +1433,7 @@ FOREST, DESERT
 
 # P-R
 
-LAST UPDATED 9 DEC 2020
+LAST UPDATED 15 DEC 2020
 
 ### Pickaxe
 
@@ -1544,7 +1547,7 @@ ALL GAME
 - **Best sources:** 
   - Anywhere Battles: Xin (100 words for 0-1)
   - FOREST
-    - LF Battles: Sassi (600 words, min level 3 for 1-3)
+    - LF Battles: Sassi (600 words for 1-3)
     - BC, FB, SC, TT Battles: Alnu (400 words for 1-2)
   - DESERT
     - 3PC Battles: Frizi (150 words for 2)
@@ -1556,6 +1559,7 @@ ALL GAME
   - WATER: Riza Battles: Frizi (150 words for 2)
 - **Other sources:** 
   - FOREST
+    - Post-HuntS4 LF Battle: Bard (1000 words for 1-4)
     - MT Battle: Burocat (1000 words for 1-3), Assassin (1400 words for 1-2)
   - DESERT
     - 3PC Battles: Bruja (900 words for 2-3), Czanus (700 words for 2-4),  Yasri (1250 words for 2-3), Lombri (1500 words and 1 Wood Spear for 3)
@@ -1596,6 +1600,7 @@ ALL GAME
 DESERT, some FOREST, some WATER
 
 - **Best sources:** 
+  - FOREST: Post-HuntS4 LF Battle: Bard (1000 words for 3)
   - DESERT
     - 3PC Wooden Chest: 1-3
     - 3PC Battles: Bruja (900 words for 1), Lombri (1500 words and 1 Wood Spear for 1-2), Yasri (1250 words for 1)
@@ -2033,7 +2038,8 @@ ALL GAME
 - **Other sources:** Buy,
   - Anywhere Battles: Viyusa (25 minutes for 2-7)
   - FOREST
-    - LF Battles: Sassi (600 words, min level 3 for 1), Aracnu (800 words for 1), Mawt (1000 words for 1), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 1-2)
+    - LF Battles: Sassi (600 words for 1), Aracnu (800 words for 1), Mawt (1000 words for 1), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 1-2)
+    - Post-HuntS4 LF Battle: Bard (1000 words for 1-2)
     - MT Battles: Tylu (600 words for 1), Villager (1300 words for 1), Velts (800 words for 1-3)
     - BC, FB, SC, TT Battles: Alnu (400 words for 1-2)
     - BC Battles: Xuso (450 words for 0-1)

@@ -1,4 +1,4 @@
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 16 DEC 2020
 
 So, here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -170,6 +170,8 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - TT: Boots Made For Climbing (1), Scouting the Trees (1), TT: Buholi in the Sky (10)
+  - MT: Tinkering With Leafsung (5)
+  - HuntS1: Proving Your Perserverance 3/4 (1)
 
 ### Buhovi (Exp: TT)
 
@@ -261,8 +263,8 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 40
 - **Drops:** 1 Gobkey Trinket, 0-1 Raw Gold, 0-2 Coins
 - **Quests:**
-  - Functionally, anything requiring a Gobkey Trinket requires a Gobkey battle.
   - GL: Shadows In Flux (5)
+  - HuntS1: Proving Your Perserverance 3/4 (1)
 
 ### Grey's Mawt (Oge: LF∆, MT∆)
 
@@ -282,6 +284,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 0-1 Spider Poison (usually 1), 3-4 Rope, 0-1 Feathers (usually 1), 3 Leaves
 - **Quests:**
   - MT: Fair, Standard, Middling (25)
+  - HuntS1: Proving Your Mettle 5/6 (1)
 
 ### Kaija (Exp: BC)
 
@@ -292,6 +295,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - Functionally, anything that requires Saliva Vial will require a Kaija battle — and any battle involving a monster starting with Sapi- requires a Saliva Vial. See Sapi- monsters for details.
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
+  - HuntS1: Proving Your Perserverance 3/4 (3)
 
 ### Kuay (Oge: MT)
 
@@ -299,6 +303,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Time Allowed:** 80 minutes
 - **XP:** 94
 - **Drops:** 1 Spider Legs, 4 Wood, 2 Leaves
+- **Quests:** HuntS1: Proving Your Mettle 5/6 (1)
 
 ### Lombri (LATER GAME)
 
@@ -310,6 +315,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 0-1 Feathers (usually 1), 2 Dust, 1-2 Lorsa Fur, 0-1 Reenu Wings (usually 1)
 - **Quests:**
   - MT: Main Quest 1/To Great Heights (1),  Tinkering With Leafsung 1/5 (5)
+  - HuntS1: Proving Your Mettle 5/6 (1)
 
 ### Maikile (Exp: GL)
 
@@ -328,6 +334,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - LF: Forest Creatures (1)
   - MT: Tinkering With Leafsung 1/5 (5)
+  - HuntS1: Proving Your Worth 1/4 (1)
 
 ### Nezthai (Exp: FB)
 
@@ -339,6 +346,15 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
   - Functionally, anything that requires Nezthai Claws will require a Nezthai battle — and any battle involving a monster starting with Buh- requires Nezthai Claws. See Buh- monsters and All Resources for further info.
   - BC: Nabia's Exploration (1)
 
+### Night Dandeleon (Exp: GL∆)
+
+- **Requirements:** 330 words (also only appears at night, usually either 18:00-6:00 or 19:00-7:00 local time)
+- **Time allowed:** 40 minutes
+- **XP:** 30
+- **Drops:** 1 Dandeleon Flower, 1 Dust, 1-2 Leaves
+- **Quests:**
+  - GL: Bright Night Blossoms (5)
+
 ### Nitana (Oge: LF)
 
 - **Requirements**: 700 words
@@ -348,15 +364,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - LF: Main Quest 3/The Nitana (1), Forest Creatures (1)
   - MT: Fair, Standard, Middling (25)
-
-### Night Dandeleon (Exp: GL∆)
-
-- **Requirements:** 330 words (also only appears at night, usually either 18:00-6:00 or 19:00-7:00 local time)
-- **Time allowed:** 40 minutes
-- **XP:** 30
-- **Drops:** 1 Dandeleon Flower, 1 Dust, 1-2 Leaves
-- **Quests:**
-  - GL: Bright Night Blossoms (5)
+  - HuntS1: Proving Your Curiosity 2/4 (6)
 
 ### Oncaiii (Exp: SC)
 
@@ -376,6 +384,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 1 Reenu Wings, 1-2 Fur, 1 Claws, 1 Wood
 - **Quests:**
   - LF: Forest Creatures (1)
+  - HuntS1: Proving Your Worth 1/4 (1)
 
 ### Puna (Oge: LF)
 
@@ -396,6 +405,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - LF: Forest Creatures (1)
   - MT: Itsy, Bitsy, Teeny (25)
+  - HuntS1: Proving Your Worth 1/4 (3)
 
 ### Reudod (Exp: SC)
 
@@ -428,6 +438,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 1 Leaves, 1-2 Dust
 - **Quests:**
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
+  - HuntS1: Proving Your Perserverance 3/4 (1)
 
 ### Sapilo (Exp: SC)
 
@@ -438,6 +449,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - SC: Nothing But Trouble (2), Scouting the Land (1), Sleepless in Stone City (8), Stone City Chaos (4)
+  - HuntS1: Proving Your Cunning 4/4 (2)
 
 ### Sapira (Exp: SC)
 
@@ -448,6 +460,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - SC: Nothing But Trouble (2), Scouting the Land (1), Stone City Chaos (4)
+  - HuntS1: Proving Your Cunning 4/4 (4)
 
 ### Sapiti (Exp: SC)
 
@@ -459,6 +472,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
   - MT: Warm Creature Highlights 1/3 (5)
   - BC: Nabia's Exploration (1)
   - SC: Nothing But Trouble (2), Scouting the Land (1), Stone City Chaos (4)
+  - HuntS1: Proving Your Cunning 4/4 (3)
 
 ### Sassi (Oge: LF*; Exp: unpredictable)
 
@@ -496,6 +510,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 1 Essence, 3 Wood, 5 Fur, 2 Tambo Mane, 2-3 Leaves, 1 Wooden Chest, 1-2 Raw Stone, 2 Dust, 1 Old Staff
 - **Quests:**
   - MT: Huge, Gigantic, Enormous (25); Sand Mountain Caravan (5)
+  - HuntS1: Proving Your Mettle 5/6 (1)
 
 ### Tylu (Oge: MT)
 
@@ -505,6 +520,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 3 Fur, 2-3 Claws, 1 Leaves, 1 Rope
 - **Quests:**
   - MT: A Family Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); New Adventurous Horizons (1)
+  - HuntS1: Proving Your Strength 6/6 (6)
 
 ### Vanstra (Oge: MT)
 
@@ -579,6 +595,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - LF: Main Quest 1/Luciola Forest Caretaker (4), Forest Creatures (1)
   - MT: Tinkering With Leafsung 1/5 (5), Watering Hole (44)
   - GL: Eat the Leaves? (10)
+  - HuntS1: Proving Your Worth 1/4 (2)
 
 ### Xin (EVERYWHERE)
 

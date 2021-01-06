@@ -1,4 +1,4 @@
-LAST UPDATED 9 DEC 2020
+LAST UPDATED 15 DEC 2020
 
 The final lap! The season of Jubilee! And we go all over the game to do so...
 
@@ -92,7 +92,7 @@ The Hunter Token changeover is delayed until October 30, so that the next token 
 
 # Late Nov/early Dec 2020
 
-### New S4 Quests: Late Oct 2020
+### New S4 Quests: Late Nov 2020
 
 - A Battle of Celebration
 - Sing Your Commitment (3/4)
@@ -100,11 +100,11 @@ The Hunter Token changeover is delayed until October 30, so that the next token 
 - Still Missing Something
 - Stories to Tell
 
-### New S4 Monster: Late Oct 2020
+### New S4 Monster: Late Nov 2020
 
 - Morimet
 
-### New S4 Resource: Late Oct 2020
+### New S4 Resource: Late Nov 2020
 
 - NONE
 
@@ -144,9 +144,26 @@ For December, the trend is "Green and White".
 - PG Battles: Global and Hunt only
 - CAVE Battles: Chio (100 words for 1), Gliva (300 words for 3), Gormist (1667 words for 17), Letos (700 words for 7), Olanat (1100 words for 11), Reflection (4444 words for 45), Spina (450 words for 4-5), Tacin (150 words for 1-2), Ulos (650 words for 6-7), Vafire (500 words for 5)
 
-###New Wardrobe Items: Late Oct 2020
+###New Wardrobe Items: Late Nov 2020
 
 - Bard's Hat - 100 Hunter Tokens
 - Caretaker's Hair - 100 Hunter Tokens
 - Curator's Timepiece - 100 Hunter Tokens
 - Shepherd's Robes - 100 Hunter Tokens
+
+# 13 Dec 2020
+
+We're surprised with an early release of what looks to be the Hunt Year 1 wrapup!
+
+### New Quests: 13 Dec 2020
+
+- Proving Your Friendship
+- Celebrate Stories (offered globally initially until Winter Wonderland starts 18 Dec)
+
+### New Monsters: 13 Dec 2020
+
+- Bard
+
+### All else 13 Dec 2020
+
+No change

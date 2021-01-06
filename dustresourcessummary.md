@@ -1,4 +1,4 @@
-LAST UPDATED 9 DEC 2020
+LAST UPDATED 15 DEC 2020
 
 I was of two minds opening this section, given that the Dust summary is similar to the All Game - but then I decided that narrowing this down to "resources available in the Dust Region without traveling" might be a useful thing. And of course "resources NOT available in the Dust Region, but you'll need them, and here's where you might have forgotten them".
 
@@ -52,6 +52,7 @@ WATER
   - PG Battle: Dark Assassin (1200 words for 25)
   - CAVE Battles: Gormist (1667 words for 50), Olanat (1100 words for 25)
   - Post-HuntS3 Ruins Battle: Morimet (2500 words for 27-88)
+  - Post-HuntS4 LF Battle: Bard (1000 words for 8-23)
 - **Other sources:** 
   - Anywhere Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
   - sell items (River Grass and Gold Bars can be especially good for this; Raw Fabric can also be useful. Protective Mantles & Cloaks may also be sold.)
@@ -326,6 +327,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 
 - **Sources:** DESERT, WATER,
   - PG Battle: Dark Assassin (1200 words for 1-3)
+  - post-HuntS4 LF Battle: Bard (1000 words for 1-2)
 - **Craft:** DESERT
 - **Sell price:** 75 Coins (don't sell unless you have >50)
 - **Used for:** DESERT
@@ -515,6 +517,7 @@ ALL GAME
 - **Hunt Sources:** 
 
   - FOREST, DESERT, WATER
+  - Post-HuntS4 LF Battle: Bard (1000 words for 10)
   - Post-HuntS3 GL Battle: Mirdor (1500 words for 15)
   - Post-HuntS3 Ruins Battle: Morimet (2500 words for 25)
   - Post-HuntS3 Riza Battles: Weekiwa (900 words for 9)
@@ -750,6 +753,7 @@ FOREST EXPEDITION ONLY
   - DFO Battles: Burhar (1500 words for 2-4), Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 2), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 2)
   - CAVE Battles: Sakot (1000 words for 3-6), Gormist (1667 words for 3-7), Olanat (1100 words for 1-4)
   - Post-HuntS3 Ruins Battle: Morimet (2500 words for 2-6)
+  - Post-HuntS4 LF Battle: Bard (1000 words for 1-4)
 - **Buy:** DESERT
 - **Sell price:** 8 Coins (don't sell unless you have >200; if you also have Red Dye and Essence, craft Fine Fabric for a better sell option)
 - **Used for:** DESERT, WATER,
@@ -760,6 +764,7 @@ FOREST EXPEDITION ONLY
 - **Best sources:** DESERT, WATER
   - Post-DFO Ruins Battle: Spirit Griffe (480 words for 1)
   - Post-HuntS3 Ruins Battle: Morimet (2500 words for 2-6)
+  - Post-HuntS4 LF Battle: Bard (1000 words for 3)
 - **Other sources:** FOREST
 - **Buy:** DESERT
 - **Sell price:** 12 Coins (please don't sell this, you'll make so much more if you craft it into Gold Bars.)
@@ -920,7 +925,8 @@ Note: Must complete the DFO Quest Reinforced Ardi Lamp Station to unlock the abi
   - Anywhere Battles: Awa (200 words for 2)
 - **Other sources:** WATER,
   - DFO Battles: Burhar (1500 words for 3-5), Caretaker (1200 words for 2-4), Takori (600 words for 1), Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 2-5)
-  - Post-HuntS3 GL Battle: Mirdor
+  - Post-HuntS3 GL Battle: Mirdor (1500 words for 2-3)
+  - Post-HuntS4 LF Battle: Bard (1000 words for 1-2)
   - PG Battle: Leopar (800 words for 2-3)
   - Anywhere Battles: Viyusa (25 minutes for 2-7)
 - **Buy:** FOREST, WATER, DESERT

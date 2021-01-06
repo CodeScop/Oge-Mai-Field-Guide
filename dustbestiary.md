@@ -1,4 +1,4 @@
-LAST UPDATED 9 DEC 2020
+LAST UPDATED 16 DEC 2020
 
 I resisted making this at first, because surely the end of the Dust Region is functionally identical to the whole game, right?
 
@@ -204,6 +204,16 @@ HuntS4: Hunt for the Ancients Season 4
 ### Balatros (Exp: ShrineMar)
 
 ### Balli Ooze (Exp: Shrine GO)
+
+### Bard
+
+- **Location:** Luciola Forest
+- **Unlocked by:** HuntS4 Quest: Still Missing Something
+- **Requirements:** 1000 words
+- **Time allowed:** 120 minutes (2 hours)
+- **XP:** 100
+- **Drops:** 10 Hunter Tokens, 1-4 Raw Fabric, 1-2 Fine Fabric, 1-2 Rope, 8-23 Coins, 3 Raw Gold
+- **Quests:** HuntS4: Proving Your Friendship (4)
 
 ### Bashta (Exp: Sacred)
 
@@ -595,6 +605,7 @@ see **Skuppa's Giant Marionette**
   - Functionally, anything that requires Saliva Vial will require a Kaija battle — and any battle involving a monster starting with Sapi- requires a Saliva Vial. See Sapi- monsters for details.
   - MT: Creature Colors & Highlights 3/3 (10)
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
+  - HuntS1: Proving Your Perserverance 3/4 (3)
 
 ### Kapir (Exp: Dig)
 
@@ -766,9 +777,9 @@ see **Skuppa's Giant Marionette**
   - BC: Nabia's Exploration (1)
   - DFO: Familiar Family Friends (5)
 
-### Nitana (Oge: LF)
-
 ### Night Dandeleon (Exp: GL∆)
+
+###Nitana (Oge: LF)
 
 ### Noasis (Exp: ShrineBird)
 
@@ -906,6 +917,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - LF: Forest Creatures (1)
   - MT: Itsy, Bitsy, Teeny (25)
+  - HuntS1: Proving Your Worth 1/4 (3)
   - Balance: Elemental Power (5)
   - DFO: Familiar Family Friends (5)
 
@@ -961,6 +973,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Leaves, 1-2 Dust
 - **Quests:**
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
+  - HuntS1: Proving Your Perserverance 3/4 (1)
   - DFO: Familiar Family Friends (5)
 
 ### Sakish (Exp: Dig)
@@ -1133,6 +1146,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 3 Fur, 2-3 Claws, 1 Leaves, 1 Rope
 - **Quests:**
   - MT: A Family Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); New Adventurous Horizons (1)
+  - HuntS1: Proving Your Strength 6/6 (6)
   - DFO: Reinforced Ardi Station 1/4 (1)
 
 ### Ulos (Oge: CAVE*)
@@ -1266,6 +1280,7 @@ see **Skuppa's Giant Marionette**
   - LF: Main Quest 1/Luciola Forest Caretaker (4), Forest Creatures (1)
   - MT: Tinkering With Leafsung 1/5 (5), Watering Hole (44)
   - GL: Eat the Leaves? (10)
+  - HuntS1: Proving Your Worth 1/4 (2)
   - DFO: Familiar Family Friends (5)
   - HuntS4: Sing Your Wander 4/4 (1)
 

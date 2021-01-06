@@ -1,4 +1,4 @@
-LAST UPDATED 9 DEC 2020
+LAST UPDATED 16 DEC 2020
 
 Beware! **Here be spoilers**. Every single quest requiring a given monster is listed, no matter how late in the game it appears. Don't say I didn't warn you. But maybe you'll be able to mix and match quests more efficiently.
 
@@ -329,6 +329,16 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Drops:** 1 Bones Chest, 2-3 Bones, 3-5 Fur, 2-3 Spirit Dust
 - **Quests:** DFO: Main Quest 11/To Hound Babu (1), Fetch! Play! Battle! (5)
 
+### Bard
+
+- **Location:** Luciola Forest
+- **Unlocked by:** HuntS4 Quest: Still Missing Something
+- **Requirements:** 1000 words
+- **Time allowed:** 120 minutes (2 hours)
+- **XP:** 100
+- **Drops:** 10 Hunter Tokens, 1-4 Raw Fabric, 1-2 Fine Fabric, 1-2 Rope, 8-23 Coins, 3 Raw Gold
+- **Quests:** HuntS4: Proving Your Friendship (4)
+
 ### Balatras (Exp: ShrineMar)
 
 - **Unlocked by:** Wardrobe: Marionette Time Bracelet
@@ -445,14 +455,11 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 
 - **Quests:**
 
-  OGE-MAI
-
   - MT: Tinkering With Leafsung (5)
 
-  EXPEDITION
-
   - BC: Nabia's Exploration (1)
-  - TT: Boots Made For Climbing (1), Scouting the Trees (1)
+- TT: Boots Made For Climbing (1), Scouting the Trees (1)
+  - HuntS1: Proving Your Perserverance 3/4 (1)
 
 ### Buholi (Exp: TT)
 
@@ -1131,6 +1138,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - MT: Cool Creature Highlights 2/3 (10)
   - GL: Shadows In Flux (5)
+  - HuntS1: Proving Your Perserverance 3/4 (1)
 
 ### Gordi (Exp: Ruins)
 
@@ -1244,6 +1252,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 0-1 Spider Poison (usually 1), 3-4 Rope, 0-1 Feathers (usually 1), 3 Leaves
 - **Quests:**
   - MT: Fair, Standard, Middling (25)
+  - HuntS1: Proving Your Mettle 5/6 (1)
   - Balance: Elemental Power (5)
 
 ### Imali (Exp: Dig)
@@ -1318,6 +1327,7 @@ see **Skuppa's Giant Marionette**
   - Functionally, anything that requires Saliva Vial will require a Kaija battle — and any battle involving a monster starting with Sapi- requires a Saliva Vial. See Sapi- monsters for details.
   - MT: Creature Colors & Highlights 3/3 (10)
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
+  - HuntS1: Proving Your Perserverance 3/4 (3)
 
 ### Kapir (Exp: Dig)
 
@@ -1438,6 +1448,7 @@ see **Skuppa's Giant Marionette**
 - **Time Allowed:** 80 minutes
 - **XP:** 94
 - **Drops:** 1 Spider Legs, 4 Wood, 2 Leaves
+- **Quests:** HuntS1: Proving Your Mettle 5/6 (1)
 
 ### Kuldoro (Exp: Sacred)
 
@@ -1528,6 +1539,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 0-1 Feathers (usually 1), 2 Dust, 1-2 Lorsa Fur, 0-1 Reenu Wings (usually 1)
 - **Quests:**
   - MT: Main Quest 1/To Great Heights (1),  Tinkering With Leafsung 1/5 (5)
+  - HuntS1: Proving Your Mettle 5/6 (1)
 
 ### Lubu (Exp: Dig, Ruins)
 
@@ -1568,7 +1580,7 @@ see **Skuppa's Giant Marionette**
 
 # M-Z
 
-LAST UPDATED 9 DEC 2020
+LAST UPDATED 16 DEC 2020
 
 ### Maesc (Exp: IC)
 
@@ -1621,6 +1633,7 @@ LAST UPDATED 9 DEC 2020
 - **Quests:**
   - LF: Forest Creatures (1)
   - MT: Tinkering With Leafsung 1/5 (5)
+  - HuntS1: Proving Your Worth 1/4 (1)
 
 ### Miclan (Oge: DFO*)
 
@@ -1747,6 +1760,15 @@ LAST UPDATED 9 DEC 2020
   - BC: Nabia's Exploration (1)
   - DFO: Familiar Family Friends (5)
 
+### Night Dandeleon (Exp: GL∆)
+
+- **Requirements:** 330 words (also only appears at night, usually either 18:00-6:00 or 19:00-7:00 local time)
+- **Time allowed:** 40 minutes
+- **XP:** 30
+- **Drops:** 1 Dandeleon Flower, 1 Dust, 1-2 Leaves
+- **Quests:**
+  - GL: Bright Night Blossoms (5)
+
 ### Nitana (Oge: LF)
 
 - **Requirements**: 700 words
@@ -1756,15 +1778,7 @@ LAST UPDATED 9 DEC 2020
 - **Quests:**
   - LF: Main Quest 3/The Nitana (1), Forest Creatures (1)
   - MT: Fair, Standard, Middling (25)
-
-### Night Dandeleon (Exp: GL∆)
-
-- **Requirements:** 330 words (also only appears at night, usually either 18:00-6:00 or 19:00-7:00 local time)
-- **Time allowed:** 40 minutes
-- **XP:** 30
-- **Drops:** 1 Dandeleon Flower, 1 Dust, 1-2 Leaves
-- **Quests:**
-  - GL: Bright Night Blossoms (5)
+  - HuntS1: Proving Your Curiosity 2/4 (6)
 
 ### Noasis (Exp: ShrineBird)
 
@@ -1964,6 +1978,7 @@ LAST UPDATED 9 DEC 2020
 - **Drops:** 1 Reenu Wings, 1-2 Fur, 1 Claws, 1 Wood
 - **Quests:**
   - LF: Forest Creatures (1)
+  - HuntS1: Proving Your Worth 1/4 (1)
 
 ### Piachi (Exp: ShrineGiant)
 
@@ -2088,6 +2103,7 @@ LAST UPDATED 9 DEC 2020
 - **Quests:**
   - LF: Forest Creatures (1)
   - MT: Itsy, Bitsy, Teeny (25)
+  - HuntS1: Proving Your Worth 1/4 (3)
   - Balance: Elemental Power (5)
   - DFO: Familiar Family Friends (5)
 
@@ -2225,6 +2241,7 @@ LAST UPDATED 9 DEC 2020
 - **Drops:** 1 Leaves, 1-2 Dust
 - **Quests:**
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
+  - HuntS1: Proving Your Perserverance 3/4 (1)
   - DFO: Familiar Family Friends (5)
 
 ### Sakish (Exp: Dig)
@@ -2255,6 +2272,7 @@ LAST UPDATED 9 DEC 2020
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - SC: Nothing But Trouble (2), Scouting the Land (1), Sleepless in Stone City (8), Stone City Chaos (4)
+  - HuntS1: Proving Your Cunning 4/4 (2)
 
 ### Sapira (Exp: SC)
 
@@ -2265,6 +2283,7 @@ LAST UPDATED 9 DEC 2020
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - SC: Nothing But Trouble (2), Scouting the Land (1), Stone City Chaos (4)
+  - HuntS1: Proving Your Cunning 4/4 (4)
 
 ### Sapiti (Exp: SC)
 
@@ -2276,6 +2295,7 @@ LAST UPDATED 9 DEC 2020
   - MT: Warm Creature Highlights 1/3 (5)
   - BC: Nabia's Exploration (1)
   - SC: Nothing But Trouble (2), Scouting the Land (1), Stone City Chaos (4)
+  - HuntS1: Proving Your Cunning 4/4 (3)
 
 ### Sassi (Oge: LF*; Exp: unpredictable)
 
@@ -2402,6 +2422,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Time allowed:** 100 minutes (1 hour 40 minutes)
 - **XP:** 50
 - **Drops:** 2 Leather Rolls, 1 Spirit Dust
+- **Quests:** none yet
 
 ### Spirit Gordiliana (Exp: Ruins*)
 
@@ -2419,6 +2440,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Time allowed:** 90 minutes (1 hour 30 minutes)
 - **XP:** 45
 - **Drops:** 2-3 Raw Stone, 1 Raw Gold, 1 Raw Sandstone, 1 Spirit Dust
+- **Quests:** none yet
 
 ### Spirit Lorsini (Oge: MT*)
 
@@ -2531,6 +2553,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Quests:**
   - MT: Huge, Gigantic, Enormous (25); The Invisible Ink 5/5 (1); Sand Mountain Caravan (5)
   - 3PC: A Way North: Up the Mountain (1)
+  - HuntS1: Proving Your Mettle 5/6 (1)
   - HuntS2: A Season to Explore (1)
 
 ### Tambo Hologram (Exp: RLab)
@@ -2620,6 +2643,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 3 Fur, 2-3 Claws, 1 Leaves, 1 Rope
 - **Quests:**
   - MT: A Family Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); New Adventurous Horizons (1)
+  - HuntS1: Proving Your Strength 6/6 (6)
   - DFO: Reinforced Ardi Station 1/4 (1)
 
 ### Ulos (Oge: CAVE*)
@@ -2881,6 +2905,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - LF: Main Quest 1/Luciola Forest Caretaker (4), Forest Creatures (1)
   - MT: Tinkering With Leafsung 1/5 (5), Watering Hole (44)
   - GL: Eat the Leaves? (10)
+  - HuntS1: Proving Your Worth 1/4 (2)
   - DFO: Familiar Family Friends (5)
   - HuntS4: Sing Your Wander 4/4 (1)
 

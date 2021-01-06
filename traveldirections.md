@@ -1,4 +1,4 @@
-LAST UPDATED 9 SEPT 2020
+LAST UPDATED 15 DEC 2020
 
 So! The game has just updated with the Expedition bonus sections. And lovely as they are, it's changed the game from a more-or-less predetermined Main Quest track to a multiple pathway system.
 
@@ -53,6 +53,8 @@ So, the basics:
 # Expedition
 
 The Expedition region currently has 4 entrances, one unlocking at the end of each Oge-Mai Area starting with Mama Tree and ending at Riza Rivertown. (For now.)
+
+**A Quick Summary before we get to directions:**
 
 The **Forest Region of Expedition** can be accessed via **Mama Tree in Oge-Mai** once all its Main Quests are done. The Forest Expedition includes the following areas:
 
@@ -169,3 +171,15 @@ Quests are still obtained in Luciola Forest, but the monsters and goals are prim
 **Flying Past Sparks** gives Hunt Map Piece 8 and **Bettering Ourselves** uses it.
 
 **Insight Grows** gives Hunt Map Piece 9 and **Bigger & Brighter** uses it.
+
+Bigger and Brighter unlocks the Caretaker (in Dark Forest Outpost) and the capstone quest: **A Bubble Dream**, which unlocks Season 4.
+
+### Season 4 - based all over
+
+The side quests for Season 4 do focus on the Dust Region, but the main part of this one goes everywhere else instead. **Once again, Hunt Map Piece-providing quests may be picked up simultaneously.**
+
+**Something Extraordinary** gives Hunt Map Piece 10 and **Dirt to Dust** uses it.
+
+**Ideas Brought to Life** gives Hunt Map Piece 11 and **Celebrate Joy** uses it.
+
+And then along comes **Still Missing Something** which takes away ALL the Hunt Map Pieces so far and lets you unlock **Proving Your Friendship**, which appears to be the capstone of Year 1 of the Hunt (writing this in December 2020; who knows what will happen when the next year of the Hunt unlocks on 24 Jan 2021???)

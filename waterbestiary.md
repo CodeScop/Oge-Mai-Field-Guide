@@ -1,4 +1,4 @@
-LAST UPDATED 25 SEPT 2020
+LAST UPDATED 16 DEC 2020
 
 Once again! Here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -333,14 +333,11 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 
 - **Quests:**
 
-  OGE-MAI
-
   - MT: Tinkering With Leafsung (5)
 
-  EXPEDITION
-
   - BC: Nabia's Exploration (1)
-  - TT: Boots Made For Climbing (1), Scouting the Trees (1)
+- TT: Boots Made For Climbing (1), Scouting the Trees (1)
+  - HuntS1: Proving Your Perserverance 3/4 (1)
 
 ### Buholi (Exp: TT)
 
@@ -678,6 +675,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - MT: Cool Creature Highlights 2/3 (10)
   - GL: Shadows In Flux (5)
+  - HuntS1: Proving Your Perserverance 3/4 (1)
 
 ### Gordi (Exp: Ruins)
 
@@ -768,6 +766,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 0-1 Spider Poison (usually 1), 3-4 Rope, 0-1 Feathers (usually 1), 3 Leaves
 - **Quests:**
   - MT: Fair, Standard, Middling (25)
+  - HuntS1: Proving Your Mettle 5/6 (1)
   - Balance: Elemental Power (5)
 
 ### Imali (Exp: Dig)
@@ -830,6 +829,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - Functionally, anything that requires Saliva Vial will require a Kaija battle — and any battle involving a monster starting with Sapi- requires a Saliva Vial. See Sapi- monsters for details.
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
+  - HuntS1: Proving Your Perserverance 3/4 (3)
 
 ### Kapir (Exp: Dig)
 
@@ -927,6 +927,7 @@ see **Skuppa's Giant Marionette**
 - **Time Allowed:** 80 minutes
 - **XP:** 94
 - **Drops:** 1 Spider Legs, 4 Wood, 2 Leaves
+- **Quests:** HuntS1: Proving Your Mettle 5/6 (1)
 
 ### Kuldoro (Exp: Sacred)
 
@@ -992,6 +993,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 0-1 Feathers (usually 1), 2 Dust, 1-2 Lorsa Fur, 0-1 Reenu Wings (usually 1)
 - **Quests:**
   - MT: Main Quest 1/To Great Heights (1),  Tinkering With Leafsung 1/5 (5)
+  - HuntS1: Proving Your Mettle 5/6 (1)
 
 ### Lubu (Exp: Dig, Ruins)
 
@@ -1033,6 +1035,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - LF: Forest Creatures (1)
   - MT: Tinkering With Leafsung 1/5 (5)
+  - HuntS1: Proving Your Worth 1/4 (1)
 
 ### Maesc (Exp: IC)
 
@@ -1115,6 +1118,15 @@ see **Skuppa's Giant Marionette**
   - Functionally, anything that requires Nezthai Claws will require a Nezthai battle — and any battle involving a monster starting with Buh- requires Nezthai Claws. See Buh- monsters and All Resources for further info.
   - BC: Nabia's Exploration (1)
 
+### Night Dandeleon (Exp: GL∆)
+
+- **Requirements:** 330 words (also only appears at night, usually either 18:00-6:00 or 19:00-7:00 local time)
+- **Time allowed:** 40 minutes
+- **XP:** 30
+- **Drops:** 1 Dandeleon Flower, 1 Dust, 1-2 Leaves
+- **Quests:**
+  - GL: Bright Night Blossoms (5)
+
 ### Nitana (Oge: LF)
 
 - **Requirements**: 700 words
@@ -1124,15 +1136,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - LF: Main Quest 3/The Nitana (1), Forest Creatures (1)
   - MT: Fair, Standard, Middling (25)
-
-### Night Dandeleon (Exp: GL∆)
-
-- **Requirements:** 330 words (also only appears at night, usually either 18:00-6:00 or 19:00-7:00 local time)
-- **Time allowed:** 40 minutes
-- **XP:** 30
-- **Drops:** 1 Dandeleon Flower, 1 Dust, 1-2 Leaves
-- **Quests:**
-  - GL: Bright Night Blossoms (5)
+  - HuntS1: Proving Your Curiosity 2/4 (6)
 
 ### Noasis (Exp: ShrineBird)
 
@@ -1248,6 +1252,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Reenu Wings, 1-2 Fur, 1 Claws, 1 Wood
 - **Quests:**
   - LF: Forest Creatures (1)
+  - HuntS1: Proving Your Worth 1/4 (1)
 
 ### Piachi (Exp: ShrineGiant)
 
@@ -1321,6 +1326,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - LF: Forest Creatures (1)
   - MT: Itsy, Bitsy, Teeny (25)
+  - HuntS1: Proving Your Worth 1/4 (3)
   - Balance: Elemental Power (5)
 
 ### Reudod (Exp: SC)
@@ -1433,6 +1439,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Leaves, 1-2 Dust
 - **Quests:**
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
+  - HuntS1: Proving Your Perserverance 3/4 (1)
 
 ### Sakish (Exp: Dig)
 
@@ -1453,6 +1460,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - SC: Nothing But Trouble (2), Scouting the Land (1), Sleepless in Stone City (8), Stone City Chaos (4)
+  - HuntS1: Proving Your Cunning 4/4 (2)
 
 ### Sapira (Exp: SC)
 
@@ -1463,6 +1471,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - SC: Nothing But Trouble (2), Scouting the Land (1), Stone City Chaos (4)
+  - HuntS1: Proving Your Cunning 4/4 (4)
 
 ### Sapiti (Exp: SC)
 
@@ -1474,6 +1483,7 @@ see **Skuppa's Giant Marionette**
   - MT: Warm Creature Highlights 1/3 (5)
   - BC: Nabia's Exploration (1)
   - SC: Nothing But Trouble (2), Scouting the Land (1), Stone City Chaos (4)
+  - HuntS1: Proving Your Cunning 4/4 (3)
 
 ### Sassi (Oge: LF*; Exp: unpredictable)
 
@@ -1617,6 +1627,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Quests:**
   - MT: Huge, Gigantic, Enormous (25); The Invisible Ink 5/5 (1); Sand Mountain Caravan (5)
   - 3PC: A Way North: Up the Mountain (1)
+  - HuntS1: Proving Your Mettle 5/6 (1)
   - HuntS2: A Season to Explore (1)
 
 ### Tambo Hologram (Exp: RLab)
@@ -1685,6 +1696,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 3 Fur, 2-3 Claws, 1 Leaves, 1 Rope
 - **Quests:**
   - MT: A Famiy Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); New Adventurous Horizons (1)
+  - HuntS1: Proving Your Strength 6/6 (6)
 
 ### Untu Golem (Exp: ShrineGiant)
 
@@ -1879,6 +1891,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - LF: Main Quest 1/Luciola Forest Caretaker (4), Forest Creatures (1)
   - MT: Tinkering With Leafsung 1/5 (5), Watering Hole (44)
   - GL: Eat the Leaves? (10)
+  - HuntS1: Proving Your Worth 1/4 (2)
 
 ### Wignow Hologram (Exp: RLab)
 
