@@ -1,4 +1,4 @@
-LAST UPDATED 8 OCT 2020
+LAST UPDATED 9 JAN 2021
 
 Streak rewards! The nice perks gained by maintaining your streak. **Feel free to skip straight down to the list that's all you care about, but note there's a reason I also list Wings separately at the end.**
 
@@ -6,9 +6,9 @@ So, this is something that's a little difficult to track (it's not like you can 
 
 It's also hard to manipulate. You can't just up and redo a Day 55 Streak Reward. (Although I would like to note that you *can* redo early Streak Rewards pretty easily, by breaking your streak and starting over; if you have enough Stempos to repair the break, you can afford to redo up to the Day 27 Streak Reward several times. Or, say, the Day 23 reward, if you're really desperate for Spider Poison. Don't forget to repair the streak *before* the 30-day limit, though, if you want it to get beyond that point.)
 
-**I am not going to include Streak Rewards as sources of resources.** It's too finicky a way to farm, and too hard to keep reliable info. If you have any updates or corrections to offer, please let me know here: https://4thewords.com/forum/thread-streak-rewards-help
+So, long story short: I can't check this methodically alone, and I don't have the time/energy to crowdsource multiple times. Caveat lector.
 
-Also, 24 November 2019 saw a much-needed overhaul of the rewards which apparently hadn't changed substantially in two years. I'm currently including the outdated ones for the curious.
+**I am not going to include Streak Rewards as sources of resources.** It's too finicky a way to farm, and too hard to keep reliable info. If you have any updates or corrections to offer, please let me know here: https://4thewords.com/forum/thread-streak-rewards-help
 
 ###Streak Rewards Listed In Calendar:
 
@@ -38,7 +38,7 @@ Day 40: 25 Coins
 
 Day 44: 4 Core Crystals
 
-Day 52: 4 Spider Legs (formerly nothing)
+Day 52: 4 Spider Legs
 
 Day 60: 1 Wooden Chest
 
@@ -52,13 +52,13 @@ Day 88: 3 Stone Blocks
 
 Day 90: Wardrobe: Marionette Wings
 
-Day 100: 10 Core Crystals (formerly 1 Golden Chest)
+Day 100: 10 Core Crystals
 
-Day 105: 3 Steel (formerly 5 Fur)
+Day 105: 3 Steel
 
 Day 111: 50 Coins
 
-Day 117: 3 Leafsung Ink (formerly 3 Rusty Amulets)
+Day 117: 3 Leafsung Ink
 
 Day 120: 1 Wooden Key
 
@@ -66,7 +66,7 @@ Day 127: 1 Wooden Chest
 
 Day 135: 5 Spider Poison
 
-Day 140: 2 Wood Hammers & 10 Love Reactions (formerly 2 Wood Hammers)
+Day 140: 2 Wood Hammers & 10 Love Reactions
 
 Day 148: 5 Raw Fabric
 
@@ -74,17 +74,17 @@ Day 150: 2 Stempos
 
 Day 155: 25 Coins
 
-Day 165: 3 Stone Blocks (formerly 10 Core Crystals)
+Day 165: 3 Stone Blocks
 
-Day 172: 2 Wooden Keys (formerly 10 Leaves)
+Day 172: 2 Wooden Keys
 
-Day 177: 3 Steel Bars (formerly 10 Wood)
+Day 177: 3 Steel Bars
 
 Day 182: Wardrobe: Fabric Wings
 
 Day 188: 1 Stempo
 
-Day 200: 10 Core Crystals (formerly 1 Golden Chest)
+Day 200: 10 Core Crystals
 
 Day 205: 3 Glass Shards
 
@@ -94,27 +94,27 @@ Day 222: 2 Stempos
 
 Day 230: 5 Feathers
 
-Day 240: 3 Stone Blocks (formerly 10 Leaves)
+Day 240: 3 Stone Blocks
 
 Day 250: 1 Gold Bar
 
-Day 257: 5 Spider Poison (formerly 1 Leafsung Wooden Sword)
+Day 257: 5 Spider Poison
 
-Day 260: 5 Nets (formerly 5 Raw Fabric)
+Day 260: 5 Nets
 
-Day 265: 10 Fintastic! Reactions (formerly nothing)
+Day 265: 10 Fintastic! Reactions
 
 Day 270: 25 Coins
 
-Day 275: 3 Stempos (formerly 10 Core Crystals)
+Day 275: 3 Stempos
 
 Day 282: 1 Wooden Chest
 
 Day 290: 2 Tambo Mane
 
-Day 300: 10 Core Crystals (formerly 3 Stempos)
+Day 300: 10 Core Crystals
 
-Day 305: 10 Leaves (10 Keep Writing Reactions also listed, but not received when Muisje hit the milestone 27 Dec 2019 with Stempos) (formerly 10 Leaves)
+Day 305: 10 Leaves (10 Keep Writing Reactions also listed, but not received when Muisje hit the milestone 27 Dec 2019 with Stempos) 
 
 Day 315: 3 Raw Gold
 
@@ -124,9 +124,9 @@ Day 330: 5 Spider Poison
 
 Day 333: 1 Leafsung Key
 
-Day 345: 3 Steel Bars (formerly 3 Raw Steel)
+Day 345: 3 Steel Bars
 
-Day 350: 1 Stone Chest (formerly 15 Core Crystals)
+Day 350: 1 Stone Chest
 
 Day 360: 2 Stone Blocks
 
@@ -134,13 +134,13 @@ Day 365: Wardrobe: Angel Wings
 
 Day 390: 1 Red Dye
 
-Day 400: 10 Core Crystals (formerly 2 Golden Chests)
+Day 400: 10 Core Crystals
 
-Day 409: 5 Leafsung Ink (formerly 15 Leaves)
+Day 409: 5 Leafsung Ink
 
 Day 413: 5 Raw Fabric
 
-Day 420: 10 I Believe In You Reactions (formerly nothing)
+Day 420: 10 I Believe In You Reactions
 
 Day 427: 1 Steel Dagger
 
@@ -150,19 +150,19 @@ Day 444: 4 Stempos
 
 Day 450: 2 Golden Chests
 
-Day 461: 3 Steel Bars (formerly 3 Lorsa Fur)
+Day 461: 3 Steel Bars
 
-Day 475: 5 Nets (formerly 1 Spider Bow)
+Day 475: 5 Nets
 
 Day 492: 100 Coins
 
-Day 500: 10 Core Crystals (formerly 25 Core Crystals)
+Day 500: 10 Core Crystals
 
 Day 511: 2 Wooden Keys
 
-Day 525: 5 Red Dye (formerly 3 Red Dye)
+Day 525: 5 Red Dye
 
-Day 533: 10 Hero Reactions (formerly nothing)
+Day 533: 10 Hero Reactions
 
 Day 540: 10 Spider Poison
 
@@ -170,13 +170,13 @@ Day 547: Wardrobe: Color Angel Wings
 
 Day 550: 5 Stempos
 
-Day 562: 5 Glass Bars (formerly 3 Glass Bars)
+Day 562: 5 Glass Bars
 
 Day 575: 2 Steel Swords
 
-Day 590: 3 Stone Blocks (formerly 15 Leaves)
+Day 590: 3 Stone Blocks
 
-Day 600: 10 Core Crystals (formerly 1 Protective Mantle)
+Day 600: 10 Core Crystals
 
 Day 606: 50 Coins
 
@@ -184,17 +184,17 @@ Day 616: 2 Stone Chests
 
 Day 630: 3 Tambo Manes
 
-Day 640: 2 Stone Chests (formerly 10 Raw Fabric)
+Day 640: 2 Stone Chests
 
 Day 650: 5 Stempos
 
-Day 666: 10 On Fire Reactions (formerly nothing)
+Day 666: 10 On Fire Reactions
 
 Day 676: 100 Coins
 
-Day 686: 5 Nets (formerly 3 Nets)
+Day 686: 5 Nets
 
-Day 700: 10 Core Crystals (formerly 25 Core Crystals)
+Day 700: 10 Core Crystals
 
 Day 711: 1 Stone Ring
 
@@ -203,8 +203,6 @@ Day 730: Wardrobe: Archangel Wings
 Day 737: 3 Stone Chests
 
 Day 750: 5 Stempos
-
-**Here's where we get special** - prior to the Nov 2019 update, only annual Wings were awarded after this point. And since fewer Dust Warriors have made it this far, my data is far patchier. I'll fill it in as I can.
 
 Day 760: 3 Leafsung Ink
 
@@ -314,6 +312,10 @@ Day 1350: 10 I Believe In You Reactions
 
 **GAP**
 
+**(No one's told me yet what to expect here)**
+
+**(And I won't get there till around 2022, if my streak holds!)**
+
 Day 1430: 11 On Fire Reactions
 
 Day 1444: 10 Nets
@@ -367,6 +369,8 @@ Day 1825: Wardrobe: Crystal Wings
 Day 1850: 10 Stempos
 
 Day 1860: 10 Hero Reactions
+
+**(WHO KNOWS?!?!?!?)**
 
 ### Wings
 

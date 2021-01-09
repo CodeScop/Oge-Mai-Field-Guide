@@ -1,4 +1,4 @@
- (Table of Contents last updated 26 Oct 2020)
+ (Table of Contents last updated 9 Jan 2021)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -284,6 +284,7 @@
   - P-R
   - S
   - T-Z
+- Spoilers: Streak Rewards and Level Rewards
   - Streak Rewards
   - Level Rewards
 - All Battle Gear & All Wardrobe
