@@ -1,141 +1,149 @@
-LAST UPDATED 15 DEC 2020
+LAST UPDATED 25 JAN 2021
 
 Hey! Loading up the info for the Hunt. It takes a while to incorporate everything properly throughout the Guide, but it doesn't take long to gather the new info. So! Here is New Info Only for the Hunt for the Ancients. (Please, please just look at the regular sections if you aren't up to the latest point; there's nothing here that will be likely to serve you before then.)
 
-**Doing this a little differently Dec 2020** - we functionally had our major drop for November 24, and then a little Season 4 wrapup popped up Dec 13. I'm putting the Dec 13 info at the top of the sections since it's newest, but retaining the Nov 24 drops below.
+You may notice that a lot of the quests below don't specify how they're unlocked. That's because I don't know. They're not available to my temp account that's made it halfway through Season 1, and they are available to my temp account that's just started Season 4.
+
+Also, my recommendations are tentative at the moment; without knowing what's behind or what's ahead any more than anyone else, it's hard to prioritize. Guesses only below!
 
 #FAIR WARNING: SPOILERS AHEAD.
 
-## New Quests: Dec 2020
+## New Quests: Jan 2021
 
-###Celebrate Stories
+###The Winding Path to Elder Library
 
-- **Unlocked by:** FOR DEC 13-18: available to ALL users under Global Quests; presumably unlocked by HuntS4 Still Missing Something thereafter
-- **Type:** Wordcount
-- **Requirements:** Write 5000 words
-- **Rewards:** 10 Core Crystals, 10 Reactions: Celebrate, 10 Reactions: For The Valley!
-- **Recommendations:**  10 CORE CRYSTALS. FOR 5K WORDS. GET. THIS. NOW.
-
-###Proving Your Friendship
-
-- **Unlocked by:**  HuntS4 Quest: Still Missing Something
+- **Location:** Mama Tree
+- **Unlocked by:** Opening Mama Tree
 - **Type:** Battle
-- **Requirements:** Defeat the Bard 4 times
-- **Rewards:** Wardrobe: Bard's Pet https://4thewords.com/media/wardrobe/featured/male/wm_1502-ferret-pet-10188-43895.png
-- **Recommendations:**  It's the capstone of the first year of the Hunt! Complete and celebrate your completion!
+- **Requirements:** Defeat 3 Tylu and 3 Illi
+- **Rewards:** Unlock Elder Library; 100 Coins
+- **Recommendations:**  This is NOT OPTIONAL; you'll need to complete this quest to access anything else about the Hunt that you don't already have in your possession. The good news: lots of goodies ahead!
 
-## New Quests: Nov 2020
+###Velts' Relaxation Method
 
-###Still Missing Something
-
-- **Unlocked by:**  HuntS4 Quest: Celebrate Joy
-- **Type:** Streak, Collection
-- **Requirements:** Attain 10-day Streak, deliver all 11 Hunt Map Pieces
-- **Rewards:** Wardrobe: Hunt Map Hands https://4thewords.com/media/wardrobe/featured/male/wm&#95;872-hunt-map-hands-6024-61497.png
-- **Recommendations:**  This unlocks the Bard and the end of the first year of the Hunt! Alas, it will take all your Hunt Map Pieces away (or "hurrah", if you were weirded out by that huge chunk in your inventory), but at least you'll have a Map in hand.
-
-###Sing Your Commitment (3/4)
-
-- **Unlocked by:** HuntS4 Quest: Sing Your Bravery (2/2)
-- **Type:** Streak
-- **Requirements:** Attain a 15-day Streak
-- **Rewards:** 25 Hunter Tokens
-- **Recommendations:**  It's a bit tedious. But the satisfaction of cleaning out this chain...
-
-###Sing Your Wander (4/4)
-
-- **Unlocked by:** HuntS4 Quest: Sing Your Commitment (3/4)
+- **Location:** Elder Library
+- **Unlocked by:** ?
 - **Type:** Battle
-- **Requirements:** Defeat 1 each: Wignow, Desert Wignow, Dust Wignow, Spirit Wignow, and Swamp Wignow
-- **Rewards:** Wardrobe: Facepaint Around Eye https://4thewords.com/media/wardrobe/featured/male/wm&#95;660-hunt-facepaint-around-eye-3951-47167.png
-- **Recommendations:**  See what else you can get going for you while you're on this one. It involves a fair amount of travel, although 160 Coins will pay for you to make a one-way trip across the Valley, and 320 will pay for a round trip, so this might be worth shelling out for.
-
-###Stories to Tell
-
-- **Unlocked by:** HuntS3 Quest: A Bubble Dream
-- **Type:** Wordcount
-- **Requirements:** Write 25K Words
+- **Requirements:** Defeat 1 Maikile, 1 Buholi, 1 Oncaiii, and 1 Nezthai
 - **Rewards:** 25 Hunter Tokens
-- **Recommendations:** I am never one to turn down wordcount quests, because you can always add to them while you're doing other things.
+- **Recommendations:**  I suspect this is not all that important, but it's a nice way to make things count double!
 
-###A Battle of Celebration
+###Velts' Strong Start
 
-- **Unlocked by:** HuntS3 Quest: A Bubble Dream
+- **Location:** Elder Library
+- **Unlocked by:** ?
+- **Type:** Streak, Wordcount, Battle
+- **Requirements:** Reach 10-day Streak, write 10000 words, defeat 1 Tambo
+- **Rewards:** 2 Stempos and Wardrobe: Hunt Aging Eyebrows https://4thewords.com/media/wardrobe/featured/male/wm&#95;1529-hunt-aging-eyebrows-10437-30092.png
+- **Recommendations:**  My *guess* (emphasis on "guess") is that this will be the start of another Velts chain for this season, so I'm happy to get it out of the way. Curious if my guess holds up!
+
+###A Secret Plan?
+
+- **Location:** Elder Library
+- **Unlocked by:** ?
 - **Type:** Battle
-- **Requirements:** Defeat 3 Morimet
+- **Requirements:** Defeat 3 Assassins & 1 Villager
+- **Rewards:** Wardrobe: Hunt Eyepatch https://4thewords.com/media/wardrobe/featured/male/wm&#95;1532-hunt-cloth-eyepatch-10480-77717.png
+- **Recommendations:**  Here, I'm torn between "this feels like a throwaway quest" and "but the lore hints sound important!" I'll just settle for "hey, look, Assassins drop lots of nifty things and make sure you fight the Villager in Mama Tree, where it won't cost you!"
+
+###Familiar Assistants Needed!
+
+- **Location:** Elder Library
+- **Unlocked by:** ?
+- **Type:** Battle
+- **Requirements:** Defeat 4 each Sassi, Alnu, Burocat, and Clawadin
+- **Rewards:** Wardrobe: Hunt Aging Beard https://4thewords.com/media/wardrobe/featured/male/wm&#95;1526-hunt-aging-beard-10389-52135.png
+- **Recommendations:**  This one REALLY feels like an optional sidequest, but we'll see! Could Velts's concern about the Assistants bode some change for the Curator this Season?
+
+###Curator's Catalog Collections
+
+- **Location:** Elder Library
+- **Unlocked by:** ?
+- **Type:** Collection
+- **Requirements:** Deliver 3 Essence, 1 Spider Poison, 3 Lorsa Fur, 1 Tambo Mane, and 5 Claws
 - **Rewards:** 25 Hunter Tokens
-- **Recommendations:**  Right now, this doesn't look like it actually does anything, since we have all the Hunt Map Pieces in hand; we'll see if that holds true once the Bard appears!
+- **Recommendations:**  This is mostly "put excess materials to good use", in my book; a lot of these materials will have been gathered with the quests to break into the Elder Library, so hurrah to that having a use for even experienced Hunt followers!
 
-## New Hunt Monsters: Dec 2020
+###Into Forest Depths 1/3
 
-### Bard
+- **Location:** Elder Library
+- **Unlocked by:** ?
+- **Type:** Collection, Battle
+- **Requirements:** Deliver 2 Saliva Vials and 2 Dandeleon Flowers, and defeat 3 Kaija, 3 Xuso, 5 Ardia, 5 Ardii, and 5 Ardis
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:**  You won't need to focus on Saliva Vials, since they'll pop up anyway while you're battling Kaija; if you've lost track, these monsters can be found entirely within Base Camp and Forward Base (or you can skip FB and battle Ardi-beasts in Mama Tree, if you've done the FB quest unlocking them!)
 
-- **Location:** Luciola Forest
-- **Unlocked by:** HuntS4 Quest: Still Missing Something
-- **Requirements:** 1000 words
-- **Time allowed:** 120 minutes (2 hours)
-- **XP:** 100
-- **Drops:** 10 Hunter Tokens, 1-4 Raw Fabric, 1-2 Fine Fabric, 1-2 Rope, 8-23 Coins, 3 Raw Gold
-- **Quests:** HuntS4: Proving Your Friendship (4)
+###Into Forest Depths 2/3
 
-## New Hunt Monsters: Nov 2020
+- **Location:** Elder Library
+- **Unlocked by:** Into Forest Depths 1/3
+- **Type:** Collection, Battle
+- **Requirements:** Deliver 5 Dinti and 1 Spider Poison; defeat 5 Reudod, 3 Oncaiii, and 1 Finoir
+- **Rewards:** Wardrobe: Hunt Facemask https://4thewords.com/media/wardrobe/featured/male/wm&#95;1534-hunt-neck-guard-10523-15955.png
+- **Recommendations:**  Here, we move from BC and FB to Stone City and Tall Trees. The Spider Poison will pop up when you fight Oncaiii anyway; you will get some Dinti from Finoir, but might want to fight its tiny Scofin cousins to rack up more. (Or you might have plenty from the Alien Expedition.)
 
-### Morimet
+###Into Forest Depths 3/3
 
-- **Location:** Underground Ruins
-- **Unlocked by:** HuntS3 Quest: A Bubble Dream
-- **Requirements:** 2500 words
-- **Time allowed:** 600 minutes (10 hours)
-- **XP:** 250
-- **Drops:** 2-6 Raw Fabric, 27-88 Coins, 2-6 Raw Gold, 4-7 Fur, 1-3 Wooden Key, 1-2 Leafsung Key, 25 Hunter Tokens
-- **Quests:** HuntS4: A Battle of Celebration (3)
+- **Location:** Elder Library
+- **Unlocked by:** Into Forest Depths 2/3
+- **Type:** Collection, Battle
+- **Requirements:** Deliver 2 Gobkey Trinkets, 2 Dandeleon Flowers, and 2 Essence; defeat 5 Gobkey, 5 Dandeleon, and 5 Maikile
+- **Rewards:** 10 Hunter Tokens and House Item: Hunt Shield Ornament https://4thewords.com/public/hideouts/hideout&#95;element&#95;322&#95;30102/variant&#95;icon&#95;1197&#95;737.png 
+- **Recommendations:**  Hey, first House Item reward!!! (It can also be crafted in the Hunter Token Store if you want a more detailed look at it.) You'll definitely get all your resources during your battles, which are largely in Guardian's Lair. (I wonder if the Forward-Base-dwelling Dandeleon was originally a Guardian's-Lair-dwelling Night Dandeleon? If so, the switch was kind to users; Night Dandeleons disappear during the day, but their cousins are available 24/7.)
 
-## New Resources: Nov 2020
+## New Hunt Monsters: Jan 2021
 
-- NONE. We have collected all Hunt Map Pieces.
+- none
 
-## Hunter Token Sources: Dec 2020
+## Hunter Token Sources: Jan 2021
 
-**Dec 2020 Sources Outside the Hunt:**
+**Jan 2021 Sources Outside the Hunt:**
 
-Note: I'm marking this as "December" instead of "Late November" because for the entire duration of NaNo, right through early December, Hunter Tokens were dropping from NaNo event monsters and Hunt monsters only.
+For January, the clue is an image in the news announcement: https://4thewords.com/forum/details-325 The image looks like a torn rectangle of creamy parchment with a dark red color painted over most of it, and a much darker reddish-brown cursive capital L. The consensus is that this means red monsters, and monsters with names starting with L - which is a solid rule of thumb for the monsters below, but not entirely reliable. 
 
-For December, the trend is "Green and White".
-
-- Global Battles: Vi (5 minutes for ), Xin (100 words for 1)
-- LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Grey's Mawt (850 words for 8-9), Nitana (700 words for 7), Spirit Wignow (450 words for 4-5), Wignow (250 words for 2-3)
-- MT Battles: Assassin (1400 words for 14), Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 8-9), Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
+- Global Battles: Viyu (15 minutes for ?)
+- LF Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2)
+- MT Battles: Assassin (1400 words for 14), Lorsa (450 words for 4-5), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words for 13)
 - FOREST EXPEDITION:
-  - BC Battles: Sacer (120 words for 1-2)
-  - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6), Spirit Ardia (80 words for 0-1)
-  - SC Battles: Reudod (600 words for 6)
-  - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7)
-  - GL Battles: Night Dandeleon (330 words for 3-4)
-- 3PC Battles: Global and Hunt only
+  - BC Battles: Kaija (240 words for 2-3), Sacer (120 words for 1-2)
+  - SC Battles: Oncaiii (800 words for 8), Sapilo (450 words for 4-5), Sapira (350 words for 3-4), Sapiti (300 words for 3)
+  - FB, TT, GL Battles: Global and Hunt monsters only
+- 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
 - ALIEN EXPEDITION:
-  - IC Battles: Nedi (800 words for 8), Rosarin (500 words for 5)
-  - SpaceS Battles: Szalin (700 words for 7), Yalarr (500 words for 5)
-  - MiningS Battles: Halix (250 words for 2-3), Pach (200 words for 2), Skarn (1100 words for 11), Zals (900 words for 9)
-  - RL Battles: Dr. Enoe (1500 words for 15), Dr. Hogglevoss (1200 words for 12), Fonar (200 words for 2), Gwynos (450 words for 4-5)
-- Gansu Battles: Sparfly (450 words for 4-5), Suulan (2000 words and 1 Steel Dagger for 20)
+  - IC, RLab Battles: Global and Hunt monsters only
+  - SpaceS Battles: Ledd (500 words for 5)
+  - MiningS Battles: Pach (200 words for 2)
+- Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Puna (150 words and 1 Wood Fishing Rod for 1-2), Rulo (550 words for 5-6)
 - DESERT EXPEDITION:
-  - DigS Battles: Global and Hunt only
-  - Ruins Battles: Global and Hunt only
-- Riza Battles: Patliadu (750 words and 1 Harpoon for 7-8), Sparfly (450 words for 4-5), Wyvern (1300 words for 13)
+  - DigS Battles: Loi (150 words for 1-2)
+  - Ruins Battles: Global and Hunt monsters only
+- Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Puna (150 words and 1 Wood Fishing Rod for 1-2), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
 - RAINA EXPEDITION:
-  - SurfaceC Battles: Auwi (500 words for 5), Wyvern (1300 words for 13)
-  - SwampL Battle: Copei (800 words for 8), Galai (1500 words for 15), Larida (1000 words for 10), Swamp Wignow (500 words for 5)
-  - SacredS Battle: Ognimaf (300 words for 3), Swamp Wignow (500 words for 5)
-  - Hideout Battles: Necog (450 words for 4-5)
-- Balance Battles: Castu (450 words and 1 Water Mask for 4-5), Isartu (720 words for 7-8), Sliv (550 words and 1 Water Mask for 5-6), Spirit Castu (550 words for 5-6), Vezi (1300 words, 1 Water Mask, and 1 Underwater Torch for 13)
-- DFO Battles: Burhar (1500 words for 15), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment, and 1 Blue Essence Ink for 50), Papple (1000 words for 10), Spirit Ardia (80 words for 0-1)
-- PG Battles: Global and Hunt only
-- CAVE Battles: Chio (100 words for 1), Gliva (300 words for 3), Gormist (1667 words for 17), Letos (700 words for 7), Olanat (1100 words for 11), Reflection (4444 words for 45), Spina (450 words for 4-5), Tacin (150 words for 1-2), Ulos (650 words for 6-7), Vafire (500 words for 5)
+  - SurfaceC Battles: Begala (300 words for 3), Droxa (1800 words for 18), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
+  - SwampL Battles: Larida (1000 words for 10)
+  - SacredS Battles: Pedja (1000 words for 10)
+  - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Wisthu (800 words for 8)
+- Balance Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2), Xyplos (2000 words, 1 Water Mask, and 1 Underwater Torch for 20)
+- DFO Battles: Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 20), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 11)
+- PG Battles: Leopar (800 words for 8)
+- CAVE Battles: Global and Hunt monsters only
 
-## New Wardrobe Items: Nov 2020
+## New Token Store Items: Jan 2021
 
-- Bard's Hat - 100 Hunter Tokens
-- Caretaker's Hair - 100 Hunter Tokens
-- Curator's Timepiece - 100 Hunter Tokens
-- Shepherd's Robes - 100 Hunter Tokens
+- **WARDROBE ITEMS & COSTS:**
+  - Hunt Fabric Belt - 30 Hunter Tokens
+  - Hunt Hanging Scarf - 50 Hunter Tokens
+  - Hunter Shorts - 50 Hunter Tokens
+  - Hunter Turban With Hair - 75 Hunter Tokens
+  - Hunt Side Cover Shirt - 100 Hunter Tokens
+  - Hunter Long Skirt - 125 Hunter Tokens
+  - Hunter Pants - 125 Hunter Tokens
+  - Hunt Centered Long Skirt - 150 Hunter Tokens
+- **HOUSE ITEMS & COSTS:**
+  - Hunt Shield Ornament - 250 Hunter Tokens, 1 Wooden Plank, 1 White Fur
+  - Hunt Fabric Stool - 100 Hunter Tokens, 1 Fabric Roll
+  - Hunt Wall Banner - 100 Hunter Tokens, 5 Fabric Rolls
+  - Hunt Carpet - 100 Hunter Tokens, 3 Fabric Rolls
+  - Hunt Hammock - 125 Hunter Tokens, 3 Fabric Rolls, 1 Wooden Plank, 4 Rope
+  - Hunt Chair - 500 Hunter Tokens, 2 Wooden Planks
 

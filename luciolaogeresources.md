@@ -97,22 +97,11 @@ See Hunt or regional Resource sections for details
 
 ### Hunter Tokens
 
-- **Hunt Sources:** 
-
-  Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
-
-  - Global Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4)
-  - LF Battles: Sassi (600 words for 6)
-  - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
-  - later game
-
-- **Sources Outside the Hunt:**
-
-  - See Hunt or regional Resource sections for details
+- **Sources:** Changes from month to month, based on a theme. Later in the game, you can unlock the Hunt for the Ancients and unlock monsters that drop Hunter Tokens consistently. (I list more info in the Hunt sections and the Forest, Desert, Water, Dust, and All Resources sections, if you're curious and don't mind spoilers.)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
-- **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices)
+- **Used for:** later game
 
 ### Leaf Boots 
 

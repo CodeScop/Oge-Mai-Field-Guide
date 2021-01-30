@@ -1,4 +1,4 @@
-LAST UPDATED 14 AUG 2020 
+LAST UPDATED 25 JAN 2021
 
 Adding in all the numbers this time, but be aware: I'm assuming you have at least some Luck.
 
@@ -72,10 +72,6 @@ Adding in all the numbers this time, but be aware: I'm assuming you have at leas
 - **Time Allowed:** 340 minutes (5 hours, 40 minutes)
 - **XP:** 158
 - **Drops:** 0-1 Tambo Mane, 2 Essence, 1-2 Rope, 1 Wooden Chest, 0-1 Old Staff, 1-2 Fur
-
-### * Sassi
-
-See the Hunt for the Ancients Season 1 for details. Or play around. :)
 
 ### Note on the Vi-Beasts
 

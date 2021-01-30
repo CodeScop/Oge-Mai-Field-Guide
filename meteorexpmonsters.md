@@ -362,7 +362,7 @@ LAST UPDATED 7 SEPT 2020
 - **XP:** 10
 - **Drops:** 1 Raw Steel
 
-### * Xomri
+### * Xombri
 
 - **Unlocked by:** RLab Quest: Zappy Zazzy Xombri
 - **Requirements:** 300 words

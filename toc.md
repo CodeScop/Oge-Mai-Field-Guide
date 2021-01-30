@@ -1,4 +1,4 @@
- (Table of Contents last updated 9 Jan 2021)
+ (Table of Contents last updated 25 Jan 2021)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -9,14 +9,6 @@
   - Luciola Open: Side Quests
   - Luciola Open: Monsters
   - Luciola Main Quests
-- Hunt for the Ancients INTRO
-  - Intro to Hunt for the Ancients
-  - New This Month/SPOILERS
-    - New Quests
-    - New Hunt Monsters
-    - New Resources
-    - Hunter Token Sources
-    - New Wardrobe Items
 - Luciola Forest Summary
   - Sidequests - Luciola Forest
   - Monsters - Luciola Forest
@@ -28,6 +20,13 @@
   - Mama Tree Open: Sidequests
   - Mama Tree Open: Monsters
   - Mama Tree Main Quests
+- Hunt for the Ancients INTRO
+  - Intro to Hunt for the Ancients
+  - New This Month/SPOILERS
+    - New Quests
+    - New Hunt Monsters
+    - Hunter Token Sources
+    - New Hunter Token Store Items
 - Mama Tree Summary
   - Sidequests: Mama Tree
   - Monsters: Mama Tree

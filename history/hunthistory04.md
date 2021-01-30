@@ -1,4 +1,4 @@
-LAST UPDATED 15 DEC 2020
+LAST UPDATED 14 JAN 2021
 
 The final lap! The season of Jubilee! And we go all over the game to do so...
 
@@ -159,6 +159,16 @@ We're surprised with an early release of what looks to be the Hunt Year 1 wrapup
 
 - Proving Your Friendship
 - Celebrate Stories (offered globally initially until Winter Wonderland starts 18 Dec)
+
+UPDATE: Celebrate Stories appears to have been an event-only quest, which was kindly extended until around the end of Winter Wonderland. Here's what I had to say about it:
+
+###Celebrate Stories
+
+- **Unlocked by:** FOR DEC 13-JAN 8: available to ALL users under Global Quests
+- **Type:** Wordcount
+- **Requirements:** Write 5000 words
+- **Rewards:** 10 Core Crystals, 10 Reactions: Celebrate, 10 Reactions: For The Valley!
+- **Recommendations:**  10 CORE CRYSTALS. FOR 5K WORDS. GET. THIS. NOW.
 
 ### New Monsters: 13 Dec 2020
 

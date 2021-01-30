@@ -1,4 +1,4 @@
-LAST UPDATED 9 JAN 2021
+LAST UPDATED 30 JAN 2021
 
 Streak rewards! The nice perks gained by maintaining your streak. **Feel free to skip straight down to the list that's all you care about, but note there's a reason I also list Wings separately at the end.**
 
@@ -21,6 +21,8 @@ Day 5: 10 Coins
 Day 8: 2 Rope
 
 Day 13: 10 Coins
+
+Day 15 (NOT LISTED IN CALENDAR): Wardrobe: Wood Wings may be "purchased" at the Tailor in Luciola Forest (no actual cost)
 
 Day 17: 5 Dust
 
@@ -364,11 +366,33 @@ Day 1785: 3 Golden Chests
 
 Day 1800: 10 Core Crystals
 
-Day 1825: Wardrobe: Crystal Wings
+Day 1825 (NOT LISTED IN CALENDAR): Wardrobe: Crystal Wings (must be "purchased" in Floating City of Balance, will not appear on their own)
 
 Day 1850: 10 Stempos
 
 Day 1860: 10 Hero Reactions
+
+Day 1888: 3 River Water
+
+Day 1900: 10 Core Crystals
+
+Day 1919: 10 Stone Blocks
+
+Day 1936: 3 Bones Chests
+
+Day 1944: 3 Bone Keys
+
+Day 1960: 10 Beautiful Reactions
+
+Day 1975: 3 Stone Keys
+
+Day 1977: 5 Leafsung Ink
+
+Day 2000: 10 Core Crystals
+
+Day 2020: 50 Rope
+
+Day 2044: 10 Steel Bars
 
 **(WHO KNOWS?!?!?!?)**
 

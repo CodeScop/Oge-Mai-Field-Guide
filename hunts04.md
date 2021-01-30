@@ -1,4 +1,4 @@
-LAST UPDATED 15 DEC 2020
+LAST UPDATED 14 JAN 2021
 
 Season 3 started blurring the lines of where the Seasons take place (after all, the Van- monsters popped up all over the game to drop Hunter Tokens). Season 4 is ranging all over right from the start. Sure, most of the miscellaneous quests take place in the Dust Region, but Dust Velts isn't in the Dust, the first presumable-Assistant type is deep in the Forest... it's a time to wander everywhere and explore everything!
 
@@ -103,14 +103,6 @@ Season 3 started blurring the lines of where the Seasons take place (after all, 
 - **Requirements:** Defeat 1 Velts: Dust
 - **Rewards:** Wardrobe: Hunt Battle Helmet https://4thewords.com/media/wardrobe/featured/female/wf&#95;634-hunt-battle-helment-3693-42038.png (7 variants)
 - **Recommendations:** Shockingly, Dust Velts is to be found in the Water Region, possibly enjoying Dí at Luko's Inn. As far as I can tell, this is the end of the quest chain, but this Velts has particularly nice drops (especially if you've recently opened Raina, or really any area beyond Riza). And once again, even though I divide these Velts quests into Seasons, you can complete them all while still being in Season 1.
-
-###Celebrate Stories
-
-- **Unlocked by:** FOR DEC 13-18: available to ALL users under Global Quests; presumably unlocked by HuntS4 Still Missing Something thereafter
-- **Type:** Wordcount
-- **Requirements:** Write 5000 words
-- **Rewards:** 10 Core Crystals, 10 Reactions: Celebrate, 10 Reactions: For The Valley!
-- **Recommendations:**  10 CORE CRYSTALS. FOR 5K WORDS. GET. THIS. NOW.
 
 ### Cheer Your Dedication
 
@@ -303,7 +295,6 @@ Season 4 is unlocked by completing the quest A Bubble Dream, and you can see tha
   - HuntS4 Celebrate Joy - have Hunt Map Piece 11 and attain 7-day Streak, get Wardrobe: Facepaint Eye Stroke
     - HuntS4 Still Missing Something - get 10-day Streak and hand in all 11 Hunt Map pieces, get Wardrobe: Hunt Map Hands
       - HuntS4 Proving Your Friendship - defeat 4 of the Bard, get Wardrobe: Bard's Pet
-      - ? **Prerequisites uncertain; initial Global offering till 18 Dec has no prereqs** HuntS4 Celebrate Stories - write 5K words, get 10 Core Crystals and 10 each of the Reactions Celebrate and For The Valley
 - HuntS4 Something Extraordinary - defeat 3 Mirdor, get Hunt Map Piece 10 and 10 Hunter Tokens
 - HuntS4 Ideas Brought to Life - defeat 3 Weekiwa, get Hunt Map Piece 11 and 10 Hunter Tokens
 - HuntS4 A Battle of Celebration - defeat 3 Morimet, get 25 Hunter Tokens
