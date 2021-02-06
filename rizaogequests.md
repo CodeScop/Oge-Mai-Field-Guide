@@ -52,7 +52,7 @@ If there's an asterisk, it unlocked in the process of going through this region.
 
 ## Riza Rivertown Sidequests
 
-LAST UPDATED: 13 SEPT 2020
+LAST UPDATED: 31 JAN 2021
 
 If there's an asterisk, it unlocked in the process of going through this region.
 
@@ -199,8 +199,8 @@ None, but it's worth noting that it's now possible to do the **Guard Your Feet**
 - **Unlocked by:** Riza Main Quest 6/Journey Upriver
 - **Type:** Collection
 - **Requirements:** Deliver 25 Dí Bags
-- **Rewards:** 1 Wooden Chest & 1 Wooden Key
-- **Recommendations:** Hard pass until you finish the main game and move on to finishing up the corners; this is a waste of resources right now.
+- **Rewards:** 3 Wooden Chest, 1 Wooden Key, 3 Stempos
+- **Recommendations:** Those chests, that key, and those Stempos are mighty nice, but those Dí Bags are mighty expensive. I'd recommend saving this at least until you've done everything you want to do in the Water Region (quests, battles, etc) so that you can take maximum advantage of what River Water you accrue on the way.
 
 ##Luciola Sidequests Unlocked by Riza
 

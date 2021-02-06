@@ -1,4 +1,4 @@
-LAST UPDATED 10 DEC 2020
+LAST UPDATED 31 JAN 2021
 
 Here are ALL THE THINGS available in the Forest. LF is Luciola Forest. MT is Mama Tree. HuntS1 is Hunt for the Ancients Season 1. And for the Expedition...
 
@@ -141,7 +141,7 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
 - **Sell price:** 8 Coins (don't sell unless you have >500)
 - **Used for:** 
   - Craft MT: Leafsung Ink (5), Rusty Pendant (2), Wood Spear (1)
-  - LF Quest: Don't Regift Curses/Main Quest 4 (4), Save the Children (8), Make Ink Sing (10), Make Words Sing (20) Make Attacks Sing (30)
+  - LF Quest: Don't Regift Curses/Main Quest 4 (4), Save the Children (10), Make Ink Sing (10), Make Words Sing (20) Make Attacks Sing (30)
   - MT Quests: Main Quest 2/A Secret Message (3), Shaman's Hideout (8)
 
 ### Feathers

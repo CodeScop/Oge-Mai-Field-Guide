@@ -1,4 +1,4 @@
-LAST UPDATED 30 JAN 2021
+LAST UPDATED 6 FEB 2021
 
 Streak rewards! The nice perks gained by maintaining your streak. **Feel free to skip straight down to the list that's all you care about, but note there's a reason I also list Wings separately at the end.**
 
@@ -312,11 +312,13 @@ Day 1345: 25 Rope
 
 Day 1350: 10 I Believe In You Reactions
 
-**GAP**
+Day 1366: 2 Stone Chests
 
-**(No one's told me yet what to expect here)**
+Day 1380: 10 Fintastic Reactions
 
-**(And I won't get there till around 2022, if my streak holds!)**
+Day 1400: 10 Core Crystals
+
+Day 1411: 5 Steel Bars
 
 Day 1430: 11 On Fire Reactions
 

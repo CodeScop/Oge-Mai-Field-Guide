@@ -186,7 +186,7 @@ NOTE: All Hunt quests are picked up in Luciola Forest, regardless of what Region
 
 # Side Quests, in Alphabetical Order: A-M
 
-LAST UPDATED 15 DEC 2020
+LAST UPDATED 31 JAN 2021
 
 ### Aid the Aliens - SpaceS
 
@@ -727,7 +727,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
   - 15 River Water - Water Region, especially Raina Expedition
   - 30 Leaves
   - 3 Vezi Shell - Floating City of Balance, midway through Main Quests
-  - 18 Ardii Dust - easiest to find in Forward Base
+  - 5 Ardii Dust - easiest to find in Forward Base
   - 5 Dinti
   - 5 Saliva Vials - Base Camp
   - 5 Feathers - easiest to find in the Forest Region

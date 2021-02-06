@@ -1,4 +1,4 @@
-LAST UPDATED 10 DEC 2020
+LAST UPDATED 31 JAN 2021
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Water-only otherwise.
 
@@ -1131,6 +1131,7 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
 - **Sources:** 
   - Riza Stone Chest: 1
   - Riza Quests: Steel Weapons (3), Dí Production (1)
+  - post-Riza MT Quest: Quench a Thirst (3)
   - DESERT
   - SurfaceC Quest: Steel Boots (3)
   - Hideout Quest: Uncanny Swamp Wisthu (3)
@@ -1332,9 +1333,9 @@ See **Wooden Fishing Rod**.
 - **Best sources:** 
   - Global Quests: Daily Short Story
   - FOREST, DESERT
-  - MT Quest: River Water For...? (1, appears post-Riza)
 - **Other sources:**
   - Balance Quest: Gone Fishing Part 2 (1)
+  - post-Riza MT Quests: River Water For...? (1), Quench a Thirst (3)
 - **Sell price:** 10 Coins (DON'T SELL CHESTS WHY WOULD YOU)
 - **Used for:** 
   - FOREST, DESERT
@@ -1354,9 +1355,9 @@ also called "Wood Fishing Rod"
 - **Best sources:** 
   - Global Quests: Daily Monster Hunter (1)
   - FOREST, DESERT
-  - MT Quest: River Water For...? (1, appears post-Riza)
 - **Other source:**
   - Balance Quest: Gone Fishing Part 2 (1)
+  - post-Riza MT Quest: River Water For...? (1), Quench a Thirst (1)
 - **Sell price:** 25 Coins (DON'T SELL KEYS WHY WOULD YOU)
 - **Used for:** FOREST, DESERT
 

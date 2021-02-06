@@ -1,4 +1,4 @@
-LAST UPDATED 10 DEC 2020
+LAST UPDATED 31 JAN 2021
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Riza-only otherwise.
 
@@ -754,6 +754,7 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
   - Riza Stone Chest: 1
   - Riza Quests: Steel Weapons (3), Dí Production (1)
   - DESERT
+  - new Forest quest: MT: Quench a Thirst (3)
 - **Craft:** DESERT
 - **Sell Price:** Priceless. Sorry, 250 Coins, but DON'T SELL.
 - **Used for:** 
@@ -895,7 +896,7 @@ See **Wooden Fishing Rod**.
 - **Best sources:** 
   - Global Quests: Daily Short Story
   - FOREST, DESERT 
-  - new Forest quests: LF: Little Forest Lake (1) MT: River Water For…?(1), Quench a Thirst (1)
+  - new Forest quests: LF: Little Forest Lake (1) MT: River Water For…?(1), Quench a Thirst (3)
 - **Sell price:** 10 Coins (DON'T SELL CHESTS WHY WOULD YOU)
 - **Used for:** 
   - FOREST, DESERT

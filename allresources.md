@@ -1,6 +1,6 @@
 #A-F
 
-LAST UPDATED 15 DEC 2020
+LAST UPDATED 31 JAN 2021
 
 ##Abbreviations Used:
 
@@ -601,7 +601,7 @@ ALL GAME, especially FOREST, DESERT, DUST
 - **Used for:** 
   - FOREST
     - Craft MT: Leafsung Ink (5), Rusty Pendant (2), Wood Spear (1)
-    - LF Quest: Don't Regift Curses/Main Quest 4 (4), Save the Children (8), Make Ink Sing (10), Make Words Sing (20) Make Attacks Sing (30)
+    - LF Quest: Don't Regift Curses/Main Quest 4 (4), Save the Children (10), Make Ink Sing (10), Make Words Sing (20) Make Attacks Sing (30)
     - MT Quests: Main Quest 2/A Secret Message (3), Shaman's Hideout (8), Creature Colors & Highlights 3/3 (10)
   - DESERT
     - Craft 3PC: Fine Fabric (1)
@@ -1433,7 +1433,7 @@ FOREST, DESERT
 
 # P-R
 
-LAST UPDATED 15 DEC 2020
+LAST UPDATED 31 JAN 2021
 
 ### Pickaxe
 
@@ -1870,7 +1870,7 @@ WATER, DUST
     - Balance Battles: Water Rudakai (need 3)
     - Balance Quests: Cast Out Castu (need 10)
   - DUST: 
-    - DFO Quest: Main Quest 12/Well of Lost Souls (15), Dessti's New Home (15), Rebuild the Dock (50)
+    - DFO Quest: Main Quest 12/Well of Lost Souls (15), Dessti's New Home (25), Rebuild the Dock (50)
     - DFO Craft: Reinforced Ardi Lamp (1)
     - CAVE Quest: Bridge for the Future (15)
   - FOREST (post DFO MQ1): LF Quest: A Dusted Experiment (10)
@@ -2139,7 +2139,7 @@ FOREST, some DESERT
 
 # S
 
-LAST UPDATED 26 OCT 2020
+LAST UPDATED 31 JAN 2021
 
 ### Sacred Feather
 
@@ -2544,6 +2544,7 @@ The ability to craft Stempos in Gansu unlocks after a series of side quests. Reb
 
 - **Sources:** Craft,
   - FOREST
+    - post-Riza MT Quest: Quench a Thirst (3)
     - BC Quest: One Hundred Creatures (5)
     - FB Quest: To Collect Memories (5)
     - SC Quest: A Forest Riddle (3), Slowest Tortoise Wins (2), Stone City Chaos (4)
@@ -2696,7 +2697,7 @@ WATER
 
 # T-Z
 
-LAST UPDATED 9 DEC 2020
+LAST UPDATED 31 JAN 2021
 
 ### Tambo Mane
 
@@ -2947,7 +2948,7 @@ ALL GAME, especially FOREST & DESERT
     - LF Battles: Rudakai (1400 Words, 1 Leaf Boots, 10 Leaves and min level 3 for 1) 
     - MT Battles: Tambo (2000 words, 4 Rope, 10 Leaves, and min level 5 for 1)
     - LF Quests: Luciola Lorsa Nests (1), Enter Pan's Labyrinth (1)
-    - MT Quests: Main Quest 1/To Great Heights (1), Main Quest 3/Elder Library (1), Leafsung Vial Creation (1), Written Accounts (1), Bridge of Sighs (1), Keep In Quarantine (1), Sand Mountain Caravan (1), Iron on Sand (1), Tinkering With Leafsung 1/5 (1), Study Break Time (3), River Water For...? (1, appears post-Riza)
+    - MT Quests: Main Quest 1/To Great Heights (1), Main Quest 3/Elder Library (1), Leafsung Vial Creation (1), Written Accounts (1), Bridge of Sighs (1), Keep In Quarantine (1), Sand Mountain Caravan (1), Iron on Sand (1), Tinkering With Leafsung 1/5 (1), Study Break Time (3), River Water For...?, appears post-Riza), Quench a Thirst (3, appears post-Riza)
     - BC Quest: A Darkened Forest (1)
     - FB Quest: Feeding the Lighthouse (1), Sturdy Wooden Fence (1), Lovely Flower Crown (3)
     - SC Quest: Nothing But Trouble (1), Slowest Tortoise Wins (2)
@@ -2989,7 +2990,7 @@ FOREST, DESERT, some WATER
 
   - FOREST
     - LF Quests: It's Bigger Inside (3), Enter Pan's Labyrinth (1), Dark Luciola Materials 1/5 (1, unlocks post-DFO)
-    - MT Quests: Watering Hole (4), Sand Mountain Caravan (1), Iron on Sand (1), Inking By Number 2/5 (3), Study Break Time (3), , River Water For...? (1, appears post-Riza)
+    - MT Quests: Watering Hole (4), Sand Mountain Caravan (1), Iron on Sand (1), Inking By Number 2/5 (3), Study Break Time (3), , River Water For...? (1, appears post-Riza), Quench a Thirst (1, appears post-Riza)
     - BC Quest: A Darkened Forest (1)
     
     - FB Quest: Blossom with Flowers!1/2 (1), Lighting the Way (1), Lovely Flower Crown (3)

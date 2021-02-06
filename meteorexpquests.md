@@ -1,4 +1,4 @@
-LAST UPDATED 18 OCT 2020
+LAST UPDATED 31 JAN 2021
 
 # IMPACT CRATER QUESTS
 
@@ -421,7 +421,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
   - 15 River Water - Water Region, especially Raina Expedition
   - 30 Leaves
   - 3 Vezi Shell - Floating City of Balance, midway through Main Quests
-  - 18 Ardii Dust - easiest to find in Forward Base
+  - 5 Ardii Dust - easiest to find in Forward Base
   - 5 Dinti
   - 5 Saliva Vials - Base Camp
   - 5 Feathers - easiest to find in the Forest Region

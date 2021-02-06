@@ -1,4 +1,4 @@
-LAST UPDATED 15 DEC 2020
+LAST UPDATED 31 JAN 2021
 
 Okay! So, I'm going to try to consolidate ALL THE QUESTS in the game. Everything that isn't a Main Quest will be listed in alphabetical order after the Main Quests. The Main Quests will be in order, since it's a clearly defined road; and that "road" metaphor will extend in multiple directions. Hence, the new "Route" line of info to tell you how to find it/where you picked it up.
 
@@ -651,7 +651,7 @@ NOTE: To trigger the PG Main Quests, you will have to pick up the first one as i
 
 # Side Quests, in Alphabetical Order: 00-E
 
-LAST UPDATED 15 DEC 2020
+LAST UPDATED 31 JAN 2021
 
 ### 100 Minds to Explore - CAVE
 
@@ -1808,7 +1808,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
   - 15 River Water - Water Region, especially Raina Expedition
   - 30 Leaves
   - 3 Vezi Shell - Floating City of Balance, midway through Main Quests
-  - 18 Ardii Dust - easiest to find in Forward Base
+  - 5 Ardii Dust - easiest to find in Forward Base
   - 5 Dinti
   - 5 Saliva Vials - Base Camp
   - 5 Feathers - easiest to find in the Forest Region
@@ -2809,7 +2809,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 # Side Quests, in Alphabetical Order: N-R
 
-LAST UPDATED 15 DEC 2020
+LAST UPDATED 31 JAN 2021
 
 ### Nabia's Exploration - BC
 
@@ -3291,8 +3291,8 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Unlocked by:** Riza MQ6/Journey Upriver
 - **Type:** Collection
 - **Requirements:** Deliver 25 Dí Bags
-- **Rewards:** 1 Wooden Chest & 1 Wooden Key
-- **Recommendations:** Hard pass until you finish the main game and move on to finishing up the corners; this is a waste of resources right now.
+- **Rewards:** 3 Wooden Chests, 1 Wooden Key, and 3 Stempos
+- **Recommendations:** Those chests, that key, and those Stempos are mighty nice, but those Dí Bags are mighty expensive. I'd recommend saving this at least until you've done everything you want to do in the Water Region (quests, battles, etc) so that you can take maximum advantage of what River Water you accrue on the way.
 
 ### Question to Axe - DigS
 

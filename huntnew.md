@@ -1,10 +1,8 @@
-LAST UPDATED 25 JAN 2021
+LAST UPDATED 1 FEB 2021
 
 Hey! Loading up the info for the Hunt. It takes a while to incorporate everything properly throughout the Guide, but it doesn't take long to gather the new info. So! Here is New Info Only for the Hunt for the Ancients. (Please, please just look at the regular sections if you aren't up to the latest point; there's nothing here that will be likely to serve you before then.)
 
-You may notice that a lot of the quests below don't specify how they're unlocked. That's because I don't know. They're not available to my temp account that's made it halfway through Season 1, and they are available to my temp account that's just started Season 4.
-
-Also, my recommendations are tentative at the moment; without knowing what's behind or what's ahead any more than anyone else, it's hard to prioritize. Guesses only below!
+My recommendations are tentative at the moment; without knowing what's behind or what's ahead any more than anyone else, it's hard to prioritize. Guesses only below!
 
 #FAIR WARNING: SPOILERS AHEAD.
 
@@ -22,7 +20,7 @@ Also, my recommendations are tentative at the moment; without knowing what's beh
 ###Velts' Relaxation Method
 
 - **Location:** Elder Library
-- **Unlocked by:** ?
+- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
 - **Type:** Battle
 - **Requirements:** Defeat 1 Maikile, 1 Buholi, 1 Oncaiii, and 1 Nezthai
 - **Rewards:** 25 Hunter Tokens
@@ -31,7 +29,7 @@ Also, my recommendations are tentative at the moment; without knowing what's beh
 ###Velts' Strong Start
 
 - **Location:** Elder Library
-- **Unlocked by:** ?
+- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
 - **Type:** Streak, Wordcount, Battle
 - **Requirements:** Reach 10-day Streak, write 10000 words, defeat 1 Tambo
 - **Rewards:** 2 Stempos and Wardrobe: Hunt Aging Eyebrows https://4thewords.com/media/wardrobe/featured/male/wm&#95;1529-hunt-aging-eyebrows-10437-30092.png
@@ -40,7 +38,7 @@ Also, my recommendations are tentative at the moment; without knowing what's beh
 ###A Secret Plan?
 
 - **Location:** Elder Library
-- **Unlocked by:** ?
+- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
 - **Type:** Battle
 - **Requirements:** Defeat 3 Assassins & 1 Villager
 - **Rewards:** Wardrobe: Hunt Eyepatch https://4thewords.com/media/wardrobe/featured/male/wm&#95;1532-hunt-cloth-eyepatch-10480-77717.png
@@ -49,7 +47,7 @@ Also, my recommendations are tentative at the moment; without knowing what's beh
 ###Familiar Assistants Needed!
 
 - **Location:** Elder Library
-- **Unlocked by:** ?
+- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
 - **Type:** Battle
 - **Requirements:** Defeat 4 each Sassi, Alnu, Burocat, and Clawadin
 - **Rewards:** Wardrobe: Hunt Aging Beard https://4thewords.com/media/wardrobe/featured/male/wm&#95;1526-hunt-aging-beard-10389-52135.png
@@ -58,7 +56,7 @@ Also, my recommendations are tentative at the moment; without knowing what's beh
 ###Curator's Catalog Collections
 
 - **Location:** Elder Library
-- **Unlocked by:** ?
+- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
 - **Type:** Collection
 - **Requirements:** Deliver 3 Essence, 1 Spider Poison, 3 Lorsa Fur, 1 Tambo Mane, and 5 Claws
 - **Rewards:** 25 Hunter Tokens
@@ -67,7 +65,7 @@ Also, my recommendations are tentative at the moment; without knowing what's beh
 ###Into Forest Depths 1/3
 
 - **Location:** Elder Library
-- **Unlocked by:** ?
+- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
 - **Type:** Collection, Battle
 - **Requirements:** Deliver 2 Saliva Vials and 2 Dandeleon Flowers, and defeat 3 Kaija, 3 Xuso, 5 Ardia, 5 Ardii, and 5 Ardis
 - **Rewards:** 25 Hunter Tokens
