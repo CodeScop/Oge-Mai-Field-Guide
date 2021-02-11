@@ -1,6 +1,6 @@
 LAST UPDATED 9 DEC 2020
 
-If you find anything crucial missing from this list (once I post it onsite; as I write, I'm composing notes that are still incomplete and only on GitHub), please consider looking at the Dust Resources for a more complete look at this region.
+If you find anything crucial missing from this list, please consider looking at the Dust Resources for a more complete look at this region.
 
 NOTE: I am counting EVERYTHING from the Hunt Season 4 as part of the end of Dust, to help bring it to your attention if you'd miss it otherwise.
 

@@ -1,4 +1,4 @@
-LAST UPDATED 14 JAN 2021
+LAST UPDATED 10 FEB 2021
 
 Season 3 started blurring the lines of where the Seasons take place (after all, the Van- monsters popped up all over the game to drop Hunter Tokens). Season 4 is ranging all over right from the start. Sure, most of the miscellaneous quests take place in the Dust Region, but Dust Velts isn't in the Dust, the first presumable-Assistant type is deep in the Forest... it's a time to wander everywhere and explore everything!
 
@@ -96,14 +96,6 @@ Season 3 started blurring the lines of where the Seasons take place (after all, 
 - **Rewards:** 25 Hunter Tokens
 - **Recommendations:**  Right now, this doesn't look like it actually does anything, since we have all the Hunt Map Pieces in hand; we'll see if that holds true once the Bard appears!
 
-### A Battle of Evolution 4/4
-
-- **Unlocked by:** HuntS3 Quest: Battle of Constitution
-- **Type:** Battle
-- **Requirements:** Defeat 1 Velts: Dust
-- **Rewards:** Wardrobe: Hunt Battle Helmet https://4thewords.com/media/wardrobe/featured/female/wf&#95;634-hunt-battle-helment-3693-42038.png (7 variants)
-- **Recommendations:** Shockingly, Dust Velts is to be found in the Water Region, possibly enjoying Dí at Luko's Inn. As far as I can tell, this is the end of the quest chain, but this Velts has particularly nice drops (especially if you've recently opened Raina, or really any area beyond Riza). And once again, even though I divide these Velts quests into Seasons, you can complete them all while still being in Season 1.
-
 ### Cheer Your Dedication
 
 - **Unlocked by:** HuntS3 Quest: A Bubble Dream
@@ -183,16 +175,6 @@ Season 3 started blurring the lines of where the Seasons take place (after all, 
 - **XP:** 250
 - **Drops:** 2-6 Raw Fabric, 27-88 Coins, 2-6 Raw Gold, 4-7 Fur, 1-3 Wooden Key, 1-2 Leafsung Key, 25 Hunter Tokens
 - **Quests:** HuntS4: A Battle of Celebration (3)
-
-### Velts: Dust
-
-- **Location:** Riza Rivertown
-- **Unlocked by:** HuntS3 Quest: Battle of Constitution
-- **Requirements:** 2000 words
-- **Time allowed:** 1440 minutes (24 hours or 1 day)
-- **XP:** 200
-- **Drops:** 20 Hunter Tokens, 6-12 Wood, 1-2 Hardwood, 1-3 Reinforced Rope, 2-4 Spider Poison, 3-6 Raw Steel, 2-4 Bones, 1 Net
-- **Quests:** HuntS4: A Battle of Evolution (1)
 
 ### Weekiwa
 
@@ -280,7 +262,6 @@ Season 3 started blurring the lines of where the Seasons take place (after all, 
 
 Season 4 is unlocked by completing the quest A Bubble Dream, and you can see that questline in Season 3.
 
-- HuntS4 A Battle of Evolution - **(Note: This has as prerequisite the "HuntS3" quest Battle of Constitution. Unlocking Season 4 is not necessary, but since this was released with S4, I'm including it in S4.)** Defeat 1 Dust version of Velts, get Wardrobe: Hunt Battle Helmet
 - HuntS4 Sing Your Enthusiasm - defeat 10 Zanthei, get 20 Hunter Tokens
   - HuntS4 Sing Your Bravery (2/2) - defeat 10 Cursed Hands, get 15 Hunter Tokens
     - HuntS4 Sing Your Commitment (3/4) - achieve 15-day Streak, get 25 Hunter Tokens

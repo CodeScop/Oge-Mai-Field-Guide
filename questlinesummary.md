@@ -1,4 +1,4 @@
-LAST UPDATED 15 DEC 2020
+LAST UPDATED 10 FEB 2021
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
@@ -21,8 +21,6 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
 - **OPENING THE GAME** opens...
 
   - LF Forest Creatures -  battle all Luciola for Wardrobe Luciola Shoes
-  - LF Joining the Hunt - 3K words & minimum level 3 to unlock the Hunt for the Ancients
-    - **HUNT FOR THE ANCIENTS SEASON 1** - see below
   - LF Lead the Way/First Steps - write 5K words for 50 Coins
   - LF Learn To Fight - fight 10 monsters for 50 Coins
   - LF Luciola Lanterns/Night Light - collect Spider Legs and Dust for Leaf Boots
@@ -44,6 +42,8 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
 - **LF Main Quest 3/The Nitana** - defeat Nitana in exchange for Tesven's Amulet and 25 Coins
 - **LF Main Quest 4/Don't Regift Curses** - trade in Tesven's Amulet & other items to open Mama Tree
 
+  - MT The Winding Path to Elder Library - defeat 3 Tylu and 3 Illi, unlock Elder Library/Hunt for the Ancients and get 100 Coins
+    - **HUNT FOR THE ANCIENTS** - see below
   - MT A Family Tree - defeat 8 Tylu for 50 Coins, 1 Wood Spear, 1 Wooden Chest
   - MT Collector - collect 30 unique items for 8 Core Crystals
   - MT Fair, Standard, Middling (Indirectly requires that Balance Main Quest 1/Help From a Master be complete) - fight 25 each of 5 medium monsters for Wardrobe Expedition Tylu Belt
@@ -430,39 +430,53 @@ I do cheat and also use bolded bullet points to mark the "path" to progress in a
 
 ## Questline - Hunt for the Ancients - Season 1
 
-NOTE: **ALL HUNT QUESTS are unlocked by the Luciola Hunt quest Joining the Hunt** (write 3K words, get 10 Hunter Tokens and unlock the Hunt). I'm not formatting this accordingly because the indents would become even worse a mess than they already are near the bottom.
+NOTE: **ALL HUNT QUESTS are unlocked by the quest Joining the Hunt** (write 3K words, get 10 Hunter Tokens and unlock the Hunt). I'm not formatting this accordingly because the indents would become even worse a mess than they already are near the bottom.
 
-- HuntS1 A Clue to the Past - defeat 3 Sassi & get 5 Hunter Tokens & Hunt Map Piece
-  - HuntS1 Elder Library Assistants - defeat 4 Alnu, get Hunt Map Piece 2 and 5 Hunter Tokens
-    - HuntS1 Elder Library's Security - defeat 4 Clawadin, get Hunt Map Piece 3 and 5 Hunter Tokens
 - HuntS1 Spreading Hope - post 3 messages in the forum for 10 Hunter Tokens
 - HuntS1 A Season for Hope - write 2020 words for 5 Hunter Tokens
 - HuntS1 Protecting the Past - deliver 10 Rusty Amulets and 10 Rusty Pendants for 10 Hunter Tokens
 - HuntS1 Studying Substance Samples - deliver 50 Dust for 10 Hunter Tokens
 - HuntS1 To Hope Is To Plan - write 10K words, get 10 Hunter Tokens
 - HuntS1 Time of Reflection - maintain 4-day Streak, get 10 Hunter Tokens
-- HuntS1 The Hunt Begins - finish A Clue to the Past, get 5-day streak, write 5K words for Wardrobe Scarred Eye
-  - HuntS1 A Battle of Wills - defeat 1 Velts for 10 Hunter Tokens
-    - HuntS2 A Battle of Merit - defeat 1 Desert version of Velts, get 25 Hunter Tokens
-  - HuntS1 Deeper Forest Hunting - finish Elder Library Assistants, get 7-day streak, write 10K words for Wardrobe Full Body Scars
-    - HuntS1 A Past Not Forgotten - finish Elder Library's Security, get Wardrobe Pauldrons
-      - HuntS1 Curator's Family - defeat 1 each Burocat, Sassi, Clawadin, and Alnu, get 25 Hunter Tokens
-      - HuntS1 The Curator of Elder Library - defeat Curator 4 times, get Wardrobe Sassi Pet
-        - **UNLOCK SEASON 2** - see below
 - HuntS1 Proving Your Worth 1/4 - defeat a bunch of Luciola monsters for 10 Hunter Tokens
   - HuntS1 Proving Your Curiosity 2/4 - defeat 6 Nitana for 10 Hunter Tokens
     - HuntS1 Proving Your Perseverance 3/4 - defeat a bunch of Forest Expedition monsters for 10 Hunter Tokens
       - HuntS1 Proving Your Cunning 4/4 - defeat a bunch of Stone City monsters for 10 Hunter Tokens
         - HuntS1 Proving Your Mettle 5/6 - defeat a bunch of Mama Tree monsters for 15 Hunter Tokens
           - HuntS1 Proving Your Strength 6/6 - defeat 6 Tylu and get Wardrobe: Small Axe
+- HuntS1 A Clue to the Past - defeat 3 Sassi & get 5 Hunter Tokens & Hunt Map Piece
+  - HuntS1 Elder Library Assistants - defeat 4 Alnu, get Hunt Map Piece 2 and 5 Hunter Tokens
+    - HuntS1 Elder Library's Security - defeat 4 Clawadin, get Hunt Map Piece 3 and 5 Hunter Tokens
+- HuntS1 The Hunt Begins - finish A Clue to the Past, get 5-day streak, write 5K words for Wardrobe Scarred Eye
+  - HuntS1 A Battle of Wills - defeat 1 Velts for 10 Hunter Tokens
+    - HuntS1 A Battle of Merit - defeat 1 Desert version of Velts, get 25 Hunter Tokens
+      - HuntS1 Battle of Constitution 3/4 - Defeat 1 Water version of Velts, get 25 Hunter Tokens
+        - HuntS1 A Battle of Evolution - Defeat 1 Dust version of Velts, get Wardrobe: Hunt Battle Helmet
+  - HuntS1 Deeper Forest Hunting - finish Elder Library Assistants, get 7-day streak, write 10K words for Wardrobe Full Body Scars
+    - HuntS1 A Past Not Forgotten - finish Elder Library's Security, get Wardrobe Pauldrons
+      - HuntS1 Curator's Family - defeat 1 each Burocat, Sassi, Clawadin, and Alnu, get 25 Hunter Tokens
+      - HuntS1 The Curator of Elder Library - defeat Curator 4 times, get Wardrobe Sassi Pet
+        - **UNLOCK SEASON 2, and SEASON 1 PART 2** - see below 
 
 
+
+##Questline - Hunt for the Ancients - Season 1 Part 2
+
+The 2021 Hunt for the Ancients opened with a new set of quests unlocked by The Curator of Elder Library, same as Season 2 from 2020, quests which fit the theme of Season 1. I'm listing them here as best I can, but the correct cause/effect/order/prioritization is yet to be seen.
+
+- HuntS1.2 Into Forest Depths 1/3 - deliver a few Forest Expedition materials, fight a bunch of Forest Expedition monsters, get 25 Hunter Tokens
+  - HuntS1.2 Into Forest Depths 2/3 - deliver a few Forest Expedition materials, fight a bunch of deeper Forest Expedition monsters, get Wardrobe: Hunt Facemask
+    - HuntS1.2 Into Forest Depths 3/3 - deliver a few Forest Expedition materials, fight a bunch of EVEN DEEPER Forest Expedition monsters, get 10 Hunter Tokens and House Item: Hunt Shield
+- HuntS1.2 A Secret Plan? - defeat 3 Assassins and 1 Villager, get Wardrobe: Hunt Eyepatch
+- HuntS1.2 Curator's Catalog Collections - deliver a bunch of Forest materials, get 25 Hunter Tokens
+- HuntS1.2 Familiar Assistants Needed! - defeat 4 each Sassi, Alnu, Burocat, and Clawadin, get Wardrobe: Hunt Aging Beard
+- HuntS1.2 Velt's Relaxation Method - defeat 1 each Maikilie, Buholi, Oncaiii, and Nezthai, get 25 Hunter Tokens
+- HuntS1.2 Velts' Strong Start - reach 10-day Streak, write 10000 words, defeat 1 Tambo, get 2 Stempos and Wardrobe: Hunt Aging Eyebrows
 
 ##Questline - Hunt for the Ancients - Season 2
 
 Season 2 is unlocked by completing The Curator of Elder Library quest, and you can see that questline in Season 1.
 
-- HuntS2 Battle of Merit - **(Note: This has as prerequisite the HuntS1 quest A Battle of Wills. Unlocking Season 2 is not necessary, but since this was released with S2, I'm including it in S2. )** Defeat 1 Desert version of Velts, get 25 Hunter Tokens
 - HuntS2 A Season to Explore - defeat every non-global monster in 3PC, get 100 Hunter Tokens
 - HuntS2 Wandering We Go - maintain 7-day Streak, get 10 Hunter Tokens
 - HuntS2 Seeing It Through - Defeat 10 Frizi, get 5 Hunter Tokens
@@ -489,14 +503,13 @@ Season 2 is unlocked by completing The Curator of Elder Library quest, and you c
 
 Season 3 is unlocked by completing Stumbling Upon Sheep quest, and you can see that questline in Season 2.
 
-- HuntS3 Battle of Constitution 3/4 - **(Note: This has as prerequisite the "HuntS2" quest Battle of Merit. Unlocking Season 3 is not necessary, but since this was released with S3, I'm including it in S3.)** Defeat 1 Water version of Velts, get 25 Hunter Tokens
 - HuntS3 Helping Those In Need Grow - give a bunch of Rusty Amulets, Pendants, and Gold, get 25 Hunter Tokens
 - HuntS3 Change To See - defeat 1 Yala, get 25 Hunter Tokens
 - HuntS3 Growth in Friendship - defeat 1 each Raina in SurfaceC, get 50 Hunter Tokens
 - HuntS3 Growth Pains - defeat 3 Osaril, 2 Trainees, and 1 Furoxi, get 25 Hunter Tokens
 - HuntS3 Problems Feed Solutions - defeat 20 Caricaco, get 25 Hunter Tokens
 - HuntS3 Of Vibrant Growth - write 10K words, get 15 Hunter Tokens
-- HuntS3 Where Life Flows - deliver 50 Swamp Moss, get 15 Hunter Tokens
+- HuntS3 Where Life Flows - deliver 50 Swamp Moss, get 15 Hunter Tokens and 10 Wooden Fishing Rods
 - HuntS3 Growing Improvement - beat 10 Jaihri, get 25 Hunter Tokens
   - HuntS3 - Growing Your Perception 2/3 - defeat 5 Castu, 3 Isartu, and 1 Water Rudakai, get 25 Hunter Tokens
     - HuntS3 - Growing Your Tenacity 3/3 - defeat 2 Xyplos, get 25 Hunter Tokens
@@ -516,7 +529,6 @@ Season 3 is unlocked by completing Stumbling Upon Sheep quest, and you can see t
 
 Season 4 is unlocked by completing the quest A Bubble Dream, and you can see that questline in Season 3.
 
-- HuntS4 A Battle of Evolution - **(Note: This has as prerequisite the "HuntS3" quest Battle of Constitution. Unlocking Season 4 is not necessary, but since this was released with S4, I'm including it in S4.)** Defeat 1 Dust version of Velts, get Wardrobe: Hunt Battle Helmet
 - HuntS4 Sing Your Enthusiasm - defeat 10 Zanthei, get 20 Hunter Tokens
   - HuntS4 Sing Your Bravery (2/2) - defeat 10 Cursed Hands, get 15 Hunter Tokens
     - HuntS4 Sing Your Commitment (3/4) - achieve 15-day Streak, get 25 Hunter Tokens

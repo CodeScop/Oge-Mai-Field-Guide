@@ -1,98 +1,4 @@
-## (Initial)
-
-LAST UPDATED 23 AUG 2020
-
-### Ascre
-
-- **Requirements:** 150 words
-- **Time allowed:** 25 minutes
-- **XP:** 15
-- **Drops:** Dark Forest Leaves, Refined Dust
-
-### Awa
-
-- **Requirements:** 200 words
-- **Time Allowed:** 45 minutes
-- **XP:** 18
-- **Drops:** 1-2 Fur, 1-2 Dust, 2 Rope, 1-2 Wood, 1-2 Leaves
-
-### Belasi
-
-- **Requirements:** 200 words
-- **Time allowed:** 30 minutes
-- **XP:** 20
-- **Drops:** Refined Dust, Reenu Wings
-
-### Burhar
-
-- **Requirements:** 1500 words
-- **Time allowed:** 240 minutes (4 hours)
-- **XP:** 150
-- **Drops:** Hardwood, Raw Fabric, Rope, Refined Dust, Bones, Steel Chains, Raw Steel
-
-### Dust Wignow
-
-- **Requirements:** 444 words
-- **Time allowed:** 44 minutes
-- **XP:** 40
-- **Drops:** Refined Dust, Bones, Dark Forest Leaves, Essence
-
-### Osalyu
-
-- **Requirements:** 750 words
-- **Time allowed:** 180 minutes (3 hours)
-- **XP:** 75
-- **Drops:** Raw Steel, Essence, Refined Dust, Bones
-
-### Spirit Ardia
-
-- **Requirements:** 80 words
-- **Time allowed:** 8 minutes
-- **XP:** 8
-- **Drops:** Spirit Dust
-
-### Vi
-
-- **Requirements:** Endurance: Battle 5 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
-- **Baseline XP:** 10 XP
-- **Baseline Drops:** 1 Leaf, 3 Coins 
-
-### Viyu
-
-- **Requirements:** Battle 15 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
-- **Baseline XP:** 40 XP
-- **Drops:** 
-  - Baseline: 15 Coins
-  - Other: 2-7 Wood
-
-### Viyusa
-
-- **Requirements:** Battle 25 Minutes Continuously
-- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
-- **Baseline XP:** 80 XP
-- **Drops:** 
-  - Baseline: 1 Essence, 25 Coins
-  - Other: 2-7 Rope
-
-### Xin
-
-- **Requirements:** 100 words
-- **Time Allowed:** 20 minutes
-- **XP:** 11
-- **Drops:** 1-2 Dust, 1-2 Wood, 1-2 Leaves, 0-1 Raw Fabric, 0-1 Raw Stone, 0-1 River Grass
-
-### Zanthei
-
-- **Requirements:** 400 words
-- **Time allowed:** 35 minutes
-- **XP:** 40
-- **Drops:** Refined Dust, Dark Forest Leaves, Dried Pulp, Wood
-
-## (All)
-
-LAST UPDATED 23 AUG 2020
+LAST UPDATED 10 FEB 2021
 
 ### Ascre
 
@@ -235,7 +141,7 @@ LAST UPDATED 23 AUG 2020
 
 ### * Spirit Ardia
 
-- **Unlocked by:** Main Quest 12/Well of Lost Souls
+- **Unlocked by:** Main Quest 12/Well of Lost Souls (in Forward Base; unlocked here by Hounding the Dead 2/4)
 - **Requirements:** 80 words
 - **Time allowed:** 8 minutes
 - **XP:** 8
@@ -300,7 +206,7 @@ Remember how Dessti told us after the Well of Souls quest that we'd be able to s
 
 ### * Spirit Ardia (Forward Base)
 
-Identical to the ones in DFO, but I thought I'd mention the additional location.
+Identical to the ones in DFO, but I thought I'd mention the additional location, especially since they appear there sooner.
 
 ### * Spirit Castu (Balance)
 

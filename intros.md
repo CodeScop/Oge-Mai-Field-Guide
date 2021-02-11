@@ -32,22 +32,6 @@ I strongly recommend pausing and clicking around the Game area to see everything
 
 Onward!
 
-# Hunt for the Ancients
-
-LAST UPDATED 11 FEB 2020
-
-Most of this game falls into one of two categories: special events, which pop up and fade at different points of the year with very little impact on the game, or the regular game, which stays fairly stable and changes very little.
-
-The Hunt for the Ancients falls in between.
-
-It changes on the 4th of every month, but it doesn't simply erase the past and start over the way an event does. It follows its own rules, almost as if it were a mini-area of its own. So I'm putting it in its own section. Just a couple things to note:
-
-1. The Hunt for the Ancients might be based in Luciola Forest, but it can sometimes include things from later in the game. Indeed, every month there's a new list of monsters all across the Oge-Mai Valley and Expedition suddenly dropping Hunter Tokens. That means that **my comprehensive info here will include some spoilers.** (Mostly at the bottom, in my comprehensive list of Monsters That Drop Hunter Tokens. But the Quests section will be listing where to find monsters or items that come later in the game, for those who want that information and that information only. If you don't want that info, maybe chart your own course.)
-2. I won't be listing monsters as a group here the way I do in other sections, because the Hunt for the Ancients isn't THAT much its own area. If you weren't here before 2020, you probably didn't realize that Sassi was specifically a Hunt for the Ancients monster, did you? It's not worth singling them out. At this point.
-3. I WILL be listing all the Hunt Lodge wardrobe items at the end, because dang. I'll also have a list of all the Hunt quests available and their relationship to unlocking each other.
-
-Allons-y!
-
 # Mama Tree
 
 LAST UPDATED 19 MARCH 2019

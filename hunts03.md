@@ -1,4 +1,4 @@
-LAST UPDATED 10 DEC 2020
+LAST UPDATED 10 FEB 2021
 
 Season 2 is back in the Desert; now, we're in the Water Region, to Season 3: The Season of Growth, watched over by the Caretaker.
 
@@ -159,16 +159,8 @@ NOTE: As of this writing (25 Jul 2020), several of these are entitled "Growing (
 - **Unlocked by:** HuntS2 Quest: Stumbling Upon Sheep
 - **Type:** Collection
 - **Requirements:** Deliver 50 Swamp Moss
-- **Rewards:** 15 Hunter Tokens
-- **Recommendations:** Swamp Moss is available in the deeper parts of Raina, if you have trouble finding it. And while I wouldn't belabor myself to fill this up, it's a nice use for the Swamp Moss one tends to accumulate in Raina.
-
-### Battle of Constitution (3/4)
-
-- **Unlocked by:** HuntS2 Quest: A Battle of Merit
-- **Type:** Battle
-- **Requirements:** Defeat 1 Velts: Water
-- **Rewards:** 15 Hunter Tokens
-- **Recommendations:** Once again, this seems to actually be a chain independent of the Seasons. This is the first time the Battle chain has explicitly acknowledged being a chain. Presumably, the last Season will have its own Velts to battle. But it probably won't be visible till you complete this one, so take into consideration
+- **Rewards:** 15 Hunter Tokens and 10 Wooden Fishing Rods
+- **Recommendations:** Swamp Moss is available in the deeper parts of Raina, if you have trouble finding it. And while I wouldn't belabor myself to fill this up, it's a nice use for the Swamp Moss one tends to accumulate in Raina. The Wooden Fishing Rods are GREAT!
 
 ## Season 3 Monsters
 
@@ -183,15 +175,6 @@ Season 3 was been scarce on Assistants and seems to be scarce on new monsters. S
 - **XP:** 120
 - **Drops:** 12 Hunter Tokens, 1-3 Bones, 5-8 Leaves, 2-4 Rope, 3-5 Wood, 1-3 Essence, 1 Spider Poison
 - **Quests:** HuntS3: A Bubble Dream (1)
-
-### Velts: Water
-
-- **Unlocked by:** HuntS2 Quest: A Battle of Merit
-- **Requirements:** 1600 words
-- **Time allowed:** 600 minutes (10 hours)
-- **XP:** 160
-- **Drops:** 16 Hunter Tokens, 5-10 Wood, 4-9 Rope, 2-3 Spider Poison, 3-6 Raw Steel, 2-4 River Grass, 1-4 Raw Fabric
-- **Quests:** HuntS3: Battle of Constitution 3/4 (1)
 
 ## Season 3 Resources
 
@@ -273,8 +256,6 @@ Season 3 was been scarce on Assistants and seems to be scarce on new monsters. S
 
 Season 3 is unlocked by completing Stumbling Upon Sheep quest, and you can see that questline in Season 2.
 
-- HuntS3 Battle of Constitution 3/4 - **(Note: This has as prerequisite the HuntS2 quest Battle of Merit. Stumbling Upon Sheep is not necessary, but since this was released with S3, I'm including it in S3.)** Defeat 1 Water version of Velts, get 25 Hunter Tokens
-  - SLIGHT SPOILER: if you completed that quest, you'll unquestionably be able to complete the next and last one in this chain: "HuntS4" A Battle of Evolution - Defeat 1 Dust version of Velts, get Wardrobe: Hunt Battle Helmet
 - HuntS3 Helping Those In Need Grow - give a bunch of Rusty Amulets, Pendants, and Gold, get 25 Hunter Tokens
 - HuntS3 Change To See - defeat 1 Yala, get 25 Hunter Tokens
 - HuntS3 Growth in Friendship - defeat 1 each Raina in SurfaceC, get 50 Hunter Tokens

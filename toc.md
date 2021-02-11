@@ -1,4 +1,4 @@
- (Table of Contents last updated 25 Jan 2021)
+ (Table of Contents last updated 10 Feb 2021)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -50,10 +50,11 @@
   - Resources: Forest Expedition
   - List of Available Quests: Forest Expedition
 - Hunt: Season 1 - Hope (FOREST)
-  - Season 1 Quests
-  - Phase One: Unlocking the Hunt
+  - Season 1 Quests - the Main Line
   - A Side Path: Proving Your XXX Questline
-  - Deeper Into The Hunt
+  - Another Side Path: Velts
+  - Season 1 Quests - Miscellaneous
+  - Season 1 Part 2 Quests
   - Hunt-Specific Season 1 Monsters
   - Hunt-Specific Resources - Season 1
   - Hunt for the Ancients S1 Questline Summary

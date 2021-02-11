@@ -62,22 +62,6 @@ Unlocking various stages of the Hunt is still progressing with pairs of quests a
 - **Rewards:** Wardrobe: Dog Mentor Pet https://4thewords.com/media/wardrobe/featured/male/wm&#95;862-dog-mentor-pet-6004-63771.png
 - **Recommendations:** This is the end of the Season 2 quests! And the Pipit pet is ADORABLE. Beat that Shepherd down!
 
-### Herding the Herders
-
-- **Unlocked by:** HuntS2 Quest: No Wrong Path
-- **Type:** Battle
-- **Requirements:** Defeat 1 each: Lubu, Czanus, Pipit
-- **Rewards:** 25 Hunter Tokens
-- **Recommendations:** This isn't actually in the main line itself, but it unlocks at the same time as the last main line quest. 
-
-### Valley Of The Sheep
-
-- **Unlocked by:** HuntS2 Quest: No Wrong Path
-- **Type:** Battle
-- **Requirements:** Defeat 1 each: Attleas, Shashi, Imali
-- **Rewards:** 25 Hunter Tokens
-- **Recommendations:** This is possibly the easiest way to get Hunter Tokens by battling creatures. And the sheep are so cute. Totally worth it.
-
 ## Season 2 Quests - Strengthening Sideline
 
 The first Season of the hunt had the Proving Your... questline; this seems to be the equivalent for S2. This one is 5 quests long, despite what the various numbers in between say.
@@ -190,13 +174,21 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 - **Rewards:** 10 Hunter Tokens
 - **Recommendations:** If you haven't completed the regular Desert Region quests, think carefully about this. These resources are fairly easy and quick to collect, but also required in maddening quantities in Oge-Mai Valley. However, they're mostly required in side quests, so as long as you're not giving away the last 10 of these items, you should be good to prioritize as you please.
 
-### Battle of Merit
+### Herding the Herders
 
-- **Unlocked by:** HuntS1 Quest: A Battle of Wills
+- **Unlocked by:** HuntS2 Quest: No Wrong Path
 - **Type:** Battle
-- **Requirements:** Defeat 1 Velts: Desert
+- **Requirements:** Defeat 1 each: Lubu, Czanus, Pipit
 - **Rewards:** 25 Hunter Tokens
-- **Recommendations:** This is the only S2 quest that requires an S1 quest other than Curator of Elder Library (and the only S2 quest that can be completed without completing S1, for that matter). Make sure you're fighting the 3PC version of Velts if you want to tackle this. She's tougher than the Mama Tree version, but doable enough.
+- **Recommendations:** This isn't actually in the main line itself, but it unlocks at the same time as the last main line quest. 
+
+### Valley Of The Sheep
+
+- **Unlocked by:** HuntS2 Quest: No Wrong Path
+- **Type:** Battle
+- **Requirements:** Defeat 1 each: Attleas, Shashi, Imali
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:** This is possibly the easiest way to get Hunter Tokens by battling creatures. And the sheep are so cute. Totally worth it.
 
 ## Season 2 Monsters
 
@@ -268,16 +260,6 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 - **XP:** 100
 - **Drops:** 10 Hunter Tokens, 2-6 Raw Fabric, 1-2 Red Dye, 1-4 Wood, 1-3 Rope, 1-3 Raw Sandstone
 - **Quests:** HuntS2: Stumbling Upon Sheep (4)
-
-### Velts: Desert
-
-- **Unlocked by:** HuntS1 Quest: A Battle of Wills
-- **Location:** 3PC
-- **Requirements:** 1200 words
-- **Time allowed:** 180 minutes (3 hours)
-- **XP:** 120
-- **Drops:** 12 Hunter Tokens, 4-8 Wood, 4-6 Rope, 1 Spider Poison, 2-4 Raw Steel, 1-3 Raw Sandstone
-- **Quests:** HuntS2: Battle of Merit (1)
 
 ## Season 2 Resources
 
@@ -351,8 +333,6 @@ The first Season of the hunt had the Proving Your... questline; this seems to be
 
 Season 2 is unlocked by completing The Curator of Elder Library quest, and you can see that questline in Season 1.
 
-- HuntS2 Battle of Merit - **(Note: This has as prerequisite the HuntS1 quest A Battle of Wills.)** Defeat 1 Desert version of Velts, get 25 Hunter Tokens
-  - more Velts quests I track in later Seasons for reasons detailed in S1 info
 - HuntS2 A Season to Explore - defeat every non-global monster in 3PC, get 100 Hunter Tokens
 - HuntS2 Wandering We Go - maintain 7-day Streak, get 10 Hunter Tokens
 - HuntS2 Seeing It Through - Defeat 10 Frizi, get 5 Hunter Tokens

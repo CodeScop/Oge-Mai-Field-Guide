@@ -6,7 +6,7 @@ Okay! So, I'm going to try to consolidate ALL THE QUESTS in this region. Everyth
 
 **The Expedition Trails** branch off of this Main Quest Highway (so does the **Hunt Trail**) at defined locations. The Route will tell you where it branches off the Main Quest Highway (i.e. which Main Quest unlocks the sidequest that unlocks the Expedition/Hunt) and list out all quests on that Trail. So the quest Joining the Hunt, located in Luciola Forest on the Hunt Trail would read "Hunt Trail Route: (available from game open) • **HuntS1 Joining the Hunt** • HuntS1 The Hunt Begins" etc.
 
-**Quest Paths** are basically a questline off to the side, which don't lead anywhere in particular. To save myself space, they'll be allowed to jump off of Expedition Trails as well as Main Quests. So the quest Battle of Merit, which is unlocked by a quest which is unlocked by The Hunt Begins, would look thus: "Quest Path Route: (open via Hunt Trail HuntS1 The Hunt Begins) • HuntS1 A Battle of Wills • **HuntS2 Battle of Merit** • HuntS3 Battle of Constitution • HuntS4 A Battle of Evolution"
+**Quest Paths** are basically a questline off to the side, which don't lead anywhere in particular. To save myself space, they'll be allowed to jump off of Expedition Trails as well as Main Quests. So the quest Battle of Merit, which is unlocked by a quest which is unlocked by The Hunt Begins, would look thus: "Quest Path Route: (open via Hunt Trail HuntS1 The Hunt Begins) • HuntS1 A Battle of Wills • **HuntS1 Battle of Merit** • HuntS1 Battle of Constitution • HuntS1 A Battle of Evolution"
 
 **Lone Quests** are quests which are unlocked by something on the Main Quest Highway or a Trail; instead of a Route, these will simply have an "Unlocked by" field.
 
@@ -23,7 +23,7 @@ Here goes nothing!
 
 **Hunt for the Ancients** 
 
-NOTE: All Hunt quests are picked up in Luciola Forest, regardless of what Region the actions are concentrated in.
+NOTE: All Hunt quests are picked up in Elder Library, regardless of what Region the actions are concentrated in.
 
 - HuntS1 = Hunt for the Ancients Season 1
 - HuntS2 = Hunt for the Ancients Season 2
@@ -116,7 +116,7 @@ NOTE: All Hunt quests are picked up in Luciola Forest, regardless of what Region
 
 ### A Battle of Wills - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Quest Path Route:** (open via Hunt Trail HuntS1 The Hunt Begins) • **A Battle of Wills** • HuntS2 Battle of Merit • HuntS3 Battle of Constitution • HuntS4 A Battle of Evolution
 - **Type:** Battle
 - **Requirements:** Defeat 1 Velts
@@ -183,7 +183,7 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 
 ### A Clue to the Past - Hunt S1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Quest Path Route:** (open via Hunt Trail: HuntS1 Joining the Hunt) • **A Clue to the Past** • HuntS1 Elder Library Assistants • HuntS1 Elder Library Security
 - **Type:** Battle
 - **Requirements:** Defeat 3 Sassi
@@ -243,8 +243,8 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 
 ### The Curator of Elder Library - HuntS1
 
-- **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • **The Curator of Elder Library** • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
+- **Location:** Elder Library
+- **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • **The Curator of Elder Library** • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 - **Type:** Battle
 - **Requirements:** Defeat 4x the Curator of Elder Library
 - **Rewards:** Wardrobe: Sassi Pet https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;sassi&#95;pet.png
@@ -252,7 +252,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 
 ### Curator's Family - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS1 A Past Not Forgotten
 - **Type:** Battle
 - **Requirements:** Defeat 1 each: Burocat, Sassi, Clawadin, Alnu
@@ -288,8 +288,8 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 
 ### Deeper Forest Hunting - HuntS1
 
-- **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • **Deeper Forest Hunting** • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
+- **Location:** Elder Library
+- **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • **Deeper Forest Hunting** • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 - **Type:** Words, Streak, Level, Collection
 - **Requirements:** Write 10K words, add 7 consecutive streak days, minimum level 3, Hunt Map Piece 2
 - **Rewards:** Wardrobe: Full Body Scars https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;full&#95;body&#95;scars.png
@@ -315,7 +315,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 
 ### Elder Library Assistants - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Quest Path Route:** (open via Hunt Trail: HuntS1 Joining the Hunt) • HuntS1 A Clue to the Past • **Elder Library Assistants** • next step: HuntS1 Elder Library's Security
 - **Type:** Battle
 - **Requirements:** Defeat 4 Alnu
@@ -324,7 +324,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 
 ### Elder Library's Security - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Quest Path Route:** (open via Hunt Trail: Hunt S1 Joining the Hunt) • HuntS1 A Clue to the Past • HuntS1 Elder Library Assistants • **Elder Library's Security**
 - **Type:** Battle
 - **Requirements:** Defeat 4 Clawadin
@@ -400,8 +400,8 @@ see **Lead the Way**
 
 ### The Hunt Begins - HuntS1
 
-- **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • **The Hunt Begins** • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
+- **Location:** Elder Library
+- **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • **The Hunt Begins** • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 - **Type:** Collection, Streak, Words, Level
 - **Requirements:**
   - Collect: 1 Hunt Map Piece
@@ -464,8 +464,8 @@ Monsters and Resources listed here will not be linked with this quest outside th
 
 ### Joining the Hunt - HuntS1
 
-- **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • **Joining the Hunt** • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
+- **Location:** Elder Library
+- **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • **Joining the Hunt** • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 - **Type:** Wordcount/Level
 - **Requirements:** Min Level 3, 3000 Words
 - **Rewards:** 10 Hunter Tokens, unlock the Hunt
@@ -677,8 +677,8 @@ see **Luciola Lanterns**
 
 ### A Past Not Forgotten - HuntS1
 
-- **Location:** Available in the Luciola Forest 
-- **Hunt Trail Route:** (available from game open) • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • **A Past Not Forgotten** • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
+- **Location:** Elder Library
+- **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • **A Past Not Forgotten** • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 - **Type:** Collection
 - **Requirements:** Possess one Hunt Map Piece 3
 - **Rewards:** Wardrobe: Pauldrons https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;armor&#95;pauldrons.png
@@ -686,7 +686,7 @@ see **Luciola Lanterns**
 
 ### Protecting the Past - Hunt S1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS1 Joining the Hunt
 - **Type:** Collection
 - **Requirements:** Collect 10 Rusty Amulets and 10 Rusty Pendants
@@ -695,7 +695,7 @@ see **Luciola Lanterns**
 
 ### Proving Your Cunning 4/4 - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Quest Path Route:** (open via Hunt Trail HuntS1 Joining the Hunt) • HuntS1 Proving Your Worth 1/4 • HuntS1 Proving your Curiosity 2/4 • HuntS1 Proving Your Perserverance 3/4 • **Proving Your Cunning 4/4** • HuntS1 Proving Your Mettle 5/6 • HuntS1 Proving Your Strength 6/6
 - **Type:** Battle
 - **Requirements:** Defeat 4 Sapira, 2 Sapilo, and 3 Sapiti
@@ -704,7 +704,7 @@ see **Luciola Lanterns**
 
 ### Proving Your Curiosity 2/4 - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Quest Path Route:**  (open via Hunt Trail HuntS1 Joining the Hunt) • HuntS1 Proving Your Worth 1/4 • **Proving your Curiosity 2/4** • HuntS1 Proving Your Perserverance 3/4 • HuntS1 Proving Your Cunning 4/4 • HuntS1 Proving Your Mettle 5/6 • HuntS1 Proving Your Strength 6/6
 - **Type:** Battle
 - **Requirements:** Defeat 6 Nitana
@@ -713,7 +713,7 @@ see **Luciola Lanterns**
 
 ### Proving Your Mettle 5/6 - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Quest Path Route:** (open via Hunt Trail HuntS1 Joining the Hunt) • HuntS1 Proving Your Worth 1/4 • HuntS1 Proving your Curiosity 2/4 • HuntS1 Proving Your Perserverance 3/4 • HuntS1 Proving Your Cunning 4/4 • **Proving Your Mettle 5/6** • HuntS1 Proving Your Strength 6/6
 - **Type:** Battle
 - **Requirements:** Defeat 1 each Lorsa, Illi, Kuay, Tambo
@@ -722,7 +722,7 @@ see **Luciola Lanterns**
 
 ### Proving Your Perseverance 3/4 - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Quest Path Route:** (open via Hunt Trail HuntS1 Joining the Hunt) • HuntS1 Proving Your Worth 1/4 • HuntS1 Proving your Curiosity 2/4 • **Proving Your Perserverance 3/4** • HuntS1 Proving Your Cunning 4/4 • HuntS1 Proving Your Mettle 5/6 • HuntS1 Proving Your Strength 6/6
 - **Type:** Battle
 - **Requirements:** Defeat:
@@ -737,7 +737,7 @@ see **Luciola Lanterns**
 
 ### Proving Your Strength 6/6 - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Quest Path Route:** (open via Hunt Trail HuntS1 Joining the Hunt) • HuntS1 Proving Your Worth 1/4 • HuntS1 Proving your Curiosity 2/4 • HuntS1 Proving Your Perserverance 3/4 • HuntS1 Proving Your Cunning 4/4 • HuntS1 Proving Your Mettle 5/6 • **Proving Your Strength 6/6**
 - **Type:** Battle
 - **Requirements:** Defeat 6 Tylu
@@ -746,7 +746,7 @@ see **Luciola Lanterns**
 
 ### Proving Your Worth 1/4 - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Quest Path Route:** (open via Hunt Trail HuntS1 Joining the Hunt) • **Proving Your Worth 1/4** • HuntS1 Proving your Curiosity 2/4 • HuntS1 Proving Your Perserverance 3/4 • HuntS1 Proving Your Cunning 4/4 • HuntS1 Proving Your Mettle 5/6 • HuntS1 Proving Your Strength 6/6
 - **Type:** Battle
 - **Requirements:** Defeat:
@@ -804,7 +804,7 @@ see **Luciola Lanterns**
 
 ### A Season for Hope - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS1 Joining the Hunt
 - **Type:** Words
 - **Requirements:** Write 2020 words
@@ -849,7 +849,7 @@ see **Luciola Lanterns**
 
 ### Spreading Hope - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS1 Joining the Hunt
 - **Type:** Forum
 - **Requirements:** Post 3 Messages in the Forum
@@ -876,7 +876,7 @@ see **Luciola Lanterns**
 
 ### Studying Substance Samples - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS1 Joining the Hunt
 - **Type:** Collection
 - **Requirements:** Deliver 50 Dust
@@ -925,7 +925,7 @@ Monsters and Resources listed here will not be linked with this quest outside th
 
 ### Time of Reflection - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS1 Joining the Hunt
 - **Type:** Streak
 - **Requirements:** Maintain a 4-day Streak
@@ -961,7 +961,7 @@ Monsters and Resources listed here will not be linked with this quest outside th
 
 ### To Hope is to Plan - HuntS1
 
-- **Location:** Available in the Luciola Forest 
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS1 Joining the Hunt
 - **Type:** Wordcount
 - **Requirements:** Write 10K words
@@ -1026,6 +1026,15 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 - **Requirements:** Battle 30 Monsters of any kind
 - **Rewards:** 1 Stone Key (used starting in the 4th region; collect all you can when you can)
 - Renews approx. 150 hours after delivery
+
+###The Winding Path to Elder Library - MT
+
+- **Location:** Mama Tree
+- **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • **The Winding Path to Elder Library** • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
+- **Type:** Battle
+- **Requirements:** Defeat 3 Tylu and 3 Illi
+- **Rewards:** Unlock Elder Library; 100 Coins
+- **Recommendations:** This is your first step into a larger world. Elder Library is the first Expedition area you can unlock - an area with quests, loot, and monsters independent of the main quests. And Elder Library hosts the Hunt for the Ancients, a perpetually-updating event with tons of fun quests and wardrobe and house items... DO THIS when you can! (And see if you can combine it with A Family Tree, if that interests you in the slightest.)
 
 ### Written Accounts - MT
 

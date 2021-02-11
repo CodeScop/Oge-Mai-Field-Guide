@@ -1580,7 +1580,7 @@ see **Skuppa's Giant Marionette**
 
 # M-Z
 
-LAST UPDATED 16 DEC 2020
+LAST UPDATED 10 FEB 2021
 
 ### Maesc (Exp: IC)
 
@@ -2408,7 +2408,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 
 ### Spirit Ardia (Oge: DFO*; Exp: FB *)
 
-- **Unlocked by:** DFO Main Quest 12/Well of Lost Souls
+- **Unlocked by:** DFO Main Quest 12/Well of Lost Souls (in FB; unlocked in DFO by DFO Hounding the Dead 2/4)
 - **Requirements:** 80 words
 - **Time allowed:** 8 minutes
 - **XP:** 8
@@ -2747,25 +2747,25 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Time allowed:** 180 minutes (3 hours)
 - **XP:** 120
 - **Drops:** 12 Hunter Tokens, 4-8 Wood, 4-6 Rope, 1 Spider Poison, 2-4 Raw Steel, 1-3 Raw Sandstone
-- **Quests:** HuntS2: Battle of Merit (1)
+- **Quests:** HuntS1: Battle of Merit (1)
 
 ### Velts: Dust (Oge: Riza*)
 
-- **Unlocked by:** HuntS3 Quest: Battle of Constitution
+- **Unlocked by:** HuntS1 Quest: Battle of Constitution
 - **Requirements:** 2000 words
 - **Time allowed:** 1440 minutes (24 hours or 1 day)
 - **XP:** 200
 - **Drops:** 20 Hunter Tokens, 6-12 Wood, 1-2 Hardwood, 1-3 Reinforced Rope, 2-4 Spider Poison, 3-6 Raw Steel, 2-4 Bones, 1 Net
-- **Quests:** HuntS4: A Battle of Evolution (1)
+- **Quests:** HuntS1: A Battle of Evolution (1)
 
 ### Velts: Water (Oge: Balance)
 
-- **Unlocked by:** HuntS2 Quest: A Battle of Merit
+- **Unlocked by:** HuntS1 Quest: A Battle of Merit
 - **Requirements:** 1600 words
 - **Time allowed:** 600 minutes (10 hours)
 - **XP:** 160
 - **Drops:** 16 Hunter Tokens, 5-10 Wood, 4-9 Rope, 2-3 Spider Poison, 3-6 Raw Steel, 2-4 River Grass, 1-4 Raw Fabric
-- **Quests:** HuntS3: Battle of Constitution 3/4 (1)
+- **Quests:** HuntS1: Battle of Constitution 3/4 (1)
 
 ### Vezi (Oge: Balance*)
 

@@ -1,4 +1,4 @@
-LAST UPDATED 16 DEC 2020
+LAST UPDATED 10 FEB 2021
 
 I resisted making this at first, because surely the end of the Dust Region is functionally identical to the whole game, right?
 
@@ -1026,7 +1026,7 @@ see **Skuppa's Giant Marionette**
 
 ### Spirit Ardia (Oge: DFO*; Exp: FB *)
 
-- **Unlocked by:** DFO Main Quest 12/Well of Lost Souls
+- **Unlocked by:** DFO Main Quest 12/Well of Lost Souls (in FB; unlocked in DFO by DFO Hounding the Dead 2/4)
 - **Requirements:** 80 words
 - **Time allowed:** 8 minutes
 - **XP:** 8
@@ -1186,13 +1186,6 @@ see **Skuppa's Giant Marionette**
 ### Velts: Desert (Oge: 3PC)
 
 ### Velts: Dust (Oge: Riza*)
-
-- **Unlocked by:** HuntS3 Quest: Battle of Constitution
-- **Requirements:** 2000 words
-- **Time allowed:** 1440 minutes (24 hours or 1 day)
-- **XP:** 200
-- **Drops:** 20 Hunter Tokens, 6-12 Wood, 1-2 Hardwood, 1-3 Reinforced Rope, 2-4 Spider Poison, 3-6 Raw Steel, 2-4 Bones, 1 Net
-- **Quests:** HuntS4: A Battle of Evolution (1)
 
 ### Velts: Water (Oge: Balance)
 

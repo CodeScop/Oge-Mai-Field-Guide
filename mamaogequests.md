@@ -32,7 +32,7 @@ LAST UPDATED 19 MAR 2019
 
 ## Mama Tree Sidequests
 
-LAST UPDATED 28 SEPT 2020
+LAST UPDATED 10 FEB 2021
 
 A lot of these are available from the beginning. If there's an asterisk, it unlocked in the process of going through this region.
 
@@ -245,6 +245,13 @@ Monsters and Resources listed here will not be linked with this quest outside th
     - 10 Scofin
 - **Rewards:** Wardrobe: Pride River Dye Hair https://4thewords.com/media/wardrobe/featured/female/wf&#95;836-pride-siren-hair-5634-64111.png
 - **Recommendations:** Look at the lovely hair! Isn't it wonderful? I'd rec attacking the monsters first, because the Suulan and Arenica will drop some of what you need. Dandeleon Flowers only come from Dandeleons and Night Dandeleons in the Forest Expedition, though, so you may have to travel for those (get the Kaija and Scofin in Base Camp and Tall Trees respectively). For Nuig String, make sure you've fought all the Castu quests from Balance that you want to fight, because Castu are a great source of Nuig String and they're really popular in Balance quests.
+
+###The Winding Path to Elder Library
+
+- **Type:** Battle
+- **Requirements:** Defeat 3 Tylu and 3 Illi
+- **Rewards:** Unlock Elder Library; 100 Coins
+- **Recommendations:** This is your first step into a larger world. Elder Library is the first Expedition area you can unlock - an area with quests, loot, and monsters independent of the main quests. And Elder Library hosts the Hunt for the Ancients, a perpetually-updating event with tons of fun quests and wardrobe and house items... DO THIS when you can! (And see if you can combine it with A Family Tree, if that interests you in the slightest.)
 
 ### Written Accounts
 
