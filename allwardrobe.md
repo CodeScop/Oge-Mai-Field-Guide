@@ -1,4 +1,4 @@
-LAST UPDATED 11 DEC 2020
+LAST UPDATED 12 FEB 2021
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
 
@@ -6,89 +6,6 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
 
 ### Luciola Forest
 
-- **Hunter Lodge sells**
-  - Reaction: Allies In Arms - 1 Hunter Token
-  - Reaction: For The Valley! - 1 Hunter Token
-  - Reaction: Good Eye - 1 Hunter Token
-  - Reaction: Growing - 1 Hunter Token
-  - Reaction: Hope - 1 Hunter Token
-  - Reaction: Wanderlust - 1 Hunter Token
-  - Classy Short Hair - 10 Hunter Tokens
-  - Clean Front Hair - 10 Hunter Tokens
-  - Hunt Braids Hair - 10 Hunter Tokens
-  - Hunt Headband - 10 Hunter Tokens
-  - Lifted Front Hair - 10 Hunter Tokens
-  - Lower Buns Hair - 10 Hunter Tokens
-  - Messy Front Hair - 10 Hunter Tokens
-  - Messy Long Hair - 10 Hunter Tokens
-  - One Braid Hair - 10 Hunter Tokens
-  - One Bun Hair - 10 Hunter Tokens
-  - Side Bangs Hair - 10 Hunter Tokens
-  - Simple Belt - 10 Hunter Tokens
-  - Straight Bangs - 10 Hunter Tokens
-  - Two Braids Hair - 10 Hunter Tokens
-  - Upper Buns Hair - 10 Hunter Tokens
-  - Upward Spikes - 10 Hunter Tokens
-  - Double Belt - 15 Hunter Tokens
-  - Facepaint Cross Lines - 15 Hunter Tokens
-  - Facepaint Dots Line - 15 Hunter Tokens
-  - Facepaint Dots Simple - 15 Hunter Tokens
-  - Paint Double Strokes - 15 Hunter Tokens
-  - Paint Sharp Lines - 15 Hunter Tokens
-  - Paint Under Lines - 15 Hunter Tokens
-  - Paint Vertical Line - 15 Hunter Tokens
-  - Freckles - 20 Hunter Tokens
-  - Simple Sandals - 20 Hunter Tokens
-  - Slim Left Chest Belt - 20 Hunter Tokens
-  - Slim Right Chest Belt - 20 Hunter Tokens
-  - Triple Belt - 20 Hunter Tokens
-  - Arms Geometric Tattoo - 25 Hunter Tokens
-  - Bulky Arrow Tattoo - 25 Hunter Tokens
-  - Geometric Labyrinth Tattoo - 25 Hunter Tokens
-  - Geometric Lines Tattoo - 25 Hunter Tokens
-  - Limb Lines Tattoo - 25 Hunter Tokens
-  - Rib Wings Tattoo - 25 Hunter Tokens
-  - Torso Wings Tattoo - 25 Hunter Tokens
-  - Valknut Tattoo - 25 Hunter Tokens
-  - Dinti Sandals Complex - 30 Hunter Tokens
-  - Earth Sandals - 30 Hunter Tokens
-  - Nose Piercing - 30 Hunter Tokens
-  - Nose Side Piercing - 30 Hunter Tokens
-  - Braids Beard - 40 Hunter Tokens
-  - Hunt Beard - 40 Hunter Tokens
-  - Bandana Crop Top - 50 Hunter Tokens
-  - Earth Shoes - 50 Hunter Tokens
-  - Headscarf - 50 Hunter Tokens
-  - Hunt Belts - 50 Hunter Tokens
-  - Hunting Net - 50 Hunter Tokens
-  - Large Left Chest Belt - 50 Hunter Tokens
-  - Simple Crop Top - 50 Hunter Tokens
-  - Turban - 50 Hunter Tokens
-  - Ankle Boots - 80 Hunter Tokens
-  - Fur Vest - 80 Hunter Tokens
-  - Hunt Fur Crop Top - 80 Hunter Tokens
-  - Hunt Simple Brooch - 80 Hunter Tokens
-  - Hunt Tattoos - 80 Hunter Tokens
-  - Short Fur Boots - 80 Hunter Tokens
-  - Bard's Hat - 100 Hunter Tokens
-  - Caretaker's Hair - 100 Hunter Tokens
-  - Curator's Timepiece - 100 Hunter Tokens
-  - Hunt Boots - 100 Hunter Tokens
-  - Hunt Bracers - 100 Hunter Tokens
-  - Shepherd's Robes - 100 Hunter Tokens
-  - Small Chestplate - 100 Hunter Tokens
-  - Knee High Laced Boots - 125 Hunter Tokens
-  - Shield - 125 Hunter Tokens
-  - Spear - 125 Hunter Tokens
-  - Sword - 125 Hunter Tokens
-  - Bow and Quiver - 150 Hunter Tokens
-  - Hunt Cloak - 150 Hunter Tokens
-  - Lorsa Fur Scarf - 150 Hunter Tokens
-  - Travel Trench Coat - 150 Hunter Tokens
-  - Hunt Skirt - 175 Hunter Tokens
-  - Hunt Altar - 500 Hunter Tokens
-  - Hunt Shrine - 1000 Hunter Tokens
-  - Hunt Monument - 1500 Hunter Tokens
 - **Tailor Marai sells** 
   - **Writer's Block Shirt**: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;shirt&#95;writersblock.png
   - **Ardi Flame Hair ** (three colors available):
@@ -102,8 +19,98 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
   - pinkish-red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;short&#95;red.png
   - grayish-white: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;short&#95;white.png
 
-### Hunt for the Ancients Quests
+### Elder Library
 
+- **Hunter Lodge sells the following wardrobe items:**
+  - Classy Short Hair - 10 Hunter Tokens
+  - Clean Front Hair - 10 Hunter Tokens
+  - Facepaint Cross Lines - 10 Hunter Tokens
+  - Facepaint Dots Line - 10 Hunter Tokens
+  - Facepaint Dots Simple - 10 Hunter Tokens
+  - Hunt Braids Hair - 10 Hunter Tokens
+  - Hunt Headband - 10 Hunter Tokens
+  - Lifted Front Hair - 10 Hunter Tokens
+  - Lower Buns Hair - 10 Hunter Tokens
+  - Messy Front Hair - 10 Hunter Tokens
+  - Messy Long Hair - 10 Hunter Tokens
+  - One Braid Hair - 10 Hunter Tokens
+  - One Bun Hair - 10 Hunter Tokens
+  - Paint Double Strokes - 10 Hunter Tokens
+  - Paint Sharp Lines - 10 Hunter Tokens
+  - Paint Under Lines - 10 Hunter Tokens
+  - Paint Vertical Line - 10 Hunter Tokens
+  - Side Bangs Hair - 10 Hunter Tokens
+  - Simple Belt - 10 Hunter Tokens
+  - Straight Bangs - 10 Hunter Tokens
+  - Two Braids Hair - 10 Hunter Tokens
+  - Upper Buns Hair - 10 Hunter Tokens
+  - Upward Spikes - 10 Hunter Tokens
+  - Double Belt - 15 Hunter Tokens
+  - Freckles - 15 Hunter Tokens
+  - Nose Piercing - 15 Hunter Tokens
+  - Nose Side Piercing - 15 Hunter Tokens
+  - Simple Sandals - 20 Hunter Tokens
+  - Slim Left Chest Belt - 20 Hunter Tokens
+  - Slim Right Chest Belt - 20 Hunter Tokens
+  - Triple Belt - 20 Hunter Tokens
+  - Arms Geometric Tattoo - 25 Hunter Tokens
+  - Bulky Arrow Tattoo - 25 Hunter Tokens
+  - Geometric Labyrinth Tattoo - 25 Hunter Tokens
+  - Geometric Lines Tattoo - 25 Hunter Tokens
+  - Limb Lines Tattoo - 25 Hunter Tokens
+  - Rib Wings Tattoo - 25 Hunter Tokens
+  - Torso Wings Tattoo - 25 Hunter Tokens
+  - Valknut Tattoo - 25 Hunter Tokens
+  - Bard's Necklace - 30 Hunter Tokens
+  - Bard's Wrist Guards - 30 Hunter Tokens
+  - Caretaker's Necklace - 30 Hunter Tokens
+  - Caretaker's Wrist Guards - 30 Hunter Tokens
+  - Curator's Necklace - 30 Hunter Tokens
+  - Curator's Wrist Guards - 30 Hunter Tokens
+  - Dinti Sandals Complex - 30 Hunter Tokens
+  - Earth Sandals - 30 Hunter Tokens
+  - Hunt Fabric Belt - 30 Hunter Tokens
+  - Shepherd's Necklace - 30 Hunter Tokens
+  - Shepherd's Wrist Guards - 30 Hunter Tokens
+  - Braids Beard - 40 Hunter Tokens
+  - Hunt Beard - 40 Hunter Tokens
+  - Bandana Crop Top - 50 Hunter Tokens
+  - Earth Shoes - 50 Hunter Tokens
+  - Headscarf - 50 Hunter Tokens
+  - Hunt Belts - 50 Hunter Tokens
+  - Hunt Hanging Scarf - 50 Hunter Tokens
+  - Hunter Shorts - 50 Hunter Tokens
+  - Large Left Chest Belt - 50 Hunter Tokens
+  - Simple Crop Top - 50 Hunter Tokens
+  - Turban - 50 Hunter Tokens
+  - Hunter Turban With Hair - 75 Hunter Tokens
+  - Hunting Net - 75 Hunter Tokens
+  - Ankle Boots - 80 Hunter Tokens
+  - Fur Vest - 80 Hunter Tokens
+  - Hunt Fur Crop Top - 80 Hunter Tokens
+  - Hunt Simple Brooch - 80 Hunter Tokens
+  - Hunt Tattoos - 80 Hunter Tokens
+  - Short Fur Boots - 80 Hunter Tokens
+  - Hunt Boots - 100 Hunter Tokens
+  - Hunt Bracers - 100 Hunter Tokens
+  - Hunt Side Cover Shirt - 100 Hunter Tokens
+  - Small Chestplate - 100 Hunter Tokens
+  - Hunter Long Skirt - 125 Hunter Tokens
+  - Hunter Pants - 125 Hunter Tokens
+  - Knee High Laced Boots - 125 Hunter Tokens
+  - Shield - 125 Hunter Tokens
+  - Spear - 125 Hunter Tokens
+  - Sword - 125 Hunter Tokens
+  - Bard's Hat - 150 Hunter Tokens
+  - Bow and Quiver - 150 Hunter Tokens
+  - Caretaker's Hair - 150 Hunter Tokens
+  - Curator's Timepiece - 150 Hunter Tokens
+  - Hunt Centered Long Skirt - 150 Hunter Tokens
+  - Hunt Cloak - 150 Hunter Tokens
+  - Lorsa Fur Scarf - 150 Hunter Tokens
+  - Shepherd's Robes - 150 Hunter Tokens
+  - Hunt Skirt - 175 Hunter Tokens
+  - Travel Trench Coat - 175 Hunter Tokens
 - **The Hunt Begins** quest returns **Scarred Eye**, which may place the scar over either the left or right eye for any of the seven basic eye colors. That's FOURTEEN varieties with very little difference. I'm only going to link to the one where the avatar's left eye is blue and the right eye scarred shut: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;hunt&#95;scar&#95;eye&#95;left&#95;blue.png
 - **Deeper Forest Hunting** returns **Full Body Scars**: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;full&#95;body&#95;scars.png
 - **Proving Your Strength 6/6** returns the **Small Axe**, which comes with seven different-colored bindings:
@@ -117,6 +124,47 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
   - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;678-small-axe-4226-13115.png
 - **A Past Not Forgotten** returns **Pauldrons**: https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;armor&#95;pauldrons.png
 - **The Curator of Elder Library** returns **Sassi Pet:** https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;sassi&#95;pet.png
+- **Velts' Strong Start** gives us **Hunt Aging Eyebrows**, with **eight variants:**
+  - dark gray: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1529-hunt-aging-eyebrows-10438-23937.png
+  - light gray: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1529-hunt-aging-eyebrows-10441-79352.png
+  - brown: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1529-hunt-aging-eyebrows-10443-59673.png
+  - tan-gold: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1529-hunt-aging-eyebrows-10446-98298.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1529-hunt-aging-eyebrows-10447-63878.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1529-hunt-aging-eyebrows-10449-47081.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1529-hunt-aging-eyebrows-10450-32828.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1529-hunt-aging-eyebrows-10452-18945.png
+- **A Secret Plan** gives us the **Hunt Eyepatch**, with a generous **14 variants**:
+  - black right eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1532-hunt-cloth-eyepatch-10488-14138.png
+  - black left eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1532-hunt-cloth-eyepatch-10490-84394.png
+  - white right eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1532-hunt-cloth-eyepatch-10492-93882.png
+  - white left eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1532-hunt-cloth-eyepatch-10494-53686.png
+  - green left eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1532-hunt-cloth-eyepatch-10497-13781.png
+  - green right eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1532-hunt-cloth-eyepatch-10498-38756.png
+  - purple right eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1532-hunt-cloth-eyepatch-10499-90333.png
+  - red left eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1532-hunt-cloth-eyepatch-10500-48040.png
+  - blue right eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1532-hunt-cloth-eyepatch-10501-92331.png
+  - yellow right eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1532-hunt-cloth-eyepatch-10502-83248.png
+  - yellow left eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1532-hunt-cloth-eyepatch-10503-30981.png
+  - blue left eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1532-hunt-cloth-eyepatch-10504-49298.png
+  - red right eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1532-hunt-cloth-eyepatch-10505-69883.png
+  - purple left eye: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1532-hunt-cloth-eyepatch-10507-86699.png
+- **Familiar Assistants Needed!** gives us the **Hunt Aging Beard**, with **eight variants**:
+  - dark gray: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1526-hunt-aging-beard-10391-42456.png
+  - light gray: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1526-hunt-aging-beard-10393-60650.png
+  - brown: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1526-hunt-aging-beard-10397-51184.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1526-hunt-aging-beard-10398-57058.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1526-hunt-aging-beard-10399-32304.png
+  - tan-gold: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1526-hunt-aging-beard-10401-97799.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1526-hunt-aging-beard-10402-25143.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1526-hunt-aging-beard-10404-56830.png
+- **Into Forest Depths 2/3** gives us the **Hunt Facemask**, with **seven variants**:
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1534-hunt-neck-guard-10525-70785.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1534-hunt-neck-guard-10529-27446.png
+  - white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1534-hunt-neck-guard-10530-19312.png
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1534-hunt-neck-guard-10531-98947.png
+  - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1534-hunt-neck-guard-10532-20183.png
+  - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1534-hunt-neck-guard-10535-89863.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1534-hunt-neck-guard-10536-54914.png
 - **All Who Wander** returns **Tall Fur Boots**, which come in seven varieties:
   - black: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Fur&#95;Tall&#95;Black.png
   - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Fur&#95;Tall&#95;Blue.png

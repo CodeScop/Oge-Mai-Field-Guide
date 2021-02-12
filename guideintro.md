@@ -1,4 +1,4 @@
-LAST UPDATED 2 APR 2020
+LAST UPDATED 12 FEB 2021
 
 This started out as a simple guide. The idea was that you jump in at whatever point in the game you were at, read any advice that you wanted to, and jump ahead. Meanwhile, you could always go back to the the big Resource section, or ahead to the end, and get a quick recap of what you'd seen or missed in prior areas.
 
@@ -12,7 +12,7 @@ The earlier parts of the Guide still work pretty well on this level. If you're s
 
 **How my organization is working currently, from Oge-Mai Valley to the Hunt for the Ancients to the Expedition to the Shrine of Ages, with Special Events and whole-game Summary.**
 
-Thing is, since I started the Guide, the game has gotten more complicated, and there's only so much I can do to keep up. When I started in spring of 2019, the game was more or less straightforward: you advanced from one Area of **Oge-Mai Valley** to the next as you followed the Main Quests, and you did whatever sidequests you wanted on the way and wandered back to old Areas for Resources. Areas, then as now, were grouped into Regions (Forest, Desert, Water, and Dust so far) which had free travel with each other. Now and again, you'd have a **Special Event** which either acted like its own special Area or offered a scattering of monsters throughout the game. I wrote advice and recorded useful data based on where the game progressed, with a big summary at the end, so that detailed info on monsters, resources, and quests was available to everyone without spoiling the later game.
+Thing is, since I started the Guide, the game has gotten more complicated, and there's only so much I can do to keep up. When I started this in spring of 2019, the game was more or less straightforward: you advanced from one Area of **Oge-Mai Valley** to the next as you followed the Main Quests, and you did whatever sidequests you wanted on the way and wandered back to old Areas for Resources. Areas, then as now, were grouped into Regions (Forest, Desert, Water, and Dust so far) which had free travel with each other. Now and again, you'd have a **Special Event** which either acted like its own special Area or offered a scattering of monsters throughout the game. I wrote advice and recorded useful data based on where the game progressed, with a big summary at the end, so that detailed info on monsters, resources, and quests was available to everyone without spoiling the later game.
 
 Three big complications have been added to the game since then: the **Expedition Areas**, the **Shrine of Ages**, and the **Hunt for the Ancients**. The Expedition Areas are areas to explore off the beaten path, and take a break from the Main Quests. They're slowly being added to every Region. Deep in the Desert Expedition, the Shrine of Ages is a special Area where you can, if you've saved up the right resources, get a ticket back in time to play monsters and quests from old events. Meanwhile, the Hunt for the Ancients runs almost in parallel to the Main Quests in a kind of hybrid between the regular game and a Special Event.  The Hunt runs through the Oge-Mai Valley and Expedition areas, starting in Luciola Forest and moving onward. These three parts are much less linear; it's a lot harder to decide what should or should not constitute a spoiler. (On the other hand, you're much less likely to get stuck and unable to go anywhere else if something goes wrong here.)
 
@@ -24,30 +24,32 @@ Each Area of Oge-Mai is split into two overarching sections: Intro and Summary. 
 
 - **Intro:** Intro and general advice upon entering an area. Also likely to be opinionated.
 - **Sidequests:** A quick list of all sidequests available when you enter, together with recommendations about which ones to prioritize and which ones might be better off waiting to complete. More opinions!
-- **Monsters:** A quick list of all monsters available in the area, what they require, and what they drop.
 - **Main Quests:** Going through the main quests in sequence with tips on how to complete them
 
 ### [Area] Summary
 
-- **Sidequests:** Listing all the sidequests available when you leave, together with a few more recommendations (and any sidequests unlocked by those sidequests, so you can see what's there)
-- **Monsters:** This time, instead of just telling you WHAT the monsters drop, I tell you HOW MUCH they're likely to drop, the better to help with farming resources. Also, we're adding in any monsters unlocked going through the area.
+- **Sidequests:** Listing all the sidequests available in the area when you leave, together with a few more recommendations (and any sidequests unlocked by those sidequests, so you can see what's there)
+- **Monsters:** A complete list of all monsters available in the area when you leave, together with their requirements, time, XP, and the range of drops.
 - **Resources:** This gets included in the Summary about half the time: if this is the only Area you've unlocked in the Region, I summarize all the resources available in the Area with at least some reference to all the resources in the game so far. If this is the last Area, I save the Resource Summary thing for the Region summary, because it'd basically be the same info twice.
-- **Battle Gear:** This isn't consistent as I write this intro, but a lot of the earlier areas have a special Battle Gear section that repeats ONLY info about Resources which can be equipped and improve your stats, so you can compare what's available.
-- **List of Available Quests:** This lists nothing but the names of the quests... with indents to (hopefully) make it clear which quests unlock/are unlocked by other quests vs. which quests are standalone
+- **List of Available Quests:** This lists nothing but the names of the quests for this section... with indents to (hopefully) make it clear which quests unlock/are unlocked by other quests vs. which quests are standalone
 
 ### Region Resources
 
-This is a recap at the end of each Region, and it is nothing but a long list of **ALL the resources available in a region,** **Oge-Mai Areas and Expedition Areas alike**, including how you can get them in battles, as quest rewards, as chest drops, how you buy them, how you craft them, how you use them, whether you can afford to sell them... and, in later regions, it will also list the name of resources available only in older regions and let you know which region has the detailed info.
+This is a recap at the end of each Region, and it is nothing but a long list of **ALL the resources available in a region,** **Oge-Mai Areas and Expedition Areas and Hunt alike**, including how you can get them in battles, as quest rewards, as chest drops, how you buy them, how you craft them, how you use them, whether you can afford to sell them... and, in later regions, it will also list the name of resources available only in older regions and let you know which region has the detailed info.
 
-(And some of these will also have a full list of Battle Gear, but again, inconsistent as of this writing.)
+(And some of these will also have a full list of Battle Gear, but that's inconsistent as of this writing.)
 
 ###Region Bestiary
 
-Can't remember what Area had that monster? Check out the Region Bestiary! All the info on monsters from the Area Summary, plus a code to tell you every location they appear at in the game so far, PLUS a list of all quests so far featuring the monster. **(Note that if you have picked up multiple quests requiring you to battle a monster, every battle you win counts toward ALL those quests. It's efficient to dovetail those quests as much as possible.)**
+Can't remember what Area had that monster? Check out the Region Bestiary! All the info on monsters from the Area Summary, plus a code to tell you every location they appear at in the game so far, PLUS a list of all quests so far featuring the monster. **(Note that if you have multiple quests requiring you to battle a monster in your questbook, every battle you win counts toward ALL those quests. It's efficient to dovetail those quests as much as possible.)**
+
+### Region Quests
+
+Trying to figure out where you picked up that sidequest, or what comes next? Check out the listing of All The Quests, starting with the main quests and continuing to the sidequests in alphabetical order.
 
 ## Expedition Areas
 
-After you've finished all the Main Quests in a Region (or the Main Quests in the first Area of the Region, as of now in the Water Region), a brand-new sidequest will pop up giving you the chance to unlock the Expedition for the Region.
+After you've finished all the Main Quests in an Area, a brand-new sidequest may pop up giving you the chance to unlock an Expedition.
 
 I recommend NOT using the Guide for these, unless you're in a hurry. Until you get to the Dust Region deep in the game, they're entirely optional for the Main Quests, and it's more fun to explore them on your own.
 
@@ -118,17 +120,25 @@ After all the Regions have been covered, Hunt and Expedition and Shrine and all,
 
 Incidentally, the Resources section is over 16K words right now, not counting the Streak and Level info.
 
-### All Resources & Streak Rewards
+### All Resources
 
-Has all the resources in the game, their sources, their prices, their uses, etc,  followed by a list of rewards reached when you reach a certain streak or level.
+Has all the resources in the game, their sources, their prices, their uses, etc. 
+
+### SPOILERS: Streak Rewards and Level Rewards
+
+Want a sneak peek at the rewards you'll eventually earn for your unbroken game streak, or for leveling up? Take a look in here!
 
 ###All Battle Gear & All Wardrobe
 
 Want to narrow down your Resources to just things that equip? That's the point of All Battle Gear. Want to know where every single wardrobe item in the game is, and what it looks like? All Wardrobe has you covered.
 
-### All Game Bestiary & All Quests
+### All Game Bestiary & Questline Summary
 
-Here's where I list every monster, its location, what quests are needed... everything. And the All Quests is a quick bullet-point list of all the quests in the game, so you can see what unlocks/is unlocked by other things.
+Here's where I list every monster, its location, what quests are needed... everything. And the Questline Summary is a quick bullet-point list of all the quests in the game, so you can see what unlocks/is unlocked by other things.
+
+### All Quests
+
+By popular demand... the list of all quests available outside special events. The main questline comes first, followed by all sidequests in alphabetical order. Also includes a list of other quests in the chain for chained quests.
 
 ### Travel Directions
 

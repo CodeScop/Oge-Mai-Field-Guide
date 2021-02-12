@@ -158,3 +158,33 @@ Definitely look at the sidequests to pick up quickly so you don't duplicate effo
 There's a decent amount of shiny new battle gear here, but I might recommend holding off on crafting Dark Forest Boots, since it's worlds cheaper to wait and see if they'll drop from a Bones Chest, even though it might take several Chests before that happens.
 
 Enjoy the Dark Forest! And then enjoy the way it allows you to see the rest of the Valley with new eyes!
+
+# Purple Gate
+
+ LAST UPDATED 26 OCT 2020
+
+Welcome to the Purple Gate! We approach the edge of Oge-Mai, and there's no telling what lies beyond.
+
+I will admit to hoping that the Purple Gate does not stay quite the same as it is as I write this, because as I write this it has a lot of fantastic wardrobe-oriented quests and excellent battle-oriented quests and... not a lot of variety.
+
+But the STORY. I shall not spoil it for you.
+
+There's not a lot of ways to go wrong for the Purple Gate - the monsters and quests are extremely self-explanatory, so **I'm foregoing the usual intro monsters and intro quests info**. You know the drill with these quests by now.
+
+And Purple Gate's release is a little... unusual. By the time you finish, you'll see why I'm not including all the info from the Purple Gate release here. I do, however, have complete spoileriffic info in the Dust Region summary sections.
+
+Good hunting! Don't let the Dust get you down!
+
+# Cave
+
+LAST UPDATED 12 FEB 2021
+
+Is the coast clear? *checks side to side* 
+
+I'm going to guess "yes".
+
+See, this section dropped at the exact same time as the Purple Gate, but entirely unannounced. I've been treating the existence of the Cave as a spoiler for five months. But I think, at this point, it's no more a spoiler that the Cave exists than any other Area, and I can separate its info out from the rest of the Dust Region.
+
+Whew!
+
+So, much like the Purple Gate, there isn't a lot of use for the Guide here; the sidequests are generally self-explanatory (I can't see any point to making special recommendations here) and the rewards are generally wardrobe items that impact strategy exactly as far as you care about them. But again, the STORY! I wholeheartedly recommend.

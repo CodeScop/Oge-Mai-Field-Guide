@@ -7,18 +7,15 @@
 - Luciola Forest Intro
   - Luciola Forest Intro
   - Luciola Open: Side Quests
-  - Luciola Open: Monsters
   - Luciola Main Quests
 - Luciola Forest Summary
   - Sidequests - Luciola Forest
   - Monsters - Luciola Forest
   - Resources - Luciola Forest
-  - Battle Gear - Luciola Forest
   - List of Available Quests: Post Luciola Forest
 - Mama Tree Open
   - Mama Tree Intro
   - Mama Tree Open: Sidequests
-  - Mama Tree Open: Monsters
   - Mama Tree Main Quests
 - Hunt for the Ancients INTRO
   - Intro to Hunt for the Ancients
@@ -73,13 +70,11 @@
 - Three Points Crossing Open
   - Three Points Crossing Intro
   - 3PC Open: Sidequests
-  - 3PC Open: Monsters
   - 3PC Main Quests
 - Three Points Crossing Summary
   - Sidequests: Three Points Crossing
   - Monsters: Three Points Crossing
   - Resources: Three Points Crossing
-  - Battle Gear: Three Points Crossing
   - List of Available Quests: Post Three Points Crossing
 - Expedition Alien Meteoroid: Impact Crater, Spaceship, Mining Site, and Research Lab
   - Alien Expedition Intro
@@ -98,7 +93,6 @@
 - Gansu Watering Hole Open
   - Gansu Intro
   - Gansu Open: Sidequests
-  - Gansu Open: Monsters
   - Gansu Main Quests
 - Gansu Watering Hole Summary
   - Sidequests: Gansu
@@ -199,13 +193,11 @@
 - Riza Rivertown Open
   - Riza Rivertown Intro
   - Riza Open: Sidequests
-  - Riza Open: Monsters
   - Riza Main Quests
 - Riza Rivertown Summary
   - Sidequests: Riza
   - Monsters: Riza Rivertown
   - Resources: Riza
-  - Battle Gear: Riza
   - List of Available Quests: Post Riza Rivertown
 - Expedition Raina: Raina Surface Camp, Swamplands, Raina Sacred Site, Rebel Raina Hideout
   - Raina Expedition Intro
@@ -225,7 +217,6 @@
 - Floating City of Balance Open
   - Balance Intro
   - Balance Open: Sidequests
-  - Balance Open: Monsters
   - Balance Main Quests
 - Floating City of Balance Summary
   - Sidequests: Balance
@@ -247,13 +238,11 @@
 - Dark Forest Outpost Open
   - Dark Forest Outpost Intro
   - DFO Open: Sidequests
-  - DFO Open: Monsters
   - DFO Main Quests
 - Dark Forest Outpost Summary
   - Dark Forest Sidequests
   - Dark Forest Monsters
   - Dark Forest Resources
-  - Battle Gear: Dark Forest
   - Dark Forest Wardrobe
   - Dark Forest Questline
 - Purple Gate Open
@@ -298,7 +287,7 @@
     - Accessory
   - Bonus Section: All Wardrobe
     - Luciola Forest
-    - Hunt for the Ancients Quests
+    - Elder Library
     - Mama Tree
     - Base Camp
     - Guardian's Lair
@@ -319,6 +308,8 @@
     - Raina Surface Camp
     - Floating City of Balance
     - Dark Forest Outpost
+    - Purple Gate
+    - Cave
 - All Game Bestiary & Questline Summary
   - Bestiary A-L
   - Bestiary M-Z
