@@ -1,4 +1,4 @@
-LAST UPDATED 10 DEC 2020
+LAST UPDATED 14 FEB 2021
 
 Disclaimer: The numbers for drops assume a minimum Luck of 2; less Luck may mean less in the way of drops. Also, any Hunt monsters/resources (apart from Hunter Tokens) are omitted here; see the Forest Resources for a more complete list.
 
@@ -56,6 +56,16 @@ These are special resources. They can be bought with actual real-world currency 
   - Craft: Rusty Amulet (3)
   - Quest: Make Words Sing (5), Make Attacks Sing (10)
 
+### Dandeleon Flower
+
+- **Source:** later game
+- **Used for:** later game, Craft HOUSE: Stone Dandeleon in Nature requires 3
+
+### Desert Stone
+
+- **Sources:** later game
+- **Used for:** later game, Craft HOUSE: Painted Stone Jar in Trinkets requires 8
+
 ### Dust
 
 - **Best sources:** Xin (100 words for 1-2), Awa (200 words for 1-2)
@@ -71,7 +81,16 @@ These are special resources. They can be bought with actual real-world currency 
 - **Best sources:** Viyusa (25 minutes for 1-4), Grey's Mawt (850 words for 1-2)
 - **Other sources:** Wignow (250 words for 0-1), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 2)
 - **Sell price:** 8 Coins (don't sell unless you have >500)
-- **Used for:** Quest: Don't Regift Curses/Main Quest 4 (4), Save the Children (8), Make Ink Sing (10), Make Words Sing (20) Make Attacks Sing (30)
+- **Used for:** later game,
+  - Craft HOUSE: Wooden Wall Clock in Trinkets requires 1
+  - Quest: Don't Regift Curses/Main Quest 4 (4), Save the Children (8), Make Ink Sing (10), Make Words Sing (20) Make Attacks Sing (30)
+
+### Fabric Roll
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Raw Fabric
+- **Sell price:** 50 Coins (why are you selling this instead of the Raw Fabric it took to make it? Guess it'll just delay your House upgrades.)
+- **Used for:** Craft HOUSE: (multiple)
 
 ### Feathers
 
@@ -79,7 +98,9 @@ These are special resources. They can be bought with actual real-world currency 
 - **Other sources:** Buy
 - **Buy:** 32 Coins in Item Shop/Alex's Shop 
 - **Sell price:** 8 Coins (don't sell unless you have >100)
-- **Used for:** Quest: Make It Work (5), Style Is Eternal (10), New Style (5), Safety Hats (20)
+- **Used for:** later game,
+  - Craft HOUSE: (multiple)
+  - Quest: Make It Work (5), Style Is Eternal (10), New Style (5), Safety Hats (20)
 
 ### Fur
 
@@ -91,9 +112,27 @@ These are special resources. They can be bought with actual real-world currency 
   - Craft: Leaf Boots (3)
   - Quest: Lumberjack's Tools (5), New Style (10)
 
-### Hunt Map Piece XXX
+### Glass
 
-See Hunt or regional Resource sections for details
+See **Glass Bar**.
+
+### Glass Bar
+
+The game usually simply calls this **Glass**. I like to make sure I'm distinguishing between this and the dozen other Glass things, so I call 'em Glass Bars.
+
+- **Sources:** later game
+- **Used for:** Craft HOUSE: (multiple)
+
+### Gold
+
+See **Gold Bar**.
+
+### Gold Bar
+
+The game usually simply calls this **Gold**. Since I call the parallel things for Glass and Steel "Glass Bars" and "Steel Bars" respectively, I call these "Gold Bars" to be consistent.
+
+- **Sources:** later game
+- **Used for:** Craft HOUSE: Large Trunk and Small Trunk in Trinkets each require 1
 
 ### Hunter Tokens
 
@@ -143,7 +182,8 @@ See Hunt or regional Resource sections for details
 - **Best sources:** Quests: Make Ink Sing (1), Make Words Sing (3), Make Attacks Sing (5)
 - **Other sources:** none yet
 - **Sell price:** 20 Coins (DO NOT SELL. Unless you somehow have >200.)
-- **Used for:** later quests/crafts
+- **Used for:** later quests/crafts,
+  - Craft HOUSE: Leafsung Painted Fabric Carpet and Leafsung Painted Fabric Curtain in Furniture each require 1
 
 ### Leafsung Key (Quest Reward Only)
 
@@ -170,7 +210,8 @@ For later game. DO NOT SELL.
   - Wooden Chest: 1-3
 - **Buy:** 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
-- **Used for:** 
+- **Used for:** later game,
+  - Craft HOUSE: (multiple)
   - Battling Rudakai (10)
   - Craft: Leaf Boots (10), Spider Bow (5)
   - Quest: Don't Regift Curses/Main Quest 4 (4)
@@ -187,12 +228,13 @@ For later game. DO NOT SELL.
 
 - **Best sources:** Xin (100 words for 0-1)
 - **Sell price:** 8 Coins (actually pretty good cash source at this point, but don't sell unless coins badly needed)
-- **Used for:** nothing yet
+- **Used for:** later game,
+  - Craft HOUSE: Materials: Fabric Roll (10), Woven Leaves Square (2)
 
 ### Raw Stone 
 
 - **Best sources:** Xin (100 words for 0-1) 
-- **Other sources:** none yet
+- **Other sources:** later game
 - **Sell price:** 8 Coins (actually pretty good cash source at this point, but don't sell unless coins badly needed)
 - **Used for:** Craft: Wooden Fishing Rod (1)
 
@@ -210,12 +252,18 @@ For later game. DO NOT SELL.
 - **Sell price:** 30 Coins (best source of cash at this point, but don't sell unless coins badly needed)
 - **Used for:** nothing yet
 
+### River Water
+
+- **Sources:** later game
+- **Used for:** Craft HOUSE: Boiling Cauldron in Furniture requires 10
+
 ### Rope 
 
 - **Best sources:** Awa (200 words for 2), Wignow (250 words for 0-1), Wooden Chest (1-6)
 - **Other sources:** Aracnu (800 words for 1), Mawt (1000 words for 1), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 1-2), Viyusa (25 minutes for 2-7)
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
 - **Used for:** 
+  - Craft HOUSE: (multiple)
   - Craft: Leaf Boots (2), Spider Bow (1), Wooden Fishing Rod (1), Wood Hammer (3)
   - Quest: Building, Not Burning/Main Quest 2 (2), Lumberjack's Tools (3)
 
@@ -264,6 +312,29 @@ For later game. DO NOT SELL.
 - **Sell price:** 4 Coins (Don't sell; there is always a use lurking somewhere)
 - **Used for:** Quest: Save the Children (10), Make Ink Sing (10), Make Words Sing (10), Make Attacks Sing (15)
 
+### Steel
+
+See **Steel Bar**
+
+### Steel Bar
+
+The game usually simply calls this **Steel**. I like to make sure I'm distinguishing between this and the dozen other Steel things, so I call 'em Steel Bars.
+
+- **Sources:** later game
+- **Used for:** later game,
+  - Craft HOUSE: (multiple)
+
+### Stone
+
+See **Stone Block**.
+
+### Stone Block
+
+The game usually simply calls this **Stone**. I like to make sure I'm distinguishing between this and the dozen other Stone things, so I call 'em Stone Blocks.
+
+- **Sources:** later game
+- **Used for:** Craft HOUSE: Stone Dandeleon in Nature requires 1
+
 ### Stone Key (Quest Reward Only)
 
 For later game. DO NOT SELL.
@@ -280,6 +351,12 @@ For later game. DO NOT SELL.
 - **Sell price:** 8 Coins (Don't sell unless you have >30)
 - **Used for:** later game
 
+### White Fur
+
+- **Sources:** later game
+- **Used for:** later game,
+  - Hunt House Item (Hunt Shield Ornament requires 1)
+
 ### Wood 
 
 - **Best sources:** Xin (100 words for 1-2), Awa (200 words for 1-2)
@@ -287,6 +364,7 @@ For later game. DO NOT SELL.
 - **Buy:** 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)
 - **Used for:** 
+  - Craft HOUSE: (multiple)
   - Craft: Spider Bow (5), Wooden Fishing Rod (1), Wood Hammer (15), Wood Sword (10)
   - Quest: Building, Not Burning/Main Quest 2 (6)
 
@@ -311,7 +389,8 @@ see **Wooden Fishing Rod**
 - **Craft:** Crafts & Trinkets/Kyiat's Shop: 10 Coins, 10 Wood
 - **Buy:** 100 Coins in Item Shop/Alex's Shop
 - **Sell price:** 20 Coins (Don't sell unless you have >50)
-- **Used for:** equipping; later game
+- **Used for:** equipping; later game,
+  - Craft HOUSE: Wooden Sword Wall Trophy in Furniture requires 1
 - **Equip:** Weapon1: +1 Attack, +0 Defense, +0 Luck
 
 ### Wooden Chest 
@@ -328,7 +407,7 @@ see **Wooden Fishing Rod**
 also called "Wood Fishing Rod"
 
 - **Best sources:** Craft
-- **Other sources:** Buy
+- **Other sources:** Buy, later game
 - **Buy:** 50 Coins in Item Shop/Alex's Shop
 - **Craft:** Crafts & Trinkets/Kyiat's Shop: 1 Wood, 1 Rope, 1 Raw Stone
 - **Sell price:** 5 Coins (Don't sell, not worth it)
@@ -342,3 +421,17 @@ also called "Wood Fishing Rod"
 - **Other sources:** none yet
 - **Sell price:** 25 Coins (DON'T SELL KEYS WHY WOULD YOU)
 - **Used for:** With Wooden Chest, drops 1-6 Rope, 1-3 Leaves, 1-3 Wood Sword, 9-18 Coins, 0-2 Leaf Boots, 1 Leaf Helmet, 0-1 Leaf Breastplate, 1-3 Spider Poison
+
+### Wooden Plank
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Wood
+- **Sell price:** 50 Coins (it might be a better sell price than the Wood alone, but it's a waste of Wood and Coins to sell this once made)
+- **Used for:** Craft HOUSE: (multiple)
+
+### Woven Leaves Square
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins, 20 Leaves, 4 Rope, and 2 Raw Fabric
+- **Sell price:** 50 Coins (20 Leaves and 4 Rope didn't give up their existence so you could sell this off. Unless you're really short on Coins and see no use for it.)
+- **Used for:** Craft HOUSE: (multiple)

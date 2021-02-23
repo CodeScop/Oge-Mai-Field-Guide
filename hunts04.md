@@ -1,4 +1,4 @@
-LAST UPDATED 10 FEB 2021
+LAST UPDATED 22 FEB 2021
 
 Season 3 started blurring the lines of where the Seasons take place (after all, the Van- monsters popped up all over the game to drop Hunter Tokens). Season 4 is ranging all over right from the start. Sure, most of the miscellaneous quests take place in the Dust Region, but Dust Velts isn't in the Dust, the first presumable-Assistant type is deep in the Forest... it's a time to wander everywhere and explore everything!
 
@@ -144,6 +144,14 @@ Season 3 started blurring the lines of where the Seasons take place (after all, 
 - **Rewards:** 20 Hunter Tokens
 - **Recommendations:** I'm not sure what Takori have to do with celebration (unless we're celebrating escaping them?), but hey, ours is not to question why, right?
 
+###Celebrate Stories
+
+- **Unlocked by:** HuntS4 Quest: Still Missing Something
+- **Type:** Wordcount
+- **Requirements:** Write 5000 words
+- **Rewards:** 10 Core Crystals, 10 Reactions: Celebrate, 10 Reactions: For The Valley!
+- **Recommendations:**  10 CORE CRYSTALS. FOR 5K WORDS. GET. THIS. NOW.
+
 ## Season 4 Monsters
 
 ### Bard
@@ -222,41 +230,40 @@ Season 3 started blurring the lines of where the Seasons take place (after all, 
   - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25)
   - HuntS4 Quests: Something Extraordinary (10), Cheer Your Dedication (15), Sing Your Enthusiasm (20), To Celebrate and Share (20), Into the Woods (50), On the Wrong Path (25), Jubilant and Strong (50), Sing Your Bravery 2/2 (15), Ideas Brought to Life (10)
 
-- **Dec 2020 Sources Outside the Hunt:**
+- **Jan 2021 Sources Outside the Hunt:**
 
-  Note: I'm marking this as "December" instead of "Late November" because for the entire duration of NaNo, right through early December, Hunter Tokens were dropping from NaNo event monsters and Hunt monsters only.
+  For January, the clue is an image in the news announcement: https://4thewords.com/forum/details-325 The image looks like a torn rectangle of creamy parchment with a dark red color painted over most of it, and a much darker reddish-brown cursive capital L. The consensus is that this means red monsters, and monsters with names starting with L - which is a solid rule of thumb for the monsters below, but not entirely reliable. 
 
-  For December, the trend is "Green and White".
-
-  - Global Battles: Vi (5 minutes for ), Xin (100 words for 1)
-  - LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Grey's Mawt (850 words for 8-9), Nitana (700 words for 7), Spirit Wignow (450 words for 4-5), Wignow (250 words for 2-3)
-  - MT Battles: Assassin (1400 words for 14), Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 8-9), Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
+  - Global Battles: Viyu (15 minutes for ?)
+  - LF Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2)
+  - MT Battles: Assassin (1400 words for 14), Lorsa (450 words for 4-5), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words for 13)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (120 words for 1-2)
-    - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6), Spirit Ardia (80 words for 0-1)
-    - SC Battles: Reudod (600 words for 6)
-    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7)
-    - GL Battles: Night Dandeleon (330 words for 3-4)
-  - 3PC Battles: Global and Hunt only
+    - BC Battles: Kaija (240 words for 2-3), Sacer (120 words for 1-2)
+    - SC Battles: Oncaiii (800 words for 8), Sapilo (450 words for 4-5), Sapira (350 words for 3-4), Sapiti (300 words for 3)
+    - FB, TT, GL Battles: Global and Hunt monsters only
+  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
   - ALIEN EXPEDITION:
-    - IC Battles: Nedi (800 words for 8), Rosarin (500 words for 5)
-    - SpaceS Battles: Szalin (700 words for 7), Yalarr (500 words for 5)
-    - MiningS Battles: Halix (250 words for 2-3), Pach (200 words for 2), Skarn (1100 words for 11), Zals (900 words for 9)
-    - RL Battles: Dr. Enoe (1500 words for 15), Dr. Hogglevoss (1200 words for 12), Fonar (200 words for 2), Gwynos (450 words for 4-5)
-  - Gansu Battles: Sparfly (450 words for 4-5), Suulan (2000 words and 1 Steel Dagger for 20)
+    - IC, RLab Battles: Global and Hunt monsters only
+    - SpaceS Battles: Ledd (500 words for 5)
+    - MiningS Battles: Pach (200 words for 2)
+  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Puna (150 words and 1 Wood Fishing Rod for 1-2), Rulo (550 words for 5-6)
   - DESERT EXPEDITION:
-    - DigS Battles: Global and Hunt only
-    - Ruins Battles: Global and Hunt only
-  - Riza Battles: Patliadu (750 words and 1 Harpoon for 7-8), Sparfly (450 words for 4-5), Wyvern (1300 words for 13)
+    - DigS Battles: Loi (150 words for 1-2)
+    - Ruins Battles: Global and Hunt monsters only
+  - Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Puna (150 words and 1 Wood Fishing Rod for 1-2), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
   - RAINA EXPEDITION:
-    - SurfaceC Battles: Auwi (500 words for 5), Wyvern (1300 words for 13)
-    - SwampL Battle: Copei (800 words for 8), Galai (1500 words for 15), Larida (1000 words for 10), Swamp Wignow (500 words for 5)
-    - SacredS Battle: Ognimaf (300 words for 3), Swamp Wignow (500 words for 5)
-    - Hideout Battles: Necog (450 words for 4-5)
-  - Balance Battles: Castu (450 words and 1 Water Mask for 4-5), Isartu (720 words for 7-8), Sliv (550 words and 1 Water Mask for 5-6), Spirit Castu (550 words for 5-6), Vezi (1300 words, 1 Water Mask, and 1 Underwater Torch for 13)
-  - DFO Battles: Burhar (1500 words for 15), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment, and 1 Blue Essence Ink for 50), Papple (1000 words for 10), Spirit Ardia (80 words for 0-1)
-  - PG Battles: Global and Hunt only
-  - CAVE Battles: Chio (100 words for 1), Gliva (300 words for 3), Gormist (1667 words for 17), Letos (700 words for 7), Olanat (1100 words for 11), Reflection (4444 words for 45), Spina (450 words for 4-5), Tacin (150 words for 1-2), Ulos (650 words for 6-7), Vafire (500 words for 5)
+    - SurfaceC Battles: Begala (300 words for 3), Droxa (1800 words for 18), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
+    - SwampL Battles: Larida (1000 words for 10)
+    - SacredS Battles: Pedja (1000 words for 10)
+    - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Wisthu (800 words for 8)
+  - Balance Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2), Xyplos (2000 words, 1 Water Mask, and 1 Underwater Torch for 20)
+  - DFO Battles: Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 20), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 11)
+  - PG Battles: Leopar (800 words for 8)
+  - CAVE Battles: Global and Hunt monsters only
+
+- **Sell price:** 10 Coins (don't sell, much better to spend)
+
+- **Used for:** Shopping in Hunter Lodge Token Store (see the Hunt Section of the Guide for items/prices), outside game
 
 ##Hunt for the Ancients Season 4 Questline Summary
 
@@ -276,6 +283,7 @@ Season 4 is unlocked by completing the quest A Bubble Dream, and you can see tha
   - HuntS4 Celebrate Joy - have Hunt Map Piece 11 and attain 7-day Streak, get Wardrobe: Facepaint Eye Stroke
     - HuntS4 Still Missing Something - get 10-day Streak and hand in all 11 Hunt Map pieces, get Wardrobe: Hunt Map Hands
       - HuntS4 Proving Your Friendship - defeat 4 of the Bard, get Wardrobe: Bard's Pet
+      - HuntS4 Celebrate Stories - write 5K words, get 10 Core Crystals and some Reactions
 - HuntS4 Something Extraordinary - defeat 3 Mirdor, get Hunt Map Piece 10 and 10 Hunter Tokens
 - HuntS4 Ideas Brought to Life - defeat 3 Weekiwa, get Hunt Map Piece 11 and 10 Hunter Tokens
 - HuntS4 A Battle of Celebration - defeat 3 Morimet, get 25 Hunter Tokens

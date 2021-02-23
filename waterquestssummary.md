@@ -1274,7 +1274,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 # Side Quests, in Alphabetical Order N-Z
 
-LAST UPDATED 10 FEB 2021
+LAST UPDATED 14 FEB 2021
 
 ### Nabia's Exploration - BC
 
@@ -2211,8 +2211,8 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
 - **Type:** Collection
 - **Requirements:** Deliver 50 Swamp Moss
-- **Rewards:** 15 Hunter Tokens
-- **Recommendations:** Swamp Moss is available in the deeper parts of Raina, if you have trouble finding it. And while I wouldn't belabor myself to fill this up, it's a nice use for the Swamp Moss one tends to accumulate in Raina.
+- **Rewards:** 15 Hunter Tokens & 10 Wooden Fishing Rods
+- **Recommendations:** Swamp Moss is available in the deeper parts of Raina, if you have trouble finding it. And while I wouldn't belabor myself to fill this up, it's a nice use for the Swamp Moss one tends to accumulate in Raina. The Wooden Fishing Rods are GREAT!
 
 ### White Coat - Gansu
 

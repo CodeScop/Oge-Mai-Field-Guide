@@ -1,4 +1,4 @@
-LAST UPDATED 10 FEB 2021
+LAST UPDATED 22 FEB 2021
 
 And now, all the quests for the Dust Region. As with the Desert and Water, I'm omitting any Main Quests outside this Region, and for non-Dust Quests I'm listing only the name and location. Let's have a quick recap of how this works:
 
@@ -360,7 +360,7 @@ NOTE: To trigger the PG Main Quests, you will have to pick up the first one as i
 
 # Side Quests, in Alphabetical Order A-M
 
-LAST UPDATED 10 FEB 2021
+LAST UPDATED 22 FEB 2021
 
 ### 100 Minds to Explore - CAVE
 
@@ -511,7 +511,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ###A Battle of Celebration - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
 - **Type:** Battle
 - **Requirements:** Defeat 3 Morimet
@@ -550,7 +550,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ### Bettering Ourselves - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • **Bettering Ourselves** • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 
 ### Beware! Rock Shower - Shrine TFA
@@ -560,7 +560,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ### Bigger and Brighter - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • **Bigger & Brighter** • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 
 ### Biodome Blossoms - Balance
@@ -669,7 +669,7 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 
 ### A Bubble Dream - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • **A Bubble Dream** • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 
 ### Buholi in the Sky - TT
@@ -709,21 +709,30 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 
 ### Celebrate Joy - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • **Celebrate Joy** • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 - **Type:** Streak, Collection
 - **Requirements:** Have Hunt Map Piece 11 and attain 7-day Streak
 - **Rewards:** Wardrobe: Hunt Facepaint Eye Stroke https://4thewords.com/media/wardrobe/featured/male/wm_666-hunt-facepaint-eye-stroke-4035-59139.png 
 - **Recommendations:** We're continuing on, and we're gonna make it. Almost to the end of the Hunt Map Piece collecting/turning in!
 
+###Celebrate Stories
+
+- **Location:** Elder Library
+- **Unlocked by:** HuntS4 Quest: Still Missing Something
+- **Type:** Wordcount
+- **Requirements:** Write 5000 words
+- **Rewards:** 10 Core Crystals, 10 Reactions: Celebrate, 10 Reactions: For The Valley!
+- **Recommendations:**  10 CORE CRYSTALS. FOR 5K WORDS. GET. THIS. NOW.
+
 ### Change To See - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
 
 ### Cheer Your Dedication - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
 - **Type:** Wordcount, Forum
 - **Requirements:** Write 10,000 words and make 5 posts in the Forum
@@ -1002,7 +1011,7 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 
 ### Dirt to Dust - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • **Dirt to Dust** • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 - **Type:** Streak, Collection
 - **Requirements:** Have Hunt Map Piece 10 and attain 5-day Streak
@@ -1212,7 +1221,7 @@ see **Lead the Way**
 
 ### Flying Past Sparks - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
 
 ### Fool Me Once - ShrineFools
@@ -1305,22 +1314,22 @@ see **Lead the Way**
 
 ### Growing Improvement - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Quest Path:** (open via Hunt Trail: HuntS2 Stumbling Upon Sheep) • **Growing Improvement** • HuntS3 Growing Your Perception 2/3 • HuntS3 Growing Your Tenacity 3/3 • HuntS3 Growing Your Valor 4/4
 
 ### Growing Your Perception 2/3 - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Quest Path:** (open via Hunt Trail: HuntS2 Stumbling Upon Sheep) • HuntS3 Growing Improvement • **Growing Your Perception 2/3** • HuntS3 Growing Your Tenacity 3/3 • HuntS3 Growing Your Valor 4/4
 
 ### Growing Your Tenacity 3/3 - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Quest Path:** (open via Hunt Trail: HuntS2 Stumbling Upon Sheep) • HuntS3 Growing Improvement • HuntS3 Growing Your Perception 2/3 • **Growing Your Tenacity 3/3** • HuntS3 Growing Your Valor 4/4
 
 ### Growing Your Valor 4/4 - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Quest Path:** (open via Hunt Trail: HuntS2 Stumbling Upon Sheep) • HuntS3 Growing Improvement • HuntS3 Growing Your Perception 2/3 • HuntS3 Growing Your Tenacity 3/3 • **Growing Your Valor 4/4** 
 
 ### Growth & Restoration - SacredS
@@ -1330,12 +1339,12 @@ see **Lead the Way**
 
 ### Growth in Friendship - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
 
 ### Growth Pains - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
 
 ### Guard Your Feet - 3PC
@@ -1369,7 +1378,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ### Helping Those In Need Grow - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
 
 ### Herding the Herders - HuntS2
@@ -1407,7 +1416,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ### Ideas Brought to Life - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
 - **Type:** Battle
 - **Requirements:** Defeat 3 Weekiwa
@@ -1443,12 +1452,12 @@ Note: NOT POSSIBLE to complete till Riza Rivertown is unlocked
 
 ### Insight Grows - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
 
 ### Into the Woods - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
 - **Type:** Battle
 - **Requirements:** Defeat 3 Molox, 4 Osalyu, 10 Spirit Ardia, 1 Lycosta, 1 Chaensi
@@ -1492,7 +1501,7 @@ Note: NOT POSSIBLE to complete till Riza Rivertown is unlocked
 
 ### Jubilant and Strong - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
 - **Type:** Battle
 - **Requirements:** Defeat 100 of any monster
@@ -1683,12 +1692,12 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ### Moving Flora
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
 
 # Side Quests, in Alphabetical Order: N-Z
 
-LAST UPDATED 10 FEB 2021
+LAST UPDATED 22 FEB 2021
 
 ### Nabia's Exploration - BC
 
@@ -1766,7 +1775,7 @@ see **Luciola Lanterns**
 
 ### Of Vibrant Growth - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
 
 ### Oh, Endless Possibilities! - HuntS2
@@ -1776,7 +1785,7 @@ see **Luciola Lanterns**
 
 ### On the Wrong Path - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
 - **Type:** Battle
 - **Requirements:** Defeat 3 Infected Golem
@@ -1888,7 +1897,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ### Problems Feed Solutions - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
 
 ### Projecting Light - RLab
@@ -2221,7 +2230,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ### Sing Your Bravery (2/2) - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Quest Path:** (open via Hunt Trail HuntS3 A Bubble Dream) • HuntS4 Sing Your Enthusiasm • **Sing Your Bravery 2/2** • HuntS4 Sing Your Commitment 3/4 • HuntS4 Sing Your Wander 4/4
 - **Type:** Battle
 - **Requirements:** Defeat 10 Cursed Hands
@@ -2230,7 +2239,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ###Sing Your Commitment (3/4) - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Quest Path:** (open via Hunt Trail HuntS3 A Bubble Dream) • HuntS4 Sing Your Enthusiasm • HuntS4 Sing Your Bravery 2/2 • **Sing Your Commitment 3/4** • HuntS4 Sing Your Wander 4/4
 - **Type:** Streak
 - **Requirements:** Attain a 15-day Streak
@@ -2239,7 +2248,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ### Sing Your Enthusiasm - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Quest Path:** (open via Hunt Trail HuntS3 A Bubble Dream) • **Sing Your Enthusiasm** • HuntS4 Sing Your Bravery 2/2 • HuntS4 Sing Your Commitment 3/4 • HuntS4 Sing Your Wander 4/4
 - **Type:** Battle
 - **Requirements:** Defeat 10 Zanthei
@@ -2248,7 +2257,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ###Sing Your Wander (4/4) - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Quest Path:** (open via Hunt Trail HuntS3 A Bubble Dream) • HuntS4 Sing Your Enthusiasm • HuntS4 Sing Your Bravery 2/2 • HuntS4 Sing Your Commitment 3/4 • **Sing Your Wander 4/4**
 - **Type:** Battle
 - **Requirements:** Defeat 1 each: Wignow, Desert Wignow, Dust Wignow, Spirit Wignow, and Swamp Wignow
@@ -2272,7 +2281,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ### Something Extraordinary - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
 - **Type:** Battle
 - **Requirements:** Defeat 3 Mirdor
@@ -2350,7 +2359,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ###Still Missing Something - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • **Still Missing Something** • HuntS4 Proving Your Friendship
 - **Type:** Streak, Collection
 - **Requirements:** Attain 10-day Streak, deliver all 11 Hunt Map Pieces
@@ -2384,7 +2393,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ###Stories to Tell - HuntS4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
 - **Type:** Wordcount
 - **Requirements:** Write 25K Words
@@ -2533,7 +2542,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ### To Celebrate and Share - Hunt S4
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail HuntS3 A Bubble Dream
 - **Type:** Battle
 - **Requirements:** Defeat 6 Takori
@@ -2547,7 +2556,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 ### To Grow & Change - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • **To Grow & Change** • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 
 ### To Hope is to Plan - HuntS1
@@ -2689,7 +2698,7 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 
 ### Where Life Flows - HuntS3
 
-- **Location:** Available in Luciola Forest
+- **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
 
 ### White Coat - Gansu
@@ -2750,5 +2759,5 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 ### Zooty Zanutaki Zings - RLab
 
 - **Location:** Research Lab
-- **Quest Path:** (open via Alien Expedition Trail: SpaceS Orders to Repair) • RLab Set Creatures Free! (1/4) • RLab Create a Clearing (2/4) • RLab Build a Biodome (3/4) • RLab Encourage an Ecosystem (4/4) • IN ANY ORDER: [RLab Making Mellow Mowow  (*unlocks Mowow in Wilderness*)• RLab Sagacious Sincere Sabu (*unlocks Sabu in Wilderness*) • RLab Silkly Sleek Sulanica (*unlocks Sulanica in Wilderness*)• RLab Zappy Zazzy Xombri (*unlocks Xombri in Wilderness*)• **Zooty Zanutaki Zings (*unlocks Zanutaki in Wilderness*)**]
+- **Quest Path:** (open via Alien Expedition Trail: SpaceS Orders to Repair) • RLab Set Creatures Free! (1/4) • RLab Create a Clearing (2/4) • RLab Build a Biodome (3/4) • RLab Encourage an Ecosystem (4/4) • IN ANY ORDER: [RLab Making Mellow Mowow  (*unlocks Mowow in Wilderness*)• RLab Sagacious Sincere Sabu (*unlocks Sabu in Wilderness*) • RLab Silkly Sleek Sulanica (*unlocks Sulanica in Wilderness*)• RLab Zappy Zazzy Xombri (*unlocks Xombri in Wilderness*)• **Zooty Zanutaki Zings (*unlocks Zanutaki in Wilderness*)**
 

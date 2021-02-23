@@ -1,4 +1,4 @@
-LAST UPDATED 10 FEB 2021
+LAST UPDATED 13 FEB 2021
 
 I resisted making this at first, because surely the end of the Dust Region is functionally identical to the whole game, right?
 
@@ -606,6 +606,7 @@ see **Skuppa's Giant Marionette**
   - MT: Creature Colors & Highlights 3/3 (10)
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
   - HuntS1: Proving Your Perserverance 3/4 (3)
+  - HuntS1.2: Into Forest Depths 1/3 (3)
 
 ### Kapir (Exp: Dig)
 
@@ -775,6 +776,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - Functionally, anything that requires Nezthai Claws will require a Nezthai battle — and any battle involving a monster starting with Buh- requires Nezthai Claws. See Buh- monsters and All Resources for further info.
   - BC: Nabia's Exploration (1)
+  - HuntS1.2: Velts' Relaxation Method (1)
   - DFO: Familiar Family Friends (5)
 
 ### Night Dandeleon (Exp: GL∆)
@@ -812,6 +814,8 @@ see **Skuppa's Giant Marionette**
 - **XP:** 90
 - **Drops:** 2-3 Purple Crystal Shards, 1 Refined Dust, 2 Spider Legs, 1-3 Spider Poison, 3-5 Dust
 - **Quests:** PG: Main Quest 2/A Desolate Path (3), Preventing Purple Power-Ups (3), Eensy Weensy Oncara (12)
+
+###Oncaiii (Exp: SC)
 
 ### Osalyu (Oge: DFO)
 
@@ -1145,7 +1149,7 @@ see **Skuppa's Giant Marionette**
 - **XP:** 183
 - **Drops:** 3 Fur, 2-3 Claws, 1 Leaves, 1 Rope
 - **Quests:**
-  - MT: A Family Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); New Adventurous Horizons (1)
+  - MT: A Family Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); The Winding Path to Elder Library (3); New Adventurous Horizons (1)
   - HuntS1: Proving Your Strength 6/6 (6)
   - DFO: Reinforced Ardi Station 1/4 (1)
 
@@ -1319,6 +1323,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - MT: Cool Creature Highlights 2/3 (5)
   - BC: Hard Day's Walk (1), Nabia's Exploration (1), Just a Mean Green (25)
+  - HuntS1.2: Into Forest Depths 1/3 (3)
   - DFO: Reinforced Ardi Station 1/4 (1)
 
 ### Xyplos (Oge: Balance*)

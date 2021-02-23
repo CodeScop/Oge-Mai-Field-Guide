@@ -1,4 +1,4 @@
-LAST UPDATED 10 DEC 2020
+LAST UPDATED 22 FEB 2021
 
 Summary of everything available in the DESERT. (Yes, now including Shrine of Ages!) Abbreviations:
 
@@ -144,8 +144,9 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
 ### Dandeleon Flower
 
 - **Sources:** FOREST
-- **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game;otherwise, as you please)
-- **Used for:** nothing so far
+- **Sell price:** 25 Coins (don't sell unless you have >25 or have completed game;otherwise, as you please)
+- **Used for:** FOREST, later game,
+  - Craft HOUSE: Stone Dandeleon in Nature requires 3
 
 ### Dark Forest Leaves
 
@@ -166,6 +167,7 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
   - ShrineGiant Battles: Caravan (5000 words for 2-5)
 - **Sell price:** 25 Coins (don't sell unless you have >200, ideally >500)
 - **Used for:** later game,
+  - Craft HOUSE: Painted Stone Jar in Trinkets requires 8
   - Gansu Quests: Main Quest 1/Circle of Protection (15), Main Quest 3/Sacred Shrine (5), Stone Collector (100), Protect the Body (50), Protect the Mind (100), Protect the Spirit (200), Respark the Flame (20)
   - RLab Quest: Zappy Zazzy Xombri (10)
   - Ruins Quest: Tunnel Locked On (3)
@@ -189,7 +191,7 @@ See **Wooden Chest**.
     - MSite Battles: Arren (800 words for 3-4), Zals (900 words for 3-5), Galatre (450 words for 2), Krang (500 words for 2), Halix (250 words for 1), Ipo (300 words for 1), Ityf (1250 words for 4-5), Skarn (1100 words for 3-5)
     - RLab Battles: Dr. Hogglevoss (1200 words for 4), Ferenti (750 words for 1-3), Mowow (450 words for 1-2), Minica (900 words for 2-4), Dr. Enoe (1500 words for 2-4)
 - **Sell price:** 5 Coins (don't sell till you've bought everything you want in the Mining Site store and completed all desired quests)
-- **Used for:** 
+- **Used for:** FOREST,
   - MSite Quest: Recovering Stolen Goods (50)
   - RLab Quest: Encourage an Ecosystem 4/4 (5), Making Mellow Mowow (15)
   - Wardrobe purchases at Mining Site (250 total)
@@ -241,6 +243,7 @@ See **Wooden Chest**.
 - **Sell price:** 8 Coins (don't sell unless you have >500)
 - **Used for:** 
   - FOREST
+  - Craft HOUSE: Painted Stone Jar in Trinkets requires 8
   - Craft 3PC: Fine Fabric (1)
   - Craft Gansu: Stempo (10)
   - Gansu Quest: First Stempo (10)
@@ -271,6 +274,13 @@ See **Wooden Chest**.
 - **Used for:** equipping,
 - **Equip:** Head: +0 Attack, +8 Defense, +0 Luck
 
+### Fabric Roll
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Raw Fabric
+- **Sell price:** 50 Coins (why are you selling this instead of the Raw Fabric it took to make it? Guess it'll just delay your House upgrades.)
+- **Used for:** Craft HOUSE: (multiple)
+
 ### Feathers
 
 - **Best sources:** FOREST
@@ -281,8 +291,8 @@ See **Wooden Chest**.
   - ShrineCO: Crilum (280 words for 1)
 - **Buy: **FOREST
 - **Sell price:** 8 Coins (don't sell unless you have >100)
-- **Used for:** 
-  - FOREST
+- **Used for:** FOREST,
+  - Craft HOUSE: (multiple)
   - 3PC Quest: Luciola Materials (15)
   - RLab Quest: Encourage an Ecosystem 4/4 (5)
 
@@ -345,6 +355,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 - **Craft:** 3PC Blacksmith/Blacksmith Barliar: 3 Glass Shards, 2 Dust, 10 Coins, and 3 Wood
 - **Sell price:** 85 Coins (Don't sell unless you have >200.)
 - **Used for:** later game,
+  - Craft HOUSE: (multiple)
   - FOREST (New LF Quest: It's Bigger Inside (5))
   - Craft 3PC: Glass Necklace (2), Glass Scimitar (3), Glass Staff (3), Sands Ring (4), Stone Ring (1)
   - Craft Gansu: Stempo (1)
@@ -418,6 +429,7 @@ The game usually simply calls this **Gold**. Since I call the parallel things fo
 - **Craft:** 3PC Blacksmith/Blacksmith Barliar: 3 Raw Gold, 10 Coins, and 3 Wood
 - **Sell price:** 100 Coins (Don't sell unless you have >30; ideally, have at least 50. Good source of Coins after that.)
 - **Used for:** later game,
+  - Craft HOUSE: Large Trunk and Small Trunk in Trinkets each require 1
   - Craft Gansu: Stempo (1)
   - Gansu Quest: First Stempo (1)
 
@@ -502,31 +514,26 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - later Hunt
 
-- **Dec 2020 Sources Outside the Hunt:**
+- **Jan 2021 Sources Outside the Hunt:**
 
-  Note: I'm marking this as "December" instead of "Late November" because for the entire duration of NaNo, right through early December, Hunter Tokens were dropping from NaNo event monsters and Hunt monsters only.
+  For January, the clue is an image in the news announcement: https://4thewords.com/forum/details-325 The image looks like a torn rectangle of creamy parchment with a dark red color painted over most of it, and a much darker reddish-brown cursive capital L. The consensus is that this means red monsters, and monsters with names starting with L - which is a solid rule of thumb for the monsters below, but not entirely reliable. 
 
-  For December, the trend is "Green and White".
-
-  - Global Battles: Vi (5 minutes for ), Xin (100 words for 1)
-  - LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Grey's Mawt (850 words for 8-9), Nitana (700 words for 7), Spirit Wignow (450 words for 4-5), Wignow (250 words for 2-3)
-  - MT Battles: Assassin (1400 words for 14), Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 8-9), Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
+  - Global Battles: Viyu (15 minutes for ?)
+  - LF Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2)
+  - MT Battles: Assassin (1400 words for 14), Lorsa (450 words for 4-5), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words for 13)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (120 words for 1-2)
-    - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6), Spirit Ardia (80 words for 0-1)
-    - SC Battles: Reudod (600 words for 6)
-    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7)
-    - GL Battles: Night Dandeleon (330 words for 3-4)
-  - 3PC Battles: Global and Hunt only
+    - BC Battles: Kaija (240 words for 2-3), Sacer (120 words for 1-2)
+    - SC Battles: Oncaiii (800 words for 8), Sapilo (450 words for 4-5), Sapira (350 words for 3-4), Sapiti (300 words for 3)
+    - FB, TT, GL Battles: Global and Hunt monsters only
+  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
   - ALIEN EXPEDITION:
-    - IC Battles: Nedi (800 words for 8), Rosarin (500 words for 5)
-    - SpaceS Battles: Szalin (700 words for 7), Yalarr (500 words for 5)
-    - MiningS Battles: Halix (250 words for 2-3), Pach (200 words for 2), Skarn (1100 words for 11), Zals (900 words for 9)
-    - RL Battles: Dr. Enoe (1500 words for 15), Dr. Hogglevoss (1200 words for 12), Fonar (200 words for 2), Gwynos (450 words for 4-5)
-  - Gansu Battles: Sparfly (450 words for 4-5), Suulan (2000 words and 1 Steel Dagger for 20)
+    - IC, RLab Battles: Global and Hunt monsters only
+    - SpaceS Battles: Ledd (500 words for 5)
+    - MiningS Battles: Pach (200 words for 2)
+  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Puna (150 words and 1 Wood Fishing Rod for 1-2), Rulo (550 words for 5-6)
   - DESERT EXPEDITION:
-    - DigS Battles: Global and Hunt only
-    - Ruins Battles: Global and Hunt only
+    - DigS Battles: Loi (150 words for 1-2)
+    - Ruins Battles: Global and Hunt monsters only
   - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
@@ -590,7 +597,8 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 - **Sources:** FOREST,
   - 3PC Golden Chest: 1
 - **Sell price:** 20 Coins (DO NOT SELL. Unless you somehow have >200.)
-- **Used for:** FOREST, later game
+- **Used for:** FOREST, later game,
+  - Craft HOUSE: Leafsung Painted Fabric Carpet and Leafsung Painted Fabric Curtain in Furniture each require 1
 
 ### Leafsung Key
 
@@ -639,8 +647,8 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
   - ShrineBird Battles: Peq (500 words for 1-3)
 - **Buy: **FOREST
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
-- **Used for:** 
-  - FOREST
+- **Used for:** FOREST, later game,
+  - Craft HOUSE: (multiple)
   - Craft 3PC: Lorsa Nest (6)
   - Craft Gansu: Lorsa Nest (6)
   - 3PC Battles: Villager (need 5), Tambo (10, usually drops 2-3 for net cost of 7-8)
@@ -761,7 +769,8 @@ FOREST ONLY
   - ShrineGiant Battles: Giant Dust Spirit (500 words for 1-4), Caravan (5000 words for 5-13)
 - **Buy: **40 Coins in Item Bazaar/Zilya's Great Bazaar 
 - **Sell price:** 8 Coins (don't sell unless you have >200; if you also have Red Dye and Essence, craft Fine Fabric for a better sell option)
-- **Used for:** 
+- **Used for:** later game,
+  - Craft HOUSE: Materials: Fabric Roll (10), Woven Leaves Square (2)
   - Craft 3PC: Fabric Boots (4), Fabric Breastplate (5), Fabric Helmet (2), Fine Fabric (5), Glass Staff (2), Steel Spear (3)
   - 3PC Quests: Main Quest 3/Camouflage (10), Main Quest 5/A Way South (5), Sand in Places (35)
   - Gansu Quest: Rebuild the Watering Hole (50)
@@ -936,9 +945,10 @@ FOREST ONLY
 
 ### River Water 
 
-- **Sources:** Furoxi (400 words & 1 Steel Fishing Rod for 1) 
+- **Sources:** Furoxi (400 words & 1 Steel Fishing Rod for 1), later game
 - **Sell price:** 30 Coins (don't sell right now)
 - **Used for:** later game,
+  - Craft HOUSE: Boiling Cauldron in Furniture requires 10
   - RLab Quest: Encourage an Ecosystem 4/4 (15)
 
 ### Rope
@@ -968,6 +978,7 @@ FOREST ONLY
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
 - **Used for:** 
   - FOREST (including New LF Quest: Enter Pan's Labyrinth (10))
+  - Craft HOUSE: (multiple)
   - Craft 3PC: Lorsa Nest (5), Sandstone Block (1), Stone Block (1)
   - Craft Gansu: Lorsa Nest (5), Wooden Fishing Rod (1)
   - 3PC Battles: Tambo (4)
@@ -1138,7 +1149,10 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
 - **Craft:** 3PC Blacksmith/Blacksmith Barliar: 3 Raw Steel, 10 Coins, and 3 Wood
 - **Sell price:** 35 Coins (NEVER SELL. YOU CANNOT HAVE ENOUGH.)
 - **Used for:** later game,
-  - FOREST (New MT Quest Iron on Sand (25) ; New LF Quests It's Bigger Inside (5), Enter Pan's Labyrinth (3))
+  - FOREST
+    - post-3PC MT Quest: Iron on Sand (25)
+    - post-3PC LF Quests: It's Bigger Inside (5), Enter Pan's Labyrinth (3)
+  - Craft HOUSE: (multiple)
   - Craft 3PC: Crossbow (2), Fabric Boots (1), Fabric Breastplate (3), Fabric Helmet (2), Glass Necklace (1), Glass Scimitar (2), Glass Staff (1), Net (1), Steel Spear (2), Steel Sword (3)
   - Craft Dig: Pickaxe (1)
   - 3PC Quests: Main Quest 2/Just Another Brick (4), Sand in Places (1)
@@ -1227,7 +1241,8 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 - **Craft:** 3PC Blacksmith/Blacksmith Barliar: 3 Raw Stone, 1 Rope, and 5 Coins
 - **Sell price:** 8 Coins (don't sell, not worth it)
 - **Used for:** later game
-  - FOREST (New LF Quest: It's Bigger Inside(5) )
+  - FOREST: Post-3PC LF Quest: It's Bigger Inside(5)
+  - Craft HOUSE: Stone Dandeleon in Nature requires 1
   - Craft 3PC: Net (1), Stone Hammer (2), Stone Ring (4)
   - 3PC Quests: Main Quest 2/Just Another Brick (8)
   - Gansu Quests: Main Quest 3/Sacred Shrine (10), Tougher with Tambo (25), Rebuild the Watering Hole (10), Respark the Flame (5)
@@ -1320,7 +1335,7 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
   - Gansu Battle: Suulan (2000 words, 1 Steel Dagger for 1-2)
   - RLab Battle: Sulanica (1000 words for 0-1, need to unlock via long quest chain)
 - **Sell price:** 30 Coins (don't sell unless you have >50)
-- **Used for:** 
+- **Used for:** later game, Hunter Token Store,
   - Craft Gansu: Stempo (1)
   - 3PC Quest: Double the Rarity (12)
   - Gansu Quest: Main Quest 3/Sacred Shrine (1), Main Quest 5/White Stars' Light (3), White Coat (10), Local Shrine (5), First Stempo (1)
@@ -1350,8 +1365,8 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
   - ShrinePoly Battles: Poly Mawt (900 words for 1-2)
 - **Buy: **12 Coins in Item Bazaar/Zilya's Great Bazaar (cheaper in the FOREST)
 - **Sell price:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)
-- **Used for:** 
-  - FOREST
+- **Used for:** FOREST,
+  - Craft HOUSE: (multiple)
   - Craft 3PC: Glass Bar (3), Gold Bar (3), Lorsa Nest (10), Steel Bar (3)
   - Craft Gansu: Lorsa Nest (10), Wooden Fishing Rod (1)
   - Craft Dig: Pickaxe (2)
@@ -1399,6 +1414,7 @@ See **Wooden Fishing Rod**.
 - **Sell price:** 20 Coins (Don't sell unless you have >50)
 - **Used for:** equipping; later game
   - FOREST
+  - Craft HOUSE: Wooden Sword Wall Trophy in Furniture requires 1
   - Craft 3PC: Steel Sword (3)
 - **Equip:** Weapon1: +1 Attack, +0 Defense, +0 Luck
 
@@ -1442,7 +1458,7 @@ I'm going to keep the FOREST info available here because it's nice to be able to
 
 also called "Wood Fishing Rod"
 
-- **Best sources:** Craft or Buy (Gansu or FOREST)
+- **Sources:** Craft or Buy (Gansu or FOREST), later game
 - **Buy: **50 Coins in Gansu Item Shop/Tepij Locals
 - **Craft:** Gansu Item Shop/Tepij Locals: 1 Wood, 1 Rope, 1 Raw Stone
 - **Sell price:** 5 Coins (Don't sell, not worth it)
@@ -1488,6 +1504,20 @@ As with the Wooden Chest, I'm going to keep the FOREST info available here becau
   DESERT
 
   - 2 Keys with 1 Wooden Chest in 3PC work as **Desert Wooden Chest**, which drops 31-59 Coins, 5-8 Raw Fabric, 1-2 Steel Bars, 1 Glass Bar, 1 Gold Bar, 1 Red Dye, 1 Steel Sword, 1-3 Raw Gold
+
+### Wooden Plank
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Wood
+- **Sell price:** 50 Coins (it might be a better sell price than the Wood alone, but it's a waste of Wood and Coins to sell this once made)
+- **Used for:** Craft HOUSE: (multiple)
+
+### Woven Leaves Square
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins, 20 Leaves, 4 Rope, and 2 Raw Fabric
+- **Sell price:** 50 Coins (20 Leaves and 4 Rope didn't give up their existence so you could sell this off. Unless you're really short on Coins and see no use for it.)
+- **Used for:** Craft HOUSE: (multiple)
 
 ### Xyplos Ink
 

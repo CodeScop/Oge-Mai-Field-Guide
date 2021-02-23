@@ -1,4 +1,4 @@
-LAST UPDATED 9 DEC 2020
+LAST UPDATED 22 FEB 2021
 
 This section, unlike the previous resource section, *is* going to be Forest Expedition-specific, partly because the Expedition sections are a little off the beaten path, partly because I'm already collating All The Info for the Forest in the Forest Resources section.
 
@@ -46,8 +46,8 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
 - **Sources:** 
   - FB Battles: Dandeleon (220 words for 1)
   - GL Battles: Night Dandeleon (330 words for 1)
-- **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game;otherwise, as you please)
-- **Used for:** FB Quest: Lovely Flower Crown (15)
+- **Sell price:** 25 Coins (don't sell unless you have >25 or have completed game;otherwise, as you please)
+- **Used for:** FB Quest: Lovely Flower Crown (15), outside game
 
 ### Dinti
 

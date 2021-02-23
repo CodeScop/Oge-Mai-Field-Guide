@@ -1,4 +1,4 @@
- (Table of Contents last updated 10 Feb 2021)
+ (Table of Contents last updated 13 Feb 2021)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -13,7 +13,7 @@
   - Monsters - Luciola Forest
   - Resources - Luciola Forest
   - List of Available Quests: Post Luciola Forest
-- Mama Tree Open
+- Mama Tree Intro
   - Mama Tree Intro
   - Mama Tree Open: Sidequests
   - Mama Tree Main Quests
@@ -67,7 +67,7 @@
     - Accessory
 - Forest Region Bestiary
 - Forest Region Quests
-- Three Points Crossing Open
+- Three Points Crossing Intro
   - Three Points Crossing Intro
   - 3PC Open: Sidequests
   - 3PC Main Quests
@@ -90,7 +90,7 @@
     - Research Lab Monsters
   - Resources: Alien Expedition
   - List of Available Quests: Alien Expedition
-- Gansu Watering Hole Open
+- Gansu Watering Hole Intro
   - Gansu Intro
   - Gansu Open: Sidequests
   - Gansu Main Quests
@@ -190,7 +190,7 @@
   - Desert Main Quests, in Order of Unlocking
   - Desert Side Quests, in Alphabetical Order: A-M
   - Desert Side Quests, in Alphabetical Order: N-Z
-- Riza Rivertown Open
+- Riza Rivertown Intro
   - Riza Rivertown Intro
   - Riza Open: Sidequests
   - Riza Main Quests
@@ -214,7 +214,7 @@
     - Rebel Raina Hideout Monsters
   - Resources: Raina Expedition
   - List of Available Quests: Raina Expedition
-- Floating City of Balance Open
+- Floating City of Balance Intro
   - Balance Intro
   - Balance Open: Sidequests
   - Balance Main Quests
@@ -235,7 +235,7 @@
   - Water Main Quests, in Order of Unlocking
   - Water Side Quests, in Alphabetical Order: A-M
   - Water Side Quests, in Alphabetical Order: N-Z
-- Dark Forest Outpost Open
+- Dark Forest Outpost Intro
   - Dark Forest Outpost Intro
   - DFO Open: Sidequests
   - DFO Main Quests
@@ -245,7 +245,7 @@
   - Dark Forest Resources
   - Dark Forest Wardrobe
   - Dark Forest Questline
-- Purple Gate Open
+- Purple Gate Intro
   - Purple Gate Intro
   - Purple Gate Main Quests
 - Purple Gate Summary
@@ -253,6 +253,14 @@
   - Purple Gate Monsters
   - Purple Gate Resources
   - Purple Gate Questline
+- Cave Intro
+  - Cave Intro
+  - Cave Main Quests
+- Cave Summary
+  - Cave Sidequests
+  - Cave Monsters
+  - Cave Resources
+  - Cave Questline
 - Hunt: Season 4 - Jubilee (DUST)
   - Season 4 Quests - The Main Line
   - Season 4 Quests - Singing Sideline

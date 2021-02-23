@@ -1,4 +1,4 @@
-LAST UPDATED 10 DEC 2020
+LAST UPDATED 22 FEB 2021
 
 This is getting longer and more unwieldy, so I'm going to abbreviate a bit: if there's something you'd need to go back to the Forest Region to get, I'm summarizing it as FOREST. What's the Craft price for a Vine Net? Go check the FOREST.
 
@@ -144,6 +144,13 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Sell price:** 300 Coins (you can sell if you really want, but why would you after paying to craft it?)
 - **Used for:** equipping,
 - **Equip:** Head: +0 Attack, +8 Defense, +0 Luck
+
+### Fabric Roll
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Raw Fabric
+- **Sell price:** 50 Coins (why are you selling this instead of the Raw Fabric it took to make it? Guess it'll just delay your House upgrades.)
+- **Used for:** Craft HOUSE: (multiple)
 
 ### Feathers
 
@@ -846,3 +853,16 @@ As with the Wooden Chest, I'm going to keep the FOREST info available here becau
   - With Wooden Chest in MT, drops 3-9 Rope, 2-7 Wood, 3-8 Leaves, 1-3 Vine Nets, 2-4 Wood Sword, 1-2 Rusty Pendant, 15-46 Coins, 2-4 Leaf Boots, 1 Spider Bow, 1 Wood Spear, 1 Old Staff
   - 2 Keys with 1 Wooden Chest in 3PC work as **Desert Wooden Chest**, which drops 31-59 Coins, 5-8 Raw Fabric, 1-2 Steel Bars, 1 Glass Bar, 1 Gold Bar, 1 Red Dye, 1 Steel Sword, 1-3 Raw Gold
 
+### Wooden Plank
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Wood
+- **Sell price:** 50 Coins (it might be a better sell price than the Wood alone, but it's a waste of Wood and Coins to sell this once made)
+- **Used for:** Craft HOUSE: (multiple)
+
+### Woven Leaves Square
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins, 20 Leaves, 4 Rope, and 2 Raw Fabric
+- **Sell price:** 50 Coins (20 Leaves and 4 Rope didn't give up their existence so you could sell this off. Unless you're really short on Coins and see no use for it.)
+- **Used for:** Craft HOUSE: (multiple)

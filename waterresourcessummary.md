@@ -1,4 +1,4 @@
-LAST UPDATED 31 JAN 2021
+LAST UPDATED 22 FEB 2021
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Water-only otherwise.
 
@@ -136,7 +136,10 @@ Hideout: Rebel Raina Hideout
 
 ### Dandeleon Flower
 
-FOREST ONLY
+- **Sources:** FOREST
+- **Sell price:** 25 Coins (don't sell unless you have >25 or have completed game;otherwise, as you please)
+- **Used for:** FOREST, later game,
+  - Craft HOUSE: Stone Dandeleon in Nature requires 3
 
 ### Dark Forest Leaves
 
@@ -150,6 +153,7 @@ FOREST ONLY
 - **Other sources:** none
 - **Sell price:** 25 Coins (don't sell unless you have >200, ideally >500)
 - **Used for:** earlier game,
+  - Craft HOUSE: Painted Stone Jar in Trinkets requires 8
   - Riza Quests: Main Quest 3/Remedy for a Friend (3)
 
 ### Desert Wooden Chest
@@ -160,7 +164,7 @@ DESERT ONLY
 
 - **Sources:** FOREST, DESERT
 - **Sell price:** 5 Coins (don't sell till you've bought everything you want in the Mining Site store and completed all desired quests)
-- **Used for:** DESERT
+- **Used for:** some FOREST, DESERT
 
 ### Dí Bag
 
@@ -217,8 +221,8 @@ DESERT ONLY
 - **Buy:** FOREST
 - **Sell price:** 8 Coins (don't sell unless you have >500)
 - **Used for:** 
-  - FOREST
-  - DESERT
+  - FOREST, DESERT
+  - Craft HOUSE: Painted Stone Jar in Trinkets requires 8
 
 ### Fabric Boots
 
@@ -245,6 +249,13 @@ DESERT ONLY
 - **Sell price:** 300 Coins (you can sell if you really want, but why would you after paying to craft it?)
 - **Equip:** Head: +0 Attack, +8 Defense, +0 Luck
 
+### Fabric Roll
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Raw Fabric
+- **Sell price:** 50 Coins (why are you selling this instead of the Raw Fabric it took to make it? Guess it'll just delay your House upgrades.)
+- **Used for:** Craft HOUSE: (multiple)
+
 ### Feathers
 
 - **Best sources:** FOREST,
@@ -253,9 +264,8 @@ DESERT ONLY
   - Riza Battles: Osaril (300 words, 1 Vine Net for 1)
 - **Buy:** FOREST
 - **Sell price:** 8 Coins (Don't sell unless you have > 30)
-- **Used for:** 
-  - FOREST
-  - DESERT
+- **Used for:** FOREST, DESERT
+  - Craft HOUSE: (multiple)
 
 ### Fine Fabric
 
@@ -294,9 +304,8 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
   - Limited-availability battles in Riza Main Quest sequence
 - **Craft:** DESERT
 - **Sell price:** 85 Coins (Don't sell unless you have >200.)
-- **Used for:** 
-  - FOREST
-  - DESERT
+- **Used for:** FOREST, DESERT
+  - Craft HOUSE: (multiple)
   - Craft Balance: Underwater Torch (1)
 
 ### Glass Necklace
@@ -352,8 +361,8 @@ The game usually simply calls this **Gold**. Since I call the parallel things fo
 - **Sources:** DESERT
 - **Craft:** DESERT
 - **Sell price:** 100 Coins (Don't sell unless you have >30; ideally, have at least 50. Good source of Coins after that.)
-- **Used for:** 
-  - DESERT
+- **Used for:** DESERT,
+  - Craft HOUSE: Large Trunk and Small Trunk in Trinkets each require 1
   - Craft Balance: Reinforced Steel Breastplate (2), Reinforced Steel Helmet (1)
   - HuntS3 Quest: Helping Those In Need Grow (1)
 
@@ -460,38 +469,33 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
   - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25), Insight Grows (15), Change to See (25), Growth in Friendship (50), Where Life Flows (15)
   - later game
   
-- **Dec 2020 Sources Outside the Hunt:**
+- **Jan 2021 Sources Outside the Hunt:**
 
-  Note: I'm marking this as "December" instead of "Late November" because for the entire duration of NaNo, right through early December, Hunter Tokens were dropping from NaNo event monsters and Hunt monsters only.
+  For January, the clue is an image in the news announcement: https://4thewords.com/forum/details-325 The image looks like a torn rectangle of creamy parchment with a dark red color painted over most of it, and a much darker reddish-brown cursive capital L. The consensus is that this means red monsters, and monsters with names starting with L - which is a solid rule of thumb for the monsters below, but not entirely reliable. 
 
-  For December, the trend is "Green and White".
-
-  - Global Battles: Vi (5 minutes for ), Xin (100 words for 1)
-  - LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Grey's Mawt (850 words for 8-9), Nitana (700 words for 7), Spirit Wignow (450 words for 4-5), Wignow (250 words for 2-3)
-  - MT Battles: Assassin (1400 words for 14), Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 8-9), Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
+  - Global Battles: Viyu (15 minutes for ?)
+  - LF Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2)
+  - MT Battles: Assassin (1400 words for 14), Lorsa (450 words for 4-5), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words for 13)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (120 words for 1-2)
-    - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6), Spirit Ardia (80 words for 0-1)
-    - SC Battles: Reudod (600 words for 6)
-    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7)
-    - GL Battles: Night Dandeleon (330 words for 3-4)
-  - 3PC Battles: Global and Hunt only
+    - BC Battles: Kaija (240 words for 2-3), Sacer (120 words for 1-2)
+    - SC Battles: Oncaiii (800 words for 8), Sapilo (450 words for 4-5), Sapira (350 words for 3-4), Sapiti (300 words for 3)
+    - FB, TT, GL Battles: Global and Hunt monsters only
+  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
   - ALIEN EXPEDITION:
-    - IC Battles: Nedi (800 words for 8), Rosarin (500 words for 5)
-    - SpaceS Battles: Szalin (700 words for 7), Yalarr (500 words for 5)
-    - MiningS Battles: Halix (250 words for 2-3), Pach (200 words for 2), Skarn (1100 words for 11), Zals (900 words for 9)
-    - RL Battles: Dr. Enoe (1500 words for 15), Dr. Hogglevoss (1200 words for 12), Fonar (200 words for 2), Gwynos (450 words for 4-5)
-  - Gansu Battles: Sparfly (450 words for 4-5), Suulan (2000 words and 1 Steel Dagger for 20)
+    - IC, RLab Battles: Global and Hunt monsters only
+    - SpaceS Battles: Ledd (500 words for 5)
+    - MiningS Battles: Pach (200 words for 2)
+  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Puna (150 words and 1 Wood Fishing Rod for 1-2), Rulo (550 words for 5-6)
   - DESERT EXPEDITION:
-    - DigS Battles: Global and Hunt only
-    - Ruins Battles: Global and Hunt only
-  - Riza Battles: Patliadu (750 words and 1 Harpoon for 7-8), Sparfly (450 words for 4-5), Wyvern (1300 words for 13)
+    - DigS Battles: Loi (150 words for 1-2)
+    - Ruins Battles: Global and Hunt monsters only
+  - Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Puna (150 words and 1 Wood Fishing Rod for 1-2), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
   - RAINA EXPEDITION:
-    - SurfaceC Battles: Auwi (500 words for 5), Wyvern (1300 words for 13)
-    - SwampL Battle: Copei (800 words for 8), Galai (1500 words for 15), Larida (1000 words for 10), Swamp Wignow (500 words for 5)
-    - SacredS Battle: Ognimaf (300 words for 3), Swamp Wignow (500 words for 5)
-    - Hideout Battles: Necog (450 words for 4-5)
-  - Balance Battles: Castu (450 words and 1 Water Mask for 4-5), Isartu (720 words for 7-8), Sliv (550 words and 1 Water Mask for 5-6), Spirit Castu (550 words for 5-6), Vezi (1300 words, 1 Water Mask, and 1 Underwater Torch for 13)
+    - SurfaceC Battles: Begala (300 words for 3), Droxa (1800 words for 18), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
+    - SwampL Battles: Larida (1000 words for 10)
+    - SacredS Battles: Pedja (1000 words for 10)
+    - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Wisthu (800 words for 8)
+  - Balance Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2), Xyplos (2000 words, 1 Water Mask, and 1 Underwater Torch for 20)
   - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
@@ -550,7 +554,8 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
   - MT Quest: River Water For...? (1, appears post-Riza)
 - **Craft:** FOREST
 - **Sell price:** 20 Coins (DO NOT SELL. Unless you somehow have >200.)
-- **Used for:**
+- **Used for:** FOREST, later game,
+  - Craft HOUSE: Leafsung Painted Fabric Carpet and Leafsung Painted Fabric Curtain in Furniture each require 1
   - Balance Quests: Colors To Die For (need 20)
 
 ### Leafsung Key
@@ -599,8 +604,8 @@ ONLY USED FOR PRIOR GAME AND EQUIPPING
   - SacredS Battles: Kuldoro (100 words for 0-1), Bashta (400 words for 2-4), Swamp Wignow (500 words for 2-4), Minko (600 words for 2-4), Toccal (800 words for 3-5)
 - **Buy:** FOREST
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
-- **Used for:** 
-  - FOREST, DESERT
+- **Used for:** FOREST, DESERT, later game,
+  - Craft HOUSE: (multiple)
   - Craft Riza: Dí Bag (2)
   - SurfaceC Quests: Infected Raina Part 1 (need 10), Infected Raina Part 2 (need 30), 4 the Infected (need 45)
 
@@ -719,9 +724,9 @@ ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surfa
   - Balance Battles: Velts: Water (1600 words for 1-4)
 - **Buy:** DESERT
 - **Sell price:** 8 Coins (don't sell unless you have >200; if you also have Red Dye and Essence, craft Fine Fabric for a better sell option)
-- **Used for:** 
-  - DESERT
+- **Used for:** DESERT, later game,
   - Craft Balance: Water Mask (2)
+  - Craft HOUSE: Materials: Fabric Roll (10), Woven Leaves Square (2)
 
 ### Raw Gold
 
@@ -928,7 +933,8 @@ ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surfa
   - Balance Battles: Sliv (550 words, 1 Water Mask for 1), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 1-2), Water Rudakai (1600 words, 3 Reinforced Rope for 1-3), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 1)
 - **Buy:** SurfaceC: 25 River Stones in Kedanus' Surface Goods
 - **Sell price:** 40 Coins (don't sell unless you have >500)
-- **Used for:** DESERT,
+- **Used for:** DESERT, later game,
+  - Craft HOUSE: Boiling Cauldron in Furniture requires 10
   - Craft Riza: Dí Bag (10)
   - Craft Balance: Reinforced Steel Breastplate (10), Reinforced Steel Helmet (8)
   - MT Quest Unlocked By Riza: River Water For…? (10)
@@ -948,8 +954,8 @@ ONLY AVAILABLE after completing the first 3 Infected Raina quests in Raina Surfa
   - Balance Battles: Velts: Water (1600 words for 4-9), Isartu (720 words for 2-4)
 - **Buy:** 8 Coins in Item Shop/Luko's Inn, FOREST, DESERT
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
-- **Used for:** 
-  - FOREST, DESERT
+- **Used for:** FOREST, DESERT
+  - Craft HOUSE: (multiple)
   - Craft Riza: Harpoon (1)
   - SacredS Quest: A Worthy Offering (need 10)
   - Craft Balance: Reinforced Rope (10), Wooden Fishing Rod (1)
@@ -1056,8 +1062,8 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
   - Hideout Battle: Grongu (2000 words for 1-2)
 - **Craft:** DESERT
 - **Sell price:** 35 Coins (NEVER SELL. YOU CANNOT HAVE ENOUGH.)
-- **Used for:** 
-  - FOREST, DESERT
+- **Used for:** FOREST, DESERT, later game
+  - Craft HOUSE: (multiple)
   - Craft Riza: Harpoon (1), Steel Shield (2), Steel Boots (3), Steel Mace (6), Steel Axe (3)
   - Craft Balance: Reinforced Rope (1), Reinforced Steel Breastplate (15), Reinforced Steel Helmet (12), Underwater Torch (1)
   - Riza Quests: Main Quest 6/Journey Upriver (10)
@@ -1151,8 +1157,10 @@ See **Stone Block**.
 
 The game usually simply calls this **Stone**. I like to make sure I'm distinguishing between this and the dozen other Stone things, so I call 'em Stone Blocks.
 
-- FOREST, DESERT
+- **Sources:** DESERT, later game
 - **Sell price:** 8 Coins (don't sell, not worth it)
+- **Used for:** FOREST, DESERT, later game
+  - Craft HOUSE: Stone Dandeleon in Nature requires 1
 
 ### Stone Chest
 
@@ -1269,8 +1277,9 @@ As with the Stone Chest, I'm going to keep the DESERT info available here becaus
 
 ### White Fur
 
-- **Source:** DESERT
+- **Source:** DESERT, later game
 - **Sell price:** 30 Coins (don't sell unless you have >50)
+- **Used for:** DESERT, later game, Hunter Token Store
 
 ### Wood
 
@@ -1288,8 +1297,8 @@ As with the Stone Chest, I'm going to keep the DESERT info available here becaus
   - Anywhere Battles: Viyu (15 minutes for 2-7)
 - **Buy:** FOREST, DESERT
 - **Sell price:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)
-- **Used for:** 
-  - FOREST, DESERT
+- **Used for:** FOREST, DESERT,
+  - Craft HOUSE: (multiple)
   - Craft Balance: Wooden Fishing Rod (1)
 
 ### Wood Fishing Rod
@@ -1314,10 +1323,11 @@ See **Wooden Fishing Rod**.
 
 ### Wood Sword 
 
-​	ONLY USED FOR PRIOR GAME AND EQUIPPING
-
-- FOREST, DESERT
+- **Best sources:** FOREST
+- **Other sources:** DESERT
 - **Sell price:** 20 Coins (Don't sell unless you have >50)
+- **Used for:** FOREST, DESERT,
+  - Craft HOUSE: Wooden Sword Wall Trophy in Furniture requires 1
 - **Equip:** Weapon1: +1 Attack, +0 Defense, +0 Luck
 
 ### Wooden Bow
@@ -1344,7 +1354,8 @@ See **Wooden Fishing Rod**.
 
 also called "Wood Fishing Rod"
 
-- **Sources:** Buy, Craft, FOREST, DESERT
+- **Sources:** Buy, Craft, FOREST, DESERT,
+  - HuntS3 Quest: Where Life Flows (10)
 - **Buy:** 50 Coins in Water Shop/Kuyurata's Shop, FOREST, DESERT
 - **Craft:** Water Shop/Kuyurata's Shop: 1 Wood, 1 Rope, 1 Raw Stone; FOREST, DESERT
 - **Sell price:** 5 Coins (Don't sell, not worth it)
@@ -1360,6 +1371,20 @@ also called "Wood Fishing Rod"
   - post-Riza MT Quest: River Water For...? (1), Quench a Thirst (1)
 - **Sell price:** 25 Coins (DON'T SELL KEYS WHY WOULD YOU)
 - **Used for:** FOREST, DESERT
+
+### Wooden Plank
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Wood
+- **Sell price:** 50 Coins (it might be a better sell price than the Wood alone, but it's a waste of Wood and Coins to sell this once made)
+- **Used for:** Craft HOUSE: (multiple)
+
+### Woven Leaves Square
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins, 20 Leaves, 4 Rope, and 2 Raw Fabric
+- **Sell price:** 50 Coins (20 Leaves and 4 Rope didn't give up their existence so you could sell this off. Unless you're really short on Coins and see no use for it.)
+- **Used for:** Craft HOUSE: (multiple)
 
 ### Xyplos Ink
 

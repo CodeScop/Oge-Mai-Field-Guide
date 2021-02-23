@@ -1,8 +1,6 @@
-LAST UPDATED 15 DEC 2020
+LAST UPDATED 22 FEB 2021
 
 I was of two minds opening this section, given that the Dust summary is similar to the All Game - but then I decided that narrowing this down to "resources available in the Dust Region without traveling" might be a useful thing. And of course "resources NOT available in the Dust Region, but you'll need them, and here's where you might have forgotten them".
-
-As an unforeseen benefit, it's a way to fold in ALL the Dust info despite the fact that (spoiler!) DFO and Purple Gate are NOT the only Dust areas right now.
 
 NOTE: I am counting EVERYTHING from the Hunt Season 4 as part of Dust, to help bring it to your attention if you'd miss it otherwise.
 
@@ -25,6 +23,7 @@ WATER
 **Hunt for the Ancients**
 
 - HuntS1 = Hunt for the Ancients Season 1
+- HuntS1.2 = Hunt for the Ancients Season 1 Part 2
 - HuntS2 = Hunt for the Ancients Season 2
 - HuntS3 = Hunt for the Ancients Season 3
 - HuntS4 = Hunt for the Ancients Season 4
@@ -38,7 +37,8 @@ WATER
 ### Core Crystals
 
 - **Best sources:** Buy 'em outright. You won't get many any other way.
-- **Other sources:** FOREST, WATER
+- **Other sources:** FOREST, WATER,
+  - HuntS4 Quest: Celebrate Stories (10)
 - **Buy:** Prices in USD, not accounting for special promotions: \$4 for 44, \$8 for 99, \$16 for 210, \$40 for 544, \$64 for 920 (https://4thewords.com/store)
 - **Uses:** 
   - Wardrobe purchases for avatar (misc prices here: https://4thewords.com/wardrobe)
@@ -176,11 +176,11 @@ WATER
 
 ### Dandeleon Flower
 
-- **Sources:** FOREST EXPEDITION
-
-- **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game;otherwise, as you please)
-
-- **Used for:** nothing so far
+- **Sources:** FOREST
+- **Sell price:** 25 Coins (don't sell unless you have >25 or have completed game;otherwise, as you please)
+- **Used for:** FOREST,
+  - post-DFO MT Quest: Creature Colors & Highlights 3/3 (5)
+  - Craft HOUSE: Stone Dandeleon in Nature requires 3
 
 ### Dark Forest Amulet
 
@@ -229,7 +229,8 @@ WATER
 
 - **Sources:** DESERT
 - **Sell price:** 25 Coins (don't sell unless you have >200, ideally >500)
-- **Used for:** DESERT, WATER
+- **Used for:** DESERT, WATER,
+  - Craft HOUSE: Painted Stone Jar in Trinkets requires 8
 
 ### Desert Wooden Chest
 
@@ -243,11 +244,9 @@ DESERT; see **Wooden Chest**.
 
 ### Dinti
 
-NOTE: This is a new resource introduced during NaNo2019. We're still waiting to see if it's going to be useful in the regular game, or if it's mostly useful to people wrapping up unfinished NaNo quests.
-
-- **Sources:** FOREST EXPEDITION
-- **Sell price:** 5 Coins (don't sell until we figure this out)
-- **Used for:** unknown
+- **Sources:** FOREST, DESERT
+- **Sell price:** 5 Coins (don't sell till you've bought everything you want in the Mining Site store and completed all desired quests)
+- **Used for:** some FOREST, DESERT
 
 ### Dried Pulp
 
@@ -290,6 +289,7 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Buy:** FOREST
 - **Sell price:** 8 Coins (don't sell unless you have >500)
 - **Used for:** FOREST, DESERT,
+  - Craft HOUSE: Painted Stone Jar in Trinkets requires 8
   - Craft DFO: Blue Essence Ink (1)
   - DFO Quests: Main Quest 8/Bound Up In (20)
 
@@ -315,13 +315,21 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Used for:** equipping
 - **Equip:** Head: +0 Attack, +8 Defense, +0 Luck
 
+### Fabric Roll
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Raw Fabric
+- **Sell price:** 50 Coins (why are you selling this instead of the Raw Fabric it took to make it? Guess it'll just delay your House upgrades.)
+- **Used for:** Craft HOUSE: (multiple)
+
 ### Feathers
 
 - **Best sources:** FOREST
 - **Other sources:** WATER
 - **Buy:** FOREST
 - **Sell price:** 8 Coins (Don't sell unless you have > 30)
-- **Used for:** FOREST, DESERT
+- **Used for:** FOREST, DESERT,
+  - Craft HOUSE: (multiple)
 
 ### Fine Fabric
 
@@ -356,7 +364,8 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 
 - **Sources:** DESERT
 - **Sell price:** 85 Coins (Don't sell unless you have >200.)
-- **Used for:** FOREST, DESERT. WATER,
+- **Used for:** FOREST, DESERT, WATER,
+  - Craft HOUSE: (multiple)
   - Craft DFO: Blue Essence Ink (1)
 
 ### Glass Necklace
@@ -406,7 +415,8 @@ The game usually simply calls this **Gold**. Since I call the parallel things fo
 
 - **Sources:** DESERT
 - **Sell price:** 100 Coins (Don't sell unless you have >30; ideally, have at least 50. Good source of Coins after that.)
-- **Used for:** DESERT, WATER
+- **Used for:** DESERT, WATER,
+  - Craft HOUSE: Large Trunk and Small Trunk in Trinkets each require 1
 
 ### Golden Chest
 
@@ -524,41 +534,36 @@ ALL GAME
   - DFO Battles: Caretaker (1200 words for 12)
   - HuntS4 Quests: Something Extraordinary (10), Cheer Your Dedication (15), Sing Your Enthusiasm (20), To Celebrate and Share (20), Into the Woods (50), On the Wrong Path (25), Jubilant and Strong (50), Sing Your Bravery 2/2 (15), Ideas Brought to Life (10), Sing Your Commitment 3/4 (25), Stories to Tell (25), A Battle of Celebration (25)
 
-- **Dec 2020 Sources Outside the Hunt:**
+- **Jan 2021 Sources Outside the Hunt:**
 
-  Note: I'm marking this as "December" instead of "Late November" because for the entire duration of NaNo, right through early December, Hunter Tokens were dropping from NaNo event monsters and Hunt monsters only.
+  For January, the clue is an image in the news announcement: https://4thewords.com/forum/details-325 The image looks like a torn rectangle of creamy parchment with a dark red color painted over most of it, and a much darker reddish-brown cursive capital L. The consensus is that this means red monsters, and monsters with names starting with L - which is a solid rule of thumb for the monsters below, but not entirely reliable. 
 
-  For December, the trend is "Green and White".
-
-  - Global Battles: Vi (5 minutes for ), Xin (100 words for 1)
-  - LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Grey's Mawt (850 words for 8-9), Nitana (700 words for 7), Spirit Wignow (450 words for 4-5), Wignow (250 words for 2-3)
-  - MT Battles: Assassin (1400 words for 14), Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 8-9), Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
+  - Global Battles: Viyu (15 minutes for ?)
+  - LF Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2)
+  - MT Battles: Assassin (1400 words for 14), Lorsa (450 words for 4-5), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words for 13)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (120 words for 1-2)
-    - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6), Spirit Ardia (80 words for 0-1)
-    - SC Battles: Reudod (600 words for 6)
-    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7)
-    - GL Battles: Night Dandeleon (330 words for 3-4)
-  - 3PC Battles: Global and Hunt only
+    - BC Battles: Kaija (240 words for 2-3), Sacer (120 words for 1-2)
+    - SC Battles: Oncaiii (800 words for 8), Sapilo (450 words for 4-5), Sapira (350 words for 3-4), Sapiti (300 words for 3)
+    - FB, TT, GL Battles: Global and Hunt monsters only
+  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
   - ALIEN EXPEDITION:
-    - IC Battles: Nedi (800 words for 8), Rosarin (500 words for 5)
-    - SpaceS Battles: Szalin (700 words for 7), Yalarr (500 words for 5)
-    - MiningS Battles: Halix (250 words for 2-3), Pach (200 words for 2), Skarn (1100 words for 11), Zals (900 words for 9)
-    - RL Battles: Dr. Enoe (1500 words for 15), Dr. Hogglevoss (1200 words for 12), Fonar (200 words for 2), Gwynos (450 words for 4-5)
-  - Gansu Battles: Sparfly (450 words for 4-5), Suulan (2000 words and 1 Steel Dagger for 20)
+    - IC, RLab Battles: Global and Hunt monsters only
+    - SpaceS Battles: Ledd (500 words for 5)
+    - MiningS Battles: Pach (200 words for 2)
+  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Puna (150 words and 1 Wood Fishing Rod for 1-2), Rulo (550 words for 5-6)
   - DESERT EXPEDITION:
-    - DigS Battles: Global and Hunt only
-    - Ruins Battles: Global and Hunt only
-  - Riza Battles: Patliadu (750 words and 1 Harpoon for 7-8), Sparfly (450 words for 4-5), Wyvern (1300 words for 13)
+    - DigS Battles: Loi (150 words for 1-2)
+    - Ruins Battles: Global and Hunt monsters only
+  - Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Puna (150 words and 1 Wood Fishing Rod for 1-2), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
   - RAINA EXPEDITION:
-    - SurfaceC Battles: Auwi (500 words for 5), Wyvern (1300 words for 13)
-    - SwampL Battle: Copei (800 words for 8), Galai (1500 words for 15), Larida (1000 words for 10), Swamp Wignow (500 words for 5)
-    - SacredS Battle: Ognimaf (300 words for 3), Swamp Wignow (500 words for 5)
-    - Hideout Battles: Necog (450 words for 4-5)
-  - Balance Battles: Castu (450 words and 1 Water Mask for 4-5), Isartu (720 words for 7-8), Sliv (550 words and 1 Water Mask for 5-6), Spirit Castu (550 words for 5-6), Vezi (1300 words, 1 Water Mask, and 1 Underwater Torch for 13)
-  - DFO Battles: Burhar (1500 words for 15), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment, and 1 Blue Essence Ink for 50), Papple (1000 words for 10), Spirit Ardia (80 words for 0-1)
-  - PG Battles: Global and Hunt only
-  - CAVE Battles: Chio (100 words for 1), Gliva (300 words for 3), Gormist (1667 words for 17), Letos (700 words for 7), Olanat (1100 words for 11), Reflection (4444 words for 45), Spina (450 words for 4-5), Tacin (150 words for 1-2), Ulos (650 words for 6-7), Vafire (500 words for 5)
+    - SurfaceC Battles: Begala (300 words for 3), Droxa (1800 words for 18), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
+    - SwampL Battles: Larida (1000 words for 10)
+    - SacredS Battles: Pedja (1000 words for 10)
+    - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Wisthu (800 words for 8)
+  - Balance Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2), Xyplos (2000 words, 1 Water Mask, and 1 Underwater Torch for 20)
+  - DFO Battles: Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 20), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 11)
+  - PG Battles: Leopar (800 words for 8)
+  - CAVE Battles: Global and Hunt monsters only
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -608,6 +613,7 @@ ALL GAME
   - MT Quest: Bite My Boots! (25)
 - **Sell price:** 20 Coins (DO NOT SELL. Unless you somehow have >200.)
 - **Used for:** FOREST, WATER,
+  - Craft HOUSE: Leafsung Painted Fabric Carpet and Leafsung Painted Fabric Curtain in Furniture each require 1
   - DFO Quests: Deliver With A Smile (15)
 
 ### Leafsung Key
@@ -647,6 +653,7 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
 - **Buy:** FOREST
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
 - **Used for:** FOREST, DESERT, WATER,
+  - Craft HOUSE: (multiple)
   - DFO Battles: Dust Rudakai (need 15)
 
 ### Lorsa Fur
@@ -757,6 +764,7 @@ FOREST EXPEDITION ONLY
 - **Buy:** DESERT
 - **Sell price:** 8 Coins (don't sell unless you have >200; if you also have Red Dye and Essence, craft Fine Fabric for a better sell option)
 - **Used for:** DESERT, WATER,
+  - Craft HOUSE: Materials: Fabric Roll (10), Woven Leaves Square (2)
   - DFO Quest: Dessti's New Home (100)
 
 ### Raw Gold
@@ -917,6 +925,7 @@ Note: Must complete the DFO Quest Reinforced Ardi Lamp Station to unlock the abi
   - CAVE Battles: Spina (450 words for 2-3), Ulos (650 words for 2), Gliva (300 words for 0-1, 1 with enough Luck), Letos (700 words for 1-2), Vafire (500 words for 1), Gormist (1667 words for 2-3)
 - **Sell price:** 40 Coins (don't sell unless you have >500)
 - **Used for:** FOREST, WATER,
+  - Craft HOUSE: Boiling Cauldron in Furniture requires 10
   - DFO Quest: Main Quest 8/Bound Up In (10)
 
 ### Rope
@@ -932,6 +941,7 @@ Note: Must complete the DFO Quest Reinforced Ardi Lamp Station to unlock the abi
 - **Buy:** FOREST, WATER, DESERT
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
 - **Used for:** FOREST, DESERT, WATER,
+  - Craft HOUSE: (multiple)
   - DFO Quests: Rebuild the Dock (150), Reinforced Ardi Lamp Station (15)
 
 ### Rusty Amulet
@@ -1069,6 +1079,7 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
   - DFO Battles: Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 1), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 1)
 - **Sell price:** 35 Coins (NEVER SELL. YOU CANNOT HAVE ENOUGH.)
 - **Used for:** FOREST, DESERT, WATER,
+  - Craft HOUSE: (multiple)
   - Craft DFO: Dark Forest Helmet (2), Steel Chain (1), Reinforced Ardi Lamp (1)
   - DFO Quests: Main Quest 12/Well of Lost Souls (10), Dessti's New Home (15), Rebuild the Dock (25), Reinforced Ardi Lamp Station (5)
   - CAVE Quest: Bridge for the Future (10)
@@ -1240,7 +1251,8 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
   - Post-HuntS3 GL Battle: Mirdor (1500 words for 1-2)
   - Post-DFO Gansu Quest: Dark Watering Materials 4/5 (1)
 - **Sell price:** 30 Coins (don't sell unless you have >50)
-- **Used for:** FOREST, DESERT
+- **Used for:** DESERT,
+  - FOREST: Post-opening DFO MT Quest: Creature Colors & Highlights 3/3 (3)
 
 ### Wood
 
@@ -1256,6 +1268,7 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 - **Buy:** FOREST, DESERT (cheaper in FOREST)
 - **Sell price:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)
 - **Used for:** FOREST, DESERT, WATER,
+  - Craft HOUSE: (multiple)
   - Craft DFO: Steel Chain (3), Piece of Parchment (3)
   - DFO Quests: Rebuild the Dock (150)
 
@@ -1283,7 +1296,8 @@ See **Wooden Fishing Rod**.
 - **Best sources:** FOREST
 - **Other sources:** DESERT
 - **Sell price:** 20 Coins (Don't sell unless you have >50)
-- **Used for:** equipping, FOREST, DESERT
+- **Used for:** equipping, FOREST, DESERT,
+  - Craft HOUSE: Wooden Sword Wall Trophy in Furniture requires 1
 - **Equip:** Weapon1: +1 Attack, +0 Defense, +0 Luck
 
 ### Wooden Bow
@@ -1319,6 +1333,20 @@ also called "Wood Fishing Rod"
 - LF Quest: Dark Luciola Materials 1/5 (1)
 - **Sell price:** 25 Coins (DON'T SELL KEYS WHY WOULD YOU)
 - **Used for:** FOREST, DESERT
+
+### Wooden Plank
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Wood
+- **Sell price:** 50 Coins (it might be a better sell price than the Wood alone, but it's a waste of Wood and Coins to sell this once made)
+- **Used for:** Craft HOUSE: (multiple)
+
+### Woven Leaves Square
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins, 20 Leaves, 4 Rope, and 2 Raw Fabric
+- **Sell price:** 50 Coins (20 Leaves and 4 Rope didn't give up their existence so you could sell this off. Unless you're really short on Coins and see no use for it.)
+- **Used for:** Craft HOUSE: (multiple)
 
 ### Xyplos Ink
 

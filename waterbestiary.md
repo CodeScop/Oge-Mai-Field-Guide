@@ -1,4 +1,4 @@
-LAST UPDATED 16 DEC 2020
+LAST UPDATED 13 FEB 2021
 
 Once again! Here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -111,7 +111,9 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Time allowed:** 40 minutes
 - **XP:** 40
 - **Drops:** 1-2 Leaves, 4 Hunter Tokens, 1-2 Rope, 1-2 Raw Fabric
-- **Quests:** HuntS1: Elder Library Assistants (4), Curator's Family (1)
+- **Quests:** 
+  - HuntS1: Elder Library Assistants (4), Curator's Family (1)
+  - HuntS1.2: Familiar Assistants Needed! (4)
 
 ### Ame (Exp: RLab)
 
@@ -151,6 +153,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - FB: Feeding the Lighthouse (25)
+  - HuntS1.2: Into Forest Depths 1/3 (5)
 
 ### Ardii (Oge: MT*; Exp: FB)
 
@@ -174,6 +177,10 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 
   - BC: Nabia's Exploration (1)
   - FB: Feeding the Lighthouse (25), Lighting the Way (5)
+  
+  DUST
+  
+  - HuntS1.2: Into Forest Depths 1/3 (5)
 
 ### Ardis (Oge: MT*; Exp: FB)
 
@@ -185,6 +192,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - FB: Feeding the Lighthouse (25)
+  - HuntS1.2: Into Forest Depths 1/3 (5)
 
 ### Arenica (Oge: Gansu*)
 
@@ -233,6 +241,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Drops:** 0-1 Steel Dagger, 0-1 Wooden Key, 1-2 Raw Fabric, 2-3 Wood
 - **Quests:**
   - MT: Main Quest 4/Aid to an Elder (3)
+  - HuntS1.2: A Secret Plan? (3)
   - 3PC: Main Quest 4/A Desert Army (5)
 
 ### Attleas (Exp: Dig)
@@ -348,6 +357,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - TT: Boots Made For Climbing (1), Scouting the Trees (1), Buholi in the Sky (10)
+  - HuntS1.2: Velts' Relaxation Method (1)
 
 ### Buhovi (Exp: TT)
 
@@ -368,7 +378,9 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
 - **Time allowed:** 120 minutes (2 hours)
 - **XP:** 100
 - **Drops:** 10 Hunter Tokens, 1-6 Coins, 0-1 Wooden Keys, 0-1 Fur, 1-3 Raw Fabric
-- **Quests:** HuntS1: Curator's Family (1)
+- **Quests:** 
+  - HuntS1: Curator's Family (1)
+  - HuntS1.2: Familiar Assistants Needed! (4)
 
 ### Cafodu (Exp: Hideout)
 
@@ -419,7 +431,9 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Time allowed:** 90 minutes (1 hour 30 minutes)
 - **XP:** 80
 - **Drops:** 8 Hunter Tokens, 1-4 Wood, 1-2 Raw Steel, 0-1 Fur
-- **Quests:** HuntS1 Quest: Elder Library's Security (4), Curator's Family (1)
+- **Quests:** 
+  - HuntS1 Quest: Elder Library's Security (4), Curator's Family (1)
+  - HuntS1.2: Familiar Assistants Needed! (4)
 
 ### Copei (Exp: SwampL)
 
@@ -586,7 +600,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Time allowed:** 45 minutes
 - **XP:** 50
 - **Drops:** 1-2 Dinti, 1-5 Raw Steel
-- **Quests:** none
+- **Quests:** HuntS1.2: Into Forest Depths 2/3 (1)
 
 ### Fonar (Exp: RLab)
 
@@ -765,7 +779,7 @@ see **Skuppa's Giant Marionette**
 - **XP:** 136
 - **Drops:** 0-1 Spider Poison (usually 1), 3-4 Rope, 0-1 Feathers (usually 1), 3 Leaves
 - **Quests:**
-  - MT: Fair, Standard, Middling (25)
+  - MT: Fair, Standard, Middling (25), The Winding Path to Elder Library (3)
   - HuntS1: Proving Your Mettle 5/6 (1)
   - Balance: Elemental Power (5)
 
@@ -830,6 +844,7 @@ see **Skuppa's Giant Marionette**
   - Functionally, anything that requires Saliva Vial will require a Kaija battle — and any battle involving a monster starting with Sapi- requires a Saliva Vial. See Sapi- monsters for details.
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
   - HuntS1: Proving Your Perserverance 3/4 (3)
+  - HuntS1.2: Into Forest Depths 1/3 (3)
 
 ### Kapir (Exp: Dig)
 
@@ -1053,6 +1068,16 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Raw Steel
 - **Quests:** RLab: Projecting Light (10)
 
+### Maikile (Exp: GL)
+
+- **Requirements:** 750 words
+- **Time allowed:** 1 minutes (1 hour and 40 minutes)
+- **XP:** 75
+- **Drops:** 4-7 Leaves, 2-3 Fur, 2 Wood, 1 Essence
+- **Quests:** 
+  - GL: Eat the Leaves? (10)
+  - HuntS1.2: Velts' Relaxation Method (1)
+
 ### Mini Ooze (Exp: Shrine GO)
 
 ### Minica (Exp: RLab)
@@ -1117,6 +1142,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - Functionally, anything that requires Nezthai Claws will require a Nezthai battle — and any battle involving a monster starting with Buh- requires Nezthai Claws. See Buh- monsters and All Resources for further info.
   - BC: Nabia's Exploration (1)
+  - HuntS1.2: Velts' Relaxation Method (1)
 
 ### Night Dandeleon (Exp: GL∆)
 
@@ -1182,6 +1208,16 @@ see **Skuppa's Giant Marionette**
 - **XP:** 100
 - **Drops:** 2-6 Dust, 1-4 Raw Gold, 0-2 Raw Sandstone, 1-3 Raw Fabric, 0-3 Raw Steel, 1-2 Desert Stone
 - **Quests:** DigS: Khaki Twisting Beige (3)
+
+### Oncaiii (Exp: SC)
+
+- **Requirements:** 800 words, 1 Saliva Vial
+- **Time allowed:** 120 minutes (2 hours)
+- **XP:** 80
+- **Drops:** 1-2 Spider Poison, 2-4 Wood, 2-3 Fur, 2-4 Leaves
+- **Quests:** 
+  - SC: Sleepless in Stone City (8)
+  - HuntS1.2: Velts' Relaxation Method (1), Into Forest Depths 2/3 (3)
 
 ### Olea (Exp: SurfaceC)
 
@@ -1335,7 +1371,9 @@ see **Skuppa's Giant Marionette**
 - **Time allowed:** 90 minutes (1 hour 30 minutes)
 - **XP:** 60
 - **Drops:** 3-5 Leaves, 2-3 Rope, 1-2 Raw Stone, 2-3 Wood
-- **Quests:** SC: Slowest Tortoise Wins (12), Stone City Chaos (4)
+- **Quests:** 
+  - SC: Slowest Tortoise Wins (12), Stone City Chaos (4)
+  - HuntS1.2: Into Forest Depths 2/3 (5)
 
 ### Rhamp (Exp: SwampL)
 
@@ -1494,7 +1532,9 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Time allowed:** 60 minutes (1 hour)
 - **XP:** 60
 - **Drops:** 6 Hunter Tokens, 1-3 Raw Fabric, 1 Rope, 0-3 Dust
-- **Quests:** HuntS1: A Clue to the Past (3), Curator's Family (1)
+- **Quests:** 
+  - HuntS1: A Clue to the Past (3), Curator's Family (1)
+  - HuntS1.2: Familiar Assistants Needed! (4)
 
 ### Sassi Hologram (Exp: RLab)
 
@@ -1628,6 +1668,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - MT: Huge, Gigantic, Enormous (25); The Invisible Ink 5/5 (1); Sand Mountain Caravan (5)
   - 3PC: A Way North: Up the Mountain (1)
   - HuntS1: Proving Your Mettle 5/6 (1)
+  - HuntS1.2: Velts' Strong Start (1)
   - HuntS2: A Season to Explore (1)
 
 ### Tambo Hologram (Exp: RLab)
@@ -1695,7 +1736,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 183
 - **Drops:** 3 Fur, 2-3 Claws, 1 Leaves, 1 Rope
 - **Quests:**
-  - MT: A Famiy Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); New Adventurous Horizons (1)
+  - MT: A Famiy Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); The Winding Path to Elder Library (3); New Adventurous Horizons (1)
   - HuntS1: Proving Your Strength 6/6 (6)
 
 ### Untu Golem (Exp: ShrineGiant)
@@ -1811,6 +1852,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 2-3 Dust, 1 Rope, 1-2 Wood, 3-7 Coins, 1 Leaf Boots, 1 Old Staff
 - **Quests:** 
   - MT: Keep In Quarantine (10)
+  - HuntS1.2: A Secret Plan? (1)
   - HuntS2: A Season to Explore (1)
 
 ### Viyu (EVERYWHERE*)
@@ -1966,6 +2008,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** Wood, Rope, Leaves
 - **Quests:**
   - BC: Hard Day's Walk (1), Nabia's Exploration (1), Just a Mean Green (25)
+  - HuntS1.2: Into Forest Depths 1/3 (3)
   - MT: Cool Creature Highlights 2/3 (5)
 
 ### Xyplos (Oge: Balance*)

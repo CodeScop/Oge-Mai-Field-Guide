@@ -1,4 +1,4 @@
-LAST UPDATED 10 DEC 2020
+LAST UPDATED 22 FEB 2021
 
 If you find anything crucial missing from this list (once I post it onsite; as I write, I'm composing notes that are still incomplete and only on GitHub), please consider looking at the Dust Resources for a more complete look at this region.
 
@@ -271,6 +271,13 @@ NOTE: This is a new resource introduced during NaNo2019. We're still waiting to 
 - **Sell price:** 300 Coins (you can sell if you really want, but why would you after paying to craft it?)
 - **Used for:** equipping
 - **Equip:** Head: +0 Attack, +8 Defense, +0 Luck
+
+### Fabric Roll
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Raw Fabric
+- **Sell price:** 50 Coins (why are you selling this instead of the Raw Fabric it took to make it? Guess it'll just delay your House upgrades.)
+- **Used for:** Craft HOUSE: (multiple)
 
 ### Feathers
 
@@ -1138,6 +1145,20 @@ also called "Wood Fishing Rod"
 - LF Quest: Dark Luciola Materials 1/5 (1)
 - **Sell price:** 25 Coins (DON'T SELL KEYS WHY WOULD YOU)
 - **Used for:** FOREST, DESERT
+
+### Wooden Plank
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Wood
+- **Sell price:** 50 Coins (it might be a better sell price than the Wood alone, but it's a waste of Wood and Coins to sell this once made)
+- **Used for:** Craft HOUSE: (multiple)
+
+### Woven Leaves Square
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins, 20 Leaves, 4 Rope, and 2 Raw Fabric
+- **Sell price:** 50 Coins (20 Leaves and 4 Rope didn't give up their existence so you could sell this off. Unless you're really short on Coins and see no use for it.)
+- **Used for:** Craft HOUSE: (multiple)
 
 ### Xyplos Ink
 

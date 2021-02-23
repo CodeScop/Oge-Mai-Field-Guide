@@ -164,7 +164,7 @@ NOTE: As of this writing (25 Jul 2020), several of these are entitled "Growing (
 
 ## Season 3 Monsters
 
-Season 3 was been scarce on Assistants and seems to be scarce on new monsters. Seems. Is it a coincidence that Vanstra was introduced to Mama Tree along with the first month of Season 3? That Vanspi was introduced to 3PC along with the second month? Or that Vanvri was introduced in Balance along with the third month? Hmm. Still, with no evidence of connection to the Hunt apart from them dropping Hunter Tokens, I'll have to count those as non-Hunt creatures and say that Season 3 produced only two.
+Season 3 is scarce on Assistants and seems to be scarce on new monsters. Seems. Is it a coincidence that Vanstra was introduced to Mama Tree along with the first month of Season 3? That Vanspi was introduced to 3PC along with the second month? Or that Vanvri was introduced in Balance along with the third month? Hmm. Still, with no evidence of connection to the Hunt apart from them dropping Hunter Tokens, I'll have to count those as non-Hunt creatures and say that Season 3 produced only two.
 
 ### Caretaker
 
@@ -215,38 +215,34 @@ Season 3 was been scarce on Assistants and seems to be scarce on new monsters. S
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25)
 
-- **Dec 2020 Sources Outside the Hunt:**
+- **Jan 2021 Sources Outside the Hunt:**
 
-  Note: I'm marking this as "December" instead of "Late November" because for the entire duration of NaNo, right through early December, Hunter Tokens were dropping from NaNo event monsters and Hunt monsters only.
+  For January, the clue is an image in the news announcement: https://4thewords.com/forum/details-325 The image looks like a torn rectangle of creamy parchment with a dark red color painted over most of it, and a much darker reddish-brown cursive capital L. The consensus is that this means red monsters, and monsters with names starting with L - which is a solid rule of thumb for the monsters below, but not entirely reliable. 
 
-  For December, the trend is "Green and White".
-
-  - Global Battles: Vi (5 minutes for ), Xin (100 words for 1)
-  - LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Grey's Mawt (850 words for 8-9), Nitana (700 words for 7), Spirit Wignow (450 words for 4-5), Wignow (250 words for 2-3)
-  - MT Battles: Assassin (1400 words for 14), Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 8-9), Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
+  - Global Battles: Viyu (15 minutes for ?)
+  - LF Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2)
+  - MT Battles: Assassin (1400 words for 14), Lorsa (450 words for 4-5), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words for 13)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (120 words for 1-2)
-    - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6), Spirit Ardia (80 words for 0-1)
-    - SC Battles: Reudod (600 words for 6)
-    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7)
-    - GL Battles: Night Dandeleon (330 words for 3-4)
-  - 3PC Battles: Global and Hunt only
+    - BC Battles: Kaija (240 words for 2-3), Sacer (120 words for 1-2)
+    - SC Battles: Oncaiii (800 words for 8), Sapilo (450 words for 4-5), Sapira (350 words for 3-4), Sapiti (300 words for 3)
+    - FB, TT, GL Battles: Global and Hunt monsters only
+  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
   - ALIEN EXPEDITION:
-    - IC Battles: Nedi (800 words for 8), Rosarin (500 words for 5)
-    - SpaceS Battles: Szalin (700 words for 7), Yalarr (500 words for 5)
-    - MiningS Battles: Halix (250 words for 2-3), Pach (200 words for 2), Skarn (1100 words for 11), Zals (900 words for 9)
-    - RL Battles: Dr. Enoe (1500 words for 15), Dr. Hogglevoss (1200 words for 12), Fonar (200 words for 2), Gwynos (450 words for 4-5)
-  - Gansu Battles: Sparfly (450 words for 4-5), Suulan (2000 words and 1 Steel Dagger for 20)
+    - IC, RLab Battles: Global and Hunt monsters only
+    - SpaceS Battles: Ledd (500 words for 5)
+    - MiningS Battles: Pach (200 words for 2)
+  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Puna (150 words and 1 Wood Fishing Rod for 1-2), Rulo (550 words for 5-6)
   - DESERT EXPEDITION:
-    - DigS Battles: Global and Hunt only
-    - Ruins Battles: Global and Hunt only
-  - Riza Battles: Patliadu (750 words and 1 Harpoon for 7-8), Sparfly (450 words for 4-5), Wyvern (1300 words for 13)
+    - DigS Battles: Loi (150 words for 1-2)
+    - Ruins Battles: Global and Hunt monsters only
+  - Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Puna (150 words and 1 Wood Fishing Rod for 1-2), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
   - RAINA EXPEDITION:
-    - SurfaceC Battles: Auwi (500 words for 5), Wyvern (1300 words for 13)
-    - SwampL Battle: Copei (800 words for 8), Galai (1500 words for 15), Larida (1000 words for 10), Swamp Wignow (500 words for 5)
-    - SacredS Battle: Ognimaf (300 words for 3), Swamp Wignow (500 words for 5)
-    - Hideout Battles: Necog (450 words for 4-5)
-  - Balance Battles: Castu (450 words and 1 Water Mask for 4-5), Isartu (720 words for 7-8), Sliv (550 words and 1 Water Mask for 5-6), Spirit Castu (550 words for 5-6), Vezi (1300 words, 1 Water Mask, and 1 Underwater Torch for 13)
+    - SurfaceC Battles: Begala (300 words for 3), Droxa (1800 words for 18), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
+    - SwampL Battles: Larida (1000 words for 10)
+    - SacredS Battles: Pedja (1000 words for 10)
+    - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Wisthu (800 words for 8)
+  - Balance Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2), Xyplos (2000 words, 1 Water Mask, and 1 Underwater Torch for 20)
+  - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 

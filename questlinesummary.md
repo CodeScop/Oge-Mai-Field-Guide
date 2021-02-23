@@ -1,4 +1,4 @@
-LAST UPDATED 10 FEB 2021
+LAST UPDATED 22 FEB 2021
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
@@ -543,6 +543,7 @@ Season 4 is unlocked by completing the quest A Bubble Dream, and you can see tha
   - HuntS4 Celebrate Joy - have Hunt Map Piece 11 and attain 7-day Streak, get Wardrobe: Facepaint Eye Stroke
     - HuntS4 Still Missing Something - get 10-day Streak and hand in all 11 Hunt Map pieces, get Wardrobe: Hunt Map Hands
       - HuntS4 Proving Your Friendship - defeat 4 of the Bard, get Wardrobe: Bard's Pet
+      - HuntS4 Celebrate Stories - write 5K words, get 10 Core Crystals and some Reactions
 - HuntS4 Something Extraordinary - defeat 3 Mirdor, get Hunt Map Piece 10 and 10 Hunter Tokens
 - HuntS4 Ideas Brought to Life - defeat 3 Weekiwa, get Hunt Map Piece 11 and 10 Hunter Tokens
 - HuntS4 A Battle of Celebration - defeat 3 Morimet, get 25 Hunter Tokens

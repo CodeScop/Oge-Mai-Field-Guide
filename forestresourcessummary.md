@@ -1,4 +1,4 @@
-LAST UPDATED 31 JAN 2021
+LAST UPDATED 16 FEB 2021
 
 Here are ALL THE THINGS available in the Forest. LF is Luciola Forest. MT is Mama Tree. HuntS1 is Hunt for the Ancients Season 1. And for the Expedition...
 
@@ -24,7 +24,7 @@ BC is Base Camp, FB is Forward Base, SC is Stone City, TT is Tall Trees, and GL 
   - MT Battles: Vanstra (3 minutes for 2-8), Villager (1300 words for 3-7), Villager (1300 words for 3-7), Burocat (1000 words for 1-6)
   - GL Battles: Gobkey (400 words for 0-2)
   - Anywhere Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
-  - MT Quest: A Family Tree (50), Written Accounts (100)
+  - MT Quests: A Family Tree (50), Written Accounts (100), The Winding Path to Elder Library (100)
   - LF Quest: Learn to Fight (50), The Nitana/Main Quest 3 (25), Lead The Way/First Steps (50), Make It Work (25)
 - **Other sources:** Sell River Grass, Raw Fabric if necessary (don't sell anything if possible)
   - LF Quest: Tinkering With Trinkets (50) (will likely cost 75 Coins on the way, so bad source)
@@ -91,20 +91,32 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
   - Craft MT: Leaf Breastplate (1), Leafsung Ink (3), Lorsa Nest (2), Rusty Amulet (3), Rusty Pendant (3)
   - LF Quests: Make Words Sing (5), Make Attacks Sing (10)
   - MT Quests: Shaman's Hideout (3), Inking By Number 2/5 (10)
+  - HuntS1.2 Quest: Curator's Catalog Collections (5)
 
 ### Dandeleon Flower
 
 - **Sources:** 
   - FB Battles: Dandeleon (220 words for 1)
   - GL Battles: Night Dandeleon (330 words for 1)
-- **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game; otherwise, as you please)
-- **Used for:** FB Quest: Lovely Flower Crown (15)
+- **Sell price:** 25 Coins (don't sell unless you have >25 or have completed game; otherwise, as you please)
+- **Used for:** 
+  - FB Quest: Lovely Flower Crown (15)
+  - HuntS1.2 Quest: Into Forest Depths 1/3 (2)
+  - Craft HOUSE: Stone Dandeleon in Nature requires 3
+  - later game
+
+### Desert Stone
+
+- **Sources:** later game
+- **Used for:** later game, Craft HOUSE: Painted Stone Jar in Trinkets requires 8
 
 ### Dinti
 
 - **Sources:** TT Battles: Fin (250 words for 1), Finoir (500 words for 1-2)
 - **Sell price:** 5 Coins (don't sell unless you have >300 OR have spent as much as you want in the later-game shop that uses it as currency)
-- **Used for:** later game
+- **Used for:** 
+  - HuntS1.2 Quest: Into Forest Depths 2/3 (5)
+  - later game
 
 ### Dust
 
@@ -140,9 +152,18 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
 - **Buy:** MT Item Shop/Edrie's Market: 32 Coins
 - **Sell price:** 8 Coins (don't sell unless you have >500)
 - **Used for:** 
+  - Craft HOUSE: Wooden Wall Clock in Trinkets requires 1
   - Craft MT: Leafsung Ink (5), Rusty Pendant (2), Wood Spear (1)
   - LF Quest: Don't Regift Curses/Main Quest 4 (4), Save the Children (10), Make Ink Sing (10), Make Words Sing (20) Make Attacks Sing (30)
   - MT Quests: Main Quest 2/A Secret Message (3), Shaman's Hideout (8)
+  - HuntS1.2 Quest: Curator's Catalog Collections (3)
+
+### Fabric Roll
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Raw Fabric
+- **Sell price:** 50 Coins (why are you selling this instead of the Raw Fabric it took to make it? Guess it'll just delay your House upgrades.)
+- **Used for:** Craft HOUSE: (multiple)
 
 ### Feathers
 
@@ -153,6 +174,7 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
 - **Buy:** 32 Coins in LF Item Shop/Alex's Shop 
 - **Sell price:** 8 Coins (don't sell unless you have >100)
 - **Used for:** 
+  - Craft HOUSE: (multiple)
   - Craft MT: Leaf Breastplate (5), Leaf Helmet (3)
   - LF Quests: Make It Work (5), Style Is Eternal (10), New Style (5), Safety Hats (20)
   - MT Quests: Main Quest 2/A Secret Message (5), Inking By Number 2/5 (15), Warm Creature Highlights 1/3 (10)
@@ -176,11 +198,33 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
   - Craft MT: Leaf Helmet (5), Leaf Boots (3), Protected Leaf Helmet (5), Vine Net (5)
   - Quest: Lumberjack's Tools (5), New Style (10)
 
+### Glass
+
+See **Glass Bar**.
+
+### Glass Bar
+
+The game usually simply calls this **Glass**. I like to make sure I'm distinguishing between this and the dozen other Glass things, so I call 'em Glass Bars.
+
+- **Sources:** later game
+- **Used for:** Craft HOUSE: (multiple)
+
 ### Gobkey Trinket
 
 - **Source:** GL Battles: Gobkey (400 words for 1) 
 - **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game)
 - **Used for:** nothing so far
+
+### Gold
+
+See **Gold Bar**.
+
+### Gold Bar
+
+The game usually simply calls this **Gold**. Since I call the parallel things for Glass and Steel "Glass Bars" and "Steel Bars" respectively, I call these "Gold Bars" to be consistent.
+
+- **Sources:** later game
+- **Used for:** Craft HOUSE: Large Trunk and Small Trunk in Trinkets each require 1
 
 ### Golden Chest
 
@@ -220,23 +264,21 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
   - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10)
   - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
+  - HuntS1.2 Quests: Velts' Relaxation Method (25), Curator's Catalog Collections (25), Into Forest Depths 1/3 (25)
   - later Hunt
 
-- **Dec 2020 Sources Outside the Hunt:**
+- **Jan 2021 Sources Outside the Hunt:**
 
-  Note: I'm marking this as "December" instead of "Late November" because for the entire duration of NaNo, right through early December, Hunter Tokens were dropping from NaNo event monsters and Hunt monsters only.
+  For January, the clue is an image in the news announcement: https://4thewords.com/forum/details-325 The image looks like a torn rectangle of creamy parchment with a dark red color painted over most of it, and a much darker reddish-brown cursive capital L. The consensus is that this means red monsters, and monsters with names starting with L - which is a solid rule of thumb for the monsters below, but not entirely reliable. 
 
-  For December, the trend is "Green and White".
-
-  - Global Battles: Vi (5 minutes for ), Xin (100 words for 1)
-  - LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Grey's Mawt (850 words for 8-9), Nitana (700 words for 7), Spirit Wignow (450 words for 4-5), Wignow (250 words for 2-3)
-  - MT Battles: Assassin (1400 words for 14), Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 8-9), Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
+  - Global Battles: Viyu (15 minutes for ?)
+  - LF Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2)
+  - MT Battles: Assassin (1400 words for 14), Lorsa (450 words for 4-5), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words for 13)
   - FOREST EXPEDITION:
-    - BC Battles: Sacer (120 words for 1-2)
-    - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6), Spirit Ardia (80 words for 0-1)
-    - SC Battles: Reudod (600 words for 6)
-    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7)
-    - GL Battles: Night Dandeleon (330 words for 3-4)
+    - BC Battles: Kaija (240 words for 2-3), Sacer (120 words for 1-2)
+    - SC Battles: Oncaiii (800 words for 8), Sapilo (450 words for 4-5), Sapira (350 words for 3-4), Sapiti (300 words for 3)
+    - FB, TT, GL Battles: Global and Hunt monsters only
+  - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -300,10 +342,11 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
   - MT Crafts & Trinkets/Alia of Air: 5 Essence, 5 Spider Poison, 3 Claws, 3 Dust
 - **Sell price:** 20 Coins (DO NOT SELL. Unless you somehow have >200.)
 - **Used for:** 
+  - Craft HOUSE: Leafsung Painted Fabric Carpet and Leafsung Painted Fabric Curtain in Furniture each require 1
   - Craft MT: Leafsung Boots (1), Leafsung Wooden Sword (1)
   - MT Quests: Leafsung Vial Creation (10), The Invisible Ink 5/5 (5)
 
-### Leafsung Key (Quest Reward Only)
+### Leafsung Key
 
 For later game. DO NOT SELL.
 
@@ -342,6 +385,7 @@ For later game. DO NOT SELL.
 - **Buy:** 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
 - **Used for:** 
+  - Craft HOUSE: (multiple)
   - Craft LF: Leaf Boots (10), Spider Bow (5)
   - Craft MT: Leaf Helmet (15), Leaf Boots (10), Leaf Breastplate (25), Leafsung Boots (15), Lorsa Nest (6), Protected Leaf Helmet (20)
   - LF Battles: Rudakai (10)
@@ -357,6 +401,7 @@ For later game. DO NOT SELL.
 - **Used for:** later game,
   - Craft MT: Protected Leaf Helmet (2)
   - LF Quests: Style Is Eternal (5)
+  - HuntS1.2 Quest: Curator's Catalog Collections (3)
 
 ### Lorsa Nests
 
@@ -405,7 +450,8 @@ For later game. DO NOT SELL.
   - BC, FB, SC, TT Battles: Alnu (400 words for 1-2)
 - **Other sources:** MT Battle: Burocat (1000 words for 1-3), Assassin (1400 words for 1-2)
 - **Sell price:** 8 Coins (don't sell unless you have >200)
-- **Used for:** nothing yet
+- **Used for:** later game,
+  - Craft HOUSE: Materials: Fabric Roll (10), Woven Leaves Square (2)
 
 ### Raw Gold
 
@@ -457,6 +503,11 @@ For later game. DO NOT SELL.
 - **Sell price:** 30 Coins (best source of cash at this point, but don't sell unless coins badly needed)
 - **Used for:** nothing yet; see Water Resources or All Resources for more details
 
+### River Water
+
+- **Sources:** later game
+- **Used for:** Craft HOUSE: Boiling Cauldron in Furniture requires 10
+
 ### Rope
 
 - **Best sources:** 
@@ -476,6 +527,7 @@ For later game. DO NOT SELL.
 - **Buy:** MT Item Shop/Edrie's Market: 8 Coins
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
 - **Used for:** 
+  - Craft HOUSE: (multiple)
   - Craft LF: Leaf Boots (2), Spider Bow (1), Wood Hammer (3), Wooden Fishing Rod (1)
   - Craft MT: Leaf Boots (2), Lorsa Nest (5), Vine Net (5), Wood Hammer (3)
   - Craft FB: Ardi Lamp (1)
@@ -517,6 +569,7 @@ For later game. DO NOT SELL.
 - **Used for:** 
   - FB Quest: Lovely Flower Crown (10)
   - SC Battles: Sapilo (need 1), Sapira (need 1), Sapiti (need 1), Oncaiii (need 1)
+  - HuntS1.2 Quest: Into Forest Depths 1/3 (2)
 
 ### Shrine Ticket
 
@@ -565,6 +618,19 @@ For later game. DO NOT SELL.
   - Craft MT: Leafsung Ink (5)
   - LF Quests: Save the Children (10), Make Ink Sing (10), Make Words Sing (10), Make Attacks Sing (15)
   - MT Quest: Warm Creature Highlights 1/3 (5)
+  - HuntS1.2 Quests: Curator's Catalog Collections (1), Into Forest Depths 2/3 (1)
+
+### Steel
+
+See **Steel Bar**
+
+### Steel Bar
+
+The game usually simply calls this **Steel**. I like to make sure I'm distinguishing between this and the dozen other Steel things, so I call 'em Steel Bars.
+
+- **Sources:** later game
+- **Used for:** later game,
+  - Craft HOUSE: (multiple)
 
 ### Steel Dagger
 
@@ -578,18 +644,30 @@ For later game. DO NOT SELL.
 
 ### Stempo
 
-- **Sources:** 
+- **Sources:** later game,
   - BC Quest: One Hundred Creatures (5)
   - FB Quest: To Collect Memories (5)
   - SC Quest: A Forest Riddle (3), Slowest Tortoise Wins (2), Stone City Chaos (4)
   - TT Quest: Boots Made for Climbing (1), Buholi in the Sky (4)
   - GL Quest: Shadows In Flux (3)
+  - HuntS1.2 Quest: Velts' Strong Start (2)
 - **Sell Price:** Priceless. Sorry, 250 Coins, but DON'T SELL.
 - **Used for:** later game,
   - Preserving or repairing streak days. 1 Stempo can give you credit for your Streak, regardless of whether you write, on 1 future day, up to 4 weeks out; 2 Stempos can repair your Streak for 1 past day (once your current day's Streak is reached) up to 4 weeks back. Go to your Dashboard menu, then to Stats, to see how the Streak Calendar works.
   - Erasing lost and fled battles from your record. 
 
-### Stone Key (Quest Reward Only)
+### Stone
+
+See **Stone Block**.
+
+### Stone Block
+
+The game usually simply calls this **Stone**. I like to make sure I'm distinguishing between this and the dozen other Stone things, so I call 'em Stone Blocks.
+
+- **Sources:** later game
+- **Used for:** Craft HOUSE: Stone Dandeleon in Nature requires 1
+
+### Stone Key
 
 For later game. DO NOT SELL.
 
@@ -612,6 +690,7 @@ For later game. DO NOT SELL.
 - **Used for:** later game,
   - Craft MT: Protected Leaf Helmet (1)
   - MT Quest: Inking By Number 2/5 (3)
+  - HuntS1.2 Quest: Curator's Catalog Collections (1)
 
 ### Vine Net
 
@@ -625,6 +704,12 @@ For later game. DO NOT SELL.
   - SC Quest: Nothing But Trouble (6)
   - TT Quest: Scouting the Trees (3)
 - **Equip:** Weapon2: +2 Attack, +0 Defense, +0 Luck
+
+### White Fur
+
+- **Sources:** later game
+- **Used for:** later game,
+  - Hunt House Item (Hunt Shield Ornament requires 1)
 
 ### Wood
 
@@ -645,6 +730,7 @@ For later game. DO NOT SELL.
 - **Buy:** 8 Coins in Item Shop/Alex's Shop 
 - **Sell price:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)
 - **Used for:** 
+  - Craft HOUSE: (multiple)
   - Craft LF: Spider Bow (5), Wood Hammer (15), Wood Sword (10), Wooden Fishing Rod (1)
   - Craft MT: Lorsa Nest (10), Wood Hammer (15), Wood Sword (10), Wooden Bow (5)
   - Craft FB: Ardi Lamp (2)
@@ -689,6 +775,7 @@ See **Wooden Fishing Rod**.
 - **Sell price:** 20 Coins (don't sell unless you have >50)
 - **Used for:** equipping; later game
   - Craft MT: Leafsung Wooden Sword (2)
+  - Craft HOUSE: Wooden Sword Wall Trophy in Furniture requires 1
 - **Equip:** Weapon1: +1 Attack, +0 Defense, +0 Luck
 
 ### Wooden Bow
@@ -732,7 +819,7 @@ See **Wooden Fishing Rod**.
 also called "Wood Fishing Rod"
 
 - **Best sources:** Craft
-- **Other sources:** Buy
+- **Other sources:** Buy, later game
 - **Buy:** 50 Coins in LF Item Shop/Alex's Shop
 - **Craft:** LF Crafts & Trinkets/Kyiat's Shop: 1 Wood, 1 Rope, 1 Raw Stone
 - **Sell price:** 5 Coins (Don't sell, not worth it)
@@ -755,3 +842,16 @@ also called "Wood Fishing Rod"
   - With Wooden Chest in LF, drops 1-6 Rope, 1-3 Leaves, 1-3 Wood Sword, 9-18 Coins, 0-2 Leaf Boots, 1 Leaf Helmet, 0-1 Leaf Breastplate, 1-3 Spider Poison
   - With Wooden Chest in MT, drops 3-9 Rope, 2-7 Wood, 3-8 Leaves, 1-3 Vine Nets, 2-4 Wood Sword, 1-2 Rusty Pendant, 15-46 Coins, 2-4 Leaf Boots, 1 Spider Bow, 1 Wood Spear, 1 Old Staff
 
+### Wooden Plank
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Wood
+- **Sell price:** 50 Coins (it might be a better sell price than the Wood alone, but it's a waste of Wood and Coins to sell this once made)
+- **Used for:** Craft HOUSE: (multiple)
+
+### Woven Leaves Square
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins, 20 Leaves, 4 Rope, and 2 Raw Fabric
+- **Sell price:** 50 Coins (20 Leaves and 4 Rope didn't give up their existence so you could sell this off. Unless you're really short on Coins and see no use for it.)
+- **Used for:** Craft HOUSE: (multiple)

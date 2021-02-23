@@ -1,4 +1,4 @@
-LAST UPDATED 10 DEC 2020
+LAST UPDATED 16 FEB 2021
 
 I could make this list Mama Tree-only, but why bother when Luciola Forest is a quick hop away? LF is for Luciola Forest, MT for Mama Tree, HuntS1 is for Luciola Forest Hunt for the Ancients, and hopefully all else will be self-explanatory.
 
@@ -23,7 +23,7 @@ These are special resources. They can be bought with actual real-world currency 
   - LF Wooden Chest: 9-18 per chest/key
   - MT Wooden Chest: 15-46 per chest/key
   - MT Battles: Vanstra (3 minutes for 2-8), Villager (1300 words for 3-7)
-  - MT Quest: A Family Tree (50), Written Accounts (100)
+  - MT Quests: A Family Tree (50), Written Accounts (100), The Winding Path to Elder Library (100)
   - LF Quest: Learn to Fight (50), The Nitana/Main Quest 3 (25), Lead The Way/First Steps (50), Make It Work (25)
 - **Other sources:** Sell River Grass, Raw Fabric if necessary (don't sell anything if possible)
   - LF Quest: Tinkering With Trinkets (50) (will likely cost 75 Coins on the way, so bad source)
@@ -100,6 +100,16 @@ These are special resources. They can be bought with actual real-world currency 
   - LF Quests: Make Words Sing (5), Make Attacks Sing (10)
   - MT Quests: Shaman's Hideout (3), Inking By Number 2/5 (10)
 
+### Dandeleon Flower
+
+- **Source:** later game
+- **Used for:** later game, Craft HOUSE: Stone Dandeleon in Nature requires 3
+
+### Desert Stone
+
+- **Sources:** later game
+- **Used for:** later game, Craft HOUSE: Painted Stone Jar in Trinkets requires 8
+
 ### Dust
 
 - **Best sources:** 
@@ -126,10 +136,18 @@ These are special resources. They can be bought with actual real-world currency 
   - MT Battles: Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 1-2), Tambo (2000 words, 4 Rope, 10 Leaves and min level 5 for 1)
 - **Buy:** MT Item Shop/Edrie's Market: 32 Coins
 - **Sell price:** 8 Coins (don't sell unless you have >500)
-- **Used for:** 
+- **Used for:** later game,
+  - Craft HOUSE: Wooden Wall Clock in Trinkets requires 1
   - Craft MT: Leafsung Ink (5), Rusty Pendant (2), Wood Spear (1)
   - LF Quest: Don't Regift Curses/Main Quest 4 (4), Save the Children (8), Make Ink Sing (10), Make Words Sing (20) Make Attacks Sing (30)
   - MT Quests: Main Quest 2/A Secret Message (3), Shaman's Hideout (8)
+
+### Fabric Roll
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Raw Fabric
+- **Sell price:** 50 Coins (why are you selling this instead of the Raw Fabric it took to make it? Guess it'll just delay your House upgrades.)
+- **Used for:** Craft HOUSE: (multiple)
 
 ### Feathers
 
@@ -138,7 +156,8 @@ These are special resources. They can be bought with actual real-world currency 
   - MT Battles: Lorsa (450 words for 0-1, usually 1), Illi (700 words for 0-1, usually 1)
 - **Buy:** 32 Coins in LF Item Shop/Alex's Shop 
 - **Sell price:** 8 Coins (don't sell unless you have >100)
-- **Used for:** 
+- **Used for:** later game,
+  - Craft HOUSE: (multiple)
   - Craft MT: Leaf Breastplate (5), Leaf Helmet (3)
   - LF Quests: Make It Work (5), Style Is Eternal (10), New Style (5), Safety Hats (20)
   - MT Quests: Main Quest 2/A Secret Message (5), Inking By Number 2/5 (15), Warm Creature Highlights 1/3 (10)
@@ -159,6 +178,28 @@ These are special resources. They can be bought with actual real-world currency 
   - Craft MT: Leaf Helmet (5), Leaf Boots (3), Protected Leaf Helmet (5), Vine Net (5)
   - Quest: Lumberjack's Tools (5), New Style (10)
 
+### Glass
+
+See **Glass Bar**.
+
+### Glass Bar
+
+The game usually simply calls this **Glass**. I like to make sure I'm distinguishing between this and the dozen other Glass things, so I call 'em Glass Bars.
+
+- **Sources:** later game
+- **Used for:** Craft HOUSE: (multiple)
+
+### Gold
+
+See **Gold Bar**.
+
+### Gold Bar
+
+The game usually simply calls this **Gold**. Since I call the parallel things for Glass and Steel "Glass Bars" and "Steel Bars" respectively, I call these "Gold Bars" to be consistent.
+
+- **Sources:** later game
+- **Used for:** Craft HOUSE: Large Trunk and Small Trunk in Trinkets each require 1
+
 ### Golden Chest
 
 Appears in the Forest, but in a context that doesn't really apply until the Water Region is reached; I'm going to consider this spoiler territory for now.
@@ -169,19 +210,7 @@ See Hunt or regional Resource sections for details
 
 ### Hunter Tokens
 
-- **Hunt Sources:** 
-
-  Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
-
-  - Global Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4)
-  - LF Battles: Sassi (600 words for 6)
-  - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10)
-  - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
-  - later Hunt
-
-- **Sources Outside the Hunt:**
-
-  - See Hunt or regional Resource sections for details
+- **Sources:** See Hunt or regional Resource sections for details
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -239,14 +268,15 @@ See Hunt or regional Resource sections for details
 - **Best sources:** 
   - LF Quests:  Make Ink Sing (1), Make Words Sing (3), Make Attacks Sing (5)
 - **Other sources:** Craft
-- **Craft:** Note: CAN ONLY CRAFT **AFTER** completing the Make &#95;&#95;&#95; Sing series of LF quests. Then...
+- **Craft:** Note: CAN ONLY CRAFT **AFTER** completing the Make [X] Sing series of LF quests. Then...
   - MT Crafts & Trinkets/Alia of Air: 5 Essence, 5 Spider Poison, 3 Claws, 3 Dust
 - **Sell price:** 20 Coins (DO NOT SELL. Unless you somehow have >200.)
-- **Used for:** 
+- **Used for:** later game,
+  - Craft HOUSE: Leafsung Painted Fabric Carpet and Leafsung Painted Fabric Curtain in Furniture each require 1
   - Craft MT: Leafsung Boots (1), Leafsung Wooden Sword (1)
   - MT Quests: Leafsung Vial Creation (10), The Invisible Ink 5/5 (5)
 
-### Leafsung Key (Quest Reward Only)
+### Leafsung Key
 
 For later game. DO NOT SELL.
 
@@ -278,7 +308,8 @@ For later game. DO NOT SELL.
   - MT Wooden Chest: 3-8
 - **Buy:** 8 Coins in Item Shop/Alex's Shop
 - **Sell price:** 2 Coins (DO NOT SELL DO NOT SELL THERE IS NO SUCH THINGS AS TOO MANY LEAVES)
-- **Used for:** 
+- **Used for:** later game,
+  - Craft HOUSE: (multiple)
   - Craft LF: Leaf Boots (10), Spider Bow (5)
   - Craft MT: Leaf Helmet (15), Leaf Boots (10), Leaf Breastplate (25), Leafsung Boots (15), Lorsa Nest (6), Protected Leaf Helmet (20)
   - LF Battles: Rudakai (10)
@@ -333,15 +364,16 @@ For later game. DO NOT SELL.
 ### Raw Fabric
 
 - **Best sources:** Anywhere Battles: Xin (100 words for 0-1)
-- **Other sources:** 
+- **Other sources:** later game,
   - MT Battle: Assassin (1400 words for 1-2)
 - **Sell price:** 8 Coins (actually pretty good cash source at this point, but don't sell unless coins badly needed)
-- **Used for:** nothing yet
+- **Used for:** later game,
+  - Craft HOUSE: Materials: Fabric Roll (10), Woven Leaves Square (2)
 
 ### Raw Stone
 
 - **Best sources:** Anywhere Battles: Xin (100 words for 0-1) 
-- **Other sources:** MT Battles: Tambo (2000 words, 4 Rope, and 10 Leaves for 1-2)
+- **Other sources:** MT Battles: Tambo (2000 words, 4 Rope, and 10 Leaves for 1-2), later game
 - **Sell price:** 8 Coins (don't sell unless you have >100)
 - **Used for:** later game,
   - Craft LF: Wooden Fishing Rod (1)
@@ -372,6 +404,11 @@ For later game. DO NOT SELL.
 - **Sell price:** 30 Coins (best source of cash at this point, but don't sell unless coins badly needed)
 - **Used for:** nothing yet; see Water Resources or All Resources for more details
 
+### River Water
+
+- **Sources:** later game
+- **Used for:** Craft HOUSE: Boiling Cauldron in Furniture requires 10
+
 ### Rope
 
 - **Best sources:** 
@@ -387,6 +424,7 @@ For later game. DO NOT SELL.
 - **Buy:** MT Item Shop/Edrie's Market: 8 Coins
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
 - **Used for:** 
+  - Craft HOUSE: (multiple)
   - Craft LF: Leaf Boots (2), Spider Bow (1), Wood Hammer (3), Wooden Fishing Rod (1)
   - Craft MT: Leaf Boots (2), Lorsa Nest (5), Vine Net (5), Wood Hammer (3)
   - MT Battles: Tambo (4)
@@ -463,6 +501,18 @@ For later game. DO NOT SELL.
   - LF Quests: Save the Children (10), Make Ink Sing (10), Make Words Sing (10), Make Attacks Sing (15)
   - MT Quest: Warm Creature HIghlights 1/3 (5)
 
+### Steel
+
+See **Steel Bar**
+
+### Steel Bar
+
+The game usually simply calls this **Steel**. I like to make sure I'm distinguishing between this and the dozen other Steel things, so I call 'em Steel Bars.
+
+- **Sources:** later game
+- **Used for:** later game,
+  - Craft HOUSE: (multiple)
+
 ### Steel Dagger
 
 - **Best sources:** 
@@ -478,6 +528,17 @@ For later game. DO NOT SELL.
 - **Source:** Completing Mama Tree Main Quests
 - **Sell price:** 10 Coins (DON'T SELL; irreplaceable)
 - **Used for:** later game? Lore Item
+
+### Stone
+
+See **Stone Block**.
+
+### Stone Block
+
+The game usually simply calls this **Stone**. I like to make sure I'm distinguishing between this and the dozen other Stone things, so I call 'em Stone Blocks.
+
+- **Sources:** later game
+- **Used for:** Craft HOUSE: Stone Dandeleon in Nature requires 1
 
 ### Stone Key (Quest Reward Only)
 
@@ -508,6 +569,12 @@ For later game. DO NOT SELL.
 - **Used for:** equipping, later game
 - **Equip:** Weapon2: +2 Attack, +0 Defense, +0 Luck
 
+### White Fur
+
+- **Sources:** later game
+- **Used for:** later game,
+  - Hunt House Item (Hunt Shield Ornament requires 1)
+
 ### Wood
 
 - **Best sources:** 
@@ -522,6 +589,7 @@ For later game. DO NOT SELL.
 - **Buy:** 8 Coins in Item Shop/Alex's Shop 
 - **Sell price:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)
 - **Used for:** 
+  - Craft HOUSE: (multiple)
   - Craft LF: Spider Bow (5), Wood Hammer (15), Wood Sword (10), Wooden Fishing Rod (1)
   - Craft MT: Lorsa Nest (10), Wood Hammer (15), Wood Sword (10), Wooden Bow (5)
   - LF Quest: Building, Not Burning/Main Quest 2 (6)
@@ -563,6 +631,7 @@ See **Wooden Fishing Rod**.
 - **Buy:** 100 Coins in LF Item Shop/Alex's Shop OR MT Item Shop/ Edrie's Market
 - **Sell price:** 20 Coins (don't sell unless you have >50)
 - **Used for:** equipping; later game
+  - Craft HOUSE: Wooden Sword Wall Trophy in Furniture requires 1
   - Craft MT: Leafsung Wooden Sword (2)
 - **Equip:** Weapon1: +1 Attack, +0 Defense, +0 Luck
 
@@ -605,7 +674,7 @@ See **Wooden Fishing Rod**.
 also called "Wood Fishing Rod"
 
 - **Best sources:** Craft
-- **Other sources:** Buy
+- **Other sources:** Buy, later game
 - **Buy:** 50 Coins in LF Item Shop/Alex's Shop
 - **Craft:** LF Crafts & Trinkets/Kyiat's Shop: 1 Wood, 1 Rope, 1 Raw Stone
 - **Sell price:** 5 Coins (Don't sell, not worth it)
@@ -624,3 +693,16 @@ also called "Wood Fishing Rod"
   - With Wooden Chest in LF, drops 1-6 Rope, 1-3 Leaves, 1-3 Wood Sword, 9-18 Coins, 0-2 Leaf Boots, 1 Leaf Helmet, 0-1 Leaf Breastplate, 1-3 Spider Poison
   - With Wooden Chest in MT, drops 3-9 Rope, 2-7 Wood, 3-8 Leaves, 1-3 Vine Nets, 2-4 Wood Sword, 1-2 Rusty Pendant, 15-46 Coins, 2-4 Leaf Boots, 1 Spider Bow, 1 Wood Spear, 1 Old Staff
 
+### Wooden Plank
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins and 10 Wood
+- **Sell price:** 50 Coins (it might be a better sell price than the Wood alone, but it's a waste of Wood and Coins to sell this once made)
+- **Used for:** Craft HOUSE: (multiple)
+
+### Woven Leaves Square
+
+- **Sources:** Craft
+- **Craft:** HOUSE Element Store: 2 Coins, 20 Leaves, 4 Rope, and 2 Raw Fabric
+- **Sell price:** 50 Coins (20 Leaves and 4 Rope didn't give up their existence so you could sell this off. Unless you're really short on Coins and see no use for it.)
+- **Used for:** Craft HOUSE: (multiple)

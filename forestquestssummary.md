@@ -709,7 +709,7 @@ see **Luciola Lanterns**
 - **Type:** Battle
 - **Requirements:** Defeat 6 Nitana
 - **Rewards:** 10 Hunter Tokens
-- **Recommendations:** On the off chance that you reach this before you've completed the third Main Quest in Luciola Forest: this combines well with that. Start this after you finish the Kyiat's Bridge quest. If you're further along, this combines well with the Mama Tree Sidequest Fair, Standard, Middling (or, if you just like Nitana, don't worry about this and keep going).
+- **Recommendations:** This combines well with the Mama Tree Sidequest Fair, Standard, Middling (or, if you just like Nitana, don't worry about this and keep going).
 
 ### Proving Your Mettle 5/6 - HuntS1
 

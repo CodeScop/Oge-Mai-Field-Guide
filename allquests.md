@@ -651,7 +651,7 @@ NOTE: To trigger the PG Main Quests, you will have to pick up the first one as i
 
 # Side Quests, in Alphabetical Order: 00-E
 
-LAST UPDATED 10 FEB 2021
+LAST UPDATED 22 FEB 2021
 
 ### 100 Minds to Explore - CAVE
 
@@ -1232,6 +1232,15 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Requirements:** Have Hunt Map Piece 11 and attain 7-day Streak
 - **Rewards:** Wardrobe: Hunt Facepaint Eye Stroke https://4thewords.com/media/wardrobe/featured/male/wm_666-hunt-facepaint-eye-stroke-4035-59139.png 
 - **Recommendations:** We're continuing on, and we're gonna make it. Almost to the end of the Hunt Map Piece collecting/turning in!
+
+###Celebrate Stories
+
+- **Location:** Elder Library
+- **Unlocked by:** HuntS4 Quest: Still Missing Something
+- **Type:** Wordcount
+- **Requirements:** Write 5000 words
+- **Rewards:** 10 Core Crystals, 10 Reactions: Celebrate, 10 Reactions: For The Valley!
+- **Recommendations:**  10 CORE CRYSTALS. FOR 5K WORDS. GET. THIS. NOW.
 
 ### Change To See - HuntS3
 
@@ -3204,7 +3213,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Type:** Battle
 - **Requirements:** Defeat 6 Nitana
 - **Rewards:** 10 Hunter Tokens
-- **Recommendations:** On the off chance that you reach this before you've completed the third Main Quest in Luciola Forest: this combines well with that. Start this after you finish the Kyiat's Bridge quest. If you're further along, this combines well with the Mama Tree Sidequest Fair, Standard, Middling (or, if you just like Nitana, don't worry about this and keep going).
+- **Recommendations:** This combines well with the Mama Tree Sidequest Fair, Standard, Middling (or, if you just like Nitana, don't worry about this and keep going).
 
 ###Proving Your Friendship
 
@@ -4136,7 +4145,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 # Side Quests, in Alphabetical Order: T-Z
 
-LAST UPDATED 10 FEB 2020
+LAST UPDATED 14 FEB 2020
 
 ### Tailor - 3PC
 
@@ -4542,17 +4551,8 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
 - **Type:** Collection
 - **Requirements:** Deliver 50 Swamp Moss
-- **Rewards:** 15 Hunter Tokens
-- **Recommendations:** Swamp Moss is available in the deeper parts of Raina, if you have trouble finding it. And while I wouldn't belabor myself to fill this up, it's a nice use for the Swamp Moss one tends to accumulate in Raina.
-
-###The Winding Path to Elder Library - MT
-
-- **Location:** Mama Tree
-- **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • **The Winding Path to Elder Library** • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
-- **Type:** Battle
-- **Requirements:** Defeat 3 Tylu and 3 Illi
-- **Rewards:** Unlock Elder Library; 100 Coins
-- **Recommendations:** This is your first step into a larger world. Elder Library is the first Expedition area you can unlock - an area with quests, loot, and monsters independent of the main quests. And Elder Library hosts the Hunt for the Ancients, a perpetually-updating event with tons of fun quests and wardrobe and house items... DO THIS when you can! (And see if you can combine it with A Family Tree, if that interests you in the slightest.)
+- **Rewards:** 15 Hunter Tokens & 10 Wooden Fishing Rods
+- **Recommendations:** Swamp Moss is available in the deeper parts of Raina, if you have trouble finding it. And while I wouldn't belabor myself to fill this up, it's a nice use for the Swamp Moss one tends to accumulate in Raina. The Wooden Fishing Rods are GREAT!
 
 ### White Coat - Gansu
 
@@ -4562,6 +4562,15 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 - **Requirements:** Collect 10 White Fur
 - **Rewards:** 3 Stempos
 - **Recommendations:** Same as with Sacred Feathers, if you're seeing this when you first get to Gansu and wondering how you do it, Step 1 is "get to the third Main Quest in Gansu". That's what makes Suulan available. They're very reliable about dropping White Fur, so you'll need a fairly predictable 5-10 Steel Daggers and 10,000 words to beat this quest, but I'd save it till after you're done with the rest of Gansu and its various White Fur needs. (Also, be aware that coming back to this after you reach the Dust Region will give you more options for White Fur sources.)
+
+###The Winding Path to Elder Library - MT
+
+- **Location:** Mama Tree
+- **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • **The Winding Path to Elder Library** • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
+- **Type:** Battle
+- **Requirements:** Defeat 3 Tylu and 3 Illi
+- **Rewards:** Unlock Elder Library; 100 Coins
+- **Recommendations:** This is your first step into a larger world. Elder Library is the first Expedition area you can unlock - an area with quests, loot, and monsters independent of the main quests. And Elder Library hosts the Hunt for the Ancients, a perpetually-updating event with tons of fun quests and wardrobe and house items... DO THIS when you can! (And see if you can combine it with A Family Tree, if that interests you in the slightest.)
 
 ### Withdrawing West - Ruins
 
