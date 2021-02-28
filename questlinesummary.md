@@ -1,4 +1,4 @@
-LAST UPDATED 22 FEB 2021
+LAST UPDATED 27 FEB 2021
 
 Note: This is just a quick list/summary. See the relevant region summary Sidequest list for full details.
 
@@ -467,9 +467,15 @@ The 2021 Hunt for the Ancients opened with a new set of quests unlocked by The C
 - HuntS1.2 Into Forest Depths 1/3 - deliver a few Forest Expedition materials, fight a bunch of Forest Expedition monsters, get 25 Hunter Tokens
   - HuntS1.2 Into Forest Depths 2/3 - deliver a few Forest Expedition materials, fight a bunch of deeper Forest Expedition monsters, get Wardrobe: Hunt Facemask
     - HuntS1.2 Into Forest Depths 3/3 - deliver a few Forest Expedition materials, fight a bunch of EVEN DEEPER Forest Expedition monsters, get 10 Hunter Tokens and House Item: Hunt Shield
-- HuntS1.2 A Secret Plan? - defeat 3 Assassins and 1 Villager, get Wardrobe: Hunt Eyepatch
-- HuntS1.2 Curator's Catalog Collections - deliver a bunch of Forest materials, get 25 Hunter Tokens
+- HuntS1.2 Curator's Catalog Collections 1/2 - deliver a bunch of Forest materials, get 25 Hunter Tokens
+  - HuntS1.2 Curator's Catalog Cache 2/2 - deliver a bunch of Forest (especially Expedition) materials, get 25 Hunter Tokens
+- HuntS1.2 Base Camp Clearing Duty - Defeat 3 Xuso, 10 Sacer, and 5 Kaija, get 25 Hunter Tokens
+- HuntS1.2 Dynamic Disappearing Duo - Defeat 2 Rudakai and 2 Wignow, get 25 Hunter Tokens
 - HuntS1.2 Familiar Assistants Needed! - defeat 4 each Sassi, Alnu, Burocat, and Clawadin, get Wardrobe: Hunt Aging Beard
+- HuntS1.2 Great Library Cleanup! - defeat 4 Illi and 6 Kuay, get 15 Hunter Tokens
+- HuntS1.2 A Secret Plan? - defeat 3 Assassins and 1 Villager, get Wardrobe: Hunt Eyepatch
+- HuntS1.2 Sticky, Sweet, and Alluring - defeat 15 Reenu and 5 Nitana, get 15 Hunter Tokens
+- HuntS1.2 Tallest of Trees - Defeat 10 Buhini, 10 Buhovi, and 3 Buholi, get 10 Hunter Tokens and Wardrobe: Hunt Earrings Sword Shield
 - HuntS1.2 Velt's Relaxation Method - defeat 1 each Maikilie, Buholi, Oncaiii, and Nezthai, get 25 Hunter Tokens
 - HuntS1.2 Velts' Strong Start - reach 10-day Streak, write 10000 words, defeat 1 Tambo, get 2 Stempos and Wardrobe: Hunt Aging Eyebrows
 

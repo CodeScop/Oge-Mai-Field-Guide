@@ -1,6 +1,6 @@
-LAST UPDATED 10 JAN 2020
+LAST UPDATED 26 FEB 2021
 
-Welcome to my first experimental miniguide! The information in this guide is almost all identical to the info in my Oge Mai Field Guide (https://4thewords.com/read-oge-mai-field-guide-by-kirala), but I'm endeavoring to present it in a way that's a bit easier to read and access.
+Welcome to my first experimental miniguide! The content in this guide is almost all identical to the info in my Oge Mai Field Guide (https://4thewords.com/read-oge-mai-field-guide-by-kirala), but I'm endeavoring to present it in a way that's a bit easier to read and access.
 
 If you want to avoid all spoilers and just work your way through the Hunt, please continue to the next section once you're done with this paragraph! I endeavor to keep all info divided out so that you can start with the Hunt Intro, then move on to Season 1, then Season 2, etc, without spoiling yourself for future Hunt information.
 
