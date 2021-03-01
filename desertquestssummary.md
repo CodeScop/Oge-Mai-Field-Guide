@@ -186,7 +186,7 @@ NOTE: All Hunt quests are picked up in Elder Library, regardless of what Region 
 
 # Side Quests, in Alphabetical Order: A-M
 
-LAST UPDATED 10 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 ### Aid the Aliens - SpaceS
 
@@ -331,6 +331,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Requirements:** Write 4K words and collect Hunt Map Piece 4
 - **Rewards:** Wardrobe: Tall Fur Boots
 - **Recommendations:** This is basically "unlock next level" with a few nice shinies. I recommend.
+
+###Base Camp Clearing Duty  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Battle Experience - Gansu
 
@@ -589,6 +594,16 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 - **Location:** Elder Library
 - **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • **The Curator of Elder Library** • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 
+###Curator's Catalog Cache 2/2  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • **Curator's Catalog Cache 2/2**
+
+###Curator's Catalog Collections 1/2  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Curator's Catalog Collections** • HuntS1.2 Curator's Catalog Cache 2/2
+
 ### Curator's Family - HuntS1
 
 - **Location:** Elder Library
@@ -708,6 +723,11 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 - **Rewards:** 3 Stempos & Wardrobe: Miner Hat https://4thewords.com/media/wardrobe/featured/male/wm&#95;featured&#95;miner&#95;helmet&#95;light&#95;off.png
 - **Recommendations:** There are a lot of quests here that need no extra recommendations, so here's a boilerplate to say this is one of them. :)
 
+###Dynamic Disappearing Duo  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
 ### Eat the Leaves? - GL
 
 - **Location:** Guardian's Lair
@@ -789,6 +809,11 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 
 - **Location:** Mama Tree
 - **Unlocked by:** LF MQ4
+
+###Familiar Assistants Needed!  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### A Family Tree - MT
 
@@ -911,6 +936,11 @@ see **Lead the Way**
 - **Rewards:** 5 Stone Blocks, 5 Sandstone Blocks, 3 Raw Gold
 - **Recommendations:** I have a sneaking suspicion those rewards will look a lot more generous when we have houses. Meanwhile, it's up to you if it's worth it!
 
+###Great Library Cleanup!  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
 ### Green Be Gone! - ShrineCO
 
 - **Location:** Shrine of Ages
@@ -1026,6 +1056,21 @@ Note: NOT POSSIBLE to complete till Riza Rivertown is unlocked
 
 - **Location:** Mama Tree
 - **Quest Path Route:** (open via MT MQ 4/ Aid To An Elder) • MT Tinkering With Leafsung (1/5) • MT Inking By Number (2/5) • **Inking of Dust (3/5)** • MT Thinking of Ink (4/5) • MT Invisible Ink (5/5)
+
+###Into Forest Depths 1/3  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Into Forest Depths 1/3** • HuntS1.2 Into Forest Depths 2/3 • HuntS1.2 Into Forest Depths 3/3 
+
+###Into Forest Depths 2/3  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Into Forest Depths 1/3 • **Into Forest Depths 2/3** • HuntS1.2 Into Forest Depths 3/3 
+
+###Into Forest Depths 3/3  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Into Forest Depths 1/3 • HuntS1.2 Into Forest Depths 2/3 • **Into Forest Depths 3/3**
 
 ### The Invisible Ink (5/5) - MT
 
@@ -1253,7 +1298,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 #Side Quests, in Alphabetical Order: N-Z
 
-LAST UPDATED 10 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 ### Nabia's Exploration - BC
 
@@ -1636,6 +1681,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Rewards:** 100 Hunter Tokens
 - **Recommendations:** That's 100 Hunter Tokens. That's quite a bit. (Although I'd detour to Mama Tree to fight the Villager, since it's cheaper there.) Go for it! Pro tip: if you haven't finished the Desert yet, you've got plenty of Bruja, Kiru, and Yasri ahead of you; don't go out of your way to fight them. Grult doesn't appear in any other quests, though (apart from Hunt quests).
 
+###A Secret Plan?  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
 ### Seeing a Sequence - ShrineGO
 
 - **Location:** Shrine of Ages
@@ -1801,6 +1851,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Rewards:** 25 Shrine Stones
 - **Recommendations:** This is the second-easiest quest in this area, and you'll end up with 75 Shrine Stones including the ones you net from battles. Go for it!
 
+###Sticky, Sweet, and Alluring  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
 ### Stone City Chaos - SC
 
 - **Location:** Stone City
@@ -1943,6 +1998,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Requirements:** Collect 30 Red Dye
 - **Rewards:**1 Fabric Boots, 3 Stone Keys, 1 Stempo
 - **Recommendations:** Definitely do this, but I wouldn't actively pursue it till you're done with the Three Points Crossing Main Quests. Red Dye tends to slowly accumulate as you play, and you'll get a better feel for the best sources as you work your way around the Desert. (Oh, and if you're wondering what Stone Keys are… they're Keys, what more do you need to know right now???)
+
+###Tallest of Trees  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Tears and Feathers - ShrineCar
 
@@ -2094,6 +2154,16 @@ Monsters and Resources listed here will not be linked with this quest outside th
 - **Requirements:** Defeat 1 each: Attleas, Shashi, Imali
 - **Rewards:** 25 Hunter Tokens
 - **Recommendations:** This is possibly the easiest way to get Hunter Tokens by battling creatures. And the sheep are so cute. Totally worth it.
+
+###Velts' Relaxation Method  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
+###Velts' Strong Start  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Wandering We Go - HuntS2
 

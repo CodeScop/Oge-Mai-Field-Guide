@@ -179,7 +179,7 @@ NOTE: All Hunt quests are picked up in Elder Library, regardless of what Region 
 
 # Side Quests, in Alphabetical Order A-M
 
-LAST UPDATED 10 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 ### 4 the Infected - SurfaceC
 
@@ -332,6 +332,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Requirements:** Gather 35 River Stones
 - **Rewards:** 2 Stone Keys
 - **Recommendations:** Grab it! The Floating City of Balance has places to get River Stones more easily than Riza; it's worth the effort.
+
+###Base Camp Clearing Duty  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Battle Experience - Gansu
 
@@ -579,6 +584,16 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 - **Location:** Elder Library
 - **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • **The Curator of Elder Library** • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 
+###Curator's Catalog Cache 2/2  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • **Curator's Catalog Cache 2/2**
+
+###Curator's Catalog Collections 1/2  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Curator's Catalog Collections** • HuntS1.2 Curator's Catalog Cache 2/2
+
 ### Curator's Family - HuntS1
 
 - **Location:** Elder Library
@@ -699,6 +714,11 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 - **Location:** Mining Site
 - **Unlocked by:** Alien Expedition Trail: SpaceS Technology & Dinti
 
+###Dynamic Disappearing Duo  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
 ### Eat the Leaves? - GL
 
 - **Location:** Guardian's Lair
@@ -766,6 +786,11 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 
 - **Location:** Mama Tree
 - **Unlocked by:** LF MQ4
+
+###Familiar Assistants Needed!  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### A Family Tree - MT
 
@@ -885,6 +910,11 @@ see **Lead the Way**
 
 - **Location:** Underground Ruins
 - **Unlocked by:** Desert Expedition Trail: DigS Question to Axe
+
+###Great Library Cleanup!  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Green Be Gone! - ShrineCO
 
@@ -1065,6 +1095,21 @@ Note: NOT POSSIBLE to complete till Riza Rivertown is unlocked
 - **Requirements:** Defeat 20 Puna
 - **Rewards:** 15 Hunter Tokens & Hunt Map Piece 9
 - **Recommendations:** The trend continues! Once again, the quest to get Hunt Map Piece 9 does not depend on the quest to get Hunt Map Piece 8. (One of my test accounts is in the interesting position of possessing Hunt Map Piece 9 and not 8.) Still, you'll need this to keep the main Hunt line going, so I suppose it's worth the Puna. (There are approximately 423,293,478 Puna quests in the game, and after completing all of them, I'm rather tired of the fishies. For those who have not completed them, I recommend checking out what quests overlap, especially in Balance.)
+
+###Into Forest Depths 1/3  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Into Forest Depths 1/3** • HuntS1.2 Into Forest Depths 2/3 • HuntS1.2 Into Forest Depths 3/3 
+
+###Into Forest Depths 2/3  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Into Forest Depths 1/3 • **Into Forest Depths 2/3** • HuntS1.2 Into Forest Depths 3/3 
+
+###Into Forest Depths 3/3  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Into Forest Depths 1/3 • HuntS1.2 Into Forest Depths 2/3 • **Into Forest Depths 3/3**
 
 ### The Invisible Ink (5/5) - MT
 
@@ -1274,7 +1319,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 # Side Quests, in Alphabetical Order N-Z
 
-LAST UPDATED 14 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 ### Nabia's Exploration - BC
 
@@ -1684,6 +1729,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
+###A Secret Plan?  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
 ### Seeding New Beginnings (1/3) - SacredS
 
 - **Location:** Raina Sacred Site
@@ -1874,6 +1924,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Shrine of Ages
 - **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Giants Time Bracelet
 
+###Sticky, Sweet, and Alluring  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
 ### Stingy Surprise - Balance
 
 - **Location:** Floating City of Balance
@@ -1969,6 +2024,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Three Points Crossing
 - **Unlocked by:** MT MQ4
+
+###Tallest of Trees  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Tambo Snacks - Balance
 
@@ -2111,6 +2171,16 @@ Monsters and Resources listed here will not be linked with this quest outside th
 
 - **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 No Wrong Path
+
+###Velts' Relaxation Method  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
+###Velts' Strong Start  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Venomous Villains - Balance
 

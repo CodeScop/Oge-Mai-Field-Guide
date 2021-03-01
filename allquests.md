@@ -649,9 +649,9 @@ NOTE: To trigger the PG Main Quests, you will have to pick up the first one as i
 - **Rewards:** Wardrobe: Translucid Chest https://4thewords.com/media/wardrobe/featured/male/wm&#95;1277-translucid-chest-8970-17166.png
 - **Recommendations:** Guess what? REFLECTION STAYS. (And the crowds rejoiced!) You do NOT have to worry about milking them to the last drop. In fact, once you turn in this quest, you'll unlock a sidequest fighting Reflections, so don't fight more than one before turning this in.
 
-# Side Quests, in Alphabetical Order: 00-E
+# Side Quests, in Alphabetical Order: 00-C
 
-LAST UPDATED 22 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 ### 100 Minds to Explore - CAVE
 
@@ -890,6 +890,15 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Requirements:** Gather 35 River Stones
 - **Rewards:** 2 Stone Keys
 - **Recommendations:** Grab it! The Floating City of Balance has places to get River Stones more easily than Riza; it's worth the effort.
+
+###Base Camp Clearing Duty  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 3 Xuso, 10 Sacer, and 5 Kaija
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:**  This'll help you get the Saliva Vials for the Curator quest part 2, and dovetails well with Into Forest Depths.
 
 ###A Battle of Celebration - HuntS4
 
@@ -1448,6 +1457,24 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 - **Rewards:** Wardrobe: Sassi Pet [https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;sassi&#95;pet.png](https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;sassi&#95;pet.png)
 - **Recommendations:** HOW. HOW CAN YOU NOT. KITTY! (... and, y'know, unlocking subsequent Seasons of the Hunt. But. KITTY!)
 
+###Curator's Catalog Cache 2/2  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • **Curator's Catalog Cache 2/2**
+- **Type:** Collection
+- **Requirements:** Deliver 5 each Nezthai Claws, Saliva Vials, Gobkey Trinkets, and Rusty Pendants
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:**  Huh, hadn't figured that there would be a series with these collection quests. (Note that when Part 1 came out, it wasn't labeled as such.) The Gobkey Trinkets are easy to get, and the Rusty Pendants will gradually accrue as you open chests in Mama Tree (with decent Luck); Saliva Vials are easy to farm but increasingly widely used, and Nezthai Claws are something you'll already need quite a few of to complete all the quests this round. But if that's not off-putting, go for it!
+
+###Curator's Catalog Collections 1/2  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Curator's Catalog Collections** • HuntS1.2 Curator's Catalog Cache 2/2
+- **Type:** Collection
+- **Requirements:** Deliver 3 Essence, 1 Spider Poison, 3 Lorsa Fur, 1 Tambo Mane, and 5 Claws
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:**  This is mostly "put excess materials to good use", in my book; a lot of these materials will have been gathered with the quests to break into the Elder Library, so hurrah to that having a use for even experienced Hunt followers! (Also: chain, so weigh the benefits of the sequels.)
+
 ### Curator's Family - HuntS1
 
 - **Location:** Elder Library 
@@ -1519,6 +1546,10 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 - **Requirements:** Defeat 4 Afeppti
 - **Rewards:** 25 Shrine Stones
 - **Recommendations:** They really are cute confetti cannons, aren't they? Up to you how interested you are!
+
+# Side Quests, in Alphabetical Order: D-G
+
+LAST UPDATED 28 FEB 2021
 
 ### Daily: Monster Hunter
 
@@ -1749,6 +1780,15 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 - **Rewards:** 3 Leafsung Ink
 - **Recommendations:** If you're gonna do it, pick it up as soon as it appears and dovetail it with Nasty, Dust Air. But there are better ways to get Leafsung Ink these days (such as the Mama Tree Bite My Boots! quest...)
 
+###Dynamic Disappearing Duo  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 2 Rudakai and 2 Wignow
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:**  At the moment, I'd say the quest needs to be evaluated on aesthetic grounds, because on mercenary grounds it's useless, but it's kinda fun to beat up on the monsters that steal boots in the lore (Wignow) as well as the monsters that actually cost boots to fight (Rudakai).
+
 ### Eat the Leaves? - GL
 
 - **Location:** Guardian's Lair
@@ -1869,10 +1909,6 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 - **Rewards:** 1 Gold Bar & 1 Glass Bar
 - **Recommendations:** Go ahead and pick it up immediately! Nothing to lose, a Gold Bar and Glass Bar to gain. This is currently the only Streak quest in the game, too.
 
-# Side Quests, in Alphabetical Order: F-M
-
-LAST UPDATED 10 FEB 2021
-
 ### Fair, Standard, Middling - MT
 
 - **Location:** Mama Tree
@@ -1881,6 +1917,15 @@ LAST UPDATED 10 FEB 2021
 - **Requirements:** Defeat 25 Nitana, 25 Castu, 25 Rulo, 25 Illi, and 25 Tylu (all 400-700 word monsters)
 - **Rewards:** Wardrobe: Expedition Tylu Belt
 - **Recommendations:** This is a long-term quest that can't be completed until you get halfway through the main quest sequence in the Floating City of Balance, which is a long ways away. These monsters are all over Oge-Mai, not just the Forest Region. If you want to pick up the quest now so that any battles you have against the appropriate creatures count, go ahead; however, this may be worth saving until you run out of other things to do in the entire game, especially since the only reward is essentially bragging rights and a wardrobe item.
+
+###Familiar Assistants Needed!  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 4 each Sassi, Alnu, Burocat, and Clawadin
+- **Rewards:** Wardrobe: Hunt Aging Beard https://4thewords.com/media/wardrobe/featured/male/wm&#95;1526-hunt-aging-beard-10389-52135.png
+- **Recommendations:**  This one REALLY feels like an optional sidequest!
 
 ### Familiar Family Friends - DFO
 
@@ -2145,6 +2190,15 @@ see **Lead the Way**
 - **Rewards:** 5 Stone Blocks, 5 Sandstone Blocks, 3 Raw Gold
 - **Recommendations:** I have a sneaking suspicion those rewards will look a lot more generous when we have houses. Meanwhile, it's up to you if it's worth it!
 
+###Great Library Cleanup!  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 4 Illi and 6 Kuay
+- **Rewards:** 15 Hunter Tokens
+- **Recommendations:**  These are great sources of Rope and Wood, so you'll get something out of this quest other than the prize (Illi has a few quests you'll overlap with, also), but maybe wait till one or both are dropping Hunter Tokens to make this truly profitable.
+
 ### Green Be Gone! - ShrineCO
 
 - **Location:** Shrine of Ages
@@ -2270,6 +2324,10 @@ NOTE: This quest isn't possible to complete until you reach Riza Rivertown.
 - **Requirements:** Defeat 4 Czanus
 - **Rewards:** Hunt Map Piece 4, 5 Hunter Tokens
 - **Recommendations:** This is (per history) going to end up being basically required to progress in the Hunt. Go ahead for it!
+
+# Side Quests, in Alphabetical Order: H-M
+
+LAST UPDATED 28 FEB 2021
 
 ### A Happy Prickle - IC
 
@@ -2425,6 +2483,33 @@ Note: NOT POSSIBLE to complete till Riza Rivertown is unlocked
 - **Requirements:** Defeat 20 Puna
 - **Rewards:** 15 Hunter Tokens & Hunt Map Piece 9
 - **Recommendations:** The trend continues! Once again, the quest to get Hunt Map Piece 9 does not depend on the quest to get Hunt Map Piece 8. (One of my test accounts is in the interesting position of possessing Hunt Map Piece 9 and not 8.) Still, you'll need this to keep the main Hunt line going, so I suppose it's worth the Puna. (There are approximately 423,293,478 Puna quests in the game, and after completing all of them, I'm rather tired of the fishies. For those who have not completed them, I recommend checking out what quests overlap, especially in Balance.)
+
+###Into Forest Depths 1/3  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Into Forest Depths 1/3** • HuntS1.2 Into Forest Depths 2/3 • HuntS1.2 Into Forest Depths 3/3 
+- **Type:** Collection, Battle
+- **Requirements:** Deliver 2 Saliva Vials and 2 Dandeleon Flowers, and defeat 3 Kaija, 3 Xuso, 5 Ardia, 5 Ardii, and 5 Ardis
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:**  You won't need to focus on Saliva Vials, since they'll pop up anyway while you're battling Kaija; if you've lost track, these monsters can be found entirely within Base Camp and Forward Base (or you can skip FB and battle Ardi-beasts in Mama Tree, if you've done the FB quest unlocking them!) Note that this dovetails well with the quest Base Camp Clearing Duty, if you haven't finished it yet.
+
+###Into Forest Depths 2/3  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Into Forest Depths 1/3 • **Into Forest Depths 2/3** • HuntS1.2 Into Forest Depths 3/3 
+- **Type:** Collection, Battle
+- **Requirements:** Deliver 5 Dinti and 1 Spider Poison; defeat 5 Reudod, 3 Oncaiii, and 1 Finoir
+- **Rewards:** Wardrobe: Hunt Facemask https://4thewords.com/media/wardrobe/featured/male/wm&#95;1534-hunt-neck-guard-10523-15955.png
+- **Recommendations:**  Here, we move from BC and FB to Stone City and Tall Trees. The Spider Poison will pop up when you fight Oncaiii anyway; you will get some Dinti from Finoir, but might want to fight its tiny Scofin cousins to rack up more. (Or you might have plenty from the Alien Expedition.)
+
+###Into Forest Depths 3/3  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Into Forest Depths 1/3 • HuntS1.2 Into Forest Depths 2/3 • **Into Forest Depths 3/3**
+- **Type:** Collection, Battle
+- **Requirements:** Deliver 2 Gobkey Trinkets, 2 Dandeleon Flowers, and 2 Essence; defeat 5 Gobkey, 5 Dandeleon, and 5 Maikile
+- **Rewards:** 10 Hunter Tokens and House Item: Hunt Shield Ornament https://4thewords.com/public/hideouts/hideout&#95;element&#95;322&#95;30102/variant&#95;icon&#95;1197&#95;737.png 
+- **Recommendations:**  Hey, first House Item reward!!! (It can also be crafted in the Hunter Token Store if you want a more detailed look at it.) You'll definitely get all your resources during your battles, which are largely in Guardian's Lair. (I wonder if the Forward-Base-dwelling Dandeleon was originally a Guardian's-Lair-dwelling Night Dandeleon? If so, the switch was kind to users; Night Dandeleons disappear during the day, but their cousins are available 24/7.)
 
 ### Into the Woods - HuntS4
 
@@ -3436,7 +3521,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 # Side Quests, in Alphabetical Order: S
 
-LAST UPDATED 10 FEB 2020
+LAST UPDATED 28 FEB 2020
 
 ### Sacred Feathers - Gansu
 
@@ -3563,6 +3648,15 @@ LAST UPDATED 10 FEB 2020
 - **Requirements:** Write 2020 words
 - **Rewards:** 5 Hunter Tokens
 - **Recommendations:** Pick it up and have it fill itself in the background. Easy-peasy.
+
+###A Secret Plan?  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 3 Assassins & 1 Villager
+- **Rewards:** Wardrobe: Hunt Eyepatch https://4thewords.com/media/wardrobe/featured/male/wm&#95;1532-hunt-cloth-eyepatch-10480-77717.png
+- **Recommendations:**  Here, I'm torn between "this feels like a throwaway quest" and "but the lore hints sound important!" I'll just settle for "hey, look, Assassins drop lots of nifty things and make sure you fight the Villager in Mama Tree, where it won't cost you!"
 
 ### A Season to Explore - HuntS2
 
@@ -3940,6 +4034,15 @@ LAST UPDATED 10 FEB 2020
 - **Rewards:** 25 Shrine Stones
 - **Recommendations:** This is the second-easiest quest in this area, and you'll end up with 75 Shrine Stones including the ones you net from battles. Go for it!
 
+###Sticky, Sweet, and Alluring  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 15 Reenu and 5 Nitana
+- **Rewards:** 15 Hunter Tokens
+- **Recommendations:**  For the love of the flight (convenient that this quest is released when flying monsters are dropping Hunter Tokens!) Go for it!
+
 ###Still Missing Something - HuntS4
 
 - **Location:** Elder Library
@@ -4145,7 +4248,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 # Side Quests, in Alphabetical Order: T-Z
 
-LAST UPDATED 14 FEB 2020
+LAST UPDATED 28 FEB 2020
 
 ### Tailor - 3PC
 
@@ -4155,6 +4258,15 @@ LAST UPDATED 14 FEB 2020
 - **Requirements:** Collect 30 Red Dye
 - **Rewards:**1 Fabric Boots, 3 Stone Keys, 1 Stempo
 - **Recommendations:** Definitely do this, but I wouldn't actively pursue it till you're done with the Three Points Crossing Main Quests. Red Dye tends to slowly accumulate as you play, and you'll get a better feel for the best sources as you work your way around the Desert. (Oh, and if you're wondering what Stone Keys are… they're Keys, what more do you need to know right now???)
+
+###Tallest of Trees  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 10 Buhini, 5 Buhovi and 3 Buholi
+- **Rewards:** 10 Hunter Tokens and Wardrobe: Hunt Earrings Sword Shield https://4thewords.com/media/wardrobe/featured/female/wf&#95;1588-hunt-earings-sword-shield-11798-73484.png 
+- **Recommendations:**  Bear in mind that you'll need 29 Nezthai Claws to complete this, which will probably mean 20-25 Nezthai battles as well, few of which will involve other quests. On the other hand, you get those really nifty earrings (you can switch which ear gets which earring, too, although it always has to be both and they always have to be different). Make sure there aren't any Buh-beast quests you want to do at the same time!
 
 ### Tambo Snacks - Balance
 
@@ -4404,6 +4516,24 @@ LAST UPDATED 14 FEB 2020
 - **Requirements:** Defeat 1 each: Attleas, Shashi, Imali
 - **Rewards:** 25 Hunter Tokens
 - **Recommendations:** This is possibly the easiest way to get Hunter Tokens by battling creatures. And the sheep are so cute. Totally worth it.
+
+###Velts' Relaxation Method  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 1 Maikile, 1 Buholi, 1 Oncaiii, and 1 Nezthai
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:**  I suspect this is not all that important, but it's a nice way to make things count double!
+
+###Velts' Strong Start  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Streak, Wordcount, Battle
+- **Requirements:** Reach 10-day Streak, write 10000 words, defeat 1 Tambo
+- **Rewards:** 2 Stempos and Wardrobe: Hunt Aging Eyebrows https://4thewords.com/media/wardrobe/featured/male/wm&#95;1529-hunt-aging-eyebrows-10437-30092.png
+- **Recommendations:**  My *guess* (emphasis on "guess") is that this will be the start of another Velts chain for this season, so I'm happy to get it out of the way. Curious if my guess holds up!
 
 ### Venomous Villains - Balance
 

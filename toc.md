@@ -1,4 +1,4 @@
- (Table of Contents last updated 13 Feb 2021)
+ (Table of Contents last updated 28 Feb 2021)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -334,8 +334,9 @@
     - Questline - Hunt for the Ancients - Season 4
 - All Quests
   - All Main Quests, in Order of Unlocking
-  - All Side Quests, in Alphabetical Order: 00-E
-  - All Side Quests, in Alphabetical Order: F-M
+  - All Side Quests, in Alphabetical Order: 00-C
+  - All Side Quests, in Alphabetical Order: D-G
+  - All Side Quests, in Alphabetical Order: H-M
   - All Side Quests, in Alphabetical Order: N-R
   - All Side Quests, in Alphabetical Order: S
   - All Side Quests, in Alphabetical Order: T-Z

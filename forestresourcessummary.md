@@ -1,8 +1,8 @@
-LAST UPDATED 16 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 Here are ALL THE THINGS available in the Forest. LF is Luciola Forest. MT is Mama Tree. HuntS1 is Hunt for the Ancients Season 1. And for the Expedition...
 
-BC is Base Camp, FB is Forward Base, SC is Stone City, TT is Tall Trees, and GL is Guardian's Lair. Good luck keeping them straight!
+EldLib is Elder Library, BC is Base Camp, FB is Forward Base, SC is Stone City, TT is Tall Trees, and GL is Guardian's Lair. Good luck keeping them straight!
 
 ### Core Crystals
 
@@ -22,6 +22,7 @@ BC is Base Camp, FB is Forward Base, SC is Stone City, TT is Tall Trees, and GL 
   - LF Wooden Chest: 9-18 per chest/key
   - MT Wooden Chest: 15-46 per chest/key
   - MT Battles: Vanstra (3 minutes for 2-8), Villager (1300 words for 3-7), Villager (1300 words for 3-7), Burocat (1000 words for 1-6)
+  - EldLib Battles: Burocat (1000 words for 1-6)
   - GL Battles: Gobkey (400 words for 0-2)
   - Anywhere Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
   - MT Quests: A Family Tree (50), Written Accounts (100), The Winding Path to Elder Library (100)
@@ -73,6 +74,7 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
 - **Sources:** 
   - FB, MT Battles: Ardis (70 words for 1)
   - MT Battles: Velts (800 words for 0-3)
+  - EldLib Battles: Velts (800 words for 0-3)
 - **Sell price:** 5 Coins (don't sell unless you have >300)
 - **Used for:** later game,
   -  LF Tailor: Ardi Flame Hair (25)
@@ -189,6 +191,7 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
 - **Other sources:** 
   - LF Battles: Pester (500 words for 1-2), Grey's Mawt (850 words for 2-3), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 1-2), Buy
   - MT Battles: Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 2-3), Tambo (2000 words, 4 Rope, and 10 Leaves for 5), Clawadin (800 words for 0-1), Burocat (1000 words for 0-1)
+  - EldLib Battles:  Clawadin (800 words for 0-1), Burocat (1000 words for 0-1)
   - SC Battles: Oncaiii (800 words & 1 Saliva Vial for 2-3)
   - GL Battles: Maikile (750 words for 2-3)
 - **Buy:** 8 Coins in Item Shop/Alex's Shop
@@ -209,11 +212,20 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 - **Sources:** later game
 - **Used for:** Craft HOUSE: (multiple)
 
+### Glass Shards
+
+- **Best source:** later game
+- **Other sources:** 
+  - MT, EldLib Battles: Curator of Elder Library (1000 words for 0-3)
+- **Buy:** later game
+- **Sell price:** 12 Coins (Make Glass Bars out of any Glass Shards you have over 5; it'll be most useful that way)
+- **Used for:** later game
+
 ### Gobkey Trinket
 
 - **Source:** GL Battles: Gobkey (400 words for 1) 
 - **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game)
-- **Used for:** nothing so far
+- **Used for:** HuntS1.2 Quest: Curator's Catalog Cache 2/2 (5)
 
 ### Gold
 
@@ -262,23 +274,26 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 
   - LF Battles: Sassi (600 words for 6)
   - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10)
+  - EldLib Battles: Burocat (1000 words for 10), Clawadin (800 words for 8), Curator of Elder Library (1000 words for 10), Velts (800 words for 8)
   - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
-  - HuntS1.2 Quests: Velts' Relaxation Method (25), Curator's Catalog Collections (25), Into Forest Depths 1/3 (25)
+  - HuntS1.2 Quests: Velts' Relaxation Method (25), Curator's Catalog Collections (25), Into Forest Depths 1/3 (25), Base Camp Clearing Duty (25), Dynamic Disappearing Duo (25), Great Library Cleanup! (15), Sticky, Sweet, and Alluring (15), HuntS1.2 Tallest of Trees (10), Curator's Catalog Cache 2/2 (25)
   - later Hunt
 
-- **Jan 2021 Sources Outside the Hunt:**
+- **Feb 2021 Sources Outside the Hunt:**
 
-  For January, the clue is an image in the news announcement: https://4thewords.com/forum/details-325 The image looks like a torn rectangle of creamy parchment with a dark red color painted over most of it, and a much darker reddish-brown cursive capital L. The consensus is that this means red monsters, and monsters with names starting with L - which is a solid rule of thumb for the monsters below, but not entirely reliable. 
+  For February, the theme is "flying" (per the clue):
+  *We can walk, run, and swim yet we cannot compare,*
+  *to those who are blessed to soar through the air.*
 
-  - Global Battles: Viyu (15 minutes for ?)
-  - LF Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2)
-  - MT Battles: Assassin (1400 words for 14), Lorsa (450 words for 4-5), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words for 13)
+  - Global Battles: Vi (5 minutes for ), Viyu (15 minutes for ), Viyusa (25 minutes for ), Xin (100 words for 1)
+  - LF Battles: Nitana (700 words for 7), Pester (500 words for 5), Reenu (200 words for 2)
+  - MT Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Lorsa (450 words for 4-5), Spirit Lorsini (1000 words for 10)
   - FOREST EXPEDITION:
-    - BC Battles: Kaija (240 words for 2-3), Sacer (120 words for 1-2)
-    - SC Battles: Oncaiii (800 words for 8), Sapilo (450 words for 4-5), Sapira (350 words for 3-4), Sapiti (300 words for 3)
-    - FB, TT, GL Battles: Global and Hunt monsters only
-  - later game
+    - BC Battles: Sacer (120 words for 1-2)
+    - FB Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
+    - GL, SC Battles: Global and Hunt monsters only
+    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7), Fin (250 words for 2-3), Finoir (500 words for 5), Scofin (150 words for 1-2)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -420,6 +435,7 @@ For later game. DO NOT SELL.
 - **Used for:** 
   - MT Quest: Warm Creature Highlights 1/3 (10)
   - TT Battles: Buhini (need 1), Buholi (need 3), Buhovi (need 2)
+  - HuntS1.2 Quest: Curator's Catalog Cache 2/2 (5)
 
 ### Old Staff
 
@@ -432,6 +448,14 @@ For later game. DO NOT SELL.
 - **Sell price:** 59 Coins (Only sell if you have >20)
 - **Used for:** equipping, later game
 - **Equip:** Weapon2: +3 Attack, +0 Defense, +0 Luck
+
+### Piece of Parchment
+
+- **Sources:** later game,
+  - MT, EldLib Battles: Curator of Elder Library (1000 words for 0-1)
+- **Craft:** later game
+- **Sell price:** 10 Coins (don't sell, not worth it)
+- **Used for:** later game
 
 ### Protected Leaf Helmet
 
@@ -448,21 +472,25 @@ For later game. DO NOT SELL.
   - Anywhere Battles: Xin (100 words for 0-1)
   - LF Battles: Sassi (600 words, min level 3 for 1-3)
   - BC, FB, SC, TT Battles: Alnu (400 words for 1-2)
-- **Other sources:** MT Battle: Burocat (1000 words for 1-3), Assassin (1400 words for 1-2)
+- **Other sources:** 
+  - MT Battle: Curator of Elder Library (1000 words for 2-6), Burocat (1000 words for 1-3), Assassin (1400 words for 1-2)
+  - EldLib Battles: Curator of Elder Library (1000 words for 2-6), Burocat (1000 words for 1-3)
 - **Sell price:** 8 Coins (don't sell unless you have >200)
 - **Used for:** later game,
   - Craft HOUSE: Materials: Fabric Roll (10), Woven Leaves Square (2)
 
 ### Raw Gold
 
-- **Source:** GL Battles: Gobkey (400 words for 0-1)
+- **Source:** 
+  - MT, EldLib Battles: Curator of Elder Library (1000 words for 1-3)
+  - GL Battles: Gobkey (400 words for 0-1)
 - **Sell price:** 12 Coins (please don't sell this, you'll make so much more if you craft it into Gold Bars later in the game.)
 - **Used for:** later game
 
 ### Raw Steel
 
 - **Sources:** 
-  - MT Battles: Clawadin (800 words for 1-2), Velts (800 words for 0-2)
+  - MT, EldLib Battles: Clawadin (800 words for 1-2), Velts (800 words for 0-2)
   - TT Battles: Scofin (150 words for 1-2), Fin (250 words for 1-3), Finoir (500 words for 1-5)
 - **Sell price:** 8 Coins (DO NOT SELL. You will need this to craft SO MANY STEEL BARS.)
 - **Used for:** later game
@@ -519,7 +547,8 @@ For later game. DO NOT SELL.
 - **Other sources:** Buy
   - SC Battles: Reudod (600 words for 2-3)
   - LF Battles: Aracnu (800 words for 1), Mawt (1000 words for 1), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 1-2), Sassi (600 words, min level 3 for 1)
-  - MT Battles: Tylu (600 words for 1), Villager (1300 words for 1), Velts (800 words for 1-3)
+  - MT Battles: Tylu (600 words for 1), Villager (1300 words for 1), Velts (800 words for 1-3), Curator of Elder Library (1000 words for 1-2)
+  - EldLib Battles: Velts (800 words for 1-3), Curator of Elder Library (1000 words for 1-2)
   - BC, FB, SC, TT Battles: Alnu (400 words for 1-2)
   - BC Battles: Xuso (450 words for 0-1)
   - FB Battles: Nezthai (600 words for 1)
@@ -560,6 +589,7 @@ For later game. DO NOT SELL.
 - **Used for:** equipping,
   - LF Quests: Tinkering With Trinkets (5)
   - HuntS1 Quest: Protecting the Past (10)
+  - HuntS1.2 Quest: Curator's Catalog Cache 2/2 (5)
 - **Equip:** Accessory: +0 Attack, +1 Defense, +2 Luck
 
 ### Saliva Vial
@@ -569,7 +599,7 @@ For later game. DO NOT SELL.
 - **Used for:** 
   - FB Quest: Lovely Flower Crown (10)
   - SC Battles: Sapilo (need 1), Sapira (need 1), Sapiti (need 1), Oncaiii (need 1)
-  - HuntS1.2 Quest: Into Forest Depths 1/3 (2)
+  - HuntS1.2 Quest: Into Forest Depths 1/3 (2), Curator's Catalog Cache 2/2 (5)
 
 ### Shrine Ticket
 
@@ -611,7 +641,8 @@ For later game. DO NOT SELL.
   - LF Wooden Chest (1-3 per chest)
 - **Other sources:** 
   - LF Battles: Aracnu (800 words for 1-2)
-  - MT Battles: Illi (700 words for 0-1, usually 1)
+  - MT Battles: Illi (700 words for 0-1, usually 1), Velts (800 words for 0-1)
+  - EldLib Battles: Velts (800 words for 0-1)
   - SC Battles: Oncaiii (800 words & 1 Saliva Vial for 1-2), Sapilo (450 words, 1 Saliva Vial for 1), Sapira (350 words, 1 Saliva Vial for 1), Sapiti (300 words, 1 Saliva Vial for 0-1)
 - **Sell price:** 4 Coins (Don't sell; there is always a use lurking somewhere. As long as quests exists, there is always a use.)
 - **Used for:** 
@@ -716,10 +747,12 @@ For later game. DO NOT SELL.
 - **Best sources:** 
   - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2)
   - MT Battles: Kuay (400 words for 4), Velts (800 words for 3-6)
+  - EldLib Battles: Velts (800 words for 3-6)
 - **Other sources:** 
 
   - LF Battles: Aracni (400 words for 1 with luck), Pester (500 words for 1), Mawt (1000 words for 1-2)
   - MT Battles: Clawadin (800 words for 1-4), Assassin (1400 words for 2-3), Tambo (2000 words, 4 Rope, 10 Leaves, and min level 5 for 3), Villager (1300 words for 1-2)
+  - EldLib Battles: Clawadin (800 words for 1-4)
   - MT Wooden Chest: 2-7
   - BC Battles: Xuso (450 words for 1-2)
   - FB Battles: Nezthai (600 words for 1-2)
@@ -829,6 +862,7 @@ also called "Wood Fishing Rod"
 
 - **Best sources:** 
   - MT Battles: Burocat (1000 words for 0-1), Assassin (1400 words for 0-1, almost guaranteed >15 Luck)
+  - EldLib Battles: Burocat (1000 words for 0-1)
   - LF Quests: Save the Children, Make It Work
   - Global Quests: Daily Monster Hunter
 - **Other sources:** 

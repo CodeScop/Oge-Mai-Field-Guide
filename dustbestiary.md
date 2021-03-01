@@ -1,4 +1,4 @@
-LAST UPDATED 13 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 I resisted making this at first, because surely the end of the Dust Region is functionally identical to the whole game, right?
 
@@ -35,6 +35,8 @@ MT: Mama Tree
 HuntS1: Hunt for the Ancients Season 1
 
 **Expedition Forest**
+
+EldLib: Elder Library
 
 BC: Base Camp
 
@@ -251,7 +253,7 @@ HuntS4: Hunt for the Ancients Season 4
 - **Drops:** 1-2 Hardwood, 2-4 Raw Fabric, 3-5 Rope, 1 Refined Dust, 2-4 Bones, 1 Steel Chains, 4-6 Raw Steel
 - **Quests:** DFO: Bone To Pick (40), Reinforced Ardi Lamp Station 1/4 (1)
 
-### Burocat (Oge: MT; Exp: SC)
+### Burocat (Oge: MT\*; Exp: EldLib\*, SC)
 
 ### Cafodu (Exp: Hideout)
 
@@ -301,7 +303,7 @@ HuntS4: Hunt for the Ancients Season 4
 - **Drops:** 1 Rat Tail
 - **Quests:** DFO: Main Quest 2/Rats, Wrong Way! (12), Pit of Nightmares (250)
 
-### Clawadin (Oge: MT; Exp: BC, FB)
+### Clawadin (Oge: MT\*; Exp: EldLib\*, BC, FB)
 
 ### Copei (Exp: SwampL)
 
@@ -309,7 +311,7 @@ HuntS4: Hunt for the Ancients Season 4
 
 ### Cubed Frizi (Exp: ShrinePoly)
 
-### Curator of Elder Library (Oge: MT*)
+### Curator of Elder Library (Oge: MT\*, Exp: EldLib\*)
 
 ### Cursed Hand (Oge: PG)
 
@@ -606,7 +608,7 @@ see **Skuppa's Giant Marionette**
   - MT: Creature Colors & Highlights 3/3 (10)
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
   - HuntS1: Proving Your Perserverance 3/4 (3)
-  - HuntS1.2: Into Forest Depths 1/3 (3)
+  - HuntS1.2: Into Forest Depths 1/3 (3), Base Camp Clearing Duty (5)
 
 ### Kapir (Exp: Dig)
 
@@ -922,6 +924,7 @@ see **Skuppa's Giant Marionette**
   - LF: Forest Creatures (1)
   - MT: Itsy, Bitsy, Teeny (25)
   - HuntS1: Proving Your Worth 1/4 (3)
+  - HuntS1.2: Sticky, Sweet, and Alluring (15)
   - Balance: Elemental Power (5)
   - DFO: Familiar Family Friends (5)
 
@@ -962,6 +965,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - LF: Forest Creatures (1)
   - MT: Huge, Gigantic, Enormous (25)
+  - HuntS1.2: Dynamic Disappearing Duo (2)
   - Balance: Rudakai Master (3)
   - DFO: Familiar Family Friends (1)
 
@@ -978,6 +982,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
   - HuntS1: Proving Your Perserverance 3/4 (1)
+  - HuntS1.2: Base Camp Clearing Duty (10)
   - DFO: Familiar Family Friends (5)
 
 ### Sakish (Exp: Dig)
@@ -1185,7 +1190,7 @@ see **Skuppa's Giant Marionette**
 
 ### Vanvri (Oge: Balance)
 
-### Velts (Oge: MT*)
+### Velts (Oge: MT\*, Exp: EldLib\*)
 
 ### Velts: Desert (Oge: 3PC)
 
@@ -1278,6 +1283,7 @@ see **Skuppa's Giant Marionette**
   - MT: Tinkering With Leafsung 1/5 (5), Watering Hole (44)
   - GL: Eat the Leaves? (10)
   - HuntS1: Proving Your Worth 1/4 (2)
+  - HuntS1.2: Dynamic Disappearing Duo (2)
   - DFO: Familiar Family Friends (5)
   - HuntS4: Sing Your Wander 4/4 (1)
 
@@ -1323,7 +1329,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - MT: Cool Creature Highlights 2/3 (5)
   - BC: Hard Day's Walk (1), Nabia's Exploration (1), Just a Mean Green (25)
-  - HuntS1.2: Into Forest Depths 1/3 (3)
+  - HuntS1.2: Into Forest Depths 1/3 (3), Base Camp Clearing Duty (3)
   - DFO: Reinforced Ardi Station 1/4 (1)
 
 ### Xyplos (Oge: Balance*)

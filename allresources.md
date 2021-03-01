@@ -1,6 +1,6 @@
 #A-F
 
-LAST UPDATED 22 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 ##Abbreviations Used:
 
@@ -11,6 +11,7 @@ LAST UPDATED 22 FEB 2021
 
 **Expedition Forest**
 
+- EldLib: Elder Library
 - BC: Base Camp
 - FB: Forward Base
 - SC: Stone City
@@ -119,6 +120,7 @@ ALL GAME
     - LF Wooden Chest: 9-18 per chest/key
     - MT Wooden Chest: 15-46 per chest/key
     - MT Battles: Vanstra (3 minutes for 2-8), Villager (1300 words for 3-7), Burocat (1000 words for 1-6)
+    - EldLib Battles: Burocat (1000 words for 1-6)
     - MT Quest: The Winding Path to Elder Library (100)
     - (Post HuntS4) LF Battle: Bard (1000 words for 8-23)
 - **Other sources:** FOREST, 
@@ -226,6 +228,7 @@ FOREST, DUST
 - **Sources:** 
   - Forward Base, Mama Tree Battles: Ardis (70 words for 1)
   - MT Battles: Velts (800 words for 0-3)
+  - EldLib Battles: Velts (800 words for 0-3)
 - **Sell price:** 5 Coins (don't sell unless you have >300)
 - **Used for:** 
   - FOREST: LF Tailor: Ardi Flame Hair (25)
@@ -736,6 +739,7 @@ ALL GAME
   - FOREST
     - LF Battles: Pester (500 words for 1-2), Grey's Mawt (850 words for 2-3), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 1-2), Buy
     - MT Battles: Grey's Mawt (850 words, 5 Coins, and 5 Leaves for 2-3), Tambo (2000 words, 4 Rope, and 10 Leaves for 5), Clawadin (800 words for 0-1), Burocat (1000 words for 0-1)
+    - EldLib Battles:  Clawadin (800 words for 0-1), Burocat (1000 words for 0-1)
     - SC Battles: Oncaiii (800 words & 1 Saliva Vial for 2-3)
     - GL Battles: Maikile (750 words for 2-3)
   - DESERT
@@ -768,7 +772,7 @@ ALL GAME
 
 # G-O
 
-LAST UPDATED 15 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 ### Glass
 
@@ -839,6 +843,7 @@ DESERT, WATER, DUST
     - Hideout Battles: Wisthu (800 words for 1-4)
   - DUST: PG Battles: Zhout (600 words for 1-3), Dusiri (1000 words for 3-4), Infected Golem (1500 words for 1-5)
 - **Other sources:** 
+  - FOREST: MT, EldLib Battles: Curator of Elder Library (1000 words for 0-3)
   - DESERT
     - 3PC Battles: Bruja (900 words for 1-2), Lombri (1500 words for 1-2), Yasri (1250 words for 1)
     - IC Battles: Nedi (800 words for 1-3)
@@ -874,7 +879,7 @@ EXPEDITION FOREST
 
 - **Source:** FOREST EXPEDITION GL Battles: Gobkey (400 words for 1) 
 - **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game)
-- **Used for:** nothing right now
+- **Used for:** HuntS1.2 Quest: Curator's Catalog Cache 2/2 (5)
 
 ### Gold
 
@@ -1085,6 +1090,7 @@ ALL GAME
   - LF Battles: Sassi (600 words for 6)
   - Post-HuntS4 LF Battle: Bard (1000 words for 10)
   - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10), Vanstra (3 minutes for 1-4)
+  - EldLib Battles: Burocat (1000 words for 10), Clawadin (800 words for 8), Curator of Elder Library (1000 words for 10), Velts (800 words for 8)
   - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10), Mirdor (1500 words for 15)
   - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12), Vanspi (10 minutes for 2-8)
   - Gansu Battles: Pipit (900 words for 9)
@@ -1095,41 +1101,45 @@ ALL GAME
   - Balance Battles: Velts: Water (1600 words for 16)
   - DFO Battles: Caretaker (1200 words for 12)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
-  - HuntS1.2 Quests: Velts' Relaxation Method (25), Curator's Catalog Collections (25), Into Forest Depths 1/3 (25)
+  - HuntS1.2 Quests: Velts' Relaxation Method (25), Curator's Catalog Collections (25), Into Forest Depths 1/3 (25), Base Camp Clearing Duty (25), Dynamic Disappearing Duo (25), Great Library Cleanup! (15), Sticky, Sweet, and Alluring (15), HuntS1.2 Tallest of Trees (10), Curator's Catalog Cache 2/2 (25)
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25)
   - HuntS4 Quests: Something Extraordinary (10), Cheer Your Dedication (15), Sing Your Enthusiasm (20), To Celebrate and Share (20), Into the Woods (50), On the Wrong Path (25), Jubilant and Strong (50), Sing Your Bravery 2/2 (15), Ideas Brought to Life (10), Sing Your Commitment 3/4 (25), Stories to Tell (25), A Battle of Celebration (25)
 
-- **Jan 2021 Sources Outside the Hunt:**
+- **Feb 2021 Sources Outside the Hunt:**
 
-  For January, the clue is an image in the news announcement: https://4thewords.com/forum/details-325 The image looks like a torn rectangle of creamy parchment with a dark red color painted over most of it, and a much darker reddish-brown cursive capital L. The consensus is that this means red monsters, and monsters with names starting with L - which is a solid rule of thumb for the monsters below, but not entirely reliable. 
+  For February, the theme is "flying" (per the clue):
+  *We can walk, run, and swim yet we cannot compare,*
+  *to those who are blessed to soar through the air.*
 
-  - Global Battles: Viyu (15 minutes for ?)
-  - LF Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2)
-  - MT Battles: Assassin (1400 words for 14), Lorsa (450 words for 4-5), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words for 13)
+  - Global Battles: Vi (5 minutes for ), Viyu (15 minutes for ), Viyusa (25 minutes for ), Xin (100 words for 1)
+  - LF Battles: Nitana (700 words for 7), Pester (500 words for 5), Reenu (200 words for 2)
+  - MT Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Lorsa (450 words for 4-5), Spirit Lorsini (1000 words for 10)
   - FOREST EXPEDITION:
-    - BC Battles: Kaija (240 words for 2-3), Sacer (120 words for 1-2)
-    - SC Battles: Oncaiii (800 words for 8), Sapilo (450 words for 4-5), Sapira (350 words for 3-4), Sapiti (300 words for 3)
-    - FB, TT, GL Battles: Global and Hunt monsters only
-  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
+    - BC Battles: Sacer (120 words for 1-2)
+    - FB Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
+    - GL, SC Battles: Global and Hunt monsters only
+    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7), Fin (250 words for 2-3), Finoir (500 words for 5), Scofin (150 words for 1-2)
+  - 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3)
   - ALIEN EXPEDITION:
-    - IC, RLab Battles: Global and Hunt monsters only
-    - SpaceS Battles: Ledd (500 words for 5)
-    - MiningS Battles: Pach (200 words for 2)
-  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Puna (150 words and 1 Wood Fishing Rod for 1-2), Rulo (550 words for 5-6)
+    - IC Battles: Arir (100 words for 1)
+    - SpaceS Battles: Captain Piak (1667 words for 16-17)
+    - MiningS Battles: Arir (100 words for 1), Galatre (450 words for 4-5)
+    - RLab Battles: Sulanica (1000 words for 10)
+  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Dust Witch (1200 words and 1 Stempo for 12), Frizi (150 words for 1-2), Red Witch (4000 words for 40), Wetu (1100 words for 11)
   - DESERT EXPEDITION:
-    - DigS Battles: Loi (150 words for 1-2)
-    - Ruins Battles: Global and Hunt monsters only
-  - Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Puna (150 words and 1 Wood Fishing Rod for 1-2), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
+    - DigS Battles: Global and Hunt monsters only
+    - Ruins Battles: Spirit Gordiliana (800 words for 8)
+  - Riza Battles: Frizi (150 words for 1-2), Osaril (300 words and 1 Vine Net for 3), Wyvern (1300 words for 13)
   - RAINA EXPEDITION:
-    - SurfaceC Battles: Begala (300 words for 3), Droxa (1800 words for 18), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
-    - SwampL Battles: Larida (1000 words for 10)
-    - SacredS Battles: Pedja (1000 words for 10)
-    - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Wisthu (800 words for 8)
-  - Balance Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2), Xyplos (2000 words, 1 Water Mask, and 1 Underwater Torch for 20)
-  - DFO Battles: Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 20), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 11)
-  - PG Battles: Leopar (800 words for 8)
-  - CAVE Battles: Global and Hunt monsters only
+    - SurfaceC Battles: Wyvern (1300 words for 13)
+    - SwampL Battles: Heliodae (120 words for 1-2), Rhamp (250 words for 2-3)
+    - SacredS Battles: Global and Hunt monsters only
+    - Hideout Battles: Kivi (100 words for 1)
+  - Balance Battles: Global and Hunt monsters only
+  - DFO Battles: Belasi (200 words for 2), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment, and 1 Blue Essence Ink for 50), Osalyu (750 words for 7-8), Papple (1000 words for 10), Spirit Papple (900 words for 9)
+  - PG Battles: Ardid (90 words for 1), Dusiri (1000 words for 10), Eninir (500 words for 5), Poe (200 words for 2)
+  - CAVE Battles: Fosfa (800 words for 8), Sakot (1000 words for 10), Tacin (150 words for 1-2)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -1418,6 +1428,7 @@ FOREST EXPEDITION
 - **Used for:** 
   - MT Quest: Warm Creature Highlights 1/3 (10)
   - TT Battles: Buhini (need 1), Buholi (need 3), Buhovi (need 2)
+  - HuntS1.2 Quest: Curator's Catalog Cache 2/2 (5)
 
 ### Nuig String
 
@@ -1452,7 +1463,7 @@ FOREST, DESERT
 
 # P-R
 
-LAST UPDATED 15 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 ### Pickaxe
 
@@ -1467,9 +1478,10 @@ DESERT EXPEDITION, DUST
 
 ### Piece of Parchment
 
-some DESERT, DUST
+some FOREST, some DESERT, DUST
 
 - **Sources:** Craft,
+  - FOREST: MT, EldLib Battles: Curator of Elder Library (1000 words for 0-1)
   - DESERT: RLab Battle: Dr. Hogglevoss (1200 words for 1-3)
   - DUST
     - DFO Bones Chest: 2-6
@@ -1579,7 +1591,8 @@ ALL GAME
 - **Other sources:** 
   - FOREST
     - Post-HuntS4 LF Battle: Bard (1000 words for 1-4)
-    - MT Battle: Burocat (1000 words for 1-3), Assassin (1400 words for 1-2)
+    - MT Battle: Curator of Elder Library (1000 words for 2-6), Burocat (1000 words for 1-3), Assassin (1400 words for 1-2)
+    - EldLib Battles: Curator of Elder Library (1000 words for 2-6), Burocat (1000 words for 1-3)
   - DESERT
     - 3PC Battles: Bruja (900 words for 2-3), Czanus (700 words for 2-4),  Yasri (1250 words for 2-3), Lombri (1500 words and 1 Wood Spear for 3)
     - Gansu Battles:  Pipit (900 words for 2-4), Ylly (720 words for 3), Sparfly (450 words for 1), Suulan (2000 words, 1 Steel Dagger for 2),  Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 3)
@@ -1630,7 +1643,9 @@ DESERT, some FOREST, some WATER
     - Riza Battles: Jaihri (485 words for 0-1, usually 1)
     - SacredS Battles: Kuldoro (100 words for 0-1, 1 with +20 Luck)
 - **Other sources:** Buy
-  - FOREST: GL Battles: Gobkey (400 words for 0-1)
+  - FOREST: 
+    - MT, EldLib Battles: Curator of Elder Library (1000 words for 1-3)
+    - GL Battles: Gobkey (400 words for 0-1)
   - DESERT
     - Gansu Battles: Suulan (2000 words, 1 Steel Dagger for 1-2), Arenica (1350 words, 1 Steel Dagger for 1), Desert Rudakai (1800 words, 1 Leaf Boots, 10 Leaves for 1)
     - MSite Battles: Zals (900 words for 1-4), Skarn (1100 words for 2-4), Ityf (1250 words for 2-4)
@@ -1693,7 +1708,7 @@ some FOREST, DESERT, some WATER, DUST
     - DFO Battles: Burhar (1500 words for 4-6)
     - CAVE Battles: Chio (100 words for 1-3), Fosfa (800 words for 2-5), Olanat (1100 words for 1-4), Gormist (1667 words for 3-5), Kohej (2000 words for 2-5)
 - **Other sources:** Buy,
-  - FOREST: MT Battles: Clawadin (800 words for 1-2), Velts (800 words for 0-2)
+  - FOREST: MT, EldLib Battles: Clawadin (800 words for 1-2), Velts (800 words for 0-2)
   - DESERT
     - 3PC Battles: Czanus (700 words for 1-3), Velts: Desert (1200 words for 2-4)
     - IC Battles: Brachi (600 words for 1-2)
@@ -2059,7 +2074,8 @@ ALL GAME
   - FOREST
     - LF Battles: Sassi (600 words for 1), Aracnu (800 words for 1), Mawt (1000 words for 1), Rudakai (1400 words, 1 Leaf Boots, 10 Leaves for 1-2)
     - Post-HuntS4 LF Battle: Bard (1000 words for 1-2)
-    - MT Battles: Tylu (600 words for 1), Villager (1300 words for 1), Velts (800 words for 1-3)
+    - MT Battles: Tylu (600 words for 1), Villager (1300 words for 1), Velts (800 words for 1-3), Curator of Elder Library (1000 words for 1-2)
+    - EldLib Battles: Velts (800 words for 1-3), Curator of Elder Library (1000 words for 1-2)
     - BC, FB, SC, TT Battles: Alnu (400 words for 1-2)
     - BC Battles: Xuso (450 words for 0-1)
     - FB Battles: Nezthai (600 words for 1)
@@ -2151,6 +2167,7 @@ FOREST, some DESERT
   - FOREST
     - LF Quests: Tinkering With Trinkets (5)
     - HuntS1 Quest: Protecting the Past (10)
+    - HuntS1.2 Quest: Curator's Catalog Cache 2/2 (5)
   - DESERT
     - Craft 3PC: Glass Necklace (2)
     - 3PC Quests: We Lucky Few (8)
@@ -2159,7 +2176,7 @@ FOREST, some DESERT
 
 # S
 
-LAST UPDATED 15 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 ### Sacred Feather
 
@@ -2188,7 +2205,7 @@ FOREST EXPEDITION, some DESERT, DUST
   - FOREST
     - FB Quest: Lovely Flower Crown (10)
     - SC Battles: Sapilo (need 1), Sapira (need 1), Sapiti (need 1), Oncaiii (need 1)
-    - Saliva Vials Used For: HuntS1.2 Quest: Into Forest Depths 1/3 (2)
+    - HuntS1.2 Quest: Into Forest Depths 1/3 (2), Curator's Catalog Cache 2/2 (5)
   - DESERT: RLab Quest: Encourage an Ecosystem 4/4 (5)
   - DUST: DFO Quest: Main Quest 8/Bound Up In (20)
 
@@ -2318,6 +2335,7 @@ FOREST, DESERT, some WATER, DUST
   - FOREST
     - LF Battles: Aracnu (800 words for 1-2)
     - MT Battles: Illi (700 words for 0-1, usually 1), Velts (800 words for 0-1)
+    - EldLib Battles: Velts (800 words for 0-1)
     - SC Battles: Sapilo (450 words, 1 Saliva Vial for 1), Sapira (350 words, 1 Saliva Vial for 1), Sapiti (300 words, 1 Saliva Vial for 0-1, Oncaiii (800 words & 1 Saliva Vial for 1-2)
   - DESERT: 
     - 3PC Battles: Velts: Desert (1200 words for 1)
@@ -2723,7 +2741,7 @@ WATER
 
 # T-Z
 
-LAST UPDATED 15 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 ### Tambo Mane
 
@@ -2830,6 +2848,7 @@ ALL GAME
   - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2)
   - FOREST: 
     - MT Battles: Kuay (400 words for 4), Velts (800 words for 3-6)
+    - EldLib Battles: Velts (800 words for 3-6)
     - MT Wooden Chest: 2-7
   - WATER:
     - SurfaceC Battles: Rea & Pira (150 words for 1)
@@ -2841,6 +2860,7 @@ ALL GAME
     - LF Battles: Aracni (400 words for 1 with luck), Pester (500 words for 1), Mawt (1000 words for 1-2)
     - Post-DFO LF Battle: Spirit Wignow (450 words for 1)
     - MT Battles: Clawadin (800 words for 1-4), Assassin (1400 words for 2-3), Tambo (2000 words, 4 Rope, 10 Leaves, and min level 5 for 3), Villager (1300 words for 1-2)
+    - EldLib Battles: Clawadin (800 words for 1-4)
     - BC Battles: Xuso (450 words for 1-2)
     - FB Battles: Nezthai (600 words for 1-2)
     - SC Battles: Reudod (600 words for 2-3), Sapilo (450 words, 1 Saliva Vial for 1), Sapira (350 words, 1 Saliva Vial for 1), Oncaiii (800 words & 1 Saliva Vial for 2-4)
@@ -3014,6 +3034,7 @@ FOREST, DESERT, some WATER
   - Global Quests: Daily Monster Hunter (1)
   - FOREST
     - MT Battles: Burocat (1000 words for 0-1), Assassin (1400 words for 0-1, almost guaranteed >15 Luck)
+    - EldLib Battles: Burocat (1000 words for 0-1)
     - Post-HuntS3 Ruins Battle: Morimet (2500 words for 1-3)
     - LF Quests: Save the Children, Make It Work
 

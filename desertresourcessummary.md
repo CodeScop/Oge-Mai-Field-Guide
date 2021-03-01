@@ -1,4 +1,4 @@
-LAST UPDATED 22 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 Summary of everything available in the DESERT. (Yes, now including Shrine of Ages!) Abbreviations:
 
@@ -381,10 +381,10 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 
 ### Glass Shards
 
-- **Best source:**Buy
+- **Best source:**
   - 3PC Battles: Kiru (250 words for 2)
   - RLab Battles: Fonar (200 words for 2-4), Zoomga! (300 words for 2-4), Ame (100 words for 0-1)
-- **Other sources:** Buy, 
+- **Other sources:** Buy, some FOREST,
   - 3PC Battles: Bruja (900 words for 1-2), Lombri (1500 words for 1-2), Yasri (1250 words for 1)
   - Gansu Battles: Ylly (720 words for 2), Sparfly (450 words for 1-2), Suulan (2000 words, 1 Steel Dagger for 2-3), Arenica (1350 words, 1 Steel Dagger for 1)
   - IC Battles: Nedi (800 words for 1-3)
@@ -411,7 +411,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 
 - **Source:** FOREST
 - **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game)
-- **Used for:** nothing so far
+- **Used for:** FOREST
 
 ### Gold
 
@@ -511,30 +511,34 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
   - Dig Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4), Lubu (450 words for 4-5), Shepherd (1000 words for 10)
   - Ruins Battles: Lubu (450 words for 4-5)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
+  - HuntS1.2 Quests: Velts' Relaxation Method (25), Curator's Catalog Collections 1/2 (25), Into Forest Depths 1/3 (25), Base Camp Clearing Duty (25), Dynamic Disappearing Duo (25), Great Library Cleanup! (15), Sticky, Sweet, and Alluring (15), HuntS1.2 Tallest of Trees (10), Curator's Catalog Cache 2/2 (25)
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - later Hunt
 
-- **Jan 2021 Sources Outside the Hunt:**
+- **Feb 2021 Sources Outside the Hunt:**
 
-  For January, the clue is an image in the news announcement: https://4thewords.com/forum/details-325 The image looks like a torn rectangle of creamy parchment with a dark red color painted over most of it, and a much darker reddish-brown cursive capital L. The consensus is that this means red monsters, and monsters with names starting with L - which is a solid rule of thumb for the monsters below, but not entirely reliable. 
+  For February, the theme is "flying" (per the clue):
+  *We can walk, run, and swim yet we cannot compare,*
+  *to those who are blessed to soar through the air.*
 
-  - Global Battles: Viyu (15 minutes for ?)
-  - LF Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2)
-  - MT Battles: Assassin (1400 words for 14), Lorsa (450 words for 4-5), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words for 13)
+  - Global Battles: Vi (5 minutes for ), Viyu (15 minutes for ), Viyusa (25 minutes for ), Xin (100 words for 1)
+  - LF Battles: Nitana (700 words for 7), Pester (500 words for 5), Reenu (200 words for 2)
+  - MT Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Lorsa (450 words for 4-5), Spirit Lorsini (1000 words for 10)
   - FOREST EXPEDITION:
-    - BC Battles: Kaija (240 words for 2-3), Sacer (120 words for 1-2)
-    - SC Battles: Oncaiii (800 words for 8), Sapilo (450 words for 4-5), Sapira (350 words for 3-4), Sapiti (300 words for 3)
-    - FB, TT, GL Battles: Global and Hunt monsters only
-  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
+    - BC Battles: Sacer (120 words for 1-2)
+    - FB Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
+    - GL, SC Battles: Global and Hunt monsters only
+    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7), Fin (250 words for 2-3), Finoir (500 words for 5), Scofin (150 words for 1-2)
+  - 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3)
   - ALIEN EXPEDITION:
-    - IC, RLab Battles: Global and Hunt monsters only
-    - SpaceS Battles: Ledd (500 words for 5)
-    - MiningS Battles: Pach (200 words for 2)
-  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Puna (150 words and 1 Wood Fishing Rod for 1-2), Rulo (550 words for 5-6)
+    - IC Battles: Arir (100 words for 1)
+    - SpaceS Battles: Captain Piak (1667 words for 16-17)
+    - MiningS Battles: Arir (100 words for 1), Galatre (450 words for 4-5)
+    - RLab Battles: Sulanica (1000 words for 10)
+  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Dust Witch (1200 words and 1 Stempo for 12), Frizi (150 words for 1-2), Red Witch (4000 words for 40), Wetu (1100 words for 11)
   - DESERT EXPEDITION:
-    - DigS Battles: Loi (150 words for 1-2)
-    - Ruins Battles: Global and Hunt monsters only
-  - later game
+    - DigS Battles: Global and Hunt monsters only
+    - Ruins Battles: Spirit Gordiliana (800 words for 8)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -717,7 +721,7 @@ FOREST ONLY
 
 ### Piece of Parchment
 
-- **Sources:** later game,
+- **Sources:** later game, some FOREST,
   - RLab Battle: Dr. Hogglevoss (1200 words for 1-3)
 - **Sell price:** 10 Coins (don't sell, not worth it)
 - **Used for:** later game

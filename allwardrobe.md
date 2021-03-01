@@ -1,4 +1,4 @@
-LAST UPDATED 12 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
 
@@ -47,6 +47,9 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
   - Upward Spikes - 10 Hunter Tokens
   - Double Belt - 15 Hunter Tokens
   - Freckles - 15 Hunter Tokens
+  - Hunt Head Tattoo Pill - 15 Hunter Tokens
+  - Hunt Head Tattoo Swirls - 15 Hunter Tokens
+  - Hunt Head Tattoo Sword - 15 Hunter Tokens
   - Nose Piercing - 15 Hunter Tokens
   - Nose Side Piercing - 15 Hunter Tokens
   - Simple Sandals - 20 Hunter Tokens
@@ -83,6 +86,7 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
   - Large Left Chest Belt - 50 Hunter Tokens
   - Simple Crop Top - 50 Hunter Tokens
   - Turban - 50 Hunter Tokens
+  - Hunter Leather Corset - 75 Hunter Tokens
   - Hunter Turban With Hair - 75 Hunter Tokens
   - Hunting Net - 75 Hunter Tokens
   - Ankle Boots - 80 Hunter Tokens
@@ -94,6 +98,7 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
   - Hunt Boots - 100 Hunter Tokens
   - Hunt Bracers - 100 Hunter Tokens
   - Hunt Side Cover Shirt - 100 Hunter Tokens
+  - Hunt Leather Pants - 100 Hunter Tokens
   - Small Chestplate - 100 Hunter Tokens
   - Hunter Long Skirt - 125 Hunter Tokens
   - Hunter Pants - 125 Hunter Tokens
@@ -107,6 +112,7 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
   - Curator's Timepiece - 150 Hunter Tokens
   - Hunt Centered Long Skirt - 150 Hunter Tokens
   - Hunt Cloak - 150 Hunter Tokens
+  - Hunter Cape - 150 Hunter Tokens
   - Lorsa Fur Scarf - 150 Hunter Tokens
   - Shepherd's Robes - 150 Hunter Tokens
   - Hunt Skirt - 175 Hunter Tokens
@@ -165,6 +171,9 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
   - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1534-hunt-neck-guard-10532-20183.png
   - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1534-hunt-neck-guard-10535-89863.png
   - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1534-hunt-neck-guard-10536-54914.png
+- **Tallest of Trees** gives us the **Hunt Earrings Sword Shield**, which comes in two varieties:
+  - sword left, shield right: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1588-hunt-earings-sword-shield-11798-73484.png 
+  - shield left, sword right: https://4thewords.com/media/wardrobe/featured/female/wf&#95;-hunt-earings-sword-shield-11800-77162.png
 - **All Who Wander** returns **Tall Fur Boots**, which come in seven varieties:
   - black: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Fur&#95;Tall&#95;Black.png
   - blue: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;Boots&#95;Fur&#95;Tall&#95;Blue.png

@@ -1,4 +1,4 @@
-LAST UPDATED 22 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 If something says FOREST or DESERT, go check out those guides to find out the best sources there (if you want to spend the time or coins to travel to a different region). We're sticking to Water-only otherwise.
 
@@ -327,7 +327,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 ### Glass Shards
 
 - **Best source:** Buy
-  - DESERT
+  - some FOREST, DESERT
   - Riza Battles: Sparfly (450 words for 1-2)
   - Hideout Battles: Wisthu (800 words for 1-4)
 - **Other sources:** Limited-availability battles in Riza Main Quest sequence
@@ -348,7 +348,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 
 - **Source:** FOREST
 - **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game)
-- **Used for:** nothing so far
+- **Used for:** FOREST
 
 ### Gold
 
@@ -469,34 +469,37 @@ NOT IN THIS REGION. Chiefly DESERT. Note that if you completed Lighten the Load 
   - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25), Insight Grows (15), Change to See (25), Growth in Friendship (50), Where Life Flows (15)
   - later game
   
-- **Jan 2021 Sources Outside the Hunt:**
+- **Feb 2021 Sources Outside the Hunt:**
 
-  For January, the clue is an image in the news announcement: https://4thewords.com/forum/details-325 The image looks like a torn rectangle of creamy parchment with a dark red color painted over most of it, and a much darker reddish-brown cursive capital L. The consensus is that this means red monsters, and monsters with names starting with L - which is a solid rule of thumb for the monsters below, but not entirely reliable. 
+  For February, the theme is "flying" (per the clue):
+  *We can walk, run, and swim yet we cannot compare,*
+  *to those who are blessed to soar through the air.*
 
-  - Global Battles: Viyu (15 minutes for ?)
-  - LF Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2)
-  - MT Battles: Assassin (1400 words for 14), Lorsa (450 words for 4-5), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words for 13)
+  - Global Battles: Vi (5 minutes for ), Viyu (15 minutes for ), Viyusa (25 minutes for ), Xin (100 words for 1)
+  - LF Battles: Nitana (700 words for 7), Pester (500 words for 5), Reenu (200 words for 2)
+  - MT Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Lorsa (450 words for 4-5), Spirit Lorsini (1000 words for 10)
   - FOREST EXPEDITION:
-    - BC Battles: Kaija (240 words for 2-3), Sacer (120 words for 1-2)
-    - SC Battles: Oncaiii (800 words for 8), Sapilo (450 words for 4-5), Sapira (350 words for 3-4), Sapiti (300 words for 3)
-    - FB, TT, GL Battles: Global and Hunt monsters only
-  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
+    - BC Battles: Sacer (120 words for 1-2)
+    - FB Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
+    - GL, SC Battles: Global and Hunt monsters only
+    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7), Fin (250 words for 2-3), Finoir (500 words for 5), Scofin (150 words for 1-2)
+  - 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3)
   - ALIEN EXPEDITION:
-    - IC, RLab Battles: Global and Hunt monsters only
-    - SpaceS Battles: Ledd (500 words for 5)
-    - MiningS Battles: Pach (200 words for 2)
-  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Puna (150 words and 1 Wood Fishing Rod for 1-2), Rulo (550 words for 5-6)
+    - IC Battles: Arir (100 words for 1)
+    - SpaceS Battles: Captain Piak (1667 words for 16-17)
+    - MiningS Battles: Arir (100 words for 1), Galatre (450 words for 4-5)
+    - RLab Battles: Sulanica (1000 words for 10)
+  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Dust Witch (1200 words and 1 Stempo for 12), Frizi (150 words for 1-2), Red Witch (4000 words for 40), Wetu (1100 words for 11)
   - DESERT EXPEDITION:
-    - DigS Battles: Loi (150 words for 1-2)
-    - Ruins Battles: Global and Hunt monsters only
-  - Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Puna (150 words and 1 Wood Fishing Rod for 1-2), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
+    - DigS Battles: Global and Hunt monsters only
+    - Ruins Battles: Spirit Gordiliana (800 words for 8)
+  - Riza Battles: Frizi (150 words for 1-2), Osaril (300 words and 1 Vine Net for 3), Wyvern (1300 words for 13)
   - RAINA EXPEDITION:
-    - SurfaceC Battles: Begala (300 words for 3), Droxa (1800 words for 18), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
-    - SwampL Battles: Larida (1000 words for 10)
-    - SacredS Battles: Pedja (1000 words for 10)
-    - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Wisthu (800 words for 8)
-  - Balance Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2), Xyplos (2000 words, 1 Water Mask, and 1 Underwater Torch for 20)
-  - later game
+    - SurfaceC Battles: Wyvern (1300 words for 13)
+    - SwampL Battles: Heliodae (120 words for 1-2), Rhamp (250 words for 2-3)
+    - SacredS Battles: Global and Hunt monsters only
+    - Hideout Battles: Kivi (100 words for 1)
+  - Balance Battles: Global and Hunt monsters only
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -668,7 +671,7 @@ FOREST ONLY
 
 ### Piece of Parchment
 
-- **Sources:** later game, DESERT
+- **Sources:** later game, some FOREST, DESERT
 - **Sell price:** 10 Coins (don't sell, not worth it)
 - **Used for:** later game
 

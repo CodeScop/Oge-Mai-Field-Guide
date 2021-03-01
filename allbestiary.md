@@ -1,4 +1,4 @@
-LAST UPDATED 13 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 Beware! **Here be spoilers**. Every single quest requiring a given monster is listed, no matter how late in the game it appears. Don't say I didn't warn you. But maybe you'll be able to mix and match quests more efficiently.
 
@@ -31,6 +31,8 @@ HuntS1: Hunt for the Ancients Season 1
 HuntS1.2: Hunt for the Ancients Season 1 (part 2)
 
 **Expedition Forest**
+
+EldLib: Elder Library
 
 BC: Base Camp
 
@@ -116,7 +118,7 @@ HuntS4: Hunt for the Ancients Season 4
 
 # A-L
 
-LAST UPDATED 9 DEC 2020
+LAST UPDATED 28 FEB 2021
 
 ### Afeppti (Exp: ShrineCO)
 
@@ -467,10 +469,11 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
 
   - MT: Tinkering With Leafsung (5)
-
-  - BC: Nabia's Exploration (1)
-- TT: Boots Made For Climbing (1), Scouting the Trees (1)
+- BC: Nabia's Exploration (1)
+  - TT: Boots Made For Climbing (1), Scouting the Trees (1)
+  
   - HuntS1: Proving Your Perserverance 3/4 (1)
+  - HuntS1.2: Tallest of Trees (10)
 
 ### Buholi (Exp: TT)
 
@@ -481,7 +484,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - TT: Boots Made For Climbing (1), Scouting the Trees (1), Buholi in the Sky (10)
-  - HuntS1.2: Velts' Relaxation Method (1)
+  - HuntS1.2: Velts' Relaxation Method (1), Tallest of Trees (3)
 
 ### Buhovi (Exp: TT)
 
@@ -492,6 +495,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - TT: Boots Made For Climbing (1), Scouting the Trees (1)
+  - HuntS1.2: Tallest of Trees (5)
 
 ### Burhar (Oge: DFO)
 
@@ -501,7 +505,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Drops:** 1-2 Hardwood, 2-4 Raw Fabric, 3-5 Rope, 1 Refined Dust, 2-4 Bones, 1 Steel Chains, 4-6 Raw Steel
 - **Quests:** DFO: Bone To Pick (40), Reinforced Ardi Lamp Station 1/4 (1)
 
-### Burocat (Oge: MT; Exp: SC)
+### Burocat (Oge: MT\*; Exp: EldLib\*, SC)
 
 Note: These are the areas where I can find Burocat as of this writing. Given that their relative Sassi has appeared and disappeared at random through Expedition, this might not stay reliably true.
 
@@ -599,7 +603,7 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
 - **Drops:** 1 Rat Tail
 - **Quests:** DFO: Main Quest 2/Rats, Wrong Way! (12), Pit of Nightmares (250)
 
-### Clawadin (Oge: MT; Exp: BC, FB)
+### Clawadin (Oge: MT\*; Exp: EldLib\*, BC, FB)
 
 Note: These are the areas where I can find Clawadin as of this writing. Given that their relative Sassi has appeared and disappeared at random through Expedition, this might not stay reliably true.
 
@@ -638,7 +642,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 1-2 Raw Fabric, 1-2 Dust, 2 Shrine Stones
 - **Quests:** ShrinePoly: The Math's Correct... (25)
 
-### Curator of Elder Library (Oge: MT*)
+### Curator of Elder Library (Oge: MT\*, Exp: EldLib\*)
 
 - **Unlocked by:** A Past Not Forgotten 
 - **Requirements:** 1000 words
@@ -1269,6 +1273,7 @@ see **Skuppa's Giant Marionette**
 - **Quests:**
   - MT: Fair, Standard, Middling (25), The Winding Path to Elder Library (3)
   - HuntS1: Proving Your Mettle 5/6 (1)
+  - HuntS1.2: Great Library Cleanup! (4)
   - Balance: Elemental Power (5)
 
 ### Imali (Exp: Dig)
@@ -1344,7 +1349,7 @@ see **Skuppa's Giant Marionette**
   - MT: Creature Colors & Highlights 3/3 (10)
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
   - HuntS1: Proving Your Perserverance 3/4 (3)
-  - HuntS1.2: Into Forest Depths 1/3 (3)
+  - HuntS1.2: Into Forest Depths 1/3 (3), Base Camp Clearing Duty (5)
 
 ### Kapir (Exp: Dig)
 
@@ -1465,7 +1470,9 @@ see **Skuppa's Giant Marionette**
 - **Time Allowed:** 80 minutes
 - **XP:** 94
 - **Drops:** 1 Spider Legs, 4 Wood, 2 Leaves
-- **Quests:** HuntS1: Proving Your Mettle 5/6 (1)
+- **Quests:** 
+  - HuntS1: Proving Your Mettle 5/6 (1)
+  - HuntS1.2: Great Library Cleanup! (6)
 
 ### Kuldoro (Exp: Sacred)
 
@@ -1597,7 +1604,7 @@ see **Skuppa's Giant Marionette**
 
 # M-Z
 
-LAST UPDATED 13 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 ### Maesc (Exp: IC)
 
@@ -1799,6 +1806,7 @@ LAST UPDATED 13 FEB 2021
   - LF: Main Quest 3/The Nitana (1), Forest Creatures (1)
   - MT: Fair, Standard, Middling (25)
   - HuntS1: Proving Your Curiosity 2/4 (6)
+  - HuntS1.2: Sticky, Sweet, and Alluring (5)
 
 ### Noasis (Exp: ShrineBird)
 
@@ -2134,6 +2142,7 @@ LAST UPDATED 13 FEB 2021
   - LF: Forest Creatures (1)
   - MT: Itsy, Bitsy, Teeny (25)
   - HuntS1: Proving Your Worth 1/4 (3)
+  - HuntS1.2: Sticky, Sweet, and Alluring (15)
   - Balance: Elemental Power (5)
   - DFO: Familiar Family Friends (5)
 
@@ -2242,6 +2251,7 @@ LAST UPDATED 13 FEB 2021
 - **Quests:**
   - LF: Forest Creatures (1)
   - MT: Huge, Gigantic, Enormous (25)
+  - HuntS1.2: Dynamic Disappearing Duo (2)
   - Balance: Rudakai Master (3)
   - DFO: Familiar Family Friends (1)
 
@@ -2274,6 +2284,7 @@ LAST UPDATED 13 FEB 2021
 - **Quests:**
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
   - HuntS1: Proving Your Perserverance 3/4 (1)
+  - HuntS1.2: Base Camp Clearing Duty (10)
   - DFO: Familiar Family Friends (5)
 
 ### Sakish (Exp: Dig)
@@ -2766,7 +2777,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - Other: 1-8 Leaves
 - **Quests:** none
 
-### Velts (Oge: MT*)
+### Velts (Oge: MT\*, Exp: EldLib\*)
 
 - **Unlocked by:** HuntS1 Quest The Hunt Begins
 - **Requirements:** 800 words
@@ -2942,6 +2953,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - MT: Tinkering With Leafsung 1/5 (5), Watering Hole (44)
   - GL: Eat the Leaves? (10)
   - HuntS1: Proving Your Worth 1/4 (2)
+  - HuntS1.2: Dynamic Disappearing Duo (2)
   - DFO: Familiar Family Friends (5)
   - HuntS4: Sing Your Wander 4/4 (1)
 
@@ -3041,7 +3053,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Quests:**
   - MT: Cool Creature Highlights 2/3 (5)
   - BC: Hard Day's Walk (1), Nabia's Exploration (1), Just a Mean Green (25)
-  - HuntS1.2: Into Forest Depths 1/3 (3)
+  - HuntS1.2: Into Forest Depths 1/3 (3), Base Camp Clearing Duty (3)
   - DFO: Reinforced Ardi Station 1/4 (1)
 
 ### Xyplos (Oge: Balance*)

@@ -360,7 +360,7 @@ NOTE: To trigger the PG Main Quests, you will have to pick up the first one as i
 
 # Side Quests, in Alphabetical Order A-M
 
-LAST UPDATED 22 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 ### 100 Minds to Explore - CAVE
 
@@ -503,6 +503,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Riza Rivertown
 - **Unlocked by:** Riza MQ6/Journey Upriver
+
+###Base Camp Clearing Duty  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Battle Experience - Gansu
 
@@ -843,6 +848,16 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Elder Library
 - **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • **The Curator of Elder Library** • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • HuntS3 Bettering Ourselves • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 
+###Curator's Catalog Cache 2/2  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • **Curator's Catalog Cache 2/2** 
+
+###Curator's Catalog Collections 1/2  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Curator's Catalog Collections** • HuntS1.2 Curator's Catalog Cache 2/2
+
 ### Curator's Family - HuntS1
 
 - **Location:** Elder Library
@@ -1060,6 +1075,11 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Rewards:** 3 Leafsung Ink
 - **Recommendations:** If you're gonna do it, pick it up as soon as it appears and dovetail it with Nasty, Dust Air. But there are better ways to get Leafsung Ink these days (such as the Mama Tree Bite My Boots! quest...)
 
+###Dynamic Disappearing Duo  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
 ### Eat the Leaves? - GL
 
 - **Location:** Guardian's Lair
@@ -1128,6 +1148,11 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 
 - **Location:** Mama Tree
 - **Unlocked by:** LF MQ4
+
+###Familiar Assistants Needed!  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Familiar Family Friends - DFO
 
@@ -1302,6 +1327,11 @@ see **Lead the Way**
 - **Location:** Underground Ruins
 - **Unlocked by:** Desert Expedition Trail: DigS Question to Axe
 
+###Great Library Cleanup!  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
 ### Green Be Gone! - ShrineCO
 
 - **Location:** Shrine of Ages
@@ -1454,6 +1484,21 @@ Note: NOT POSSIBLE to complete till Riza Rivertown is unlocked
 
 - **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
+
+###Into Forest Depths 1/3  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Into Forest Depths 1/3** • HuntS1.2 Into Forest Depths 2/3 • HuntS1.2 Into Forest Depths 3/3 
+
+###Into Forest Depths 2/3  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Into Forest Depths 1/3 • **Into Forest Depths 2/3** • HuntS1.2 Into Forest Depths 3/3 
+
+###Into Forest Depths 3/3  - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Into Forest Depths 1/3 • HuntS1.2 Into Forest Depths 2/3 • **Into Forest Depths 3/3** 
 
 ### Into the Woods - HuntS4
 
@@ -1697,7 +1742,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 # Side Quests, in Alphabetical Order: N-Z
 
-LAST UPDATED 22 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 ### Nabia's Exploration - BC
 
@@ -2155,6 +2200,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
+###A Secret Plan?  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
 ### Seeding New Beginnings (1/3) - SacredS
 
 - **Location:** Raina Sacred Site
@@ -2357,6 +2407,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Shrine of Ages
 - **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Giants Time Bracelet
 
+###Sticky, Sweet, and Alluring  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
 ###Still Missing Something - HuntS4
 
 - **Location:** Elder Library
@@ -2484,6 +2539,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Three Points Crossing
 - **Unlocked by:** MT MQ4
+
+###Tallest of Trees  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Tambo Snacks - Balance
 
@@ -2626,6 +2686,16 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 No Wrong Path
+
+###Velts' Relaxation Method  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
+###Velts' Strong Start  - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Venomous Villains - Balance
 

@@ -1,4 +1,4 @@
-LAST UPDATED 13 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 So, here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -27,6 +27,8 @@ MT: Mama Tree
 HuntS1: Hunt for the Ancients Season 1
 
 **Expedition Forest**
+
+EldLib: Elder Library
 
 BC: Base Camp
 
@@ -161,14 +163,11 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 
 - **Quests:**
 
-  OGE-MAI
-
   - MT: Tinkering With Leafsung (5)
 
-  EXPEDITION
-
   - BC: Nabia's Exploration (1)
-  - TT: Boots Made For Climbing (1), Scouting the Trees (1)
+- TT: Boots Made For Climbing (1), Scouting the Trees (1)
+  - HuntS1.2: Tallest of Trees (10)
 
 ### Buholi (Exp: TT)
 
@@ -181,7 +180,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
   - TT: Boots Made For Climbing (1), Scouting the Trees (1), TT: Buholi in the Sky (10)
   - MT: Tinkering With Leafsung (5)
   - HuntS1: Proving Your Perserverance 3/4 (1)
-  - HuntS1.2: Velts' Relaxation Method (1)
+  - HuntS1.2: Velts' Relaxation Method (1), HuntS1.2: Tallest of Trees (3)
 
 ### Buhovi (Exp: TT)
 
@@ -192,8 +191,9 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - TT: Boots Made For Climbing (1), Scouting the Trees (1)
+  - HuntS1.2: Tallest of Trees (5)
 
-### Burocat (Oge: MT; Exp: SC)
+### Burocat (Oge: MT\*; Exp: EldLib\*,SC)
 
 Note: These are the areas where I can find Burocat as of this writing. Given that their relative Sassi has appeared and disappeared at random through Expedition, this might not stay reliably true.
 
@@ -208,7 +208,7 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
 
 ###Castu (LATER GAME)
 
-### Clawadin (Oge: MT; Exp: BC, FB)
+### Clawadin (Oge: MT\*; Exp: EldLib\*,BC, FB)
 
 Note: These are the areas where I can find Clawadin as of this writing. Given that their relative Sassi has appeared and disappeared at random through Expedition, this might not stay reliably true.
 
@@ -221,7 +221,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
   - HuntS1 Quest: Elder Library's Security (4), Curator's Family (1)
   - HuntS1.2: Familiar Assistants Needed! (4)
 
-### Curator of Elder Library (Oge: MT*)
+### Curator of Elder Library (Oge: MT\*, EldLib\*)
 
 - **Unlocked by:** A Past Not Forgotten 
 - **Requirements:** 1000 words
@@ -298,7 +298,8 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 0-1 Spider Poison (usually 1), 3-4 Rope, 0-1 Feathers (usually 1), 3 Leaves
 - **Quests:**
   - MT: Fair, Standard, Middling (25), The Winding Path to Elder Library (3)
-  - HuntS1: Proving Your Mettle 5/6 (1)
+  - HuntS1: Proving Your Mettle 5/6 (1),
+  - HuntS1.2: Great Library Cleanup! (4)
 
 ### Kaija (Exp: BC)
 
@@ -310,7 +311,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
   - Functionally, anything that requires Saliva Vial will require a Kaija battle — and any battle involving a monster starting with Sapi- requires a Saliva Vial. See Sapi- monsters for details.
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
   - HuntS1: Proving Your Perserverance 3/4 (3)
-  - HuntS1.2: Into Forest Depths 1/3 (3)
+  - HuntS1.2: Into Forest Depths 1/3 (3), Base Camp Clearing Duty (5)
 
 ### Kuay (Oge: MT)
 
@@ -318,7 +319,9 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Time Allowed:** 80 minutes
 - **XP:** 94
 - **Drops:** 1 Spider Legs, 4 Wood, 2 Leaves
-- **Quests:** HuntS1: Proving Your Mettle 5/6 (1)
+- **Quests:** 
+  - HuntS1: Proving Your Mettle 5/6 (1)
+  - HuntS1.2: Great Library Cleanup! (6)
 
 ### Lombri (LATER GAME)
 
@@ -383,6 +386,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
   - LF: Main Quest 3/The Nitana (1), Forest Creatures (1)
   - MT: Fair, Standard, Middling (25)
   - HuntS1: Proving Your Curiosity 2/4 (6)
+  - HuntS1.2: Sticky, Sweet, and Alluring (5)
 
 ### Oncaiii (Exp: SC)
 
@@ -426,6 +430,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
   - LF: Forest Creatures (1)
   - MT: Itsy, Bitsy, Teeny (25)
   - HuntS1: Proving Your Worth 1/4 (3)
+  - HuntS1.2: Sticky, Sweet, and Alluring (15)
 
 ### Reudod (Exp: SC)
 
@@ -449,6 +454,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - LF: Forest Creatures (1)
   - MT: Huge, Gigantic, Enormous (25)
+  - HuntS1.2: Dynamic Disappearing Duo (2)
 
 ### Rulo (LATER GAME)
 
@@ -461,6 +467,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - BC: Hard Day's Walk (1), Nabia's Exploration (1)
   - HuntS1: Proving Your Perserverance 3/4 (1)
+  - HuntS1.2: Base Camp Clearing Duty (10)
 
 ### Sapilo (Exp: SC)
 
@@ -556,7 +563,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Baseline Drops:** 2 Coins, 1 Hunter Token
 - **Quests:** none
 
-### Velts (Oge: MT*)
+### Velts (Oge: MT\*, Exp: EldLib\*)
 
 - **Unlocked by:** HuntS1 Quest The Hunt Begins
 - **Requirements:** 800 words
@@ -623,6 +630,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - MT: Tinkering With Leafsung 1/5 (5), Watering Hole (44)
   - GL: Eat the Leaves? (10)
   - HuntS1: Proving Your Worth 1/4 (2)
+  - HuntS1.2: Dynamic Disappearing Duo (2)
 
 ### Xin (EVERYWHERE)
 
@@ -641,4 +649,4 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** Wood, Rope, Leaves
 - **Quests:**
   - BC: Hard Day's Walk (1), Nabia's Exploration (1), Just a Mean Green (25)
-  - HuntS1.2: Into Forest Depths 1/3 (3)
+  - HuntS1.2: Into Forest Depths 1/3 (3), Base Camp Clearing Duty (3)

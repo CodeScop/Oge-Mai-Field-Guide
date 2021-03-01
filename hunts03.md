@@ -1,4 +1,4 @@
-LAST UPDATED 27 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 Season 2 is back in the Desert; now, we're in the Water Region, to Season 3: The Season of Growth, watched over by the Caretaker.
 
@@ -204,6 +204,7 @@ Season 3 is scarce on Assistants and seems to be scarce on new monsters. Seems. 
 
   - LF Battles: Sassi (600 words for 6)
   - MT Battles: Velts (800 words for 8), Clawadin (800 words for 8), Burocat (1000 words for 10), Curator of Elder Library (1000 words for 10), Vanstra (3 minutes for 1-4)
+  - EldLib Battles: Burocat (1000 words for 10), Clawadin (800 words for 8), Curator of Elder Library (1000 words for 10), Velts (800 words for 8)
   - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
   - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12), Vanspi (10 minutes for 2-8)
   - Gansu Battles: Pipit (900 words for 9)
@@ -212,6 +213,7 @@ Season 3 is scarce on Assistants and seems to be scarce on new monsters. Seems. 
   - Balance Battles: Velts: Water (1600 words for 16)
   - DFO Battles: Caretaker (1200 words for 12)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
+  - HuntS1.2 Quests: Velts' Relaxation Method (25), Curator's Catalog Collections 1/2 (25), Into Forest Depths 1/3 (25), Base Camp Clearing Duty (25), Dynamic Disappearing Duo (25), Great Library Cleanup! (15), Sticky, Sweet, and Alluring (15), HuntS1.2 Tallest of Trees (10), Curator's Catalog Cache 2/2 (25)
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - Hunt S3 Quests: Moving Flora (10), Flying Past Sparks (10), Helping Those In Need Grow (25), Growing Improvement (25), Growth Pains (25), Growing Your Perception 2/3 (25), Growing Your Tenacity 3/3 (25), Battle of Constitution 3/4 (15), Of Vibrant Growth (15), Problems Feed Solutions (25)
 

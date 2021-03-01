@@ -1,4 +1,4 @@
-LAST UPDATED 22 FEB 2021
+LAST UPDATED 28 FEB 2021
 
 I was of two minds opening this section, given that the Dust summary is similar to the All Game - but then I decided that narrowing this down to "resources available in the Dust Region without traveling" might be a useful thing. And of course "resources NOT available in the Dust Region, but you'll need them, and here's where you might have forgotten them".
 
@@ -384,7 +384,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 
 ### Glass Shards
 
-- **Sources:** DESERT, WATER,
+- **Sources:** some FOREST, DESERT, WATER,
   - DFO Battles: Papple Spirit (900 words for 1), Chaensi (1300 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 3)
   - PG Battles: Zhout (600 words for 1-3), Dusiri (1000 words for 3-4), Infected Golem (1500 words for 1-5)
   - CAVE Battles: Spina (450 words for 1-2), Letos (700 words for 1-2), Kohej (2000 words for 3-5), Attwo (1500 words for 1-4)
@@ -403,7 +403,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
 
 - **Source:** FOREST EXPEDITION GL Battles: Gobkey (400 words for 1) 
 - **Sell price:** 25 Coins (don't sell unless you have >2 or have completed game)
-- **Used for:** nothing yet
+- **Used for:** FOREST
 
 ### Gold
 
@@ -534,36 +534,40 @@ ALL GAME
   - DFO Battles: Caretaker (1200 words for 12)
   - HuntS4 Quests: Something Extraordinary (10), Cheer Your Dedication (15), Sing Your Enthusiasm (20), To Celebrate and Share (20), Into the Woods (50), On the Wrong Path (25), Jubilant and Strong (50), Sing Your Bravery 2/2 (15), Ideas Brought to Life (10), Sing Your Commitment 3/4 (25), Stories to Tell (25), A Battle of Celebration (25)
 
-- **Jan 2021 Sources Outside the Hunt:**
+- **Feb 2021 Sources Outside the Hunt:**
 
-  For January, the clue is an image in the news announcement: https://4thewords.com/forum/details-325 The image looks like a torn rectangle of creamy parchment with a dark red color painted over most of it, and a much darker reddish-brown cursive capital L. The consensus is that this means red monsters, and monsters with names starting with L - which is a solid rule of thumb for the monsters below, but not entirely reliable. 
+  For February, the theme is "flying" (per the clue):
+  *We can walk, run, and swim yet we cannot compare,*
+  *to those who are blessed to soar through the air.*
 
-  - Global Battles: Viyu (15 minutes for ?)
-  - LF Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2)
-  - MT Battles: Assassin (1400 words for 14), Lorsa (450 words for 4-5), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words for 13)
+  - Global Battles: Vi (5 minutes for ), Viyu (15 minutes for ), Viyusa (25 minutes for ), Xin (100 words for 1)
+  - LF Battles: Nitana (700 words for 7), Pester (500 words for 5), Reenu (200 words for 2)
+  - MT Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Lorsa (450 words for 4-5), Spirit Lorsini (1000 words for 10)
   - FOREST EXPEDITION:
-    - BC Battles: Kaija (240 words for 2-3), Sacer (120 words for 1-2)
-    - SC Battles: Oncaiii (800 words for 8), Sapilo (450 words for 4-5), Sapira (350 words for 3-4), Sapiti (300 words for 3)
-    - FB, TT, GL Battles: Global and Hunt monsters only
-  - 3PC Battles: Lombri (1500 words and 1 Wood Spear for 15), Rulo (550 words for 5-6), Tambo (2000 words, 4 Rope, and 10 Leaves for 20), Villager (1300 words, 1 Spider Poison, and 5 Leaves for 13)
+    - BC Battles: Sacer (120 words for 1-2)
+    - FB Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
+    - GL, SC Battles: Global and Hunt monsters only
+    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7), Fin (250 words for 2-3), Finoir (500 words for 5), Scofin (150 words for 1-2)
+  - 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3)
   - ALIEN EXPEDITION:
-    - IC, RLab Battles: Global and Hunt monsters only
-    - SpaceS Battles: Ledd (500 words for 5)
-    - MiningS Battles: Pach (200 words for 2)
-  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Puna (150 words and 1 Wood Fishing Rod for 1-2), Rulo (550 words for 5-6)
+    - IC Battles: Arir (100 words for 1)
+    - SpaceS Battles: Captain Piak (1667 words for 16-17)
+    - MiningS Battles: Arir (100 words for 1), Galatre (450 words for 4-5)
+    - RLab Battles: Sulanica (1000 words for 10)
+  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Dust Witch (1200 words and 1 Stempo for 12), Frizi (150 words for 1-2), Red Witch (4000 words for 40), Wetu (1100 words for 11)
   - DESERT EXPEDITION:
-    - DigS Battles: Loi (150 words for 1-2)
-    - Ruins Battles: Global and Hunt monsters only
-  - Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, and 2 River Grass for 12), Puna (150 words and 1 Wood Fishing Rod for 1-2), Vota (800 words, 2 Rope, and 2 River Grass for 8), Yala (520 words, 2 Rope, and 2 River Grass for 5-6)
+    - DigS Battles: Global and Hunt monsters only
+    - Ruins Battles: Spirit Gordiliana (800 words for 8)
+  - Riza Battles: Frizi (150 words for 1-2), Osaril (300 words and 1 Vine Net for 3), Wyvern (1300 words for 13)
   - RAINA EXPEDITION:
-    - SurfaceC Battles: Begala (300 words for 3), Droxa (1800 words for 18), Knusha (1200 words for 12), Olea (100 words for 1), Rea & Pira (150 words for 1-2), Vaktra (700 words for 7), Vota (800 words for 8), Yala (520 words for 5-6)
-    - SwampL Battles: Larida (1000 words for 10)
-    - SacredS Battles: Pedja (1000 words for 10)
-    - Hideout Battles: Cafodu (600 words for 6), Drau (1000 words for 10), Grongu (2000 words for 17), Wisthu (800 words for 8)
-  - Balance Battles: Puna (150 words and 1 Wood Fishing Rod for 1-2), Xyplos (2000 words, 1 Water Mask, and 1 Underwater Torch for 20)
-  - DFO Battles: Dust Rudakai (2000 words, 1 Fabric Boots, and 15 Leaves for 20), Lycosta (1100 words, 1 Steel Chains, 1 Piece of Parchment, and 1 Blue Essence Ink for 11)
-  - PG Battles: Leopar (800 words for 8)
-  - CAVE Battles: Global and Hunt monsters only
+    - SurfaceC Battles: Wyvern (1300 words for 13)
+    - SwampL Battles: Heliodae (120 words for 1-2), Rhamp (250 words for 2-3)
+    - SacredS Battles: Global and Hunt monsters only
+    - Hideout Battles: Kivi (100 words for 1)
+  - Balance Battles: Global and Hunt monsters only
+  - DFO Battles: Belasi (200 words for 2), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment, and 1 Blue Essence Ink for 50), Osalyu (750 words for 7-8), Papple (1000 words for 10), Spirit Papple (900 words for 9)
+  - PG Battles: Ardid (90 words for 1), Dusiri (1000 words for 10), Eninir (500 words for 5), Poe (200 words for 2)
+  - CAVE Battles: Fosfa (800 words for 8), Sakot (1000 words for 10), Tacin (150 words for 1-2)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -704,7 +708,7 @@ FOREST EXPEDITION ONLY
 
 ### Piece of Parchment
 
-- **Sources:** DESERT, Craft,
+- **Sources:** some FOREST, DESERT, Craft,
   - DFO Bones Chest: 2-6
   - DFO Quest: Light Up The Outpost 2/4 (15)
 - **Craft:** DFO Item Shop & Craft/Dessti's Shack: 3 Dried Pulp, 3 Dust, 3 Wood
