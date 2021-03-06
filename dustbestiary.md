@@ -1,4 +1,4 @@
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 5 MAR 2021
 
 I resisted making this at first, because surely the end of the Dust Region is functionally identical to the whole game, right?
 
@@ -72,6 +72,8 @@ Dig: Dig Site
 
 Ruins: Underground Ruins
 
+Shrine0: Shrine of Ages, regardless of equipment
+
 ShrineBird: Shrine of Ages, when equipped with the Birds Time Bracelet
 
 ShrineCar: Shrine of Ages, when equipped with the Carnival Time Bracelet
@@ -87,6 +89,8 @@ ShrineGiant: Shrine of Ages, when equipped with the Giants Time Bracelet
 Shrine GO: Shrine of Ages, when equipped with Green Ooze Shrine Bracelet
 
 ShrineMar: Shrine of Ages, when equipped with the Marionette Time Bracelet
+
+ShrineNPC: Shrine of Ages, when equipped with the Special Event NPC Time Bracelet
 
 ShrinePoly: Shrine of Ages, when equipped with the Polygon Time Bracelet
 
@@ -258,6 +262,12 @@ HuntS4: Hunt for the Ancients Season 4
 ### Cafodu (Exp: Hideout)
 
 ### Captain Piak (Exp: SpaceS)
+
+###Captain Shin (Exp: ShrineNPC)
+
+### Captain Uo (Exp: ShrineNPC)
+
+see **Untu Captain Uo**
 
 ### Caravan (Exp: ShrineGiant)
 
@@ -450,6 +460,8 @@ HuntS4: Hunt for the Ancients Season 4
 ### Fin (Exp: TT)
 
 ### Finoir (Exp: TT)
+
+###First Officer Yu (Exp: ShrineNPC)
 
 ### Fonar (Exp: RLab)
 
@@ -757,6 +769,8 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 2-6 Raw Fabric, 27-88 Coins, 2-6 Raw Gold, 4-7 Fur, 1-3 Wooden Key, 1-2 Leafsung Key, 25 Hunter Tokens
 - **Quests:** HuntS4: A Battle of Celebration (3)
 
+###Motes (Exp: Shrine0)
+
 ### Mowow (Exp: RLab*)
 
 ### Murciel (Exp: Shrine TFA)
@@ -1016,6 +1030,8 @@ see **Skuppa's Giant Marionette**
 
 ### Skarn (Exp: MSite)
 
+###Skuppa (Exp: ShrineNPC)
+
 ### Skuppa's Giant Marionette (Exp: ShrineGiant)
 
 ### Sliv (Oge: Balance*)
@@ -1167,11 +1183,15 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 0-1 Cave Mushrooms (1 with enough Luck), 1-2 Leather Rolls, 2 River Water, 1 Spider Poison
 - **Quests:** CAVE Main Quest 6/Speak with Shadow (5), Submerged Spikey Swim 1/2 (8), Submerged Spikey Swim 2/2 (20)
 
+###Untu Captain Uo (Exp: ShrineNPC)
+
 ### Untu Golem (Exp: ShrineGiant)
 
 ### Untu Ship (Exp: Shrine TFA)
 
 ### Upuchu (Exp: ShrineCar)
+
+###Uurwall Uzgot (Exp: ShrineNPC)
 
 ### Vafire (Oge: CAVE)
 
@@ -1219,6 +1239,8 @@ see **Skuppa's Giant Marionette**
 - **Quests:** PG: Main Quest 2/A Desolate Path (6), Preventing Purple Power-Ups (20)
 
 ### Villager (Oge: MT*, 3PC)
+
+###Vinstacio (Exp: ShrineNPC)
 
 ### Viyu (EVERYWHERE*)
 
@@ -1290,6 +1312,8 @@ see **Skuppa's Giant Marionette**
 ### Wignow Hologram (Exp: RLab)
 
 ### Wisthu (Exp: Hideout)
+
+###Witch Monvoisin (Exp: ShrineNPC)
 
 ### Witch's Memoirs (Exp: Shrine TFA)
 

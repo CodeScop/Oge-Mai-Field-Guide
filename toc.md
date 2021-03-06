@@ -146,6 +146,10 @@
     - Quests - Marionette
     - Monsters - Marionette
     - Resources - Marionette
+  - NPC
+    - Quests - NPC
+    - Monsters - NPC
+    - Resources - NPC
   - Polygon
     - Quests - Polygon
     - Monsters - Polygon

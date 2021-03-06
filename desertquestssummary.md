@@ -1,4 +1,4 @@
-LAST UPDATED 10 FEB 2021
+LAST UPDATED 5 MAR 2021
 
 So, all the quests for the Desert Region. I'm omitting any Main Quests outside the Desert, and for non-Desert Quests I'm listing only the name and location. Let's have a quick recap of how this works:
 
@@ -50,7 +50,7 @@ NOTE: All Hunt quests are picked up in Elder Library, regardless of what Region 
 
 - Dig = Dig Site
 - Ruins = Underground Ruins
-- Shrine = Shrine of Ages (general)
+- Shrine, Shrine0 = Shrine of Ages (general)
 - ShrineBird = Shrine of Ages Birds event
 - ShrineCar = Shrine of Ages Carnival event
 - ShrineCO = Shrine of Ages Colorful Ooze event
@@ -59,6 +59,7 @@ NOTE: All Hunt quests are picked up in Elder Library, regardless of what Region 
 - ShrineGiant = Shrine of Ages Giants event
 - Shrine GO = Shrine of Ages Green Ooze event
 - ShrineMar = Shrine of Ages Marionettes event
+- ShrineNPC = Shrine of Ages Special Events NPC event
 - ShrinePoly = Shrine of Ages Polygon event
 - Shrine TFA = Shrine of Ages Terror From Above event
 
@@ -186,7 +187,19 @@ NOTE: All Hunt quests are picked up in Elder Library, regardless of what Region 
 
 # Side Quests, in Alphabetical Order: A-M
 
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 5 MAR 2021
+
+###Aid of Assistants - ShrineNPC
+
+- **Location:** Shrine of Ages
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
+- **Type:** Battle
+- **Requirements:** Defeat 3 each: 
+  - First Officer Yu
+  - Vinstacio
+  - Skuppa
+- **Rewards:** 50 Shrine Stones
+- **Recommendations:**  Hey, look, the only quest here combining different monsters featured at the same event! (Look, Shrine quests tend to be pretty self-evident in terms of recommendations, I enjoy adding trivia like this.)
 
 ### Aid the Aliens - SpaceS
 
@@ -992,6 +1005,15 @@ NOTE: This quest isn't possible to complete until you reach Riza Rivertown.
 - **Rewards:** 1 Golden Chest
 - **Recommendations:** Did you have a lot of fun with Lighten the Load? Totally your cup of tea? Great! You get to do a lot of the same thing again. Because to make 10 Steel Boots (and at least 9 of them *will* need to be crafted, probably all 10), you'll need the same 30 vials of Leafsung Ink you needed last time (you're getting so good at this!) because you need 10 Fabric Boots to create 10 Steel Boots, and you need 30 Leafsung Boots to create 10 Fabric Boots. You might be able to knock it down to 24 Leafsung Ink if you throw in the Fabric Boots from the Tailor quest and the one Steel Boots you can win from a quest later, but then you'll have no Fabric Boots and no Steel Boots of your own after a lot of grinding. AND YET this isn't as bad as the game gets. If you're running out of quests and getting bored, go ahead and why not.
 
+###Guardian of the Shrine 3/3 - Shrine0
+
+- **Location:** Shrine of Ages
+- **Quest Path:** (open via Desert Expedition Trail: Ruins Tunnel Locked On) • Shrine0 Keeper of the Shrine 1/3 • Shrine0 Helper of the Shrine 2/3 • **Guardian of the Shrine 3/3**
+- **Type:** Battle, Collection
+- **Requirements:** Defeat 3 Motes, deliver 25 Desert Stones and 25 River Stones
+- **Rewards:** Wardrobe: Motes Stone Belt https://4thewords.com/media/wardrobe/featured/male/wm&#95;1501-merchant-stone-belt-10181-25983.png
+- **Recommendations:**  This is up to you. People with long memories of when the Shrine was first introduced might wonder whether this belt has any special properties - poking around, I've found none (though I've only done a cursory check).  Do remember that River Stones are both easier to get and more in demand to spend late in the Water Region, especially the Raina Expedition, so possibly avoid doing this quest until you've evaluated how that part of the game affects your choices here.
+
 ### Guarding the Path - HuntS2
 
 - **Location:** Elder Library
@@ -1016,6 +1038,15 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Base Camp
 - **Forest Expedition Trail Route:** (open via MT MQ4 / Aid To An Elder) • MT New Adventurous Horizons •  **Hard Day's Walk** • FB Feeding the Lighthouse • IN ANY ORDER [FB Javelin Toss West • FB North: Homeward Bound • FB Stone's Throw East]
+
+###Helper of the Shrine 2/3 - Shrine0
+
+- **Location:** Shrine of Ages
+- **Quest Path:** (open via Desert Expedition Trail: Ruins Tunnel Locked On) • Shrine0 Keeper of the Shrine 1/3 • **Helper of the Shrine 2/3** • Shrine0 Guardian of the Shrine 3/3
+- **Type:** Battle, Collection
+- **Requirements:** Defeat 2 Motes, deliver 15 Desert Stones
+- **Rewards:** 2 Shrine Tickets
+- **Recommendations:** The last quest had the easiest Shrine Ticket left; this has the easiest two left after that. Fully worth it, in my book. (Even if Desert Stones are pretty in demand in Desert things, at least this is only 15.)
 
 ### Helping A Mother - ShrineDucks
 
@@ -1123,6 +1154,15 @@ Monsters and Resources listed here will not be linked with this quest outside th
 
 - **Location:** Mama Tree
 - **Unlocked by:** MT MQ4 / Aid To An Elder
+
+###Keeper of the Shrine 1/3 - Shrine0
+
+- **Location:** Shrine of Ages
+- **Quest Path:** (open via Desert Expedition Trail: Ruins Tunnel Locked On) • **Keeper of the Shrine 1/3** • Shrine0 Helper of the Shrine 2/3 • Shrine0 Guardian of the Shrine 3/3
+- **Type:** Battle
+- **Requirements:** Defeat 1 Motes
+- **Rewards:** 1 Shrine Ticket
+- **Recommendations:**  This is the easiest Shrine Ticket left in the game by the time you get here. Are you telling me you don't want Shrine Tickets?
 
 ### Khaki Twisting Beige - DigS
 
@@ -1298,7 +1338,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 #Side Quests, in Alphabetical Order: N-Z
 
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 5 MAR 2021
 
 ### Nabia's Exploration - BC
 
@@ -1346,6 +1386,22 @@ see **Luciola Lanterns**
 
 - **Location:** Stone City
 - **Unlocked by:** Forest Expedition Trail: FB Stone's Throw East
+
+###NPC's Here to Help - ShrineNPC
+
+- **Location:** Shrine of Ages
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
+- **Type:** Battle
+- **Requirements:** Defeat 1 each: 
+  - Untu Captain Uo
+  - Captain Shin
+  - First Officer Yu
+  - Uurwall Uzgot
+  - Vinstacio
+  - Skuppa
+  - Witch Monvoisin
+- **Rewards:** Wardrobe: Uurwall's Carnival Pants https://4thewords.com/media/wardrobe/featured/male/wm&#95;1577-uurwall-joker-pants-11156-37903.png
+- **Recommendations:**  Look, you didn't buy that Bracelet to NOT fight all the monsters here and add them to your Bestiary. You know you didn't. Go ahead and get them! And get a new pair of pants while you're at it!
 
 ### Oh, Endless Possibilities! - HuntS2
 
@@ -2146,6 +2202,17 @@ Monsters and Resources listed here will not be linked with this quest outside th
 - **Rewards:** Unlock Shrine of Ages
 - **Recommendations:** Want to enter the fun house/ bizarro world of the game? Come on, you know you do! And there are some nice little rewards in here, too.
 
+###Untu Leaders United - ShrineNPC
+
+- **Location:** Shrine of Ages
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
+- **Type:** Battle
+- **Requirements:** Defeat 3 each: 
+  - Captain Shin
+  - Untu Captain Uo
+- **Rewards:** 25 Shrine Stones, Wardrobe x2: Captain Shin Hair https://4thewords.com/media/wardrobe/featured/male/wm&#95;featured&#95;shin&#95;hair&#95;blue.png and Shin Earrings https://4thewords.com/media/wardrobe/featured/male/wm&#95;featured&#95;shin&#95;earrings.png
+- **Recommendations:**  This hair was the first thing I desperately wanted to spend Crystals on when I joined, and these were my first earrings, so I'm quite nostalgic for them. I also have no need for them, and that desperate feeling predates about 95% of the wardrobe options we now have. So it's hard to evaluate whether they're worth 12K battle words - you'll have to decide for yourself.
+
 ### Valley Of The Sheep - HuntS2
 
 - **Location:** Elder Library
@@ -2233,6 +2300,15 @@ Monsters and Resources listed here will not be linked with this quest outside th
 - **Requirements:** Defeat 5 Fools' Tylu & 5 Fools' Tylu (Halloween)
 - **Rewards:** 25 Shrine Stones
 - **Recommendations:** It's pretty straightforward. Tackle the Tylu, win the Shrine Stones. Good luck!
+
+###Which Witch Is This? - ShrineNPC
+
+- **Location:** Shrine of Ages
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
+- **Type:** Battle
+- **Requirements:** Defeat 5 Witch Monvoisin
+- **Rewards:** 75 Shrine Stones
+- **Recommendations:**  This is a pretty darn good Shrine Stone grinder, if you're after that.
 
 ### White Coat - Gansu
 

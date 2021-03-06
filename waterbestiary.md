@@ -1,4 +1,4 @@
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 5 MAR 2021
 
 Once again! Here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -62,6 +62,8 @@ Dig: Dig Site
 
 Ruins: Underground Ruins
 
+Shrine0: Shrine of Ages, regardless of equipment
+
 ShrineBird: Shrine of Ages, when equipped with the Birds Time Bracelet
 
 ShrineCar: Shrine of Ages, when equipped with the Carnival Time Bracelet
@@ -77,6 +79,8 @@ ShrineGiant: Shrine of Ages, when equipped with the Giants Time Bracelet
 Shrine GO: Shrine of Ages, when equipped with Green Ooze Shrine Bracelet
 
 ShrineMar: Shrine of Ages, when equipped with the Marionette Time Bracelet
+
+ShrineNPC: Shrine of Ages, when equipped with the Special Event NPC Time Bracelet
 
 ShrinePoly: Shrine of Ages, when equipped with the Polygon Time Bracelet
 
@@ -401,6 +405,12 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
 - **Drops:** Wardrobe: Piak's Earrings https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;alien&#95;crystal&#95;earings&#95;blue.png, 2-11 Coins, 3-7 Glass Shards, 1-3 Glass Bars,  5-7 Dinti, 1-4 Fine Fabric
 - **Quests:** RLab: Set Creatures Free! 1/4 (1)
 
+###Captain Shin (Exp: ShrineNPC)
+
+### Captain Uo (Exp: ShrineNPC)
+
+see **Untu Captain Uo**
+
 ### Caravan (Exp: ShrineGiant)
 
 ### Caricaco (Oge: Balance)
@@ -604,6 +614,8 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 50
 - **Drops:** 1-2 Dinti, 1-5 Raw Steel
 - **Quests:** HuntS1.2: Into Forest Depths 2/3 (1)
+
+###First Officer Yu (Exp: ShrineNPC)
 
 ### Fonar (Exp: RLab)
 
@@ -1102,6 +1114,14 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 4-7 Raw Stone, 1-2 Swamp Moss, 2-4 Leaves
 - **Quests:** Sacred: Seeding New Beginnings 1/3 (1), Seeding New Beginnings 2/3 (5), Seeding New Beginnings 3/3 (10)
 
+### Motes (Exp: Shrine0)
+
+- **Requirements:** 1000 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 100
+- **Drops:** 10 Shrine Stones, 17-25 Coins, 1-2 Rope, 1-3 Raw Fabric, 1-2 Raw Stone
+- **Quests:** Shrine: Keeper of the Shrine 1/3 (1), Helper of the Shrine 2/3 (2), Guardian of the Shrine 3/3 (3)
+
 ### Mowow (Exp: RLab*)
 
 - **Unlocked by:** RLab Quest: Making Mellow Mowow
@@ -1597,6 +1617,8 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:**  3-5 Dinti, 3-6 Raw Stone, 1 Stone Block, 2-4 Raw Gold, 1-5 Raw Sandstone, 1-2 Glass Shards
 - **Quests:** SpaceS: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2), Sparks to Ignite 3/3 (10)
 
+### Skuppa (Exp: ShrineNPC)
+
 ### Skuppa's Giant Marionette (Exp: ShrineGiant)
 
 ### Sliv (Oge: Balance*)
@@ -1749,11 +1771,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - MT: A Famiy Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); The Winding Path to Elder Library (3); New Adventurous Horizons (1)
   - HuntS1: Proving Your Strength 6/6 (6)
 
+### Untu Captain Uo (Exp: ShrineNPC)
+
 ### Untu Golem (Exp: ShrineGiant)
 
 ### Untu Ship (Exp: Shrine TFA)
 
 ### Upuchu (Exp: ShrineCar)
+
+###Uurwall Uzgot (Exp: ShrineNPC)
 
 ### Vaktra (Exp: SurfaceC)
 
@@ -1865,6 +1891,8 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - HuntS1.2: A Secret Plan? (1)
   - HuntS2: A Season to Explore (1)
 
+###Vinstacio (Exp: ShrineNPC)
+
 ### Viyu (EVERYWHERE*)
 
 - **Unlocked by:** LF Main Quest 2: Building, Not Burning
@@ -1961,6 +1989,8 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 80
 - **Drops:** 1-3 Rope, 1-3 Raw Fabric, 1-4 Raw Steel, 2-6 Dust, 1-4 Glass Shards
 - **Quests:** Hideout: Knocking Down Rebels (1), Uncanny Swamp Wisthu (6),Pushing Back Rebels 1/3 (1), Pushing Back Rebels 2/3 (3), Pushing Back Rebels 3/3 (5)
+
+### Witch Monvoisin (Exp: ShrineNPC)
 
 ### Witch's Memoirs (Exp: Shrine TFA)
 

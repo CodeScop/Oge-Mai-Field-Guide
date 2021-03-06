@@ -1,4 +1,4 @@
-LAST UPDATED 10 FEB 2021
+LAST UPDATED 5 MAR 2021
 
 And now, all the quests for the Water Region. As with the Desert, I'm omitting any Main Quests outside this Region, and for non-Water Quests I'm listing only the name and location. Let's have a quick recap of how this works:
 
@@ -50,7 +50,7 @@ NOTE: All Hunt quests are picked up in Elder Library, regardless of what Region 
 
 - Dig = Dig Site
 - Ruins = Underground Ruins
-- Shrine = Shrine of Ages (general)
+- Shrine, Shrine0 = Shrine of Ages (general)
 - ShrineBird = Shrine of Ages Birds event
 - ShrineCar = Shrine of Ages Carnival event
 - ShrineCO = Shrine of Ages Colorful Ooze event
@@ -59,6 +59,7 @@ NOTE: All Hunt quests are picked up in Elder Library, regardless of what Region 
 - ShrineGiant = Shrine of Ages Giants event
 - Shrine GO = Shrine of Ages Green Ooze event
 - ShrineMar = Shrine of Ages Marionettes event
+- ShrineNPC = Shrine of Ages Special Events NPC event
 - ShrinePoly = Shrine of Ages Polygon event
 - Shrine TFA = Shrine of Ages Terror From Above event
 
@@ -179,7 +180,7 @@ NOTE: All Hunt quests are picked up in Elder Library, regardless of what Region 
 
 # Side Quests, in Alphabetical Order A-M
 
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 5 MAR 2021
 
 ### 4 the Infected - SurfaceC
 
@@ -198,6 +199,11 @@ LAST UPDATED 28 FEB 2021
 - **Requirements:** Defeat 5 Xyplos
 - **Rewards:** 1 River Chest and 3 River Keys
 - **Recommendations:** Depends on how much you like it! Those are some sweet rewards, but they're also some high costs. Be aware that a later sidequest asks for 20 Xyplos, so if you want to forestall this till then, it might save you a couple battles.
+
+###Aid of Assistants - ShrineNPC
+
+- **Location:** Shrine of Ages
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
 
 ### Aid the Aliens - SpaceS
 
@@ -587,7 +593,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ###Curator's Catalog Cache 2/2  - HuntS1.2
 
 - **Location:** Elder Library
-- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • **Curator's Catalog Cache 2/2**
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • **Curator's Catalog Cache 2/2** 
 
 ###Curator's Catalog Collections 1/2  - HuntS1.2
 
@@ -999,6 +1005,11 @@ NOTE: This quest isn't possible to complete until you reach Riza Rivertown.
 - **Location:** Three Points Crossing
 - **Quest Path:** (open via 3PC Main Quest 5/A Way South) • 3PC Lighten the Load • **Guard Your Feet** 
 
+###Guardian of the Shrine 3/3 - Shrine0
+
+- **Location:** Shrine of Ages
+- **Quest Path:** (open via Desert Expedition Trail: Ruins Tunnel Locked On) • Shrine0 Keeper of the Shrine 1/3 • Shrine0 Helper of the Shrine 2/3 • **Guardian of the Shrine 3/3** 
+
 ### Guarding the Path - HuntS2
 
 - **Location:** Elder Library
@@ -1015,6 +1026,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Base Camp
 - **Forest Expedition Trail Route:** (open via MT MQ4 / Aid To An Elder) • MT New Adventurous Horizons •  **Hard Day's Walk** • FB Feeding the Lighthouse • IN ANY ORDER [FB Javelin Toss West • FB North: Homeward Bound • FB Stone's Throw East]
+
+###Helper of the Shrine 2/3 - Shrine0
+
+- **Location:** Shrine of Ages
+- **Quest Path:** (open via Desert Expedition Trail: Ruins Tunnel Locked On) • Shrine0 Keeper of the Shrine 1/3 • **Helper of the Shrine 2/3** • Shrine0 Guardian of the Shrine 3/3
 
 ### Helping A Mother - ShrineDucks
 
@@ -1109,7 +1125,7 @@ Note: NOT POSSIBLE to complete till Riza Rivertown is unlocked
 ###Into Forest Depths 3/3  - HuntS1.2
 
 - **Location:** Elder Library
-- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Into Forest Depths 1/3 • HuntS1.2 Into Forest Depths 2/3 • **Into Forest Depths 3/3**
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Into Forest Depths 1/3 • HuntS1.2 Into Forest Depths 2/3 • **Into Forest Depths 3/3** 
 
 ### The Invisible Ink (5/5) - MT
 
@@ -1163,6 +1179,11 @@ Monsters and Resources listed here will not be linked with this quest outside th
 
 - **Location:** Mama Tree
 - **Unlocked by:** MT MQ4 / Aid To An Elder
+
+###Keeper of the Shrine 1/3 - Shrine0
+
+- **Location:** Shrine of Ages
+- **Quest Path:** (open via Desert Expedition Trail: Ruins Tunnel Locked On) • **Keeper of the Shrine 1/3** • Shrine0 Helper of the Shrine 2/3 • Shrine0 Guardian of the Shrine 3/3
 
 ### Khaki Twisting Beige - DigS
 
@@ -1319,7 +1340,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 # Side Quests, in Alphabetical Order N-Z
 
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 5 MAR 2021
 
 ### Nabia's Exploration - BC
 
@@ -1389,6 +1410,11 @@ see **Luciola Lanterns**
 
 - **Location:** Stone City
 - **Unlocked by:** Forest Expedition Trail: FB Stone's Throw East
+
+###NPC's Here to Help - ShrineNPC
+
+- **Location:** Shrine of Ages
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
 
 ### Of Vibrant Growth - HuntS3
 
@@ -2167,6 +2193,11 @@ Monsters and Resources listed here will not be linked with this quest outside th
 - **Rewards:** 3 Stempos & Wardrobe: Black Feather Scarf https://4thewords.com/media/wardrobe/featured/male/wm&#95;711-black-feather-scarf-4662-30189.png
 - **Recommendations:** Fairly straightforward; just remember to keep an eye on the Pushing Back Rebels questline to avoid fighting more Wisthu than necessary.
 
+###Untu Leaders United - ShrineNPC
+
+- **Location:** Shrine of Ages
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
+
 ### Valley Of The Sheep - HuntS2
 
 - **Location:** Elder Library
@@ -2283,6 +2314,11 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 - **Requirements:** Deliver 50 Swamp Moss
 - **Rewards:** 15 Hunter Tokens & 10 Wooden Fishing Rods
 - **Recommendations:** Swamp Moss is available in the deeper parts of Raina, if you have trouble finding it. And while I wouldn't belabor myself to fill this up, it's a nice use for the Swamp Moss one tends to accumulate in Raina. The Wooden Fishing Rods are GREAT!
+
+###Which Witch Is This? - ShrineNPC
+
+- **Location:** Shrine of Ages
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
 
 ### White Coat - Gansu
 

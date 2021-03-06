@@ -1,4 +1,4 @@
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 5 MAR 2021
 
 Beware! **Here be spoilers**. Every single quest requiring a given monster is listed, no matter how late in the game it appears. Don't say I didn't warn you. But maybe you'll be able to mix and match quests more efficiently.
 
@@ -68,6 +68,8 @@ Dig: Dig Site
 
 Ruins: Underground Ruins
 
+Shrine0: Shrine of Ages, regardless of equipment
+
 ShrineBird: Shrine of Ages, when equipped with the Birds Time Bracelet
 
 ShrineCar: Shrine of Ages, when equipped with the Carnival Time Bracelet
@@ -83,6 +85,8 @@ ShrineGiant: Shrine of Ages, when equipped with the Giants Time Bracelet
 Shrine GO: Shrine of Ages, when equipped with Green Ooze Shrine Bracelet
 
 ShrineMar: Shrine of Ages, when equipped with the Marionette Time Bracelet
+
+ShrineNPC: Shrine of Ages, when equipped with the Special Event NPC Time Bracelet
 
 ShrinePoly: Shrine of Ages, when equipped with the Polygon Time Bracelet
 
@@ -534,6 +538,19 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
 - **Drops:** Wardrobe: Piak's Earrings https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;alien&#95;crystal&#95;earings&#95;blue.png, 2-11 Coins, 3-7 Glass Shards, 1-3 Glass Bars,  5-7 Dinti, 1-4 Fine Fabric
 - **Quests:** RLab: Set Creatures Free! 1/4 (1)
 
+###Captain Shin (Exp: ShrineNPC)
+
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
+- **Requirements:** 2000 words
+- **Time allowed:** 1440 minutes
+- **XP:** 200
+- **Drops:** 11-21 Coins, 2-4 Wood, 1-4 Glass Shards, 2-5 Raw Gold, 20 Shrine Stones, 1-3 Raw Fabric
+- **Quests:** ShrineNPC: NPC's Here to Help (1), Untu Leaders Unite (3)
+
+### Captain Uo (Exp: ShrineNPC)
+
+see **Untu Captain Uo**
+
 ### Caravan (Exp: ShrineGiant)
 
 - **Unlocked by:** Wardrobe: Giants Time Bracelet
@@ -920,6 +937,15 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 50
 - **Drops:** 1-2 Dinti, 1-5 Raw Steel
 - **Quests:** HuntS1.2: Into Forest Depths 2/3 (1)
+
+###First Officer Yu (Exp: ShrineNPC)
+
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
+- **Requirements:** 1000 words
+- **Time allowed:** 770 minutes
+- **XP:** 100
+- **Drops:** 10 Shrine Stones, 1 Fine Fabric, 5-11 Coins, 2-4 Raw Fabric, 1-2 Raw Gold
+- **Quests:** ShrineNPC: NPC's Here to Help (1), Aid of Assistants (3)
 
 ### Fonar (Exp: RLab)
 
@@ -1604,7 +1630,7 @@ see **Skuppa's Giant Marionette**
 
 # M-Z
 
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 5 MAR 2021
 
 ### Maesc (Exp: IC)
 
@@ -1723,6 +1749,14 @@ LAST UPDATED 28 FEB 2021
 - **XP:** 250
 - **Drops:** 2-6 Raw Fabric, 27-88 Coins, 2-6 Raw Gold, 4-7 Fur, 1-3 Wooden Key, 1-2 Leafsung Key, 25 Hunter Tokens
 - **Quests:** HuntS4: A Battle of Celebration (3)
+
+### Motes (Exp: Shrine0)
+
+- **Requirements:** 1000 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 100
+- **Drops:** 10 Shrine Stones, 17-25 Coins, 1-2 Rope, 1-3 Raw Fabric, 1-2 Raw Stone
+- **Quests:** Shrine: Keeper of the Shrine 1/3 (1), Helper of the Shrine 2/3 (2), Guardian of the Shrine 3/3 (3)
 
 ### Mowow (Exp: RLab*)
 
@@ -2404,6 +2438,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:**  3-5 Dinti, 3-6 Raw Stone, 1 Stone Block, 2-4 Raw Gold, 1-5 Raw Sandstone, 1-2 Glass Shards
 - **Quests:** SpaceS: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2), Sparks to Ignite 3/3 (10)
 
+###Skuppa (Exp: ShrineNPC)
+
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
+- **Requirements:** 850 words
+- **Time allowed:** 120 minutes
+- **XP:** 80
+- **Drops:** 8-9 Shrine Stones, 3-4 Wood, 1-2 Hardwood, 2-3 Rope
+- **Quests:** ShrineNPC: NPC's Here to Help (1), Aid of Assistants (3)
+
 ### Skuppa's Giant Marionette (Exp: ShrineGiant)
 
 - **Unlocked by:** Wardrobe: Giants Time Bracelet
@@ -2701,6 +2744,17 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 0-1 Cave Mushrooms (1 with enough Luck), 1-2 Leather Rolls, 2 River Water, 1 Spider Poison
 - **Quests:** CAVE Main Quest 6/Speak with Shadow (5), Submerged Spikey Swim 1/2 (8), Submerged Spikey Swim 2/2 (20)
 
+###Untu Captain Uo (Exp: ShrineNPC)
+
+also called Captain Uo at times
+
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
+- **Requirements:** 2000 words
+- **Time allowed:** 1440 minutes
+- **XP:** 200
+- **Drops:** 20 Shrine Stones, 11-21 Coins, 3-6 Raw Gold, 1-2 Feathers, 2-4 Raw Fabric, 1-3 Glass Shards
+- **Quests:** ShrineNPC: NPC's Here to Help (1), Untu Leaders Unite (3)
+
 ### Untu Golem (Exp: ShrineGiant)
 
 - **Unlocked by:** Wardrobe: Giants Time Bracelet
@@ -2727,6 +2781,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 130
 - **Drops:** 14 Shrine Stones, 3-6 Raw Fabric, 2-4 Rope, 1-3 Raw Steel, 3-7 Coins
 - **Quests:** ShrineCar: A Carnival Festival (1)
+
+###Uurwall Uzgot (Exp: ShrineNPC)
+
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
+- **Requirements:** 1200 words
+- **Time allowed:** 180 minutes
+- **XP:** 115
+- **Drops:** 10-15 Coins, 1 Fine Fabric, 1-2 Raw Steel, 12 Shrine Stones, 3-5 Raw Fabric
+- **Quests:** ShrineNPC: NPC's Here to Help (1)
 
 ### Vafire (Oge: CAVE)
 
@@ -2856,6 +2919,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - HuntS1.2: A Secret Plan? (1)
   - HuntS2: A Season to Explore (1)
 
+###Vinstacio (Exp: ShrineNPC)
+
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
+- **Requirements:** 500 words
+- **Time allowed:** 60 minutes
+- **XP:** 50
+- **Drops:** 5 Shrine Stones, 3-8 Coins, 1-3 Raw Fabric
+- **Quests:** ShrineNPC: NPC's Here to Help (1), Aid of Assistants (3)
+
 ### Viyu (EVERYWHERE*)
 
 - **Unlocked by:** LF Main Quest 2: Building, Not Burning
@@ -2972,6 +3044,15 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 80
 - **Drops:** 1-3 Rope, 1-3 Raw Fabric, 1-4 Raw Steel, 2-6 Dust, 1-4 Glass Shards
 - **Quests:** Hideout: Knocking Down Rebels (1), Uncanny Swamp Wisthu (6),Pushing Back Rebels 1/3 (1), Pushing Back Rebels 2/3 (3), Pushing Back Rebels 3/3 (5)
+
+###Witch Monvoisin (Exp: ShrineNPC)
+
+- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
+- **Requirements:** 1667 words
+- **Time allowed:** 1440 minutes
+- **XP:** 170
+- **Drops:** 17 Shrine Stones, 8-17 Coins, 3-5 Raw Fabric, 1-3 Raw Gold, 2-3 Fine Fabric
+- **Quests:** ShrineNPC: NPC's Here to Help (1), Which Witch Is This? (5)
 
 ### Witch's Memoirs (Exp: Shrine TFA)
 

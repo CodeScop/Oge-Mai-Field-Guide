@@ -28,6 +28,8 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
   - ShrinePoly = Shrine of Ages Polygon event
   - Shrine TFA = Shrine of Ages Terror From Above event
 
+#A-M
+
 ###Core Crystals
 
 - **Best sources:** Buy 'em outright. You won't get many any other way. 
@@ -688,6 +690,10 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
   - FOREST
   - 3PC Quest: Zilya's Defensive Lorsa
   - Gansu Quest: Main Quest 2/Lorsa Nest Network (1)
+
+# N-Z
+
+LAST UPDATED 5 MAR 2021
 
 ### Net
 
