@@ -1,4 +1,4 @@
- (Table of Contents last updated 28 Feb 2021)
+ (Table of Contents last updated 5 Mar 2021)
 
 - Intro & FAQ
   - Master Table of Contents
@@ -112,6 +112,8 @@
   - List of Available Quests: Desert Expedition
 - Shrine of Ages
   - Shrine of Ages Intro
+    - Shrine Open Monster
+    - Shrine Open Quests
   - Birds
     - Quests - Birds
     - Monsters - Birds
@@ -161,22 +163,18 @@
     - Wardrobe Offerings - Giants
     - Wardrobe Offerings - Green Ooze
     - Wardrobe Offerings - Marionette
+    - Wardrobe Offerings - NPCs
     - Wardrobe Offerings - Polygon
     - Wardrobe Offerings - Terror From Above
 - Shrine of Ages Latest Only
-  - Carnival
-    - Quests - Carnival
-    - Monsters - Carnival
-  - Colorful Ooze
-    - Quests - Colorful Ooze
-    - Monsters - Colorful Ooze
-  - Fools
-    - Quests - Fools
-    - Monsters - Fools
+  - Open
+    - Quests - Open
+    - Monsters - Open
+  - Special Event NPC
+    - Quests - NPCs
+    - Monsters - NPCs
   - All New Wardrobe Items
-    - Wardrobe Offerings - Carnival
-    - Wardrobe Offerings - Colorful Ooze
-    - Wardrobe Offerings - Monsters
+    - Wardrobe Offerings - NPCs
 - Hunt: Season 2 - Wandering (DESERT)
   - Season 2 Quests - The Main Line
   - Season 2 Quests - Strengthening Sideline
@@ -310,6 +308,7 @@
     - Shrine of Ages: Giants
     - Shrine of Ages: Green Ooze
     - Shrine of Ages: Marionette
+    - Shrine of Ages: NPC
     - Shrine of Ages: Polygon
     - Shrine of Ages: Terror From Above
     - Riza Rivertown

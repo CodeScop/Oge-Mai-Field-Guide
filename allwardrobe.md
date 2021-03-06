@@ -1,4 +1,4 @@
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 5 MAR 2021
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
 
@@ -488,6 +488,9 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
 
 ### Shrine of Ages: General
 
+- Without having any Shrine Bracelets, you can complete Motes' quests; the quest **Guardian of the Shrine 3/3** will get you **Motes Stone Belt**, which has two orientations:
+  - high on right hip: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1501-merchant-stone-belt-10182-14569.png
+  - high on left hip: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1501-merchant-stone-belt-10184-67268.png
 - The **Shrine Bracelets: Stempos or Tickets** section sells Shrine Bracelets, which you can put on your avatar to unlock different areas of the Shrine. They are sold for Shrine Tickets. As of this writing, there are 5 available:
   - **Birds Time Bracelet** can be bought for 3 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;640-birds-time-bracelet-3756-76083.png
   - **Carnival Time Bracelet** can be bought for 3 Shrine Tickets: https://4thewords.com/media/wardrobe/featured/female/wf&#95;647-carnival-time-bracelet-3784-68524.png
@@ -497,6 +500,7 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
   - **Giants Time Bracelet** can be bought for 10 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;642-giants-time-bracelet-3760-35652.png
   - **Green Ooze Shrine Bracelet** can be bought for 5 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;ooze&#95;time&#95;bracelet.png
   - **Marionette Time Bracelet** can be bought for 5 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;marionette&#95;time&#95;bracelet.png
+  - **(Special Event) NPC Time Bracelet** can be bought for 5 Shrine Tickets: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1525-special-event-npc-time-bracelet-11949-80245.png
   - **Polygons Time Bracelet** can be bought for 3 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;696-polygons-time-bracelet-4439-67141.png
   - **Terror From Above Shrine Bracelet** can be bought for 3 Shrine Tickets: https://media.4thewords.com/s3/media/wardrobe/featured/female/wf&#95;featured&#95;wing&#95;time&#95;bracelet.png
 - Other wardrobe items are best listed as if each Shrine of Ages event were a separate area, so that's what I'm doing below.
@@ -644,6 +648,45 @@ The **Wardrobe** section offers the following for sale:
     - red: https://media.4thewords.com/s3/media/wardrobe/featured/female/wm&#95;featured&#95;clown&#95;hair&#95;red.png
     - white: https://media.4thewords.com/s3/media/wardrobe/featured/female/wm&#95;featured&#95;clown&#95;hair&#95;white.png
     - yellow: https://media.4thewords.com/s3/media/wardrobe/featured/female/wm&#95;featured&#95;clown&#95;hair&#95;yellow.png
+
+### Shrine of Ages: NPC
+
+- The quest **NPC's Here to Help** will get you **Uurwall's Carnival Pants**, which has eleven variants:
+  - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1577-uurwall-joker-pants-11165-56162.png
+  - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1577-uurwall-joker-pants-11167-64359.png
+  - white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1577-uurwall-joker-pants-11168-33897.png
+  - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1577-uurwall-joker-pants-11169-69351.png
+  - white and black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1577-uurwall-joker-pants-11171-19949.png
+  - multicolor brown & green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1577-uurwall-joker-pants-11172-68240.png
+  - yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1577-uurwall-joker-pants-11173-65296.png
+  - rainbow yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1577-uurwall-joker-pants-11174-65191.png
+  - indigo: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1577-uurwall-joker-pants-11175-50299.png
+  - purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1577-uurwall-joker-pants-11176-46807.png
+  - teal with brown accent: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1577-uurwall-joker-pants-11177-47461.png
+- The quest **Untu Leaders United** will get you TWO Wardrobe items: 
+  - **Shin Earrings**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;shin&#95;earrings.png
+  - **Captain Shin Hair**, a black bun with blue jeweled hairpins and with four variants of combs:
+    - blue combs: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;shin&#95;hair&#95;blue.png
+    - green combs: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;shin&#95;hair&#95;green.png
+    - burgundy combs: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;shin&#95;hair&#95;red.png
+    - gold combs: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;shin&#95;hair&#95;yellow.png
+- The **Wardrobe** section offers the following for sale:
+  - Monvoisin's Hat - 250 Shrine Stones, a black hat with five variants of colored cat ears:
+    - blue: https://4thewords.com/media/wardrobe/featured/female/wm&#95;featured&#95;witchcat&#95;hat&#95;blue.png
+    - green: https://4thewords.com/media/wardrobe/featured/female/wm&#95;featured&#95;witchcat&#95;hat&#95;green.png
+    - red: https://4thewords.com/media/wardrobe/featured/female/wm&#95;featured&#95;witchcat&#95;hat&#95;red.png
+    - white: https://4thewords.com/media/wardrobe/featured/female/wm&#95;featured&#95;witchcat&#95;hat&#95;white.png
+    - yellow:  https://4thewords.com/media/wardrobe/featured/female/wm&#95;featured&#95;witchcat&#95;hat&#95;yellow.png
+  - Skuppa's Beard - 50 Shrine Stones, seven variants: 
+    - dark gray: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;skuppas&#95;black&#95;beard.png
+    - light blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;skuppas&#95;blue&#95;beard.png
+    - light green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;skuppas&#95;green&#95;beard.png
+    - light purple: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;skuppas&#95;purple&#95;beard.png
+    - light red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;skuppas&#95;red&#95;beard.png
+    - white: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;skuppas&#95;white&#95;beard.png
+    - light yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;skuppas&#95;yellow&#95;beard.png
+  - Uurwall's Carnival Cloak - 250 Shrine Stones: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;uurwall&#95;coat.png
+  - Captain Shin Facepaint - 25 Shrine Stones: https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;shin&#95;paint.png
 
 ### Shrine of Ages: Polygon
 

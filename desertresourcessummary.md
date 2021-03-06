@@ -1,4 +1,4 @@
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 5 MAR 2021
 
 Summary of everything available in the DESERT. (Yes, now including Shrine of Ages!) Abbreviations:
 
@@ -15,7 +15,7 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
 - DESERT EXPEDITION
   - Dig or DigS = Dig Site
   - Ruins = Underground Ruins
-  - Shrine = Shrine of Ages (general)
+  - Shrine, Shrine0 = Shrine of Ages (general)
   - ShrineBird = Shrine of Ages Birds event
   - ShrineCar = Shrine of Ages Carnival event
   - ShrineCO = Shrine of Ages Colorful Ooze event
@@ -24,6 +24,7 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
   - ShrineGiant = Shrine of Ages Giants event
   - Shrine GO = Shrine of Ages Green Ooze event
   - ShrineMar = Shrine of Ages Marionettes event
+  - ShrineNPC = Shrine of Ages Special Event NPC event
   - ShrinePoly = Shrine of Ages Polygon event
   - Shrine TFA = Shrine of Ages Terror From Above event
 
@@ -52,12 +53,14 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
 - **Other sources:** FOREST, 
   - sell items (River Grass and Gold Bars can be especially good for this; Raw Fabric can also be useful. Protective Mantles may also be sold.)
   - 3PC Battles: Vanspi (10 minutes for 10-40),  (1300 words, 1 Spider Poison, and 5 Leaves for 3-7)
+  - Shrine0 Battle: Motes (1000 words for 17-25)
   - Shrine TFA Battles: Fools' Lorsa (150 words for 1-4), Witch's Memoirs (500 words for 0-8), Fools' Lorsa Halloween (100 words for 0-4), Lupo (450 words for 0-2)
   - ShrineBird Battles: Katock (500 words for 2-5)
   - ShrineGiant Battles: Takra (500 words for 2-5)
   - ShrineCar Battles: Fetezira (1000 words for 3-7), Upuchu (1400 words for 3-7)
   - ShrineCO Battles: Zainga (250 words for 2-4), Afeppti (444 words for 2-6), Kenkom (360 words for 1-3), Roaki (500 words for 1-4)
   - ShrineFools Battles: Fools' Tylu (200 words for 3-5 Coins), Fools' Wignow (100 words for 1-5), Fools' Tylu (Halloween) (250 words for 2-5), Fools' Wrimo (100 words for 1-4), Fools' Wignow (Halloween) (100 words for 0-4), Fools' Mawt (180 words for 1-5), Fools' Mawt (Halloween) (200 words for 1-5)
+  - ShrineNPC Battles: Vinstacio (500 words for 3-8), Uurwall Uzgot (1200 words for 10-15), Captain Shin (2000 words for 11-21), Untu Captain Uo (2000 words for 11-21), First Officer Yu (1000 words for 5-11), Witch Monvoisin (1667 words for 8-17)
   - RLab Quest: Encourage an Ecosystem 4/4 (1)
 - **Buy: **FOREST
 - **Used for:** Buy misc items;
@@ -171,6 +174,7 @@ Summary of everything available in the DESERT. (Yes, now including Shrine of Age
   - Gansu Quests: Main Quest 1/Circle of Protection (15), Main Quest 3/Sacred Shrine (5), Stone Collector (100), Protect the Body (50), Protect the Mind (100), Protect the Spirit (200), Respark the Flame (20)
   - RLab Quest: Zappy Zazzy Xombri (10)
   - Ruins Quest: Tunnel Locked On (3)
+  - Shrine0 Quests: Helper of the Shrine 2/3 (15), Guardian of the Shrine 3/3 (25)
   - HuntS2 Quest: Our Waymark Stones (10)
 
 ### Desert Wooden Chest
@@ -289,6 +293,7 @@ See **Wooden Chest**.
   - ShrineBird Battles: Peq (500 words for 0-1), Ralbone (1000 words for 1-2)
   - ShrineCar Battles: Fetezira (1000 words for 2-3), Halores (900 words for 1)
   - ShrineCO: Crilum (280 words for 1)
+  - ShrineNPC Battle: Untu Captain Uo (2000 words for 1-2)
 - **Buy: **FOREST
 - **Sell price:** 8 Coins (don't sell unless you have >100)
 - **Used for:** FOREST,
@@ -305,6 +310,7 @@ See **Wooden Chest**.
   - SpaceS Battles: Kovar (350 words for 0-1), Yalarr (500 words for 1), Captain Piak (1667 words for 1-4)
   - MSite Battle: Ityf (1250 words for 1-2)
   - RLab Battle: Sulanica (1000 words for 1-2), Dr. Hogglevoss (1200 words for 0-2), Dr. Enoe (1500 words for 1-2)
+  - ShrineNPC Battles: Witch Monvoisin (1667 words for 2-3), First Officer Yu (1000 words for 1), Uurwall Uzgot (1200 words for 1)
 - **Craft:** 3PC Crafts & Trinkets/Shuri of Sand: 5 Raw Fabric, 1 Red Dye, 1 Essence
 - **Sell price:** 75 Coins (don't sell unless you have >50)
 - **Used for:** later game,
@@ -392,6 +398,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
   - MSite Battle: Skarn (1100 words for 1-2)
   - RLab Battles: Tessen (500 words for 1-3), Minica (900 words for 2-5), Sulanica (1000 words for 1-3), Zanutaki (500 words for 1)
   - ShrineCO Battles: Elobre (200 words for 1-2)
+  - ShrineNPC Battles: Captain Shin (2000 words for 1-4), Untu Captain Uo (2000 words for 1-3)
 - **Buy: **75 Coins at 3PC Blacksmith/Blacksmith Barliar AND Gansu Item Shop/Tepij Locals
 - **Sell price:** 12 Coins (Make Glass Bars out of any Glass Shards you have over 5; it'll be most useful that way)
 - **Used for:** 
@@ -452,6 +459,7 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 
 - **Sources:** later game,
   - SpaceS Battle: Szalin (700 words for 0-2)
+  - ShrineNPC Battles: Skuppa (850 words for 1-2)
 - **Buy: **later game
 - **Sell price:** 100 Coins (don't sell here)
 - **Used for:** later game,
@@ -766,9 +774,11 @@ FOREST ONLY
   - DigS Battles: Okkorhi (1000 words for 1-3)
   - HuntS2/Dig, Ruins Battles: Lubu (450 words for 1-2)
   - HuntS2/Dig Battles: Imali (150 words for 1), Shashi (250 words for 1-2), Attleas (350 words for 2-3), Shepherd (1000 words for 2-6)
+  - Shrine0 Battle: Motes (1000 words for 1-3)
   - ShrineCar Battles: Thapiolo (1100 words for 2-5), Upuchu (1400 words for 3-6), Mahor (1667 words for 1-3)
   - ShrineCO Battles: Spodo (135 words for 1), Otpar (180 words for 1), Lekhop (320 words for 0-1)
   - ShrineMar Battles: Osemar (1000 words for 1-4), Balatrix (630 words for 1-2), Balatros (700 words for 1-2), Balatras (785 words for 1-2)
+  - ShrineNPC Battles: Vinstacio (500 words for 1-3), Uurwall Uzgot (1200 words for 3-5), First Officer Yu (1000 words for 2-4), Witch Monvoisin (1667 words for 3-5), Untu Captain Uo (2000 words for 2-4), Captain Shin (2000 words for 1-3)
   - 3PC Quests: Main Quest 4/A Desert Army (2-3 per Assassin)
   - ShrineGiant Battles: Giant Dust Spirit (500 words for 1-4), Caravan (5000 words for 5-13)
 - **Buy: **40 Coins in Item Bazaar/Zilya's Great Bazaar 
@@ -793,6 +803,7 @@ FOREST ONLY
   - Dig Battles: Shashi (250 words for 0-1), Okkorhi (1000 words for 1-4)
   - RLab Battle: Sulanica (1000 words for 1)
   - Ruins Quest: Searching South (5), Gordi & Griffe Gather (3)
+  - ShrineNPC Battles: Untu Captain Uo (2000 words for 3-6), Captain Shin (2000 words for 2-5), First Officer Yu (1000 words for 1-2), Witch Monvoisin (1667 words for 1-3)
   - ShrineGiant Battles: Takra (500 words for 0-3), Untu Golem (500 words for 0-2)
 - **Buy: **75 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 12 Coins (please don't sell this, you'll make so much more if you craft it into Gold Bars.)
@@ -842,6 +853,7 @@ FOREST ONLY
   - ShrineBird Battles: Katock (500 words for 0-2)
   - ShrineCar Battles: Biironk (420 words for 1-2), Halores (900 words for 1-3), Upuchu (1400 words for 1-3)
   - ShrineGiant Battles: Skuppa's Giant Marionette (500 words for 1-3), Untu Golem (500 words for 0-2)
+  - ShrineNPC Battles: Uurwall Uzgot (1200 words for 1-2)
   - Ruins Quest: Navigating North (5)
 - **Buy: **35 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 8 Coins (DO NOT SELL. You will need this to craft SO MANY STEEL BARS.)
@@ -870,6 +882,7 @@ FOREST ONLY
   - Ruins Battles: Griffe (450 words for 1), Ripos (1800 words for 1-3)
   - Ruins Quest: Excavating East (5)
   - ShrineCO Battles: Zainga (250 words for 1-3), Kenkom (360 words for 1-3)
+  - Shrine0 Battle: Motes (1000 words for 1-2)
   - Shrine TFA Battles: Arir (100 words for 1-2)
   - Shrine GO Battles: Tryi Ooze (150 words for 0-1), Giant Ooze (1000 words for 1-4)
   - ShrineDucks Battles: Natida (500 words for 1-3), Dati (150 words for 0-2), Tian (100 words for 0-1)
@@ -943,13 +956,16 @@ FOREST ONLY
 
 ### River Stone
 
-- **Sources:** Furoxi (400 words & 1 Steel Fishing Rod for 1) 
+- **Sources:** 
+  - Gansu Battle: Furoxi (400 words & 1 Steel Fishing Rod for 1) 
 - **Sell price:** 30 Coins (don't sell right now)
-- **Used for:** later game
+- **Used for:** later game,
+  - Shrine0 Quests: Guardian of the Shrine 3/3 (25)
 
 ### River Water 
 
-- **Sources:** Furoxi (400 words & 1 Steel Fishing Rod for 1), later game
+- **Sources:** 
+  - Gansu Battle: Furoxi (400 words & 1 Steel Fishing Rod for 1), later game
 - **Sell price:** 30 Coins (don't sell right now)
 - **Used for:** later game,
   - Craft HOUSE: Boiling Cauldron in Furniture requires 10
@@ -971,7 +987,9 @@ FOREST ONLY
   - MSite Battles: Arren (800 words for 1)
   - RLab Battles: Gwynos (450 words for 0-2), Ferenti (750 words for 1-4), Sabu (500 words for 1)
   - Dig Battles: Dig Battles: Attleas (350 words for 1), Shepherd (1000 words for 1-3)
+  - Shrine0 Battle: Motes (1000 words for 1-2)
   - ShrineCar Battles: Upuchu (1400 words for 2-4)
+  - ShrineNPC Battles: Skuppa (850 words for 2-3)
   - Shrine TFA Battles: Untu Ship (500 words for 1-3)
   - Shrine GO Battles: Whaly Ooze (100 words for 0-1), Giant Ooze House (500 words for 1-2), Giant Ooze (1000 words for 1-2)
   - ShrinePoly Battles: Poly Aracnu (600 words for 0-2), Poly Wignow (314 words for 0-1), Poly Mawt (900 words for 0-1)
@@ -1066,6 +1084,9 @@ The game usually simply calls this **Sandstone**. Since I call the parallel Ston
 
 - **Sources (all fairly equal):** 
   - IC, MSite Battle: Arir (100 words for 1)
+  - Shrine0 Battle: Motes (1000 words for 10)
+  - ShrineNPC Quests: Untu Leaders United (25), Aid of Assistants (50), Which Witch Is This? (75)
+  - ShrineNPC Battles: Witch Monvoisin (1667 words for 17), Skuppa (850 words for 8-9), Vinstacio (500 words for 5), First Officer Yu (1000 words for 10), Uurwall Uzgot (1200 words for 12), Captain Shin (2000 words for 20), Untu Captain Uo (2000 words for 20)
   - Shrine TFA Battles: Arir (100 words for 1), Fools' Lorsa Halloween (100 words for 1), Fools' Lorsa (150 words for 1-2), Lupo (450 words for 4-5), Witch's Memoirs (500 words for 5), Untu Ship (500 words for 5), Murciel (600 words for 6)
   - Shrine TFA Quests: Shrine Creature Flyby (50), Those Nightly Terrors (25), Beware! Rock Shower (10)
   - Shrine GO Battles: Mini Ooze (50 words for 1), Froji Ooze (165 words for 2-3), Whaly Ooze (100 words for 1), Yawni Ooze (125 words for 1-2), Tryi Ooze (150 words for 1-2), Wowtri Ooze (250 words for 2-3), Balli Ooze (250 words for 2-3), Wavi Ooze (330 words for 3-4), Giant Ooze House (500 words for 5), Giant Ooze (1000 words for 10)
@@ -1094,15 +1115,11 @@ The game usually simply calls this **Sandstone**. Since I call the parallel Ston
 
 ### Shrine Ticket
 
-- **Sources:** Level up, Craft
+- **Sources:** Level up, Craft,
+  - Shrine0 Quests: Keeper of the Shrine 1/3 (1), Helper of the Shrine 2/3 (2)
 - **Craft:** Shrine of Ages Shrine Bracelets: 10 Stempos
 - **Sell price:** 25 Coins (don't sell unless you're very desperate and have >10 to spare)
-- **Used for:** purchasing Shrine Bracelets
-  - Green Ooze Shrine Bracelet (5)
-  - Terror From Above Shrine Bracelet (3)
-  - Ducks Time Bracelet (3)
-  - Polygons Time Bracelet (3)
-  - Marionette Time Bracelet (5)
+- **Used for:** purchasing Shrine Bracelets (see Shrine for full list)
 
 ### Spider Bow
 
@@ -1363,6 +1380,7 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
   - Gansu Battles: Pipit (900 words for 1-2)
   - ShrineCar Battles: Roica (150 words for 1-2), Biironk (420 words for 2-4), Halores (900 words for 3-5)
   - ShrineCO Battles: Fraite (220 words for 2-3), Lekhop (320 words for 1-3)
+  - ShrineNPC Battles: Skuppa (850 words for 3-4), Captain Shin (2000 words for 2-4)
   - Shrine TFA Battles: Untu Ship (500 words for 1-6), Fools' Lorsa (150 words for 1), Fools' Lorsa Halloween (100 words for 1)
   - ShrineGiant Battles: Skuppa's Giant Marionette (500 words for 2-4), Guardian (500 words for 1-4), Untu Golem (500 words for 0-7)
   - Shrine GO Battles: Giant Ooze House (500 words for 2-4), Yawni Ooze (125 words for 0-2), Wavi Ooze (330 words for 1)

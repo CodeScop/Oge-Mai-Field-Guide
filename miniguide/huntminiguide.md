@@ -12,3 +12,7 @@ Okay then!
 
 The Hunt is a tangled web, and it can get VERY easy to get sidetracked. Making things more complicated, it continues to evolve. (The wiki is great on listing things out here! Check it out: https://4thewords.fandom.com/wiki/Hunt_for_the_Ancients)
 
+# The Great Quest Chain
+
+The Hunt progresses in stages, where a series of quests unlocks a capstone for the Season, which in turn unlocks the next Season and its quests. So if we focus only on 
+
