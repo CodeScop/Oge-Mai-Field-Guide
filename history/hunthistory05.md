@@ -1,4 +1,4 @@
-LAST UPDATED 27 FEB 2021
+LAST UPDATED 25 MAR 2021
 
 Year 2, Season 1 introduced House Items to us (well, House Items beyond the three that appeared almost a year before Houses did: Hunt Altar, Monument, and Shrine). We are again in the Season of Hope, and quests seem to be mostly unlocked via the capstone of last year's Season of Hope, and much less direction-oriented. Seem. Look, I'm making this history as it happens, there's only so much I can do. Hence I'm calling this Season 1.2.
 
@@ -85,3 +85,66 @@ All the new Token Store items this month are wardrobe.
 - Hunter Leather Corset - 75 Hunter Tokens
 - Hunt Leather Pants - 100 Hunter Tokens
 - Hunter Cape - 150 Hunter Tokens
+
+# March 24 2021
+
+###New S1.2 Quests: 24 Feb 2021
+
+- Close to Home
+- Curator's Catalog Curios 3/3
+- Forward Base Swarm 1/2
+- Forward Base Swarm 2/2
+- Gentle, Magical Being
+- Mawt Shading Practice
+
+### New S1.2 Monsters - none so far
+
+### New S1.2 Resources - none so far
+
+### Hunter Token Sources: Feb 2021
+
+**Mar 2021 Sources Outside the Hunt:**
+
+For March, the theme is "green". Interestingly, Dinti coloring on monsters seems to count as "green" in only a couple cases, and at least one Hunter Token source seems to be a legacy 
+
+- Global Battles: Viyu (15 minutes for ?3-12), Xin (100 words for 1)
+- LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Nitana (700 words for 7), Wignow (250 words for 2-3)
+- MT Battles: Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
+- FOREST EXPEDITION:
+  - BC Battles: Sacer (120 words for 1-2)
+  - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6)
+  - GL Battles: Maikile (750 words for 7-8), Night Dandeleon (330 words for 3-4)
+  - SC Battles: Reudod (600 words for 6)
+  - TT Battles: Global and Hunt monsters only
+- 3PC Battles: Global and Hunt monsters only
+- ALIEN EXPEDITION:
+  - IC Battles: Arir (100 words for 1), Nedi (800 words for 8), Rosarin (500 words for 5)
+  - SpaceS Battles: Szalin (700 words for 7), Yalarr (500 words for 5)
+  - MiningS Battles: Arir (100 words for 1), Halix (250 words for 2-3), Skarn (1100 words for 11), Zals (900 words for 9)
+  - RLab Battles: Dr. Enoe (1500 words for 15), Dr. Hogglevoss (1200 words for 12), Fonar (200 words for 2), Gwynos (450 words for 4-5)
+- Gansu Battles: Sparfly (450 words for 4-5)
+- DESERT EXPEDITION:
+  - DigS Battles: Global and Hunt monsters only
+  - Ruins Battles: Global and Hunt monsters only
+- Riza Battles: Patliadu (750 words and 1 Harpoon for 7-8), Sparfly (450 words for 4-5), Wyvern (1300 words for 13)
+- RAINA EXPEDITION:
+  - SurfaceC Battles: Auwi (500 words for 5), Wyvern (1300 words for 13)
+  - SwampL Battles: Copei (800 words for 8), Galai (1500 words for 15), Larida (1000 words for 10), Quishi (350 words for 3-4), Swamp Wignow (500 words for 5)
+  - SacredS Battles: Ognimaf (300 words for 3), Swamp Wignow (500 words for 5)
+  - Hideout Battles: Wisthu (800 words for 8)
+- Balance Battles: Isartu (720 words for 7-8), Sliv (550 words and 1 Water Mask for 5-6), Vezi (1300 words, 1 Water Mask, and 1 Underwater Torch for 13)
+- DFO Battles: Global and Hunt monsters only
+- PG Battles: Global and Hunt monsters only
+- CAVE Battles: Gliva (300 words for 3), Gormist (1667 words for 17), Letos (700 words for 7), Olanat (1100 words for 11), Reflection (4444 words for 45), Sakot (1000 words for 10), Spina (450 words for 4-5), Tacin (150 words for 1-2), Ulos (650 words for 6-7), Vafire (500 words for 5)
+
+### New Hunter Token Store Items: Mar 2021
+
+All the new Token Store items this month are wardrobe.
+
+- Hunt Head Tattoo Double Swirl - 15 Hunter Tokens
+- Hunt Head Tattoo Thin Lines - 15 Hunter Tokens
+- Hunt Head Tattoo Triangles - 15 Hunter Tokens
+- Hunter Knotted Beard - 25 Hunter Tokens
+- Hunter Leather Face Mask - 25 Hunter Tokens
+- Hunter Leather Shoes - 50 Hunter Tokens
+- Hunter Leather Apron - 150 Hunter Tokens

@@ -1,4 +1,4 @@
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 25 MAR 2021
 
 If you haven't yet, check out my Hunt Intro a couple chapters ago to get a grounding in the Hunt for the Ancients. The Hunt for the Ancients started in 2020 as an event that updated on a roughly monthly basis. It's grown into one of the more tangled and delightful paths of the game.
 
@@ -262,6 +262,15 @@ The Hunt released four Seasons in 2020. 2021 launched with a series of quests th
 - **Rewards:** 25 Hunter Tokens
 - **Recommendations:**  This'll help you get the Saliva Vials for the Curator quest part 2, and dovetails well with Into Forest Depths.
 
+###Close to Home
+
+- **Location:** Elder Library
+- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 5 Villagers
+- **Rewards:** 100 Coins, 15 Hunter Tokens
+- **Recommendations:**  none needed! Self-explanatory.
+
 ###Curator's Catalog Collections 1/2
 
 - **Location:** Elder Library
@@ -280,6 +289,15 @@ The Hunt released four Seasons in 2020. 2021 launched with a series of quests th
 - **Rewards:** 25 Hunter Tokens
 - **Recommendations:**  Huh, hadn't figured that there would be a series with these collection quests. (Note that when Part 1 came out, it wasn't labeled as such.) The Gobkey Trinkets are easy to get, and the Rusty Pendants will gradually accrue as you open chests in Mama Tree (with decent Luck); Saliva Vials are easy to farm but increasingly widely used, and Nezthai Claws are something you'll already need quite a few of to complete all the quests this round. But if that's not off-putting, go for it!
 
+###Curator's Catalog Curios (3/3)
+
+- **Location:** Elder Library
+- **Unlocked by:** Curator's Catalog Cache (2/2)
+- **Type:** Collection
+- **Requirements:** Deliver 3 White Fur, 10 Spider Poison, 10 Essence, 5 Dust, and 5 Rusty Amulets
+- **Rewards:** 50 Hunter Tokens
+- **Recommendations:**  It's possible that you may have unlocked this and have no idea what White Fur is, since it doesn't become available until you've unlocked most of the Desert. (And it's also possible that you've gotten deep enough in the game on multiple levels to have unlocked a source of White Fur right here in the Forest Region.) For the rest of it, there are no magic tricks or surprises; just do your best and remember that you can always work on a collection quest without having it take up space in your questbook.
+
 ###Dynamic Disappearing Duo
 
 - **Location:** Elder Library
@@ -297,6 +315,33 @@ The Hunt released four Seasons in 2020. 2021 launched with a series of quests th
 - **Requirements:** Defeat 4 each Sassi, Alnu, Burocat, and Clawadin
 - **Rewards:** Wardrobe: Hunt Aging Beard https://4thewords.com/media/wardrobe/featured/male/wm&#95;1526-hunt-aging-beard-10389-52135.png
 - **Recommendations:**  This one REALLY feels like an optional sidequest!
+
+###Forward Base Swarm 1/2
+
+- **Location:** Elder Library
+- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 50 Each Ardia, Ardii, and Ardis
+- **Rewards:** Wardrobe: Ardi Belt https://4thewords.com/media/wardrobe/featured/male/wm&#95;989-ardi-belt-7180-77015.png (has variants in the colors of Ardia, Ardii, Ardis, and Spirit Ardia)
+- **Recommendations:** Really, in and of itself, this is a pretty self-evident quest. If you have one of the sidequests that require hundreds of Ardi* Dust, this is a nice way to generate it. And if you want to evaluate based on the quest chain, you can read ahead to the next quest on your own. :)
+
+###Forward Base Swarm 2/2
+
+- **Location:** Elder Library
+- **Unlocked by:** Forward Base Swarm 1/2
+- **Type:** Collection
+- **Requirements:** Deliver 25 Wood, 25 Rope, 3 Steel Bars and 3 Stone Blocks
+- **Rewards:** 100 Coins and 25 Hunter Tokens
+- **Recommendations:**  And that's it for this one. No secrets, not tricks here.
+
+###Gentle, Magical Being
+
+- **Location:** Elder Library
+- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
+- **Type:** Battle, Collection
+- **Requirements:** Defeat 3 Mirdor and deliver 10 Wood, 10 Rope, and 3 Spider Legs
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:**  Read the quest description carefully: you won't be able to find the Mirdor until you've opened the Bard's domain of the Hunt, making this the only HuntS1.2 quest that requires having progressed to the Hunt Season 4. If you haven't gotten that far yet, rejoice in the fact that you'll be able to dovetail this quest with Season 4 requirements. :)
 
 ###Great Library Cleanup!
 
@@ -333,6 +378,15 @@ The Hunt released four Seasons in 2020. 2021 launched with a series of quests th
 - **Requirements:** Deliver 2 Gobkey Trinkets, 2 Dandeleon Flowers, and 2 Essence; defeat 5 Gobkey, 5 Dandeleon, and 5 Maikile
 - **Rewards:** 10 Hunter Tokens and House Item: Hunt Shield Ornament https://4thewords.com/public/hideouts/hideout&#95;element&#95;322&#95;30102/variant&#95;icon&#95;1197&#95;737.png 
 - **Recommendations:**  Hey, first House Item reward!!! (It can also be crafted in the Hunter Token Store if you want a more detailed look at it.) You'll definitely get all your resources during your battles, which are largely in Guardian's Lair. (I wonder if the Forward-Base-dwelling Dandeleon was originally a Guardian's-Lair-dwelling Night Dandeleon? If so, the switch was kind to users; Night Dandeleons disappear during the day, but their cousins are available 24/7.)
+
+###Mawt Shading Practice
+
+- **Location:** Elder Library
+- **Unlocked by:** HuntS1 Quest: The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 5 Grey's Mawt and 5 Mawt
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:**  none needed! Self-explanatory.
 
 ###A Secret Plan?
 
@@ -504,23 +558,23 @@ Note that you must complete the **Joining the Hunt** quest for these to appear, 
   - EldLib Battles: Burocat (1000 words for 10), Clawadin (800 words for 8), Curator of Elder Library (1000 words for 10), Velts (800 words for 8)
   - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
-  - HuntS1.2 Quests: Velts' Relaxation Method (25), Curator's Catalog Collections 1/2 (25), Into Forest Depths 1/3 (25), Base Camp Clearing Duty (25), Dynamic Disappearing Duo (25), Great Library Cleanup! (15), Sticky, Sweet, and Alluring (15), HuntS1.2 Tallest of Trees (10), Curator's Catalog Cache 2/2 (25)
+  - HuntS1.2 Quests: Velts' Relaxation Method (25), Curator's Catalog Collections 1/2 (25), Into Forest Depths 1/3 (25), Base Camp Clearing Duty (25), Dynamic Disappearing Duo (25), Great Library Cleanup! (15), Sticky, Sweet, and Alluring (15), HuntS1.2 Tallest of Trees (10), Curator's Catalog Cache 2/2 (25), Close to Home (15), Gentle, Magical Being (25), Mawt Shading Practice (25), Forward Base Swarm 2/2 (25), Curator's Catalog Curios 3/3 (50)
   - later Hunt
 
-- **Feb 2021 Sources Outside the Hunt:**
+- **Mar 2021 Sources Outside the Hunt:**
 
-  For February, the theme is "flying" (per the clue):
-  *We can walk, run, and swim yet we cannot compare,*
-  *to those who are blessed to soar through the air.*
+  For March, the theme is "green". Interestingly, Dinti coloring on monsters seems to count as "green" in only a couple cases, and at least one Hunter Token source seems to be a legacy 
 
-  - Global Battles: Vi (5 minutes for ), Viyu (15 minutes for ), Viyusa (25 minutes for ), Xin (100 words for 1)
-  - LF Battles: Nitana (700 words for 7), Pester (500 words for 5), Reenu (200 words for 2)
-  - MT Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Lorsa (450 words for 4-5), Spirit Lorsini (1000 words for 10)
+  - Global Battles: Viyu (15 minutes for ?3-12), Xin (100 words for 1)
+  - LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Nitana (700 words for 7), Wignow (250 words for 2-3)
+  - MT Battles: Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
   - FOREST EXPEDITION:
     - BC Battles: Sacer (120 words for 1-2)
-    - FB Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
-    - GL, SC Battles: Global and Hunt monsters only
-    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7), Fin (250 words for 2-3), Finoir (500 words for 5), Scofin (150 words for 1-2)
+    - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6)
+    - GL Battles: Maikile (750 words for 7-8), Night Dandeleon (330 words for 3-4)
+    - SC Battles: Reudod (600 words for 6)
+    - TT Battles: Global and Hunt monsters only 
+  - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -565,12 +619,18 @@ The 2021 Hunt for the Ancients opened with a new set of quests unlocked by The C
 - HuntS1.2 Into Forest Depths 1/3 - deliver a few Forest Expedition materials, fight a bunch of Forest Expedition monsters, get 25 Hunter Tokens
   - HuntS1.2 Into Forest Depths 2/3 - deliver a few Forest Expedition materials, fight a bunch of deeper Forest Expedition monsters, get Wardrobe: Hunt Facemask
     - HuntS1.2 Into Forest Depths 3/3 - deliver a few Forest Expedition materials, fight a bunch of EVEN DEEPER Forest Expedition monsters, get 10 Hunter Tokens and House Item: Hunt Shield
+- HuntS1.2 Forward Base Swarm 1/2 - defeat 50 each Ardia, Ardii, and Ardis, get Wardrobe: Ardi Belt
+  - HuntS1.2 Forward Base Swarm 2/2 - deliver a bunch of building materials, get 100 Coins and 25 Hunter Tokens
 - HuntS1.2 Curator's Catalog Collections 1/2 - deliver a bunch of Forest materials, get 25 Hunter Tokens
   - HuntS1.2 Curator's Catalog Cache 2/2 - deliver a bunch of Forest (especially Expedition) materials, get 25 Hunter Tokens
+    - HuntS1.2 Curator's Catalog Cache 3/3 - deliver a bunch of materials (all of which can be found in the Forest... if you've unlocked the Forest sources by way of the Dust Region), get 50 Hunter Tokens
 - HuntS1.2 Base Camp Clearing Duty - Defeat 3 Xuso, 10 Sacer, and 5 Kaija, get 25 Hunter Tokens
+- HuntS1.2 Close to Home - defeat 5 Villagers, get 100 Coins and 15 Hunter Tokens
 - HuntS1.2 Dynamic Disappearing Duo - Defeat 2 Rudakai and 2 Wignow, get 25 Hunter Tokens
 - HuntS1.2 Familiar Assistants Needed! - defeat 4 each Sassi, Alnu, Burocat, and Clawadin, get Wardrobe: Hunt Aging Beard
+- HuntS1.2 Gentle, Magical Being - defeat 3 Mirdor (HuntS4 monster) and deliver several materials, get 25 Hunter Tokens
 - HuntS1.2 Great Library Cleanup! - defeat 4 Illi and 6 Kuay, get 15 Hunter Tokens
+- HuntS1.2 Mawt Shading Practice - defeat 5 Mawt and 5 Grey's Mawt, get 25 Hunter Tokens
 - HuntS1.2 A Secret Plan? - defeat 3 Assassins and 1 Villager, get Wardrobe: Hunt Eyepatch
 - HuntS1.2 Sticky, Sweet, and Alluring - defeat 15 Reenu and 5 Nitana, get 15 Hunter Tokens
 - HuntS1.2 Tallest of Trees - Defeat 10 Buhini, 10 Buhovi, and 3 Buholi, get 10 Hunter Tokens and Wardrobe: Hunt Earrings Sword Shield
