@@ -1,4 +1,4 @@
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 30 MAR 2021
 
 Here are ALL THE THINGS available in the Forest. LF is Luciola Forest. MT is Mama Tree. HuntS1 is Hunt for the Ancients Season 1. And for the Expedition...
 
@@ -27,6 +27,7 @@ EldLib is Elder Library, BC is Base Camp, FB is Forward Base, SC is Stone City, 
   - Anywhere Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
   - MT Quests: A Family Tree (50), Written Accounts (100), The Winding Path to Elder Library (100)
   - LF Quest: Learn to Fight (50), The Nitana/Main Quest 3 (25), Lead The Way/First Steps (50), Make It Work (25)
+  - HuntS1.2 Quest: Close to Home (100), Forward Base Swarm 2/2 (100)
 - **Other sources:** Sell River Grass, Raw Fabric if necessary (don't sell anything if possible)
   - LF Quest: Tinkering With Trinkets (50) (will likely cost 75 Coins on the way, so bad source)
 - **Buy:** MT Item Shop/Edrie's Market: 1 Core Crystal for 100 Coins or 5 Core Crystals for 500 Coins
@@ -138,6 +139,7 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
   - Craft MT: Leafsung Ink (3), Protected Leaf Helmet (3), Rusty Amulet (5), Rusty Pendant (10)
   - LF Quests: Don't Regift Curses/Main Quest 4 (8), Luciola Lanterns/Night Light (10), Lumberjack's Tools (3), Make Attacks Sing (10)
   - HuntS1 Quest: Studying Substance Samples (50)
+  - HuntS1.2 Quest: Curator's Catalog Curios (5)
   - MT Quests: Main Quest 2/A Secret Message (8), Shaman's Hideout (12), Inking By Number 2/5 (50)
   - BC Quest: A Darkened Forest (25)
   - FB Quest: Lighting the Way (25)
@@ -158,7 +160,7 @@ Note: must complete the Feeding the Lighthouse quest in FB to unlock the ability
   - Craft MT: Leafsung Ink (5), Rusty Pendant (2), Wood Spear (1)
   - LF Quest: Don't Regift Curses/Main Quest 4 (4), Save the Children (10), Make Ink Sing (10), Make Words Sing (20) Make Attacks Sing (30)
   - MT Quests: Main Quest 2/A Secret Message (3), Shaman's Hideout (8)
-  - HuntS1.2 Quest: Curator's Catalog Collections (3)
+  - HuntS1.2 Quest: Curator's Catalog Collections (3), Curator's Catalog Curios (10)
 
 ### Fabric Roll
 
@@ -277,23 +279,23 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
   - EldLib Battles: Burocat (1000 words for 10), Clawadin (800 words for 8), Curator of Elder Library (1000 words for 10), Velts (800 words for 8)
   - Forest Expedition Battles: Alnu (400 words for 4), Sassi (600 words for 6), Clawadin (800 words for 8), Burocat (1000 words for 10)
   - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
-  - HuntS1.2 Quests: Velts' Relaxation Method (25), Curator's Catalog Collections (25), Into Forest Depths 1/3 (25), Base Camp Clearing Duty (25), Dynamic Disappearing Duo (25), Great Library Cleanup! (15), Sticky, Sweet, and Alluring (15), HuntS1.2 Tallest of Trees (10), Curator's Catalog Cache 2/2 (25)
+  - HuntS1.2 Quests: Velts' Relaxation Method (25), Curator's Catalog Collections (25), Into Forest Depths 1/3 (25), Base Camp Clearing Duty (25), Dynamic Disappearing Duo (25), Great Library Cleanup! (15), Sticky, Sweet, and Alluring (15), HuntS1.2 Tallest of Trees (10), Curator's Catalog Cache 2/2 (25), Close to Home (15), Gentle, Magical Being (25), Mawt Shading Practice (25), Forward Base Swarm 2/2 (25), Curator's Catalog Curios 3/3 (50)
   - later Hunt
 
-- **Feb 2021 Sources Outside the Hunt:**
+- **Mar 2021 Sources Outside the Hunt:**
 
-  For February, the theme is "flying" (per the clue):
-  *We can walk, run, and swim yet we cannot compare,*
-  *to those who are blessed to soar through the air.*
+  For March, the theme is "green". Interestingly, Dinti coloring on monsters seems to count as "green" in only a couple cases, and at least one Hunter Token source seems to be a legacy 
 
-  - Global Battles: Vi (5 minutes for ), Viyu (15 minutes for ), Viyusa (25 minutes for ), Xin (100 words for 1)
-  - LF Battles: Nitana (700 words for 7), Pester (500 words for 5), Reenu (200 words for 2)
-  - MT Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Lorsa (450 words for 4-5), Spirit Lorsini (1000 words for 10)
+  - Global Battles: Viyu (15 minutes for ?3-12), Xin (100 words for 1)
+  - LF Battles: Aracni (400 words for 4), Aracnu (800 words for 8), Nitana (700 words for 7), Wignow (250 words for 2-3)
+  - MT Battles: Illi (700 words for 7), Kuay (400 words for 4), Wignow (250 words for 2-3)
   - FOREST EXPEDITION:
     - BC Battles: Sacer (120 words for 1-2)
-    - FB Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
-    - GL, SC Battles: Global and Hunt monsters only
-    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7), Fin (250 words for 2-3), Finoir (500 words for 5), Scofin (150 words for 1-2)
+    - FB Battles: Dandeleon (220 words for 2-3), Nezthai (600 words for 6)
+    - GL Battles: Maikile (750 words for 7-8), Night Dandeleon (330 words for 3-4)
+    - SC Battles: Reudod (600 words for 6)
+    - TT Battles: Global and Hunt monsters only
+  - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -567,6 +569,7 @@ For later game. DO NOT SELL.
   - FB Quest: Sturdy Wooden Fence (15)
   - SC Quest: Nothing But Trouble (15)
   - TT Quest: Scouting the Trees (12)
+  - HuntS1.2 Quest: Gentle, Magical Being (10), Forward Base Swarm 2/2 (25)
 
 ### Rusty Amulet
 
@@ -578,6 +581,7 @@ For later game. DO NOT SELL.
 - **Used for:** equipping, later game,
   - LF Quests: Tinkering With Trinkets (5)
   - HuntS1 Quest: Protecting the Past (10)
+  - HuntS1.2 Quest: Curator's Catalog Curios (5)
 - **Equip:** Accessory: +0 Attack, +0 Defense, +1 Luck
 
 ### Rusty Pendant
@@ -632,7 +636,8 @@ For later game. DO NOT SELL.
 - **Used for:** 
   - Craft LF: Spider Bow (4), Leaf Breastplate (2)
   - Craft MT: Leaf Breastplate (2)
-  - Quest: Building, Not Burning/Main Quest 2 (2), Luciola Lanterns/Night Lights (10)
+  - LF Quests: Building, Not Burning/Main Quest 2 (2), Luciola Lanterns/Night Lights (10)
+  - HuntS1.2 Quest: Gentle, Magical Being (3)
 
 ### Spider Poison
 
@@ -649,7 +654,7 @@ For later game. DO NOT SELL.
   - Craft MT: Leafsung Ink (5)
   - LF Quests: Save the Children (10), Make Ink Sing (10), Make Words Sing (10), Make Attacks Sing (15)
   - MT Quest: Warm Creature Highlights 1/3 (5)
-  - HuntS1.2 Quests: Curator's Catalog Collections (1), Into Forest Depths 2/3 (1)
+  - HuntS1.2 Quests: Curator's Catalog Collections (1), Into Forest Depths 2/3 (1), Curator's Catalog Curios (10)
 
 ### Steel
 
@@ -662,6 +667,7 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
 - **Sources:** later game
 - **Used for:** later game,
   - Craft HOUSE: (multiple)
+  - HuntS1.2 Quest: Forward Base Swarm 2/2 (3)
 
 ### Steel Dagger
 
@@ -696,7 +702,10 @@ See **Stone Block**.
 The game usually simply calls this **Stone**. I like to make sure I'm distinguishing between this and the dozen other Stone things, so I call 'em Stone Blocks.
 
 - **Sources:** later game
-- **Used for:** Craft HOUSE: Stone Dandeleon in Nature requires 1
+- **Used for:** 
+  - Craft HOUSE: Stone Dandeleon in Nature requires 1
+  - HuntS1.2 Quest: Forward Base Swarm 2/2 (3)
+  - later game
 
 ### Stone Key
 
@@ -741,6 +750,7 @@ For later game. DO NOT SELL.
 - **Sources:** later game
 - **Used for:** later game,
   - Hunt House Item (Hunt Shield Ornament requires 1)
+  - HuntS1.2 Quest: Curator's Catalog Curios (3)
 
 ### Wood
 
@@ -770,6 +780,7 @@ For later game. DO NOT SELL.
   - LF Quest: Building, Not Burning/Main Quest 2 (6)
   - MT Quest: Bridge of Sighs (100)
   - FB Quest: Lighting the Way (10), Sturdy Wooden Fence (25)
+  - HuntS1.2 Quest: Gentle, Magical Being (10), Forward Base Swarm 2/2 (25)
 
 ### Wood Fishing Rod
 

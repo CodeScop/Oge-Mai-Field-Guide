@@ -652,7 +652,7 @@ NOTE: To trigger the PG Main Quests, you will have to pick up the first one as i
 
 # Side Quests, in Alphabetical Order: 00-C
 
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 27 MAR 2021
 
 ### 100 Minds to Explore - CAVE
 
@@ -1291,6 +1291,15 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Rewards:** 25 Shrine Stones
 - **Recommendations:** I'm completionist; I'm doing this. And it's really not that hard.
 
+###Close to Home - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 5 Villagers
+- **Rewards:** 100 Coins, 15 Hunter Tokens
+- **Recommendations:**  none needed! Self-explanatory.
+
 ### A Clue to the Past - Hunt S1
 
 - **Location:** Elder Library 
@@ -1473,7 +1482,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ###Curator's Catalog Cache 2/2  - HuntS1.2
 
 - **Location:** Elder Library
-- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • **Curator's Catalog Cache 2/2**
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • **Curator's Catalog Cache 2/2** • Hunt S1.2 Curator's Catalog Curios 3/3
 - **Type:** Collection
 - **Requirements:** Deliver 5 each Nezthai Claws, Saliva Vials, Gobkey Trinkets, and Rusty Pendants
 - **Rewards:** 25 Hunter Tokens
@@ -1482,11 +1491,20 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ###Curator's Catalog Collections 1/2  - HuntS1.2
 
 - **Location:** Elder Library
-- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Curator's Catalog Collections** • HuntS1.2 Curator's Catalog Cache 2/2
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Curator's Catalog Collections** • HuntS1.2 Curator's Catalog Cache 2/2 • Hunt S1.2 Curator's Catalog Curios 3/3
 - **Type:** Collection
 - **Requirements:** Deliver 3 Essence, 1 Spider Poison, 3 Lorsa Fur, 1 Tambo Mane, and 5 Claws
 - **Rewards:** 25 Hunter Tokens
 - **Recommendations:**  This is mostly "put excess materials to good use", in my book; a lot of these materials will have been gathered with the quests to break into the Elder Library, so hurrah to that having a use for even experienced Hunt followers! (Also: chain, so weigh the benefits of the sequels.)
+
+###Curator's Catalog Curios (3/3) - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • HuntS1.2 Curator's Catalog Cache 2/2 • **Curator's Catalog Curios 3/3**
+- **Type:** Collection
+- **Requirements:** Deliver 3 White Fur, 10 Spider Poison, 10 Essence, 5 Dust, and 5 Rusty Amulets
+- **Rewards:** 50 Hunter Tokens
+- **Recommendations:**  It's possible that you may have unlocked this and have no idea what White Fur is, since it doesn't become available until you've unlocked most of the Desert. (And it's also possible that you've gotten deep enough in the game on multiple levels to have unlocked a source of White Fur right here in the Forest Region.) For the rest of it, there are no magic tricks or surprises; just do your best and remember that you can always work on a collection quest without having it take up space in your questbook.
 
 ### Curator's Family - HuntS1
 
@@ -1562,7 +1580,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 
 # Side Quests, in Alphabetical Order: D-G
 
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 27 MAR 2021
 
 ### Daily: Monster Hunter
 
@@ -2104,6 +2122,24 @@ see **Lead the Way**
 - **Rewards:** 3 Stempos
 - **Recommendations:** Grab it! Nothing to lose! It's great to have in the background!
 
+###Forward Base Swarm 1/2 - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Forward Base Swarm 1/2** • HuntS1.2 Forward Base Swarm 2/2
+- **Type:** Battle
+- **Requirements:** Defeat 50 Each Ardia, Ardii, and Ardis
+- **Rewards:** Wardrobe: Ardi Belt https://4thewords.com/media/wardrobe/featured/male/wm&#95;989-ardi-belt-7180-77015.png (has variants in the colors of Ardia, Ardii, Ardis, and Spirit Ardia)
+- **Recommendations:** Really, in and of itself, this is a pretty self-evident quest. If you have one of the sidequests that require hundreds of Ardi* Dust, this is a nice way to generate it. And if you want to evaluate based on the quest chain, you can read ahead to the next quest on your own. :)
+
+###Forward Base Swarm 2/2 - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Forward Base Swarm 1/2 • **Forward Base Swarm 2/2** 
+- **Type:** Collection
+- **Requirements:** Deliver 25 Wood, 25 Rope, 3 Steel Bars and 3 Stone Blocks
+- **Rewards:** 100 Coins and 25 Hunter Tokens
+- **Recommendations:**  And that's it for this one. No secrets, not tricks here.
+
 ### From Beneath Me - DigS
 
 - **Location:** Dig Site
@@ -2157,6 +2193,15 @@ see **Lead the Way**
 - **Requirements:** Defeat 5 Sothai
 - **Rewards:** 15 Shrine Stones
 - **Recommendations:** I have a weakness for Sothai purely because the original event had a pretty wardrobe reward attached to Sothai battles. But objectively, this is... another quest! Decide what you want to do with it!
+
+###Gentle, Magical Being - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Battle, Collection
+- **Requirements:** Defeat 3 Mirdor and deliver 10 Wood, 10 Rope, and 3 Spider Legs
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:**  Read the quest description carefully: you won't be able to find the Mirdor until you've opened the Bard's domain of the Hunt, making this the only HuntS1.2 quest that requires having progressed to the Hunt Season 4. If you haven't gotten that far yet, rejoice in the fact that you'll be able to dovetail this quest with Season 4 requirements. :)
 
 ### Golden Tooth Monsters - SurfaceC
 
@@ -2349,7 +2394,7 @@ NOTE: This quest isn't possible to complete until you reach Riza Rivertown.
 
 # Side Quests, in Alphabetical Order: H-M
 
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 27 MAR 2021
 
 ### A Happy Prickle - IC
 
@@ -2904,6 +2949,15 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Requirements:** Defeat 25 Cubed Frizi
 - **Rewards:** 50 Shrine Stones
 - **Recommendations:** None needed
+
+###Mawt Shading Practice - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 5 Grey's Mawt and 5 Mawt
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:**  none needed! Self-explanatory.
 
 ### Message in a Spirit (3/4) - DFO
 

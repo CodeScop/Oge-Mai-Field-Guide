@@ -361,7 +361,7 @@ NOTE: To trigger the PG Main Quests, you will have to pick up the first one as i
 
 # Side Quests, in Alphabetical Order A-M
 
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 27 MAR 2021
 
 ### 100 Minds to Explore - CAVE
 
@@ -755,6 +755,11 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Shrine of Ages
 - **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Green Ooze Shrine Bracelet
 
+###Close to Home - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
 ### A Clue to the Past - Hunt S1
 
 - **Location:** Elder Library
@@ -857,12 +862,17 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 ###Curator's Catalog Cache 2/2  - HuntS1.2
 
 - **Location:** Elder Library
-- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • **Curator's Catalog Cache 2/2** 
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • **Curator's Catalog Cache 2/2** • Hunt S1.2 Curator's Catalog Curios 3/3
 
 ###Curator's Catalog Collections 1/2  - HuntS1.2
 
 - **Location:** Elder Library
-- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Curator's Catalog Collections** • HuntS1.2 Curator's Catalog Cache 2/2
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Curator's Catalog Collections** • HuntS1.2 Curator's Catalog Cache 2/2 • Hunt S1.2 Curator's Catalog Curios 3/3
+
+###Curator's Catalog Curios 3/3 - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • HuntS1.2 Curator's Catalog Cache 2/2 • **Curator's Catalog Curios 3/3** 
 
 ### Curator's Family - HuntS1
 
@@ -1270,6 +1280,16 @@ see **Lead the Way**
 - **Location:** Stone City
 - **Unlocked by:** Forest Expedition Trail: FB Stone's Throw East
 
+###Forward Base Swarm 1/2 - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Forward Base Swarm 1/2** • HuntS1.2 Forward Base Swarm 2/2
+
+###Forward Base Swarm 2/2 - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Forward Base Swarm 1/2 • **Forward Base Swarm 2/2** 
+
 ### From Beneath Me - DigS
 
 - **Location:** Dig Site
@@ -1307,6 +1327,11 @@ see **Lead the Way**
 
 - **Location:** Shrine of Ages
 - **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Colorful Ooze Bracelet
+
+###Gentle, Magical Being - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Golden Tooth Monsters - SurfaceC
 
@@ -1736,6 +1761,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Shrine of Ages
 - **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Polygon Time Bracelet
+
+###Mawt Shading Practice - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Message in a Spirit (3/4) - DFO
 

@@ -187,7 +187,7 @@ NOTE: All Hunt quests are picked up in Elder Library, regardless of what Region 
 
 # Side Quests, in Alphabetical Order: A-M
 
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 27 MAR 2021
 
 ###Aid of Assistants - ShrineNPC
 
@@ -533,6 +533,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Rewards:** 25 Shrine Stones
 - **Recommendations:** I'm completionist; I'm doing this. And it's really not that hard.
 
+###Close to Home - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+
 ### A Clue to the Past - Hunt S1
 
 - **Location:** Elder Library
@@ -610,12 +615,17 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ###Curator's Catalog Cache 2/2  - HuntS1.2
 
 - **Location:** Elder Library
-- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • **Curator's Catalog Cache 2/2**
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • **Curator's Catalog Cache 2/2** • Hunt S1.2 Curator's Catalog Curios 3/3
 
 ###Curator's Catalog Collections 1/2  - HuntS1.2
 
 - **Location:** Elder Library
-- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Curator's Catalog Collections** • HuntS1.2 Curator's Catalog Cache 2/2
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Curator's Catalog Collections** • HuntS1.2 Curator's Catalog Cache 2/2 • Hunt S1.2 Curator's Catalog Curios 3/3
+
+###Curator's Catalog Curios (3/3) - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • HuntS1.2 Curator's Catalog Cache 2/2 • **Curator's Catalog Curios 3/3** 
 
 ### Curator's Family - HuntS1
 
@@ -904,6 +914,16 @@ see **Lead the Way**
 - **Location:** Stone City
 - **Unlocked by:** Forest Expedition Trail: FB Stone's Throw East
 
+###Forward Base Swarm 1/2 - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Forward Base Swarm 1/2** • HuntS1.2 Forward Base Swarm 2/2
+
+###Forward Base Swarm 2/2 - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Forward Base Swarm 1/2 • **Forward Base Swarm 2/2** 
+
 ### From Beneath Me - DigS
 
 - **Location:** Dig Site
@@ -939,6 +959,11 @@ see **Lead the Way**
 - **Requirements:** Defeat 5 Sothai
 - **Rewards:** 15 Shrine Stones
 - **Recommendations:** I have a weakness for Sothai purely because the original event had a pretty wardrobe reward attached to Sothai battles. But objectively, this is... another quest! Decide what you want to do with it!
+
+###Gentle, Magical Being - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Gordi & Griffe Gather - Ruins
 
@@ -1317,6 +1342,11 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Requirements:** Defeat 25 Cubed Frizi
 - **Rewards:** 50 Shrine Stones
 - **Recommendations:** None needed
+
+###Mawt Shading Practice - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
 ### Mighty Teraleo Hunter - IC
 

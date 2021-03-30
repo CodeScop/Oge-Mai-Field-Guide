@@ -1,4 +1,4 @@
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 30 MAR 2021
 
 Summary of everything available in the DESERT. (Yes, now including Shrine of Ages!) Abbreviations:
 
@@ -515,40 +515,31 @@ Needs a Leafsung Key to open. Can open in 3PC's Item Bazaar/Zilya's Great Bazaar
 
   Note: Hunt monsters have been known to move around the Forest Expedition unpredictably. I am therefore listing all of them there without subareas for this part. Alnu is consistently present at Base Camp if you need to find them.
 
-  - FOREST
+  - FOREST, HUNTS1, HUNTS1.2
   - 3PC Battles: Czanus (700 words for 7), Velts: Desert (1200 words for 12), Vanspi (10 minutes for 2-8)
   - Gansu Battles: Pipit (900 words for 9)
   - Dig Battles: Imali (150 words for 1-2), Shashi (250 words for 2-3), Attleas (350 words for 3-4), Lubu (450 words for 4-5), Shepherd (1000 words for 10)
   - Ruins Battles: Lubu (450 words for 4-5)
-  - HuntS1 Quests: Joining the Hunt (10), Spreading Hope (10), A Season for Hope (5), A Clue to the Past (5), Elder Library Assistants (5), Elder Library's Security (5), Proving Your Worth 1/4 (10), Proving Your Curiosity 2/4 (10), Proving Your Perserverance 3/4 (10), Proving Your Cunning 4/4 (10), Proving Your Mettle 5/6 (15), Protecting the Past (10), Studying Substance Samples (10), To Hope is to Plan (10), Time of Reflection (10), A Battle of Wills (10), Curator's Family (25)
-  - HuntS1.2 Quests: Velts' Relaxation Method (25), Curator's Catalog Collections 1/2 (25), Into Forest Depths 1/3 (25), Base Camp Clearing Duty (25), Dynamic Disappearing Duo (25), Great Library Cleanup! (15), Sticky, Sweet, and Alluring (15), HuntS1.2 Tallest of Trees (10), Curator's Catalog Cache 2/2 (25)
   - Hunt S2 Quests: A Season to Explore (100), Battle of Merit (25), Wandering We Go (10), We Wander Together (10), Strengthening Your Loyalty (10), Strengthening Your Viewpoint 2/3 (10), Strengthening Your Friendship 3/3 (10), Strengthening Your Timing 4/5 (10), Our Waymark Stones (10), Dazzling Desert Diversity (10), Guarding the Path (5), State of Rest (5), A Distant Figure (5), Seeing It Through (5), Herding the Herders (25)
   - later Hunt
+  
+- **Mar 2021 Sources Outside the Hunt:**
 
-- **Feb 2021 Sources Outside the Hunt:**
+  For March, the theme is "green". Interestingly, Dinti coloring on monsters seems to count as "green" in only a couple cases, and at least one Hunter Token source seems to be a legacy 
 
-  For February, the theme is "flying" (per the clue):
-  *We can walk, run, and swim yet we cannot compare,*
-  *to those who are blessed to soar through the air.*
-
-  - Global Battles: Vi (5 minutes for ), Viyu (15 minutes for ), Viyusa (25 minutes for ), Xin (100 words for 1)
-  - LF Battles: Nitana (700 words for 7), Pester (500 words for 5), Reenu (200 words for 2)
-  - MT Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Lorsa (450 words for 4-5), Spirit Lorsini (1000 words for 10)
-  - FOREST EXPEDITION:
-    - BC Battles: Sacer (120 words for 1-2)
-    - FB Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
-    - GL, SC Battles: Global and Hunt monsters only
-    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7), Fin (250 words for 2-3), Finoir (500 words for 5), Scofin (150 words for 1-2)
-  - 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3)
+  - Global Battles: Viyu (15 minutes for ?3-12), Xin (100 words for 1)
+  - FOREST
+  - 3PC Battles: Global and Hunt monsters only
   - ALIEN EXPEDITION:
-    - IC Battles: Arir (100 words for 1)
-    - SpaceS Battles: Captain Piak (1667 words for 16-17)
-    - MiningS Battles: Arir (100 words for 1), Galatre (450 words for 4-5)
-    - RLab Battles: Sulanica (1000 words for 10)
-  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Dust Witch (1200 words and 1 Stempo for 12), Frizi (150 words for 1-2), Red Witch (4000 words for 40), Wetu (1100 words for 11)
+    - IC Battles: Arir (100 words for 1), Nedi (800 words for 8), Rosarin (500 words for 5)
+    - SpaceS Battles: Szalin (700 words for 7), Yalarr (500 words for 5)
+    - MiningS Battles: Arir (100 words for 1), Halix (250 words for 2-3), Skarn (1100 words for 11), Zals (900 words for 9)
+    - RLab Battles: Dr. Enoe (1500 words for 15), Dr. Hogglevoss (1200 words for 12), Fonar (200 words for 2), Gwynos (450 words for 4-5)
+  - Gansu Battles: Sparfly (450 words for 4-5)
   - DESERT EXPEDITION:
     - DigS Battles: Global and Hunt monsters only
-    - Ruins Battles: Spirit Gordiliana (800 words for 8)
+    - Ruins Battles: Global and Hunt monsters only
+  - later game
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
@@ -693,7 +684,7 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
 
 # N-Z
 
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 30 MAR 2021
 
 ### Net
 
@@ -1363,6 +1354,7 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
   - RLab Battle: Sulanica (1000 words for 0-1, need to unlock via long quest chain)
 - **Sell price:** 30 Coins (don't sell unless you have >50)
 - **Used for:** later game, Hunter Token Store,
+  - some FOREST
   - Craft Gansu: Stempo (1)
   - 3PC Quest: Double the Rarity (12)
   - Gansu Quest: Main Quest 3/Sacred Shrine (1), Main Quest 5/White Stars' Light (3), White Coat (10), Local Shrine (5), First Stempo (1)

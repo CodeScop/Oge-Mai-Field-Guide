@@ -1,4 +1,4 @@
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 27 MAR 2021
 
 Okay! So, I'm going to try to consolidate ALL THE QUESTS in this region. Everything that isn't a Main Quest will be listed in alphabetical order after the Main Quests. The Main Quests will be in order, since it's a clearly defined road; and that "road" metaphor will extend in multiple directions. Hence, the new "Route" line of info to tell you how to find it/where you picked it up.
 
@@ -199,6 +199,15 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Rewards:** 5 Hunter Tokens & 1 Hunt Map Piece
 - **Recommendations:** This is an absolute prerequisite for the Hunt Begins quest. That's almost beside the point for me, because I will be tracking down those Sassis like there's no tomorrow to raid the Token Store of all its goods, and this is a nice side benefit, but yeah: worth prioritizing a bit.
 
+###Close to Home - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 5 Villagers
+- **Rewards:** 100 Coins, 15 Hunter Tokens
+- **Recommendations:**  none needed! Self-explanatory.
+
 ### Collector - MT
 
 - **Location:** Mama Tree
@@ -262,7 +271,7 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ###Curator's Catalog Cache 2/2  - HuntS1.2
 
 - **Location:** Elder Library
-- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • **Curator's Catalog Cache 2/2**
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • **Curator's Catalog Cache 2/2** • Hunt S1.2 Curator's Catalog Curios 3/3
 - **Type:** Collection
 - **Requirements:** Deliver 5 each Nezthai Claws, Saliva Vials, Gobkey Trinkets, and Rusty Pendants
 - **Rewards:** 25 Hunter Tokens
@@ -271,11 +280,20 @@ Note: NOT POSSIBLE to complete till Dark Forest Outpost unlocked
 ###Curator's Catalog Collections 1/2  - HuntS1.2
 
 - **Location:** Elder Library
-- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Curator's Catalog Collections** • HuntS1.2 Curator's Catalog Cache 2/2
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Curator's Catalog Collections** • HuntS1.2 Curator's Catalog Cache 2/2 • Hunt S1.2 Curator's Catalog Curios 3/3
 - **Type:** Collection
 - **Requirements:** Deliver 3 Essence, 1 Spider Poison, 3 Lorsa Fur, 1 Tambo Mane, and 5 Claws
 - **Rewards:** 25 Hunter Tokens
 - **Recommendations:**  This is mostly "put excess materials to good use", in my book; a lot of these materials will have been gathered with the quests to break into the Elder Library, so hurrah to that having a use for even experienced Hunt followers! (Also: chain, so weigh the benefits of the sequels.)
+
+###Curator's Catalog Curios (3/3) - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Curator's Catalog Collections • HuntS1.2 Curator's Catalog Cache 2/2 • **Curator's Catalog Curios 3/3**
+- **Type:** Collection
+- **Requirements:** Deliver 3 White Fur, 10 Spider Poison, 10 Essence, 5 Dust, and 5 Rusty Amulets
+- **Rewards:** 50 Hunter Tokens
+- **Recommendations:**  It's possible that you may have unlocked this and have no idea what White Fur is, since it doesn't become available until you've unlocked most of the Desert. (And it's also possible that you've gotten deep enough in the game on multiple levels to have unlocked a source of White Fur right here in the Forest Region.) For the rest of it, there are no magic tricks or surprises; just do your best and remember that you can always work on a collection quest without having it take up space in your questbook.
 
 ### Curator's Family - HuntS1
 
@@ -424,6 +442,33 @@ see **Lead the Way**
 - **Requirements:** Defeat 50 monsters of any kind
 - **Rewards:** 3 Stempos
 - **Recommendations:** Grab it! Nothing to lose! It's great to have in the background!
+
+###Forward Base Swarm 1/2 - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • **Forward Base Swarm 1/2** • HuntS1.2 Forward Base Swarm 2/2
+- **Type:** Battle
+- **Requirements:** Defeat 50 Each Ardia, Ardii, and Ardis
+- **Rewards:** Wardrobe: Ardi Belt https://4thewords.com/media/wardrobe/featured/male/wm&#95;989-ardi-belt-7180-77015.png (has variants in the colors of Ardia, Ardii, Ardis, and Spirit Ardia)
+- **Recommendations:** Really, in and of itself, this is a pretty self-evident quest. If you have one of the sidequests that require hundreds of Ardi* Dust, this is a nice way to generate it. And if you want to evaluate based on the quest chain, you can read ahead to the next quest on your own. :)
+
+###Forward Base Swarm 2/2 - HuntS1.2
+
+- **Location:** Elder Library
+- **Quest Path:** (open via Hunt Trail HuntS1 The Curator of Elder Library) • HuntS1.2 Forward Base Swarm 1/2 • **Forward Base Swarm 2/2** 
+- **Type:** Collection
+- **Requirements:** Deliver 25 Wood, 25 Rope, 3 Steel Bars and 3 Stone Blocks
+- **Rewards:** 100 Coins and 25 Hunter Tokens
+- **Recommendations:**  And that's it for this one. No secrets, not tricks here.
+
+###Gentle, Magical Being - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Battle, Collection
+- **Requirements:** Defeat 3 Mirdor and deliver 10 Wood, 10 Rope, and 3 Spider Legs
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:**  Read the quest description carefully: you won't be able to find the Mirdor until you've opened the Bard's domain of the Hunt, making this the only HuntS1.2 quest that requires having progressed to the Hunt Season 4. If you haven't gotten that far yet, rejoice in the fact that you'll be able to dovetail this quest with Season 4 requirements. :)
 
 ###Great Library Cleanup!  - HuntS1.2
 
@@ -688,6 +733,15 @@ NOTE: This quest is almost impossible to complete until you've completed the que
 - **Requirements:** Write 5,000 Words, Collect 20 Essence, 10 Spider Poison, 5 Claws
 - **Rewards:** 3 Leafsung Ink
 - **Recommendation:** Getting closer! One more quest to unlock the ability to craft Leafsung Ink! And while you're writting 5K words anyway, combine this with another 5K word quest, such as the Daily Short Story quest available in the Global quests.
+
+###Mawt Shading Practice - HuntS1.2
+
+- **Location:** Elder Library
+- **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
+- **Type:** Battle
+- **Requirements:** Defeat 5 Grey's Mawt and 5 Mawt
+- **Rewards:** 25 Hunter Tokens
+- **Recommendations:**  none needed! Self-explanatory.
 
 ### Nabia's Exploration - BC
 

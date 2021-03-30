@@ -1,4 +1,4 @@
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 27 MAR 2021
 
 Because some people might be on the hunt for all the wardrobe items available in the game. I provide hyperlinks to all variations of the wardrobe for the regular game, but the Hunter Lodge Token Store has too many for me to cover (and the Hunter Lodge gives you plenty of opportunity to browse all the possibilities yourself), so that will just be a list of all the possible items and their prices. 
 
@@ -47,9 +47,12 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
   - Upward Spikes - 10 Hunter Tokens
   - Double Belt - 15 Hunter Tokens
   - Freckles - 15 Hunter Tokens
+  - Hunt Head Tattoo Double Swirl - 15 Hunter Tokens
   - Hunt Head Tattoo Pill - 15 Hunter Tokens
   - Hunt Head Tattoo Swirls - 15 Hunter Tokens
   - Hunt Head Tattoo Sword - 15 Hunter Tokens
+  - Hunt Head Tattoo Thin Lines - 15 Hunter Tokens
+  - Hunt Head Tattoo Triangles - 15 Hunter Tokens
   - Nose Piercing - 15 Hunter Tokens
   - Nose Side Piercing - 15 Hunter Tokens
   - Simple Sandals - 20 Hunter Tokens
@@ -60,6 +63,8 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
   - Bulky Arrow Tattoo - 25 Hunter Tokens
   - Geometric Labyrinth Tattoo - 25 Hunter Tokens
   - Geometric Lines Tattoo - 25 Hunter Tokens
+  - Hunter Knotted Beard - 25 Hunter Tokens
+  - Hunter Leather Face Mask - 25 Hunter Tokens
   - Limb Lines Tattoo - 25 Hunter Tokens
   - Rib Wings Tattoo - 25 Hunter Tokens
   - Torso Wings Tattoo - 25 Hunter Tokens
@@ -82,6 +87,7 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
   - Headscarf - 50 Hunter Tokens
   - Hunt Belts - 50 Hunter Tokens
   - Hunt Hanging Scarf - 50 Hunter Tokens
+  - Hunter Leather Shoes - 50 Hunter Tokens
   - Hunter Shorts - 50 Hunter Tokens
   - Large Left Chest Belt - 50 Hunter Tokens
   - Simple Crop Top - 50 Hunter Tokens
@@ -113,6 +119,7 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
   - Hunt Centered Long Skirt - 150 Hunter Tokens
   - Hunt Cloak - 150 Hunter Tokens
   - Hunter Cape - 150 Hunter Tokens
+  - Hunter Leather Apron - 150 Hunter Tokens
   - Lorsa Fur Scarf - 150 Hunter Tokens
   - Shepherd's Robes - 150 Hunter Tokens
   - Hunt Skirt - 175 Hunter Tokens
@@ -163,6 +170,12 @@ Please note that because my avatar is femme, and I'm not quite meticulous enough
   - tan-gold: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1526-hunt-aging-beard-10401-97799.png
   - green: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1526-hunt-aging-beard-10402-25143.png
   - blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1526-hunt-aging-beard-10404-56830.png
+- The quest **Forward Base Swarm 1/2** gives you the **Ardi Belt**, with four variants:
+
+  - Ardis magenta: https://4thewords.com/media/wardrobe/featured/female/wf&#95;989-ardi-belt-7181-79786.png
+  - Ardii blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;989-ardi-belt-7184-81178.png
+  - Ardia yellow: https://4thewords.com/media/wardrobe/featured/female/wf&#95;989-ardi-belt-7186-53528.png
+  - Spirit Ardia white-blue: https://4thewords.com/media/wardrobe/featured/female/wf&#95;989-ardi-belt-7187-45295.png
 - **Into Forest Depths 2/3** gives us the **Hunt Facemask**, with **seven variants**:
   - black: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1534-hunt-neck-guard-10525-70785.png
   - red: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1534-hunt-neck-guard-10529-27446.png

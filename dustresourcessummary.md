@@ -1,4 +1,4 @@
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 30 MAR 2021
 
 I was of two minds opening this section, given that the Dust summary is similar to the All Game - but then I decided that narrowing this down to "resources available in the Dust Region without traveling" might be a useful thing. And of course "resources NOT available in the Dust Region, but you'll need them, and here's where you might have forgotten them".
 
@@ -534,40 +534,15 @@ ALL GAME
   - DFO Battles: Caretaker (1200 words for 12)
   - HuntS4 Quests: Something Extraordinary (10), Cheer Your Dedication (15), Sing Your Enthusiasm (20), To Celebrate and Share (20), Into the Woods (50), On the Wrong Path (25), Jubilant and Strong (50), Sing Your Bravery 2/2 (15), Ideas Brought to Life (10), Sing Your Commitment 3/4 (25), Stories to Tell (25), A Battle of Celebration (25)
 
-- **Feb 2021 Sources Outside the Hunt:**
+- **Mar 2021 Sources Outside the Hunt:**
 
-  For February, the theme is "flying" (per the clue):
-  *We can walk, run, and swim yet we cannot compare,*
-  *to those who are blessed to soar through the air.*
+  For March, the theme is "green". Interestingly, Dinti coloring on monsters seems to count as "green" in only a couple cases, and at least one Hunter Token source seems to be a legacy 
 
-  - Global Battles: Vi (5 minutes for ), Viyu (15 minutes for ), Viyusa (25 minutes for ), Xin (100 words for 1)
-  - LF Battles: Nitana (700 words for 7), Pester (500 words for 5), Reenu (200 words for 2)
-  - MT Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Lorsa (450 words for 4-5), Spirit Lorsini (1000 words for 10)
-  - FOREST EXPEDITION:
-    - BC Battles: Sacer (120 words for 1-2)
-    - FB Battles: Ardia (50 words for 0-1), Ardii (60 words for 0-1), Ardis (70 words for 0-1), Spirit Ardia (80 words for 0-1)
-    - GL, SC Battles: Global and Hunt monsters only
-    - TT Battles: Buhini (150 words for 1-2), Buholi (800 words for 8), Buhovi (650 words for 6-7), Fin (250 words for 2-3), Finoir (500 words for 5), Scofin (150 words for 1-2)
-  - 3PC Battles: Frizi (150 words for 1-2), Kiru (250 words for 2-3)
-  - ALIEN EXPEDITION:
-    - IC Battles: Arir (100 words for 1)
-    - SpaceS Battles: Captain Piak (1667 words for 16-17)
-    - MiningS Battles: Arir (100 words for 1), Galatre (450 words for 4-5)
-    - RLab Battles: Sulanica (1000 words for 10)
-  - Gansu Battles: Arenica (1350 words and 1 Steel Dagger for 13-14), Dust Witch (1200 words and 1 Stempo for 12), Frizi (150 words for 1-2), Red Witch (4000 words for 40), Wetu (1100 words for 11)
-  - DESERT EXPEDITION:
-    - DigS Battles: Global and Hunt monsters only
-    - Ruins Battles: Spirit Gordiliana (800 words for 8)
-  - Riza Battles: Frizi (150 words for 1-2), Osaril (300 words and 1 Vine Net for 3), Wyvern (1300 words for 13)
-  - RAINA EXPEDITION:
-    - SurfaceC Battles: Wyvern (1300 words for 13)
-    - SwampL Battles: Heliodae (120 words for 1-2), Rhamp (250 words for 2-3)
-    - SacredS Battles: Global and Hunt monsters only
-    - Hideout Battles: Kivi (100 words for 1)
-  - Balance Battles: Global and Hunt monsters only
-  - DFO Battles: Belasi (200 words for 2), Miclan (5000 words, 5 Steel Chains, 3 Pieces of Parchment, and 1 Blue Essence Ink for 50), Osalyu (750 words for 7-8), Papple (1000 words for 10), Spirit Papple (900 words for 9)
-  - PG Battles: Ardid (90 words for 1), Dusiri (1000 words for 10), Eninir (500 words for 5), Poe (200 words for 2)
-  - CAVE Battles: Fosfa (800 words for 8), Sakot (1000 words for 10), Tacin (150 words for 1-2)
+  - Global Battles: Viyu (15 minutes for ?3-12), Xin (100 words for 1)
+  - FOREST, DESERT, WATER
+  - DFO Battles: Global and Hunt monsters only
+  - PG Battles: Global and Hunt monsters only
+  - CAVE Battles: Gliva (300 words for 3), Gormist (1667 words for 17), Letos (700 words for 7), Olanat (1100 words for 11), Reflection (4444 words for 45), Sakot (1000 words for 10), Spina (450 words for 4-5), Tacin (150 words for 1-2), Ulos (650 words for 6-7), Vafire (500 words for 5)
 
 - **Sell price:** 10 Coins (don't sell, much better to spend)
 
