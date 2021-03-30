@@ -1,4 +1,4 @@
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 30 MAR 2021
 
 Once again! Here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -159,7 +159,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - FB: Feeding the Lighthouse (25)
-  - HuntS1.2: Into Forest Depths 1/3 (5)
+  - HuntS1.2: Into Forest Depths 1/3 (5), Forward Base Swarm (50)
 
 ### Ardii (Oge: MT*; Exp: FB)
 
@@ -175,18 +175,12 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 
 - **Quests:**
 
-  OGE-MAI
-
   - MT: Itsy, Bitsy, Teeny (25)
 
-  EXPEDITION
-
   - BC: Nabia's Exploration (1)
-  - FB: Feeding the Lighthouse (25), Lighting the Way (5)
+- FB: Feeding the Lighthouse (25), Lighting the Way (5)
   
-  DUST
-  
-  - HuntS1.2: Into Forest Depths 1/3 (5)
+- HuntS1.2: Into Forest Depths 1/3 (5), Forward Base Swarm (50)
 
 ### Ardis (Oge: MT*; Exp: FB)
 
@@ -198,7 +192,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - FB: Feeding the Lighthouse (25)
-  - HuntS1.2: Into Forest Depths 1/3 (5)
+  - HuntS1.2: Into Forest Depths 1/3 (5), Forward Base Swarm (50)
 
 ### Arenica (Oge: Gansu*)
 
@@ -724,6 +718,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 2-3 Fur, 1-2 Essence, 3 Leaves, 2 Claws
 - **Quests:**
   - LF: Forest Creatures (1)
+  - HuntS1.2 Mawt Shading Practice (5)
 
 ### Griffe (Exp: Ruins)
 
@@ -1096,6 +1091,18 @@ see **Skuppa's Giant Marionette**
   - GL: Eat the Leaves? (10)
   - HuntS1.2: Velts' Relaxation Method (1)
 
+### Mawt (Oge: LF)
+
+- **Requirements:** 1000 words
+- **Time Allowed:** 210 minutes (3 hours 30 minutes)
+- **XP:** 146
+- **Drops:** 4-5 Fur, 2 Claws, 2-3 Leaves, 1-2 Wood, 1 Rope
+- **Quests:**
+  - LF: Forest Creatures (1)
+  - MT: Tinkering With Leafsung 1/5 (5)
+  - HuntS1: Proving Your Worth 1/4 (1)
+  - HuntS1.2 Mawt Shading Practice (5)
+
 ### Mini Ooze (Exp: Shrine GO)
 
 ### Minica (Exp: RLab)
@@ -1113,6 +1120,8 @@ see **Skuppa's Giant Marionette**
 - **XP:** 60
 - **Drops:** 4-7 Raw Stone, 1-2 Swamp Moss, 2-4 Leaves
 - **Quests:** Sacred: Seeding New Beginnings 1/3 (1), Seeding New Beginnings 2/3 (5), Seeding New Beginnings 3/3 (10)
+
+###Mirdor (LATER GAME)
 
 ### Motes (Exp: Shrine0)
 
@@ -1888,7 +1897,7 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 2-3 Dust, 1 Rope, 1-2 Wood, 3-7 Coins, 1 Leaf Boots, 1 Old Staff
 - **Quests:** 
   - MT: Keep In Quarantine (10)
-  - HuntS1.2: A Secret Plan? (1)
+  - HuntS1.2: A Secret Plan? (1), Close to Home (5)
   - HuntS2: A Season to Explore (1)
 
 ###Vinstacio (Exp: ShrineNPC)

@@ -150,7 +150,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - FB: Feeding the Lighthouse (25)
-  - HuntS1.2: Into Forest Depths 1/3 (5)
+  - HuntS1.2: Into Forest Depths 1/3 (5), Forward Base Swarm (50)
 
 ### Ardii (Oge: MT*; Exp: FB)
 
@@ -166,18 +166,12 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 
 - **Quests:**
 
-  OGE-MAI
-
   - MT: Itsy, Bitsy, Teeny (25)
 
-  EXPEDITION
-
   - BC: Nabia's Exploration (1)
-  - FB: Feeding the Lighthouse (25), Lighting the Way (5)
+- FB: Feeding the Lighthouse (25), Lighting the Way (5)
   
-  HUNT
-  
-  - HuntS1.2: Into Forest Depths 1/3 (5)
+- HuntS1.2: Into Forest Depths 1/3 (5), Forward Base Swarm (50)
 
 ### Ardis (Oge: MT*; Exp: FB)
 
@@ -189,7 +183,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - FB: Feeding the Lighthouse (25)
-  - HuntS1.2: Into Forest Depths 1/3 (5)
+  - HuntS1.2: Into Forest Depths 1/3 (5), Forward Base Swarm (50)
 
 ### Arenica (Oge: Gansu*)
 
@@ -827,6 +821,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 2-3 Fur, 1-2 Essence, 3 Leaves, 2 Claws
 - **Quests:**
   - LF: Forest Creatures (1)
+  - HuntS1.2 Mawt Shading Practice (5)
 
 ### Griffe (Exp: Ruins)
 
@@ -1156,6 +1151,7 @@ see **Skuppa's Giant Marionette**
   - LF: Forest Creatures (1)
   - MT: Tinkering With Leafsung 1/5 (5)
   - HuntS1: Proving Your Worth 1/4 (1)
+  - HuntS1.2 Mawt Shading Practice (5)
 
 ### Mini Ooze (Exp: Shrine GO)
 
@@ -1173,6 +1169,8 @@ see **Skuppa's Giant Marionette**
 - **XP:** 90
 - **Drops:** 2-5 Glass Shards, 2-4 Raw Fabric, 1-4 Dust, 2-4 Dinti
 - **Quests:** SpaceS: Sparks to Ignite 3/3 (10)
+
+###Mirdor (LATER GAME)
 
 ### Motes (Exp: Shrine0)
 
@@ -1944,7 +1942,7 @@ also called Captain Uo at times
 - **Drops:** 2-3 Dust, 1 Rope, 1-2 Wood, 3-7 Coins, 1 Leaf Boots, 1 Old Staff
 - **Quests:** 
   - MT: Keep In Quarantine (10)
-  - HuntS1.2: A Secret Plan? (1)
+  - HuntS1.2: A Secret Plan? (1), Close to Home (5)
   - HuntS2: A Season to Explore (1)
 
 ###Vinstacio (Exp: ShrineNPC)

@@ -1,4 +1,4 @@
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 30 MAR 2021
 
 Beware! **Here be spoilers**. Every single quest requiring a given monster is listed, no matter how late in the game it appears. Don't say I didn't warn you. But maybe you'll be able to mix and match quests more efficiently.
 
@@ -122,7 +122,7 @@ HuntS4: Hunt for the Ancients Season 4
 
 # A-L
 
-LAST UPDATED 28 FEB 2021
+LAST UPDATED 30 MAR 2021
 
 ### Afeppti (Exp: ShrineCO)
 
@@ -193,7 +193,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - FB: Feeding the Lighthouse (25)
-  - HuntS1.2: Into Forest Depths 1/3 (5)
+  - HuntS1.2: Into Forest Depths 1/3 (5), Forward Base Swarm (50)
 
 ### Ardid (Oge: PG*)
 
@@ -218,18 +218,12 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 
 - **Quests:**
 
-  OGE-MAI
-
   - MT: Itsy, Bitsy, Teeny (25)
 
-  EXPEDITION
-
   - BC: Nabia's Exploration (1)
-  - FB: Feeding the Lighthouse (25), Lighting the Way (5)
+- FB: Feeding the Lighthouse (25), Lighting the Way (5)
   
-  HUNT
-  
-  - HuntS1.2: Into Forest Depths 1/3 (5)
+- HuntS1.2: Into Forest Depths 1/3 (5), Forward Base Swarm (50)
 
 ### Ardis (Oge: MT*; Exp: FB)
 
@@ -241,7 +235,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:**
   - BC: Nabia's Exploration (1)
   - FB: Feeding the Lighthouse (25)
-  - HuntS1.2: Into Forest Depths 1/3 (5)
+  - HuntS1.2: Into Forest Depths 1/3 (5), Forward Base Swarm (50)
 
 ### Arenica (Oge: Gansu*)
 
@@ -1213,6 +1207,7 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 2-3 Fur, 1-2 Essence, 3 Leaves, 2 Claws
 - **Quests:**
   - LF: Forest Creatures (1)
+  - HuntS1.2 Mawt Shading Practice (5)
 
 ### Griffe (Exp: Ruins)
 
@@ -1630,7 +1625,7 @@ see **Skuppa's Giant Marionette**
 
 # M-Z
 
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 30 MAR 2021
 
 ### Maesc (Exp: IC)
 
@@ -1686,6 +1681,7 @@ LAST UPDATED 5 MAR 2021
   - LF: Forest Creatures (1)
   - MT: Tinkering With Leafsung 1/5 (5)
   - HuntS1: Proving Your Worth 1/4 (1)
+  - HuntS1.2 Mawt Shading Practice (5)
 
 ### Miclan (Oge: DFO*)
 
@@ -1728,7 +1724,9 @@ LAST UPDATED 5 MAR 2021
 - **Time allowed:** 250 minutes (4 hours and 10 minutes)
 - **XP:** 150
 - **Drops:** 15 Hunter Tokens, 4-8 Fur, 3-6 Wood, 1-2 White Fur, 3-7 Leaves, 2-3 Rope
-- **Quests:** HuntS4: Something Extraordinary (3)
+- **Quests:** 
+  - HuntS1.2 Gentle, Magical Being (3)
+  - HuntS4: Something Extraordinary (3)
 
 ### Molox (Oge: DFO*)
 
@@ -2916,7 +2914,7 @@ also called Captain Uo at times
 - **Drops:** 2-3 Dust, 1 Rope, 1-2 Wood, 3-7 Coins, 1 Leaf Boots, 1 Old Staff
 - **Quests:** 
   - MT: Keep In Quarantine (10)
-  - HuntS1.2: A Secret Plan? (1)
+  - HuntS1.2: A Secret Plan? (1), Close to Home (5)
   - HuntS2: A Season to Explore (1)
 
 ###Vinstacio (Exp: ShrineNPC)

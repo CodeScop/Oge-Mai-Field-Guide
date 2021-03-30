@@ -1,4 +1,4 @@
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 30 MAR 2021
 
 I resisted making this at first, because surely the end of the Dust Region is functionally identical to the whole game, right?
 
@@ -747,7 +747,9 @@ see **Skuppa's Giant Marionette**
 - **Time allowed:** 250 minutes (4 hours and 10 minutes)
 - **XP:** 150
 - **Drops:** 15 Hunter Tokens, 4-8 Fur, 3-6 Wood, 1-2 White Fur, 3-7 Leaves, 2-3 Rope
-- **Quests:** HuntS4: Something Extraordinary (3)
+- **Quests:** 
+  - HuntS1.2 Gentle, Magical Being (3)
+  - HuntS4: Something Extraordinary (3)
 
 ### Molox (Oge: DFO*)
 
