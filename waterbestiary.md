@@ -2,7 +2,7 @@ LAST UPDATED 30 MAR 2021
 
 Once again! Here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
-**Also, once again, there are monsters that will appear in the Dust Region later if you make it through the entire game. I will not mention them here.**
+**Also, once again, there are monsters that will appear in the Water Region later if you make it through the entire game. I will not mention them here.**
 
 For all your "crap, where was that?!?" needs. There is a complete version at the end of the Guide if you want to jump straight to "but what ELSE will show up in the game?!" or "... but are there any OTHER quests for this same monster later on?"
 
