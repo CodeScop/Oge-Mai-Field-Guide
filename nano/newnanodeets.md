@@ -1,6 +1,6 @@
-LAST UPDATED 31 MAR 2021
+LAST UPDATED 2 APR 2021
 
-# New Quests As Of 31 March
+# New Quests For 31 March and 2 April
 
 ## Consider Prioritizing
 
@@ -48,7 +48,7 @@ LAST UPDATED 31 MAR 2021
 - **Unlocked by:** The Rudakai Theory 2/3
 - **Type:** Battle
 - **Requirements:** Defeat 20 Kai
-- **Rewards:** 10 Festival of Oge-Mai Tokens and Wardrobe: Rudakai Lobule Ear https://4thewords.com/media/wardrobe/featured/male/wm&#95;1647-rudakai-lobule-ear-12084-68880.png
+- **Rewards:** 10 Festival of Oge-Mai Tokens and Wardrobe: Rudakai Lobule Ear https://4thewords.com/media/wardrobe/featured/male/wm&#95;1647-rudakai-lobule-ear-12084-68880.png (available to match each skin tone)
 - **Recommendations:**  It really takes care of itself here, doesn't it?
 
 ###Bounty from Dalse
@@ -67,6 +67,26 @@ LAST UPDATED 31 MAR 2021
 - **Rewards:** House Item: Sacer Scissors https://4thewords.com/public/hideouts/hideout&#95;element&#95;393&#95;56595/variant&#95;icon&#95;1912&#95;193.png
 - **Recommendations:**  Up to you! I admit to being mildly disappointed that the lovely scissors are merely a house item, but it's a fairly easy quest.
 
+###A Little Luciola Luck 1/2
+
+- **Location:** Forest Region Meeting Ground
+- **Unlocked by:** April 2nd Event Drop
+- **Type:** Battle
+- **Requirements:** Defeat 5 Irsea
+- **Rewards:** 10 Festival of Oge-Mai Tokens
+- **Recommendations:**  A nice little quest, probably doable in a day; make sure you turn it in promptly and pick up the next one to count your battles twice! 
+
+###A Little Luciola Luck 2/2
+
+- **Location:** Forest Region Meeting Ground
+- **Unlocked by:** A Little Luciola Luck 1/2
+- **Type:** Battle
+- **Requirements:** Defeat 10 Irsea
+- **Rewards:** Wardrobe: Irsea Antenna, with two variants: 
+  - burning: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1673-worm-antenna-12374-78848.png
+  - plain: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1673-worm-antenna-12377-44600.png
+- **Recommendations:**  Pretty self-explanatory!
+
 ###Thank the Trees
 
 - **Location:** Forest Region Meeting Ground
@@ -76,11 +96,20 @@ LAST UPDATED 31 MAR 2021
 - **Rewards:** 10 Festival of Oge-Mai Tokens
 - **Recommendations:**  Simple, straightforward, and really only worth it if you weren't saving that Essence and Spider Poison for anything anyway. (Dust is usually easy to come by.)
 
-# New Monsters as of March 31
+# New Monsters for 31 March and 2 April
 
 This event is unusual in that new monsters are scarce; most of the monsters are perfectly available in the regular game. I'm going to count anything that's newly dropping Festival Tokens as "new" for these purposes, though, and if it's not EVENT EXCLUSIVE, I'll leave a note to tell you where else to look.
 
 Whether a monster is in an event space or its regular home, it will have the same stats. **The only real difference between this and my regular Guide entries for most of these monsters is that I'm only listing event-relevant quests.**
+
+###Irsea - EVENT EXCLUSIVE
+
+- **Location:** Forest Region Meeting Ground
+- **Requirements:** 220 words
+- **Time allowed:** 30 minutes
+- **XP:** 22
+- **Drops:** 2-3 Festival Tokens, 1 Essence, 1-2 Leaves, 0-2 Dust
+- **Quests:** A Little Luciola Luck 1/2 (5), A Little Luciola Luck 2/2 (10)
 
 ###Kai - EVENT EXCLUSIVE
 
