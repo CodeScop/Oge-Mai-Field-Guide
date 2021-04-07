@@ -378,7 +378,7 @@ FOREST, FOREST EXPEDITION
 DUST
 
 - **Source:** DFO Quest: Deliver With A Smile
-- **Sell price:** 450 Coins (don't sell)
+- **Sell price:** 450 Coins (don't sell, irreplaceable unless restarting from start of DFO)
 - **Used for:** equipping
 - **Equip:** Type: Accessory: +0 Attack, +0 Defense, +10 Luck
 
@@ -422,7 +422,7 @@ slight FOREST, DUST
 DUST
 
 - **Source:** DFO Quest: Fetch! Play! Battle! (1)
-- **Sell price:** 550 Coins (DON'T SELL, currently irreplaceable)
+- **Sell price:** 550 Coins (don't sell, irreplaceable unless restarting from start of DFO)
 - **Used for:** equipping
 - **Equip:** Type: Weapon1: +15 Attack, +0 Defense, +2 Luck
 
@@ -458,6 +458,22 @@ DESERT, some WATER
 
 DESERT; see **Wooden Chest**.
 
+### Dí Bag
+
+some FOREST, WATER
+
+- **Sources:** Buy, Craft,
+  - Balance Quest (opens post-DFO): Dark Floating Materials 5/5 (10)
+- **Craft:** Riza: Riza Crafts & Trinkets/Luko's Crafting: 5 River Grass, 10 River Water, 2 Leaves
+- **Buy:** Riza: 650 Coins in Item Shop/Luko's Inn
+- **Sell price:** 200 Coins (don't sell unless you have >50, which you won't)
+- **Used for:** 
+  - FOREST
+    - MT Quests: Quench a Thirst (25), Thinking Like Ink 4/5 (10)
+  - WATER
+    - Riza Quests: Main Quest 6/Journey Upriver (5), Dí Production (10)
+    - Balance Quests: Main Quest 1/Help From A Master (3)
+
 ### Dinti
 
 some FOREST, DESERT
@@ -480,22 +496,6 @@ some FOREST, DESERT
   - MSite Quest: Recovering Stolen Goods (50)
   - RLab Quest: Encourage an Ecosystem 4/4 (5), Making Mellow Mowow (15)
   - Wardrobe purchases at Mining Site (250 total)
-
-### Dí Bag
-
-some FOREST, WATER
-
-- **Sources:** Buy, Craft,
-  - Balance Quest (opens post-DFO): Dark Floating Materials 5/5 (10)
-- **Craft:** Riza: Riza Crafts & Trinkets/Luko's Crafting: 5 River Grass, 10 River Water, 2 Leaves
-- **Buy:** Riza: 650 Coins in Item Shop/Luko's Inn
-- **Sell price:** 200 Coins (don't sell unless you have >50, which you won't)
-- **Used for:** 
-  - FOREST
-    - MT Quests: Quench a Thirst (25), Thinking Like Ink 4/5 (10)
-  - WATER
-    - Riza Quests: Main Quest 6/Journey Upriver (5), Dí Production (10)
-    - Balance Quests: Main Quest 1/Help From A Master (3)
 
 ### Dried Pulp
 
@@ -804,7 +804,7 @@ The game usually simply calls this **Glass**. I like to make sure I'm distinguis
     - RLab Battles: Dr. Enoe (1500 words for 1-2), Dr. Hogglevoss (1200 words for 1)
   - Limited-availability battles in Riza Main Quest sequence
 - **Craft:** DESERT: 3PC Blacksmith/Blacksmith Barliar: 3 Glass Shards, 2 Dust, 10 Coins, and 3 Wood
-- **Sell price:** 85 Coins (Don't sell unless you have >200.)
+- **Sell price:** 85 Coins (Don't sell unless you have >200)
 - **Used for:** 
   - Craft HOUSE: (multiple)
   - FOREST: LF Quest: It's Bigger Inside (5)
@@ -1237,7 +1237,7 @@ FOREST, some DESERT
     - Craft
     - MT Quest: Sand Mountain Caravan (1)
 - **Craft:** FOREST: MT Crafts & Trinkets/Alia of Air: 2 Leaf Boots, 15 Leaves, 1 Leafsung Ink
-- **Sell price:** 55 (Do not sell unless you have >125.)
+- **Sell price:** 55 Coins (Do not sell unless you have >125)
 - **Used for:** equipping
   - FOREST
     - TT Quest: Boots Made for Climbing (1)
