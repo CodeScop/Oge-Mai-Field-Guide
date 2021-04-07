@@ -51,7 +51,7 @@ Whether a monster is in an event space or its regular home, it will have the sam
 - **Drops:** 1 Reenu Wings, 0-1 Dust, 1 Leaves, 2 Festival Tokens
 - **Quests:** ForMeet: Time After Time 1/3 (15)
 
-###Ridan
+###Ridan - EVENT EXCLUSIVE
 
 - **Location:** Forest Region Meeting Ground
 - **Requirements:** 450 words

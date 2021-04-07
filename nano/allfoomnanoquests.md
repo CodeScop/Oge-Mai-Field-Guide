@@ -67,7 +67,9 @@ LAST UPDATED 7 APR 2021
 - **Unlocked by:** Festival Open
 - **Type:** Battle
 - **Requirements:** Defeat 5 Wignow and 10 Kai
-- **Rewards:** Wardrobe: Rudakai Beard https://4thewords.com/media/wardrobe/featured/male/wm&#95;1632-rudakai-beard-11952-12172.png
+- **Rewards:** Wardrobe: Rudakai Beard 
+  - short: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1632-rudakai-beard-11952-12172.png
+  - braided: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1632-rudakai-beard-11955-85845.png
 - **Recommendations:**  This quest chain involves a lot of Kai-fighting. If you've been around the Valley long, you'll know that anything battled since midnight will count toward any quests you pick up before the next midnight - so these Kai could theoretically count for up to three times their worth, if you can manage to wipe out two quests and pick up the third in one day. If that's too much for you, do the math on how you can get the most Kai overlap.
 
 ###The Rudakai Theory 2/3
@@ -76,7 +78,11 @@ LAST UPDATED 7 APR 2021
 - **Unlocked by:** The Rudakai Theory 1/3
 - **Type:** Battle
 - **Requirements:** Defeat 1 Rudakai and 10 Kai
-- **Rewards:** Wardrobe: Rudakai Eyes https://4thewords.com/media/wardrobe/featured/male/wm&#95;1658-rudakai-eyes-12186-53655.png
+- **Rewards:** Wardrobe: Rudakai Eyes (four variants):
+  - Dust Rudakai: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1658-rudakai-eyes-12186-53655.png
+  - Desert Rudakai: https://4thewords.com/media/wardrobe/featured/female/wf&#951658-rudakai-eyes-12187-63248.png
+  - Water Rudakai: https://4thewords.com/media/wardrobe/featured/female/wf&#951658-rudakai-eyes-12189-96013.png
+  - Rudakai: https://4thewords.com/media/wardrobe/featured/female/wf&#951658-rudakai-eyes-12191-60947.png
 - **Recommendations:**  As with the last quest in this chain, plan on Kai overlap! And enjoy the lovely Rudakai Eyes this gives you.
 
 ###The Rudakai Theory 3/3
