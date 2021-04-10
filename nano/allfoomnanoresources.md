@@ -1,4 +1,4 @@
-LAST UPDATED 7 APR 2021
+LAST UPDATED 10 APR 2021
 
 So, when I say "outside game", I mean "this is info that's in the regular Guide and I'm not going to copy it here, because I have no idea where you are in the game and what will constitute spoilers." Also note that **Vi, Viyu, Viyusa, Xin, and Awa are global monsters available everywhere, and I am not including their info here**. Because this is Event Info Only. Not that anyone's likely to need any info apart from the Tokens, seeing how few collection-oriented quests we have and how familiar the monsters are, but I'm upholding tradition here!
 
@@ -7,8 +7,8 @@ So, when I say "outside game", I mean "this is info that's in the regular Guide 
 - **Sources:** 
   - ForMeet Battles: Sacer (120 words for 1-2), Irsea (220 words for 2-3), Wignow (250 words for 2-3), Kai (150 words for 1-2), Ridan (450 words for 4-5), Nezthai (600 words for 6), Reenu (200 words for 2), Rudakai (1400 words, 1 Leaf Boots, and 10 Leaves for 14)
   - ForMeet Quests: Heart of Sunshine (10), A Little Luciola Luck (10), The Rudakai Theory 3/3 (10), Thank the Trees (10), Bad Luck Ridan? (10), Shades of Gold (10)
-  - DesMeet Battles: Frizi (150 words for 1-2), Bevrex (300 words for 3), Grult (400 words for 4), Kiru (250 words for 2-3), Kuikas (100 words for 1), Yasri (1250 words for 12-13), Zera (550 words for 5-6)
-  - DesMeet Quests: Sign of the Times (10); Bounty from Waute (15); Bubbled Water for Bevrex (15); Frizi, Fun, and Family (15); Tears of the Custra (20); Where Yasri Wander 1/2 (15); Bruja Fear Treading 2/2 (10)
+  - DesMeet Battles: Frizi (150 words for 1-2), Torkan (450 words for 4-5), Bevrex (300 words for 3), Grult (400 words for 4), Kiru (250 words for 2-3), Kuikas (100 words for 1), Yasri (1250 words for 12-13), Zera (550 words for 5-6)
+  - DesMeet Quests: Sign of the Times (10); Bounty from Waute (15); Bubbled Water for Bevrex (15); Frizi, Fun, and Family (15); Tears of the Custra (20); Where Yasri Wander 1/2 (15); Bruja Fear Treading 2/2 (10); Troubles With Torkan 1/2 (15); Troubles With Torkan 2/2 (15)
 - **Sell:** 10 Coins (Better to spend than sell during event; excess can be sold after event)
 - **Used for:** all event stores! See Wardrobe and House Items near the bottom of this section for details. (When I update Wardrobe/House.)
 
@@ -23,7 +23,7 @@ So, when I say "outside game", I mean "this is info that's in the regular Guide 
 
 ###Desert Stone
 
-- **Sources:** DesMeet Battles: Bevrex (300 words for 0-1), Grult (400 words for 0-1)
+- **Sources:** DesMeet Battles: Torkan (450 words for 1), Bevrex (300 words for 0-1), Grult (400 words for 0-1)
 - **Sell:** 25 Coins (don't sell unless you have >200, ideally >500)
 - **Used for:** DesMeet Quest: Tears of the Custra (need 1)
 
@@ -51,7 +51,7 @@ So, when I say "outside game", I mean "this is info that's in the regular Guide 
 
 - **Sources:** 
   - ForMeet Battles: Kai (150 words for 0-1), Ridan (450 words for 1-2), Rudakai (1400 words, 1 Leaf Boots, and 10 Leaves for 1-2)
-  - DesMeet Battles: DesMeet Battles: Grult (400 words for 2), Bevrex (300 words for 1-2), Zera (550 words for 0-1)
+  - DesMeet Battles: DesMeet Battles: Grult (400 words for 2), Bevrex (300 words for 1-2), Torkan (450 words for 1), Zera (550 words for 0-1)
 - **Sell:** 2 Coins (don't sell unless you have >500)
 - **Used for:** outside game
 
@@ -99,7 +99,7 @@ So, when I say "outside game", I mean "this is info that's in the regular Guide 
 
 ###Raw Sandstone
 
-- **Sources:** DesMeet Battles: Bevrex (300 words for 1), Zera (550 words for 0-2)
+- **Sources:** DesMeet Battles: Bevrex (300 words for 1), Torkan (450 words for 1), Zera (550 words for 0-2)
 - **Sell:** 12 Coins (don't sell unless you have >100)
 - **Used for:** outside game
 
@@ -113,7 +113,7 @@ So, when I say "outside game", I mean "this is info that's in the regular Guide 
 
 ###Raw Stone
 
-- **Sources:** DesMeet Battles: Grult (400 words for 3), Kiru (250 words for 0-1)
+- **Sources:** DesMeet Battles: Grult (400 words for 3), Torkan (450 words for 2-3), Kiru (250 words for 0-1)
 - **Sell:** 8 Coins (don't sell unless you have >100)
 - **Used for:** DesMeet Quest: Tears of the Custra (need 5)
 

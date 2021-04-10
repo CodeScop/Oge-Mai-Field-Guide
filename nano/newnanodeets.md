@@ -1,6 +1,6 @@
-LAST UPDATED 7 APR 2021
+LAST UPDATED 10 APR 2021
 
-# New Quests For 6 April/Desert Open
+# New Quests For 6 April/Desert Open and 10 April
 
 ## Consider Prioritizing
 
@@ -78,6 +78,24 @@ LAST UPDATED 7 APR 2021
 - **Rewards:** 20 Festival of Oge-Mai Tokens
 - **Recommendations:**  Make no mistake: these are all valuable resources (although Raw Fabric is also so widely available that it's pretty easy to accrue enough to sell off). The amount, however, is pretty darn small to pay off; check out the Resources below to figure out how to grind them just from the event! (Raw Fabric, for instance, will be generated when you take Frizi quests, Raw Stone from Grult quests...)
 
+###Troubles With Torkan 1/2
+
+- **Location:** Desert Region Meeting Ground
+- **Unlocked by:** April 10th Event Drop
+- **Type:** Battle
+- **Requirements:** Defeat 4 Torkan
+- **Rewards:** 15 Festival of Oge-Mai Tokens
+- **Recommendations:**  Try and do as much of this as possible on the last day you're doing it - it'll allow for the most overlap with the next quest in the series.
+
+###Troubles With Torkan 2/2
+
+- **Location:** Desert Region Meeting Ground
+- **Unlocked by:** Troubles With Torkan 1/2
+- **Type:** Battle
+- **Requirements:** Defeat 4 Torkan and 8 Kuikas
+- **Rewards:** 15 Festival of Oge-Mai Tokens and Wardrobe: Torkan Head https://4thewords.com/media/wardrobe/featured/male/wm&#95;1677-volcano-head-12397-95319.png
+- **Recommendations:**  Just when you thought you were done with Kuikas! These birdies are everywhere, apparently providing useful fertilizer. At least this is it for this quest chain!
+
 ###Watering the Desert
 
 - **Location:** Desert Region Meeting Ground
@@ -85,7 +103,7 @@ LAST UPDATED 7 APR 2021
 - **Type:** Battle
 - **Requirements:** Defeat 20 Kuikas
 - **Rewards:** Wardrobe: Kuikas Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1676-desert-beetle-necklace-12394-70370.png
-- **Recommendations:**  A lovely little quest reward from a lovely little quest (yes, it's a lot of Kuikas, but they're tiny and quick to beat). No tricks here!
+- **Recommendations:**  A lovely little quest reward from a lovely little quest (yes, it's a lot of Kuikas, but they're tiny and quick to beat). No tricks here! Apart from "dovetail with as many Kuikas quests as possible"; there's three overall.
 
 ###Where Yasri Wander 1/2
 
@@ -105,7 +123,7 @@ LAST UPDATED 7 APR 2021
 - **Rewards:** 10 Festival of Oge-Mai Tokens, House Item: Yasri Skull https://4thewords.com/public/hideouts/hideout&#95;element&#95;394&#95;36153/variant&#95;icon&#95;1914&#95;120.png
 - **Recommendations:**  You're an old pro at Yasri by now, right? You've got this without me. 
 
-# New Monsters for 6 Apr/Desert Open
+# New Monsters for 6 Apr/Desert Open and 10 Apr
 
 This event is unusual in that new monsters are scarce; most of the monsters are perfectly available in the regular game. I'm going to count anything that's newly dropping Festival Tokens as "new" for these purposes, though, and if it's not EVENT EXCLUSIVE, I'll leave a note to tell you where else to look.
 
@@ -154,7 +172,16 @@ Whether a monster is in an event space or its regular home, it will have the sam
 - **Time allowed:** 10 minutes
 - **XP:** 10
 - **Drops:** 1 Festival Tokens, 1 Raw Gold, 0 
-- **Quests:** DesMeet: Bubbled Water for Bevrex (5), Watering the Desert (20)
+- **Quests:** DesMeet: Bubbled Water for Bevrex (5), Watering the Desert (20), Troubles With Torkan (8)
+
+###Torkan - EVENT EXCLUSIVE
+
+- **Location:** Desert Region Meeting Ground
+- **Requirements:** 450 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 45
+- **Drops:** 4-5 Festival Tokens, 2-3 Raw Stone, 1 Fur, 1 Desert Stone, 1 Raw Sandstone
+- **Quests:** DesMeet: Troubles With Torkan 1/2 (4), Troubles With Torkan 2/2 (4)
 
 ###Yasri
 
@@ -183,7 +210,7 @@ Whether a monster is in an event space or its regular home, it will have the sam
 - **Sources:** 
   - ForMeet Battles: Sacer (120 words for 1-2), Irsea (220 words for 2-3), Wignow (250 words for 2-3), Kai (150 words for 1-2), Ridan (450 words for 4-5), Nezthai (600 words for 6), Reenu (200 words for 2), Rudakai (1400 words, 1 Leaf Boots, and 10 Leaves for 14)
   - ForMeet Quests: Heart of Sunshine (10), A Little Luciola Luck (10), The Rudakai Theory 3/3 (10), Thank the Trees (10), Bad Luck Ridan? (10), Shades of Gold (10)
-  - DesMeet Battles: Frizi (150 words for 1-2), Bevrex (300 words for 3), Grult (400 words for 4), Kiru (250 words for 2-3), Kuikas (100 words for 1), Yasri (1250 words for 12-13), Zera (550 words for 5-6)
-  - DesMeet Quests: Sign of the Times (10); Bounty from Waute (15); Bubbled Water for Bevrex (15); Frizi, Fun, and Family (15); Tears of the Custra (20); Where Yasri Wander 1/2 (15); Bruja Fear Treading 2/2 (10)
+  - DesMeet Battles: Frizi (150 words for 1-2), Torkan (450 words for 4-5), Bevrex (300 words for 3), Grult (400 words for 4), Kiru (250 words for 2-3), Kuikas (100 words for 1), Yasri (1250 words for 12-13), Zera (550 words for 5-6)
+  - DesMeet Quests: Sign of the Times (10); Bounty from Waute (15); Bubbled Water for Bevrex (15); Frizi, Fun, and Family (15); Tears of the Custra (20); Where Yasri Wander 1/2 (15); Bruja Fear Treading 2/2 (10); Troubles With Torkan 1/2 (15); Troubles With Torkan 2/2 (15)
 - **Sell:** 10 Coins (Better to spend than sell during event; excess can be sold after event)
 - **Used for:** all event stores! See Wardrobe and House Items near the bottom of this section for details. (When I update Wardrobe/House.)

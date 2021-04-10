@@ -1,4 +1,4 @@
-LAST UPDATED 7 APR 2021
+LAST UPDATED 10 APR 2021
 
 Welcome to the Festival of Oge-Mai! Or as I'm calling it in my notes, FoOM. As in, FOOM! We're off!
 
@@ -12,5 +12,6 @@ Event Milestones:
 - Fri 2 Apr: Irsea arrives, along with the Little Luciola Luck pair of quests.
 - Sat 3 Apr: Ridan arrives, along with the quests Bad Luck Ridan? and Shades of Gold. Ardia briefly join the Festival, appearing in the FRMG and dropping Festival Tokens and Reactions everywhere they appear.
 - Tues 6 Apr: Ardia leave the Festival and go back to normal. Desert Region Meeting Ground becomes available, with Bevrex, Frizi, Grult, Kiru, Kuikas (new for the event!), Yasri, and Zera, along with 11 quests.
+- Sat 10 Apr: Torkan arrives, along with the quests Trouble With Torkan 1/2 and 2/2.
 
 And now! What's new!

@@ -1,4 +1,4 @@
-LAST UPDATED 7 APR 2021
+LAST UPDATED 10 APR 2021
 
 Reiterating what I said in the New Monsters area: This event is unusual in that new monsters are scarce; most of the monsters are perfectly available in the regular game. I'm going to count anything that's newly dropping Festival Tokens as "new" for these purposes, though, and if it's not EVENT EXCLUSIVE, I'll leave a note to tell you where else to look.
 
@@ -132,7 +132,16 @@ Whether a monster is in an event space or its regular home, it will have the sam
 - **Time allowed:** 10 minutes
 - **XP:** 10
 - **Drops:** 1 Festival Tokens, 1 Raw Gold, 0 
-- **Quests:** DesMeet: Bubbled Water for Bevrex (5), Watering the Desert (20)
+- **Quests:** DesMeet: Bubbled Water for Bevrex (5), Watering the Desert (20), Troubles With Torkan 2/2 (8)
+
+###Torkan - EVENT EXCLUSIVE
+
+- **Location:** Desert Region Meeting Ground
+- **Requirements:** 450 words
+- **Time allowed:** 60 minutes (1 hour)
+- **XP:** 45
+- **Drops:** 4-5 Festival Tokens, 2-3 Raw Stone, 1 Fur, 1 Desert Stone, 1 Raw Sandstone
+- **Quests:** DesMeet: Troubles With Torkan 1/2 (4), Troubles With Torkan 2/2 (4)
 
 ###Yasri
 

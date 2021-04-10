@@ -1,4 +1,4 @@
-LAST UPDATED 7 APR 2021
+LAST UPDATED 10 APR 2021
 
 ##All Quests: Forest Region Meeting Ground
 
@@ -198,6 +198,24 @@ LAST UPDATED 7 APR 2021
 - **Rewards:** House Item: Amber Trapped Frizi https://4thewords.com/public/hideouts/hideout&#95;element&#95;422&#95;51999/variant&#95;icon&#95;2073&#95;148.png
 - **Recommendations:**  This is part of a quest chain that started with Time After Time 1/3 in the Forest area. Since the chain seems likely to continue in the Water, maybe prioritize a bit
 
+###Troubles With Torkan 1/2
+
+- **Location:** Desert Region Meeting Ground
+- **Unlocked by:** April 10th Event Drop
+- **Type:** Battle
+- **Requirements:** Defeat 4 Torkan
+- **Rewards:** 15 Festival of Oge-Mai Tokens
+- **Recommendations:**  Try and do as much of this as possible on the last day you're doing it - it'll allow for the most overlap with the next quest in the series.
+
+###Troubles With Torkan 2/2
+
+- **Location:** Desert Region Meeting Ground
+- **Unlocked by:** Troubles With Torkan 1/2
+- **Type:** Battle
+- **Requirements:** Defeat 4 Torkan and 8 Kuikas
+- **Rewards:** 15 Festival of Oge-Mai Tokens and Wardrobe: Torkan Head https://4thewords.com/media/wardrobe/featured/male/wm&#95;1677-volcano-head-12397-95319.png (one variant only)
+- **Recommendations:**  Just when you thought you were done with Kuikas! These birdies are everywhere, apparently providing useful fertilizer. At least this is it for this quest chain!
+
 ###Watering the Desert
 
 - **Location:** Desert Region Meeting Ground
@@ -205,7 +223,7 @@ LAST UPDATED 7 APR 2021
 - **Type:** Battle
 - **Requirements:** Defeat 20 Kuikas
 - **Rewards:** Wardrobe: Kuikas Necklace https://4thewords.com/media/wardrobe/featured/male/wm&#95;1676-desert-beetle-necklace-12394-70370.png
-- **Recommendations:**  A lovely little quest reward from a lovely little quest (yes, it's a lot of Kuikas, but they're tiny and quick to beat). No tricks here!
+- **Recommendations:**  A lovely little quest reward from a lovely little quest (yes, it's a lot of Kuikas, but they're tiny and quick to beat). No tricks here! Apart from "dovetail with as many Kuikas quests as possible"; there's three overall.
 
 ###Where Yasri Wander 1/2
 

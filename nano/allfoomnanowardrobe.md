@@ -1,4 +1,4 @@
-LAST UPDATED 7 APR 2021
+LAST UPDATED 10 APR 2021
 
 Wardrobe and House Items: when you're not sure how good they are, because what are the different versions, anyway? And wait, did you miss any?
 
@@ -67,6 +67,7 @@ For items in the store, I'll just list the name and price, since you can browse 
 - The quest **Bare Bone Communication** gives you the **Grult Fur Vest**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1115-grult-fur-vest-8019-43140.png
 - The quest **Bounty from Shari of Sands** gives you a **Tiny Kiru** to tie to your waist: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1031-kiru-granade-7563-53372.png
 - The quest **Watering the Desert** gives you a **Kuikas Necklace**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1676-desert-beetle-necklace-12394-70370.png 
+- The quest **Troubles With Torkan 2/2** gives you a **Torkan Head** (don't worry, it's more of a crown than a gory hunting trophy): https://4thewords.com/media/wardrobe/featured/male/wm&#95;1677-volcano-head-12397-95319.png
 
 Okay, we're ready to start tracking house items! Special events are the only time this is worth tracking, because it's the only time there's a lot of house items that aren't painfully transparent. (At least, so far.)
 
