@@ -1,4 +1,4 @@
-LAST UPDATED 10 APR 2021
+LAST UPDATED 13 APR 2021
 
 So, when I say "outside game", I mean "this is info that's in the regular Guide and I'm not going to copy it here, because I have no idea where you are in the game and what will constitute spoilers." Also note that **Vi, Viyu, Viyusa, Xin, and Awa are global monsters available everywhere, and I am not including their info here**. Because this is Event Info Only. Not that anyone's likely to need any info apart from the Tokens, seeing how few collection-oriented quests we have and how familiar the monsters are, but I'm upholding tradition here!
 
@@ -9,6 +9,8 @@ So, when I say "outside game", I mean "this is info that's in the regular Guide 
   - ForMeet Quests: Heart of Sunshine (10), A Little Luciola Luck (10), The Rudakai Theory 3/3 (10), Thank the Trees (10), Bad Luck Ridan? (10), Shades of Gold (10)
   - DesMeet Battles: Frizi (150 words for 1-2), Torkan (450 words for 4-5), Bevrex (300 words for 3), Grult (400 words for 4), Kiru (250 words for 2-3), Kuikas (100 words for 1), Yasri (1250 words for 12-13), Zera (550 words for 5-6)
   - DesMeet Quests: Sign of the Times (10); Bounty from Waute (15); Bubbled Water for Bevrex (15); Frizi, Fun, and Family (15); Tears of the Custra (20); Where Yasri Wander 1/2 (15); Bruja Fear Treading 2/2 (10); Troubles With Torkan 1/2 (15); Troubles With Torkan 2/2 (15)
+  - WatMeet Battles: Tiatu (125 words for 1-2), Jaihri (485 words for 5), Patliadu (750 words and 1 Harpoon for 7-8), Caricaco (300 words for 3), Castu (450 words for 4-5), Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 4), Puna (150 words & possess 1 Upgraded Wooden Fishing Rod for 1-2)
+  - WatMeet Quests: Bounty from Cule (15), Bounty from Roiva (15), Fortune Hunting in Balance 1/2 (15), Fortune Hunting in Balance 2/2 (10), Gone Fishing 1/3 (15), Gone Fishing 2/3 (15), Gone Fishing 3/3 (50)
 - **Sell:** 10 Coins (Better to spend than sell during event; excess can be sold after event)
 - **Used for:** all event stores! See Wardrobe and House Items near the bottom of this section for details. (When I update Wardrobe/House.)
 
@@ -20,6 +22,22 @@ So, when I say "outside game", I mean "this is info that's in the regular Guide 
 - **Used for:** 
   - ForMeet Quest: Time After Time 1/3 (needs 10)
   - DesMeet Quest: Time After Time 2/3 (needs 10)
+  - WatMeet Quest: Time After Time 3/3 (needs 10)
+
+###Algae
+
+- **Sources:** WatMeet Battles: Castu (450 words for 1-2), Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 1), Caricaco (300 words for 0-1), Puna (150 words & possess 1 Upgraded Wooden Fishing Rod for 0-1)
+- **Sell:** 10 Coins (Can sell if you have >25)
+- **Used for:** outside game
+
+### Buhini Flute
+
+- **Sources:** outside game,
+  - ForMeet Token Store
+- **Craft:** outside game
+- **Buy:** outside game, and 25 Festival Tokens in ForMeet Token Store
+- **Sell price:** 50 Coins (why do you have extra to sell? Well, if you do, you only need the one...)
+- **Used for:** outside game
 
 ###Desert Stone
 
@@ -61,10 +79,32 @@ So, when I say "outside game", I mean "this is info that's in the regular Guide 
 - **Sell:** 12 Coins (Make Glass Bars out of any Glass Shards you have over 5; it'll be most useful that way)
 - **Used for:** outside game
 
+###Hardwood
+
+- **Sources:** WatMeet Battles: Jaihri (485 words for 1)
+- **Sell:** 100 Coins (don't sell unless you have >400)
+- **Used for:** outside game
+
+###Harpoon
+
+- **Sources:** outside game, 
+  - WatMeet Quests: Gone Fishing 1/3 (6)
+- **Sell:** 150 Coins (don't sell unless you have >50)
+- **Used for:** WatMeet (and outside game) Battles: Patliadu (1)
+- **Equip:** Weapon2: +8 Attack, +8 Defense, +0 Luck
+
 ###Hunter Tokens
 
-- **Sources:** ForMeet Battles: Nezthai (600 words for 6), Wignow (250 words for 2-3)
+- **Sources:** 
+  - ForMeet Battles: Nezthai (600 words for 6), Wignow (250 words for 2-3)
+  - WatMeet Battles: Patliadu (750 words and 1 Harpoon for 7-8)
 - **Sell:** 10 Coins (don't sell, much better to spend)
+- **Used for:** outside game
+
+###Leather Roll
+
+- **Sources:** WatMeet Battles: Patliadu (750 words and 1 Harpoon for 1-2), Castu (450 words for 0-1)
+- **Sell:** 60 Coins (probably best to keep 200 in stock, otherwise great source of Coins)
 - **Used for:** outside game
 
 ###Leaves
@@ -93,7 +133,9 @@ So, when I say "outside game", I mean "this is info that's in the regular Guide 
 
 ###Raw Gold
 
-- **Sources:** DesMeet Battles: Kuikas (100 words for 1), Yasri (1250 words for 0-1)
+- **Sources:** 
+  - DesMeet Battles: Kuikas (100 words for 1), Yasri (1250 words for 0-1)
+  - WatMeet Battles: Jaihri (485 words for 0-1)
 - **Sell:** 12 Coins (please don't sell this, you'll make so much more if you craft it into Gold Bars.)
 - **Used for:** outside game
 
@@ -108,12 +150,15 @@ So, when I say "outside game", I mean "this is info that's in the regular Guide 
 - **Sources:** 
   - ForMeet Battles: Ridan (450 words for 2-4)
   - DesMeet Battles: Yasri (1250 words for 2-3)
+  - WatMeet Battles: Patliadu (750 words and 1 Harpoon for 1-2)
 - **Sell:** 8 Coins (DO NOT SELL. You will need this to craft SO MANY STEEL BARS.)
 - **Used for:** DesMeet Quest: Tears of the Custra (need 5)
 
 ###Raw Stone
 
-- **Sources:** DesMeet Battles: Grult (400 words for 3), Torkan (450 words for 2-3), Kiru (250 words for 0-1)
+- **Sources:** 
+  - DesMeet Battles: Grult (400 words for 3), Torkan (450 words for 2-3), Kiru (250 words for 0-1)
+  - WatMeet Battles: Caricaco (300 words for 0-1)
 - **Sell:** 8 Coins (don't sell unless you have >100)
 - **Used for:** DesMeet Quest: Tears of the Custra (need 5)
 
@@ -129,11 +174,30 @@ So, when I say "outside game", I mean "this is info that's in the regular Guide 
 - **Sell:** 8 Coins (only sell if you have >100)
 - **Used for:** outside game
 
+###River Grass
+
+- **Sources:** WatMeet Battles: Puna (150 words & possess 1 Upgraded Wooden Fishing Rod for 1), Jaihri (485 words for 1-2), Caricaco (300 words for 0-1), Patliadu (750 words and 1 Harpoon for 2), Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 0-1)
+- **Sell:** 30 Coins (Don't sell unless you have >500)
+- **Used for:** outside game
+
+###River Stone
+
+- **Sources:** WatMeet Battles: Castu (450 words for 0-1), Patliadu (750 words and 1 Harpoon for 0-1), Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 0-1)
+- **Sell:** 30 Coins (DO NOT sell unless you have >200, or >1000 if you want to maximize Luck in a niche late-game opportunity)
+- **Used for:** outside game
+
+###River Water
+
+- **Sources:** WatMeet Battles: Patliadu (750 words and 1 Harpoon for 1), Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 0-1)
+- **Sell:** 40 Coins (don't sell unless you have >500)
+- **Used for:** outside game
+
 ###Rope
 
 - **Sources:** 
   - ForMeet Battles: Kai (150 words for 1), Wignow (250 words for 1), Nezthai (600 words for 0-1), Rudakai (1400 words, 1 Leaf Boots, and 10 Leaves for 1-2)
   - DesMeet Battles: Yasri (1250 words for 2-3)
+  - WatMeet Battles: Tiatu (125 words for 1)
 - **Sell:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
 - **Used for:** outside game
 
@@ -149,9 +213,29 @@ So, when I say "outside game", I mean "this is info that's in the regular Guide 
 - **Sell:** 8 Coins (Don't sell unless you have >30)
 - **Used for:** outside game
 
+### Upgraded Steel Fishing Rod
+
+- **Sources:** outside game,
+  - WatMeet Token Store
+- **Craft:** outside game
+- **Buy:** outside game, and 25 Festival Tokens in WatMeet Token Store
+- **Sell price:** 250 Coins (why do you have extra to sell? Well, if you do, you only need the one...)
+- **Used for:** WatMeet (and outside game) Battles: Furoxi (need 1 in inventory, infinitely reusable)
+
+### Upgraded Wooden Fishing Rod
+
+- **Sources:** outside game,
+  - WatMeet Token Store
+- **Craft:** outside game
+- **Buy:** outside game, and 25 Festival Tokens in WatMeet Token Store
+- **Sell price:** 100 Coins (why do you have extra to sell? Well, if you do, you only need the one...)
+- **Used for:** WatMeet (and outside game) Battles: Puna (need 1 in inventory, infinitely reusable)
+
 ###Wood
 
-- **Sources:** ForMeet Battles: Nezthai (600 words for 0-2)
+- **Sources:** 
+  - ForMeet Battles: Nezthai (600 words for 0-2)
+  - WatMeet Battles: Jaihri (485 words for 1-2)
 - **Sell:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)
 - **Used for:** outside game
 

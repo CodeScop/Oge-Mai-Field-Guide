@@ -2033,7 +2033,7 @@ some FOREST, some DESERT, WATER
     - Balance Battles: Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck), Castu (450 words, 1 Water Mask for 1), Isartu (720 words for 1), Nuig (850 words, 1 Water Mask for 1), River Goddess (5000 words for 2)
     - Post-HuntS3 Riza Battle: Weekiwa (900 words for 1-3)
 - **Buy:** 140 Coins in Item Shop/Luko's Inn
-- **Sell price:** 30 Coins (DO NOT sell unless you have >200)
+- **Sell price:** 30 Coins (DO NOT sell unless you have >200, or >1000 if you want to maximize Luck in a niche late-game opportunity)
 - **Used for:** 
   - FOREST: LF Quests: Little Forest Lake (10)
   - DESERT: Shrine0 Quests: Guardian of the Shrine 3/3 (25)

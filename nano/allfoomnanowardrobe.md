@@ -1,4 +1,4 @@
-LAST UPDATED 10 APR 2021
+LAST UPDATED 13 APR 2021
 
 Wardrobe and House Items: when you're not sure how good they are, because what are the different versions, anyway? And wait, did you miss any?
 
@@ -71,6 +71,27 @@ For items in the store, I'll just list the name and price, since you can browse 
 
 Okay, we're ready to start tracking house items! Special events are the only time this is worth tracking, because it's the only time there's a lot of house items that aren't painfully transparent. (At least, so far.)
 
+## Wardrobe Items: Water Region Meeting Ground
+
+### Water Region Token Store
+
+- Water Tribe Belts - 15 Festival Tokens
+- Water Tribe Corset - 15 Festival Tokens
+- Water Tribe Scarf - 15 Festival Tokens
+- Water Tribe Hook Pants - 25 Festival Tokens
+- Water Tribe Shoes - 25 Festival Tokens
+- Water Tribe Day Shirt - 35 Festival Tokens
+- Water Tribe Night Shirt - 35 Festival Tokens
+- Water Tribe Skirt - 50 Festival Tokens
+
+###Water Region Quests
+
+- The quest **Fortune Hunting in Balance 2/2** will get you the **Reinforced Rope Scarf**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1678-reinforced-rope-scarf-12399-44571.png
+- The quest **Gnaw, Nibble, Nom** gets you the **Chewed Log Crown**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1039-chewed-log-crown-7595-30268.png
+- The quest **Gone Fishing 1/3** will get you a lovely pair of **Ankle Fins**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1038-ankle-fins-7593-89144.png
+- Meanwhile, **Gone Fishing 2/3** will get you **Forearm Fins**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1042-forearm-fins-7601-65231.png
+- Finally, **Gone Fishing 3/3** will get you a fancy **Head Fin**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1043-head-fin-7603-43946.png
+
 ## House Items: Forest Region Meeting Ground
 
 ### Forest Region Token Store
@@ -105,5 +126,21 @@ Okay, we're ready to start tracking house items! Special events are the only tim
 - **Time After Time 2/3** will get you an **Amber Trapped Frizi:** https://4thewords.com/public/hideouts/hideout&#95;element&#95;422&#95;51999/variant&#95;icon&#95;2073&#95;148.png
 - **Bruja Fear Treading 2/2** (unlocked by Where Yasri Wander 1/2) will get you a **Yasri Skull** to show off: https://4thewords.com/public/hideouts/hideout&#95;element&#95;394&#95;36153/variant&#95;icon&#95;1914&#95;120.png
 
+## House Items: Water Region Meeting Ground
 
+### Water Region Token Store
 
+- House Roll of Reinforced Rope - 15 Festival Tokens
+- Sunken Ship's Wheel - 25 Festival Tokens
+- Castu Plushie - 50 Festival Tokens
+- Jaihri Plushie - 50 Festival Tokens
+- Sunken Ship's Anchor - 50 Festival Tokens
+
+###Water Region Quests
+
+- **Gone Fishing 3/3** will get you a **Fish Mobile** with **four variants**:
+  - Patliadu mobile: http://4thewords.com/public/hideouts/hideout&#95;element&#95;403&#95;66815/variant&#95;icon&#95;2008&#95;712.png
+  - Furoxi mobile: http://4thewords.com/public/hideouts/hideout&#95;element&#95;403&#95;66815/variant&#95;icon&#95;2009&#95;486.png
+  - Puna mobile: http://4thewords.com/public/hideouts/hideout&#95;element&#95;403&#95;66815/variant&#95;icon&#95;2010&#95;440.png
+  - all three mixed: https://4thewords.com/public/hideouts/hideout&#95;element&#95;403&#95;66815/variant&#95;icon&#95;1975&#95;126.png
+- **Time After Time 3/3** will get you an **Amber Trapped Caricaco**: https://4thewords.com/public/hideouts/hideout&#95;element&#95;428&#95;62161/variant&#95;icon&#95;2099&#95;928.png

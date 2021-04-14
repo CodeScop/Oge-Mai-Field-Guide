@@ -1,4 +1,4 @@
-LAST UPDATED 10 APR 2021
+LAST UPDATED 13 APR 2021
 
 ##All Quests: Forest Region Meeting Ground
 
@@ -243,3 +243,85 @@ LAST UPDATED 10 APR 2021
 - **Rewards:** 10 Festival of Oge-Mai Tokens, House Item: Yasri Skull https://4thewords.com/public/hideouts/hideout&#95;element&#95;394&#95;36153/variant&#95;icon&#95;1914&#95;120.png
 - **Recommendations:**  You're an old pro at Yasri by now, right? You've got this without me. 
 
+## All Quests: Water Region Meeting Ground
+
+###Bounty from Cule
+
+- **Location:** Water Region Meeting Ground
+- **Unlocked by:** Festival Water Open
+- **Type:** Battle
+- **Requirements:** Defeat 10 Castu
+- **Rewards:** 15 Festival of Oge-Mai Tokens
+- **Recommendations:**  Castu are part of quite a few quests in the Floating City of Balance, and who knows if this "no Water Mask required for battle" will last - but no need to race to Balance if you're not around yet! Take it as you please.
+
+###Bounty from Roiva
+
+- **Location:** Water Region Meeting Ground
+- **Unlocked by:** Festival Water Open
+- **Type:** Battle
+- **Requirements:** Defeat 4 Jaihri and 4 Caricaco
+- **Rewards:** 15 Festival of Oge-Mai Tokens
+- **Recommendations:**  Self-explanatory. Jaihri are popular opponents in Riza and early Raina, so check if there's anything you want to double up on.
+
+###Fortune Hunting in Balance (1/2)
+
+- **Location:** Water Region Meeting Ground
+- **Unlocked by:** Festival Water Open
+- **Type:** Battle
+- **Requirements:** Defeat 5 Tiatu
+- **Rewards:** 15 Festival of Oge-Mai Tokens
+- **Recommendations:** Our event monster of the region! Bet you can guess the rough outline of Part 2. (Hint: you'd do well to complete this on one day and pick up the next immediately.)
+
+###Fortune Hunting in Balance (2/2)
+
+- **Location:** Water Region Meeting Ground
+- **Unlocked by:** Fortune Hunting in Balance (1/2)
+- **Type:** Battle
+- **Requirements:** Defeat 12 Tiatu
+- **Rewards:** 10 Festival of Oge-Mai Tokens and Wardrobe: Reinforced Rope Scarf https://4thewords.com/media/wardrobe/featured/male/wm&#95;1678-reinforced-rope-scarf-12399-44571.png
+- **Recommendations:**  Hey look, you guessed! Personally, I'm pleased that Tiatu are so simple to battle.
+
+###Gnaw, Nibble, Nom
+
+- **Location:** Water Region Meeting Ground
+- **Unlocked by:** Festival Water Open
+- **Type:** Battle
+- **Requirements:** Defeat 6 Jaihri
+- **Rewards:** Wardrobe: Chewed Log Crown https://4thewords.com/media/wardrobe/featured/female/wf&#95;1039-chewed-log-crown-7595-30268.png
+- **Recommendations:**  As I said on Bounty from Roiva, Jaihri quests are everywhere; see what you can double up on.
+
+###Gone Fishing 1/3
+
+- **Location:** Water Region Meeting Ground
+- **Unlocked by:** Festival Water Open
+- **Type:** Battle
+- **Requirements:** Defeat 10 Puna and 3 Furoxi
+- **Rewards:** 15 Festival of Oge-Mai Tokens, 6 Harpoons, and Wardrobe: Ankle Fins https://4thewords.com/media/wardrobe/featured/female/wf&#95;1038-ankle-fins-7593-89144.png
+- **Recommendations:**  This might be worth prioritizing, because those Harpoons are lovely, lovely weapons (especially if you haven't yet hit the Water Region where they become available). Don't sell any you get from this quest - you'll need them to complete this chain. (And if you're just opening Riza, it's worth noting that there's a quest there that gives a reward for just possessing enough Harpoons without making you turn them in.)
+
+###Gone Fishing 2/3
+
+- **Location:** Water Region Meeting Ground
+- **Unlocked by:** Gone Fishing 1/3
+- **Type:** Battle
+- **Requirements:** Defeat 8 Puna, 4 Furoxi, and 2 Patliadu
+- **Rewards:** 15 Festival of Oge-Mai Tokens and Wardrobe: Forearm Fins https://4thewords.com/media/wardrobe/featured/male/wm&#95;1042-forearm-fins-7601-65231.png
+- **Recommendations:**  The next quest in the chain has more Tokens by quite a bit than all prior quests, but apart from next quest's rewards, this one is exactly that it looks like!
+
+###Gone Fishing 3/3
+
+- **Location:** Water Region Meeting Ground
+- **Unlocked by:** Gone Fishing 2/3
+- **Type:** Battle
+- **Requirements:** Defeat 12 Puna, 6 Furoxi, and 3 Patliadu
+- **Rewards:** 50 Festival of Oge-Mai Tokens, Wardrobe: Head Fin https://4thewords.com/media/wardrobe/featured/female/wf&#95;1043-head-fin-7603-43946.png, and House Item: Fish Mobile https://4thewords.com/public/hideouts/hideout&#95;element&#95;403&#95;66815/variant&#95;icon&#95;1975&#95;126.png
+- **Recommendations:**  You can totally tell what's good here. :)
+
+###Time After Time 3/3
+
+- **Location:** Water Region Meeting Ground
+- **Unlocked by:** DesMeet Quest: Time After Time 2/3
+- **Type:** Battle, Collection
+- **Requirements:** Defeat 15 Caricaco and deliver 10 Coins
+- **Rewards:** House Item: Amber Trapped Caricaco https://4thewords.com/public/hideouts/hideout&#95;element&#95;428&#95;62161/variant&#95;icon&#95;2099&#95;928.png
+- **Recommendations:**  And the trio is complete!

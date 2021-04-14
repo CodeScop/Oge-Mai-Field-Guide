@@ -1,4 +1,4 @@
-LAST UPDATED 10 APR 2021
+LAST UPDATED 13 APR 2021
 
 Reiterating what I said in the New Monsters area: This event is unusual in that new monsters are scarce; most of the monsters are perfectly available in the regular game. I'm going to count anything that's newly dropping Festival Tokens as "new" for these purposes, though, and if it's not EVENT EXCLUSIVE, I'll leave a note to tell you where else to look.
 
@@ -160,3 +160,69 @@ Whether a monster is in an event space or its regular home, it will have the sam
 - **XP:** 50
 - **Drops:** 5-6 Festival Tokens, 1-3 Dust, 0-2 Raw Sandstone, 0-1 Fur
 - **Quests:** DesMeet: Bounty from Waute (3)
+
+##All Monsters: Water Region Meeting Ground
+
+###Caricaco
+
+- **Location:** Water Region Meeting Ground - also Floating City of Balance
+- **Requirements:** 300 words
+- **Time allowed:** 30 minutes
+- **XP:** 30
+- **Drops:** 3 Festival Tokens, 0-1 River Grass, 0-1 Algae, 0-1 Raw Stone
+- **Quests:** WatMeet: Bounty from Roiva (4), Time After Time (15)
+
+###Castu
+
+- **Location:** Water Region Meeting Ground - also Floating City of Balance
+- **Requirements:** 450 words (usually also 1 Water Mask, not needed for Festival)
+- **Time allowed:** 60 minutes
+- **XP:** 45
+- **Drops:** 0-1 River Stone, 0-1 Leather Roll, 1-2 Algae, 4-5 Festival Tokens
+- **Quests:** WatMeet: Bounty from Cule (10)
+
+###Furoxi
+
+- **Location:** Water Region Meeting Ground - also Gansu Watering Hole and Floating City of Balance
+- **Requirements:** 400 words & possess 1 Upgraded Steel Fishing Rod
+- **Time allowed:** 30 minutes
+- **XP:** 40
+- **Drops:** 1 Algae, 0-1 River Grass, 0-1 River Stone, 0-1 River Water, 4 Festival Tokens
+- **Quests:** WatMeet: Gone Fishing 1/3 (3), Gone Fishing 2/3 (4), Gone Fishing 3/3 (6)
+
+###Jaihri
+
+- **Location:** Water Region Meeting Ground - also Riza Rivertown
+- **Requirements:** 485 words
+- **Time allowed:** 60 minutes
+- **XP:** 44
+- **Drops:** 1-2 Wood, 0-1 Raw Gold, 1 Hardwood, 1-2 River Grass, 5 Festival Tokens
+- **Quests:** WatMeet: Bounty from Roiva (4); Grow, Nibble, Nom (6)
+
+###* Patliadu (Unlocked along with quest Gone Fishing 2/3)
+
+- **Location:** Water Region Meeting Ground - also Riza Rivertown
+- **FESTIVAL APPEARANCE Unlocked by:** WatMeet Quest: Gone Fishing 1/3
+- **Requirements:** 750 words and 1 Harpoon
+- **Time allowed:** 120 minutes
+- **XP:** 70
+- **Drops:** 7-8 Hunter Tokens, 1-2 Raw Steel, 1 River Water, 1-2 Leather Roll, 2 River Grass, 0-1 River Stone, 7-8 Festival Tokens, n/a
+- **Quests:** WatMeet: Gone Fishing 2/3 (2), Gone Fishing 3/3 (3)
+
+###Puna
+
+- **Location:** Water Region Meeting Ground - also Luciola Forest, Gansu Watering Hole, and Floating City of Balance
+- **Requirements:** 150 words & possess 1 Upgraded Wooden Fishing Rod
+- **Time allowed:** 15 minutes
+- **XP:** 15
+- **Drops:** 1 River Grass, 0-1 Algae, 1-2 Festival Tokens
+- **Quests:** WatMeet: Gone Fishing 1/3 (10), Gone Fishing 2/3 (8), Gone Fishing 3/3 (12)
+
+###Tiatu - EVENT EXCLUSIVE
+
+- **Location:** Water Region Meeting Ground
+- **Requirements:** 125 words
+- **Time allowed:** 15 minutes
+- **XP:** 12
+- **Drops:** 1-2 Festival Tokens, 1-4 Coins, 1 Rope
+- **Quests:** WatMeet: Fortune Hunting in Balance 1/2 (5), Fortune Hunting In Balance 2/2 (12)
