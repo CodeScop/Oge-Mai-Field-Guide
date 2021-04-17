@@ -170,13 +170,6 @@ Also, I am skipping recommendations because I think these are pretty self-explan
   - Reaction Market in Shrine of Ages (1 per Reaction)
   - Wardrobe Rewards in Shrine of Ages (various)
 
-### Steel Fishing Rod
-
-- **Sources:** outside game,
-  - ShrineDucks Battles: Idaa (400 words for 0-1; VERY dependent on Luck)
-- **Sell:** 10 Coins (don't sell, too expensive)
-- **Used for:** outside game
-
 ### Wood
 
 - **Best sources:** 

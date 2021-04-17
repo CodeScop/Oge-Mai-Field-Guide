@@ -47,20 +47,6 @@ Requirements:  & possess 1 Buhini Flute
   - Craft Gansu: Upgraded Wooden Fishing Rod (1), Upgraded Steel Fishing Rod (5)
   - Craft Balance: Upgraded Wooden Fishing Rod (1), Upgraded Steel Fishing Rod (5)
 
-### Steel Fishing Rod
-
-Introduced with Floating City of Balance and Furoxi 6 Mar 2019, phasing out as of 13 Apr 2021 with the introduction of the Upgraded Steel Fishing Rod (buy/craft/use gone)
-
-DESERT, WATER
-
-- **Sources:** Buy, Craft,
-  - DESERT: ShrineDucks Battles: Idaa (400 words for 0-1; VERY dependent on Luck)
-- **Buy**: DESERT, WATER 150 Coins in Gansu Item Shop/Tepij Locals OR Balance Water Shop/Kuyurata's Shop
-- **Craft:** DESERT, WATER Gansu Item Shop/Tepij Locals OR Balanc Water Shop/Kuyurata's Shop: 2 Raw Steel, 1 River Grass
-- **Sell:** 10 Coins (don't sell, too expensive)
-- **Used for:**
-  - DESERT, WATER: Gansu, Riza & Balance Battles: Furoxi (need 1)
-
 ### Upgraded Steel Fishing Rod
 
 DESERT, WATER
@@ -95,16 +81,3 @@ FOREST, DESERT, WATER
 - Craft Gansu: Upgraded Wooden Fishing Rod (10)
 - Craft Balance: Upgraded Wooden Fishing Rod (10)
 
-
-
-### Wooden Fishing Rod
-
-Introduced with Floating City of Balance and Puna 6 Mar 2019, phasing out as of 13 Apr 2021 with the introduction of the Upgraded Wooden Fishing Rod (buy/craft/use gone)
-
-FOREST, DESERT, WATER
-
-also called "Wood Fishing Rod"
-
-- **Source:** HuntS3 Quest: Where Life Flows (10)
-- **Sell price:** 5 Coins (sell as many as you like after souvenirs)
-- **Used for:** nothing anymore

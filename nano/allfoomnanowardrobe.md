@@ -1,4 +1,4 @@
-LAST UPDATED 13 APR 2021
+LAST UPDATED 17 APR 2021
 
 Wardrobe and House Items: when you're not sure how good they are, because what are the different versions, anyway? And wait, did you miss any?
 
@@ -44,6 +44,7 @@ For items in the store, I'll just list the name and price, since you can browse 
   - open: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1672-worm-eyes-12372-66986.png 
   - closed: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1672-worm-eyes-12380-60439.png
   - cracked open: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1672-worm-eyes-12381-12679.png 
+- The quest **Gusts of Air** gives you the **Winter Buhini Scarf:** https://4thewords.com/media/wardrobe/featured/female/wf&#95;1578-winter-buhini-scarf-11178-69152.png
 
 ## Wardrobe: Desert Region Meeting Ground
 
@@ -90,7 +91,11 @@ Okay, we're ready to start tracking house items! Special events are the only tim
 - The quest **Gnaw, Nibble, Nom** gets you the **Chewed Log Crown**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1039-chewed-log-crown-7595-30268.png
 - The quest **Gone Fishing 1/3** will get you a lovely pair of **Ankle Fins**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1038-ankle-fins-7593-89144.png
 - Meanwhile, **Gone Fishing 2/3** will get you **Forearm Fins**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1042-forearm-fins-7601-65231.png
-- Finally, **Gone Fishing 3/3** will get you a fancy **Head Fin**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1043-head-fin-7603-43946.png
+- Wrapping up the chain, **Gone Fishing 3/3** will get you a fancy **Head Fin**: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1043-head-fin-7603-43946.png
+- **Rea & Pira's Challenge 2/2** will get you **Water Wrist Guards**, which have **three variants**:
+  - right wrist only: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1679-water-wrist-guards-12402-80632.png
+  - left wrist only: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1679-water-wrist-guards-12401-61190.png
+  - both wrists: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1679-water-wrist-guards-12406-44324.png
 
 ## House Items: Forest Region Meeting Ground
 

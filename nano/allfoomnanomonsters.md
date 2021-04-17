@@ -1,4 +1,4 @@
-LAST UPDATED 13 APR 2021
+LAST UPDATED 17 APR 2021
 
 Reiterating what I said in the New Monsters area: This event is unusual in that new monsters are scarce; most of the monsters are perfectly available in the regular game. I'm going to count anything that's newly dropping Festival Tokens as "new" for these purposes, though, and if it's not EVENT EXCLUSIVE, I'll leave a note to tell you where else to look.
 
@@ -14,6 +14,15 @@ Whether a monster is in an event space or its regular home, it will have the sam
 - **XP:** 5
 - **Drops During Event:** 0-1 Dust, 1 Festival Tokens, 0-1 Reaction: For the Valley, 1 Ardia Dust
 - **Quests:** ForMeet: Bad Luck Ridan? (10)
+
+###Buhini
+
+- **Location:** Forest Region Meeting Ground - also Tall Trees
+- **Requirements:** 150 words & possess 1 Buhini Flute
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1-2 Festival Tokens, 1 Dust, 1-2 Leaves
+- **Quests:** ForMeet: Gusts of Air (15)
 
 ###Irsea - EVENT EXCLUSIVE
 
@@ -199,6 +208,24 @@ Whether a monster is in an event space or its regular home, it will have the sam
 - **Drops:** 1-2 Wood, 0-1 Raw Gold, 1 Hardwood, 1-2 River Grass, 5 Festival Tokens
 - **Quests:** WatMeet: Bounty from Roiva (4); Grow, Nibble, Nom (6)
 
+###Majal - EVENT EXCLUSIVE
+
+- **Location:** Water Region Meeting Ground
+- **Requirements:** 650 words
+- **Time allowed:** 120 minutes
+- **XP:** 65
+- **Drops:** 6-7 Festival Tokens, 2 River Water, 1-3 River Grass, 7-10 Coins
+- **Quests:** WatMeet: Rea & Pira's Challenge 1/2 (1), Rea & Pira's Challenge 2/2 (2)
+
+###Paol - EVENT EXCLUSIVE
+
+- **Location:** Water Region Meeting Ground
+- **Requirements:** 350 words
+- **Time allowed:** 45 minutes
+- **XP:** 35
+- **Drops:** 3-4 Festival Tokens, 1 River Water, 1-2 River Grass, 2-6 Coins
+- **Quests:** WatMeet: Rea & Pira's Challenge 1/2 (4), Rea & Pira's Challenge 2/2 (6)
+
 ###* Patliadu (Unlocked along with quest Gone Fishing 2/3)
 
 - **Location:** Water Region Meeting Ground - also Riza Rivertown
@@ -217,6 +244,15 @@ Whether a monster is in an event space or its regular home, it will have the sam
 - **XP:** 15
 - **Drops:** 1 River Grass, 0-1 Algae, 1-2 Festival Tokens
 - **Quests:** WatMeet: Gone Fishing 1/3 (10), Gone Fishing 2/3 (8), Gone Fishing 3/3 (12)
+
+###Rea & Pira
+
+- **Location:** Water Region Meeting Ground - also Raina Surface Camp
+- **Requirements:** 150 words
+- **Time allowed:** 25 minutes
+- **XP:** 15
+- **Drops:** 1-2 Festival Tokens, 1 Raw Fabric, 1 Wood
+- **Quests:** none in the Festival yet
 
 ###Tiatu - EVENT EXCLUSIVE
 

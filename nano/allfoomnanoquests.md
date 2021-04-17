@@ -1,4 +1,4 @@
-LAST UPDATED 13 APR 2021
+LAST UPDATED 17 APR 2021
 
 ##All Quests: Forest Region Meeting Ground
 
@@ -31,6 +31,15 @@ LAST UPDATED 13 APR 2021
 - **Requirements:** Defeat 15 Sacer
 - **Rewards:** House Item: Sacer Scissors https://4thewords.com/public/hideouts/hideout&#95;element&#95;393&#95;56595/variant&#95;icon&#95;1912&#95;193.png
 - **Recommendations:**  Up to you! I admit to being mildly disappointed that the lovely scissors are merely a house item, but it's a fairly easy quest.
+
+###Gusts of Air
+
+- **Location:** Forest Region Meeting Ground
+- **Unlocked by:** April 17th Event Drop
+- **Type:** Battle
+- **Requirements:** Defeat 15 Buhini
+- **Rewards:** Wardrobe: Winter Buhini Scarf https://4thewords.com/media/wardrobe/featured/female/wf&#95;1578-winter-buhini-scarf-11178-69152.png
+- **Recommendations:**  This is quite a lovely scarf and, now that the Buhini Flute saves you from needing to pay for each Buhini battle, it's a lot more fun to play with those little owlets. It is a one-variant reward, though, so be aware.
 
 ###Heart of Sunshine
 
@@ -316,6 +325,27 @@ LAST UPDATED 13 APR 2021
 - **Requirements:** Defeat 12 Puna, 6 Furoxi, and 3 Patliadu
 - **Rewards:** 50 Festival of Oge-Mai Tokens, Wardrobe: Head Fin https://4thewords.com/media/wardrobe/featured/female/wf&#95;1043-head-fin-7603-43946.png, and House Item: Fish Mobile https://4thewords.com/public/hideouts/hideout&#95;element&#95;403&#95;66815/variant&#95;icon&#95;1975&#95;126.png
 - **Recommendations:**  You can totally tell what's good here. :)
+
+###Rea & Pira's Challenge 1/2
+
+- **Location:** Water Region Meeting Ground
+- **Unlocked by:** April 17th Event Drop
+- **Type:** Battle
+- **Requirements:** Defeat 1 Majal and 4 Paol
+- **Rewards:** 20 Festival of Oge-Mai Tokens
+- **Recommendations:**  No particular advice here! The news has already spoiled the culmination of this chain, namely: getting the Water Wrist Guards, and it's up to you to decide how much that's worth to you!
+
+###Rea & Pira's Challenge 2/2
+
+- **Location:** Water Region Meeting Ground
+- **Unlocked by:** Rea & Pira's Challenge 1/2
+- **Type:** Battle
+- **Requirements:** Defeat 2 Majal and 6 Paol
+- **Rewards:** 20 Festival of Oge-Mai Tokens and Wardrobe: Water Wrist Guards, which have 3 variants:
+  - right wrist only: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1679-water-wrist-guards-12402-80632.png
+  - left wrist only: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1679-water-wrist-guards-12401-61190.png
+  - both wrists: https://4thewords.com/media/wardrobe/featured/female/wf&#95;1679-water-wrist-guards-12406-44324.png
+- **Recommendations:**  You know the drill. You got this.
 
 ###Time After Time 3/3
 
