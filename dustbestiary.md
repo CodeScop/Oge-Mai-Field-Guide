@@ -1,4 +1,4 @@
-LAST UPDATED 30 MAR 2021
+LAST UPDATED 21 APR 2021
 
 I resisted making this at first, because surely the end of the Dust Region is functionally identical to the whole game, right?
 
@@ -74,27 +74,7 @@ Ruins: Underground Ruins
 
 Shrine0: Shrine of Ages, regardless of equipment
 
-ShrineBird: Shrine of Ages, when equipped with the Birds Time Bracelet
-
-ShrineCar: Shrine of Ages, when equipped with the Carnival Time Bracelet
-
-ShrineCO: Shrine of Ages, when equipped with the Colorful Ooze Bracelet
-
-ShrineDucks: Shrine of Ages, when equipped with the Ducks Time Bracelet
-
-ShrineFools: Shrine of Ages, when equipped with the Fools' Time Bracelet
-
-ShrineGiant: Shrine of Ages, when equipped with the Giants Time Bracelet
-
-Shrine GO: Shrine of Ages, when equipped with Green Ooze Shrine Bracelet
-
-ShrineMar: Shrine of Ages, when equipped with the Marionette Time Bracelet
-
-ShrineNPC: Shrine of Ages, when equipped with the Special Event NPC Time Bracelet
-
-ShrinePoly: Shrine of Ages, when equipped with the Polygon Time Bracelet
-
-Shrine TFA: Shrine of Ages, when equipped with the Terror From Above Shrine Bracelet
+(See Shrine section or All Bestiary for more Shrine info)
 
 **Oge-Mai Water**
 
@@ -125,10 +105,6 @@ CAVE: Cave
 HuntS4: Hunt for the Ancients Season 4
 
 ## Dust-Relevant Monsters
-
-### Afeppti (Exp: ShrineCO)
-
-### Aita (Exp: ShrineDucks)
 
 ### Alnu (Exp: BC, FB, SC, TT)
 
@@ -203,14 +179,6 @@ HuntS4: Hunt for the Ancients Season 4
 - **Drops:** 1 Bones Chest, 2-3 Bones, 3-5 Fur, 2-3 Spirit Dust
 - **Quests:** DFO: Main Quest 11/To Hound Babu (1), Fetch! Play! Battle! (5)
 
-### Balatras (Exp: ShrineMar)
-
-### Balatrix (Exp: ShrineMar)
-
-### Balatros (Exp: ShrineMar)
-
-### Balli Ooze (Exp: Shrine GO)
-
 ### Bard
 
 - **Location:** Luciola Forest
@@ -237,8 +205,6 @@ HuntS4: Hunt for the Ancients Season 4
 
 ### Bevrex (Exp: DigS)
 
-### Biironk (Exp: ShrineCar)
-
 ### Brachi (Exp: IC)
 
 ### Bruja (Oge: 3PC, [Gansu], [Riza])
@@ -262,14 +228,6 @@ HuntS4: Hunt for the Ancients Season 4
 ### Cafodu (Exp: Hideout)
 
 ### Captain Piak (Exp: SpaceS)
-
-###Captain Shin (Exp: ShrineNPC)
-
-### Captain Uo (Exp: ShrineNPC)
-
-see **Untu Captain Uo**
-
-### Caravan (Exp: ShrineGiant)
 
 ### Caretaker (Oge: DFO)
 
@@ -317,10 +275,6 @@ see **Untu Captain Uo**
 
 ### Copei (Exp: SwampL)
 
-### Crilum (Exp: ShrineCO)
-
-### Cubed Frizi (Exp: ShrinePoly)
-
 ### Curator of Elder Library (Oge: MT\*, Exp: EldLib\*)
 
 ### Cursed Hand (Oge: PG)
@@ -355,8 +309,6 @@ see **Untu Captain Uo**
 - **XP:** 300
 - **Drops:** 3 Stempos, 3 Bones Chests, 3 Bone Keys
 - **Quests:** PG: Main Quest 10/A Familiar Fight (1)
-
-### Dati (Exp: ShrineDucks)
 
 ### Deepo (Exp: MSite)
 
@@ -438,10 +390,6 @@ see **Untu Captain Uo**
 
 ### Dust Witch (Oge: [Gansu])
 
-### Eguley (Exp: ShrineCO)
-
-### Elobre (Exp: ShrineCO)
-
 ### Eninir (Oge: PG*)
 
 - **Unlocked by:** PG Main Quest 2/A Desolate Path
@@ -455,33 +403,11 @@ see **Untu Captain Uo**
 
 ### Ferenti (Exp: RLab)
 
-### Fetezira (Exp: ShrineCar)
-
 ### Fin (Exp: TT)
 
 ### Finoir (Exp: TT)
 
-###First Officer Yu (Exp: ShrineNPC)
-
 ### Fonar (Exp: RLab)
-
-### Fools' Lorsa (Exp: Shrine TFA)
-
-### Fools' Lorsa Halloween (Exp: Shrine TFA)
-
-###  Fools' Mawt (Exp: ShrineFools)
-
-### Fools' Mawt (Halloween) (Exp: ShrineFools)
-
-###  Fools' Tylu (Exp: ShrineFools)
-
-###  Fools' Tylu (Halloween) (Exp: ShrineFools)
-
-### Fools' Wignow (Exp: ShrineFools)
-
-### Fools' Wignow (Halloween) (Exp: ShrineFools)
-
-### Fools' Wrimo (Exp: ShrineFools)
 
 ### Fosfa (Oge: CAVE*)
 
@@ -492,19 +418,13 @@ see **Untu Captain Uo**
 - **Drops:** 2-6 Raw Stone, 1-2 Spirit Dust, 2-5 Raw Steel, 1 Refined Dust
 - **Quests:** CAVE Dry Stale Air (5)
 
-### Fraite (Exp: ShrineCO)
-
 ### Frizi (Oge: 3PC, Gansu, Riza)
-
-### Froji Ooze (Exp: Shrine GO)
 
 ### Furoxi (Oge: Gansu, Riza, Balance)
 
 ### Gaiai (Exp: SwampL)
 
 ### Galatre (Exp: MSite)
-
-### Gayol (Exp: ShrineBird)
 
 ### Ghost Azadi (Oge: [CAVE])
 
@@ -532,16 +452,6 @@ see **Untu Captain Uo**
 - **XP:** 150
 - **Drops:** 2 Bones Chests & 2 Bone Keys
 - **Quests:** CAVE Main Quest 3/Sharpening Stubborn Stones (1)
-
-### Giant Dust Spirit (Exp: ShrineGiant)
-
-### Giant Marionnette
-
-see **Skuppa's Giant Marionette**
-
-### Giant Ooze (Exp: Shrine GO)
-
-### Giant Ooze House (Exp: Shrine GO)
 
 ### Gliva (Oge: CAVE)
 
@@ -573,17 +483,11 @@ see **Skuppa's Giant Marionette**
 
 ### Grult (Oge: 3PC)
 
-### Guardian (Exp: ShrineGiant)
-
 ### Gwynos (Exp: RLab)
 
 ### Halix (Exp: MSite)
 
-### Halores (Exp: ShrineCar)
-
 ### Heliodae (Exp: SwampL)
-
-### Idaa (Exp: ShrineDucks)
 
 ### Illi (Oge: MT)
 
@@ -633,10 +537,6 @@ see **Skuppa's Giant Marionette**
   - Dig: A Desert Exploration (5)
   - HuntS2: Dazzling Desert Diversity (1), Strengthening Your Adaptiveness 5/5 (3)
 
-### Katock (Exp: ShrineBird)
-
-### Kenkom (Exp: ShrineCO)
-
 ### Kiru (Oge: 3PC, [Gansu], [Riza])
 
 ### Kiru Hologram (Exp: RLab)
@@ -668,8 +568,6 @@ see **Skuppa's Giant Marionette**
 
 ### Ledd (Exp: SpaceS)
 
-### Lekhop (Exp: ShrineCO)
-
 ### Leopar (Oge: PG*)
 
 - **Unlocked by:** Main Quest 3/Keep Pushing Forward
@@ -700,8 +598,6 @@ see **Skuppa's Giant Marionette**
 
 ### Lubu Hologram (Exp: RLab)
 
-### Lupo (Exp: Shrine TFA)
-
 ### Lycosta (Oge: DFO*)
 
 - **Unlocked by:** DFO Main Quest 9/Detect, Chain, Bind
@@ -717,11 +613,7 @@ see **Skuppa's Giant Marionette**
 
 ### Maesc Hologram (Exp: RLab)
 
-### Mahor (Exp: ShrineCar)
-
 ### Maikile (Exp: GL)
-
-### Mandias (Exp: ShrineGiant)
 
 ### Mawt (Oge: LF)
 
@@ -733,8 +625,6 @@ see **Skuppa's Giant Marionette**
 - **XP:** 500
 - **Drops:** 1 Bones Chest, 1 Bone Key, 1 Bones, 5 Spirit Dust
 - **Quests:** DFO: Main Quest 9/Detect, Chain, Bind (1)
-
-### Mini Ooze (Exp: Shrine GO)
 
 ### Minica (Exp: RLab)
 
@@ -775,11 +665,7 @@ see **Skuppa's Giant Marionette**
 
 ### Mowow (Exp: RLab*)
 
-### Murciel (Exp: Shrine TFA)
-
 ### Nartha (Exp: IC)
-
-### Natida (Exp: ShrineDucks)
 
 ### Necog (Exp: Hideout)
 
@@ -800,8 +686,6 @@ see **Skuppa's Giant Marionette**
 ### Night Dandeleon (Exp: GL∆)
 
 ###Nitana (Oge: LF)
-
-### Noasis (Exp: ShrineBird)
 
 ### Noit (Exp: SpaceS)
 
@@ -856,10 +740,6 @@ see **Skuppa's Giant Marionette**
   - HuntS3: Growth Pains (3)
   - DFO: Reinforced Ardi Station 1/4 (1)
 
-### Osemar (Exp: ShrineMar)
-
-### Otpar (Exp: ShrineCO)
-
 ### Oxie (Exp: SpaceS)
 
 ### Pach (Exp: MSite)
@@ -895,11 +775,7 @@ see **Skuppa's Giant Marionette**
 
 ### Pedja (Exp: Sacred)
 
-### Peq (Exp: ShrineBird)
-
 ### Pester (Oge: LF)
-
-### Piachi (Exp: ShrineGiant)
 
 ### Pipit (Oge: Gansu)
 
@@ -912,19 +788,9 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 0-1 Purple Crystal Shards, 1-2 Wood, 1-3 Dust
 - **Quests:** PG Main Quest 1/Then The Bird Said (5), Trouble Above (10), Scary Short Story (1)
 
-###  Poly Aracnu (Exp: ShrinePoly)
-
-###  Poly Mawt (Exp: ShrinePoly)
-
-###  Poly Reenu (Exp: ShrinePoly)
-
-###  Poly Wignow (Exp: ShrinePoly)
-
 ### Puna (Oge: LF, Gansu, Riza, Balance)
 
 ### Quishi (Exp: SwampL)
-
-### Ralbone (Exp: ShrineBird)
 
 ### Rea & Pira (Exp: SurfaceC)
 
@@ -964,10 +830,6 @@ see **Skuppa's Giant Marionette**
 ### Ripos (Exp: Ruins)
 
 ### River Goddess (Oge: Balance*)
-
-### Roaki (Exp: ShrineCO)
-
-### Roica (Exp: ShrineCar)
 
 ### Rosarin (Exp: IC)
 
@@ -1032,13 +894,7 @@ see **Skuppa's Giant Marionette**
 
 ### Skarn (Exp: MSite)
 
-###Skuppa (Exp: ShrineNPC)
-
-### Skuppa's Giant Marionette (Exp: ShrineGiant)
-
 ### Sliv (Oge: Balance*)
-
-### Sothai (Exp: ShrineCO)
 
 ### Sparfly (Oge: Gansu, Riza)
 
@@ -1103,8 +959,6 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Wood, 2 Dark Forest Leaves, 2 Spirit Dust
 - **Quests:** HuntS4: Sing Your Wander 4/4 (1)
 
-### Spodo (Exp: ShrineCO)
-
 ### Sulanica (Exp: RLab*)
 
 ### Suulan (Oge: Gansu*)
@@ -1143,8 +997,6 @@ see **Skuppa's Giant Marionette**
   - HuntS4: To Celebrate and Share (6)
   - DFO: Main Quest 2/Rats, Wrong Way! (10)
 
-### Takra (Exp: ShrineGiant)
-
 ### Tambo (Oge: MT, 3PC)
 
 ### Tambo Hologram (Exp: RLab)
@@ -1153,17 +1005,11 @@ see **Skuppa's Giant Marionette**
 
 ### Tessen (Exp: RLab)
 
-### Thapiolo (Exp: ShrineCar)
-
-### Tian (Exp: ShrineDucks)
-
 ### Toccal (Exp: Sacred)
 
 ### Trainee (Oge: Riza)
 
 ### Tritus (Exp: SwampL)
-
-### Tryi Ooze (Exp: Shrine GO)
 
 ### Tylu (Oge: MT)
 
@@ -1184,16 +1030,6 @@ see **Skuppa's Giant Marionette**
 - **XP:** 65
 - **Drops:** 0-1 Cave Mushrooms (1 with enough Luck), 1-2 Leather Rolls, 2 River Water, 1 Spider Poison
 - **Quests:** CAVE Main Quest 6/Speak with Shadow (5), Submerged Spikey Swim 1/2 (8), Submerged Spikey Swim 2/2 (20)
-
-###Untu Captain Uo (Exp: ShrineNPC)
-
-### Untu Golem (Exp: ShrineGiant)
-
-### Untu Ship (Exp: Shrine TFA)
-
-### Upuchu (Exp: ShrineCar)
-
-###Uurwall Uzgot (Exp: ShrineNPC)
 
 ### Vafire (Oge: CAVE)
 
@@ -1242,8 +1078,6 @@ see **Skuppa's Giant Marionette**
 
 ### Villager (Oge: MT*, 3PC)
 
-###Vinstacio (Exp: ShrineNPC)
-
 ### Viyu (EVERYWHERE*)
 
 - **Unlocked by:** LF Main Quest 2: Building, Not Burning
@@ -1271,8 +1105,6 @@ see **Skuppa's Giant Marionette**
 
 ### Water Rudakai (Oge: Balance*)
 
-### Wavi Ooze (Exp: Shrine GO)
-
 ### Weekiwa (Oge: Riza*)
 
 - **Unlocked by:** HuntS3 Quest: A Bubble Dream
@@ -1294,8 +1126,6 @@ see **Skuppa's Giant Marionette**
   - HuntS2: Strengthening Your Friendship 3/3 (3)
   - DFO: Reinforced Ardi Station 1/4 (1)
 
-### Whaly Ooze (Exp: Shrine GO)
-
 ### Wignow (Oge: LF, MT)
 
 - **Requirements:** 250 words
@@ -1314,14 +1144,6 @@ see **Skuppa's Giant Marionette**
 ### Wignow Hologram (Exp: RLab)
 
 ### Wisthu (Exp: Hideout)
-
-###Witch Monvoisin (Exp: ShrineNPC)
-
-### Witch's Memoirs (Exp: Shrine TFA)
-
-### Wowtri Ooze (Exp: Shrine GO)
-
-### Wyvern (Oge: Riza*; Exp: SurfaceC)
 
 ### Xaey (Oge: PG)
 
@@ -1368,11 +1190,7 @@ see **Skuppa's Giant Marionette**
 
 ### Yasri (Oge: 3PC, [Gansu], [Riza])
 
-### Yawni Ooze (Exp: Shrine GO)
-
 ### Ylly (Oge: Gansu)
-
-### Zainga (Exp: ShrineCO)
 
 ### Zals (Exp: MSite)
 
@@ -1402,11 +1220,3 @@ see **Skuppa's Giant Marionette**
 - **Quests:** PG: Main Quest 5/What Lies Uncovered (5), A Coordinated Attack 1/2 (15), A Coordinated Attack 2/2 (25), Scary Short Story (1)
 
 ### Zoomga! (Exp: RLab)
-
-### Zosimaga (Exp: ShrineMar)
-
-### Zosimalus (Exp: ShrineMar)
-
-### Zosimas (Exp: ShrineMar)
-
-### Zosimos (Exp: ShrineMar)

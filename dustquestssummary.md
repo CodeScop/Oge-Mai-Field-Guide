@@ -1,4 +1,4 @@
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 21 APR 2021
 
 And now, all the quests for the Dust Region. As with the Desert and Water, I'm omitting any Main Quests outside this Region, and for non-Dust Quests I'm listing only the name and location. Let's have a quick recap of how this works:
 
@@ -51,17 +51,7 @@ NOTE: All Hunt quests are picked up in Elder Library, regardless of what Region 
 - Dig = Dig Site
 - Ruins = Underground Ruins
 - Shrine, Shrine0 = Shrine of Ages (general)
-- ShrineBird = Shrine of Ages Birds event
-- ShrineCar = Shrine of Ages Carnival event
-- ShrineCO = Shrine of Ages Colorful Ooze event
-- ShrineDucks = Shrine of Ages Ducks event
-- ShrineFools = Shrine of Ages Fools' event
-- ShrineGiant = Shrine of Ages Giants event
-- Shrine GO = Shrine of Ages Green Ooze event
-- ShrineMar = Shrine of Ages Marionettes event
-- ShrineNPC = Shrine of Ages Special Events NPC event
-- ShrinePoly = Shrine of Ages Polygon event
-- Shrine TFA = Shrine of Ages Terror From Above event
+- see Shrine info or All Quests for quests requiring a Shrine Bracelet
 
 **Oge-Mai Water Region**
 
@@ -361,7 +351,7 @@ NOTE: To trigger the PG Main Quests, you will have to pick up the first one as i
 
 # Side Quests, in Alphabetical Order A-M
 
-LAST UPDATED 27 MAR 2021
+LAST UPDATED 21 APR 2021
 
 ### 100 Minds to Explore - CAVE
 
@@ -381,11 +371,6 @@ LAST UPDATED 27 MAR 2021
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Balance MQ2: Underwater Training
-
-###Aid of Assistants - ShrineNPC
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
 
 ### Aid the Aliens - SpaceS
 
@@ -461,11 +446,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Spaceship
 - **Quest Path:** (open via Alien Expedition Trail: IC Learning to Breathe) • **An Alien Exam (Part 1 of 2)** • SpaceS Studying Space Scientists (Part 2 of 2) • SpaceS Sparks to Ignite (3/3)
-
-### All Dressed Up - ShrineMar
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Marionette Time Bracelet
 
 ### All Who Wander - HuntS2
 
@@ -564,11 +544,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Elder Library
 - **Hunt Trail Route:** (unlocked via LF MQ4/Don't Regift Curses) • MT The Winding Path to Elder Library • HuntS1 Joining the Hunt • HuntS1 The Hunt Begins • HuntS1 Deeper Forest Hunting • HuntS1 A Past Not Forgotten • HuntS1 The Curator of Elder Library • HuntS2 All Who Wander • HuntS2 Oh, Endless Possibilities! • HuntS2 No Wrong Path • Hunt S2 Stumbling Upon Sheep • HuntS3 To Grow & Change • **Bettering Ourselves** • HuntS3 Bigger & Brighter • HuntS3 A Bubble Dream • HuntS4 Dirt to Dust • HuntS4 Celebrate Joy • HuntS4 Still Missing Something • HuntS4 Proving Your Friendship
 
-### Beware! Rock Shower - Shrine TFA
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Terror From Above Shrine Bracelet
-
 ### Bigger and Brighter - HuntS3
 
 - **Location:** Elder Library
@@ -578,11 +553,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Balance MQ2: Underwater Training
-
-### Birb's the Word - ShrineBird
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Birds Time Bracelet
 
 ### Birbs of a Feather - DigS
 
@@ -632,11 +602,6 @@ Note: if you're trying to progress to the next quest after this, you'll need to 
 - **Requirements:** Defeat 10 Sakot and 10 Letos
 - **Rewards:** Wardrobe: Letos Ear Piercing https://4thewords.com/media/wardrobe/featured/male/wm&#95;1235-fishskull-medium-earpiercing-8675-13088.png
 - **Recommendations:** This gets a boilerplate "sure, if you like! Maybe keep an eye out for overlaps?"
-
-### Bone White Canvas - ShrineMar
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Marionette Time Bracelet
 
 ### Boots Made For Climbing - TT
 
@@ -693,21 +658,6 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Location:** Research Lab
 - **Quest Path:** (open via Alien Expedition Trail: SpaceS Orders to Repair) • RLab Set Creatures Free! (1/4) • RLab Create a Clearing (2/4) • **Build a Biodome (3/4)** • RLab Encourage an Ecosystem (4/4) • IN ANY ORDER  [RLab Making Mellow Mowow  (*unlocks Mowow in Wilderness*)• RLab Sagacious Sincere Sabu (*unlocks Sabu in Wilderness*) • RLab Silkly Sleek Sulanica (*unlocks Sulanica in Wilderness*)• RLab Zappy Zazzy Xombri (*unlocks Xombri in Wilderness*)• RLab Zooty Zanutaki Zings (*unlocks Zanutaki in Wilderness*)]
 
-### By the Pie! - ShrinePoly
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Polygon Time Bracelet
-
-### Calcium Vitamins - ShrineMar
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Marionette Time Bracelet
-
-### A Carnival Festival - ShrineCar
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Carnival Time Bracelet
-
 ### Cast Out Castu - Balance
 
 - **Location:** Floating City of Balance
@@ -750,11 +700,6 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Rewards:** 15 Hunter Tokens
 - **Recommendations:** I always recommend participating in the forum, and the 10K will happen as you go. Take it!
 
-### Cleaning The House - ShrineGO
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Green Ooze Shrine Bracelet
-
 ###Close to Home - HuntS1.2
 
 - **Location:** Elder Library
@@ -783,11 +728,6 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 
 - **Location:** Floating City of Balance
 - **Unlocked by:** Balance MQ2: Underwater Training
-
-### A Colossal Quest - ShrineGiant
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Giants Time Bracelet
 
 ### Cool Creature Highlights (2/3) - MT
 
@@ -911,16 +851,6 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Requirements:** Defeat 6 Dusiri and 12 Ardid
 - **Rewards:** Wardrobe: Dusiri Crown https://4thewords.com/media/wardrobe/featured/male/wm&#95;1061-dust-whirlwind-crown-7659-69330.png
 - **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
-
-### Cut the Strings - ShrineCar
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Carnival Time Bracelet
-
-### Cute Confetti Cannons! - ShrineCO
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Colorful Ooze Bracelet
 
 ### Daily: Monster Hunter
 
@@ -1219,11 +1149,6 @@ Note: technically, this appears as soon as you open Guardian's Lair whether you'
 - **Rewards:** 1 Dark Forest Sword
 - **Recommendations:** Whoza good boy? Babu's gonna get you a Dark Forest Sword, which has as much Attack as any other Weapon1 and more Luck than the Steel Mace that ties it. I like this quest.
 
-### Fighters, Friends, Foes - ShrineCar
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Carnival Time Bracelet
-
 ### Fighting Fallen Soldiers (1/2) - CAVE
 
 - **Location:** Cave
@@ -1264,11 +1189,6 @@ see **Lead the Way**
 
 - **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
-
-### Fool Me Once - ShrineFools
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Fools' Time Bracelet
 
 ### Forest Creatures - LF
 
@@ -1323,11 +1243,6 @@ see **Lead the Way**
 - **Rewards:** Wardrobe: Ardi Lamp https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;hands&#95;ardi&#95;lamp&#95;yellow.png
 - **Recommendations:** Yes, this is the end of the quest chain.
 
-### Gather Lucky Stars - ShrineCO
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Colorful Ooze Bracelet
-
 ###Gentle, Magical Being - HuntS1.2
 
 - **Location:** Elder Library
@@ -1362,16 +1277,6 @@ see **Lead the Way**
 
 - **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
-
-### Green Be Gone! - ShrineCO
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Colorful Ooze Bracelet
-
-### Green Ooze Invasion - ShrineGO
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Green Ooze Shrine Bracelet
 
 ### Growing Improvement - HuntS3
 
@@ -1441,11 +1346,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Shrine of Ages
 - **Quest Path:** (open via Desert Expedition Trail: Ruins Tunnel Locked On) • Shrine0 Keeper of the Shrine 1/3 • **Helper of the Shrine 2/3** • Shrine0 Guardian of the Shrine 3/3
-
-### Helping A Mother - ShrineDucks
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Ducks Time Bracelet
 
 ### Helping Those In Need Grow - HuntS3
 
@@ -1757,11 +1657,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Research Lab
 - **Quest Path:** (open via Alien Expedition Trail: SpaceS Orders to Repair) • RLab Set Creatures Free! (1/4) • RLab Create a Clearing (2/4) • RLab Build a Biodome (3/4) • RLab Encourage an Ecosystem (4/4) • IN ANY ORDER [**Making Mellow Mowow  (*unlocks Mowow in Wilderness*)**• RLab Sagacious Sincere Sabu (*unlocks Sabu in Wilderness*) • RLab Silkly Sleek Sulanica (*unlocks Sulanica in Wilderness*)• RLab Zappy Zazzy Xombri (*unlocks Xombri in Wilderness*)• RLab Zooty Zanutaki Zings (*unlocks Zanutaki in Wilderness*)]
 
-### The Math's Correct... - ShrinePoly
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Polygon Time Bracelet
-
 ###Mawt Shading Practice - HuntS1.2
 
 - **Location:** Elder Library
@@ -1781,11 +1676,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Impact Crater
 - **Unlocked by:** Alien Meteoroid Trail: 3PC A Way North: Up The Mountain
 
-### Mini OoOoOoOozes - ShrineGO
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Green Ooze Shrine Bracelet
-
 ### Moving Flora
 
 - **Location:** Elder Library
@@ -1793,7 +1683,7 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 # Side Quests, in Alphabetical Order: N-Z
 
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 21 APR 2021
 
 ### Nabia's Exploration - BC
 
@@ -1869,11 +1759,6 @@ see **Luciola Lanterns**
 - **Location:** Stone City
 - **Unlocked by:** Forest Expedition Trail: FB Stone's Throw East
 
-###NPC's Here to Help - ShrineNPC
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
-
 ### Of Vibrant Growth - HuntS3
 
 - **Location:** Elder Library
@@ -1925,11 +1810,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS1 The Curator of Elder Library
 
-### Paint Battle - ShrineDucks
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Ducks Time Bracelet
-
 ### A Past Not Forgotten - HuntS1
 
 - **Location:** Elder Library
@@ -1943,16 +1823,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Requirements:** Deliver 25 Reinforced Ardi Lamps
 - **Rewards:** 25 Dust Chains
 - **Recommendations:** No, I haven't found a use for Dust Chains yet. The chief use of this quest is unlocking the next.
-
-### Peace and Sunflowers - ShrineCar
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Carnival Time Bracelet
-
-### Peppy Piñata Party - ShrineBird
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Birds Time Bracelet
 
 ### Pieces For Peace - DFO
 
@@ -1972,11 +1842,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Rewards:** Wardrobe: Dark Forest Bones Skirt https://media.4thewords.com/s3/media/wardrobe/featured/male/wm&#95;featured&#95;darkforest&#95;skirt.png
 - **Recommendations:** Pick up immediately if you have space, complete at leisure. You'll be battling 12 Chu for the Main Quests, so it's up to you how long to wait. Also, Chu are your best source of Rat Tails, so if you want to do any of those quests, this kind of works as a doubling up. (I do adore that skirt. Totally worth 25K words.)
 
-### Poly Wants a Pie - ShrinePoly
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Polygon Time Bracelet
-
 ### Preventing Purple Power-Ups - PG
 
 - **Location:** Purple Gate
@@ -1985,16 +1850,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Requirements:** Defeat 20 Vibidi and 3 Oncara
 - **Rewards:** 1 Bones Chest & 1 Bone Key
 - **Recommendations:** My recommendation for most Purple Gate sidequests is pretty uniform: take the quest if you like the reward, and you can figure out the rest!
-
-### Prime Birb Time - ShrineBird
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Birds Time Bracelet
-
-### Prime Party Piñata - ShrineGiant
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Giants Time Bracelet
 
 ### Problems Feed Solutions - HuntS3
 
@@ -2276,11 +2131,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Raina Sacred Site
 - **Quest Path:** (open via Raina Expedition Trail: SwampL Twisted Treacherous Trails (2/2)) • SacredS Seeding New Beginnings 1/3 • SacredS Seeding New Beginnings 2/3 • **Seeding New Beginnings 3/3** 
 
-### Seeing a Sequence - ShrineGO
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Green Ooze Shrine Bracelet
-
 ### Seeing It Through - HuntS2
 
 - **Location:** Elder Library
@@ -2309,16 +2159,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Requirements:** Collect 25 Rat Tails
 - **Rewards:** 1 Bone Key
 - **Recommendations:** This really dovetails well with Pit of Nightmares, which I highly recommend as the source of all your Rat Tail needs. It also unlocks another quest with a Bone Chest as a reward, so it's a nice source of resources.
-
-### Shrine Creature Flyby - Shrine TFA
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Terror From Above Shrine Bracelet
-
-### The Shrine-Stone Trail - ShrineGiant
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Giants Time Bracelet
 
 ### Silent Slithering Surprises - PG
 
@@ -2404,11 +2244,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Riza Rivertown
 - **Unlocked by:** Riza MQ6/Journey Upriver
 
-### Spooky Scary Supernaturals - ShrineMar
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Marionette Time Bracelet
-
 ### Spreading Hope - HuntS1
 
 - **Location:** Elder Library
@@ -2458,11 +2293,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Rewards:** 1 Staff of the Dead
 - **Recommendations:** This series culminates in my favorite ever Wardrobe reward (see Flutters Shy & High), and Papple Spirits have the great virtue (great in my opinion, anyway) of Not Having Any Price Tag Other Than Words. The reward is a Weapon2 I can take or leave, but it's great for anyone trying to max Luck.
 
-### Sticks & Stones - ShrineGiant
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Giants Time Bracelet
-
 ###Sticky, Sweet, and Alluring  - HuntS1.2
 
 - **Location:** Elder Library
@@ -2496,11 +2326,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Forward Base
 - **Forest Expedition Trail Route:** (open via MT MQ4 / Aid To An Elder) • MT New Adventurous Horizons •  BC Hard Day's Walk • FB Feeding the Lighthouse • IN ANY ORDER [FB Javelin Toss West • FB North: Homeward Bound • **Stone's Throw East**]
-
-### Stop Clowning Around - ShrineMar
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Marionette Time Bracelet
 
 ###Stories to Tell - HuntS4
 
@@ -2606,11 +2431,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Floating City of Balance
 - **Unlocked by:** Riza MQ6/Journey Upriver
 
-### Tears and Feathers - ShrineCar
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Carnival Time Bracelet
-
 ### Technology & Dinti - SpaceS
 
 - **Location:** Spaceship
@@ -2621,11 +2441,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Research Lab
 - **Unlocked by:** Alien Expedition Trail: SpaceS Orders to Repair
 
-### There She Blows - ShrineGO
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Green Ooze Shrine Bracelet
-
 ### Thieving Glowing Rocks - MSite
 
 - **Location:** Mining Site
@@ -2635,11 +2450,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 
 - **Location:** Mama Tree
 - **Quest Path Route:** (open via MT MQ 4/ Aid To An Elder) • MT Tinkering With Leafsung (1/5) • MT Inking By Number (2/5) • MT Inking of Dust (3/5) • **Thinking of Ink (4/5)** • MT The Invisible Ink (5/5)
-
-### Those Nightly Terrors - Shrine TFA
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Terror From Above Shrine Bracelet
 
 ### Time of Reflection - HuntS1
 
@@ -2738,11 +2548,6 @@ NOTE: This exact quest was offered during the Alien Meteoroid Expedition in July
 - **Location:** Rebel Raina Hideout
 - **Unlocked by:** Raina Expedition Trail: SacredS A Worthy Offering
 
-###Untu Leaders United - ShrineNPC
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
-
 ### Valley Of The Sheep - HuntS2
 
 - **Location:** Elder Library
@@ -2822,20 +2627,10 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 - **Location:** Global
 - **Route:** none needed; globally available from the start
 
-### When Tylu Portal - ShrineFools
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and Wardrobe: Fools' Time Bracelet
-
 ### Where Life Flows - HuntS3
 
 - **Location:** Elder Library
 - **Unlocked by:** Hunt Trail: HuntS2 Stumbling Upon Sheep
-
-###Which Witch Is This? - ShrineNPC
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Wardrobe: Special Event NPC Time Bracelet
 
 ### White Coat - Gansu
 
@@ -2861,11 +2656,6 @@ Note: NOT POSSIBLE to complete till Oge-Mai Desert fully unlocked
 
 - **Location:** Swamplands
 - **Unlocked by:** Raina Expedition Trail: SurfaceC Energy Now, Tired Later
-
-### Write, You Fool - ShrineFools
-
-- **Location:** Shrine of Ages
-- **Unlocked by:** Desert Expedition Trail: Ruins Tunnel Locked On, and  Wardrobe: Fools' Time Bracelet
 
 ### Written Accounts - MT
 

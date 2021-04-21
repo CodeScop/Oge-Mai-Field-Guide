@@ -1,4 +1,4 @@
-LAST UPDATED 20 APR 2021
+LAST UPDATED 21 APR 2021
 
 Once again! Here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -6,7 +6,7 @@ Once again! Here's a comprehensive list of all the monsters found or mentioned t
 
 For all your "crap, where was that?!?" needs. There is a complete version at the end of the Guide if you want to jump straight to "but what ELSE will show up in the game?!" or "... but are there any OTHER quests for this same monster later on?"
 
-Finally, **I am omitting Shrine monsters except for their name and location**, because this document is getting too huge and you can check the Desert Bestiary or the All Bestiary if you really want to investigate them.
+Finally, **I am omitting Shrine monsters that require Bracelets to see**, because this document is getting too huge and you can check the Shrine info or the All Bestiary if you really want to investigate them.
 
 ## Key:
 
@@ -64,28 +64,6 @@ Ruins: Underground Ruins
 
 Shrine0: Shrine of Ages, regardless of equipment
 
-ShrineBird: Shrine of Ages, when equipped with the Birds Time Bracelet
-
-ShrineCar: Shrine of Ages, when equipped with the Carnival Time Bracelet
-
-ShrineCO: Shrine of Ages, when equipped with the Colorful Ooze Bracelet
-
-ShrineDucks: Shrine of Ages, when equipped with the Ducks Time Bracelet
-
-ShrineFools: Shrine of Ages, when equipped with the Fools' Time Bracelet
-
-ShrineGiant: Shrine of Ages, when equipped with the Giants Time Bracelet
-
-Shrine GO: Shrine of Ages, when equipped with Green Ooze Shrine Bracelet
-
-ShrineMar: Shrine of Ages, when equipped with the Marionette Time Bracelet
-
-ShrineNPC: Shrine of Ages, when equipped with the Special Event NPC Time Bracelet
-
-ShrinePoly: Shrine of Ages, when equipped with the Polygon Time Bracelet
-
-Shrine TFA: Shrine of Ages, when equipped with the Terror From Above Shrine Bracelet
-
 **Oge-Mai Water**
 
 Riza: Riza Rivertown
@@ -103,10 +81,6 @@ SacredS: Raina Sacred Site
 Hideout: Rebel Raina Hideout
 
 # BESTIARY
-
-### Afeppti (Exp: ShrineCO)
-
-### Aita (Exp: ShrineDucks)
 
 ### Alnu (Exp: BC, FB, SC, TT)
 
@@ -213,7 +187,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Drops:** 1 Raw Steel
 - **Quests:** RLab: Projecting Light (10)
 
-### Arir (Exp: IC, MSite, Shrine TFA)
+### Arir (Exp: IC, MSite, Shrine Terror From Above)
 
 - **Unlocked by:** Wardrobe: Terror From Above Shrine Bracelet OR opening Impact Site
 - **Requirements:** 100 words
@@ -271,14 +245,6 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
   - LF: Forest Creatures (1)
   - Balance: Curious Traveler (20)
 
-### Balatras (Exp: ShrineMar)
-
-### Balatrix (Exp: ShrineMar)
-
-### Balatros (Exp: ShrineMar)
-
-### Balli Ooze (Exp: Shrine GO)
-
 ### Bashta (Exp: Sacred)
 
 - **Requirements:** 400 words
@@ -306,8 +272,6 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 - **Quests:** 
   - Digs: Bounding Over Dunes (6)
   - Ruins: Feathers & Fur (5)
-
-### Biironk (Exp: ShrineCar)
 
 ### Brachi (Exp: IC)
 
@@ -399,14 +363,6 @@ Note: These are the areas where I can find Burocat as of this writing. Given tha
 - **Drops:** Wardrobe: Piak's Earrings https://4thewords.com/media/wardrobe/featured/female/wf&#95;featured&#95;alien&#95;crystal&#95;earings&#95;blue.png, 2-11 Coins, 3-7 Glass Shards, 1-3 Glass Bars,  5-7 Dinti, 1-4 Fine Fabric
 - **Quests:** RLab: Set Creatures Free! 1/4 (1)
 
-###Captain Shin (Exp: ShrineNPC)
-
-### Captain Uo (Exp: ShrineNPC)
-
-see **Untu Captain Uo**
-
-### Caravan (Exp: ShrineGiant)
-
 ### Caricaco (Oge: Balance)
 
 - **Requirements:** 300 words
@@ -450,10 +406,6 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 2-3 Swamp Moss, 1-3 Raw Stone, 2-4 Dust, 1-3 Rope
 - **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5)
 
-### Crilum (Exp: ShrineCO)
-
-### Cubed Frizi (Exp: ShrinePoly)
-
 ### Curator of Elder Library (Oge: MT\*, Exp: EldLib\*)
 
 - **Unlocked by:** A Past Not Forgotten 
@@ -491,8 +443,6 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
   EXPEDITION
 
   - FB: Blossom with Flowers! 1/2 (5)
-
-### Dati (Exp: ShrineDucks)
 
 ### Deepo (Exp: MSite)
 
@@ -569,10 +519,6 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - Gansu: Main Quest 7/ Red Witch of the Southern Coven (1) (THEN KEEP GOING! DON'T TURN IN ON JUST ONE!)
 
-### Eguley (Exp: ShrineCO)
-
-### Elobre (Exp: ShrineCO)
-
 ### Erbor (Exp: IC)
 
 - **Requirements:** 400 words
@@ -591,8 +537,6 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 1-3 Dinti, 2-5 Raw Steel, 0-1 Steel Bars, 1-4 Rope
 - **Quests:** none yet 
 
-### Fetezira (Exp: ShrineCar)
-
 ### Fin (Exp: TT)
 
 - **Requirements:** 250 words
@@ -609,8 +553,6 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Drops:** 1-2 Dinti, 1-5 Raw Steel
 - **Quests:** HuntS1.2: Into Forest Depths 2/3 (1)
 
-###First Officer Yu (Exp: ShrineNPC)
-
 ### Fonar (Exp: RLab)
 
 - **Requirements:** 200 words
@@ -618,26 +560,6 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 20
 - **Drops:** 2-4 Glass Shards, 2 Raw Fabric
 - **Quests:** SpaceS: Sparks to Ignite 3/3 (10)
-
-### Fools' Lorsa (Exp: Shrine TFA)
-
-### Fools' Lorsa Halloween (Exp: Shrine TFA)
-
-###  Fools' Mawt (Exp: ShrineFools)
-
-### Fools' Mawt (Halloween) (Exp: ShrineFools)
-
-###  Fools' Tylu (Exp: ShrineFools)
-
-###  Fools' Tylu (Halloween) (Exp: ShrineFools)
-
-### Fools' Wignow (Exp: ShrineFools)
-
-### Fools' Wignow (Halloween) (Exp: ShrineFools)
-
-### Fools' Wrimo (Exp: ShrineFools)
-
-### Fraite (Exp: ShrineCO)
 
 ### Frizi (Oge: 3PC, Gansu, Riza)
 
@@ -648,8 +570,6 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **Quests:**
   - MT: Itsy, Bitsy, Teeny (25)
   - HuntS2: A Season to Explore (1), Seeing It Through (10)
-
-### Froji Ooze (Exp: Shrine GO)
 
 ### Furoxi (Oge: Gansu, Riza, Balance)
 
@@ -676,18 +596,6 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 - **XP:** 45
 - **Drops:** 2-5 Raw Stone, 2 Dinti
 - **Quests:** IC: Stabbing Dinti Spikes (4), One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
-
-### Gayol (Exp: ShrineBird)
-
-### Giant Dust Spirit (Exp: ShrineGiant)
-
-### Giant Marionnette
-
-see **Skuppa's Giant Marionette**
-
-### Giant Ooze (Exp: Shrine GO)
-
-### Giant Ooze House (Exp: Shrine GO)
 
 ### Gobkey (Exp: GL)
 
@@ -745,8 +653,6 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 2 Fur, 1 Dust, 3 Raw Stone, 1 Desert Stone
 - **Quests:** HuntS2: Strengthening Your Loyalty (4), A Season to Explore (1)
 
-### Guardian (Exp: ShrineGiant)
-
 ### Gwynos (Exp: RLab)
 
 - **Requirements:** 450 words
@@ -763,8 +669,6 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1-3 Raw Stone, 1 Dinti
 - **Quests:** IC: Stabbing Dinti Spikes (10), One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
 
-### Halores (Exp: ShrineCar)
-
 ### Heliodae (Exp: SwampL)
 
 - **Requirements:** 120 words
@@ -772,15 +676,6 @@ see **Skuppa's Giant Marionette**
 - **XP:** 12
 - **Drops:** 1 Swamp Moss, 1-2 Dust
 - **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5)
-
-### Idaa (Exp: ShrineDucks)
-
-- **Unlocked by:** Wardrobe: Ducks Time Bracelet
-- **Requirements:** 400 words
-- **Time allowed:** 45 minutes
-- **XP:** 40
-- **Drops:** 1-3 Leaves, 4 Shrine Stones, 1-3 Raw Fabric, 25 Coins
-- **Quests:** Lining Up Ducks (1)
 
 ### Illi (Oge: MT)
 
@@ -867,10 +762,6 @@ see **Skuppa's Giant Marionette**
   - Functionally, anything requiring a Kapir Tuft requires a Kapir battle. (See All Resources for details.)
   - Dig: A Desert Exploration (5)
   - HuntS2: Dazzling Desert Diversity (1), Strengthening Your Adaptiveness 5/5 (3)
-
-### Katock (Exp: ShrineBird)
-
-### Kenkom (Exp: ShrineCO)
 
 ### Kiru (Oge: 3PC, [Gansu], [Riza])
 
@@ -981,8 +872,6 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Steel Bar, 1-2 Glass Shards
 - **Quests:** SpaceS: Train the Guards (10)
 
-### Lekhop (Exp: ShrineCO)
-
 ### Loi (Exp: Dig)
 
 - **Requirements:** 150 words
@@ -1040,10 +929,6 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 Raw Steel
 - **Quests:** RLab: Projecting Light (10)
 
-### Lupo (Exp: Shrine TFA)
-
-### Mahor (Exp: ShrineCar)
-
 ### Maikile (Exp: GL)
 
 - **Requirements:** 750 words
@@ -1051,8 +936,6 @@ see **Skuppa's Giant Marionette**
 - **XP:** 75
 - **Drops:** 4-7 Leaves, 2-3 Fur, 2 Wood, 1 Essence
 - **Quests:** GL: Eat the Leaves? (10)
-
-### Mandias (Exp: ShrineGiant)
 
 ### Mawt (Oge: LF)
 
@@ -1103,8 +986,6 @@ see **Skuppa's Giant Marionette**
   - HuntS1: Proving Your Worth 1/4 (1)
   - HuntS1.2 Mawt Shading Practice (5)
 
-### Mini Ooze (Exp: Shrine GO)
-
 ### Minica (Exp: RLab)
 
 - **Requirements:** 900 words
@@ -1140,8 +1021,6 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1-2 Dinti, 1-4 Raw Stone, 1-3 Leaves
 - **Quests:** RLab: Life's An Experiment (3)
 
-### Murciel (Exp: Shrine TFA)
-
 ### Nartha (Exp: IC)
 
 - **Requirements:** 350 words
@@ -1149,8 +1028,6 @@ see **Skuppa's Giant Marionette**
 - **XP:** 35
 - **Drops:** 1-3 Raw Stone, 1-2 Dinti
 - **Quests:** IC: Learning to Breathe (3), One Rocky Start 1/2 (1), Crown of Rocks 2/2 (4)
-
-### Natida (Exp: ShrineDucks)
 
 ### Necog (Exp: Hideout)
 
@@ -1199,8 +1076,6 @@ see **Skuppa's Giant Marionette**
   - MT: Fair, Standard, Middling (25)
   - HuntS1: Proving Your Curiosity 2/4 (6)
   - HuntS1.2: Sticky, Sweet, and Alluring (5)
-
-### Noasis (Exp: ShrineBird)
 
 ### Noit (Exp: SpaceS)
 
@@ -1273,10 +1148,6 @@ see **Skuppa's Giant Marionette**
   - Riza: Osaril Nests (10)
   - HuntS3: Growth Pains (3)
 
-### Osemar (Exp: ShrineMar)
-
-### Otpar (Exp: ShrineCO)
-
 ### Oxie (Exp: SpaceS)
 
 - **Requirements:** 100 words
@@ -1314,8 +1185,6 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 2-3 River Grass, 2-3 Leather Roll, 2-3 Swamp Moss, 1-2 Rope
 - **Quests:** none yet
 
-### Peq (Exp: ShrineBird)
-
 ### Pester (Oge: LF)
 
 - **Requirements:** 500 words
@@ -1326,8 +1195,6 @@ see **Skuppa's Giant Marionette**
   - LF: Forest Creatures (1)
   - HuntS1: Proving Your Worth 1/4 (1)
 
-### Piachi (Exp: ShrineGiant)
-
 ### Pipit (Oge: Gansu)
 
 - **Unlocked by:** Hunt S1 Quest: The Curator of Elder Library
@@ -1336,14 +1203,6 @@ see **Skuppa's Giant Marionette**
 - **XP:** 90
 - **Drops:** 9 Hunter Tokens, 2-4 Raw Fabric, 0-1 Red Dye, 1-2 Raw Stone, 1-2 Wood
 - **Quests:** HuntS2: State of Rest (4), Herding the Herders (1)
-
-###  Poly Aracnu (Exp: ShrinePoly)
-
-###  Poly Mawt (Exp: ShrinePoly)
-
-###  Poly Reenu (Exp: ShrinePoly)
-
-###  Poly Wignow (Exp: ShrinePoly)
 
 ### Puna (Oge: LF, Gansu, Riza, Balance)
 
@@ -1366,8 +1225,6 @@ see **Skuppa's Giant Marionette**
 - **XP:** 35
 - **Drops:** 1-2 Fur, 1-2 Swamp Moss, 1 Leaves
 - **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5)
-
-### Ralbone (Exp: ShrineBird)
 
 ### Rea & Pira (Exp: SurfaceC)
 
@@ -1458,10 +1315,6 @@ see **Skuppa's Giant Marionette**
 - **Drops:** 1 River Chest, 1 River Key, 3-6 River Water, 5 Hardwood, 4-7 Leather Roll, 5 River Grass, 2 River Stone
 - **Quests:**
   - Balance: Main Quest 5/The Water Calls (1)
-
-### Roaki (Exp: ShrineCO)
-
-### Roica (Exp: ShrineCar)
 
 ### Rosarin (Exp: IC)
 
@@ -1626,10 +1479,6 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:**  3-5 Dinti, 3-6 Raw Stone, 1 Stone Block, 2-4 Raw Gold, 1-5 Raw Sandstone, 1-2 Glass Shards
 - **Quests:** SpaceS: An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2), Sparks to Ignite 3/3 (10)
 
-### Skuppa (Exp: ShrineNPC)
-
-### Skuppa's Giant Marionette (Exp: ShrineGiant)
-
 ### Sliv (Oge: Balance*)
 
 - **Unlocked by:** Balance Main Quest 1/Help From A Master
@@ -1640,8 +1489,6 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Quests:**
   - Balance: Main Quest 2/Underwater Training (4), Curious Traveler Part 2 (20)
 
-### Sothai (Exp: ShrineCO)
-
 ### Sparfly (Oge: Gansu, Riza)
 
 - **Requirements:** 450 words
@@ -1651,8 +1498,6 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Quests:**
   - HuntS2: Strengthening Your Viewpoint 2/3 (1)
   - Balance: Venomous Villains (7)
-
-### Spodo (Exp: ShrineCO)
 
 ### Sulanica (Exp: RLab*)
 
@@ -1697,8 +1542,6 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 3-6 Raw Steel, 0-2 Hardwood, 1 Steel Bar
 - **Quests:** SpaceS: Orders to Repair (3), An Alien Exam 1/2 (1), Studying Space Scientists 2/2 (2), Sparks to Ignite 3/3 (10)
 
-### Takra (Exp: ShrineGiant)
-
 ### Tambo (Oge: MT, 3PC)
 
 - **Requirements:** 2000 words, 4 Rope, 10 Leaves, Min Level 5
@@ -1738,10 +1581,6 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 1-3 Glass Shards, 2 Raw Fabric, 1-3 Dust, 1-2 Raw Steel 
 - **Quests:** SpaceS: Sparks to Ignite 3/3 (10)
 
-### Thapiolo (Exp: ShrineCar)
-
-### Tian (Exp: ShrineDucks)
-
 ### Toccal (Exp: Sacred)
 
 - **Requirements:** 800 words
@@ -1768,8 +1607,6 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Drops:** 5-9 Wood, 1-3 Swamp Moss, 1-5 Dust
 - **Quests:** Swamp: Wading Through & Onwards 1/2 (1), Twisted Treacherous Trails 2/2 (5)
 
-### Tryi Ooze (Exp: Shrine GO)
-
 ### Tylu (Oge: MT)
 
 - **Requirements:** 600 words
@@ -1779,16 +1616,6 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Quests:**
   - MT: A Famiy Tree (8); Fair, Standard, Middling (25); Warm Creature Highlights 1/3 (5); The Winding Path to Elder Library (3); New Adventurous Horizons (1)
   - HuntS1: Proving Your Strength 6/6 (6)
-
-### Untu Captain Uo (Exp: ShrineNPC)
-
-### Untu Golem (Exp: ShrineGiant)
-
-### Untu Ship (Exp: Shrine TFA)
-
-### Upuchu (Exp: ShrineCar)
-
-###Uurwall Uzgot (Exp: ShrineNPC)
 
 ### Vaktra (Exp: SurfaceC)
 
@@ -1900,8 +1727,6 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - HuntS1.2: A Secret Plan? (1), Close to Home (5)
   - HuntS2: A Season to Explore (1)
 
-###Vinstacio (Exp: ShrineNPC)
-
 ### Viyu (EVERYWHERE*)
 
 - **Unlocked by:** LF Main Quest 2: Building, Not Burning
@@ -1955,8 +1780,6 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - Balance: Rudakai Master (3)
   - HuntS3: Growing Your Perception 2/3 (1)
 
-### Wavi Ooze (Exp: Shrine GO)
-
 ### Wetu (Oge: Gansu)
 
 - **Requirements:** 1100 words
@@ -1967,8 +1790,6 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - MT: Huge, Gigantic, Enormous (25); Inking of Dust 3/5 (5)
   - Gansu: Main Quest 1/Circle Of Protection (4), Digging into Desert Sands (1)
   - HuntS2: Strengthening Your Friendship 3/3 (3)
-
-### Whaly Ooze (Exp: Shrine GO)
 
 ### Wignow (Oge: LF, MT)
 
@@ -1998,12 +1819,6 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **XP:** 80
 - **Drops:** 1-3 Rope, 1-3 Raw Fabric, 1-4 Raw Steel, 2-6 Dust, 1-4 Glass Shards
 - **Quests:** Hideout: Knocking Down Rebels (1), Uncanny Swamp Wisthu (6),Pushing Back Rebels 1/3 (1), Pushing Back Rebels 2/3 (3), Pushing Back Rebels 3/3 (5)
-
-### Witch Monvoisin (Exp: ShrineNPC)
-
-### Witch's Memoirs (Exp: Shrine TFA)
-
-### Wowtri Ooze (Exp: Shrine GO)
 
 ### Wyvern (Oge: Riza*; Exp: SurfaceC)
 
@@ -2120,8 +1935,6 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - HuntS2: A Season to Explore (1)
   - Riza: Main Quest 2/Attack of Opportunity (2)
 
-### Yawni Ooze (Exp: Shrine GO)
-
 ### Ylly (Oge: Gansu)
 
 - **Requirements:** 720 words
@@ -2132,8 +1945,6 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
   - Gansu: Snake Pit (25)
   - HuntS2: Strengthening Your Viewpoint 2/3 (1)
   - Balance: Venomous Villains (7)
-
-### Zainga (Exp: ShrineCO)
 
 ### Zals (Exp: MSite)
 
@@ -2176,12 +1987,4 @@ Sassi is reliably in Luciola Forest, but he has also been known to pop up random
 - **Time allowed:** 30 minutes
 - **XP:** 30
 - **Drops:** 2-5 Raw Steel, 2-4 Glass Shards
-- **Quests:** none yet
-
-### Zosimaga (Exp: ShrineMar)
-
-### Zosimalus (Exp: ShrineMar)
-
-### Zosimas (Exp: ShrineMar)
-
-### Zosimos (Exp: ShrineMar)
+- **Quests:** none yet 
