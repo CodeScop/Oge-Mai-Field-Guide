@@ -1,4 +1,4 @@
-LAST UPDATED 24 AUG 2020
+LAST UPDATED 20 APR 2021
 
 # EVERYWHERE MONSTERS
 
@@ -144,7 +144,7 @@ As of this writing, these monsters are everywhere. No need to repeat them every 
 
 ### Buhini
 
-- **Requirements:** 150 words, 1 Nezthai Claws, existing 2-day Streak
+- **Requirements:** 150 words, existing 2-day Streak, & possess 1 Buhini Flute (infinitely reusable)
 - **Time allowed:**  10 minutes
 - **XP:** 10
 - **Drops:** 1 Dust, 1-2 Leaves

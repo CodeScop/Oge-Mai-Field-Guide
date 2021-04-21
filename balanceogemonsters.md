@@ -1,4 +1,4 @@
-LAST UPDATED 12 SEPT 2020
+LAST UPDATED 20 APR 2021
 
 ### Awa
 
@@ -23,7 +23,7 @@ LAST UPDATED 12 SEPT 2020
 
 ### Furoxi
 
-- **Requirements:** 400 words, 1 Steel Fishing Rod  
+- **Requirements:** 400 words & possess 1 Upgraded Steel Fishing Rod (infinitely reusable)
 - **Time Allowed:** 30 minutes  
 - **XP:** 40 
 - **Drops:** 1 Algae, 1 River Grass, 0-1 River Stone (usually 1 with enough Luck), 0-1 River Water (usually 1 with enough Luck)
@@ -44,7 +44,7 @@ LAST UPDATED 12 SEPT 2020
 
 ### Puna
 
-- **Requirements:** 150 words, 1 Wooden Fishing Rod  
+- **Requirements:** 150 words & possess 1 Upgraded Wooden Fishing Rod (infinitely reusable)
 - **Time Allowed:** 15 minutes  
 - **XP:** 15  
 - **Drops:** 1 River Grass, 1 Algae 

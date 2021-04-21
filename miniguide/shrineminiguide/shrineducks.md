@@ -1,4 +1,4 @@
-LAST UPDATED 23 MAR 2020
+LAST UPDATED 20 APR 2021
 
 Remember, to see the following, your avatar needs to be wearing the Ducks Time Bracelet, which can be purchased for 3 Shrine Tickets in the Shrine Bracelets area.
 
@@ -53,7 +53,7 @@ Also, I am skipping recommendations because I think these are pretty self-explan
 - **Requirements:** 400 words
 - **Time allowed:** 45 minutes
 - **XP:** 40
-- **Drops:** 1-3 Leaves, 4 Shrine Stones, 1-3 Raw Fabric, 0-1 Steel Fishing Rod (rare drop; VERY dependent on Luck)
+- **Drops:** 1-3 Leaves, 4 Shrine Stones, 1-3 Raw Fabric, 25 Coins
 
 ### Natida
 
@@ -76,6 +76,7 @@ Also, I am skipping recommendations because I think these are pretty self-explan
 ### Coins
 
 - **Best sources:** 
+  - ShrineDucks Battles: Idaa (400 words for 25)
   - Anywhere Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
 - **Other sources:**
 - **Buy:** MT Item Shop/Edrie's Market: 1 Core Crystal for 100 Coins or 5 Core Crystals for 500 Coins

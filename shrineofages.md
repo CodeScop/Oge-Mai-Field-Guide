@@ -1,8 +1,10 @@
-LAST UPDATED 5 MAR 2021
+LAST UPDATED 20 APR 2021
+
+**By the way, I'm shifting my Shrine info.**
+
+That is to say, I'm moving the gritty details of what's in each bracelet's event out of most of this Guide and over to my new mini guide for the Shrine: https://4thewords.com/read-mini-guide-the-shrine-of-ages-by-kirala Feel free to check it out! But if you're just arriving, this will give you a plenty good enough intro. :)
 
 The SHRINE OF AGES! This is a weird and wonderful place where time shifts unpredictably. Which is a fancy way of saying that past events are alive here... *if* you know how to look.
-
-**Note: if you've already looked and you just want to know what's new, skip to the New section after this one.**
 
 It looks pretty empty at first glance: only one unique monster, one quest. You'll need to take a beeline to Town to the **Shrine Bracelets: Stempos or Tickets** section to unlock the potential. Buy yourself a Bracelet for any event(s) that look interesting. You should have received a Shrine Ticket for every time you've leveled up in the game, and by now that should be enough to get you started here. (If you need to purchase Shrine Tickets with Stempos, well, I talk plenty about how to get Stempos in the Gansu recap.)
 
@@ -14,9 +16,9 @@ Switch Bracelets, and all this changes.
 
 Have at it.
 
-**My Shrine Notes will be mostly divided by Bracelet.** That is to say, I'll discuss resources, monsters, and quests grouped by which Bracelet makes them appear. (It's worth noting that cheaper Bracelets seem to give fewer monsters and quests.) **I also have a Wardrobe section available after all the regular Bracelet sections** to summarize all the Wardrobe available, for anyone who wants to browse (but at the end so it's easy for anyone else to skip).
+**I've moved all the info related to the individual bracelet stuff into its own separate project.** Meet the Mini Guide: Shrine of Ages edition. **For the main Guide, I will provide only info about what is available in the Shrine at its opening, except in the All summary sections at the end of the Guide.**
 
-**Want a preview?** Each Bracelet premiered with a banner listing images of all the monsters and wardrobe items it unlocks. I've saved those banners here: https://github.com/CodeScop/Oge-Mai-Field-Guide/tree/master/bannershrine
+**Want a quick preview?** Each Bracelet premiered with a banner listing images of all the monsters and wardrobe items it unlocks. I've saved those banners here: https://github.com/CodeScop/Oge-Mai-Field-Guide/tree/master/bannershrine
 
 There are currently 11 Bracelets available (listing alphabetically):
 
@@ -33,7 +35,7 @@ There are currently 11 Bracelets available (listing alphabetically):
 - Special Event NPC Time Bracelet - see NPC Time Bracelet
 - Terror From Above Shrine Bracelet - 3 Shrine Tickets (released 4 Feb 2020, based on haunting & tricks themed events) Haunted house hodgepodge; handful of different battle quests
 
-**But before we get to the divided notes, let's briefly note the open markets and other open info.**
+**So let's briefly note the open markets and other open info.**
 
 You don't need a Bracelet to see the Chests & Keys, or to see the Reaction Market, but you will need a Bracelet to see most of the monsters that drop the Shrine Stones that are used as currency in these stores. (What monsters drop Shrine Stones? All of them. At least, "all of them" that aren't the global monsters like Xin jut hanging around because they're everywhere.) And if you want to see anything in the Wardrobe area, you'll need to be equipped.
 
@@ -125,4 +127,6 @@ Motes wasn't around till about a year after the Shrine opened in its current ite
 
 
 
-**And now, on to the Bracelet-specific info! Listed in the order they're listed above: alphabetically.**
+**For more info, switch over to the Mini Guide: Shrine of Ages!**
+
+https://4thewords.com/read-mini-guide-the-shrine-of-ages-by-kirala

@@ -2,19 +2,21 @@
 
 ### Buhini
 
-Requirements:  & possess 1 Buhini Flute
+Requirements:  150 words, existing 2-day Streak, & possess 1 Buhini Flute (infinitely reusable)
 
 ### Furoxi
 
-**Requirements:** 400 words & possess 1 Upgraded Steel Fishing Rod
+**Requirements:** 400 words & possess 1 Upgraded Steel Fishing Rod (infinitely reusable)
 
 ### Puna
 
-**Requirements:** 150 words & possess 1 Upgraded Wooden Fishing Rod
+**Requirements:** 150 words & possess 1 Upgraded Wooden Fishing Rod (infinitely reusable)
 
 ##Resources
 
-- **Coins:** Used for: 
+- **Coins:** 
+- Source: ShrineDucks Battle: Idaa (400 words for 25)
+- Used for: 
   - Craft LF: Upgraded Wooden Fishing Rod (150)
   - Craft TT: Buhini Flute (25)
   - Craft Gansu: Upgraded Wooden Fishing Rod (50), Upgraded Steel Fishing Rod (100)
@@ -38,6 +40,7 @@ Requirements:  & possess 1 Buhini Flute
   - Used for: Craft TT: Buhini Flute (5)
 - **Raw Steel:** **NOT USED FOR** Steel Fishing Rods
 - **Raw Stone:** **NOT USED FOR** Wooden Fishing Rods
+- **Reinforced Rope:** Source: HuntS3 Quest: Where Life Flows (10)
 - **River Grass:** **NOT USED FOR** Steel Fishing Rods
 - **Rope:** **NOT USED FOR** Wooden Fishing Rods; **Used For:** 
   - Craft LF: Upgraded Wooden Fishing Rod (10)

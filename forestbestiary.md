@@ -1,4 +1,4 @@
-LAST UPDATED 30 MAR 2021
+LAST UPDATED 20 APR 2021
 
 So, here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -147,7 +147,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 
 ### Buhini (Exp: TT)
 
-- **Requirements:** 150 words, 1 Nezthai Claws, existing 2-day Streak
+- **Requirements:** 150 words, existing 2-day Streak, & possess 1 Buhini Flute (infinitely reusable)
 
 - **Time allowed:**  10 minutes
 
@@ -410,7 +410,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 
 ### Puna (Oge: LF)
 
-- **Requirements:** 150 words, 1 Wood Fishing Rod
+- **Requirements:** 150 words & possess 1 Upgraded Wooden Fishing Rod (infinitely reusable)
 - **Time Allowed:** 15 minutes
 - **XP:** 15
 - **Drops:** 1 River Grass, 1 Algae

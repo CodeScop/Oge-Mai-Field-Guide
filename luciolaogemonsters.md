@@ -1,4 +1,4 @@
-LAST UPDATED 25 JAN 2021
+LAST UPDATED 20 APR 2021
 
 Adding in all the numbers this time, but be aware: I'm assuming you have at least some Luck.
 
@@ -53,7 +53,7 @@ Adding in all the numbers this time, but be aware: I'm assuming you have at leas
 
 ###Puna
 
-- **Requirements:** 150 words, 1 Wood Fishing Rod
+- **Requirements:** 150 words & possess 1 Upgraded Wooden Fishing Rod (infinitely reusable)
 - **Time Allowed:** 15 minutes
 - **XP:** 15
 - **Drops:** 1 River Grass, 1 Algae

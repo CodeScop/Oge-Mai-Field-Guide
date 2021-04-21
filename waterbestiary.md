@@ -1,4 +1,4 @@
-LAST UPDATED 30 MAR 2021
+LAST UPDATED 20 APR 2021
 
 Once again! Here's a comprehensive list of all the monsters found or mentioned thus far. The * [ ] and ∆ symbols are indicators that a monster's presence is more complicated than "look here" (I have a comprehensive key below). Otherwise, I list whether the monster is in the Oge-Mai Valley (regular game) or Expedition (Expedition areas), and then the areas where it can be found if you're looking for it. Anything that says LATER GAME is a monster you might encounter in a quest description here, but won't find till you get past the Forest.
 
@@ -332,7 +332,7 @@ Note: These are the areas where I can find Alnu as of this writing. Given that A
 
 ### Buhini (Exp: TT)
 
-- **Requirements:** 150 words, 1 Nezthai Claws, existing 2-day Streak
+- **Requirements:** 150 words, existing 2-day Streak, & possess 1 Buhini Flute (infinitely reusable)
 
 - **Time allowed:**  10 minutes
 
@@ -653,7 +653,7 @@ Note: These are the areas where I can find Clawadin as of this writing. Given th
 
 ### Furoxi (Oge: Gansu, Riza, Balance)
 
-- **Requirements:** 400 words, 1 Steel Fishing Rod  
+- **Requirements:** 400 words & possess 1 Upgraded Steel Fishing Rod (infinitely reusable)
 - **Time Allowed:** 30 minutes  
 - **XP:** 40 
 - **Drops:** 1 Algae, 1 River Grass, 0-1 River Stone (usually 1 with enough Luck), 0-1 River Water (usually 1 with enough Luck)
@@ -779,7 +779,7 @@ see **Skuppa's Giant Marionette**
 - **Requirements:** 400 words
 - **Time allowed:** 45 minutes
 - **XP:** 40
-- **Drops:** 1-3 Leaves, 4 Shrine Stones, 1-3 Raw Fabric, 0-1 Steel Fishing Rod (rare drop; VERY dependent on Luck)
+- **Drops:** 1-3 Leaves, 4 Shrine Stones, 1-3 Raw Fabric, 25 Coins
 - **Quests:** Lining Up Ducks (1)
 
 ### Illi (Oge: MT)
@@ -1347,7 +1347,7 @@ see **Skuppa's Giant Marionette**
 
 ### Puna (Oge: LF, Gansu, Riza, Balance)
 
-- **Requirements:** 150 words, 1 Wood Fishing Rod
+- **Requirements:** 150 words & possess 1 Upgraded Wooden Fishing Rod (infinitely reusable)
 - **Time Allowed:** 15 minutes
 - **XP:** 15
 - **Drops:** 1 River Grass, 1 Algae
