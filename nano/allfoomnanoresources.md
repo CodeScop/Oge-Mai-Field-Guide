@@ -1,10 +1,12 @@
-LAST UPDATED 17 APR 2021
+LAST UPDATED 24 APR 2021
 
 So, when I say "outside game", I mean "this is info that's in the regular Guide and I'm not going to copy it here, because I have no idea where you are in the game and what will constitute spoilers." Also note that **Vi, Viyu, Viyusa, Xin, and Awa are global monsters available everywhere, and I am not including their info here**. Because this is Event Info Only. Not that anyone's likely to need any info apart from the Tokens, seeing how few collection-oriented quests we have and how familiar the monsters are, but I'm upholding tradition here!
 
 ###Festival of Oge-Mai Tokens
 
 - **Sources:** 
+  - Global Battles: Paper Wignow (100 words for 1)
+  - Global Quests: 2B or Not 2B? 1/3 (5), 2B or Not 2B? 2/3 (10), 2B or Not 2B? 3/3 (15)
   - ForMeet Battles: Sacer (120 words for 1-2), Buhini (150 words & possess 1 Buhini Flute for 1-2), Irsea (220 words for 2-3), Wignow (250 words for 2-3), Kai (150 words for 1-2), Ridan (450 words for 4-5), Nezthai (600 words for 6), Reenu (200 words for 2), Rudakai (1400 words, 1 Leaf Boots, and 10 Leaves for 14)
   - ForMeet Quests: Heart of Sunshine (10), A Little Luciola Luck (10), The Rudakai Theory 3/3 (10), Thank the Trees (10), Bad Luck Ridan? (10), Shades of Gold (10)
   - DesMeet Battles: Frizi (150 words for 1-2), Torkan (450 words for 4-5), Bevrex (300 words for 3), Grult (400 words for 4), Kiru (250 words for 2-3), Kuikas (100 words for 1), Yasri (1250 words for 12-13), Zera (550 words for 5-6)
@@ -14,9 +16,21 @@ So, when I say "outside game", I mean "this is info that's in the regular Guide 
 - **Sell:** 10 Coins (Better to spend than sell during event; excess can be sold after event)
 - **Used for:** all event stores! See Wardrobe and House Items near the bottom of this section for details.
 
+### Core Crystals
+
+These are special resources. They can be bought with actual real-world currency through PayPal, and are chiefly used to purchase subscription time, Wardrobe items, or Stempos (I'll discuss Stempos and their use when they pop up regularly in-game, in the third region.)
+
+- **Sources:** Buy 'em outright, outside game,
+  - Global Quest: Gratitude Journal Oge-Mai (10)
+- **Buy:** Prices in USD, not accounting for special promotions: \$4 for 44, \$8 for 99, \$16 for 210, \$40 for 544, $64 for 920 https://4thewords.com/store
+- **Uses:** 
+  - Wardrobe purchases for avatar (misc prices here: https://4thewords.com/wardrobe)
+  - Subscription time (44/month), Stempos (https://4thewords.com/store)
+
 ###Coins
 
 - **Sources:** outside game,
+  - Global Battles: Paper Wignow (100 words for 4)
   - DesMeet Quest: Sign of the Times (100)
   - WatMeet Battles: Majal (650 words for 7-10), Paol (350 words for 2-6)
 - **Sell:** n/a
@@ -56,7 +70,9 @@ So, when I say "outside game", I mean "this is info that's in the regular Guide 
 
 ###Essence
 
-- **Sources:** ForMeet Battles: Kai (150 words for 0-1), Irsea (220 words for 1), Wignow (250 words for 0-1), Rudakai (1400 words, 1 Leaf Boots, and 10 Leaves for 2)
+- **Sources:** 
+  - Global Battles: Paper Wignow (100 words for 0-1, usually 1)
+  - ForMeet Battles: Kai (150 words for 0-1), Irsea (220 words for 1), Wignow (250 words for 0-1), Rudakai (1400 words, 1 Leaf Boots, and 10 Leaves for 2)
 - **Sell:** 8 Coins (don't sell unless you have >500)
 - **Used for:** ForMeet Quest: Thank the Trees (needs 3)
 

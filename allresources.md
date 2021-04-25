@@ -1,4 +1,4 @@
-LAST UPDATED 30 MAR 2021
+LAST UPDATED 21 APR 2021
 
 ##Abbreviations Used:
 
@@ -116,6 +116,7 @@ ALL GAME
     - Gansu Quest: Main Quest 2/Lorsa Nest Network (100), Main Quest 5/White Stars' Light
     - Ruins Battles: Yantao (650 words for 1-4)
     - (Post HuntS3) Ruins Battles: Morimet (2500 words for 27-88)
+    - ShrineDucks Battle: Idaa (400 words for 25)
     - Shrine TFA Battles: Fools' Lorsa (150 words for 1-4), Witch's Memoirs (500 words for 0-8), Fools' Lorsa Halloween (100 words for 0-4), Lupo (450 words for 0-2)
   - FOREST
     - LF Wooden Chest: 9-18 per chest/key
@@ -150,15 +151,17 @@ ALL GAME
 - **Buy:** MT Item Shop/Edrie's Market: 1 Core Crystal for 100 Coins or 5 Core Crystals for 500 Coins
 - **Used for:** Buy misc items;
   - FOREST
-    - Craft LF: Leaf Boots (10), Rusty Amulet (15), Spider Bow (5), Wood Hammer (15), Wood Sword (10) 
+    - Craft LF: Leaf Boots (10), Rusty Amulet (15), Spider Bow (5), Wood Hammer (15), Wood Sword (10), Upgraded Wooden Fishing Rod (150)
     - Craft MT: Leaf Helmet(15), Leaf Boots (10), Leaf Breastplate (15), Protected Leaf Helmet (35), Rusty Amulet (15), Rusty Pendant (20), Vine Net (15), Wood Hammer (15), Wood Spear (25), Wood Sword (10), Wooden Bow (10)
     - MT Battles: Grey's Mawt (need 5)
+    - Craft TT: Buhini Flute (25)
   - DESERT
-    - Craft: Crossbow (50), Fabric Boots (100), Fabric Breastplate (100), Fabric Helmet (100), Glass Bar (10), Glass Necklace (75), Glass Scimitar (100), Glass Staff (100), Gold Bar (10), Net (25), Steel Bar (10), Sands Ring (75), Sandstone Block (5), Steel Spear (25), Steel Sword (25), Stone Block (5), Stone Hammer (35), Stone Ring (35)
+    - Craft 3PC: Crossbow (50), Fabric Boots (100), Fabric Breastplate (100), Fabric Helmet (100), Glass Bar (10), Glass Necklace (75), Glass Scimitar (100), Glass Staff (100), Gold Bar (10), Net (25), Steel Bar (10), Sands Ring (75), Sandstone Block (5), Steel Spear (25), Steel Sword (25), Stone Block (5), Stone Hammer (35), Stone Ring (35)
+    - Craft Gansu: Upgraded Wooden Fishing Rod (50), Upgraded Steel Fishing Rod (100)
     - 3PC Quests: Main Quest 5/A Way South (1000)
   - WATER
     - Riza Battles: Trainee (needs 20)
-    - Craft Balance: Reinforced Steel Breastplate (250), Reinforced Steel Helmet (250)
+    - Craft Balance: Reinforced Steel Breastplate (250), Reinforced Steel Helmet (250), Upgraded Wooden Fishing Rod (50), Upgraded Steel Fishing Rod (100)
 
 ### Algae
 
@@ -166,13 +169,13 @@ some FOREST, some DESERT, WATER
 
 - **Best sources:** 
   - FOREST, DESERT, WATER
-    - Luciola, Gansu, Riza Battles: Puna (150 words, 1 Wooden Fishing Rod for 1)
+    - Luciola, Gansu, Riza, Balance Battles: Puna (150 words & possess 1 Upgraded Wooden Fishing Rod for 0-1)
   - WATER
     - Balance Battles: Caricaco (300 words for 1), Castu (450 words, 1 Water Mask for 1-2)
     - Balance River Chest: 2-6
 - **Other sources:** 
   - DESERT, WATER
-    - Gansu, Riza, Balance Battles: Furoxi (400 words, 1 Steel Fishing Rod for 1)
+    - Gansu, Riza, Balance Battles: Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 1)
   - WATER
     - Balance Battles: Nuig (850 words, 1 Water Mask for 1-2), Sliv (550 words, 1 Water Mask for 1), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 3-6), Water Rudakai (1600 words, 3 Reinforced Rope for 1-5), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 1-4)
 - **Sell price:** 10 Coins (Can sell if you have >25)  
@@ -306,6 +309,16 @@ slight FOREST, DUST
 - **Sell price:** 100 Coins (DON'T SELL CHESTS, WHY WOULD YOU)
 - **Used for:** 
   - With Bone Key, drops 140-270 Coins, 2-6 Steel Chains, 2-6 Pieces of Parchment, 1-3 Blue Essence Ink, 1-8 Refined Dust, 1-7 Dried Pulp, 1-4 Spirit Dust, 0-1 Stempo, 0-1 Dark Forest Boots
+
+### Buhini Flute
+
+FOREST
+
+- **Sources:** Buy, Craft
+- **Craft:** TT Market: 10 Wood, 5 Nezthai Claws, 3 Feathers, and 25 Coins
+- **Buy:** 250 Coins in TT Market
+- **Sell price:** 50 Coins (why do you have extra to sell, they're so expensive? Well, if you do, you only need the one...)
+- **Used for:** FOREST: TT Battles: Buhini (need 1 in inventory, infinitely reusable)
 
 ### Cave Mushroom
 
@@ -538,7 +551,7 @@ ALL GAME
   - FOREST
     - LF Battles: Reenu (200 words for 1)
     - MT Battles: Lorsa (450 words for 2), Villager (1300 words for 2-3), Tambo (2000 words, 4 Rope, 10 Leaves, and min level 5 for 2)
-    - TT Battles: Buhini (150 Words, 1 Nezthai Claw, 2-day Streak for 1), Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 1-3), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-5)
+    - TT Battles: Buhini (150 words, 2-day Streak & possess 1 Buhini Flute for 1), Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 1-3), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-5)
     - GL Battles: Night Dandeleon (330 words for 1)
   - DESERT
     -  3PC Battles: Kiru (250 words for 1), Desert Wignow (444 words for 1-2), Grult (400 words for 1), Villager (1300 words, 1 Spider Poison, 5 Leaves for 2-3), Tambo (2000 words, 4 Rope, 10 Leaves, min level 5 for 2)
@@ -698,6 +711,7 @@ FOREST, some DESERT, some WATER
   - Craft HOUSE: (multiple)
   - FOREST
     - Craft MT: Leaf Breastplate (5), Leaf Helmet (3)
+    - Craft TT: Buhini Flute (3)
     - LF Quests: Make It Work (5), Style Is Eternal (10), New Style (5), Safety Hats (20)
     - MT Quests: Main Quest 2/A Secret Message (5), Inking By Number 2/5 (15), Warm Creature Highlights 1/3 (10)
     - TT Quest: Swing, Sway, Summon (25)
@@ -780,7 +794,7 @@ ALL GAME
 
 # G-O
 
-LAST UPDATED 30 MAR 2021
+LAST UPDATED 21 APR 2021
 
 ### Glass
 
@@ -911,10 +925,10 @@ The game usually simply calls this **Gold**. Since I call the parallel things fo
 - **Used for:** 
   - Craft HOUSE: Large Trunk and Small Trunk in Trinkets each require 1
   - DESERT
-    - Craft Gansu: Stempo (1)
+    - Craft Gansu: Stempo (1), Upgraded Steel Fishing Rod (1)
     - Gansu Quest: First Stempo (1)
   - WATER
-    - Craft Balance: Reinforced Steel Breastplate (2), Reinforced Steel Helmet (1)
+    - Craft Balance: Reinforced Steel Breastplate (2), Reinforced Steel Helmet (1), Upgraded Steel Fishing Rod (1)
     - HuntS3 Quest: Helping Those In Need Grow (1)
 
 ### Golden Chest
@@ -1331,7 +1345,9 @@ ALL GAME, especially FOREST
 
 - **Best sources:** 
   - Anywhere Battles: Xin (100 words for 1-2), Awa (200 words for 1-2)
-  - FOREST: LF, MT Battles: Wignow (250 words for 3-4)
+  - FOREST: 
+    - LF, MT Battles: Wignow (250 words for 3-4)
+    - TT Battles: Buhini (150 words, 2-day Streak & possess 1 Buhini Flute for 1-2)
   - DESERT: 3PC & Gansu Battles: Desert Wignow (444 words for 3)
 - **Other sources:**
   - Anywhere Battles: Vi (5 minutes for 1-4)
@@ -1344,7 +1360,7 @@ ALL GAME, especially FOREST
     - BC Battles: Kaija (240 words for 1), Sacer (120 words for 1), BC Battles: Xuso (450 words for 1-3)
     - FB Battles:  Dandeleon (220 words for 1-2)
     - SC Battles: Reudod (600 words for 3-5), Sapilo (450 words, 1 Saliva Vial for 1-2), Sapiti (300 words, 1 Saliva Vial for 1), Oncaiii (800 words & 1 Saliva Vial for 2-4)
-    - TT Battles: Buhini (150 Words, 1 Nezthai Claw, 2-day Streak for 1-2), Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 3), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-3)
+    - TT Battles: Buhovi (650 words, 2 Nezthai Claws, 4-day Streak for 3), Buholi (800 words, 3 Nezthai Claws, 6-day Streak for 1-3)
     - GL Battles: Maikile (750 words for 4-7), Night Dandeleon (330 words for 1-2)
     - Post-HuntS3 GL Battle: Mirdor (1500 words for 3-7)
   - DESERT
@@ -1437,7 +1453,8 @@ FOREST EXPEDITION
 - **Sell price:** 5 Coins (don't sell any if you like fighting Buh- monsters; sell all you like otherwise)
 - **Used for:** 
   - MT Quest: Warm Creature Highlights 1/3 (10)
-  - TT Battles: Buhini (need 1), Buholi (need 3), Buhovi (need 2)
+  - TT Battles: Buholi (need 3), Buhovi (need 2)
+  - Craft TT: Buhini Flute (5)
   - HuntS1.2 Quest: Curator's Catalog Cache 2/2 (5)
 
 ### Nuig String
@@ -1473,7 +1490,7 @@ FOREST, DESERT
 
 # P-R
 
-LAST UPDATED 30 MAR 2021
+LAST UPDATED 21 APR 2021
 
 ### Pickaxe
 
@@ -1747,12 +1764,9 @@ some FOREST, DESERT, some WATER, DUST
     - PG Battles: Cursed Hand (400 words for 1-2), Dark Assassin (1200 words for 1-3)
 - **Buy:** DESERT: 35 Coins at 3PC Blacksmith/Blacksmith Barliar
 - **Sell price:** 8 Coins (DO NOT SELL. You will need this to craft SO MANY STEEL BARS.)
-- **Used for:** 
-  - DESERT
-    - Craft 3PC: Steel Bar (3)
-    - Craft Gansu: Steel Fishing Rod (1)
-    - MSite Quest: Recovering Stolen Goods (10)
-  - WATER: Craft Balance: Steel Fishing Rod (2)
+- **Used for:** DESERT
+  - Craft 3PC: Steel Bar (3)
+  - MSite Quest: Recovering Stolen Goods (10)
 
 ### Raw Stone
 
@@ -1803,7 +1817,6 @@ ALL GAME
     - Craft 3PC: Stone Block (3)
     - MSite Quest: Recovering Stolen Goods (15)
     - HuntS2 Quest: Our Waymark Stones (10)
-  - FOREST, DESERT, WATER: Craft LF, Gansu, Balance: Wooden Fishing Rod (1)
 
 ### Red Dye
 
@@ -1910,6 +1923,7 @@ WATER, DUST
     - Riza Battle: Velts: Dust (2000 words for 1-3)
     - Hideout Battles: Grongu (2000 words for 1-2)
     - Hideout Quest: Pushing Back Rebels 1/3 (5)
+    - HuntS3 Quest: Where Life Flows (10)
     - Balance River Chest: 1-2
 - **Craft:** Water Shop/Kuyurata's Shop: 10 Rope, 1 Steel Bar
 - **Buy:** 300 Coins in Water Shop/Kuyurata's Shop
@@ -1971,22 +1985,24 @@ ALL GAME
 - **Best sources:** 
   - Anywhere Battles: Xin (100 words for 0-1)
   - FOREST, DESERT, WATER
-    - LF, Gansu, Riza, Balance Battles: Puna (150 words, 1 Wooden Fishing Rod for 1)
+    - LF, Gansu, Riza, Balance Battles: Puna (150 words & 1 Upgraded Wooden Fishing Rod for 1)
   - WATER
     - Riza Battles: Jaihri (485 words for 1-2)
     - SurfaceC Battles: Olea (100 words for 0-1)
     - Balance Battles: Caricaco (300 words for 1)
 - **Other sources:** Buy,
-  - DESERT: ShrineGiant Battles: Mandias (500 words for 1-3)
+  - DESERT: 
+    - ShrineGiant Battles: Mandias (500 words for 1-3)
+    - Gansu Battles: Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 0-1)
   - WATER
     - Riza Stone Chest: 7-12
-    - Riza Battles: Wyvern (1300 words for 2-5), Osaril (300 words, 1 Vine Net for 1), Furoxi (400 words, 1 Steel Fishing Rod for 1), Patliadu (750 words, 1 Harpoon for 2), Vota (800 words, 2 Rope, 2 River Grass for 2), Yala (520 words, 2 Rope, 2 River Grass for 1), Trainee (1000 words, 20 Coins for 2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 2-3)
+    - Riza Battles: Wyvern (1300 words for 2-5), Osaril (300 words, 1 Vine Net for 1), Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 0-1), Patliadu (750 words, 1 Harpoon for 2), Vota (800 words, 2 Rope, 2 River Grass for 2), Yala (520 words, 2 Rope, 2 River Grass for 1), Trainee (1000 words, 20 Coins for 2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 2-3)
     - Post-HuntS3 Riza Battle: Weekiwa (900 words for 2-6)
     - SurfaceC Battles: Vaktra (700 words for 2-3), Wyvern (1300 words for 2-5), Auwi (500 words for 1-2), Begala (300 words for 0-1), Vota (800 words for 2), Droxa (1800 words for 4-5), Knusha (1200 words for 0-3), Yala (520 words for 1)
     - SwampL Battles: Larida (1000 words for 2-4), Gaiai (1500 words for 3-5)
     - SacredS Battles: Ognimaf (300 words for 1-2), Pedja (1000 words for 2-3)
     - Hideout Battles: Cafodu (600 words for 2-4), Necog (450 words for 1), Drau (1000 words for 2-4), Grongu (2000 words for 2-6)
-    - Balance Battles: Velts: Water (1600 words for 2-4), Furoxi (400 words, 1 Steel Fishing Rod for 1), River Goddess (5000 words for 5), Sliv (550 words, 1 Water Mask for 1), Isartu (720 words for 1), Nuig (850 words, 1 Water Mask for 1), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 1-3), Water Rudakai (1600 words, 3 Reinforced Rope for 1-2), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 1-3)
+    - Balance Battles: Velts: Water (1600 words for 2-4), Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 0-1), River Goddess (5000 words for 5), Sliv (550 words, 1 Water Mask for 1), Isartu (720 words for 1), Nuig (850 words, 1 Water Mask for 1), Vezi (1300 words, 1 Water Mask, 1 Underwater Torch for 1-3), Water Rudakai (1600 words, 3 Reinforced Rope for 1-2), Xyplos (2000 words, 1 Water Mask, 1 Underwater Torch for 1-3)
 - **Buy:** 100 Coins in Item Shop/Luko's Inn
 - **Sell price:** 30 Coins (Don't sell unless you have >500)
 - **Used for:** 
@@ -1994,12 +2010,11 @@ ALL GAME
     - LF Quests: Little Forest Lake (20)
     - MT Quest: Thinking Like Ink 4/5 (100)
   - DESERT
-    - Craft Gansu: Steel Fishing Rod (1)
     - RLab Quest: Encourage an Ecosystem 4/4 (20)
   - WATER
     - Riza Battles: Knusha (need 2), Vota (need 2), Yala (need 2)
     - Craft Riza: Dí Bag (5), Steel Shield (2), Steel Boots (2), Steel Mace (1), Steel Axe (1)
-    - Craft Balance: Steel Fishing Rod (1), Water Mask (1)
+    - Craft Balance: Water Mask (1)
     - Riza Quests: Main Quest 3/Remedy for a Friend (5), River Grass Supply (50)
     - Balance Quests: Main Quest 4/Potion For A Goddess (need 25)
 
@@ -2028,9 +2043,9 @@ some FOREST, some DESERT, WATER
   - DESERT: Gansu Battle: Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck)
   - WATER:
     - Riza Stone Chest: 6-11
-    - Riza Battles: Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck),  Wyvern (1300 words for 1-3), Patliadu (750 words, 1 Harpoon for 1),Yala (520 words, 2 Rope, 2 River Grass for 1), Trainee (1000 words, 20 Coins for 0-1, usually 1 with enough Luck), Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1)
+    - Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 0-1, usually 1 with enough Luck),  Wyvern (1300 words for 1-3), Patliadu (750 words, 1 Harpoon for 1),Yala (520 words, 2 Rope, 2 River Grass for 1), Trainee (1000 words, 20 Coins for 0-1, usually 1 with enough Luck), Riza Battles: Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1)
     - SurfaceC Battle: Wyvern (1300 words for 1-3), Yala (520 words for 1), Droxa (1800 words for 1-3), Knusha (1200 words for 1)
-    - Balance Battles: Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck), Castu (450 words, 1 Water Mask for 1), Isartu (720 words for 1), Nuig (850 words, 1 Water Mask for 1), River Goddess (5000 words for 2)
+    - Balance Battles: Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 0-1, usually 1 with enough Luck), Castu (450 words, 1 Water Mask for 1), Isartu (720 words for 1), Nuig (850 words, 1 Water Mask for 1), River Goddess (5000 words for 2)
     - Post-HuntS3 Riza Battle: Weekiwa (900 words for 1-3)
 - **Buy:** 140 Coins in Item Shop/Luko's Inn
 - **Sell price:** 30 Coins (DO NOT sell unless you have >200, or >1000 if you want to maximize Luck in a niche late-game opportunity)
@@ -2046,12 +2061,13 @@ some FOREST, some DESERT, WATER
 some FOREST, some DESERT, WATER, DUST
 
 - **Best sources:** 
+  - DESERT: Gansu Battles: Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 0-1, usually 1 with enough Luck)
   - WATER
-    - Riza Battles:  Osaril (300 words, 1 Vine Net for 1), Yala (520 words, 2 Rope, 2 River Grass for 1-2), Wyvern (1300 words for 2-4), Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck), Patliadu (750 words, 1 Harpoon for 1)
+    - Riza Battles:  Osaril (300 words, 1 Vine Net for 1), Yala (520 words, 2 Rope, 2 River Grass for 1-2), Wyvern (1300 words for 2-4), Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 0-1, usually 1 with enough Luck), Patliadu (750 words, 1 Harpoon for 1)
     - Riza Stone Chest: 1-2
     - Post-HuntS3 Riza Battle: Weekiwa (900 words for 2-4)
     - SurfaceC Battles: Auwi (500 words for 1-2), Yala (520 words for 1-2)
-    - Balance Battles: Vanvri (20 minutes for 1-4), Furoxi (400 words, 1 Steel Fishing Rod for 0-1, usually 1 with enough Luck),  Nuig (850 words, 1 Water Mask for 1-2), River Goddess (5000 words for 3-6)
+    - Balance Battles: Vanvri (20 minutes for 1-4), Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 0-1, usually 1 with enough Luck),  Nuig (850 words, 1 Water Mask for 1-2), River Goddess (5000 words for 3-6)
   - DUST: CAVE Battles: Spina (450 words for 2-3), Ulos (650 words for 2), Gliva (300 words for 0-1, 1 with enough Luck), Letos (700 words for 1-2), Vafire (500 words for 1), Gormist (1667 words for 2-3)
 - **Other sources:** WATER Buy,
   - Riza Battles: Vota (800 words, 2 Rope, 2 River Grass for 1-2), Knusha (1200 words, 1 Leaf Boots, 4 Rope, 2 River Grass for 1)
@@ -2130,7 +2146,7 @@ ALL GAME
 - **Used for:** 
   - Craft HOUSE: (multiple)
   - FOREST
-    - Craft LF: Leaf Boots (2), Spider Bow (1), Wood Hammer (3), Wooden Fishing Rod (1)
+    - Craft LF: Leaf Boots (2), Spider Bow (1), Upgraded Wooden Fishing Rod (10), Wood Hammer (3)
     - Craft MT: Leaf Boots (2), Lorsa Nest (5), Vine Net (5), Wood Hammer (3)
     - Craft FB: Ardi Lamp (1)
     - MT Battles: Tambo (4)
@@ -2143,7 +2159,7 @@ ALL GAME
     - HuntS1.2 Quest: Gentle, Magical Being (10), Forward Base Swarm 2/2 (25)
   - DESERT
     - Craft 3PC: Lorsa Nest (5), Sandstone Block (1), Stone Block (1)
-    - Craft Gansu: Lorsa Nest (5), Wooden Fishing Rod (1)
+    - Craft Gansu: Lorsa Nest (5), Upgraded Wooden Fishing Rod (10), Upgraded Steel Fishing Rod (20)
     - 3PC Battles: Tambo (4)
     - 3PC Quests: Main Quest 2/Just Another Brick (10), Main Quest 5/A Way South (10), Sand in Places (3), A Way North: Up the Mountain (30)
     - Gansu Quests: Tougher with Tambo (100), Rebuild the Watering Hole (15)
@@ -2153,7 +2169,7 @@ ALL GAME
   - WATER
     - Craft Riza: Harpoon (1)
     - SacredS Quest: A Worthy Offering (need 10)
-    - Craft Balance: Reinforced Rope (10), Wooden Fishing Rod (1)
+    - Craft Balance: Reinforced Rope (10), Upgraded Wooden Fishing Rod (10), Upgraded Steel Fishing Rod (20)
     - Riza Battles: Knusha (need 4), Vota (need 2), Yala (need 2)
   - DUST: DFO Quests: Rebuild the Dock (150), Reinforced Ardi Lamp Station (15)
 
@@ -2196,7 +2212,7 @@ FOREST, some DESERT
 
 # S
 
-LAST UPDATED 30 MAR 2021
+LAST UPDATED 21 APR 2021
 
 ### Sacred Feather
 
@@ -2469,6 +2485,7 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
   DESERT
   
   - Craft 3PC: Crossbow (2), Fabric Boots (1), Fabric Breastplate (3), Fabric Helmet (2), Glass Necklace (1), Glass Scimitar (2), Glass Staff (1), Net (1), Steel Spear (2), Steel Sword (3)
+  - Craft Gansu: Upgraded Wooden Fishing Rod (1), Upgraded Steel Fishing Rod (5)
   - Craft Dig: Pickaxe (1)
   - 3PC Quests: Main Quest 2/Just Another Brick (4), Sand in Places (1)
   - SpaceS Quest: Technology & Dinti (5), Orders to Repair (5), Aid the Aliens (10)
@@ -2477,7 +2494,7 @@ The game usually simply calls this **Steel**. I like to make sure I'm distinguis
   WATER
   
   - Craft Riza: Harpoon (1), Steel Shield (2), Steel Boots (3), Steel Mace (6), Steel Axe (3)
-  - Craft Balance: Reinforced Rope (1), Reinforced Steel Breastplate (15), Reinforced Steel Helmet (12), Underwater Torch (1)
+  - Craft Balance: Reinforced Rope (1), Reinforced Steel Breastplate (15), Reinforced Steel Helmet (12), Underwater Torch (1), Upgraded Wooden Fishing Rod (1), Upgraded Steel Fishing Rod (5)
   - Riza Quests: Main Quest 6/Journey Upriver (10)
   - SacredS Quest: A Worthy Offering (need 10)
   - Balance Quests: Cast Out Castu (need 5)
@@ -2540,18 +2557,6 @@ FOREST, DESERT
     - Craft 3PC: Glass Scimitar (2)
     - Gansu Battles: Arenica (need 1), Suulan (need 1)
 - **Equip:** Weapon2: +4 Attack, +0 Defense, +1 Luck
-
-### Steel Fishing Rod
-
-DESERT, WATER
-
-- **Sources:** Buy, Craft,
-  - DESERT: ShrineDucks Battles: Idaa (400 words for 0-1; VERY dependent on Luck)
-- **Buy**: DESERT, WATER 150 Coins in Gansu Item Shop/Tepij Locals OR Balance Water Shop/Kuyurata's Shop
-- **Craft:** DESERT, WATER Gansu Item Shop/Tepij Locals OR Balanc Water Shop/Kuyurata's Shop: 2 Raw Steel, 1 River Grass
-- **Sell:** 10 Coins (don't sell, too expensive)
-- **Used for:**
-  - DESERT, WATER: Gansu, Riza & Balance Battles: Furoxi (need 1)
 
 ### Steel Mace
 
@@ -2764,7 +2769,7 @@ WATER
 
 # T-Z
 
-LAST UPDATED 30 MAR 2021
+LAST UPDATED 21 APR 2021
 
 ### Tambo Mane
 
@@ -2797,6 +2802,29 @@ WATER
 - **Sell price:** 100 Coins (Don't sell unless you have >20 Torches AND >25 Luck)
 - **Used for:** 
   - WATER: Balance Battles: Xyplos (need 1), Vezi (need 1)
+
+### Upgraded Steel Fishing Rod
+
+DESERT, WATER
+
+- **Sources:** Buy, Craft
+- **Buy**: DESERT, WATER 1500 Coins in Gansu Item Shop/Tepij Locals OR Balance Water Shop/Kuyurata's Shop
+- **Craft:** DESERT, WATER Gansu Item Shop/Tepij Locals OR Balanc Water Shop/Kuyurata's Shop: 5 Steel Bars, 1 Gold Bar, 20 Rope, 100 Coins
+- **Sell:** 250 Coins (why do you have extra to sell, they're so expensive? Well, if you do, you only need the one...)
+- **Used for:**
+  - DESERT, WATER: Gansu, Riza & Balance Battles: Furoxi (need 1 in inventory, infinitely reusable)
+
+### Upgraded Wooden Fishing Rod
+
+FOREST, DESERT, WATER
+
+- **Sources:** FOREST, DESERT, WATER Buy, Craft
+- **Buy:** FOREST, DESERT, WATER 500 Coins in LF Item Shop/Alex's Shop OR Gansu Item Shop/Tepij Locals OR Balance Water Shop/Kuyurata's Shop
+- **Craft:** 
+  - FOREST: LF Crafts & Trinkets/Kyiat's Shop 10 Wood, 10 Rope, 150 Coins
+  - DESERT, WATER: Gansu Item Shop/Tepij Locals OR Balance Water Shop/Kuyurata's Shop: 10 Wood, 10 Rope, 1 Steel Bar, 50 Coins
+- **Sell price:** 100 Coins (why do you have extra to sell, they're so expensive? Well, if you do, you only need the one...)
+- **Used for:** LF, Gansu, Balance Battling: Puna (need 1 in inventory, infinitely reusable)
 
 ### Vezi Shell
 
@@ -2922,29 +2950,26 @@ ALL GAME
 - **Used for:** 
   - Craft HOUSE: (multiple)
   - FOREST
-    - Craft LF: Spider Bow (5), Wood Hammer (15), Wood Sword (10), Wooden Fishing Rod (1)
+    - Craft LF: Spider Bow (5), Upgraded Wooden Fishing Rod (10), Wood Hammer (15), Wood Sword (10)
     - Craft MT: Lorsa Nest (10), Wood Hammer (15), Wood Sword (10), Wooden Bow (5)
     - Craft FB: Ardi Lamp (2)
+    - Craft TT: Buhini Flute (10)
     - LF Quest: Building, Not Burning/Main Quest 2 (6)
     - MT Quest: Bridge of Sighs (100)
     - FB Quest: Lighting the Way (10), Sturdy Wooden Fence (25)
     - HuntS1.2 Quest: Gentle, Magical Being (10), Forward Base Swarm 2/2 (25)
   - DESERT
     - Craft 3PC: Glass Bar (3), Gold Bar (3), Lorsa Nest (10), Steel Bar (3)
-    - Craft Gansu: Lorsa Nest (10), Wooden Fishing Rod (1)
+    - Craft Gansu: Lorsa Nest (10), Upgraded Wooden Fishing Rod (10)
     - Craft Dig: Pickaxe (2)
     - 3PC Quests: Main Quest 2/Just Another Brick (30), Main Quest 5/A Way South (20), Fan the Flames (100)
     - Gansu Quests: Tougher with Tambo (250)
     - SpaceS Quest: Technology & Dinti (20
     - RLab Quest: Encourage an Ecosystem 4/4 (10)
-  - WATER: Craft Balance: Wooden Fishing Rod (1)
+  - WATER: Craft Balance: Upgraded Wooden Fishing Rod (10)
   - DUST: 
     - Craft DFO: Steel Chain (3), Piece of Parchment (3)
     - DFO Quests: Rebuild the Dock (150)
-
-### Wood Fishing Rod
-
-See **Wooden Fishing Rod**.
 
 ### Wood Hammer
 
@@ -3038,19 +3063,6 @@ ALL GAME, especially FOREST & DESERT
     - With Wooden Key in LF, drops 1-6 Rope, 1-3 Leaves, 1-3 Wood Sword, 9-18 Coins, 0-2 Leaf Boots, 1 Leaf Helmet, 0-1 Leaf Breastplate, 1-3 Spider Poison
     - With Wooden Key in MT, drops 3-9 Rope, 2-7 Wood, 3-8 Leaves, 1-3 Vine Nets, 2-4 Wood Sword, 1-2 Rusty Pendant, 15-46 Coins, 2-4 Leaf Boots, 1 Spider Bow, 1 Wood Spear, 1 Old Staff
   - DESERT: With **2** Wooden Keys in 3PC, acts as **Desert Wooden Chest** and drops 31-59 Coins, 5-8 Raw Fabric, 1-2 Steel Bars, 1 Glass Bar, 1 Gold Bar, 1 Red Dye, 1 Steel Sword, 1-3 Raw Gold
-
-### Wooden Fishing Rod
-
-FOREST, DESERT, WATER
-
-also called "Wood Fishing Rod"
-
-- **Sources:** FOREST, DESERT, WATER Buy, Craft,
-  - HuntS3 Quest: Where Life Flows (10)
-- **Buy:** FOREST, DESERT, WATER 50 Coins in LF Item Shop/Alex's Shop OR Gansu Item Shop/Tepij Locals OR Balance Water Shop/Kuyurata's Shop
-- **Craft:** FOREST, DESERT, WATER LF Crafts & Trinkets/Kyiat's Shop OR Gansu Item Shop/Tepij Locals OR Balance Water Shop/Kuyurata's Shop: 1 Wood, 1 Rope, 1 Raw Stone
-- **Sell price:** 5 Coins (Don't sell, not worth it)
-- **Used for:** LF, Gansu, Balance Battling: Puna (need 1)
 
 ### Wooden Key
 

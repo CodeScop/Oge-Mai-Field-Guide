@@ -1,27 +1,23 @@
-LAST UPDATED 20 APR 2021
+LAST UPDATED 22 APR 2021
 
-Conveniently, this mini guide doesn't require an elaborate key at the moment. I'm just going to give you the quick version:
+Conveniently, this mini guide doesn't require an elaborate key at the moment. I'm just going to give you the quick version.
+
+## Abbreviations
 
 - Shrine0: Shrine of Ages, regardless of equipment
 - ShrineBird: Shrine of Ages, when equipped with the Birds Time Bracelet
 - ShrineCar: Shrine of Ages, when equipped with the Carnival Time Bracelet
 - ShrineCO: Shrine of Ages, when equipped with the Colorful Ooze Bracelet
-
 - ShrineDucks: Shrine of Ages, when equipped with the Ducks Time Bracelet
-
 - ShrineFools: Shrine of Ages, when equipped with the Fools' Time Bracelet
-
 - ShrineGiant: Shrine of Ages, when equipped with the Giants Time Bracelet
-
 - Shrine GO: Shrine of Ages, when equipped with Green Ooze Shrine Bracelet
-
 - ShrineMar: Shrine of Ages, when equipped with the Marionette Time Bracelet
-
 - ShrineNPC: Shrine of Ages, when equipped with the Special Event NPC Time Bracelet
-
 - ShrinePoly: Shrine of Ages, when equipped with the Polygon Time Bracelet
-
 - Shrine TFA: Shrine of Ages, when equipped with the Terror From Above Shrine Bracelet
+
+## Shrine Monsters
 
 ### Aita (ShrineDucks)
 
@@ -673,7 +669,6 @@ also called Captain Uo at times
 
 ### Vi (EVERYWHERE)
 
-- **Unlocked by:** LF Main Quest 2: Building, Not Burning
 - **Requirements:** Endurance: Battle 5 Minutes Continuously
 - **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 10 XP
@@ -691,7 +686,6 @@ also called Captain Uo at times
 
 ### Viyu (EVERYWHERE)
 
-- **Unlocked by:** LF Main Quest 2: Building, Not Burning
 - **Requirements:** Battle 15 Minutes Continuously
 - **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 40 XP
@@ -702,7 +696,6 @@ also called Captain Uo at times
 
 ### Viyusa (EVERYWHERE)
 
-- **Unlocked by:** LF Main Quest 2: Building, Not Burning
 - **Requirements:** Battle 25 Minutes Continuously
 - **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
 - **Baseline XP:** 80 XP

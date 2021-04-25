@@ -1,8 +1,23 @@
-LAST UPDATED 17 APR 2021
+LAST UPDATED 24 APR 2021
 
 Wardrobe and House Items: when you're not sure how good they are, because what are the different versions, anyway? And wait, did you miss any?
 
 For items in the store, I'll just list the name and price, since you can browse variants and details perfectly well yourself. For quest rewards, I'll be a bit more detailed. And I'll break these down by region:
+
+## Wardrobe and House Items: Global Quests
+
+The quest chain **2B or Not 2B?** has a series of rewards, mostly Wardrobe:
+
+- **Part One** gets you **Paper Shoes**: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1690-paper-shoes-12429-31350.png
+- **Part Two** gets you **Paper Shorts** and **Paper Skirt**.
+  - Paper Shorts: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1689-paper-shorts-12427-90647.png
+  - Paper Skirt: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1688-paper-skirt-12425-88618.png
+- **Part Three** gets the Wardrobe Item **Paper Cloak** and the House Item **Paper Pile**:
+  - Paper Cloak: https://4thewords.com/media/wardrobe/featured/male/wm&#95;1691-paper-cloak-12431-34768.png
+  - Paper Pile, with three variants:
+    - medium: http://4thewords.com/public/hideouts/hideout&#95;element&#95;450&#95;18931/variant&#95;icon&#95;2202&#95;911.png
+    - slight: http://4thewords.com/public/hideouts/hideout&#95;element&#95;450&#95;18931/variant&#95;icon&#95;2203&#95;743.png
+    - omg why has this not been tidied yet: http://4thewords.com/public/hideouts/hideout&#95;element&#95;450&#95;18931/variant&#95;icon&#95;2204&#95;604.png 
 
 ## Wardrobe: Forest Region Meeting Ground
 
@@ -16,6 +31,7 @@ For items in the store, I'll just list the name and price, since you can browse 
 - Forest Villager Shirt - 50 Festival Tokens
 - Forest Leafsung Embroidered Shirt - 75 Festival Tokens
 - Forest Long Skirt - 75 Festival Tokens 
+- Paper Shoes - 5 Festival Tokens (also available as a reward for a Global quest)
 
 ###Forest Region Quests
 
@@ -51,7 +67,6 @@ For items in the store, I'll just list the name and price, since you can browse 
 ### Desert Region Token Store
 
 - Desert Bonds - 20 Festival Tokens
-
 - Desert Tribe Shoes - 20 Festival Tokens
 - Desert Day Pants - 35 Festival Tokens
 - Desert Day Shirt - 35 Festival Tokens
@@ -60,6 +75,7 @@ For items in the store, I'll just list the name and price, since you can browse 
 - Desert Tribe Night Headgear - 50 Festival Tokens
 - Desert Tribe Night Shirt - 50 Festival Tokens
 - Desert Tribe Night Jacket - 75 Festival Tokens
+- Paper Shoes - 5 Festival Tokens (also available as a reward for a Global quest)
 
 ### Desert Region Quests
 
@@ -84,6 +100,7 @@ Okay, we're ready to start tracking house items! Special events are the only tim
 - Water Tribe Day Shirt - 35 Festival Tokens
 - Water Tribe Night Shirt - 35 Festival Tokens
 - Water Tribe Skirt - 50 Festival Tokens
+- Paper Shoes - 5 Festival Tokens (also available as a reward for a Global quest)
 
 ###Water Region Quests
 
@@ -107,6 +124,8 @@ Okay, we're ready to start tracking house items! Special events are the only tim
 - Foret Vine Line - 25 Festival Tokens
 - Rudakai Plushie - 50 Festival Tokens
 - Wignow Plushie - 50 Festival Tokens
+- Paper Table - 50 Festival Tokens
+- Papers on Wall - 30 Festival Tokens
 
 ###Forest Region Quests
 
@@ -124,6 +143,8 @@ Okay, we're ready to start tracking house items! Special events are the only tim
 - Bevrex Plushie - 50 Festival Tokens
 - Grult Statue - 50 Festival Tokens
 - Zera Plushie - 50 Festival Tokens
+- Paper Table - 50 Festival Tokens
+- Papers on Wall - 30 Festival Tokens
 
 ### Desert Region Quests
 
@@ -140,6 +161,8 @@ Okay, we're ready to start tracking house items! Special events are the only tim
 - Castu Plushie - 50 Festival Tokens
 - Jaihri Plushie - 50 Festival Tokens
 - Sunken Ship's Anchor - 50 Festival Tokens
+- Paper Table - 50 Festival Tokens
+- Papers on Wall - 30 Festival Tokens
 
 ###Water Region Quests
 

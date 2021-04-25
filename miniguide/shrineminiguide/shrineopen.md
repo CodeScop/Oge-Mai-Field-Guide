@@ -1,4 +1,4 @@
-LAST UPDATED 20 APR 2021
+LAST UPDATED 22 APR 2021
 
 **But before we get to the divided notes, let's briefly note the open markets and other open info.**
 
@@ -51,19 +51,6 @@ The Reaction Market sells Reactions for 1 Shrine Stone each. Here's what's avail
 - Hero
 - You Are Welcome
 
-## Shrine Open Monster
-
-Motes wasn't around till about a year after the Shrine opened in its current iteration, although his spot in the Lorebook Bestiary was waiting, and I'm so excited to see him that I'm listing him before his quests.
-
-### Motes
-
-- **Unlocked by:** opening Shrine
-- **Requirements:** 1000 words
-- **Time allowed:** 180 minutes (3 hours)
-- **XP:** 100
-- **Drops:** 10 Shrine Stones, 17-25 Coins, 1-2 Rope, 1-3 Raw Fabric, 1-2 Raw Stone
-- **Quests:** Shrine: Keeper of the Shrine 1/3 (1), Helper of the Shrine 2/3 (2), Guardian of the Shrine 3/3 (3)
-
 ## Shrine Open Quests
 
 ###Keeper of the Shrine 1/3
@@ -90,6 +77,67 @@ Motes wasn't around till about a year after the Shrine opened in its current ite
 - **Rewards:** Wardrobe: Motes Stone Belt https://4thewords.com/media/wardrobe/featured/male/wm&#95;1501-merchant-stone-belt-10181-25983.png
 - **Recommendations:**  This is up to you. People with long memories of when the Shrine was first introduced might wonder whether this belt has any special properties - poking around, I've found none (though I've only done a cursory check).  Do remember that River Stones are both easier to get and more in demand to spend late in the Water Region, especially the Raina Expedition, so possibly avoid doing this quest until you've evaluated how that part of the game affects your choices here.
 
+## Shrine Open Monster
+
+Motes wasn't around till about a year after the Shrine opened in its current iteration, although his spot in the Lorebook Bestiary was waiting, and I'm so excited to see him that I'm listing him before his quests.
+
+### Motes
+
+- **Unlocked by:** opening Shrine
+- **Requirements:** 1000 words
+- **Time allowed:** 180 minutes (3 hours)
+- **XP:** 100
+- **Drops:** 10 Shrine Stones, 17-25 Coins, 1-2 Rope, 1-3 Raw Fabric, 1-2 Raw Stone
+- **Quests:** Shrine: Keeper of the Shrine 1/3 (1), Helper of the Shrine 2/3 (2), Guardian of the Shrine 3/3 (3)
+
+## Global Monsters in the Shrine
+
+Let's not neglect the global monsters!
+
+### Awa 
+
+- **Requirements:** 200 words
+- **Time Allowed:** 45 minutes
+- **XP:** 18
+- **Drops:** 1-2 Fur, 1-2 Dust, 2 Rope, 1-2 Wood, 1-2 Leaves
+- **Quests:** none in Shrine
+
+### Vi
+
+- **Requirements:** Endurance: Battle 5 Minutes Continuously
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
+- **Baseline XP:** 10 XP
+- **Baseline Drops:** 1 Leaf, 3 Coins 
+- **Quests:** Global: Procrastination's A Thief (1)
+
+### Viyu
+
+- **Requirements:** Battle 15 Minutes Continuously
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
+- **Baseline XP:** 40 XP
+- **Drops:** 
+  - Baseline: 15 Coins
+  - Other: 2-7 Wood
+- **Quests:** Global: Procrastination's A Thief (1)
+
+### Viyusa
+
+- **Requirements:** Battle 25 Minutes Continuously
+- **Multiplier:** Can multiply baseline rewards up to x4 depending on steadiness of writing pace
+- **Baseline XP:** 80 XP
+- **Drops:** 
+  - Baseline: 1 Essence, 25 Coins
+  - Other: 2-7 Rope
+- **Quests:** Global: Procrastination's A Thief (1)
+
+### Xin
+
+- **Requirements:** 100 words
+- **Time Allowed:** 20 minutes
+- **XP:** 11
+- **Drops:** 1-2 Dust, 1-2 Wood, 1-2 Leaves, 0-1 Raw Fabric, 0-1 Raw Stone, 0-1 River Grass
+- **Quests:** none in Shrine
 
 
-**And now, on to the Bracelet-specific info! Listed in the order they're listed above: alphabetically.**
+
+**And now, on to the Bracelet-specific info! Listed in the order the bracelets are listed above: alphabetically.**

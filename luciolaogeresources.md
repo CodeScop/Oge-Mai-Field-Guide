@@ -1,10 +1,10 @@
-LAST UPDATED 14 FEB 2021
+LAST UPDATED 21 APR 2021
 
 Disclaimer: The numbers for drops assume a minimum Luck of 2; less Luck may mean less in the way of drops. Also, any Hunt monsters/resources (apart from Hunter Tokens) are omitted here; see the Forest Resources for a more complete list.
 
 ### Core Crystals
 
-These are special resources. They can be bought with actual real-world currency through PayPal, and are chiefly used to purchase subscription time, Wardrobe items, or Stempos (I'll discuss Stempos and their use when they pop up in-game, in the third region.)
+These are special resources. They can be bought with actual real-world currency through PayPal, and are chiefly used to purchase subscription time, Wardrobe items, or Stempos (I'll discuss Stempos and their use when they pop up regularly in-game, in the third region.)
 
 - **Best sources:** Buy 'em outright. You won't get many any other way. 
 - **Other sources:** Quest: One of Us (4)
@@ -20,11 +20,12 @@ These are special resources. They can be bought with actual real-world currency 
   - Wooden Chest: 9-18 per chest/key
   - Battles: Vi (5 minutes for 3-12), Viyu (15 minutes for 15-60), Viyusa (25 minutes for 25-100)
 - **Other sources:** Sell River Grass, Algae, Raw Fabric if necessary (don't sell anything if possible)
-- **Used for:** Buy misc items; Craft: Leaf Boots (10), Rusty Amulet (15), Spider Bow (5), Wood Hammer (15), Wood Sword (10) 
+- **Used for:** Buy misc items; 
+  - Craft: Leaf Boots (10), Rusty Amulet (15), Spider Bow (5), Upgraded Wooden Fishing Rod (150), Wood Hammer (15), Wood Sword (10) 
 
 ### Algae
 
-- **Best sources:** Puna (150 words for 1)
+- **Best sources:** Puna (150 words and possess 1 Upgraded Wooden Fishing Rod for 1)
 - **Other sources:** None
 - **Sell price:** 10 Coins (go ahead and sell if you want)
 - **Used for:** later game
@@ -236,7 +237,7 @@ For later game. DO NOT SELL.
 - **Best sources:** Xin (100 words for 0-1) 
 - **Other sources:** later game
 - **Sell price:** 8 Coins (actually pretty good cash source at this point, but don't sell unless coins badly needed)
-- **Used for:** Craft: Wooden Fishing Rod (1)
+- **Used for:** later game
 
 ### Reenu Wings 
 
@@ -248,7 +249,7 @@ For later game. DO NOT SELL.
 ### River Grass 
 
 - **Best sources:** Xin (100 words for 0-1)
-- **Other sources:** Puna (150 words and 1 Wooden Fishing Rod for 1)
+- **Other sources:** Puna (150 words and possess 1 Upgraded Wooden Fishing Rod for 1)
 - **Sell price:** 30 Coins (best source of cash at this point, but don't sell unless coins badly needed)
 - **Used for:** nothing yet
 
@@ -264,7 +265,7 @@ For later game. DO NOT SELL.
 - **Sell price:** 2 Coins (DO NOT SELL, there is NEVER enough Rope)
 - **Used for:** 
   - Craft HOUSE: (multiple)
-  - Craft: Leaf Boots (2), Spider Bow (1), Wooden Fishing Rod (1), Wood Hammer (3)
+  - Craft: Leaf Boots (2), Spider Bow (1), Upgraded Wooden Fishing Rod (10), Wood Hammer (3)
   - Quest: Building, Not Burning/Main Quest 2 (2), Lumberjack's Tools (3)
 
 ### Rusty Amulet 
@@ -351,6 +352,14 @@ For later game. DO NOT SELL.
 - **Sell price:** 8 Coins (Don't sell unless you have >30)
 - **Used for:** later game
 
+### Upgraded Wooden Fishing Rod
+
+- **Sources:** Buy, Craft
+- **Buy:** 500 Coins in LF Item Shop/Alex's Shop
+- **Craft:** LF Crafts & Trinkets/Kyiat's Shop 10 Wood, 10 Rope, 150 Coins
+- **Sell price:** 100 Coins (why do you have extra to sell, they're so expensive? Well, if you do, you only need the one...)
+- **Used for:** Battling: Puna (need 1 in inventory, infinitely reusable)
+
 ### White Fur
 
 - **Sources:** later game
@@ -365,12 +374,8 @@ For later game. DO NOT SELL.
 - **Sell price:** 2 Coins (Don't sell, don't sell, don't sell, YOU NEED SO MUCH WOOD IN THIS GAME)
 - **Used for:** 
   - Craft HOUSE: (multiple)
-  - Craft: Spider Bow (5), Wooden Fishing Rod (1), Wood Hammer (15), Wood Sword (10)
+  - Craft: Spider Bow (5), Wood Hammer (15), Wood Sword (10)
   - Quest: Building, Not Burning/Main Quest 2 (6)
-
-### Wood Fishing Rod
-
-see **Wooden Fishing Rod**
 
 ### Wood Hammer 
 
@@ -401,17 +406,6 @@ see **Wooden Fishing Rod**
 - **Other sources:** Battle Rudakai (1400 Words, 1 Leaf Boots, 10 Leaves and min level 3 for 1) 
 - **Sell price:** 10 Coins (DON'T SELL CHESTS WHY WOULD YOU)
 - **Used for:** With Wooden Key, drops 1-6 Rope, 1-3 Leaves, 1-3 Wood Sword, 9-18 Coins, 0-2 Leaf Boots, 1 Leaf Helmet, 0-1 Leaf Breastplate, 1-3 Spider Poison
-
-### Wooden Fishing Rod
-
-also called "Wood Fishing Rod"
-
-- **Best sources:** Craft
-- **Other sources:** Buy, later game
-- **Buy:** 50 Coins in Item Shop/Alex's Shop
-- **Craft:** Crafts & Trinkets/Kyiat's Shop: 1 Wood, 1 Rope, 1 Raw Stone
-- **Sell price:** 5 Coins (Don't sell, not worth it)
-- **Used for:** Battling: Puna (need 1)
 
 ### Wooden Key 
 

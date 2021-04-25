@@ -1,4 +1,4 @@
-LAST UPDATED 30 MAR 2021
+LAST UPDATED 22 APR 2021
 
 I was of two minds opening this section, given that the Dust summary is similar to the All Game - but then I decided that narrowing this down to "resources available in the Dust Region without traveling" might be a useful thing. And of course "resources NOT available in the Dust Region, but you'll need them, and here's where you might have forgotten them".
 
@@ -154,6 +154,12 @@ WATER
 - **Used for:** 
   - With Bone Key in DFO, drops 140-270 Coins, 2-6 Steel Chains, 2-6 Pieces of Parchment, 1-3 Blue Essence Ink, 1-8 Refined Dust, 1-7 Dried Pulp, 1-4 Spirit Dust, 0-1 Stempo, 0-1 Dark Forest Boots
 
+### Buhini Flute
+
+- **Sources:** FOREST
+- **Sell price:** 50 Coins (why do you have extra to sell, they're so expensive? Well, if you do, you only need the one...)
+- **Used for:** FOREST
+
 ### Cave Mushroom
 
 - **Sources:** CAVE Battles: Gliva (300 words for 1), Olanat (1100 words for 3-4), Sakot (1000 words for 2-3), Kohej (2000 words for 4-5), Letos (700 words for 1-2), Gormist (1667 words for 3-4), Vafire (500 words for 1), Ulos (650 words for 0-1, 1 with enough Luck), Attwo (1500 words for 2)
@@ -162,7 +168,7 @@ WATER
 
 ### Claws
 
-- **Source:** FOREST, DESERT,
+- **Source:** FOREST, Shrine,
   - CAVE Battles: Sakot (1000 words for 2-3), Attwo (1500 words for 2-4)
 - **Sell price:** 4 Coins (don't sell unless you have >300)
 - **Used for:** FOREST, DESERT
@@ -616,7 +622,7 @@ Opens Golden Chest in 3PC's Item Bazaar/Zilya's Great Bazaar.
 
 ### Leather Roll
 
-- **Sources:** WATER
+- **Sources:** WATER, Shrine,
   - Post-DFO Balance Battle: Spirit Castu (550 words for 2)
   - CAVE Battles: Tacin (150 words for 0-1), Ulos (650 words for 1-2), Spina (450 words for 1)
 - **Sell price:** 60 Coins (probably best to keep 200 in stock, otherwise great source of Coins)
@@ -801,7 +807,7 @@ FOREST EXPEDITION ONLY
 
 ### Reenu Wings
 
-- **Sources:** FOREST, 
+- **Sources:** FOREST, Shrine,
   - DFO Battles: Belasi (200 words for 1)
 - **Sell price:** 8 Coins (only sell if you have >100)
 - **Used for:** FOREST, DESERT, WATER,
@@ -884,7 +890,7 @@ Note: Must complete the DFO Quest Reinforced Ardi Lamp Station to unlock the abi
 
 ### River Key
 
-- **Sources:** WATER
+- **Sources:** WATER, Shrine
 - **Sell price:** 25 Coins (… I'm going to depart from my refrain and say "don't sell unless you have completed all side quests and reserve a key for every River Chest plus an additional 20 for buffer". I keep selling off extra River Keys and I still end up with 50 River Keys and no Chests. Hopefully this changes soon.)
 - **Used for:** WATER
 
@@ -996,7 +1002,7 @@ DESERT EXPEDITION ONLY
 
 ### Spider Legs
 
-- **Sources:** FOREST, DESERT,
+- **Sources:** FOREST, Shrine,
   - PG Battle: Oncara (900 words for 2)
 - **Sell price:** 4 Coins (Don't sell unless you have >50)
 - **Used for:** FOREST, DESERT
@@ -1202,6 +1208,18 @@ The game usually simply calls this **Stone**. I like to make sure I'm distinguis
 - **Source:** WATER
 - **Sell price:** 100 Coins (Don't sell unless you have >20 Torches AND >25 Luck)
 - **Used for:** WATER
+
+### Upgraded Steel Fishing Rod
+
+- **Sources:** DESERT, WATER
+- **Sell:** 250 Coins (why do you have extra to sell, they're so expensive? Well, if you do, you only need the one...)
+- **Used for:** DESERT, WATER
+
+### Upgraded Wooden Fishing Rod
+
+- **Sources:** FOREST, DESERT, WATER 
+- **Sell price:** 100 Coins (why do you have extra to sell, they're so expensive? Well, if you do, you only need the one...)
+- **Used for:** FOREST, DESERT, WATER
 
 ### Vezi Shell
 

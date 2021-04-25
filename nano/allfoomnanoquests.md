@@ -1,4 +1,42 @@
-LAST UPDATED 17 APR 2021
+LAST UPDATED 24 APR 2021
+
+## All Quests: Global
+
+###Gratitude Journal Oge-Mai Edition
+
+- **Location:** Global
+- **Unlocked by:** April 21st Event Drop
+- **Type:** Streak, Forum
+- **Requirements:** Attain a 44-day Streak, have 4 Forum posts
+- **Rewards:** 10 Core Crystals and 44 Reactions: Gratitude
+- **Recommendations:**  Anything that gets Crystals is a priority in my book - and if you participate in the Gratitude Journal Oge Mai Edition thread, you're getting a chance at a lot more (and participating in a lovely tradition). Here's the thread: https://4thewords.com/forum/thread/gratitude-journal-oge-mai-edition
+
+###2B or Not 2B? 1/3
+
+- **Location:** Global
+- **Unlocked by:** April 23rd Two Billion Word Celebration
+- **Type:** Battle
+- **Requirements:** Defeat 5 Paper Wignow
+- **Rewards:** 5 Festival Tokens and Wardrobe: Paper Shoes https://4thewords.com/media/wardrobe/featured/male/wm&#95;1690-paper-shoes-12429-31350.png
+- **Recommendations:**  I recommend prioritizing this solely because the Paper Shoes are the legacy item for this event and this is a more efficient way to get those items. (The rest of the quest chain is probably worth prioritizing just because you get nice souvenirs that way.) Besides, you'll want to be able to say that you participated in the 2 Billion Words event as it happened.
+
+###2B or Not 2B? 2/3
+
+- **Location:** Global
+- **Unlocked by:** 2B or Not 2B? 1/3
+- **Type:** Battle
+- **Requirements:** Defeat 10 Paper Wignow
+- **Rewards:** 10 Festival Tokens and Wardrobe x2: Paper Shorts https://4thewords.com/media/wardrobe/featured/male/wm&#95;1689-paper-shorts-12427-90647.png and Paper Skirt https://4thewords.com/media/wardrobe/featured/male/wm&#95;1688-paper-skirt-12425-88618.png
+- **Recommendations:**  I'm really not sure why you wouldn't try to finish off this quest chain. It's fun!
+
+###2B or Not 2B? 3/3
+
+- **Location:** Global
+- **Unlocked by:** 2B or Not 2B? 2/3
+- **Type:** Battle
+- **Requirements:** Defeat 15 Paper Wignow
+- **Rewards:** 15 Festival Tokens, Wardrobe: Paper Cloak https://4thewords.com/media/wardrobe/featured/male/wm&#95;1691-paper-cloak-12431-34768.png and House Item: Paper Pile https://4thewords.com/public/hideouts/hideout&#95;element&#95;450&#95;18931/variant&#95;icon&#95;2202&#95;911.png 
+- **Recommendations:**  So, the Paper Pile is the first prize in this chain that has multiple variants - the image I captured is the messiest paper pile, while others are tamer. Still a lot of fun, and more importantly, Paper Wignows are too fun not to complete all their quests.
 
 ##All Quests: Forest Region Meeting Ground
 

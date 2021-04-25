@@ -1,10 +1,10 @@
-LAST UPDATED 16 FEB 2021
+LAST UPDATED 21 APR 2021
 
 I could make this list Mama Tree-only, but why bother when Luciola Forest is a quick hop away? LF is for Luciola Forest, MT for Mama Tree, HuntS1 is for Luciola Forest Hunt for the Ancients, and hopefully all else will be self-explanatory.
 
 ### Core Crystals
 
-These are special resources. They can be bought with actual real-world currency through PayPal, and are chiefly used to purchase subscription time, Wardrobe items, or Stempos (I'll discuss Stempos and their use when they pop up in-game, in the third region.)
+These are special resources. They can be bought with actual real-world currency through PayPal, and are chiefly used to purchase subscription time, Wardrobe items, or Stempos (I'll discuss Stempos and their use when they pop up regularly in-game, in the third region.)
 
 - **Best sources:** Buy 'em outright. You won't get many any other way.
 - **Other sources:** 
@@ -557,6 +557,14 @@ For later game. DO NOT SELL.
 - **Used for:** later game,
   - Craft MT: Protected Leaf Helmet (1)
   - MT Quest: Inking By Number 2/5 (3)
+
+### Upgraded Wooden Fishing Rod
+
+- **Sources:** Buy, Craft
+- **Buy:** 500 Coins in LF Item Shop/Alex's Shop
+- **Craft:** LF Crafts & Trinkets/Kyiat's Shop 10 Wood, 10 Rope, 150 Coins
+- **Sell price:** 100 Coins (why do you have extra to sell, they're so expensive? Well, if you do, you only need the one...)
+- **Used for:** LF Battles: Puna (need 1 in inventory, infinitely reusable)
 
 ### Vine Net
 

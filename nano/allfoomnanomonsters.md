@@ -1,8 +1,19 @@
-LAST UPDATED 17 APR 2021
+LAST UPDATED 24 APR 2021
 
 Reiterating what I said in the New Monsters area: This event is unusual in that new monsters are scarce; most of the monsters are perfectly available in the regular game. I'm going to count anything that's newly dropping Festival Tokens as "new" for these purposes, though, and if it's not EVENT EXCLUSIVE, I'll leave a note to tell you where else to look.
 
 Whether a monster is in an event space or its regular home, it will have the same stats. **The only real difference between this and my regular Guide entries for most of these monsters is that I'm only listing event-relevant quests, and Token drops are included.**
+
+## All Monsters: Global
+
+###Paper Wignow - EVENT EXCLUSIVE
+
+- **Location:** Global
+- **Requirements:** 100 words
+- **Time allowed:** 15 minutes
+- **XP:** 10
+- **Drops:** 1 Festival Token, 4 Coins, 0-1 Essence (usually 1)
+- **Quests:** Global: 2B or Not 2B? 1/3 (5), 2B or Not 2B? 2/3 (10), 2B or Not 2B? 3/3 (15)
 
 ## All Monsters: Forest Region Meeting Ground
 

@@ -1,26 +1,12 @@
-## Monsters
-
-### Buhini
-
-Requirements:  150 words, existing 2-day Streak, & possess 1 Buhini Flute (infinitely reusable)
-
-### Furoxi
-
-**Requirements:** 400 words & possess 1 Upgraded Steel Fishing Rod (infinitely reusable)
-
-### Puna
-
-**Requirements:** 150 words & possess 1 Upgraded Wooden Fishing Rod (infinitely reusable)
-
 ##Resources
 
 - **Coins:** 
-- Source: ShrineDucks Battle: Idaa (400 words for 25)
 - Used for: 
   - Craft LF: Upgraded Wooden Fishing Rod (150)
   - Craft TT: Buhini Flute (25)
   - Craft Gansu: Upgraded Wooden Fishing Rod (50), Upgraded Steel Fishing Rod (100)
   - Craft Balance: Upgraded Wooden Fishing Rod (50), Upgraded Steel Fishing Rod (100)
+- NOT DUST**Algae:** Source: Puna (150 words & possess 1 Upgraded Wooden Fishing Rod for 0-1), Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 1)
 
 ### Buhini Flute
 
@@ -30,23 +16,34 @@ Requirements:  150 words, existing 2-day Streak, & possess 1 Buhini Flute (infin
 - **Sell price:** 50 Coins (why do you have extra to sell, they're so expensive? Well, if you do, you only need the one...)
 - **Used for:** FOREST: TT Battles: Buhini (need 1 in inventory, infinitely reusable)
 
+#### Claws - not available in Desert, rather Shrine
 
-
-- **Feathers:** Used for: Craft TT: Buhini Flute (3)
-- **Gold Bar:** Used for: 
-  - Craft Gansu: Upgraded Steel Fishing Rod (1
+- FOREST **Dust:** **Source:** Buhini (150 words, 2-day Streak & possess 1 Buhini Flute for 1)
+- FOREST **Feathers:** Used for: Craft TT: Buhini Flute (3)
+- DESERT WATER**Gold Bar:** Used for: 
+  - Craft Gansu: Upgraded Steel Fishing Rod (1)
   - Craft Balance: Upgraded Steel Fishing Rod (1)
-- **Nezthai Claws**: **NOT USED FOR** Buhini Battles,
+- **Leather Roll** - not available in Desert, rather Shrine
+- FOREST **Leaves:** **Source:** Buhini (150 words, 2-day Streak & possess 1 Buhini Flute for 1-2)
+- FOREST **Nezthai Claws**: **NOT USED FOR** Buhini Battles,
   - Used for: Craft TT: Buhini Flute (5)
-- **Raw Steel:** **NOT USED FOR** Steel Fishing Rods
-- **Raw Stone:** **NOT USED FOR** Wooden Fishing Rods
-- **Reinforced Rope:** Source: HuntS3 Quest: Where Life Flows (10)
-- **River Grass:** **NOT USED FOR** Steel Fishing Rods
-- **Rope:** **NOT USED FOR** Wooden Fishing Rods; **Used For:** 
+- DESERT WATER**Raw Steel:** **NOT USED FOR** Steel Fishing Rods
+- FOREST DESERT WATER**Raw Stone:** **NOT USED FOR** Wooden Fishing Rods
+- **Reenu Wings** - not available in Desert, rather Shrine
+- WATER **Reinforced Rope:** Source: HuntS3 Quest: Where Life Flows (10)
+- FOREST DESERT WATER**River Grass:** 
+  - **Source:** Puna (150 words & 1 Upgraded Wooden Fishing Rod for 1), Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 0-1)
+  - **NOT USED FOR** Steel Fishing Rods
+- **River Key** - not available in Desert, rather Shrine
+- DESERT WATER**River Stone:** **Source:** Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 0-1)
+- DESERT WATER**River Water:** **Source:** Furoxi (400 words & possess 1 Upgraded Steel Fishing Rod for 0-1)
+- FOREST DESERT WATER**Rope:** **NOT USED FOR** Wooden Fishing Rods; **Used For:** 
   - Craft LF: Upgraded Wooden Fishing Rod (10)
   - Craft Gansu: Upgraded Wooden Fishing Rod (10), Upgraded Steel Fishing Rod (20)
   - Craft Balance: Upgraded Wooden Fishing Rod (10), Upgraded Steel Fishing Rod (20)
-- **Steel Bar:** Used for:
+- **Shrine deets**
+- **Spider Legs** available in Shrine not Desert
+- DESERT WATER**Steel Bar:** Used for:
   - Craft Gansu: Upgraded Wooden Fishing Rod (1), Upgraded Steel Fishing Rod (5)
   - Craft Balance: Upgraded Wooden Fishing Rod (1), Upgraded Steel Fishing Rod (5)
 
@@ -75,7 +72,7 @@ FOREST, DESERT, WATER
 
 
 
-#### **Wood:** 
+#### FOREST DESERT WATER**Wood:** 
 
 **NOT USED FOR** Wooden Fishing Rods; **Used For:** 
 

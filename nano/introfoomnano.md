@@ -1,4 +1,4 @@
-LAST UPDATED 17 APR 2021
+LAST UPDATED 24 APR 2021
 
 Welcome to the Festival of Oge-Mai! Or as I'm calling it in my notes, FoOM. As in, FOOM! We're off!
 
@@ -15,5 +15,7 @@ Event Milestones:
 - Sat 10 Apr: Torkan arrives, along with the quests Trouble With Torkan 1/2 and 2/2.
 - Tues 13 Apr: Water Region Meeting Ground becomes available, with Caricaco, Castu, Furoxi, Jaihri, Puna, and Tiatu (new for the event) immediately available, with Patliadu unlocked by one of the 9 quests chained.
 - Sat 17 Apr: Buhini join the Forest Region Meeting Ground, Rea & Pira join the Water Region Meeting Ground, and Majal and Paol debut at the Water Region Meeting Ground for their first-ever appearance. We also get the quests Gusts of Air in the Forest and Rea & Pira's Challenge parts 1 and 2 in Water.
+- Wed 21 Apr: The Gratitude Journal quest becomes available as a Global Quest.
+- Fri 23 Apr: 2 Billion Words celebration starts, introducing Paper Wignow and three quests
 
 And now! What's new!
