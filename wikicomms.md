@@ -47,3 +47,11 @@
 - **Requirements:** Attain 7-day Streak, deliver 100 Algae and 100 River Grass
 - **Rewards:** Wardrobe: Riza Armor Chest https://4thewords.com/media/wardrobe/featured/female/wf_1460-riza-armor-chest-9933-50758.png
 
+###Fighting Yields Answers 5/5
+
+- **Unlocked by:** Swimming Yields Answers 4/5
+- **Type:** Battle
+- **Requirements:** Defeat 15 Osaril and 15 Yala
+- **Rewards:** Wardrobe: Riza Armor Hood, two variants: 
+  - with mask: https://4thewords.com/media/wardrobe/featured/female/wf_1477-riza-armor-hood-9999-45024.png
+  - without mask: https://4thewords.com/media/wardrobe/featured/female/wf_1477-riza-armor-hood-10001-72955.png
